@@ -77,6 +77,7 @@
       insideVisibleOverflowTooltip ||= isVisibleOverflowTooltip(element);
       if (
         skipTags.has(element.tagName)
+        || element.hasAttribute('data-aihero-translation-ignore')
         || element.hidden
         || (element.getAttribute('aria-hidden') === 'true' && !insideVisibleOverflowTooltip)
       ) {

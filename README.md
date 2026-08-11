@@ -205,6 +205,7 @@ AIHERO_ZH_HOST=0.0.0.0
 AIHERO_PAGE_MODE=snapshot
 AIHERO_ALLOW_ORIGIN_POST=1
 AIHERO_ORIGIN=https://www.aihero.dev
+AIHERO_ZH_REPOSITORY=https://github.com/xxxily/aihero-zh
 ```
 
 部署时必须保留仓库中的 `content/cache/html`、`content/cache/meta`、`content/source` 和 `content/translations`。`content/cache/assets` 不进入 Git，可由运行中的服务按需重新缓存。

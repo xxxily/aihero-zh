@@ -9,6 +9,7 @@ test('injects translation runtime and rewrites same-origin links', () => {
   assert.match(result, /translation-runtime\.js/);
   assert.match(result, /href="\/skills"/);
   assert.match(result, /data-aihero-zh/);
+  assert.ok(result.includes('"repository":"https://github.com/xxxily/aihero-zh"'));
   assert.doesNotMatch(result, /cfy-skills\.user\.js/);
 });
 

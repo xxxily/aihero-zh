@@ -18,6 +18,113 @@ html[data-aihero-zh] [data-aihero-translated="true"] {
   letter-spacing: 0;
 }
 
+/* Small source links live in the existing header rhythm; they do not replace
+ * or reorder any upstream navigation item. */
+html[data-aihero-zh] header[data-aihero-community-header] > [data-aihero-community-links] {
+  align-items: center;
+  display: flex;
+  flex-shrink: 0;
+  gap: 2px;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+html[data-aihero-zh] [data-aihero-community-links] a {
+  border-radius: 6px;
+  color: var(--ah-fg-muted, var(--muted-foreground));
+  display: inline-flex;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1;
+  padding: 7px 6px;
+  text-decoration: none;
+  transition: color 160ms ease, background-color 160ms ease;
+}
+
+html[data-aihero-zh] [data-aihero-community-links] a:hover {
+  background: color-mix(in srgb, var(--foreground) 6%, transparent);
+  color: var(--foreground);
+}
+
+html[data-aihero-zh] [data-aihero-community-links] span {
+  color: var(--border);
+  font-size: 12px;
+  user-select: none;
+}
+
+html[data-aihero-zh] [data-aihero-community-top-links] {
+  align-items: center;
+  display: none;
+  gap: 10px;
+  height: 34px;
+  position: absolute;
+  right: 14px;
+  top: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+
+html[data-aihero-zh] [data-aihero-community-top-links] a {
+  color: var(--ah-fg-subtle, var(--muted-foreground));
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration: none;
+}
+
+html[data-aihero-zh] [data-aihero-community-top-links] a:hover {
+  color: var(--foreground);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+html[data-aihero-zh] header[data-aihero-community-header] > nav[aria-label="User navigation"] {
+  margin-left: 0 !important;
+}
+
+html[data-aihero-zh] [data-aihero-community-notice] {
+  align-items: center;
+  border-top: 1px solid var(--border);
+  color: var(--ah-fg-faint, var(--muted-foreground));
+  display: flex;
+  font-size: 11.5px;
+  gap: 16px;
+  justify-content: space-between;
+  line-height: 1.55;
+  padding: 14px 18px 18px;
+}
+
+html[data-aihero-zh] [data-aihero-community-notice] p {
+  margin: 0;
+  max-width: 70ch;
+}
+
+html[data-aihero-zh] [data-aihero-community-notice] nav {
+  align-items: center;
+  display: flex;
+  flex-shrink: 0;
+  gap: 12px;
+  white-space: nowrap;
+}
+
+html[data-aihero-zh] [data-aihero-community-notice] a {
+  color: var(--ah-fg-subtle, var(--muted-foreground));
+  text-decoration: none;
+  transition: color 160ms ease;
+}
+
+html[data-aihero-zh] [data-aihero-community-notice] a:hover {
+  color: var(--foreground);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+html[data-aihero-zh] [data-aihero-community-notice] a:focus-visible,
+html[data-aihero-zh] [data-aihero-community-links] a:focus-visible {
+  outline: 2px solid var(--ring, var(--foreground));
+  outline-offset: 2px;
+}
+
 /*
  * Preserve the current page while a same-origin document navigation prepares
  * the translated destination. Modern Chromium uses this as the full-load
@@ -82,6 +189,32 @@ html[data-aihero-zh-navigation="complete"] > [data-aihero-route-progress] {
 @media (max-width: 767px) {
   html[data-aihero-zh] :is(h1, h2, h3) {
     text-wrap: balance;
+  }
+
+  html[data-aihero-zh] header[data-aihero-community-header] > [data-aihero-community-links] {
+    display: none;
+  }
+
+  html[data-aihero-zh] [data-aihero-community-top-links] {
+    display: flex;
+  }
+
+  html[data-aihero-zh] [data-aihero-community-notice] {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 6px;
+    padding-bottom: 22px;
+  }
+}
+
+@media (max-width: 380px) {
+  html[data-aihero-zh] [data-aihero-community-top-links] {
+    gap: 7px;
+    right: 9px;
+  }
+
+  html[data-aihero-zh] [data-aihero-community-top-links] a {
+    font-size: 10.5px;
   }
 }
 

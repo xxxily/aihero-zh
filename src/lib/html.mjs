@@ -2,6 +2,7 @@ import {
   HYDRATION_DELAY_MS,
   PAINT_SETTLE_MS,
   PAINT_TIMEOUT_MS,
+  COMMUNITY_REPOSITORY,
   isSkillsRoute,
   ORIGIN,
 } from '../config.mjs';
@@ -202,6 +203,7 @@ export const injectHtml = (html, { pathname, requestUrl, dictionary = {}, server
     route: pathname,
     source: requestUrl,
     origin: ORIGIN,
+    repository: COMMUNITY_REPOSITORY,
     skillsVendor: isSkillsRoute(pathname),
     serverRendered: serverTranslate,
     hydrationDelayMs: HYDRATION_DELAY_MS,

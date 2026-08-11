@@ -10,6 +10,7 @@ export const VENDOR_ROOT = path.join(ROOT, 'vendor');
 export const CACHE_ROOT = path.join(ROOT, process.env.AIHERO_CACHE_DIR || 'content/cache');
 export const ASSET_CACHE_ROOT = path.join(ROOT, process.env.AIHERO_ASSET_CACHE_DIR || 'content/cache/assets');
 export const ORIGIN = process.env.AIHERO_ORIGIN || 'https://www.aihero.dev';
+export const COMMUNITY_REPOSITORY = process.env.AIHERO_ZH_REPOSITORY || 'https://github.com/xxxily/aihero-zh';
 export const HOST = process.env.AIHERO_ZH_HOST || process.env.HOST || '127.0.0.1';
 export const PORT = Number(process.env.AIHERO_ZH_PORT || process.env.PORT || 4173);
 export const ALLOW_ORIGIN_POST = process.env.AIHERO_ALLOW_ORIGIN_POST !== '0';
