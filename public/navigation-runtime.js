@@ -91,7 +91,6 @@
     }
     header.setAttribute('data-aihero-community-header', '');
     communityHeader = group;
-    updateSourceLinks();
     return true;
   };
 
@@ -111,7 +110,6 @@
       announcement.append(group);
     }
     communityTop = group;
-    updateSourceLinks();
     return true;
   };
 
@@ -135,15 +133,15 @@
       footer.append(notice);
     }
     communityFooter = notice;
-    updateSourceLinks();
     return true;
   };
 
   const mountCommunityChrome = () => {
-    mountCommunityHeader();
-    mountCommunityTop();
-    mountCommunityFooter();
-    return Boolean(communityHeader || communityTop || communityFooter);
+    const headerMounted = mountCommunityHeader();
+    const topMounted = mountCommunityTop();
+    const footerMounted = mountCommunityFooter();
+    updateSourceLinks();
+    return headerMounted || topMounted || footerMounted;
   };
 
   const scheduleCommunityMount = () => {
