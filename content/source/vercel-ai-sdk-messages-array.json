@@ -1,0 +1,663 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/vercel-ai-sdk-messages-array",
+  "pathname": "/vercel-ai-sdk-messages-array",
+  "fetchedAt": "2026-08-11T06:28:23.437Z",
+  "title": "Working With Message Histories In Vercel's AI SDK",
+  "contentHash": "5580959050f53a20bc9f00fa1ac952f80f6838c52e5ae1cdf11fd39026801c47",
+  "textHash": "c46325447047a6f3454e712a257e9be1b0832b27a44494256c91a60c143d333e",
+  "strings": [
+    {
+      "id": "c139a387952928c19e92af16522b0317f3ef0bea31ff0166192750774e8297b0",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "75676011c46ffd51884d170762b785e989cc1fcb964a3eaa0737769c8ff0c7ea",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a43ade2a7c606b40cd3bdf7af6bfa58d1522b796b7ea31edefe5bdc4b8394302",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f6228d026754a4e8ab87e3399473a2c092f4b8c125bd78ff33713f007b735a50",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "1f4f2745ea02d88bbdc9f63285285420cf4daa099bf4f2b2cc7770e13d26ee7b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "4730a40317359bf16dee96e8d713150a5106b56c67a7dbde4ea2727f12375afc",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "81f54821282ac806e8b6b22367be7d74c86c776ee50dfef7cb883ed5381fef25",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "04522550e5acf4919b157031576a0c55a35f95b5ef227093e956b259464d4aca",
+      "text": "What Is Vercel's AI SDK?",
+      "hash": "1f210434178eaa98b25c4c6b455fa5973f854a1181e1fab9d10a8ce725bed88d"
+    },
+    {
+      "id": "86eaccdeeeef7b0a3b266014203cd7e5be82503252c1927571a153ba8940dbbd",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "14ac59208c6eb3568be1fc140648fc976c5432b1dc784a89ae803e9a8a5e281b",
+      "text": "Streaming Text With Vercel's AI SDK",
+      "hash": "c8834e359f3b28f367c74e589c38e2bf98f323e4f89d4e707b88ecc0e812b58c"
+    },
+    {
+      "id": "9986b1df8c758c91e38e1ddfbe2d299f559541da0a4c7f32d4865ba6cba8b762",
+      "text": "Adding System Prompts With Vercel's AI SDK",
+      "hash": "c1856791eb8a9cefc3c85784d7e7865a4fbe03b8e4ce9097e30b44c8382bc0b5"
+    },
+    {
+      "id": "fb2eeed98981eac8ce01d4d2138d853494ecc0ed47744b466cff89899234aa00",
+      "text": "Hot-Swap AI Models With Vercel's AI SDK",
+      "hash": "a2e60e88e6b98f280400b6a6e1ae57cc56e04a4487923179fafbc1691daeaf88"
+    },
+    {
+      "id": "7491255636437c1cef634b94883fa446bba347e960b82e0ed8dd5871ed3e976b",
+      "text": "Working With Message Histories In Vercel's AI SDK",
+      "hash": "6836bf9b5242f2374260cc952dcfc713c5b9049e92673765730b88183fcca9b5"
+    },
+    {
+      "id": "6a5d0f7ac0a351f9ac9e1a84d6eec8914f9fbf7143e4f51676730048367b5bd3",
+      "text": "Use Local Models With Vercel's AI SDK",
+      "hash": "2f23462b857b3e2c9ff00eb7cc7ee290ae7b503bf5da369108fbf7f208a2ffee"
+    },
+    {
+      "id": "0ba3a06564e2cba38a4a859fbd6420087d1db54ea6338f61869b33572405fa28",
+      "text": "Structured Outputs with Vercel's AI SDK",
+      "hash": "ee7eb24d53c4be13cfa8480df0adaba3c76bfea676d6937956456cfe1938156a"
+    },
+    {
+      "id": "d679ee39c778c52785c19167a9de7a917f358ac22a286cc1f49505e4640ee00c",
+      "text": "Streaming Objects With Vercel's AI SDK",
+      "hash": "dbfc1631aa468169f64909580711d47efe5fbd6c1a8dc7f96f24d8f312775b76"
+    },
+    {
+      "id": "dcaf1e2cf96c1746bedad423d2a2bfd6f2d58f9bf0da02f13ff66f5ebe9d176f",
+      "text": "Generate Enums With Vercel's AI SDK",
+      "hash": "0c0888498e8f0728d68d768a855caaaf0407c72679e31a43781b058c580bfd30"
+    },
+    {
+      "id": "9291448146ed02f6a91fc28d17d4e4111a31006f3cefd1ad487f1de6969db0bc",
+      "text": "Generate Arrays With Vercel's AI SDK",
+      "hash": "966b534831ed3ab632d0d4d6fdbac9f5574b7b021619463331f1a040103c3434"
+    },
+    {
+      "id": "69f3beaaaaeed744afb82fb2da602bd44169439ab7781f6c82e9f8ee76c1f084",
+      "text": "Build an Alt Text Generator With Vercel's AI SDK",
+      "hash": "e469cbd9ec4e26ff6b524e07b410ae85b176eee38375c531752024cbdb92388e"
+    },
+    {
+      "id": "af651f90f86053fd5b9fef46315e6a269d3d41e7fa6df5d4ef2412a2f4fa3e92",
+      "text": "Extract Structured Data From PDF's With Vercel's AI SDK",
+      "hash": "270c0886bdbd409901a9bb1d21cbe52e0e4e6504f3b17a0def44e8e729d3846d"
+    },
+    {
+      "id": "a3616eb46a85c43f65f295745df591ebfb04dc92a7f99f17510ae6af4eb2ca3f",
+      "text": "Create Embeddings With Vercel's AI SDK",
+      "hash": "204fae433156e6ac042fc80217c5e8a91fd4e1501d92da5949fad8c62334d1e9"
+    },
+    {
+      "id": "64685492e4ac86f2efcc0c778e9b2e57dfdb44cfeb36ed18872d156a1bf93c8a",
+      "text": "Tool Calling With Vercel's AI SDK",
+      "hash": "90485e2aae316ee7132e932b405c5b1a63f0786e824e08689a3f78e4846c2d13"
+    },
+    {
+      "id": "4f75c2cc5cffaac45978b87d98ece6b617b7ef9bb9132741851a773f96f7bf81",
+      "text": "Build Your First Agent With Vercel's AI SDK",
+      "hash": "52e11d029211f26b4245ca878765b7530ded3b5475536900eefe472e424a5f44"
+    },
+    {
+      "id": "cd7558066a065a983033342d48f964d08884b372437ee1181dad75fba21b66df",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "57010c5cf73d2ee52eb9876faa5451c4f645618e89bd1282eac39002ae6f1cdf",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "c8425f81bf95afbc93d0013bbcb9798d86920080b7ef338a0f36183887d78eb2",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "793637afb4637b7d74c59616b266596fcc3f2678b7c7cd9f921782574d1b879e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "061b454c8336307383e97fe8d9f868c21018f2d06024affcfbce8be69957369c",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "21f718087b8670058a4db21064d96f44301eb60c16ccf4de6bf70e00e76aa2c2",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0b8faadde6a0e965e516713bcf94174e7f70b0f9d2e1f35784c741e6a5f0a657",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "4047b892d3840c8b5bcd3f7068cc2e3bfb24e7ee0ba4d11f6a6ee6d014e18640",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "7e8116835743796d9b4807261e58b7beed3549cfc2c832dacf1ab3b24d5f54e0",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "76bbfc711653ee7dc9978505b926afb08acb5f4f63b05dcff2f9d8b5b78771fc",
+      "text": "06 / 16",
+      "hash": "ec5561b60777a1f112c69c6007ab1946d443955c8756de9e3fb35e3d09edc2ba"
+    },
+    {
+      "id": "11042b57cdf26dac77cee1c16b48e2429d2bd80dde716bc4854d8efdbf1c56c8",
+      "text": "Learn how to manage conversation history in AI chatbots using Vercel AI SDK's CoreMessage array. A practical guide with TypeScript examples.",
+      "hash": "479c992b3ca7d14432b03786054bae3ea591fac235f0f3c513e391d5db4a450d"
+    },
+    {
+      "id": "4cb7f914e4c9f603669efe5836abf390ea0075f0a8023c1933d4470af359b77d",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "5ec52c7b55c58978ee481bf428278311cb6940bf980d97c977ed77ebe6eb4774",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "fc24cd855b8a81331e1c2a841ee21326777afa04663ae3c8e1d606c08d995235",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "e726812ecfb0365eeb6955ab9915eacdf047cf5c6e64c88db90a1dcb772905fc",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "9474fd46b01ebdc869b0fd26473655d42d3ecd6bcc4ffd66089346c03f9ba6f1",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "29c7e34be2622f050ec492eff2bf878da8bc96621b9e2e4a52879c51f096f4ef",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "d456b96ca98836f229650899729080411368ad4e22dccaf04e7d3670c8af7c3e",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "e4f9d0d0703acb9abfcac43ee03c4bee0fb041210efa49e1f45171bd4d26b999",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "9ffcbf123d8d70165e8886096902d2976f3b2277b3a20bd440c6801d7bfcb8ec",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "6270604210ad478b4fa19129d3ab3f7d934dc1fb35666f48496fcca390aaf456",
+      "text": "Setting Up A Server",
+      "hash": "fb51ce6ca8fcc6e0472f4e2dbf4bad2b94422bb0452ddf6ee279e6abbf4e1a49"
+    },
+    {
+      "id": "1f520fc38ca747c89baa6b8902abb4c66f8caccbfb25114bd66cbef65cfc5eb5",
+      "text": "Calling Our Server",
+      "hash": "45eefca6880dcad3ae10d28187ddadb0b1cd98599d496bc5821da043808029c0"
+    },
+    {
+      "id": "ef835b4205015ab39b939b45546161059661f4eca90ca6f18010e320a79577b9",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "2a657a4543563bd01b5c3c7890a503e807e95b8fde3f04a4e60fedb06f37037a",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "1c228442b9ef9df77a16d1c9b3f7b1ebbc0af90407d698f74e735a0408662b56",
+      "text": "It's pretty common if you're building any kind of chat bot to want to keep track of the conversation history.",
+      "hash": "3e3fb7a7c7fcad8641930d9d0e8074a5c35ab69af2c5bb9bfddb6a61ad5c122d"
+    },
+    {
+      "id": "c009d73088f8d70b3013586f84f76e4ee4b2d0fa7d70b1413b1def544c60a89c",
+      "text": "This is so the LLM has context over the conversation you've already had.",
+      "hash": "01a7e5ae8b71d1c8fde95ddee28391d1b5df718b893bb5a34a66ab78dba2fb24"
+    },
+    {
+      "id": "ae8bd48af9bfecd649d4e4ba9353bc0c005359818640244c8cf01f18715672e6",
+      "text": "So you can ask follow-up questions without having to rephrase your question every time.",
+      "hash": "562a2bfd6a1f0e3d332aee4d7305058a02fcddbede33c411c7765a1b35f660f8"
+    },
+    {
+      "id": "a39e430504d70f14d3a6a6e89423ff9b71f2570ea284c6e5af4ff459698507d3",
+      "text": "Not only that, but understanding how conversations are persisted is really important for communicating with the LLM over the wire.",
+      "hash": "2c9d28ade8ecc1ef46c246f53d5d274f253f1f280c212a7b52726da1f8fc30ef"
+    },
+    {
+      "id": "be887392e51cf0777da33d9e29fcc6e60ffeadea076fe51c020aa7e54eee1fcd",
+      "text": "We're going to show how to do that with the Vercel AI SDK in this example.",
+      "hash": "f6960ff9d6223b101bfa4ffa8257edad7b61f0ed5cad3d9c806bcafd31776964"
+    },
+    {
+      "id": "b9e40cfb024af7464e4dfb0cdaf116cfddb44032fbe981229c5326d7c9109b05",
+      "text": "Let's start by understanding the shape of what a conversation history might look like.",
+      "hash": "aaf1e576bc6b115bca497c2a628a1b901b1022813eb3ee9fcdd6669ecfec1856"
+    },
+    {
+      "id": "59ec5f8d056fad072cfdc38c3cfc9f9347b84c7c469a0ab184bf3618ca8eb7e4",
+      "text": "The AI SDK exposes a type called",
+      "hash": "21e317d164b16b888631f9c6f12f4c9fbd87badd36498efafd38be21bb55e743"
+    },
+    {
+      "id": "5ea2db499e9c8255200f07c5c036fd45f549e2acdc32c8e09653e2798786f27d",
+      "text": ". This is an object that represents a message in a conversation.",
+      "hash": "d8ee31a235e9f9d9a427ebfbc7f18f5e7a13a2607caf70d2956d10e68a5c1989"
+    },
+    {
+      "id": "5b7ca824a2e6c3844131423f831a0fc5454cfa0d1c1ea93d79f8ca6a1c2fb306",
+      "text": "If we understand this type we'll understand a conversation history - I promise.",
+      "hash": "db19639d9a041791824e94f88210bec6203f9c5e465f38e973b975981e562e15"
+    },
+    {
+      "id": "efa63bcd9d0b97049064e32fe4f685a7a308d694351c10a3b33498186f4a7837",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "e5b5ec09142165f4e3b17d690486f8c2d691206095dcfc2b9ede6252af7a47e0",
+      "text": "Let's try messing about with it to see what it contains. Let's create a messages array, assigning it the type of an array of core messages.",
+      "hash": "bef381e2f69a8c4756cd0915e221737bbf10f39b6fa9b3677d9771610bb07d64"
+    },
+    {
+      "id": "c37dd5891b8134ca65f2ebdae4869d00a0d66cd4b53f30ebeb1060bcd543e439",
+      "text": "Every message has to contain a role property. This is a string that can be user, system, assistant or tool.",
+      "hash": "4633d6827acdbf5472bc2b6767c14ab097f41e36bd9632219b52455f3bd4ac9c"
+    },
+    {
+      "id": "590cf96806bea09b39830a2cff3d1b1350a0ad13acd74d84f19bd05f706f1298",
+      "text": "Each message must also contain a",
+      "hash": "ebf9bbce73e46503763747c0bb236925d07962bb7112d2fc2e487b181eabb80d"
+    },
+    {
+      "id": "2e085a8024f9c4970550b4a88944a8c931e40155ee001be72de98c2721e7a662",
+      "text": "property - this is the content of the message.",
+      "hash": "b1431eb10d8fda0ad16d6d88d8b23239cded63ca68fcf2161a2dd2bb63767b8a"
+    },
+    {
+      "id": "a8307690323b19dd0817db2bf98f45f42195a2eb92ef3bfde9054685b0f12ea9",
+      "text": "In this example, the conversation history contains a single message from the user saying \"Hello, you!\".",
+      "hash": "666fe1b1688d5fbd66a17ea9e60e1dc9e3fc8dc3e49d3a69c0aaaa5c401d6f71"
+    },
+    {
+      "id": "397bf0937c12ae4e2a398cc2e19bc7dcd4e213e4ae37c3a7be498455eca03055",
+      "text": "To represent the LLM replying, we use the \"assistant\" role:",
+      "hash": "1d716febcb5d94f00e8560ba6e24dd1980aa4d0b5ab93500524daf2af7b18b35"
+    },
+    {
+      "id": "721c52290041c737b1904188ce83b02e02e580ce08fc6a88141de0ea81f54ee5",
+      "text": "We had a brief look at system prompts earlier. They're represented in the message history with a role of",
+      "hash": "5287dcc8831a7b0882f8f60efca20b0cb552ef95f74cc72f72b13c27ee614542"
+    },
+    {
+      "id": "b511a0f6cad98ecb1ca3cb58f1aacd9dd279449f85c10614839f532edce38d22",
+      "text": "In this case, we're telling the LLM to greet everyone that speaks to it.",
+      "hash": "b680257574493d9c8624ce947ff9842e6e307ac2de0f1f9698607d231b097123"
+    },
+    {
+      "id": "5bd1c03a528d47e71dca8fcc718e7bb82dba9efb0e97cbdc1fc10a1e9c9a8a84",
+      "text": "We'll take a look at tools later when we cover tool calling.",
+      "hash": "4436600b67784fc877c8c0f4739dc602def15f2411ab57d9b7bd45f9920ccfa8"
+    },
+    {
+      "id": "736b78fd44be20a317ca65789bd7c4cc1fadce5877ce9ecf523cf2103d7acd42",
+      "text": "As conversations get longer and longer, this array will grow with more",
+      "hash": "fb60bdecc709311eaa5208c9046275dab2be906d19e711ca747128a82e16afae"
+    },
+    {
+      "id": "988bb1e2994d8a4e2aa6fe70951f639eba5ff1c670a491bc91d71571e3b26e36",
+      "text": "messages being added.",
+      "hash": "2da8707d038c8b25e8aae67100a0495b21cb4d1558b08fdb0aca5b41e357dece"
+    },
+    {
+      "id": "9bbba0f31be22db3bd3dd946a230082f5d2591ce3a0d0a8b3fd1d9cac2bd891c",
+      "text": "Now we understand about the messages array, let's apply it to a real-world (ish) example.",
+      "hash": "220584ff367cf77c39979b13cef63cfa10b136957f450b4b575361a80fda47fc"
+    },
+    {
+      "id": "dc092e0e7a2cac871c2a9ce9590e44348181dc42d8dc7e1860c2b9c7930d12ac",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "53798635978c981d5d0af004e1f96877f8fd4cff0b92a192421e613f59ea7313",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "c63912c6af048f42b689f34161446bec555da3832d3d99332ba76ea96c6b768b",
+      "text": "For the first time here, we're going to set up a server.",
+      "hash": "86f9e0cf1987c0b9c60f65d815cdcf9f9cf727f97a077e8b32e693e89bd46094"
+    },
+    {
+      "id": "1478bcd9b3e434006abdebb3cef4502352adb8e6d2f332b82aaa2e15036cd17b",
+      "text": "We're going to put it inside a",
+      "hash": "e96a06f1f6190ce9fe3e26f7de119294bd9e3be084b8a0f2283d5d25b0d04651"
+    },
+    {
+      "id": "91a1781658b0c27602669fdcc0cab89cca875ad1dae0398e564f3d07db999b97",
+      "text": "function:",
+      "hash": "671d7c1c412c57f3454b1f26c745f6f4d01fbe7cb5f68b76cc8b93c58a8f6aec"
+    },
+    {
+      "id": "e9cc16ad1e3d214dda596ce442a07002310574f56fa866e4119244e5b8e3abd8",
+      "text": "We'll use the Hono package to create a server:",
+      "hash": "8e02db69339f05516ca259a207851f9011f8e24a29d4d2709c9107e8f9465a5f"
+    },
+    {
+      "id": "576595442fc6858e75e7b9d46eb7dd95837f802d22aa58085ca9c31eaf11515e",
+      "text": "We'll add a route to the server:",
+      "hash": "c114273e81fb0b7b93d04f2703e48e0c04b11c4592413ff499aa08cb2c06ea65"
+    },
+    {
+      "id": "fffd0e301b711fd60d46e07d40998afb9eed4f6a4e12bf3ab5a0d3368528944a",
+      "text": "Then, we'll serve it with",
+      "hash": "523c6126c8b47bedcac68eaad678430446dfd9b2ac9f498d9517ae81186f4670"
+    },
+    {
+      "id": "4774e2248c234ece65c1510d973d7b5387c5f833d520707663437954c8d8d151",
+      "text": "Finally, we'll wait for it to start using",
+      "hash": "a1548f42057b96ef012fdb22deb65963adbadd8be4b880e50c521009c3831df4"
+    },
+    {
+      "id": "64251708a0431ccd9fbbc6ea8a91e5dfa415fd2fcdfa260def580851a6d2545d",
+      "text": "and return the",
+      "hash": "230fa84849bbc45208113e1d64e7fe14229764bf899eb20d0b8daa28bb2fcc69"
+    },
+    {
+      "id": "8f4ef9864e9ebb928476eb4dfa6e6738d1b169d72b71c8f4ee37489dc195bc4d",
+      "text": "This gives us a nice function we can call to start a server on",
+      "hash": "3ced85272bd2e86ee2058adb2e550de32067e35d112e4855ba32e76bc6f163a0"
+    },
+    {
+      "id": "c4f7d4e96a1aa29f1be01907394c643efdd4d6c01a764e896ec95d022f4682ec",
+      "text": "Next, let's build the API call:",
+      "hash": "a02e32301f07c8d20342a9dc4cccd0148152f19952cc36e8fae2dac868128083"
+    },
+    {
+      "id": "caa3311a8e0a908d89e2d124d9bb3856e18b803774ba103b56929274c4dd6971",
+      "text": "Our",
+      "hash": "1d20526a076c0916ebbd932f9e4d0fe47640ce063a02fa9228d1bd7d80ea8bc1"
+    },
+    {
+      "id": "e189ec7b17f83505d6b7f8970a865d4dc3dd6bfc8e7fe491f3b06d67c33d68a2",
+      "text": "route is going to accept an array of",
+      "hash": "367cc889d55ea1fc52c03e8dddccc53dd527a10816da13263d261c9fca7fd8fe"
+    },
+    {
+      "id": "6dca6591a83dea07b98780a90641be70e60c75e65867c1b686b2b0e3a6f046e1",
+      "text": "objects.",
+      "hash": "9e92fb4d5be54fdeb80c142a6f22b9ed941700b3591452c79a204d6fb2de68ee"
+    },
+    {
+      "id": "8b17743d2b34d32ce60d20d927271010740c9ed80fc255c4e9e2ece757d54715",
+      "text": "We can then pass the entire conversation history into",
+      "hash": "c074f9d7afd8c09c0ff5bd9056cd1cf2b630c13f60a808373368b46ee410a5a9"
+    },
+    {
+      "id": "874e54a2c732f727e3e8af65333e11a0c734d56e518082368b32e7198622b2f8",
+      "text": "Based on the conversation history, the LLM will figure out what it should try to say next.",
+      "hash": "4d5bae941f244d5f57a31afa4800945fbed0bd55791bea8478ad84085c83c5ae"
+    },
+    {
+      "id": "c07e4a65115811d90d3cf9aee885fc29baf3c8007e4aee319d4a1b9db0407afd",
+      "text": "The messages that it suggests will be added to",
+      "hash": "4ecc8e53bcba713aa181928e406bf118f43225a6329a975c4aa14b5b37a98f48"
+    },
+    {
+      "id": "3d96767d1ba72ba1d650a8a0fb9d3dd86d66f7e798e35ac48f50496f8e2dda33",
+      "text": "So we can return those as JSON using",
+      "hash": "5c0b7836557b3cf1bc9b8300b8d6212b1e1728b2d952f8a0dfad509e89e84db5"
+    },
+    {
+      "id": "a7e38ab15bd93f8ae6057db8a3e0fe0d1e9963a1d8110bd142789afa184eda8c",
+      "text": "To sum up, we've build an API endpoint that accepts a conversation history and returns the next message the LLM would say.",
+      "hash": "7b512951960b4a3b0a6e3f45c816e954887b536057236d395c29f4b5e07d6f3f"
+    },
+    {
+      "id": "4303a41f033d664c6ff0b7adbf42e940adc44cfa168c299099fe5777cdbb6278",
+      "text": "This is a pretty common pattern. It means our server is entirely",
+      "hash": "b68848b389b34c50d72b41acb349396737b16b5eb42b12d28db610420419d284"
+    },
+    {
+      "id": "42fa684b9c95d265048b2ccc55ce94e96e671caee7ec9217ddeb72202a3584de",
+      "text": "The responsibility for tracking the conversation lies with the client.",
+      "hash": "3a5c1c87409ae56038e6f940421fd2f0b0b1cbcdf687a3aedccce4aab63fab48"
+    },
+    {
+      "id": "baeb05a173b91c4c15f8904d827d72ab3799ce6830ac46f1691833ec436d613c",
+      "text": "There are other ways of doing this, like storing the conversations on your server, but this is a simple way to get started.",
+      "hash": "ced5056618be0376ca92c70746e8bdf2bc9c7ffbc16f19b90a87a261e9f39d43"
+    },
+    {
+      "id": "cea0a3d0c383c9df4f8874dd18c55c48b5dabb0189947f2544f578278d79292f",
+      "text": "Now we have a server, we can call it from the client. I'm running this on node, but you could easily run this in the browser too.",
+      "hash": "dc23dcf35b473bbcf1104d3d5d173765a66db03a7ce3576f5879ea5a13ee47d2"
+    },
+    {
+      "id": "cde6212811e06e7ee8a2ef42a04ff6e4e28d046ceff6ebedcf8bc81eaa445fff",
+      "text": "Let's create a new array of messages, and start our server:",
+      "hash": "6ceecb15396665c9748434bf880f646d66096709eb6d40b2a0e6566ee1da768c"
+    },
+    {
+      "id": "e165261ee37f10745362150da632315f63ff39a253a90a9c689a8eb605b76856",
+      "text": "We'll use",
+      "hash": "99f8dfc8e3fc6970eb88298c4fdd33e3ec0c4f43880b89c1c48f7a380b585cd9"
+    },
+    {
+      "id": "60d901b8b9ba2b19ab188ab42d7d1ca3fea27bb2a0a6e91670d0e60c0f997b98",
+      "text": "to send the messages to the server, and",
+      "hash": "81de29da06d5616c979cfeab30525693c7f60cd26ad0d61578bf78e0e6852d65"
+    },
+    {
+      "id": "144936a21510dc8d5c9e9e1bfe149cc27da81ead37161ef600e5345ed361d133",
+      "text": "to turn the response into JavaScript objects.",
+      "hash": "671bf03ad008b1c3bbb8e1bd175d902aacac32f2014ff487591b58d95f3a2b0e"
+    },
+    {
+      "id": "ae1e7886c8ad5047506b66b225284f72904a605bc8314605202a721e175bc49a",
+      "text": "Finally, we'll append the new messages to the conversation history, and log it out.",
+      "hash": "a39d1c412f6ca8d406e3ee2ac516c291c248e255b06d35c645f5163bc0120e7a"
+    },
+    {
+      "id": "8485aeef4a40b5cf123c0ab3110a47cf29ac5181c6300a1f4fe22cba40066303",
+      "text": "We end up with an output that looks like this:",
+      "hash": "0eb6c77c02a4e4012a94340e4d11d09450d2156a667fe4e2b7ed44e4e4d44cce"
+    },
+    {
+      "id": "13f1c96ed95cd3c7a63167d38f5e468eec8f6fea5f7dd91702f4c7db2fcab29d",
+      "text": "This array is ready to receive another message with the role of",
+      "hash": "d0fc41942236bd14feedb2d0f8f0de89af7b26641670e956f96909dde52a7703"
+    },
+    {
+      "id": "1e46b5a7b0c8f8c05d568b84c87f58b3a73fa20475cd59b376fa28bb325ac0cf",
+      "text": ", and the process can repeat.",
+      "hash": "b36a38845a99a55ec31bac93d83964d033bba0255379c5d2e048c96cf630c629"
+    },
+    {
+      "id": "d7790f40c6e08dbbe5aebd883b926222fc8afc276fa353cb58d519570ea4e9e4",
+      "text": "In this example, we've shown how to keep track of a conversation history using the Vercel AI SDK.",
+      "hash": "ad67da243bd3ce0aadd14469e970d384469fca26548ff5d21f6c3fd6c75f1f12"
+    },
+    {
+      "id": "b59c52627c386939766957fecaafaedf8da85afb800151a7bb3c6d799ab7c26d",
+      "text": "We've learned about the messages array, including the various roles.",
+      "hash": "d8abfcf89dd81053ed2424fc0bfdc5637fb62c29f9828ba19c6976db59dcafeb"
+    },
+    {
+      "id": "74525b05dacf6081c36ffdea42a75fe02feeade9a1b4e855144873055e60c4e0",
+      "text": "We've seen how to set up a server that accepts a conversation history and appends to it.",
+      "hash": "b967b8ba568af8283aa33a94015ba703781f9293f603b3196aec6e6cf91a7784"
+    },
+    {
+      "id": "75403afa85fb4322e5b2da7633cf9ca36a560ff229cff5e74238cbf55c59cdc1",
+      "text": "And we've seen how to call that server from a client.",
+      "hash": "ef85e4ed9dc193a76a224fab091dcebf947d2d0426f5e455b92733f805463a46"
+    },
+    {
+      "id": "604306d528919840ad92b9ea523130f243bb3ea55db8eaac5b18cf50b10eef21",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "fc2610c4ba6c09361f41e13fbe525ef4bdc6dd6709d50aa93fe1fef1fd326d6c",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "5142f169f2a05d88fa70f0a4826e38c18c7251afd07e36500656a1603f822094",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "0bfdd9fb7e18bf19b94d08fdcc8237426943f9c794b32410a10ef3f9220a6097",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "fa3a2038fc928eb58aaf1267384b5225c2b10e1991f347a1d200c2a222f1a945",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "2b242e5244537f67bf15a3c0a6a54339ced256a7ba5ae9fd6beeda8e2364a103",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "342c248748d2172bb5ca98ca6d678f06d3785789cf80f43d86ce316c3f4a6ec5",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "4b64f4fa22e99ba22bff774358581e1742f49a6666caf2572b13fd5b32c9da6d",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "0388daaf9bf13cf702ffca2633316744579bf609971c92b61966158a47aa221e",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "696d5a93ad2447f4026ee126b4a6014bf931e31d768f957bed5404d884bc9b10",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "bd09a663d399d25465f96d5302a02c1a35660e32223a3403752addc078e5aa28",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "6c3a865bf16d3e63f7012a212b362705f52e8ef6abdd125580da4b294a5c57fa",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "aef851bbfb5151d4dbec70b048b14775eaf5c0a8027ad0e1a670aca77725dfb3",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "e2fb83194c3f582748d66f217396d82f43da219f009b36c140d2c1e7184a320a",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ce134ec417b1fac537550263ef11b312694ea61970ce0e091d6f07c233a5cc8c",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f71edefd5ce98f64ae63f5038de4f8ace7d8c61737d8dcc52a337b63d210e92a",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "fa684cdae9e2fc3d24da8b316183f553bbc1fed07dfc391de83029bceb517fd0",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "45ed3de40703148114a0189d34d83860c9d3a2b34aaabd04ae109bd71f8ce29c",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "249a33e126e0ebdba495b78d15c4e3dfd8c1b67155617b52dd5d8f944493800a",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "c873578ba5da5c5f77b449f8beb202cd1e19cdf34ea165baa5c9c2ecd0607eb4",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "2ea10629e6eed64d95ef97d7a98e7474a65673977365c56b54855d8f3df5761c",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d536d9b89604a3f9d191d043a9a28474c1c438f3339e0052742d942f4cb3e697",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "24aa61545b4a87abc17e6a40250dbfea62342353e589328f24291c22c25b516e",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "e0688c8569cce6778db8256246d8377376ad7e9b4fde2da432f6ca0352028a27",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "2412719b09cc3d082fc76765309ee43387c87165a426ed2f813e53290d83185d",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"mako86wewd9ny6\"",
+  "lastModified": null
+}

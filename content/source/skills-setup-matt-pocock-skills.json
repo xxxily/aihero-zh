@@ -1,0 +1,1043 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-setup-matt-pocock-skills",
+  "pathname": "/skills-setup-matt-pocock-skills",
+  "fetchedAt": "2026-08-11T06:28:05.255Z",
+  "title": "The /setup-matt-pocock-skills Skill",
+  "contentHash": "882f7b6099d42d3df7de65aaa568a3834181ab3b74c0a979f15ea264e0a0af7e",
+  "textHash": "259bde4df95c0781991c72975171e813a9e230738bbd1c0178aea3813a8a9a4a",
+  "strings": [
+    {
+      "id": "723abd097a0ce33d387abe8e5b75b3364501e1fcc9e93d418d69c61b2bbff734",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "5080069a18b71600282eb62ac040cb0890dbc9d95cc3d37d72793604548daddc",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ec1f18ec7d8720cedb950e4433a18ba811062764d3ce5797a90fad4ec9cd6df9",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "e2d646a1f2ae58b62221465673a90dcd65838f342dd53630e01970b095a26c70",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "f99b7061bdc87c062b93ba5e144f4e3a2ef8c36081ce9dd095d28c0302e0e5ef",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "d1173fead2325225313f440335b0e2a86cf93a5a89eb5ca4c81f6db1583d6aea",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "2a1fccb6d1816463974e2cc10157576aef2d14579d58d973671294be5d429d9c",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "92c4e30972fca5704da43493a0b158d290f33fa19014123463594f6d9a04c185",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "88b92a93b48c8acd8b572b299e37d551643333165023037d2b64cb2cb596a3fc",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "77e6b39b0bbdcdaf5fed1276be5266ef0c6f1b9baaf01dd0a681ac5e7319868c",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "3ccbea8d10b3fbfa2056ec243cb7d52a36a353cdccf85f2c16377792f6d30e2e",
+      "text": "The /setup-matt-pocock-skills Skill",
+      "hash": "0674a6df3e473a2f50336ebb738940e032a1a9c5a21617f3a639eccd99c69b49"
+    },
+    {
+      "id": "6237f34dce117530e0df808c44cea15aafca501633932bf1a75446eecaab5975",
+      "text": "The /ask-matt Skill",
+      "hash": "e33293398b90952072fe7083e0cff6ee94d84e49d6ed9c02486551ec483ab2a1"
+    },
+    {
+      "id": "864442804a4afce53fe2e57a0bd8b51eb3d4e285db5905c430c64370a4b9bcca",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "e1746fad76931b4d5f3b38b54dd7e0084b27390936104ec54fd8cd85b945e4e1",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "37c44f0f8c9fcd8c2cbce99d3862c6062fedfe5272eee407c009df7bd97e029d",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "29c27a3b9e029464d33e0a7614fcda08c31d155cf2c53162d4dc6d61605c557a",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "1ac135b165939f78b44725b7a00386879b9080affb19fb79d219f5c9db8d10c4",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "93e3b7c1c2554d8b8f2e7fa91f9f6306d7414bb90c129f83fa9e6b08791c9cb1",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "369c7c1ecb23ca70425966aa0453cdc18c6b6a160248d82340e1c4501a32d14d",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "74604d08d7df511161d4c800a54401cc0f6f2db5ada0311cb7dbbd44ce086cdb",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "509d04462d0ab483da5dea2d99a5357997c84f448e6b6fc18e24827a6a8779f4",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e91e1d8584077eef8233e928a56eb2ab9b020fc1bd887e65e8b654ef0af08fd3",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "3cb516e654d3049a2a13e2bcaea7a5219a24450d72844c79b11eedb46b5c5e13",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "981df0e1f34d85a4b40c51e9b77eccf4aaf351a03e8a0fc21db8eb336b7dc641",
+      "text": "01 / 25",
+      "hash": "bab7d6983b70dd9dd1c080f6b79a59809d05049fa8df3fe071fc827d885273af"
+    },
+    {
+      "id": "215237deb3dde0535eb97b5111949541b0110044579f3f687526adedff485781",
+      "text": "AI Skills for Real Engineers · 7 min read",
+      "hash": "4057087c4e438436b0ad452cf6c233c6e77ffeaac156719b3b617d50874c65fa"
+    },
+    {
+      "id": "e32aa536427696b330a4419d9650887c3dbb38bcbe4eee53c13a68c37c5d40f2",
+      "text": "Set up one repo so the other skills know how it works.",
+      "hash": "43e7aab494cb34b6e9f7a6b281e62e52bf5898d82737b0520106430ccdc8a78e"
+    },
+    {
+      "id": "ae51610fbbc8fa0efb212bd4426defd2e4cbcf3e9b8eae956f8a9088aeab29dc",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "476f1eb41c8c5f925c444073d755fd3dc3c355e43892a8a69d720cf227f489b9",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "f847d5b6e74c7a2f8a8b1264c81c9f62676be3ec3913057c1397582c997f0802",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "95c9c70eb9eb56344e0f4f9855660fb1f4b79a3e021f9b2a2dbde4b7bd3319d7",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "ee7825ffd6bd2d0aec70e2ff0ed9fd72fdc0b0c3c154e1b6c353847a91f44075",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "4df1217e5fe8f2267fed9963ed1c566c277e72f180066cd9e8c78336685da328",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "340976538b2432bcac7d255eec6077e71f58f286da8c2c7501ee6994aff3200c",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "11166d6901d4398bf3ba8d0eaf6abc9e084ce9fc1c708cbab332240969d98729",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "8d97a27f0de9c3859d0cecc1bb23dc4a26637ed14c45f04ea30a04a67222dc08",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "f5111ffd3e1ca4f850b64692f79317a6bed0f3d526d200924c05bb50fcf85b0d",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "b6c7e89532b8abeb9046419409041f5c73fa54c61673b4405461161ff67799c9",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "2e72dbb2125312f93a67d2429a16578113c4d1837355254c6379af26102176ce",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "f66abec4eff0ebb506cce7c5f499f56bb34abe3eae01f815e6e3c5ee119905f3",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "eb1fb164af6dc1f02b79266930fdd85014c41aa79c98a05bb642603deea3e227",
+      "text": "The three decisions",
+      "hash": "3f19daa79b7f452ddea3688716df881a0914dad4aabfa9b29db53035edd10a6d"
+    },
+    {
+      "id": "050ce8d0733046997b6bfd74352a855fe4d1f031c3fb10da15e128eb026e4dbb",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "a31a581d9cb0ffbe8e44ef9f5cd838af664680bb835819ee041641484cfd3bdf",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "4f5daf6a66723051e4e07b49b0342a0bfc4c8a01346e49993a192fa4642090af",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "9c979b63ec3b229261cfa2a15ac583157686c27ca270b055289a4f42a3cf29ad",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "1dcc844616d869ccb8e5911a5adb6a9a0f9fc22c7b986ea0c48ff7e9f60ae7d7",
+      "text": "answers three questions about one repo — where issues live, what the triage labels are called, and where the domain docs sit — and records the answers as markdown files under",
+      "hash": "b9aa1574df5ea7684fbc15c4721a9432af7d1f8b0203525c124942ec685b4849"
+    },
+    {
+      "id": "a8900f6e4996460ec0dc507ee6304179a46bcc3785a24a610cb327ead8fec14f",
+      "text": "Those files are the only thing that varies between repos. The skills themselves are identical everywhere; they read",
+      "hash": "0ed0030488e9e402032c9a0bc2f7d51118db37f196241984a3ebf4d6deb9f6f2"
+    },
+    {
+      "id": "3334be7baf59dccb69766f82db045ccc3e1f7ea4053fc3a51e25ce721cbfa786",
+      "text": "at run time and do what it says. That is why the set is not tied to GitHub, and why no skill file ever needs editing to point it somewhere else. Invoking it with \"link the skills to a custom issue tracker\" works with anything you can connect to programmatically, with zero changes to the skills.",
+      "hash": "10bc3f756229ac5f944d7b4869dd0ea1bb06418e8b96a6463365ecb60cbda535"
+    },
+    {
+      "id": "549a46c60edca5c6eca0acbd5b90953f20f3bb6318b7d83d535af31d504d4060",
+      "text": "It is a prompt-driven skill, not a deterministic script. It reads your",
+      "hash": "05fc95fb077ea53ed8b8ab17b8ea7d4bc46de9ede52813ded66ba27f136a8ff0"
+    },
+    {
+      "id": "c8242b0ab0f16b1b0999363f592fe4c94ae23636ff99b578f3229b06b8dd7813",
+      "text": ", your existing",
+      "hash": "93b1b1cb8d504ac8e1971aaa976f84506ec5b9a56edfd27f0035374025b7bcaf"
+    },
+    {
+      "id": "8f5c0a43bf636719c017e9e9fa35d7421191bf2a072e394dc7d79c505c725bde",
+      "text": ", proposes what it found, and waits for you to confirm before writing anything.",
+      "hash": "ba562ef8bfbb31b78c550bc580c79ab1b7800ae1ea54281c575d6db4cd46645e"
+    },
+    {
+      "id": "fd5ea0839c224931c8eaeb2a2b32e1bbe1aeb2f43bf10a94c14e6060edab1060",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "26b1abb3fef5f1514e0df21fef465df4a4644fb7ececdb3226499985ecf5ede1",
+      "text": "— the",
+      "hash": "4b4c2edaae377e0f86cfdaebcd2d63a27f6438259b3bb97065b79332660fe2d1"
+    },
+    {
+      "id": "813a868eb6958070d87d7dab2a34b2a6c3b51fc0eb5153389fe379a8a90989d2",
+      "text": "won't reach for it on its own. It is deliberately marked non-invokable, so no other skill can fire it for you.",
+      "hash": "59695f15f863f85d0fce8bbd1fcc18a308f39b6cce167a1fb0e65c382aff233f"
+    },
+    {
+      "id": "80de17ac0e555ddae1ad42e54986dad8d90f36f05f8954bb9f5d0d00e10c24c4",
+      "text": "Reach for it once per repo, before the first use of any other engineering skill. If",
+      "hash": "50553c9e9564598b86007fc669f933da08886cbe1c906e380194ae3bd7456f9c"
+    },
+    {
+      "id": "a2c8b409e0f0d654db1dcb2cc11069414f84e02ad5eae6987ea16af8b46a59ea",
+      "text": "start guessing where your issues go, or apply labels your tracker doesn't have, they have not been set up here yet. A repo already halfway through a project is a fine place to run it; the skill reads what is already there and no earlier work is wasted.",
+      "hash": "d9a2b4c31704317aa9f8eb9d408cb9697c0b81be3c92b3a30b5b7a02f0b2722c"
+    },
+    {
+      "id": "aea165eec5a96248a29b4e25ea030fb24ee71f40cc09d9613ad2d017e9cd1f59",
+      "text": "It writes into the repo you run it in:",
+      "hash": "321fd7ed726b85d7561d60b819748fe46e7c2e3850e1924e1ce136813dc87e27"
+    },
+    {
+      "id": "415d4287a41feda727326fb8c3f9b10cebc2af548dd89f10e2404a2e0504dc5b",
+      "text": "It writes",
+      "hash": "341b309c50d318b58979f53152872171a20eb963891edaa337fe48e90398931d"
+    },
+    {
+      "id": "5284a9fefa2afc50441b62617f97e883c94b9a00b8b8b6833618a40b90a5e5bf",
+      "text": "Where",
+      "hash": "1daaa38f33cd860e9710c74ef1ebbb00af9f348ad0e991b94bba044a61ece936"
+    },
+    {
+      "id": "a2391a5624090a7a9aae204320e98fec29295f0832c70aaf5fd43de2b9ba15bd",
+      "text": ", only when the",
+      "hash": "ea84844bcc9aa08db74f72d9cfd49170e84c88ecf2755d31c09409c2c12fe2aa"
+    },
+    {
+      "id": "66deabce28803d46f114ea7ccb111778649ff3a2aa876db993eec97343c630d8",
+      "text": "skill is installed",
+      "hash": "a635cddb7dd1b0f752eddde7037a806d400db466d1db2dd7477fabad93357938"
+    },
+    {
+      "id": "8ff089899ba7a5d933ba7959720af7d0f37b0ca73a1b6e373eb1928b74e41781",
+      "text": "An",
+      "hash": "9f98b7c7f071714517d9a5e67c135b41fa3e91f20bac108158b33b073396f6e5"
+    },
+    {
+      "id": "2093b3965292d20c9adb98ef8e79d2eecf500087f36e1d8dd30c76015f044ba5",
+      "text": "whichever of",
+      "hash": "3c436eea873004370b6dc4ec08436f0623946d0a300b039f4e179376922004a9"
+    },
+    {
+      "id": "8ea802ca2cd8e1f2a8b29a8639c4b29c8ffe3a9579a2cf06b9c7af47a69ef3f4",
+      "text": "already exists",
+      "hash": "3214256d6e1adc4c3262df794ed48f702e3876bdf3cb4e60bf1b8dbdd46edb07"
+    },
+    {
+      "id": "99d6fc4a091a48ba1bc58a8b756f2732b6fd08e2be93358bbcea47c22450c99d",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "33f118994ebf197f6b9ffb1582bd56c063ba2e1382adafb96f6f5ae547b4693c",
+      "text": "All of it is committed markdown. There is no user-level or global mode: the config lives in the repo, so every repo gets its own copy.",
+      "hash": "4dea5f92939dbbc5d5d84a1b390bdca7cbf6955351eb51bf8cbcc055df555e22"
+    },
+    {
+      "id": "2b68a4488b539e26c87f990bd96a0e03b372579278637fbd8d9a09067c409ac0",
+      "text": "It leads each section with the recommended answer, and skips whatever exploration already settled. Most runs are two confirmations and done.",
+      "hash": "217c88a2564fb4bb84e28e1022e4b777fd430734b0c9463147f29c75e561fd29"
+    },
+    {
+      "id": "1129ffc8fe1194ad3d8d23d3eae078138c2f947dcdce13d84dac1221dff73189",
+      "text": "Decision",
+      "hash": "640ae4baf96061fee1798e9181e2b7a5145585233df2c27a501623afb0096ec1"
+    },
+    {
+      "id": "462786f06574b1cde748520a1687c917b1793cec11f5f8a810d70d913fcab788",
+      "text": "What it proposes",
+      "hash": "e19a7f947d9a73dcd8d05be3aee774398ce7547c9b4f5f4fec4d9f0a997f80c0"
+    },
+    {
+      "id": "395f03784001743d70a1dfdaf461c165c66c8843d9f1e1c25c3c043b90f63dd3",
+      "text": "When it actually asks",
+      "hash": "3bd2dc657600e69f7f7a040c18f239437dc17eed91f215b83702a6c1ff6005c3"
+    },
+    {
+      "id": "dd318c4890fdd56d9147974a55035e83734e1cfeb665fbacc91c5d49a22430b2",
+      "text": "Issue tracker",
+      "hash": "3d70d4bccc5a79a2bbc632db0f9eaf67f8a0df5442d92168e30f7cc73d1885f9"
+    },
+    {
+      "id": "23f4b98c2bad4b27bd5e42b0da71f56c54e551e6c6ecbb104e3261a2c70c9f07",
+      "text": "the one matching your",
+      "hash": "3530d928533a7aa17ee21ac7d39cd01861e2e69ceeb6871130cc77594ba71943"
+    },
+    {
+      "id": "b66378b0bd534eacdcdb41fc69049827c26f6b291b8ba1e9084db8e9d3f52549",
+      "text": "always — this is the one real choice",
+      "hash": "36c0a595e08aedeb24d52d455cc06674cf0369f570630fc5dcf33bdd8b5f41fb"
+    },
+    {
+      "id": "1a9389c2e523a08a3280e36376ec341fd9fabe6cab43ed09b56adad0310058d6",
+      "text": "Triage labels",
+      "hash": "bc2a1d02fd72e375875315126244c5aa0455540dc76b8c8a264f55fb5884eb85"
+    },
+    {
+      "id": "650309f3c4a8391ec7c3fd9405691d9851a9ef07e6bba0383015bd060bf48727",
+      "text": "keep the five canonical names (",
+      "hash": "0dab2d575359623e48c281979b3005b9ae3768af4a110ca003354c959ee7700d"
+    },
+    {
+      "id": "8194d8eed015579be316fac91594a74190dae76663676375c5f49e8707529cff",
+      "text": "only if the",
+      "hash": "56faf19ca3a8c5e69114f0f60ca48f006c4d97287166752376facc2891f27c58"
+    },
+    {
+      "id": "defc47a6070a4c94dfd232c94b819c75bc6b26c7b7a1cfd12ed173e40a1adc3a",
+      "text": "Domain docs",
+      "hash": "87902b70317d7a6e098fef4a0ff5ead16a217bfd6a6b381b72622fa12cad52d4"
+    },
+    {
+      "id": "4566668121ed10171e80dcad9b787ab8583e4421362d5bc09b7bb26dae02d5d0",
+      "text": "single-context: one",
+      "hash": "ca79b2510cf9a1f2dba973fa476843dc8e50a722b6c5b40c7f30377ef467f91a"
+    },
+    {
+      "id": "0de52231ca2f38427f59b05f976d6615d1ce7f3e58bbc2cbc095846544408734",
+      "text": "at the root",
+      "hash": "464ed4ae2c01272f9b4a4b39223b11e75b46840697abd8de655085c5d76c182d"
+    },
+    {
+      "id": "2e48a803e3ad46b2014c83a977be7876a7790e8c5a4d037c3ad186c007ae8e91",
+      "text": "only if it spots monorepo signals, and then it offers a multi-context",
+      "hash": "20164c16aef9590498511b74af4ff1fd699353c726a316c46a9aeae307ad5ffd"
+    },
+    {
+      "id": "fa3ba825b984dd585d0d5e095c02a83d1ce4ca2b7e78c880187a00d58887d486",
+      "text": "The tracker options:",
+      "hash": "493513264a1073d604fe6989ca9400d68ff2d4e9752ac69df19eedbfa400fe49"
+    },
+    {
+      "id": "ef701c49b808e63860fee769ab6864dd4d44b5d8443b3019967a88c595e71098",
+      "text": "Option",
+      "hash": "45aaacba7ea1a668da79cff4034c6573c6ab9399bb868b878f7e844fd0b6ea75"
+    },
+    {
+      "id": "e98f4a3a50259d5623120ae7ee5dcd40c0d1cbcb4339a433c0cbfcaf864e5917",
+      "text": "Where issues live",
+      "hash": "1512386d7d38f1f5c30a0e9c2365dd0387bb5652817760dc6cedb70b086fa613"
+    },
+    {
+      "id": "6cc0a563696eddf085c8d1a85e743ff518afe059115f99411f5b68c3c88aebb3",
+      "text": "Needs",
+      "hash": "5f9bbdd124f822a2501a2c3fffb9d44602d007e4405afd743fab476c968885a0"
+    },
+    {
+      "id": "06ac8f6133a99af95c8ad862f6a01179322549ed9454e22699215e4f7db3615d",
+      "text": "GitHub",
+      "hash": "f911e414cf6bdfc595532ab166b5ba0f63d73c021452fcdacbda363dda6ad8fb"
+    },
+    {
+      "id": "d7639311f42f8018194af0499affa4d4ee7056c54724c863c4e16d4467aa94d5",
+      "text": "the repo's GitHub Issues",
+      "hash": "265a68c40fe841811b9476d75bf1533107a5df699536ec2e7630ad0896dbfe87"
+    },
+    {
+      "id": "ef7cf85520f3e4883d61e3875f6648df8a3e4c78d0648c2f274f15e17fc94a96",
+      "text": "CLI",
+      "hash": "e759793341ff3757eaa76e814db0170ec13b6b0a988a742d9a81240c505f48ec"
+    },
+    {
+      "id": "7afa5c2cc7ad31b53e1f6e24fda643f94976a2dbd8b72c92af3bc71529406f66",
+      "text": "GitLab",
+      "hash": "9151a836f996c25ea618db449f7f3121c9153a6b349e804f003fdaff2afa4c8d"
+    },
+    {
+      "id": "ebcffe7c3c769d356740c8aa41763a06d7dcdb501508505e1c068036127bdd51",
+      "text": "the repo's GitLab Issues",
+      "hash": "c0acda9a850c540061ebc5e7b2d7eaa6e601f25fd902abca38f69b2ad8a50a56"
+    },
+    {
+      "id": "efd8ed2b08c3b3186766d23dd6fbdf616c30030cda952b44ecd64216c017daea",
+      "text": "Local markdown",
+      "hash": "a6e171b764c56ddb9befd2a0efb428133bc169fd0ce799f78216f589094bfe65"
+    },
+    {
+      "id": "e032f1173c84eb8d101895d834030ba27a1cd04124d6928395ef29f3fd8c9a1c",
+      "text": "files under",
+      "hash": "51530eeb00b96d52b98e7af22965c651b933c950de5f913407984789ab20a32f"
+    },
+    {
+      "id": "cb7d80688634b762f58c9f51b645d13eaef81b9679ca2c8d2280778f3ada7c0b",
+      "text": "in this repo",
+      "hash": "f85fa0e09b31473dfa20d97d95a8c5087a95456cfa2ab30486218299a2cd7031"
+    },
+    {
+      "id": "5edbf69a2c1c3a488db48d240acaa283577fa3e5273efe7a93fa1b03569e0e2b",
+      "text": "nothing — no remote at all",
+      "hash": "e6738e70806e3a6777aef6814048be03648d882c536b2d5b37b8d65dc1d22b25"
+    },
+    {
+      "id": "c48978f6b0d9c4d3b8e59ea19db85461a0bb0b6163effc8cbab89c06778ebd1d",
+      "text": "Other",
+      "hash": "f97e9da0e3b879f0a9df979ae260a5f7e1371edb127c1862d4f861981166cdc1"
+    },
+    {
+      "id": "8e7f329eee75ed78e3f6570ff3d9e6d939d0c9df39ebc094cc0878a2cd68f723",
+      "text": "wherever you say",
+      "hash": "b256972e3aca4271dbf0b9ced8ed4ad04b5cdf5c5e8059a6348ab408d66c1657"
+    },
+    {
+      "id": "c7349cd693435ad00a011cced9b0dfae58e85106c1f5746909bdf4011d93d4cb",
+      "text": "one paragraph from you describing the workflow",
+      "hash": "3f1e5fbbd69ebf0b3ec3097074cee285a88b791ce0acb784f046266d8a0e5b66"
+    },
+    {
+      "id": "d2dab672eb11ea9fd14260ddcc5f5ba175beb1977759f81231f7d4eb2c70b338",
+      "text": "The first three ship as templates in the skill and work out of the box. Local markdown is a first-class option, not a fallback: a solo project with no remote is fully supported. One caveat is worth repeating: don't use local markdown if you're using GitHub. They are alternatives, not layers.",
+      "hash": "73af9fa648c1a6484219b877420a3038f2f327f1d36f0d331679d6dcd3d9aa97"
+    },
+    {
+      "id": "4496f03cffdf53fc2a6466a44a8063547b2d79126328795eebf179de26b2fa91",
+      "text": "\"Other\" is not a stub either. It is the reason Jira, Linear, Azure DevOps and Beads all work: you describe the workflow, the skill records your prose in",
+      "hash": "f18c1d0f9fd443cd223dbf30572a19d7f077bafb89d3f6b934eaf1d1fd97c0db"
+    },
+    {
+      "id": "bafb6c3046b46f614aba0bb20fe8e4ab7ad2ee8a1d9e80515c89d5785a96012c",
+      "text": ", and the downstream skills follow the prose. The community has already done this — a Jira-over-",
+      "hash": "2bf4b356f99d8153166e41e7a9a03039d91b7941d3820ae1c713e2abe47879e5"
+    },
+    {
+      "id": "9ab63848aa541bfffb8d094fddd71838bd0d2167c39004bacbce28440ebbf4d3",
+      "text": "MCP",
+      "hash": "53f13ae99ed53bd346eb8e1c8cefb7ef8260683b50401caf101360967ea052aa"
+    },
+    {
+      "id": "e2db6e6ea5b22930be741c20e19a39cd3940d7a3a4b8a9b8c1ba8ae2ddde4971",
+      "text": "variant, a Gitea CLI shaped like",
+      "hash": "58f3803e1f4a14a53093deebebc57fb1767d7271e38645c35bbaea762a7bddc6"
+    },
+    {
+      "id": "6f98edfa9913d8d9a427b67e9a689972078a374296755d293f79aacd29a1633e",
+      "text": ", a hand-built local dashboard.",
+      "hash": "e5baf82f09d0b4725dfea1e970a828471635d90112f3a0eff0a1d7356d7add05"
+    },
+    {
+      "id": "2f4995706b62eb740f9379dc344b59fced1b37d11d3573eb9963bad3d2ab3851",
+      "text": "Do I have to use GitHub?",
+      "hash": "a951ef1ef08a3ef063313667298462ef1c6259d2bb4c3a49b66966769446699b"
+    },
+    {
+      "id": "dd90e2cc084106ef9f61dcbd96de360d37b87e8640a525f02e87abe85a3e8a9f",
+      "text": "No. GitHub, GitLab and local markdown under",
+      "hash": "cbadc349a945c32a021a0427a5130bb72e05333fd1b04e26bd4a06b2e4c4934a"
+    },
+    {
+      "id": "a0b87ea9ad85e765c2cd793d7a4c202fdc3085dd23d2d240b3806c473a605b50",
+      "text": "all ship as ready-made templates, and anything else works through the \"other\" path. This is the most-repeated question in the record, in roughly these words:",
+      "hash": "7acf715b83d0f099472ec06404d605b638677b7ca42ec38a7b3374ebadd33017"
+    },
+    {
+      "id": "e6177ddce103121e2549d7f2d1620e1a9fd2607e4d97b9357d2829c856bc163a",
+      "text": "\"hard locked to github\"",
+      "hash": "9f922b2d25028c6f7f1065aba0d2a48f9ca64b42dd079958716ce8801e9b8899"
+    },
+    {
+      "id": "ad5229bcff19ed03f6c1ca27b956a8ab9cc475c3bf9ccb975132fdc24f8ab643",
+      "text": "\"can I use GitLab / Jira\"",
+      "hash": "f6ba0009a7779988af378646f9a0ca7b6500ea2a6388d0aa32f5b96c1e919eb1"
+    },
+    {
+      "id": "ff3460f6ba9d34f7b86e7e2a93aef442bfd4de47dd6ab3aa27348fb72679a100",
+      "text": "\"what about Azure DevOps\"",
+      "hash": "a93b063f1d1aeac9f195fac3a1ece7d82bf8bfe05c7afd62a02cf01e87b513ac"
+    },
+    {
+      "id": "3ce737fac8ffe4f6551631bfa362d9684dbe9a7e1dc866b347033e9eb86d3915",
+      "text": ". The answer every time is that the tracker is a setup answer, not a skill property.",
+      "hash": "1e8cd0f768ef9642e141b469c48024bd6e37d02a882007512176cd3953359fbe"
+    },
+    {
+      "id": "3e0f3b55392b21ac0a3f059c5ce5c4a1b118d654b144efb2394409582ccbd138",
+      "text": "Do I need to re-run it after updating the skills?",
+      "hash": "b91a65ce11a3c9034466e8ccafb58493d0f83a2f6f3c2bda3263aabc9c6f5b38"
+    },
+    {
+      "id": "aa3729f97437a6ae9838ceb9ce1dd4258d87d2001384e0a8a1dddf992dafdf0f",
+      "text": "Asked directly after v1.1, Matt said yes. The skill's own closing message is softer — it tells you re-running is only needed to switch trackers or start over. Both are defensible and the reason for the gap is real: the seed templates change between versions, so a",
+      "hash": "7844b1e19f0f58e83682b3fcccba225c0803adb67f60061db39d722feedc1419"
+    },
+    {
+      "id": "1d8ed811e421f74cca11f3e2bd115abe17f40e07d8dff0d3cb84733485392d65",
+      "text": "written by an older release can go stale against the skills now reading it. If a downstream skill starts doing something the docs describe differently, re-running is the cheap fix.",
+      "hash": "2ab023257f22b4a2c6cd351e20cec123f9377720a9eef8fe50f871bce0368105"
+    },
+    {
+      "id": "9cd0b86d8f922f9f658af0352a52690e63309b95a05578bf929841fab1a44540",
+      "text": "It wrote to",
+      "hash": "226e03af5fe57fd2c2581bd6aa547160897a7439e78fbfd3c8df1c92e17dd835"
+    },
+    {
+      "id": "61f6bac0967d1681551447c928ea678a2b355d5977ab778d6a0ebcf41c116d9c",
+      "text": ", but I'm on Codex.",
+      "hash": "7e575db3c12db0b8b8b06e6bbda2f0d883b2a48228fd9cc05aa0804b74c5256f"
+    },
+    {
+      "id": "a3dcf1fce3e6b53a32d6915b878cd45314b9c0c6aaf7beda0b1287025857bd15",
+      "text": "Known gap, still open. The file-selection rule is \"edit",
+      "hash": "56028251a7ec518a95f99d7b29b06b37ff8d1e2d0ea111c98186290afa318031"
+    },
+    {
+      "id": "c21e2ffb75bce1e6e2b26a704d3e68347becc54386aff4f04af68871fb598d90",
+      "text": "if it exists, else",
+      "hash": "922266a6a3c5d96cb5e22f72a396396bbb1d5be518ab4c6c5ab75eae256136ae"
+    },
+    {
+      "id": "eeb93937e6156cfbe36188de871b6ab46f93a0e7c2866d9822db2452b0a6b6a3",
+      "text": "\" — it checks which file exists, not which",
+      "hash": "c2de13f76a4fa9b53402cf634ff18c336102c2ad2f741537b9be17f53a0fa326"
+    },
+    {
+      "id": "f63908a6c44388ffaa5d8edf35dbda657241f0b806f3cab30e2253328d844f86",
+      "text": "is running. A repo with a",
+      "hash": "63771e0d1e340813a82e2ce1a1e28a95a0441ad273495f626a64a328047e82b1"
+    },
+    {
+      "id": "96165d65e2906b386cc756aef3d0be552bdd98e523266f5164bc0d7e5ceaa3d0",
+      "text": "left over from Claude Code will get its",
+      "hash": "829252990e4db61c540e94ad14f02cfb4e99614ff0cca5e015d84a91427b05c8"
+    },
+    {
+      "id": "e48467f1df592f4f82f7e59a753feb5130231f0964db252866a041c88dd4ec08",
+      "text": "block somewhere Codex never reads. Two workarounds are in circulation: move the block to",
+      "hash": "8957555694d6cc60e385b64c05be56dbc0b12e8b74549b0a3da00fdc46ca420c"
+    },
+    {
+      "id": "560123ddd4a9fcf324cdd33dbdf752d9435e9748e2a5548685b0085af5542057",
+      "text": "by hand, or keep",
+      "hash": "35a9b18e74df541d6a3f87a2c3178e0eee889431e64ad278fe5d25b77f66c6f7"
+    },
+    {
+      "id": "b6d37fdbb6ee15c4788db85bd711b02eaf9fad431cbfb9578a00bc457e3e2734",
+      "text": "canonical and make",
+      "hash": "28ee1a189796375bada19cbb501cc42ce70a1a035c54871fd3d994e35fae0012"
+    },
+    {
+      "id": "664e7532070d431d421895ea1d354983396cf79cba99b6105cf3945bce5823b0",
+      "text": "a one-line pointer at it. If neither file exists, the skill asks you which to create rather than picking, which has confused people who expected it to just decide.",
+      "hash": "5baa6b4b7927e0f128f690ab539f05c09ca4d15c62b05d5fd0e72fa556f8ae98"
+    },
+    {
+      "id": "98f9d1b6dbc2d7b864e3c50726eff6a9bbfe439f70a1a7c681849fcb6796d788",
+      "text": "It didn't create my triage labels.",
+      "hash": "a3f8000e8aaf766e5c2d6f66ec5ad14def54bb963dbf17695300973bc862b667"
+    },
+    {
+      "id": "5338fa000b16525981ee7cfcfdcd9cc280e905e573b2af68dfebef1cffa06a44",
+      "text": "It doesn't.",
+      "hash": "570a5e956622775ae66ccfb0440edca3448c65bcd5f125380ea6be2299b24f03"
+    },
+    {
+      "id": "0fa3ed54834aef87f0534902a77125d1a2d12e7de39d62e2cf61a67d4e459507",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "ccd25aa8939520442114e35180382c8aa45498d0af12d6747f80c27840105265",
+      "text": "— it tells",
+      "hash": "1a7cfc92ab9cc4140d58182dee4f7ab88729b49165b9566e98f94131223cbb96"
+    },
+    {
+      "id": "f62b4c43d34719d81b5e2ec2ef84c6de2987187188b445700312c13a865299c3",
+      "text": "which strings in your tracker correspond to the five canonical roles. It does not run",
+      "hash": "79a2fdba4a5de7a054d94ee3f7bf1c82fcf0463bcbf1635b4078c132005a279a"
+    },
+    {
+      "id": "cefbc097ebfbc5c757870e1654c76c33b4cc78ec06e699af1e6f988c421a685e",
+      "text": ". On a fresh GitHub repo the labels genuinely do not exist yet, and this has been filed as a bug more than once. Two follow-ons:",
+      "hash": "ccd531b1e4e8988ba3745437cb3d501e6eb7c072d3870c68bddb26c98359021e"
+    },
+    {
+      "id": "ac3223828a0fb931bdd65e692d7245be9e1ecc1f80f573d78e7de7f7c0630217",
+      "text": "If your tracker already uses the canonical names, the mapping is an identity table and there is nothing to configure. That is the intended common case, not a missing step.",
+      "hash": "47b963c5de4bad5527a19fd341cca1d7dfed6ef9450bec72e3490124bb9d9ad3"
+    },
+    {
+      "id": "1b6a7e0eabbe36268feba339a861ffb394c0edef113696fc81425790fdc6f8b2",
+      "text": "'s",
+      "hash": "edc00d4db80ddc3e91783b63ae5fbcdfd204de983c650e9587785a40271c8f3c"
+    },
+    {
+      "id": "18ad7c156b4ae03e5ad5e6761f037f010d9c0b127b2d4debad87838a3e995028",
+      "text": "labels are not created here either, and",
+      "hash": "7d340722b1e36791b423b7fb7bddb25ca07464e1a9a80d1f2fefbb68b7685101"
+    },
+    {
+      "id": "2774fd232253f151edaee2033d5dc537462639cb4c99a5b46b50a100509c36cd",
+      "text": "fails outright rather than creating the label. Create them by hand before the first wayfinder run on a GitHub repo.",
+      "hash": "c9d33020ee5638a968664e65eec2774670a0d2a8799a489d992cca75d7ab290a"
+    },
+    {
+      "id": "0f6fd6b44d204a6110d7ec1ecfc86a4ca8e1fcb9767d8d458b8a303d50cffbac",
+      "text": "Can I configure the other skills' behaviour here —",
+      "hash": "bcbc8b491da04f0abbac6899b4034291e1750581351089e02086502923653e57"
+    },
+    {
+      "id": "3de96f6f927d612c24ebe6e5f804286bdbdf7202d6421c8ea0a24b31b8950cab",
+      "text": "cadence, question format, tone?",
+      "hash": "c02b000d05733b0d8adc153455fb4c9c394c32f6258fbf1a025df47f0e3d7d79"
+    },
+    {
+      "id": "3dd5b2fbe344409e7c812a85f514c5011d5e1cfc96ab168397a797b30e290311",
+      "text": "No. It configures three things: tracker, labels, doc layout. There have been direct requests to make it the home for per-user preferences, and the standing answer is that skills stay opinionated:",
+      "hash": "3c3fd16d9897c67efbfc752280299fe62008dd1004aa61b2c709129d4bbe4c5c"
+    },
+    {
+      "id": "69f8d0e0ff2370a0cfe41eb07b0e3bf1eeece21eafc04d0d3bd16f8bd586f2c6",
+      "text": "\"Config is death.\"",
+      "hash": "04bf866edfec52196e02045f4b2f7e2e4630d1f62e563d3c4d83abf510a7c9bc"
+    },
+    {
+      "id": "6b0062ff53e8a38f4c4bbb660cb714f73ba367725a70ac13e5d402df0c902fbc",
+      "text": "Preferences belong in your",
+      "hash": "8466ef6f4f4bd7ef669468c4100b66aab9bbeb03d61156ba3b0c389ce1b1876c"
+    },
+    {
+      "id": "830829045f737855265b29a6fa340706fbb17f6246f364fc215a97411ccbc975",
+      "text": "as plain instructions, which every skill already reads.",
+      "hash": "2526369e51d78095153faa7d110904ec8cdd5311f9f618ac94d02a2fb3bd1361"
+    },
+    {
+      "id": "eafa68f428565db16bb192017acc892393804dc47a659a8a4bfc5631a5235c78",
+      "text": "Can I keep the config in",
+      "hash": "8a48268c2bb35cb65ca25b3b5756f195f8145bf03285874b07065a7da89a8976"
+    },
+    {
+      "id": "5456e74b3ed0d60967df83b9ed03fd57d341c024457a5ec56a6711a81ee90a63",
+      "text": "instead of committing it to every repo?",
+      "hash": "4451b0fd5bb066e4efb02422c4285df217a9b928968121a14b76723c3f2e7966"
+    },
+    {
+      "id": "bd82f00bd5b0ec59d99324b38c092b52afd425d380eb8565a8d65bda093e306d",
+      "text": "Not today. There is an open request for exactly this from someone running the skills across many repos, and no user-level mode exists. Every repo carries its own",
+      "hash": "2f8d496eb059f1d6d26ed8f437c102edcba0c0571926726b1006986f8120ba38"
+    },
+    {
+      "id": "8812e954f5ea1ae0d79b3ce3c9a166f97e740976976e7ed2f96313304d6cdd70",
+      "text": "Isn't it strange to have a skill that configures the other skills?",
+      "hash": "b190dcf4dcc66b3a9cbc20d16300eb7e27fc2a9c771883fc209c0a24ee4490e7"
+    },
+    {
+      "id": "36463e2216ae03ac4b7b3a984c53563b3d375f29c35446f24f0639c323a581a0",
+      "text": "One long-standing complaint says yes, in these words:",
+      "hash": "ec0e43c1570608eff933db38882abc9547877b9a35bed2f70624c92e2b16184a"
+    },
+    {
+      "id": "7cbfcc361ca9465446e44fd6cf0f7fb09685a0fbc69a4777c7a8ca33aa9c4f2f",
+      "text": "\"having a skill to set up the other skill does not feel right to me — that means the LLM is configuring its own skills.\"",
+      "hash": "8aa9d41d6b463aa4fe3f96d1c9f2d7e5f56b50d10e39adeedc7ffef77170a7c4"
+    },
+    {
+      "id": "9da891bd5f87f6d8a1a7dbbf1dcfa89654c129209e3d619063714b97629c57fc",
+      "text": "The trade is real and acknowledged: the alternative to a setup step is duplicating tracker instructions into every skill that touches issues. The output is inspectable, editable markdown, which is the mitigation — you can read every file it wrote and change it by hand, and day-to-day tweaks are exactly that, not another run.",
+      "hash": "bebc7e6f0167db59fd7f0e9f1cd41e133716fb2458937bf5e2d39ccccd1cc88c"
+    },
+    {
+      "id": "a99b852cc505b2dc6a16795f8970f1505c2922bfdd0e6d544c421d84794ba787",
+      "text": "exist, plus",
+      "hash": "f88c49588fd68680edcf550ead971f161108e8c04697b8e0405aacc68b721096"
+    },
+    {
+      "id": "a302ff80030d38eb7ad297df2e942f021fb9234049c6b1b5c0a236092c6797ed",
+      "text": "is installed.",
+      "hash": "08edd7782d407b7076224f8df300d80a4e6c9700e58059888f62040bbc46307d"
+    },
+    {
+      "id": "95471d627f7ce9f2cb40e44b0abfbd0b1aa3d7706dcd430574eea9e4c25ab019",
+      "text": "section appears in the instruction file your harness actually reads, with a one-line summary pointing at each of those files.",
+      "hash": "5725a0456ed42f9b2507de31b93d393accf5aafa6b268ca6151bc24d21adc355"
+    },
+    {
+      "id": "365f226d2baf4641c391a4a501b42ac1d891b2b8ae6173b08af6b0c20d83d202",
+      "text": "The tracker it proposed matches the remote you really use, and the label strings match labels that really exist in your tracker.",
+      "hash": "66e66fbf4649c9e609d84d9e93bf1896af23e0a9fa3136086f13853dedaa60ff"
+    },
+    {
+      "id": "110853395ad43f7f956ad21984bc3c443c7d0878cf6d613aa67de792fa8fb89f",
+      "text": "Afterwards,",
+      "hash": "96e749b07d67c47aed5159faec037ed1d603db8fe126d68bd0b241de85a99373"
+    },
+    {
+      "id": "3c051f8c4e5adce266cc436933ed2700039df05766c025363ee15937c4a6fd9a",
+      "text": "publishes without asking you where issues live, and",
+      "hash": "2a53d946b545b1da79b1456936d6b6ff7009c61b539752dfbad0ce0da3677dd9"
+    },
+    {
+      "id": "1dfaf223490811b2e5eb5e26618e0784076d2ff244db6b5b1d2726c3289d3957",
+      "text": "applies labels rather than inventing them.",
+      "hash": "4c27ef3ee50f412f0816d25749ee04d01e1acc45246df8c43c80e0967dfcafbf"
+    },
+    {
+      "id": "7c37dbb971b89d7afb9af9e02a1f437e29b27b12ccd2bc5624416c5722f2f31d",
+      "text": "Nothing in the skill files themselves changed. If setup edited a",
+      "hash": "7eaa16c8f21f3865a9cc5f963f2681aa5c450ee444f538268056e9cf0afcf46a"
+    },
+    {
+      "id": "0a889ede9eb0f17aecc583229cfac606c0cf4e1b3231bae965fbc926a33446a8",
+      "text": ", something went wrong.",
+      "hash": "a85abbcce224b5ad90fb3308f19c54dc0b0571b50a4dd7a176341d0aeaa5d9c0"
+    },
+    {
+      "id": "337e8acb8835a7b49d674c4df8e0b05b95f72d9367c74e285994487baa1ec667",
+      "text": "is the",
+      "hash": "ef4120f0165ee02d9e9d4da6e7c0ebb646b3c47d4b4c66a28f72a5589ea6368f"
+    },
+    {
+      "id": "c63fd3c7f0fa168a71283890565382238be720ef7525768aa27d2a13b86dc456",
+      "text": "run-once setup",
+      "hash": "718e7aabb1b0c7e8eda9208f8096f0eec87bf2f6b961b39ed9d56b49fd85d9a5"
+    },
+    {
+      "id": "7933baccfd930176dd45996288192c6aaee88b51b727a52f2dd4dfcc29716945",
+      "text": "for the engineering flow, the precondition everything else assumes rather than a step in the chain. Its neighbours are its readers:",
+      "hash": "a535bb4ed656df2b012784840a964f35ab07ee3019fc8cc34a3df7ae4ff8efe6"
+    },
+    {
+      "id": "d8d5b7c1093ba0599adb56a86d55025fce5cd15096bf61ae7726444158f904be",
+      "text": ", which applies the label vocabulary written here;",
+      "hash": "5378bb45825a9683a9f7a0d9e74778ab66acbb43832c21c88c2eabf64c1b9d03"
+    },
+    {
+      "id": "1f95f0a9b73c2f2ec4ae2402cbcd726f591dc7f804b953788a80c90681a82e81",
+      "text": ", which publish into the tracker named here; and",
+      "hash": "5bd14f4adee4bc682344347b39a330788d4f0c55a8464d3f24d0cf2cb34a17ca"
+    },
+    {
+      "id": "56a81d53f0bd305fda3e3ac63f294cef13735eed788a68b7ee36b39ff8a28242",
+      "text": ", which reads the \"Wayfinding operations\" section of the same tracker file to know how maps and child",
+      "hash": "0c92c7979d491c99673938b13148061f839102d6cc6a5bdeb49d743ddd593c90"
+    },
+    {
+      "id": "95a22c20bbf75fa8153bad6c436499b92766c540ee6f7d7f8ec71f6c5c56c93b",
+      "text": "are stored. The domain-doc layout it records is the one",
+      "hash": "fa0cd6739cbe2cc7e9b29f217e1ef15d2ec98c627046ded3846295abf585c875"
+    },
+    {
+      "id": "a764bd52ff47f762ff16730dfe3e7ffbd5b706ca2c79255acb9e6edfe6796641",
+      "text": "fills in later — it creates",
+      "hash": "63b9354b2555a002fead5fc221bfaaf2525fd6947b4cc442adfd69345879b9d5"
+    },
+    {
+      "id": "3255404343b459a5d6acc993ea9a302b9ebfd285779dd1b922cffb19736f659b",
+      "text": "and ADRs lazily, when a term or decision actually gets resolved, so an empty repo after setup is the expected state. For which skill to reach for next,",
+      "hash": "61be13678a117b9cf5e91715ce531b24c04f45d48a235ae9d217ecdc4a78f248"
+    },
+    {
+      "id": "60d9bd48592d3b649e4f88f112cb66ad89d09f9e9f8259d166ee68c58f18327b",
+      "text": "routes the whole set.",
+      "hash": "a8d7cb2a98197843f441d6eb700ff3664db7ce8b37eb1b1d44cb9c6785ccc514"
+    },
+    {
+      "id": "5d71a846f3d3aabf065ebcfed38dba14e0ca825b01c16776b22b35177885297f",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "5233d78fb8070e7e154429f988a9e7c32ee25a38caa8d570cf7d2331763e6ac6",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "d23c8d152db8e5df43d44fc359058aa3b6d1849bf9c444553c17b6aa9535af50",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "f7084aaa229ca0de9bde15b2206089c672bd065d08e321881dabfa68d76e0fdd",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "24bfbb9f104a46fb94ee8685cb33b8f2ab221d5427b241188f9c9ca1f078f887",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "ce3755e9527bd638e324eaa2ab9bd8d2a559d94514f1e071b1172c53b9ba3fb8",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "88dde8e22fda29542ed72bb7f5432313667a08cf820ccf417652497fe55d13a1",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "5f1327b687b878b20119d2a7048c61a2a3bf6cd58130dc305fc5e8c8669c7a6e",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "69e022e19f6e671e772726e9377039236a53c45e77c22d9d7e9434c0e9321273",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "493020772eb5a9a62d74a7136b95525d80784d3ed90ed9e8e60620ced9c4facc",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "2008fa4351b8454135fe2a8d77b70c6aaf03a8d4bf6e6aa0d630e39b2080e6bc",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "4c85422b7c6e5eb12265fd79406e4a4c71ed54e573a0ff9cb86b42d674fffd29",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "e84fd13ff1239ed18c7eb5f8954cd8ea71871871fa349821bdf35d4f126ec621",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "6f53e410eb930c6b66d13c413a3cf7871496ff8077d6d8e1fe4f3e651365d403",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "3d34339dee5d7c743f65fa1f22e53da5f58195e4707181403f14c51ab7c0a5cc",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "16dc870399bcbb0e50933531fab5fe4fb8951199edd78fba44abc12772b9585a",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "b358046b2cdce4bcd5f1fd96e94da5e40ae2ce0e0aecc4299ec5ae70e637c003",
+      "text": "The /tdd Skill",
+      "hash": "c37d71d36e49748d5850616b6cddf4ce32b9eb909f487b9e1b5fcddc163ac66e"
+    },
+    {
+      "id": "71e296f710502718c9499b52ded2be77126c312e8beb6f11c36935815cb608c9",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "0aa0cff86ca53f22f7a67969d7a9b491cfe6e333584247dec94f62a8f2ea7ab0",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "86d589fd4efa1aea925c94ad6605fd03ac40b0a484d6f4e54b602fa62a0f26bc",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "9614256e00c55b7ff894b847ec1320a2400793b8600d0113934e6960c3216fa8",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "5fb7b2e7dbc5197aae0550ee8303163c2054e3432ca62a7e3e35d125bab34f8c",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "1c9fd036a7e8dbdece58dcd2f751831c427f23d6a8125fe5f1cc977f0f757f74",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "23efd079e0e9480a5467304b9cd7c9d45d5e602e4785dfe6c9ceb2a977d1c977",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "02dc27cf19fcb2882cd62508a10a335ad8eee243f10f6bfa3a50708657ce1a46",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "22da4a28b09b23956fd0e9df6a4d7e0ea829b977c6232ddb0611f3d0b65730f9",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "6374447265bb35f1146b785952666b531fa74150352a94536b088e8cc079c51f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "68bc8966c07523ba35ec75f385bff8601a8c2a17a1164be8a440578f7896e6f4",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "5dd315842754f6ac21b27ff27e777170c30f827bd60405683b0ab07f048d6fc5",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "ca0adc998739c9fdc875f51d850b40407d44c1f668c207ece108fdfd761c9f95",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ea88e516ad352e03d76186174ffceee52002ecad6c8ee72cc67a2dc8aa4a9290",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7a5c55ad14bcfbced0000d35429df320d8a0c1195408230ec3c101471b257aa1",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e6ead738b528e435b112ed69dd06a41cb47ef9da15a1e9af285df8526eef3c2c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "017f7637e456bffcfe94833a1c891b50ec92b8d4fc44dc1b72964b085b704951",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "4f6ba02b355256c04cf6878c8df2542f63cfc4df052c15d70fcac794fd764dd3",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "c5077d469690ef46d083547e4caad4a8aa8ba0fab40e524c7247e8a7bb2dcda5",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "54d844df04b533490b0a4f23838491bc653ac69df9d71685d181ffee768dbcd0",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "cda73d66a6a947e69d4762a265818ad281694f3d19c834cbbe0503f9ce2adca4",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "d84ad2cb4e3d7a2da3d6d6230a4923993e624302a7b8f2f2844a6cb0bf077cc8",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "ce560a86cd19fcd31353e6fbaa98b014ceb687afbaab88ab6f9894c6a83095e5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "07487d022c199849087fd1dc23e11041e38d7f910163bd626c443ed0ff2487df",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "1f546199ac7aa2764f6bba8310b294e7d6fecf99cb3bdcf6d86e5ad7906f74be",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"1gc984doqu7edv\"",
+  "lastModified": null
+}

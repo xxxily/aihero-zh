@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/evalite-an-early-preview",
+  "pathname": "/evalite-an-early-preview",
+  "fetchedAt": "2026-08-11T06:28:24.521Z",
+  "title": "Evalite - an Early Preview",
+  "contentHash": "657e2c2825697777ff75ee7482c541516cb9a3ca18a81c7ac7cf04e3af9a1e17",
+  "textHash": "bd6ae72b3538ddd38106a8cc22853bfa05492719ca833750fd1d6a88783332dd",
+  "strings": [
+    {
+      "id": "436f19240c9abb777755d8179e893d228273725f693d89be97fe3e7eddcde408",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "41e2c27c540dda01c41f432f58ad7e20d8aa48973c5219faec184c6a4668fc89",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "32807330847a929b7db49c05563c02152ed5da6aaa7e1c113bac5b0905fb4bec",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "a8b52faaeea0b646ac39ac0f28ced8f0aa3344a07b9cddab977772390161e238",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "aad77e3e56f3ee528c84117da11829497b6560d4457628e19f0f557ae12a6f9e",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "597804e7831b520053a242eae8d2000457b3b08691717c2820689a79e2acef47",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "1eefd1417341999f2ec42508c1b616f0dd0500993d988f410d0c02c3160e3a14",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "42b388e2b666d53489d7b3a98bd2721c896d8fe4b11344075729623629748b5c",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "2fb432ba247052d55f36f42443766207c256fb13540b7fb4cff58d67f17cbbf3",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "172f0e051c9753dd92020cd2b1990b9ed9a0f01e45c4b1759d85d1023e617d98",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "7cd3242f96aa1f54fb6c0dab06efb40e90d4c78fb0f045d14d5999a3656bcc17",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "6d27d4424cfe2fabf7def12210bc45b1b2d742c6adbfa1c0afe8d0c4a560cbec",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "f21d4e6893a147f84fab2e8f65fcc831b8abc4d18d83deb2889f197c00f45c8d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "c3d385be28def32e2150b0238b40093dbf1a2797098d516e4f700b17a85b419c",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "9e7f513f877285c5a9a99a7b025441b82174384e6081a524fb600b2fbd36461b",
+      "text": "Evalite - an Early Preview",
+      "hash": "9c186c6fd0004355580a24716c244c0e30e94ce91989e193e4cc0b5e19ae30a6"
+    },
+    {
+      "id": "64645943132042b2c9149144651789a5a79c4251c532952f1ed1e84a02b9804a",
+      "text": "An early preview of Evalite, a local-first, TypeScript-native tool for testing LLM-powered apps, based on Vitest.",
+      "hash": "e43d158b4806594c2712b2249119403b63805d9197eaa4cb79c8f620deece276"
+    },
+    {
+      "id": "ea65345cbd3b9e769989b762f8ceccaf4fa493edb59ad6524090db3ce68381e3",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "ed450b846b072b8dc2eb29dc503b40b22e79c0e9dd0e00c90c087c1152b47b4c",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "3591fe798506759f8946b085df33de51f2642e61b7e66c979b75f01c8861f6cb",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "e45c908a48049e2601080ba0a37f4d022ddee184db59184bb811b3c5e62ade4c",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "59168ba0622576b3b1801e6b284b94cecb1704c7b275ec2294eec24a4cf458c3",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "7277d102057b4e8efb84f1384c9a4133dc3a642951614d2d393a10c2aa72ad27",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "2d9b3817c531c48d507c7b23521dc424a93be7a9a308c6fd40c12fa26884c748",
+      "text": "It feels crazy to me that there's no TypeScript-native, local-first tool for testing LLM-powered apps.",
+      "hash": "ba3d3d064b7d6a081be06da6cb7a4579da185b586d1d9c7e1c13fa210e303f62"
+    },
+    {
+      "id": "4bfbbd0578b02aa8745a4c4685892f301b437575ef33f7b45266beb1e4dac4a5",
+      "text": "I want a simple test runner that can:",
+      "hash": "82f4894fdf00c02946d5b077f2eabbd0a8a8aa2da77896a3bdbcce9a3fdc8e31"
+    },
+    {
+      "id": "9258f22d45ecfa544836ca287092bb94e6fd22b58c45d9c5d6d8e948f3197ba7",
+      "text": "Run my evals on a watch script",
+      "hash": "85b1b90ddd1f4b75fc187a3f90771f2175cce23ffc7c7c120299b80183d97f51"
+    },
+    {
+      "id": "7135bc06a5308542f9f3e9d898edcfe8993cd3ad1be1c16a2c90b7590613dc9c",
+      "text": "Show me a UI for viewing traces, scores, inputs and outputs",
+      "hash": "f30138e62666da9f8a6549207ae26c574dc48799b1ec1e2346bc6aa46b96be95"
+    },
+    {
+      "id": "c305c3ac540544577a45e7111855ac5e6084ef9f689fafec9381a033f5b775e5",
+      "text": "Not need me to sign up for an API key",
+      "hash": "a05cbbd24daccb4be56470319e14ae45cff9aeaaa42dd5e117c231def1adb27c"
+    },
+    {
+      "id": "81067b061082103532d2aac4ee2691adcc96f92aa97f4425535eecd8839b4d50",
+      "text": "So, I'm building one.",
+      "hash": "f1a67d09e910be3051bc2150041f8c9dddc7408ff575a85be4db7649c331495d"
+    },
+    {
+      "id": "fa3670899f57c0cf08300c6202813edbd97242b5971dfbb0e619eda89dc8e6ee",
+      "text": "It's based on Vitest, and it's called Evalite.",
+      "hash": "732764218d48286cc2a7cbbe34c8bde814dda5c3c077e94f8223199c943a7d5c"
+    },
+    {
+      "id": "2b3e0ed5cdc8c1c942d9dd8f0fea7cfe73500e2920b08822ddaf63e6709280e4",
+      "text": "Here's an early preview.",
+      "hash": "e6ad5b5cf4c2762d5dcf432a8ccd982cf03b490689ad12e9d4f6a432d596d155"
+    },
+    {
+      "id": "b54c217b92d2e6f5a709890b38c026fe9f5cfaf596d2f770f8e8a60ea99d2f6e",
+      "text": "Don't know what evals are? Learn about them",
+      "hash": "1fc6751e40410af631c6993894a62f7bc29257a07665e6a1f244ffe6e73525a6"
+    },
+    {
+      "id": "fe8d664fe97d66ec8fb77f35f24fb9cd328ffa9fedbb235fca69d5d4845fb584",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "a7c24273cd4fe36a860815aef8924f4b1d71092353cf7f5c61531b1e03e49690",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "ea122203f593d515910d0189a97dcabdb356a51846f08f9df6037e266f478be5",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "45fc5a1d554e5d889b105ac0fb3406f98352e247fbb20e0e348c5525c916c514",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "e60b4f2d8a6a3db3a56c1aa14f95c3e98d8eb948599353d7212dbefe54127979",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "f1b1f33ad88d8c55ec6ec08bad5b6928b18c078b089589acdf3e334e5b2a02d8",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "7895fbfb44a76284d76a5d94113cbcb2b5847eb97c2520c77d6fb7bb28fd6be8",
+      "text": "Article · 19 min read",
+      "hash": "c04cee9189899b5c05e6c2a85bc179840bd49e565bed37b8e9f787b9c0eececc"
+    },
+    {
+      "id": "9b39d52fb4fdcfc22767e33a50b7526d8a5798e3a2df475be889d1cd8a18e1eb",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "0ceb1d80e0853530240504dfe553e1ffcab722130cfdcced7fbbb338fc80f8ed",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "f8a07d269d55a13320c62bdb9b9ddb14c1fc2c1d089f1401dad42d2ed8024d08",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "ad5034821f2c87116ef3a9f5533e42d914e102e765ca2495fc3e11f18fb3428c",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "6ce5fa215efda4358d350c28420aa3d335c6e2f8ff0ebd6e93ffb6bc6e63f3bc",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "86e4d775164dace1b7fa07c2d61aaf3439f65a324d35c036c32c528a7449e557",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0c96f5983287913593cb62fbec75fbd8ffb4af1cf9661bc1d785e6701df0776d",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "6cf4c7662a51cc154e05631c8c49d22192d2ea025ab6bfc7ae645c918279af6e",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "29fa37b4e5beb381897e43b8acfc6f95533194d0e5704e9d2e42a171d15e40c3",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "4a0e5aac71bedc11678fbaf2c93ce22553cf7d98f01cc48d03cd670737db33a1",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "22f5109a7451ead53d67ca0287be6ba14f1a6470e1dd02a024f8b0a8fb18992a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "82d4de6682bd17efd95e78754eee7fa5e781d5c27c4fef1bcbccef0a5a3f5c9f",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "406b9cefbe52d3ffd05bda1f9735a5026d391dbae7fa21a62108bfd0b711d59e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "830acd1e78d1ce678a10274a93913ed4dfc63c1d028f6f6f5459e867230ce924",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "3e3606198800e6f525580e5a1a5a0f835b28d92569ffad645707dd44dc298221",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "89539151168356aad019e6768ba26ae4bb8c4a5fc312df56ac7f447a8b9de84b",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "0df2d151ea6b4ca008204c210df33154b6ed168565470b9c0c8a39caedb394d7",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "dceb430cd262d9992ff3a9731ae510002ef0be84fc5e9c052dfe19774b2e15ca",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "562732533419b91f0f70a65ddab9e7ed8d1a72ad00353d798ea68077ece45b20",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"vr2nmjgtr64ulv\"",
+  "lastModified": null
+}

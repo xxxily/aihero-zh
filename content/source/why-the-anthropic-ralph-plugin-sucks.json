@@ -1,0 +1,573 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/why-the-anthropic-ralph-plugin-sucks",
+  "pathname": "/why-the-anthropic-ralph-plugin-sucks",
+  "fetchedAt": "2026-08-11T06:28:13.206Z",
+  "title": "Why the Anthropic Ralph plugin sucks (use a bash loop instead)",
+  "contentHash": "b050e86c89bf62849aaecb4d79bb5ac9c4d1c5561460b5a438085262cbccc30b",
+  "textHash": "336e3b233440832a1a4d2cfc18f03153e572ca7827f2a1c3cd69966c57d49795",
+  "strings": [
+    {
+      "id": "3cbdf7e37c41bb48ddf5e8bd276a1fc3209a4ffe824ddd0fde6faaa391a4ffbc",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "cb0ec180207204b1c84341f64731e7713b4fccd137adc2e6e2993fc086636c4e",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "8371a6e2b5586d65a115810052596db6225f9ccc8d3cf735eb781db1f0f47c4d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "33f906a7612d2d216eb95349f813fcf7c23971c27b62edaf9727446138c18b03",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "9fb90ef180e76adb2b582c2d90dcb52ade541990a606e90c5af99846f24fbf8f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "e3f77d7b539a453a8847cbcf2ded0f1a4c0156bb3ec0db362ced3080f218a90c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "c9d1f6aa946ba82a0aea69f6f1f89a670f74d9db6fe15f41225e6d1000a2ae45",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "146f9b8f77e170bf68674722d0e92a744363c9cb39d78319d011f5fd6d2cbaf5",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "3d56e87069c770c719d7d5042bb7d84c9418c6ff8e1601c6bca4d9e21f6fb41e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "bfb55c35295bde18df57fb766f021070c3b037e832f7e553a868b01f03d946ec",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "e1592d239767aefafca196d823de0d3a9e576170aed625de4d2913549f4c63f3",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "19a23faa3817b77d4eecb61f9b5d6baa0e8a5ef45e1cf7336bd09c29eb174f44",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "78b734e8eb875d49121dfab1d048965b907b77b0ccde01497c4ad78fe7bd328f",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "0111d917aee99608bdd6bda9be031c352e9527fecb5e12ab7c6eb42a0ee2c290",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "59d4cfdafc1cac586c6aa81dfd7477699ea3437472397eef9839c14024bf4da9",
+      "text": "4 min read",
+      "hash": "4d9657762e6c77a0b993256206c8bed21d2fb2cf6f39d987bd7ff233fe4349e7"
+    },
+    {
+      "id": "7fc3afccf8352ad10f5097b1e16502e9c52b8fa1d5e831981546c09f931f9715",
+      "text": "Why the Anthropic Ralph plugin sucks (use a bash loop instead)",
+      "hash": "5209a91e17bd26bc56cf7ab00f2b8f41565310781e206b9b2afc62b18f32c8ee"
+    },
+    {
+      "id": "301d4e608128318078570b15ab568a831e314d0372b29c0fe7827a7dd53190b3",
+      "text": "Discover why the Anthropic Ralph plugin degrades AI performance by filling up context windows. Learn why bash loops keep Claude in the smart zone instead.",
+      "hash": "111dbd87cb51a8881b78a99e23b63c80c2f297300af2f9cac1b24e09a2e78af8"
+    },
+    {
+      "id": "364bef2f09c53f43581ad845da80547c9f629b042ac0f0644c25cd7376433dfb",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "b754495538e92e7f7dca17f60c327e7b9d823e9801451789b4926ccb85edec50",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "669c47f0d447b9da441d76f75808a74658293859e0f4d3c83715c297c2db8f67",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "409ca7f81de6c40c8893a11b3e0c2b346bf2cd732d24447dfd1d5d9287a756b6",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "0f2cf518705754f08d73e20a21885c54f8ab66d750aa61d6e791b5bcff081d40",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "6f848f747f803963a356745bd207a22a04ce67c866577bf78e21d4e6b26571b5",
+      "text": "What Is The Anthropic Plugin?",
+      "hash": "629da7c73cb14e51fe40f4e7f8bb8118d5c502361ae78ce893db57094c2f4649"
+    },
+    {
+      "id": "17761efeb6a1604e23e8df8800c45aab031d95e0429b395d7e7f4be8b1f4be76",
+      "text": "The Problem With Anthropic's Ralph Plugin",
+      "hash": "96b31032669442793cd50d5a4c81be67ab42c3eaec8e3decc3e68411b7e01811"
+    },
+    {
+      "id": "51c2ebed67174461244a036dbcef005070554ab537151fd44141d501dd36e3df",
+      "text": "Why A Bash Loop Works",
+      "hash": "c7dba6b25763f6bb2c5b42f1fbfe6d58d6a3f06aec4831cbbee0cbcaf034bc98"
+    },
+    {
+      "id": "ab66246f4a5285fe68d9175f2e9e20e849341b0b5c4d4ac88195e2d33cf47a6f",
+      "text": "How The Plugin Breaks This",
+      "hash": "626c0b5b323870d63e901b50279ff76adf7ef64da35990e20c582b977dbe4c45"
+    },
+    {
+      "id": "f52dbb8d05111742ad83b0cbd0f89b12a31671459ffe4ed969716a77251977c7",
+      "text": "The Solution: Stick With The Bash Loop",
+      "hash": "fe488fff6800e61242770b3e62af515371605d9dcf384024fe03167b8b838b4a"
+    },
+    {
+      "id": "6537e507a79cbe7c5d1b8124ffc9cf71ba48b8b0b8d26c01609601df217eae9e",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "51bc1ce2e12f1e749328d4d96220373181d01da32026fa7c1eb1a79ae3223bae",
+      "text": "Ralph is a development methodology based on continuous AI agent loops - a simple bash script that repeatedly feeds Claude a prompt file, allowing it to iteratively improve its work until completion.",
+      "hash": "058f3011a3a188925763ea7dd739e2fa155200971fa7cca9be0d41bb6de0f033"
+    },
+    {
+      "id": "df6f97ae13c9d68d8dadbacbc18324b811314fd02aec5983a754b2d0a78fc842",
+      "text": "For a complete walkthrough on implementing Ralph, check out the",
+      "hash": "3e8d62c8675f5e4c0de3500a57244614b61daa212176b3a43a57267e66f0ae87"
+    },
+    {
+      "id": "eef0ab018144c9c87cd92828740796661de8999e2c35b67a6943a4d08ee673f1",
+      "text": "getting started guide",
+      "hash": "14301f7e79d9604f8de3dbce69fd008a6d935c0e97679349acb0c944e7c7831d"
+    },
+    {
+      "id": "49434945af44ef59c1452dd5a4fe56c1520ceb1ecacce3097201e823cbb06d6c",
+      "text": "Anthropic shipped an official Ralph plugin for Claude Code that's designed to automate this loop for you.",
+      "hash": "d9cf25d35fb786f279691a4c4184b49dcb42bec46cf975e404563167f42cd8c0"
+    },
+    {
+      "id": "00d936d5d6f8e2fa438f7cf441eb4390888a954bd34eed54f1bcfedab415664a",
+      "text": "Instead of running a script manually multiple times, you run the plugin once with a command like this:",
+      "hash": "c7ef9d233b5d2457b8b8db69f2947c721fe32e0fdf6f672ad56e833bd53eb81c"
+    },
+    {
+      "id": "7c39cea71d27d7f326a8698516b3d226534da6799a5efa0cc46728d8233352f5",
+      "text": "The plugin then handles the looping automatically. You don't need to write bash scripts. You don't need to run commands repeatedly. The plugin sits inside Claude Code, intercepts your exit attempts, and feeds the prompt back into the session automatically.",
+      "hash": "2ef0f27a7620bdf85a314f90bcd5c68c4c7be32eaed94c0e04fdca41ebd06ce4"
+    },
+    {
+      "id": "c4c4188e2f192bd74cd458b056f4af5835bd4892c22a1c2dc363726b256114dc",
+      "text": "On the surface, it sounds perfect. It automates Ralph so you don't have to think about it.",
+      "hash": "e632665ae08c828863abac7e170ba7b22cd186cddc7a8556ff3263e23252ddc9"
+    },
+    {
+      "id": "d188c2c94c1547dfd465680bcf7b2ff872af03b4275451487b78c4bef49e16fc",
+      "text": "But there's a fundamental problem with how it's built.",
+      "hash": "49d551efbf2702ba6b6cf2c47bc5e0dedbd4576dde7a44365704dc3a0a7805b0"
+    },
+    {
+      "id": "fdf7b4c9ec86694f2d230e144aa5295d1f0e3f9830e4137ccb992c53bbe2682d",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "b8f074953129ed068c84625faee3ab59e351e956f58e7d162a8c94b96c3ded02",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "eb23d183473b43c194bc774295a257b4a75106fa0ca43dd408036ce4b584c597",
+      "text": "To understand why the plugin fails, you need to understand how LLMs actually work under load.",
+      "hash": "0d28f21ab73d8127952c46a53e71deb2f7427c3083bba6b563d5454fa1a7ad5b"
+    },
+    {
+      "id": "ec029817c1815433d3722de738ab956f4af8bc41cd33e6aeb6ea9fd8e6cf8b8b",
+      "text": "As LLMs receive more tokens, the relationships between tokens scale quadratically. This means LLMs get exponentially more overloaded the more tokens you provide them. Each additional token makes it harder for the model to process information and make good decisions.",
+      "hash": "83ae21c62c63caff05587d06f9973019b605308791f6444d26c576c1136805a0"
+    },
+    {
+      "id": "c32e115e96ad1e173c376b5a46551597698a47d63cac5b6b7766b37eb2ab9b76",
+      "text": "Practically speaking, every LLM has a",
+      "hash": "5379a6a792fb443bd8739fce7dc1a6ce10611cad4830bb1de32f7ee8606c1fe8"
+    },
+    {
+      "id": "d0623780737159ed514153a02b520b77f5124182d970b928f8b9af88f21cf735",
+      "text": "smart zone",
+      "hash": "bb3f6aa92ec029f636da2bd637e41c9e6c26586e54527ede34151e0cf892cdb8"
+    },
+    {
+      "id": "6f20ed4fec1fc427d478394fe592a7eb7bf858725e5d548451adfc44677ef90d",
+      "text": "and a",
+      "hash": "e11d5d6d1efd47cad73019f917eb0b549eb1c5f214058963b175c00619040c40"
+    },
+    {
+      "id": "e21982af6d0fb4fce074955e519e5534fff7fc6813e02819f7202ad5dc19aeed",
+      "text": "dumb zone",
+      "hash": "d1f4ef2612da4453aa6dc92c0023b63f3efd20345f0715a9e437d9a08a5dbb8d"
+    },
+    {
+      "id": "de60a5ad7195d76c2c0c8bb59106aadb4f014fd2cae0a6b92586986abb506f6b",
+      "text": "Zone",
+      "hash": "a8a06e4a5695553c674ef4cf83caa357f4ea25167fe957b3761e7834c94f88cb"
+    },
+    {
+      "id": "05c4158155b282de58a1800402a582b8f79c142762c1a4e16d9a04e92c517158",
+      "text": "Position",
+      "hash": "6d031af10da7a25e554bb21247f28f0e6cef77f1471175199e7fcc571964dc3d"
+    },
+    {
+      "id": "a5e09d8ff166b791ea89efa964e5be263cc79730d8ca7bbe143878aba1878daf",
+      "text": "Behavior",
+      "hash": "edf8d3f1781f32f09359cd09dfcf6ef8a0b8cffed76cb50ac52d2a4b8948b150"
+    },
+    {
+      "id": "14eafaefb43097756212b5e0c91b732416eaa6b9234782d706eb319b6f2af77b",
+      "text": "Smart Zone",
+      "hash": "e1169558177e612af28fe78183d32990ecc24ef4b25b5785a146c9f29b451746"
+    },
+    {
+      "id": "68bf111b0d9bd52f446438d29e89e482fcbe3b00da00e8291d062cd4b85bb5d5",
+      "text": "First 40% of context",
+      "hash": "0dfea0e2201c756f7889b021139136c391dd2805ad80cc09992a54761dff56c4"
+    },
+    {
+      "id": "40810d549b6b53b753d95b19b0f80033cca2302cbd3a42a9f484ddfa47ef31c0",
+      "text": "Sharp, capable, makes good decisions",
+      "hash": "29b30ac6aef058ded879e16ef345d20014a3c08fa0da9969897afa490f9f5080"
+    },
+    {
+      "id": "0fbd7f1ea8146d7cd02a68bce182f3bd4f90a4c3673aed90e064629374ac9565",
+      "text": "Dumb Zone",
+      "hash": "cfba36c34c7248f8b631e3337485337e6c1fc836501a4efbb200496d023a5ef1"
+    },
+    {
+      "id": "cf2419513f8741c213faaa1d1eb0763e59e747de9643b8008148e56fdf398ee1",
+      "text": "Last 60% of context",
+      "hash": "1aa10e8b3dd72fd3d634d867fbd03cfe6fb41eb95fba287272e373cabf743ba8"
+    },
+    {
+      "id": "26ebe0f83678954ebb9787bcf63c85c71cf4db880248192c44a9cbd6610ca7d6",
+      "text": "Confused, mistakes, degraded performance",
+      "hash": "eef37e2d5b9f2dcfc3f3ec565d2180f9088cdebdde3c340bb5d4d3ef323c0405"
+    },
+    {
+      "id": "e3cd5ec9c988ca11e14dbeb045305508142fe902cdbede4b08b9735b6f245b29",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "996d8b85f08232780250e050a73427c390ab9e1208504aeaad82f465b13e8c21",
+      "text": "At around the 40% context mark, LLMs start entering the",
+      "hash": "8e60b4c4e787172936a80a33998e9608aa1d4f184d9ceba099dd8f626bafa37e"
+    },
+    {
+      "id": "cd08e3c1419bc97eb7bffdb21c15229cdaa7c22baf718f54be9ad125e8fb9fa6",
+      "text": ". Most people debate exactly where this boundary is, but everyone agrees the boundary exists.",
+      "hash": "de08af9f63b8704f20a46b479813b43d00915b64dcd99f5d94412cbe09449905"
+    },
+    {
+      "id": "d6f88cb8ab0547727daaddd7b1d9e2c86e26ad56021f1dd383dd3d9b0de0a594",
+      "text": "Ralph keeps the AI in the smart zone. How?",
+      "hash": "cc5d342482d8e68ecd048d8666b9da9b839b970a1e95ce942ab3701468c2eabd"
+    },
+    {
+      "id": "1995a76e0405e8b9147e368e487c45f17125c4228e9e073fcf3f118d7184c754",
+      "text": "Each iteration of Ralph uses a fresh context window",
+      "hash": "7f71f9f9b64fe89378d66524170ee91be24451001221579d476a09716d517abb"
+    },
+    {
+      "id": "137edab63aff3554fa777f1a4ad879438fc1b2233e450193276623452fddfa66",
+      "text": "When you run the bash loop, Claude starts with an empty context. The PRD and progress file go in. Claude works on one task. Then the script exits.",
+      "hash": "5160d70a90b463dfeedc543b98b00f224c5de6c70587c1a1aa8bfa6c019e40f7"
+    },
+    {
+      "id": "72714f075edd9e0428ce7d10eb970be2eeb31dfd61357d2a35400c2ae3a710f2",
+      "text": "When you run it again, Claude gets another fresh",
+      "hash": "f3ef04449717aec0079466292f66be5ec159d14be4b76703a3c2341a41c4c13c"
+    },
+    {
+      "id": "77169e50d5572caa1e626e9daff1798d01fb969acd8bdb85cb391a4ad72570b3",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "d0f34d0b307d75ef591476ed76fd9057f9288b78e6a19efba4a8f57bb8e768ab",
+      "text": ". The PRD and progress file go in again. Claude reads what was done before (via git history and file modifications), picks the next task, and implements it.",
+      "hash": "b879ced5ab333718481724f030f5ed329b138c4371c190eccbd8219520318db6"
+    },
+    {
+      "id": "58741a48e7fbef56b8d0eb5e812b0c029b2d90e983404b09dab7ffcc9e336a53",
+      "text": "The context window never fills up with cruft. The AI always operates in the smart zone. It never degrades.",
+      "hash": "e3d69ece4860c283aa2902795b4769ca9a66a0a72f046f94ca97901c5c542166"
+    },
+    {
+      "id": "e452b6f54282bf42487e521894f86a94e4c021b73db1847ec619f2f6951d4719",
+      "text": "Each phase resets the context, keeping the LLM working in the smart zone where it does its best work.",
+      "hash": "358ffdb51d491c5823d3367ab638d6ce4e85ac9ec3eee8f3852bf08d9694cc97"
+    },
+    {
+      "id": "9c77de86c0812a509e0118ba8dc9cd6cb30f91ec77ca84f69ebf8a5a78910077",
+      "text": "The Anthropic plugin keeps everything inside a single Claude Code session.",
+      "hash": "242d9f59377d7ae58a4d0325b7da37af4c8908d939863232aecdd6bee434b6d0"
+    },
+    {
+      "id": "4a816f1aa0f3258251737466d102d67f8fea593fb8c217c8b48fb829ee0bdd2f",
+      "text": "Instead of exiting and restarting, the plugin uses a \"stop hook\" that intercepts Claude's exit attempts and feeds the same prompt back into the session. The loop happens entirely within one session.",
+      "hash": "b5d598b4343f02164c107aeab76edc7a74f474dc813d9079398884f0a19fe39a"
+    },
+    {
+      "id": "4e7fd507480a4eb0d1e9df1da55c685b96ebe58dec6cb77b61d4df368abe83ec",
+      "text": "This means:",
+      "hash": "6d053c16ae8f497d72e752cea3503b5f6aa98905d5f8c4d21dda0250fd3bc23e"
+    },
+    {
+      "id": "4d0d20b7f0d1b8c9b47353b2c54b7db85243412cd3d34eb09c4528a12a68eebb",
+      "text": "Iteration 1",
+      "hash": "9aae554941178a68c3be8c87e91747e366241ddb332d0d9df264dd9fde3847b2"
+    },
+    {
+      "id": "511e41f57dc804118516f1b724a6e88b113f3d7f4aee144a4cb8f81a0534708c",
+      "text": ": Claude reads the PRD, implements task 1, context is ~20% full",
+      "hash": "c607b022152efafeb6eb53eb54397894684b815bda2068b35d3d490fe2738af0"
+    },
+    {
+      "id": "e9472cc332db48b779eb603a62a0b043944e785fe09a5ccdf7df93a47153cc05",
+      "text": "Iteration 2",
+      "hash": "ab60d618ad0d4fb77d1a7958d72b84c858524d8fbd68ecb5b8625009f7fbd985"
+    },
+    {
+      "id": "532c3e02ced2b1b9f1c85ce5fe21fd13bd82c607529342d04b11b8b3f43d47af",
+      "text": ": Claude sees its previous work, implements task 2, context is ~35% full",
+      "hash": "72fa4fa6afbc570745250e0df0f642111d2473cf3bc98f8c4918f40a19ba4fbc"
+    },
+    {
+      "id": "09f46829b30b1c832892e8c8e137d58b16d6fd6cec641f7ea12a1c76e64725f8",
+      "text": "Iteration 3",
+      "hash": "d1e27275fa1b2575d55b8496847cacb972c4015038ce1284b47ae7d224962df4"
+    },
+    {
+      "id": "31b439a70b919cbb6a5911722675d982861e775bb59890997816806b51580d48",
+      "text": ": Claude sees its previous work and the last iteration, implements task 3, context is ~50% full. We have entered the dumb zone.",
+      "hash": "4595bc566dd790fa110ac121962a7952ded23b195b39ccfb1faff174d77a0e56"
+    },
+    {
+      "id": "d24ab25a61c4f7da43a64ce385b3ade3a611faed2d86b680ba482c81530980a8",
+      "text": "With each iteration, the context window fills up. The plugin accumulates session history, previous attempts, and accumulated context. After 3-4 iterations, the AI is working entirely in the dumb zone.",
+      "hash": "43fc23f5ae1c1856b5e5cc7f120a954de2e9468c0bf2300406e8904b0c2714c0"
+    },
+    {
+      "id": "abb6e4a3ff1990c37cad4d35d381325fc7aaad61d496d03f9129fe4664816241",
+      "text": "In other words, the plugin",
+      "hash": "e59de92c5ef6abd42561747029165d63c099fc5a889c1699a736fc216c358ad3"
+    },
+    {
+      "id": "adebf613977e031c632edd7a2439ea7ff6caff3e2ee2abb3b030c6bc36625e30",
+      "text": "that you're going to fill up the smart zone and enter the dumb zone. It fundamentally undermines the reason Ralph works in the first place.",
+      "hash": "11893048206d8e250b9cf0f39fa7367e3f94c172167372129716ecd39d97a847"
+    },
+    {
+      "id": "1f7fb3f808c4dfb4ef8ac42ec146bf1a032eb356abb804e44688a95680f7ed03",
+      "text": "The plugin keeps all iterations in one session, causing the context to fill up and degrade performance over time.",
+      "hash": "8198d9af7e5fd897f29f9661d67d74dfde4f5d01fc3b40357b2b1890dc73543d"
+    },
+    {
+      "id": "14d69afb048480e0b2edce6e50334c7ba4e8fe0fafde23179ac82d715b03db59",
+      "text": "If you want Ralph to actually work, use a bash loop instead of the plugin. Here are some resources:",
+      "hash": "c8c0a490f4c36aadfa6f6080fbc254e80b8ea02d31485379a5dc7c0f5ba8446d"
+    },
+    {
+      "id": "85db226878afafeafc14c2d7ae62bc20dbe55f42b365687a510c92570092dceb",
+      "text": "Read",
+      "hash": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca"
+    },
+    {
+      "id": "657b68541f529784ca64324a72d89b4ade075d7adcb9973f571f5cbb04792304",
+      "text": "for detailed implementation advice",
+      "hash": "d4ab306bcacf6ee206f7cd1d3f540eaf77771b0a84763c936cba6dac7336419e"
+    },
+    {
+      "id": "7ed576180a906e9879eae0f9d18e565a36429d214569ff206b6d1404b2f6fc5b",
+      "text": "Learn more with these",
+      "hash": "f3519d3992a1bbab4fdce963a2d8c92bf414b069693469975acb75e7e8f01bb0"
+    },
+    {
+      "id": "7bf81a3dc66ab15921b74724d8d83e33185ad8a465d5b863847e64a8c632c47e",
+      "text": "11 tips",
+      "hash": "40b0a138cc58744fff182ce5d9af0ee6f8459ec8ca49348cfee2a5029f3cb5c9"
+    },
+    {
+      "id": "b5ba51f83b15c1418392d4409fe7df6edd44d758f04466bb50fbfdc3188dd0b0",
+      "text": "Learn how to stream",
+      "hash": "beb0cbd1dc64be5a25b2074ce5fed1ff62eae8fd21a3913f3677de7b9d391efc"
+    },
+    {
+      "id": "0699828826987a89f85aaf75d49ed721823efc802fdb85c4eb01631249220299",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "87c3e89ae27fe82913391568ff06e7154210202a650bb107d095d509682ee682",
+      "text": "results with Claude Code",
+      "hash": "fcc6f3142e601295bac9dd80862acc304c13967f4c9c3354d23a944acd18f6b5"
+    },
+    {
+      "id": "66a2a4c82bf0403556e047ab972ad083c7c9c55f2d357f8f119e42390f0b6879",
+      "text": "Ralph works because it's ruthlessly simple. Keep it that way.",
+      "hash": "3af239917660c2f46852aeacf89a55d63fa1174be97be724776bb8e370650655"
+    },
+    {
+      "id": "5b52e49494c5b8bf046ab08739db42b9a4a6eed7d6043ebbb0a29093381c113d",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "982fc698cd7bcbbd211aad5994544a82ab73c200b8835bdeacd8096aea9f8bac",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "6099e1757845babb6e0233ce24fd147a348426ba59dd6bb62dfa1c930c2cce17",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "f066a042d051c2cda9b5b7a1e35c01286a098dd188222b487b24b14699339c6b",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "4b641b5d4cd702287abb55e9eaf1bc27ea827532189daa91c5a7ebaadb6ff708",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "e05b05d59c4eeea6e49c1ffd25fa345546a6371e0782a04619d88fb2515e5d0b",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "e501df81c78fa16783632e4e6fa11d63c573b70e0829dc921b918f09064c2ed7",
+      "text": "Article · 20 min read",
+      "hash": "e9c3d63753a037bdaac540f3fa2056699022f1b6029d92cc9bc69b1e4f863a18"
+    },
+    {
+      "id": "70cdbf9c0fdf728d23004e5d40c8c379e542d466350e10f2b0d629bb81f9cc46",
+      "text": "11 Tips For AI Coding With Ralph Wiggum",
+      "hash": "59a78eefe41a098856366e524a8d5b33baab13286f03e8fba9106fea52bbe4ae"
+    },
+    {
+      "id": "7371d5affdbdcab49fb813ffe0edf0cba477db87128a640f83f4006851daea9a",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "3271ebd7bc77be6467f47f3acf0c82f9593aaa7d33d6fafc7b51bfa6749d1900",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "b4386f34a6d34b27dbe470bf1b923cd3da6bfc6f47b90a4be159c258181723b4",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "cf136780f00bee37f17a3b8dbe306f957cd498ea849d86af4a475a44ef2f8134",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "1cf5c5e569d44bf26d1819b3d085a1bdad32ec0ad76ac2ba3b98306beace7c5f",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "7764335fc87bfb5846193973b1490dbc6732a19c998283da5722b89d8f480f9b",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "f05aad42a1fd0baab7ce5f35876920b29f9ea9f5837a7af7890b3e776dc57158",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "15f9ea4cc8e62768c4fa49211d1c9ff5c6d1e780517aef2d3077fc0a447a8a0f",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "74253985dc6b13088d2ad762fd6cd0d7ab639cebad8920d9f422dc29d1eb9e4a",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "950b52779f40cbacff370bfc377e8734c276152b8c37ecb026c315b2187e46fa",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "192ff69ac39228b300bdcf9eb6d10c06f30c6a376baf70f0804024fcad27e92e",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "052112915df8ab9e6da53d4a77284ad13e05a33e0897b2945a3d4288ff0b84a8",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "3830d1538c04bc965b880a23a6c26ffae7f20ed7ff2dab82d5f852b7a150bcc5",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a0f2a06aab10022b2a1c2a2f385aa981ee8d5bdfec4eb31692a3848b25320866",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "078fd469d38683b0849cddd630ebec5ce192a396310c6409fa4f979fa614ca92",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "85492504f11d81835a10278e5d6d4d1dbb873d430cef2a6cfe387cbe2126be51",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "993f5fc10955e446754f2e72181bc852b5159e5e5af3720b25b963d5dec99f16",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "4fb0ab36ddd611ab96c9e0db565ce1d7987a0fe09d76817581015845c5a55db1",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"v5k0mmsxxe5t24\"",
+  "lastModified": null
+}

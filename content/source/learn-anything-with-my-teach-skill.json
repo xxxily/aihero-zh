@@ -1,0 +1,528 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/learn-anything-with-my-teach-skill",
+  "pathname": "/learn-anything-with-my-teach-skill",
+  "fetchedAt": "2026-08-11T06:28:07.293Z",
+  "title": "Learn Anything With My /teach Skill",
+  "contentHash": "e7f972e6263f2acb6640924ead84d440f2b703d483a35d72b99f373c1cdcd3d0",
+  "textHash": "42d0d8acc243446a674d6b06ddefe554b375801998b17e8e59bd10079f7a4dff",
+  "strings": [
+    {
+      "id": "5380351868cad58c5e6c89d3d004b7f4fb760570f1b1832611efa303c61803e0",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "9163913697e4005a58f437a62d6e1c01749b7c82cabf15481b3f753ab3554bc8",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "361ce733793413e5d725204a92de153a03d12db8e30cf6ae9b9d7a5965e0bb2c",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "a908af1a049225d1fb656d6c6c44735121c3694a766202256d2f0a850eaf7616",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "8ef8d8af18ae11d695cdd73a6fa6ea1c0e8038d347df28046cfa1fe3ff4a4e63",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "31db31bd2c0c795f3a0004997ae7101da64358bee8e6e89cd6da0c88d33a92a7",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "a36f578ea1d47256590dfe56074d9f45ea9db7052cc4c86781bf4c850c0fc304",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "494439f11b25534e189ac7c36f9ac62ad2a82f99e27de2b8b723820600e5b0bc",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "ffd1e10d1c72dcc2987fa12a512e373e8b663e43e01b1f63d8cb1bb1cbf398eb",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "c3a0d53a844dd330506e2f05400245e311168f630c006ef0e7b5da0063eff5dc",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "af5c12e1169c924040af983a86a8b44c46bd55c2c95857bdb832e0e508f61d27",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "3762f1c3e8dbed995147129d46db8f99f2c90d68ef6be5b2c520ce4f2658670f",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "c74fb7dcdc3049fa436e197780a928e47daefa0d68ff144cde7f37ab35c86b2e",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "464a51f90bee8e48f030c88a2a090ea608d3e94323caa470c9ebece676bec132",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "602dc7eac967777ccc0fea6081e0f49d43616dd43178679ab5b12dd100b28380",
+      "text": "Learn Anything With My /teach Skill",
+      "hash": "087e41020c045ab0508ad79621c0751b424f5d9af028b7d4f3dc64d9a8e0bd63"
+    },
+    {
+      "id": "4da42dad37571716ea9860d6463893014ef6d13eb556fffa8b76a7cc2916a21e",
+      "text": "Learn to use the /teach skill in Claude Code to create personalized AI-powered lessons on anything—languages, coding, skills—with interactive exercises.",
+      "hash": "07837a3e6a399027c6fe45b077dcbecfeb60ad3bf324fc16d1a8ca3bd552d76c"
+    },
+    {
+      "id": "b7e105212e87454c7a0696f19c29d621f6812f80470828e7de8dc2365a1eed4c",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2d5a57b6024880a59fac52e0de2728aa47f8d461989b36b45ae8d3e294f658b7",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "2c3aa6fd66037ebe80b65e86603e62af2fe4eabb63962f962c7340cc1d229860",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "9385c9b960731ffef6911c2d232ed3c12a996812c3bcd4c6a47e145043a7945f",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "dcfaf6f91f8fdfbeb8d07677751389b5ff2deec2978daf93ff1a884270c13e13",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "4a010b86bcef72020a727ac4ec644641bca1ef66a137456f00e8eae4afa503c4",
+      "text": "Steps To Complete",
+      "hash": "aa5b03d230cb1c4bf0f3efc58ca8166aa3ebf204f5bf1c1cce9407be9429828c"
+    },
+    {
+      "id": "9ef5316b1c3875355851f360a75a1d60050f513e5448c0de97de93d86ae44634",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "590240fef5076924826270511f7ab7bfca90d1bbd3173905916e444a01e605bd",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "a3260108ad56a83493cf0a08e007d367d82bb69eed1514495a2391bee41a2481",
+      "text": "is designed to let you learn anything using Claude as your personalized teacher. It doesn't just generate random lessons - it understands",
+      "hash": "8f6fe35db77b9628533bd9f429108b8a4ced87a983a0a46c39011052c3a06117"
+    },
+    {
+      "id": "95b1bdf7e32fe01875e8d12cfd7404924f6d8d473ef2b6c406bca52fed304b3b",
+      "text": "goals, adapts to",
+      "hash": "22cdfbdbf82965cd2be4f09ebcc509b8e31ce6b7a93e6b5e6348ea6c12bbccc3"
+    },
+    {
+      "id": "7306d8e8f9aab0895c114f4d1a29aeb76742e22ca50134e691f207132b208890",
+      "text": "level, and creates lessons tailored specifically to you.",
+      "hash": "709ec2c5758e87b5d25112bc40ba769decda554c199c70a506ee917204d482bf"
+    },
+    {
+      "id": "83f9e21ee99ab38768286b75b26ddc6b5031d1b7295789694f8670f4f2c1bc8e",
+      "text": "The skill captures your mission, finds high-quality resources, generates interactive lessons with audio and quizzes, and keeps a learning record of your progress so it always knows exactly where you are in your journey.",
+      "hash": "86c9bbd74d63f23fa16b92f6131aef847edde7da950b8edd40512af28a97983e"
+    },
+    {
+      "id": "5feff9c4b6b9d945c49756e6f6fa13ffa982c5b465296c4fb261a4c85c7b295f",
+      "text": "Course",
+      "hash": "2096cefba06a32ba5c67955490d391a5a98442e61f63865f39659c25f52f2426"
+    },
+    {
+      "id": "ef63f123f88ae67a282c838e578dded0005f03c9c20776f63e54289787e80d0f",
+      "text": "Learn this way, live",
+      "hash": "961b733cb22f0c923ed43d99f19779a5a10e518627cc4d92f4e389377e52f7a1"
+    },
+    {
+      "id": "31dccb02cf92e33a4d2a6bd8d424fc6954b92f8e17812f3a895e6d17dded445d",
+      "text": "The cohort runs on exactly this workflow — join the waitlist for the next AI Coding for Real Engineers.",
+      "hash": "bf7616a28f6a4a1d28412f6e1343f3206d6174936484ecdf62305e4dae75fd3e"
+    },
+    {
+      "id": "b2ab23d0fdcd5df1b4932eb4379ac5cb1da94b618460935e12549cf4da13d98a",
+      "text": "Join the waitlist",
+      "hash": "6a16124b654c7660f3a37d8b422d70d23b94b6c771d8773d7ea1cf6c3a4dc391"
+    },
+    {
+      "id": "f340a1dde8cf7bdc8ca7bee44df5489fbd8aadee0443c628e597cb014411ed6d",
+      "text": "Set Up Your Project",
+      "hash": "60e936b5df00feb84feb5918d5ece7202cb1d6480c70f90a33aac112cfd87d86"
+    },
+    {
+      "id": "49aa2642bd47cb43c6dd51d5815bcda5edb3dbf9658e2d29d03a43e47c3fd439",
+      "text": "Create a new directory for your learning project",
+      "hash": "0c7e41f74ec373d09aac52027437ed0e7e328011c97bb51dca5186fb252d6993"
+    },
+    {
+      "id": "a70ac8f9374bf5d87db02f9ef01a8db1959509eb22cc6b91940836085860bd4d",
+      "text": "Open the directory in your code editor (VS Code is recommended)",
+      "hash": "ff2056b54874fcf0f9cd12b0f6f9db059b2a45355f1a7f9752f6fc68c313d060"
+    },
+    {
+      "id": "85eff14b41e460cf7f9e3cff0510bb92bac84f0d690d9dc43a47fe8ff021758f",
+      "text": "Install the /teach Skill",
+      "hash": "7674d2484e054da3f8a65454a35a9e71203f5e3c54d99301bfce2590cbe03de2"
+    },
+    {
+      "id": "3e9fe6f6f61d1b830b5fd9dee694e3a1772500c5b7498929e068fcf11f71a751",
+      "text": "Ensure Node.js is installed on your system",
+      "hash": "2b511651c657511cb576d21048b58aa5fec4c727d672fcc7f3bac4972e2743be"
+    },
+    {
+      "id": "cbd2da003c85d1388c072a2ece3127b3de1cf720663252cbb39be82c6ba6139c",
+      "text": "If you don't have Node,",
+      "hash": "9cdf270ac385a67b78ba3d4128e825475b5f992b7e0c3ba2b034c80637ad8c1f"
+    },
+    {
+      "id": "1f35690aaf0a232a0222fdf59ca4b273ef2c4940fd1f5d764ae93bcc97cf4f29",
+      "text": "download it from nodejs.org",
+      "hash": "07db497920a7a79e29098c152275070fe73aa91d84d5f49b5ceeca99802773b6"
+    },
+    {
+      "id": "10d0f7562c259982a02d3c0bcb07b835d45cc191f0270412678d5916d921b9ed",
+      "text": "Open the integrated terminal in your editor and run the skills installation command",
+      "hash": "acc5bd712caafec9e26a9c5a1624c5ab34f0e562cab58a049ad5aee7d801a9ce"
+    },
+    {
+      "id": "60ced9867a6586c9e589db340df7b86cb35f7b4523df878215bb16d54103a9e1",
+      "text": "Select the",
+      "hash": "8b43c2f0a7ff82b892c7693313e7042e03f05940d8f692b78dadcc234883861c"
+    },
+    {
+      "id": "efb23250e0c9316c98cac0242dc32d985b5f172d918e1900caf7776a73770cc2",
+      "text": "skill when prompted",
+      "hash": "5335affce580b6f97ab6a41843718d575e5bc66eaa1344d29895457f1b330d06"
+    },
+    {
+      "id": "35883ef2578a6e47f21d809cf41c66520d6b126b875557f42e0abc833ecbd5cc",
+      "text": "Use the up/down arrow keys to navigate, then press",
+      "hash": "f00af66b110b7728e42aee7e219d04d76bacd94619edb2551f99bf73be0e2c85"
+    },
+    {
+      "id": "13b62aafbce1dd98bc520888e5baecf3426dd8764f08b83b9284dfeab1c52e82",
+      "text": "to select it.",
+      "hash": "1615175a5448775a82aa665851965a7633d48813296bb40a34e082c26c051526"
+    },
+    {
+      "id": "5c38150dae32679c3e7742845cb1b90686863d0350f474450c7d7c37eb9cf3dc",
+      "text": "Choose Claude Code as your agent",
+      "hash": "5456af167c1ce2e9ac3773e75383c574d98715a8c340937bed9c60dddaaeab1f"
+    },
+    {
+      "id": "1de930834759c41422dbb300751e1ea9d91a8f3ac1d28e49a7574219365d755f",
+      "text": "Again, use arrow keys and space to select.",
+      "hash": "ff9d590281aa933d76b3b5ead5bdd13f14012e13037bc90b537f085a123adec9"
+    },
+    {
+      "id": "3f53d70c9078f5b59ffd3b310ce819994df353216519998441440237355808c4",
+      "text": "Choose to install locally in your project (project scope)",
+      "hash": "0b740fb9a66352dcd3ef2bf24d0e575ab2bbb507bfeb997853105fefc5af5451"
+    },
+    {
+      "id": "9cfc7098316c8ab08dd4c5a108a4eb492cf19ba8bcc964388ab9616cfd54338f",
+      "text": "Select the symlink installation method",
+      "hash": "ea51aecd8124cebabecedde2815c9b46e4d7acec0f93d25a21ce03ef42d0b2e6"
+    },
+    {
+      "id": "74025d5efec8231f11cc7f3f509b870e6e38e17ac9c5370118656ea2936c5fa5",
+      "text": "Decline the \"find skills\" skill when asked",
+      "hash": "59ddfb296d1a2e36a9c3070080435d187692baeef582df6b9ff10166dc40ef66"
+    },
+    {
+      "id": "3cc4dd316e4e2ee3e1ddd571cccfcd8ecabc94395f1c5de2cad022e6a1bb60b5",
+      "text": "Fix the Agent Directory (if needed)",
+      "hash": "805312333ebb9b8e4e0a3ee922aee2065fad797f33a165cb7f2a70be9860fc99"
+    },
+    {
+      "id": "918352bf563f741126cf2dda0c3427a1562eb81e95b5125abcea097f291e3e55",
+      "text": "If the installation created an",
+      "hash": "99d52f99dac970a16fdb7ef1f4d96f53994af73c10ac24495aa62c4aee9cd21b"
+    },
+    {
+      "id": "381a46a2d7b407c4c556fe00179dbdc50b0cd6f0a8bd834be6ee12d57ab7706c",
+      "text": "directory instead of",
+      "hash": "08e6c532910057321619f0d083e1db76adcf5d78e2cbed32261d71d9f960ae97"
+    },
+    {
+      "id": "f440a9dbec4589cff8f48d83899ba959b372cf5b62b997b09a3bfb15234538c5",
+      "text": ", you'll need to create a symlink so both directories point to the same place.",
+      "hash": "22d4f62ac35b198fda32656de7ecfb315f6b4b263e64717bf11eee660eb86bb1"
+    },
+    {
+      "id": "e057a7af191b2f1e52cf7b9b510accef7ea0faeaee063a86994c44fa62f822e7",
+      "text": "Run the symlink command in your terminal",
+      "hash": "0a2da51ebca65dc4c59fe3ab738f7e2906a4dd09a4ded203ee8bbb0cd920e9b8"
+    },
+    {
+      "id": "ce50f9da59f1d0bc65be6a5665fda96d0b14fbd955c259101f4b3d1ae9c2e7f5",
+      "text": "This ensures both Claude Code and your agents can read from the same directory, and changes in one will reflect in the other.",
+      "hash": "b585582bcdc8b0be74781af506dab199c01b000cde1742f0d2b90339e43caf48"
+    },
+    {
+      "id": "17ad2370df9468ddcf4db86305dd8fa70894a1cc47763cacd7c8a2f8ed96a623",
+      "text": "Use the /teach Skill to Create Your First Lesson",
+      "hash": "67b66ece1322f7a5b2005e452077a4b97da46616cd47fcc62b85c887d1a67e20"
+    },
+    {
+      "id": "ad5965bc1714c66f6950624fa60bfefca3c52eeff06afef7bafcac012d9963e6",
+      "text": "Open Claude Code or your chosen agent in the project directory",
+      "hash": "32db29739a229abc172a88d218591cddbcbd248f0662f818d847ecc4ff648c20"
+    },
+    {
+      "id": "99aa9f4bdfd3e7790cddde84a9aec1c244d137f7852a01bb592dd869daa47727",
+      "text": "Ask the agent to teach you something",
+      "hash": "985350627640a2215e7b8115cfa2ea74b69ab86e79181365e3036c16c105cf2e"
+    },
+    {
+      "id": "1a8b9bbb1ac0956127f8d2836843e14455758e0732ed582c3de0153080dde8a6",
+      "text": "For example:",
+      "hash": "652744a2ab28954bbafd780fd76c15c2bd557594532f907f10ead1989727af95"
+    },
+    {
+      "id": "82d163ea727ff9f39e786d0ea330230c3bb84c14450156c5a2e53d3320ca9140",
+      "text": "The agent will ask you clarifying questions about:",
+      "hash": "2c527d574b07a8f7014461e13c3499a739b5f2a4ba58240e1786da5f044334ae"
+    },
+    {
+      "id": "4b13c7344cf0f416f9dfec5cbf2158da0abffe014bb2f0d003f0166414ce1d64",
+      "text": "Why you want to learn this",
+      "hash": "320663a8b7abec27884b61297a08585e9823d51e32c49eda889c81ee4e1e6f05"
+    },
+    {
+      "id": "16c4ee5788d131a53a5992302149468e7dc78b320349064d91d3fea4f9f1655d",
+      "text": "Your current level",
+      "hash": "26da5ab88e7e2f2d87afe17dc110ffc9a04455a2cfcd172d87fc970abaf59117"
+    },
+    {
+      "id": "347ba48fad5230a7ec56dce92b2b62edc57ff3ab07369a94cb694373a23b1db0",
+      "text": "What success looks like for you",
+      "hash": "ba72e6c3c296d35450ec47242cf4e129ad410f34b57bea1795122af62dba848d"
+    },
+    {
+      "id": "35e2325a09102c34835a12c2a76c0160029d2f02ac82c05d35cb72dc1bb87825",
+      "text": "How you prefer to learn",
+      "hash": "e404ff7bd16f904049a9fcaa271109ea5020d2a5b93e9c5a8a6f8128580638a1"
+    },
+    {
+      "id": "ed89ccff8cfd61da71230801462ce451556955544bf5024b617e55c157361896",
+      "text": "Be specific with your answers - the more detail you give, the better your personalized lessons will be.",
+      "hash": "1a0ca0c961f9e6bf8d17f0ee49d3eb98c2943fb36030906176cceb34eb8cdcf7"
+    },
+    {
+      "id": "ab6d4b2009c735023f2ff4f03fbc0bb915350848809119ccb7cd5038ee1bcce7",
+      "text": "Review the files the agent creates",
+      "hash": "69d36746646ede941df45c80ae1e202cc09df55714ce6377fdde18e54856b4c4"
+    },
+    {
+      "id": "00449f10e9472022c7fba1660d1c7ae924945b1ec82dc9ef00c217bf3e4329f7",
+      "text": "The agent will generate several files in your project:",
+      "hash": "0938fcd9083c2d0da005c1786387a0accd06167b60abe86aa2d9a062eddf185f"
+    },
+    {
+      "id": "13b8e45ad34307daa51595ccb713897c487d963633bea3ad37f61ebaeca86160",
+      "text": "- your learning goal and context",
+      "hash": "65b30435d3f53e346979d75a5595863a215642003db8f34718f2032dea2033f7"
+    },
+    {
+      "id": "9f7377d8d56939d9f4515d7e514dae20cfe2405d092e907f2a8d585abc94b9e1",
+      "text": "- vetted resources for your specific goal",
+      "hash": "87dfd7f391695bc7ca24e28526f1bf802a90f7bdddd72d2e4ffb0e6cd3dfc3f1"
+    },
+    {
+      "id": "f18308d5605ec76fcfba1d660b435c5016a9906a41b0b31d895c4fa9c0673726",
+      "text": "- a cheat sheet you can add to as you learn",
+      "hash": "ce3ffdb36e8e3cd667e43c2b04e61a18ed6136f3d47324ae0beb901af942aadd"
+    },
+    {
+      "id": "781af6015b8f562bbaf6126c375a94457b33a54ec415a1201ad6ffe4f828fff1",
+      "text": "- interactive HTML lessons with audio and quizzes",
+      "hash": "2a058b1b07cf089157c5b71422da1438a78cce88f8e1256a3b32dbb321b35e85"
+    },
+    {
+      "id": "19c6bf36128144703ee91db816584cf4f4298f0e22f6326688b184aa0992463e",
+      "text": "- your progress history",
+      "hash": "77b8306ee8b7e8a3dbb7d159ec6ad1c9978392987657f83c98be71ae0052ad09"
+    },
+    {
+      "id": "219bbd816e5d5aca715c02771f05602cb08bcdbd124e82d0f864f9742f2ecf78",
+      "text": "Open and complete your first lesson",
+      "hash": "41729e22b1acd1207c957bc0c3f77b51ee6ab50494e2e7e0ce1d4aa6c5198cfa"
+    },
+    {
+      "id": "e9ee2bfc3c5930f6010cb9c32913f2d7d988d63a5384a9626b8e43d017837bed",
+      "text": "Open the lesson file in your browser (the agent will tell you the command to run) and work through the interactive content. Many lessons include tap-to-hear audio buttons and instant-feedback quizzes.",
+      "hash": "5742044a23a5e330a5b70ec351b62feb8f025a48d87a4b653211981e8257e6f2"
+    },
+    {
+      "id": "740ef3f5cc567379602fc8f8d4929877813dac97d95535470b3ce3ef71844969",
+      "text": "Continue Your Learning",
+      "hash": "ac1ab09286d57c14c9c692b15d128f701dfb610149505f8420000d8ba9689cb3"
+    },
+    {
+      "id": "3b7929c249e7892c0d837d89729c4cff0d7ab4c527c394bba45f9a02de881aa4",
+      "text": "Tell the agent how the first lesson went and ask for the next one",
+      "hash": "84ab94dafdc2ecb7630aef1e59e4037f609786f5096d97d599963f411eae17cd"
+    },
+    {
+      "id": "b5aa44ac66628fbff498c6aad2240702a4575e0559354e894955b9e31fd09caf",
+      "text": "Come back to Claude Code and describe what you learned, what was confusing, or what you'd like to focus on next. Treat it like talking to a real teacher who knows everything about your progress.",
+      "hash": "97cfa9cc5d81fe1bcf24545fc6039932c21828d3f19ce104a8e58b46e9c09d9c"
+    },
+    {
+      "id": "31daa4918237362f85f5126f9ba23e8677528382a8f936b81a4f842501206e52",
+      "text": "The agent will create new lessons, update your learning records, and continue building your reference materials as you progress through your learning journey.",
+      "hash": "052359edf9931308e22fe216609782a713efc9e858c37ee9a1ac487d938b3d0d"
+    },
+    {
+      "id": "f0c13638ba7beb1639cb8db7e0a858ac36e5e9c23289445b5664dbf8ebd5f456",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "d402007c1eee912f072753e5662d95cab52db478840a4bc972151af6625a5ead",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "2fdc4be88e3b5ffcb4693c1528a54de07a0b1198e85d07274ebc3265811bbb33",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "86936147bff736caa036c0c768ddea2dc177da1b06a4e0d1649270e273ef8a97",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "e0db257de88b4b850dafd11526ce03db942adfba25f813ae29c0c88258fc332f",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "df3b23ccc0afa99d022a22fcaa1f5883696beb6deb9d4a3776333fec2d33657a",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "81a214656b4be8043cdf7890c7e84ba049baad0b15c1767a8cfe42965ee15c13",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "e28d026938f58e35de056258b697e32d9a56f5fc58af6a493d8bac68aba6e9ab",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "5dcd3cc02025812941ebf341873d310f795e0fb32a2a2e2f8bdd9672eb6e02dd",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "c6a7d9bfd553f77729839bb7ffcfc484d628d46c1a761183a693ccaa8abd4dad",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "c7b1bc05105415c52a4cef733da55846b40fba37ad1be91848830bf5cdcafad8",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "bc7f6c494c2dd2c14c62585375a14c215b26232289e345168aeeb72da1cba653",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "55219ad6076e7e18f85095267ce802775be333d8741c731ebc1f9c1683db0102",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "837199eb2c3251191a07d092fc7ccae112dafbfffedb71d813d8a8a79c80256b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "7f3030d4755056298923d7656ca127450aee794c90199b60b9bb9efdf7149ba7",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "ed2fe49ca7fe24ed035d537666ceba0ccfdca311abb2618d037a2c797dad24b9",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "0ca02c537f59a612b4202a12d7a0797d35eee1f9e784438c24c6a9ac7840063a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "2efa7e9c472bd47bd4a836750a97f18f480618d3aa94b741aacd398fa18bd30a",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "208158ca0fa42847a447231e73d75cea453ffab7247dfa1616cfbc07d1cad24d",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "80c0b9a4e300c9b71a09e0413c70cfa8f23b8860a2dc1b89b3a7573b53d82f24",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "5f805ea2538e86d4777f3dd08ce58063a38b16e62341219cb6e1d36ba1d483be",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "7689073b7e237abcab792fa877d23fc570b3e25e73db3b440ebcf62fa401f042",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "0deccd487f77ef577d8142b33b96a640fb704736917ae150205ac6e53b37c0aa",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "9c81213b61c4666c9f56754a35ec2707f735dfb65bc36b2291ddf2d4a706b1d1",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "09e2725b88cbeab0864f01f92f66a9595f8cafeed1f74cca61078e04643c038b",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"n115me6e3w6f3t\"",
+  "lastModified": null
+}

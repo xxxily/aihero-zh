@@ -1,0 +1,1038 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills/skills-changelog-v1-1-wayfinder-to-spec-to-tickets-grilling-improvements",
+  "pathname": "/skills/skills-changelog-v1-1-wayfinder-to-spec-to-tickets-grilling-improvements",
+  "fetchedAt": "2026-08-11T06:28:42.335Z",
+  "title": "v1.1: /wayfinder, /to-spec, /to-tickets, /grilling improvements, and much more",
+  "contentHash": "047513fe9428c802e697389a37691a84e2a20935dcffe5727b6661cf3fdab5d6",
+  "textHash": "127e5a64f86c8a8651d9f685f9c06d6f50c5360ce1d39d653f46f4794b4a08f5",
+  "strings": [
+    {
+      "id": "aee4a17a9dab19862d9837017c897325f2a408e8277a783fd8f06dec8a599f16",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "5403ca96acbfa08305895484804fec2df03a1e00abee6c580a9f3b045a8e7d71",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "5e75840947e6820bd8f7233a5441577833c2c8be784067d2a05a91fc1ea2b3bd",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "ceaee2718810f17d20eb680f6e215c4ae716f4ef07137f587b0c1b7781203236",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "288d3196691a870d917dc97eaea3f8b9072a30544bee360d9bbe73be018b1d93",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "884a9f38ad0cc5ad2909cfac80db7391296841cca881e923679e2d51666d4e15",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "54c475262947f4ef9a6d9ae88e3bfc56b7050309422f867e38f53f0e3b7fd9fa",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "3cc132022dfb618b04ec2164d709e311852a56d614d8d91d467355ee020e10aa",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "a1180209f89310f0a0b927c298ea294c4af76b4d3bdd3f8748dd099a81cab747",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "aaf201836cd3622943a2908f6bb083d734d913020b11463b3b033e248db9c440",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "ea3e3cc913d693fb7526814e2a1814869c139649a5cd1c7269197f69529fb52c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "46b59bda70682089d94d0191cbbf9e9dd29cf7bc77593d021fec076127c71a59",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "5cf065614fb6ba4002387ee06969a7b43e1cf8dbe3c460d9febc9287fd486f5d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "23691978affcb01d00e026e31d1f3ce74de4abd7c5748bbc58449305f64970cb",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "615623232bb6c15bdf0829e451040ec77a5c07da65a9d673a1773d84c518fc86",
+      "text": "AI Skills Changelog",
+      "hash": "00763cbc9ed5c5c9afc525a03124e578d306e829a7c67bb87c9407edb3230099"
+    },
+    {
+      "id": "2e62f1c7ef465da43c8bc0f7f9d67427d343cf2f62e58078d5fa1fc3e2cc3dc7",
+      "text": "v1.1: /wayfinder, /to-spec, /to-tickets, /grilling improvements, and much more",
+      "hash": "3b71808eca0626a0344f2db4e04b077d0170c41eab8e31ba3b09acb11b195743"
+    },
+    {
+      "id": "7d5a223c7ff3fd331badd5e47fdec08475898925164cc3a786e41565023256ea",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "794f30d1889fe5600674a516b64e6dd05cbc97c68211c873052feb5a63149442",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "fc22c40025745ce494bb544983f9bfee3dbf90b0fdd45b17992536c2bea02877",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "324a91f201f3f2d8fda3296139e050bb0797925b9b5f19ce562442bcaacf3a57",
+      "text": "After an extended development period, version 1.1 of the skills repo is finally ready to merge. This release contains an astonishing amount of changes, including an entirely new approach to grilling, a bunch of updates to existing skills, and a rename of two main flow skills.",
+      "hash": "e3a7716c4e4a59fc668c35fd53f5ece5fd2b10f15994ce3bc995caa0a0d7f6e7"
+    },
+    {
+      "id": "1d31aed3fa715fa39c93da1f8d2c538b74be7b225dd1b5808ce3112151882566",
+      "text": "Rather than try to summarize everything here, we're just going to dive into the changes.",
+      "hash": "b84b5e26c615c6df4fae17e9647ec2a97dc3a9592bc85e4a4d39efa72b83b1ae"
+    },
+    {
+      "id": "60a8ab094a5f9e2f8fd29bb40855c286a2cb398eb5987ca2bba8fdc38904a87e",
+      "text": "How to Migrate",
+      "hash": "9eb1a288b0e0a988bd80b15360fbfe740657d75d07d5247e885065db1f6be3b2"
+    },
+    {
+      "id": "90c72dcb50f2a1dc36c882a855a81150813da2f6495acc7778c2cb0deb119482",
+      "text": "Since this release includes skill renames and merges, you'll need to update your installation. The skills installer won't pick these up automatically.",
+      "hash": "7926779631c2b311f927c07799637d9c012d394a2a9238af0249ec03959ba105"
+    },
+    {
+      "id": "107a83d1446479b36ed69a8dbd275b56bf42dd3d92eae594516b5716224c3f62",
+      "text": "Run this command to grab all the new skills:",
+      "hash": "44beeffad9d8c8b90f718bc1ed9f1844c50c13c5a9052758c0c344fb08403b0f"
+    },
+    {
+      "id": "17f62f5be9b9f2e0862db69aa4d974245f6128f2c8b975bb1eb040a4c5ee9550",
+      "text": "This gives you the freedom to pick and choose which skills you want. Once done, go through your skills folder and make sure no old skills are lingering.",
+      "hash": "883234ddcc45fb753069e6ff08f96eda4e5f28ae53cfc8bf25967da9c0f0b07e"
+    },
+    {
+      "id": "70b3d3f04830e9206fc8779bada029b2d4a7bb81ab6f110cf87bc7237a4994ba",
+      "text": "The new public documentation pages are at:",
+      "hash": "5db808f4409c546e4542593cd0ba96f255182ca6fd67a24e313834c82e8a3203"
+    },
+    {
+      "id": "9404dd8f3783cf8cf2c59f4812ea8447c5bf2dc7e9d88bbbfa8a7f07df3d104c",
+      "text": "Major Renames:",
+      "hash": "f0db77cffbbfaa425fc6b1a646cd70e8a81f4ca208a46fad2962b7c975c76e1c"
+    },
+    {
+      "id": "aafaef16adcbf69107625099c3805bcd1d138e970275d458133cc1779b3a645a",
+      "text": "The two changes that are probably going to be most annoying—but for very good reasons—are skill renames. These have been bothering me for a long time because the naming didn't accurately reflect what we were actually building.",
+      "hash": "22bf3a33adec1c66850f820826bb1720b2550a98a40a6c01eaa54347bc741ea1"
+    },
+    {
+      "id": "b1674b47628c8b7810807efc63e6a1381afcf427be7ba9d40e52d27045f9c4d8",
+      "text": "From",
+      "hash": "218197693424e0154cefc0af31aed96c084b987e08136e91d5528ddbb5461e24"
+    },
+    {
+      "id": "5e229c46d48fa73fdca5ad7171d5ddff1202ca8a1f936047b8e11eb4ced184d4",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "75d4b03860840bf325fea76d1cf4905384a512c80e3e878e1d0f1d078c4d4127",
+      "text": "skill has been renamed to",
+      "hash": "f8968888d0a74702d93978cb0be146796da0922aca6f63990ad80aeb6bbeac7a"
+    },
+    {
+      "id": "cef94aaaddffac4befb6f029ec3bbfa547fb15a44ff097809d843dfe6cadf23f",
+      "text": ". The key insight here is that what we were creating wasn't actually a PRD (Product Requirements Document). A PRD describes things about the actual product itself, whereas we were allowing non-product stuff to leak in. What we were really building was a specification—a much broader term that can be technical, non-technical, or a blend of both.",
+      "hash": "f2289dce3ba61799a59840f3ac3183b9f4692c9e3b4f0ee965071ee6da670574"
+    },
+    {
+      "id": "5753a9e5f9d4faded1bff4f60f2d0a818cc4a50f25550db964227b0a6d4501ef",
+      "text": "\"Spec\" is now the single through-line term across the entire skills suite. You may still know this document as a PRD, but \"spec\" is the unified language we're using going forward.",
+      "hash": "d392b193b8239fe9a28b35efd1071db497d8889d48ba34f035afddbc2465bd2c"
+    },
+    {
+      "id": "62f1d1e9dd1da95a3c79bfd5e1f94b8ac5ff090c84876d22c5ee727e43240eb4",
+      "text": "Two skills have been merged into one:",
+      "hash": "d92718ead5a57e48edc658fc2814e57255736fa0856a54f2846edb60caa5c122"
+    },
+    {
+      "id": "605043d003fb47d919e447bd5498288155a43861d4ac500879e18345d953d0c8",
+      "text": "are now unified as",
+      "hash": "424cd8cbdb674dbc86c2ab2c6eef032e90c8e4b814481bce3a58ed0c017c4159"
+    },
+    {
+      "id": "9c57ee224a9c7757effa324d33acf54b63f5e0aa515aec1236e23970e1134d52",
+      "text": ". The old name felt biased towards GitHub and Linear, which use \"issues\" as their terminology. But really, the concept we're working with is more general: you have a spec, and underneath that spec you have tickets—the journey you take to actually enact the spec and create it.",
+      "hash": "5fba263ae5986fef4f36d5e4ab6b6e1c56ea862011b55d5fc60731a26d39669a"
+    },
+    {
+      "id": "2619c762c638976c5bf552ec0d88f9fe5c61e9713a2bdd5d33483098c0112ebb",
+      "text": "breaks a plan, spec, or conversation into a set of",
+      "hash": "159cdbf488c640a5736b097aa727b4e008f7710a82ba2525d419b5e8861bc01f"
+    },
+    {
+      "id": "f17f2dc11873065885579f3d7b3a2d34d41247929913802c8f154c57ab3801c5",
+      "text": "—tracer-bullet vertical slices, each declaring its",
+      "hash": "1dac55a548763c2617893f8406a9afdb8f99e44de93c49dfec98ac90a274c6d4"
+    },
+    {
+      "id": "6944f36fdaa9cbf23672304a8b17af05263ae964397311fb3ffdd2b8c3d59321",
+      "text": "blocking edges",
+      "hash": "951ed3a94822f92ab0a4beaa525167c3f4fb382c2f1ffe6d0ed7fb3db4c0d531"
+    },
+    {
+      "id": "6ca6b1b68ca063ed691fc5e1524353bac675c8f4729e53061055a6f314dd3033",
+      "text": ". This one artifact works two ways depending on your tracker setup:",
+      "hash": "5b2fe46f89139ccd972031f8a1b582a9002e6cd72e152f52f57cefa3c61f8144"
+    },
+    {
+      "id": "973ffce7e01c92c45a47d92933e7b4dcf7da956cf5e21fc78b7e8f6b6d98e344",
+      "text": "Local file",
+      "hash": "f6ecab8105350004d1c9be288b7a35b9ee7b80cd9f6e77303384788cb540f5f8"
+    },
+    {
+      "id": "cbb133ca11111ee614a049d7c674fb2d9bd5a0f3f9dcfff4c6bbab352662ec45",
+      "text": ") – Edges are written as text and you work through them top-to-bottom by hand",
+      "hash": "5f574cdd20fdb426f20dbdcb4c39916a4f7a6b3581934bed90e14e3964ec9ba0"
+    },
+    {
+      "id": "5093383b47466886d47671773cab0a7ff0cee4ee821d66d9e22e7c08bae9693f",
+      "text": "Real tracker",
+      "hash": "a55497ebea281c8a54614a417e290f58ea5d306c8b6402198a8bea36a50e26d9"
+    },
+    {
+      "id": "e0e03ab31ae7aca262087e5bc344523b3ef475b6ec48e3656efd88ba08c285d0",
+      "text": "– Edges become native blocking links, so any ticket whose blockers are done is on the frontier and multiple agents can work in parallel",
+      "hash": "e62d2d4e9ab51be14622f00b4b7cd653efdb352a8e1928bd608a1eee14a692cf"
+    },
+    {
+      "id": "01e15ab42e1d6801e9424cf6d8e2d62a94618f2a8f55e3b231cd880c189f1821",
+      "text": "This naming clarity brings me joy after years of wishing the names were right.",
+      "hash": "74a1f7d596455877c99051ae27690cede4a89c12315dc7bc73edc1cb2505fc34"
+    },
+    {
+      "id": "ce638d50c384d049e4426fd53003e323fd6fc1670d6d2c2729f772765f210be6",
+      "text": "Grilling Skill Improvements",
+      "hash": "4a5c12b6c3a954cde023650a381fc9ad999cbda4d39573f033112ab7fc80c647"
+    },
+    {
+      "id": "b7aea70c4322e3e8892868e6daa3f46ea6a66e801e4dd61cb355e6ef79ef87f1",
+      "text": "The next set of changes fixes bugs that people were experiencing with",
+      "hash": "bf0efae2009ac714d272caba3487585a4634b62e25cf85d5f09959235fe373b8"
+    },
+    {
+      "id": "8a861ead6818a657aa9d99796fa667e3cbea467de292f9798fa6004e659a0e08",
+      "text": ". Both rely on a central reference grilling skill that shows the LLM how to grill a person effectively.",
+      "hash": "31f6200f5f05eec4cd4e55a7b26b4a9dafcd468c87dbbc541aeb127e614c3c44"
+    },
+    {
+      "id": "51f364323efb13d4c98cf4602d0172d875fdacba3329b12bcd2c053d8a20e591",
+      "text": "Three Key Fixes",
+      "hash": "5085a2a38618868a847ea2daa68288ca8f14c4103a5d340a49e3a720090f2b5e"
+    },
+    {
+      "id": "28eca8ef50e057e430d3c10ae2145fcfed555c91e822d3c71edfe5af9ccb49c2",
+      "text": "1. Clearer guidance on asking questions",
+      "hash": "8bd63880f516e2eee14dc806f4f025e84c681a81a69a582f5d7c3424e303c310"
+    },
+    {
+      "id": "d85286535c9a864f842cad81f6b3461b620842d080c52637848a4e7001771315",
+      "text": "The original guidance said \"asking multiple questions at once is bewildering.\" Even with this instruction, the model would occasionally ignore it and ask multiple questions anyway. So I've been more explicit about",
+      "hash": "14746c59ab31888d64133928de0224854a11b265b24d2d97c8bb2ea0921426c9"
+    },
+    {
+      "id": "cd922d30532b81be01fe99fa071bb56eac0dadaa4c48b0545566d8ac367f516e",
+      "text": "we don't want multiple questions at once.",
+      "hash": "772ab9dad57924427da793b85ce4ac3c428254ebc8999573d5c090cdbd7b3617"
+    },
+    {
+      "id": "9b02ea061f31a7c142d6c8ef3b2c9e175502ea0d73010f540ae0ab533ed16597",
+      "text": "2. Confirmation gate before implementation",
+      "hash": "74658b95676315e376cb3caadb69d7b7024bc6cbebf7f4f1c4a26823520d6790"
+    },
+    {
+      "id": "12f416b67f93b53504b6a896087b26c00180dfaf74f12bcbb18301ff7e32ab20",
+      "text": "Added a confirmation step at the end: \"Do not enact the plan until I confirm we've reached a shared understanding.\" Many people reported that grilling sessions would just end and then the model would jump straight into implementation. This gate prevents that.",
+      "hash": "68c66bad00fc0561ec14588a15ba16b814ad3b9bab41114dfafe65c3bafee32b"
+    },
+    {
+      "id": "1c7ccd9abcebdd777ee0a9fc44400ca5d792d8a26ec81eaf36457bd0e909cbb4",
+      "text": "3. Preventing self-grilling",
+      "hash": "329509814d70b20071fcb28769ca65b6eeaab8ee4035010fb1940fd9d0b9d175"
+    },
+    {
+      "id": "baf0c1157e44b93c47354f9810fc3d68a77ee1f2be4936e38798561d2d98fb3e",
+      "text": "In some odd situations, the model would grill itself—exploring the code base and grilling without human input. This was especially happening with Fable. To fix this, I added leading words to distinguish between two types of information:",
+      "hash": "b9ee74ff9533cc86f292a1f5720b3ae177e4e478ce1bf218101304b39ce66327"
+    },
+    {
+      "id": "c71fe01c55ef38a11e89e406595f012caac1411a95700c90160f9a0011e659ac",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "a20693e86cbef11e1cd4103cddae82a77eaf9797514e44e280c3b655267fb681",
+      "text": "Definition",
+      "hash": "9813fafb098c218090536790280a91ee70062a8490eb3615395ee731cdd40023"
+    },
+    {
+      "id": "496247fcbdf3dddfef99175308af2ffdfb469975749b9002847ebd3059d44ce4",
+      "text": "Example",
+      "hash": "d029f87e3d80f8fd9b1be67c7426b4cc1ff47b4a9d0a8461c826a59d8c5eb6cd"
+    },
+    {
+      "id": "9d80d4465f74dfa5cb26d172184b16ae4c743b90b180aebfc438449b0692d5ed",
+      "text": "Facts",
+      "hash": "3683709dabc0ad051f0e54cfcde20cd9165d29486dac3c166dfbb19c98cf965d"
+    },
+    {
+      "id": "e1fa4b3b97ff86c10f9d0f0a140e9928088a463ca1484d46c8325055734db7c3",
+      "text": "Things you find by exploring the code base",
+      "hash": "d9f773fd8178c0691bd2271acc35dc2366b24949c5774fb12eac406e764f27ca"
+    },
+    {
+      "id": "678d322c50b218dc98ffd2f4ef1d2326c9c809ef5cc97e3297b17c2589ff828e",
+      "text": "Code patterns, existing implementations",
+      "hash": "26024405eaff78ed21e04d0594fe786563026af50688a70af6d9ca286da084cf"
+    },
+    {
+      "id": "9aac6b353d947b175b5277a15b4d596f01079abce57220e12ee146be5643b9e8",
+      "text": "Decisions",
+      "hash": "cfa6a08af3ed587100e647bd922ea291b8b542ee523cee20b10b416a2f8d7adc"
+    },
+    {
+      "id": "ec608ba08cec9e3b3a598267b2c5c63f2e05c5a6e278c1b25d7decde06934dd5",
+      "text": "Things the user needs to decide",
+      "hash": "2958f369e80a134db50a80d337a27c684d1a9cc4e8b2cdab2a31dd06d662da13"
+    },
+    {
+      "id": "91917a5efde04b68d5edeb5773deba74c59292d8287f167b01bec5dc36d10254",
+      "text": "Architecture choices, feature scope",
+      "hash": "680ccb5f6fb8588a71314b19a93ad94783869a3e169f27f804063853d06ccef5"
+    },
+    {
+      "id": "01c440981538ce22645c116980a9e1627da4c851a27abc7cd34183ea4e196bc7",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "dc3c94f3d14c20c2896d5d6a719bbc44f8fa107bd5bd65eacf8f16d942179fb6",
+      "text": "Just a couple of sentences added and a few things rearranged has made the skill much more consistent. These tweaks have significantly reduced the weird issues people were reporting.",
+      "hash": "b91a0e6364f8c5eab12619742c8e60d1ad89ba8d924b646e275adcb40faec1d5"
+    },
+    {
+      "id": "051c555abe4a217ae0038c33e72279e095593cb68971a6b545a7e05b27f766f9",
+      "text": "Complete Development Lifecycle Flow",
+      "hash": "cc0520092b6db1d9e262497705fe8ffca908ef9bae68ef07d0e4f377e6dbc6ec"
+    },
+    {
+      "id": "9bad3a6a5008c0dafd4af312cff248735d9e5e08a515575b6f52b156438688d9",
+      "text": "I've added a couple of new skills that transform the grilling process from primarily a planning exercise into a proper software development lifecycle. Many people ask me: \"What's the main flow I'm supposed to use with the skills?\" Here it is:",
+      "hash": "2845e517d4ac92ce417af3b9959dfaf8ac186fc5a98fef5c9f65ab2d8ce931de"
+    },
+    {
+      "id": "0a32af035c4bc709d075c2a4572a41ef49ee59fb2b061a5c97c3566399b85122",
+      "text": "The Flow: From Grilling to Deployment",
+      "hash": "f414b2845190d991567457bb7551dbd06db5a40d0503c080d739aeb4ab4e8d28"
+    },
+    {
+      "id": "cbcad65a7e89ef408fced0abb43f8eab39ddf74125beaab89491bddead54ed6a",
+      "text": "1. Start with grilling",
+      "hash": "9deb3b374b3a317aa024b67add21e6f30a6f1a87fdd46765f71abb27fa467b2b"
+    },
+    {
+      "id": "b02665da8be8fda624a4c4517b9ed780da387e163cfeb9bf91bf131a121144e6",
+      "text": "Instead of using plan mode directly, you get an agent to grill you about your goals. This uses two supporting docs:",
+      "hash": "ab2b0d742cc63cfd817de31f8a6add6967e62690025beba5f14ea81e68ce2802"
+    },
+    {
+      "id": "0d31dce98adc3533e515d183c12be34979d08263cdba7688c9f0fa4e726993c6",
+      "text": "A glossary to help the agent understand your domain better",
+      "hash": "da1bd2d652e64d902ef19ea398d7a60e6551a5ae514fba2462b2a5768b47a252"
+    },
+    {
+      "id": "496da5214d393a2cfa15ab43c6072b8d679c33353771dfe01aeae2a453f6e826",
+      "text": "Architectural Decision Records (ADRs) to capture the non-obvious stuff",
+      "hash": "d8a5700157789e39317dc733cf15f9deddeb2f758e4289b6d80249059adb4564"
+    },
+    {
+      "id": "f9618413e52ce414843a04c3cdb1ccc3fa8f3c8d2094905fbc4a6335f35ca0e7",
+      "text": "2. Generate a spec",
+      "hash": "4bd550cd0788c60ea9a4ee5c653dca7b3e2fd441230fbe05c6de829899a4c6b6"
+    },
+    {
+      "id": "03e0a4109a0c2bd1aab7907cb6f71a7890a8c34fcf12b478b6a559d3c64996d3",
+      "text": "The output from grilling goes into a spec, which defines your destination—where you're going with this feature or project.",
+      "hash": "f443ff5be0d4135a541a115b4b728f31f770f48851fc1ba935ebe0cc173aa488"
+    },
+    {
+      "id": "d01a2759385a9a087ea70659fe3d12520f3cbc7e7eb36a4331ffda5104f8ff67",
+      "text": "3. Break into tickets",
+      "hash": "789d0c8d1181feb02d2d36b65948336dfaf593712380b42f901b52065cdc75e7"
+    },
+    {
+      "id": "706f12b17dbdf113dde1b090e6ad814799c22e448b3ef489ae0b2aeced69a576",
+      "text": "You then turn that spec into individual tickets using",
+      "hash": "9bd53c699bd7cd3573ac19cc3365f28c44d02b54cf8da67e9a4b464ca8e33c7d"
+    },
+    {
+      "id": "e04a0d4b4c80758ece2a3622f9fccb7ce7d1d8a88b4324931dd9b1210fd1948c",
+      "text": ". This spreads the development work across multiple agent sessions, each focused on one ticket.",
+      "hash": "bdfc16c10d1938037d882e51d0bc800228c8431021f41f3b9a0b413259b43123"
+    },
+    {
+      "id": "b9174791673239720ecc7d15e8e70fd2e795be97f308b381adb4ef05fc91976e",
+      "text": "4. Implement each ticket",
+      "hash": "b33041650216512209b41221cc613d310a5f902473b1ed4a18905a32c8f1c84d"
+    },
+    {
+      "id": "6130a94f74d197996f6ead173c89dbd5c4c2bbca83c25e29539826a3788763cf",
+      "text": "Implement each ticket using the",
+      "hash": "a534596bff3174fdc62360d98d9dc098184bc7b31854e6f366c248767494513d"
+    },
+    {
+      "id": "283cbe8bc920989260210f17ce12e0188735b4261ba965122174e66748e4153d",
+      "text": "skill, which is refreshingly simple:",
+      "hash": "badc8fb0e020956f76350d57486f458c1ea460d28acfc6a0e2d816227bebf93d"
+    },
+    {
+      "id": "9d61a456f29acfb22a9005ab8042d5c1b066c183a7238fb067ecc7dae92dde22",
+      "text": "skill mostly relies on the agent's priors and what your",
+      "hash": "6bb8da38c5e347ec7c8e8848b6f56a806af76e8d62096f63b83ee72f83ee288f"
+    },
+    {
+      "id": "74e9d3e700ef872eb73d5a144c1a1c00989552a6047eb356ee267b782900202c",
+      "text": "file teaches it. I almost didn't create a skill for this because it's so simple, but people kept asking \"what's the flow?\" So now you have a clear endpoint: once you have tickets, just implement each one in a separate coding session.",
+      "hash": "4ea175d6da0c083ac01c56d555dd53bf9df489d0b655200d7b3e1c529740875f"
+    },
+    {
+      "id": "b197ea54aa96c0f0fe3d5ec488862624bc4d51bfc8f13ab0f20a020a2ec6c16c",
+      "text": "5. Code review",
+      "hash": "57daab24853cab73da1da72f4d5c42908ab09f4db210209a17811d4e51f3b6d5"
+    },
+    {
+      "id": "880c6c65e5bf3fc6a64e68cc86650d0772c8d99aa2ce424f36000d199864951a",
+      "text": "After implementation, the",
+      "hash": "2616d2d239d26c3c26f87e781430a44c0777217ce525fba20adc9959fb0e495a"
+    },
+    {
+      "id": "d72c3a5040bca3803beab96edc2dba2fbdd43d17a82583f96c8969f11f235a75",
+      "text": "skill calls",
+      "hash": "36b0b04b8418809cf5ee2fc0fb1441b6f9c4074b7aafec2f4a617bb803f179ce"
+    },
+    {
+      "id": "5638ea98ac8ecc612782104e59445360fad1110519e3d1e5b7f59082e9198436",
+      "text": "to review the work before committing.",
+      "hash": "b37dbb5fa05b1004b059a85ccd0ee66c94e675bcdf0b1822ba0498ba1065cb59"
+    },
+    {
+      "id": "146a1df59b4578044df41ec945813b2303df8eed03add6e6c64d1911372ed5ff",
+      "text": "Code Review with Refactoring Smells",
+      "hash": "8aa71d3194326fa66d00e4edbe715c7652e184773f218f97b08631a7c55a72fa"
+    },
+    {
+      "id": "84c080a16e07fb15c80cc7cfa17655140c42b21d7291f5cf323477b927902622",
+      "text": "The code review skill reviews code on two axes, using a sub-agent for each:",
+      "hash": "69e6c2ac95cc83defc4495e623fd779cf41a94e4192a09290412fd8d3fff3840"
+    },
+    {
+      "id": "87f16a17c6b914ac0f83ce44f2a8949a73fa4d749341602f59cebc6cd89a8ca5",
+      "text": "Axis",
+      "hash": "32b73caefac13ae83b468dced862b29fdfd9652c99cdaf6038d19d4661bf8728"
+    },
+    {
+      "id": "9261d991847268ae602ae563ce011806f536195300eba7501c001807d152986b",
+      "text": "Purpose",
+      "hash": "d4e8830a71c73edffe0115b8abad16b0b5cb2e121047c64cd01995203cfad062"
+    },
+    {
+      "id": "5ac9910915f87db6f8194f2b02a84561ce42b32890731b8559355171b2562ace",
+      "text": "Details",
+      "hash": "45989de49fb7f66dfe17a8fc26f3a02c7abcd74f7e8e6cf9f39fa0e3775780df"
+    },
+    {
+      "id": "1d0568e5da3f9d932f762a6e8578d19450ee9deada11d74cfcf01b72bd7fa0ee",
+      "text": "Standards",
+      "hash": "b9a136292f4004e2751cc366f0c263ce15711f79339310963ab5101f26cd6959"
+    },
+    {
+      "id": "ce4f99765bea9cb468a94e738087f0ca514605ce9728b8225031516e50e0d924",
+      "text": "Compliance with coding standards",
+      "hash": "c699cf950b809efe99ac9c90d93646e0ab576d27268e98ece9c1f433b0a2b79b"
+    },
+    {
+      "id": "88b80a01c8b39289cad00155c3ef7dacbca7fbab160cc4bede744524c262092b",
+      "text": "Reads",
+      "hash": "7f3e8bf052d3900e743f7c670197f168ae3649c08144c8cc39c7d666a5f0b92f"
+    },
+    {
+      "id": "b306253fb85c75f7740b77c2815f5abc5e2e3914e7c6064ae4bb5d089cb17ed3",
+      "text": "or similar files in your repo",
+      "hash": "0177e8526dd82ca14e7d79f1eccf9b9df2474fba6dfa64f68b5e205cda513b02"
+    },
+    {
+      "id": "48fd9fd3beea6e206616501dbef879022770fd514c80dca7468335cb264008e7",
+      "text": "Spec",
+      "hash": "9bdc1337d7016d5825e164ca3a90ad5cb013b39396a1a1ee6324f8dc5ed6a1ee"
+    },
+    {
+      "id": "9d0723aee99f1fa2bd1064a0d0ea38cafbc816c991c83bf4096203622823186d",
+      "text": "Correctness against requirements",
+      "hash": "7b087592e88a77939a7b7d33ed6b3ca5dd851e0c47d137105d1c8e96981edc99"
+    },
+    {
+      "id": "cfdd38e1d5455e407c63de67a1e70099d99f597fc3b52a1a4dd547a83a88374e",
+      "text": "Does the code faithfully implement the originating spec or ticket?",
+      "hash": "6960cb6020f470683522beca93bed98d8476901b573c89f22dd1fc8ef3c8ce85"
+    },
+    {
+      "id": "4f42882a553d9f2b94382b547a15e7eae282d81da8ad390b850e69cfa47a4f67",
+      "text": "Both run as parallel sub-agents, walking through each part of the code.",
+      "hash": "fdaaff9777d3f9dd18fc76e216b93b6ff4e5344fb2526678cdfe918ab3b2769f"
+    },
+    {
+      "id": "f7ea66016b3b7fe03e832407dc249fa6ba1f624638dc246a294c2c8008185d26",
+      "text": "Here's what's cool and new about this skill: I've been reading Martin Fowler's",
+      "hash": "4ce33fe076f967b1125099c5d7ecce7a0f7324deeee83635a109bfd5a8067617"
+    },
+    {
+      "id": "21fb15a5cee86bfd74245ce1adb47bd6f818a89172b598034a3b58dbcec8669a",
+      "text": "Refactoring",
+      "hash": "12982ed008b47d4689f881ddb1c16a0d451a0a4f012dca979143bb926e807506"
+    },
+    {
+      "id": "2460fb5226a485c73fc3a81ec0847178a0c7d492b302302a359f745a3f8dc648",
+      "text": "again, and I realized the agent already knows about code smells deeply embedded in its training. All you need to do is invoke the idea. Here are some examples:",
+      "hash": "fa2157327c1d492bcac5caf78b588f5a3f996db57c1265644c2babf6889d5c33"
+    },
+    {
+      "id": "c85963fa16ecdcc2c14cbad4eba4647a8027c6a6d475c4d943c8b9f476bf7a7c",
+      "text": "Mysterious name",
+      "hash": "51e05a1bf82688d16d09691c26564409750c6f4ea6e8338658d004e19adca3d6"
+    },
+    {
+      "id": "775bb2a442454cbaf410d5f4a70e6d5f8eef4fbbef69913c3e65e31cfe33eb33",
+      "text": "Duplicated code",
+      "hash": "8698312f58c7fdad668a4d7a28bee7a5f7479db1c49f53c41c21527aa694024d"
+    },
+    {
+      "id": "6aed6529ecdc51862c9d9c209006282452964823cdb04f31e2f18b76868a139c",
+      "text": "Feature envy",
+      "hash": "2afa970aba823e53aa73569b0930550307e762f735e23e81e279680c04282632"
+    },
+    {
+      "id": "f56765bf59c3b58df7db34956adf6bb64a2be1310847c5c655f6f35caab95b15",
+      "text": "Data clumps",
+      "hash": "ea6953a2e2d4b752646b364620f6ba5f9286a35ce7e500c6c2d34560067cabcf"
+    },
+    {
+      "id": "8bd31562e94d393a250d5f6981d457a1395ff1b3d8ef95c41bee5998a0080653",
+      "text": "Primitive obsession",
+      "hash": "f60596e7e75c891d9e2244e6203d826b8205b3dbe0637adf5cbf795e66939fc8"
+    },
+    {
+      "id": "5e88160638e1a35309c357c3a972fcc35563ecaa8f5e94753df54aa154d604ac",
+      "text": "Repeated switches",
+      "hash": "095513a1647e55edadff7e5322f9710088219184d1aa956b256ac3fbaed814d5"
+    },
+    {
+      "id": "ccd58cbd75b3356676145d36d3eb131a8512384189c3477324703151687720d4",
+      "text": "Divergent change",
+      "hash": "febbe92baf9696d667d3d364ea73a63b4b4a4051a2e35989d727b634e5a73e9e"
+    },
+    {
+      "id": "7f7220abcedf298074ff9d85a0e2acc346b4679f32536f383500c3d3bb5eaa6b",
+      "text": "Speculative generality",
+      "hash": "9dd71f8e92c782ddfa308c5bc1ce2330d6b3095dc085cc6167b580acf95ecf01"
+    },
+    {
+      "id": "5b2fff7f63c7a3c6f9be2c9158447f55f70abb3049a5dc47a8992b8de812b39b",
+      "text": "Message chains",
+      "hash": "a24e96ae3fa0e2bbeb1c468f3576f4c7085db00cd9b4fe02fd04af238bf91d05"
+    },
+    {
+      "id": "8004f527e5d489f95f7e399b99a2362b05af07bdd78e6c97ee5bbc20e36a54db",
+      "text": "Middleman",
+      "hash": "eac76ebca0677764c1922b40944b6d00370219b9273ec19b3e07692f2f93fd6b"
+    },
+    {
+      "id": "b9dabf5cd99ce60dbd8538fcb74c757a8941639b8aefdf872f50dce9c04374eb",
+      "text": "When you describe these, the agent picks up on the terminology and says: \"Yes, I found message chains. I need to remove them. I found a middleman situation. I need to fix that.\"",
+      "hash": "347bf71b11e7b4eef437ff8fed7d4eca10c73562e5e41c7e83b7d8ac3b2f5db0"
+    },
+    {
+      "id": "e6f2a2b4640ea416fca93d9fe8460a660b2368e60646101b9d68944a20204ba1",
+      "text": "I tested this for a couple of weeks and it was outrageously useful at improving code quality. The best part? It's really cheap to add—just about 10 lines of guidance.",
+      "hash": "1da1ba9964b831606ba04ca39be728d09172c9e8371e3cb73c267e059a88a116"
+    },
+    {
+      "id": "6bcbf256ed885a2f29d9b08e21dfa788456dc99300a266ca79629948c97b87de",
+      "text": "Introducing Wayfinder for Large Plans",
+      "hash": "1bdebe4aeae8f9a11d3e6002fd1cc2f15f1304eaeb74224039f45e25307472c7"
+    },
+    {
+      "id": "b854d8b1ad52ac91299360ce3e57ecfe2e3414ce71a0c353c899d5ac09fd2424",
+      "text": "Now for the skill I'm really excited about: a whole new approach to kicking off and shaping specs. It's called",
+      "hash": "6908fac08528f7c94626b4dac8a61a34e51685691d29c645d2e0c102d7cf3be0"
+    },
+    {
+      "id": "d3547cccaba578ef8b5274dcd2179ec022d0716ab95c17eac5af6dfe1402f955",
+      "text": ", and it's designed to replace",
+      "hash": "66c90d4c52869551ba6aa84b42838de9379fe8f44a1fef92bac1648ede1dcdb6"
+    },
+    {
+      "id": "59a39623e5f0262fa6de6c1bd7758a855c793ec0a48837e5ad0855a1171d99af",
+      "text": "in many situations.",
+      "hash": "58a37a5f05e8881c168ed4c40eadfff759640edfbc4d39e8c9986aa46fa3b7fc"
+    },
+    {
+      "id": "0d68243ec64d2053feb7db281c750269bd30eb6a56ec2dbec8b6e039beecd896",
+      "text": "When to Use Wayfinder",
+      "hash": "2276105555e059d41668a017179cd3473fdd30b10d2e1c04bf57fb2606cb94ce"
+    },
+    {
+      "id": "d9b6c3fdfcaa55c2c658039438413babfcf41f696bafacf9d5c3f28ef9b53b67",
+      "text": "is for situations where you have so much to plan that it's too big for one agent session. You're either going to blow out of the agent's smart zone or even hit its context window limit. You need to split it into multiple parts to figure out where you're going.",
+      "hash": "eaddb73381d2c7e49d2293a3739b509f3ad7ce4a4b242dc5c36fffd299bb1ae1"
+    },
+    {
+      "id": "2b5dadb8a8d8ec0e1d7fd4d41d7830d90835c1d69ce2d85f38ed1ad55bfe9ab1",
+      "text": "Here's the concept:",
+      "hash": "61d126a0d7a1c60eb8cdd773f1a67d551dbc53f3bd60f69196c39e4a952d6d78"
+    },
+    {
+      "id": "f02ed7377a6bece21fc3c65d78e45e8fe8dc0dede81a0dcc15dd38dba35f54ff",
+      "text": "A loose idea has arrived, too big for one agent session and wrapped in fog. The way from here to the destination isn't visible yet. This skill charts the way as a shared map on the repo's issue tracker, then works its tickets one at a time until the route is clear.",
+      "hash": "5b7a1ea48f21e439e81d882c06e7626b4bfb02d89cbb431d5ad6c4dfaa29391b"
+    },
+    {
+      "id": "9476fd6bfb3aaf212524179af1738661592139d622ce82a5e0578f1672938d30",
+      "text": "How Wayfinder Works",
+      "hash": "2443f89dae21e86d1de1271b5ea86df9104e392863587d621b85e33c70c83806"
+    },
+    {
+      "id": "c4b4d6c388f6eff1a4fefbd8c2c3376bb9a388e0de081164b3e945e0f8a358bd",
+      "text": "Wayfinder creates a map saved as GitHub issues, with decisions scoped to be the size of an agent session. Each decision is linked with blocking relationships, so dependent decisions can't be made until prerequisites are resolved.",
+      "hash": "0145863e5b3b4a8c8cc17997cfda3637156b04e4c7d153e18acbda31e88ec849"
+    },
+    {
+      "id": "469df65b99649a3b884c3a27f09a772c8f23ff08bc7da9d0fed7c5ddb7ac6567",
+      "text": "Here's an example from the Sandcastle repo, investigating whether to pull in the AI SDK as a dependency:",
+      "hash": "7c12b6a4e42470fadc8766aabb98ecd6d3c34b0096642e8839b9bbfc415f2558"
+    },
+    {
+      "id": "f0afcb3907bda281b1c4ba8804252b1e80fb628bc99303e7e64fc1a1dba0919a",
+      "text": "Ticket Types:",
+      "hash": "216ba4136c151408ac1182a6ac5aa830d4c9153824bdcd1f9c3951f11e5f00e2"
+    },
+    {
+      "id": "ac2f4077289a83804124c310f40fdee5d83d50b1f5d6114272606bef08394ac7",
+      "text": "Research",
+      "hash": "979d6300fd9884ff8d8e03391d524fed8e88cd5560788f065ba2444db3b7b20c"
+    },
+    {
+      "id": "939d4bcc7da62ae73cdf76c613004496c9abcb14ad461503e6ddfa0cd47afcf4",
+      "text": "– An AFK task for the agent to research and report findings",
+      "hash": "ae55afcbf24fbc4bba59b2d3ecd9f08839df8b7bcabddbaec38847a9c7858778"
+    },
+    {
+      "id": "0e05dfe25c3e1ba5c6aea8d92db232492487b502df8db6423de6f684341b3bc7",
+      "text": "Grilling",
+      "hash": "78318482b2ed0e5dd1aa46addef2c3b1c379b1f3b213eac3337b8fe2b40ab6aa"
+    },
+    {
+      "id": "f00c6ec42d27df201f01f5098ffea21ac32508e62f165b42845082e98bf4a8c9",
+      "text": "– A grilling session to make decisions",
+      "hash": "3ecfc6d63dcce7fdf15c79dfe2ba996caa5b4c1926e4b4cd2d3eacbd03f561b6"
+    },
+    {
+      "id": "8912cb968e809ce01282feca03567e0550781d45728c96a7914ee3599602add2",
+      "text": "Prototype",
+      "hash": "c570c5baee7ad0d9654107fd0b32c0018fa3b5b0015fde36a4721acc5ac29ba3"
+    },
+    {
+      "id": "4a205e0264311a6ff6dbde2c4ae903c8e0f7b02db9797a2a362fbc9b4e76acc5",
+      "text": "– A quick prototype to raise the fidelity of discussion",
+      "hash": "5fa564546ba549944e26ceccc0161ba395ef945e44cd2f17809cfa69b1096bab"
+    },
+    {
+      "id": "57df202e0d70dc24a431c5d99aa9cb07320c5ae3692f4264ac5156703f132a80",
+      "text": "Task",
+      "hash": "4bc74b21357c6cf5cca8f66b4d4ee948be64d0396feb434c9645e168ad61ceaf"
+    },
+    {
+      "id": "49f6dcc824ad359ef3d2d897821fcd860805106d0a5488c272a51fd0bf8f0cba",
+      "text": "– Config, provisioning, or other work that doesn't need grilling",
+      "hash": "ae38dc532b91208bf2a49b1dae1220c42871b10fde5a8aa2777be2032323f81f"
+    },
+    {
+      "id": "a1cc152d328e9b88000ce01787aec58d6c2c25121ce2cee28e372fb85888d67e",
+      "text": "Why Prototyping Matters",
+      "hash": "c112ba9ea13ef8155888590d8df22c9e8e5d2942258f926257ca3b3e3c3afb6e"
+    },
+    {
+      "id": "70bd445ad51a2ebf6676f9e710486d82cc6999562dc2c10771e55b61433626f2",
+      "text": "I've been advocating for more prototyping before you get to a spec. The idea is to raise the fidelity of the discussion by making a cheap, rough, concrete artifact to react to—an outline, rough take, stub, or UI logic code.",
+      "hash": "ad83082793f26609abadda7906ad2d640a2af5ee77506d9dd1601ac16d492a33"
+    },
+    {
+      "id": "6bd88535995bf6bfca677789f3bf1518a1f0b70dc872142a14abcfd056fa73fa",
+      "text": "Use prototyping when:",
+      "hash": "de9c22c446c30d03cc72e63a01cce18ca1e4c0dbf241e7b681dd36819baebbfb"
+    },
+    {
+      "id": "0bf2868a7acab269b81682876f96ec035c7fa82b133cd6d4f9ef48b814b86ead",
+      "text": "How should it look? is a key question",
+      "hash": "4f5d31535a92d15aef3ea61ad49533cca4c04d90d7bf3cf6333f8dace496351a"
+    },
+    {
+      "id": "66572f4c42ec35da4bbe9eb056c95da1c2e5f1ecd3b17bf4d5ab46ceea94fc31",
+      "text": "How should it behave? is a key question",
+      "hash": "cdd8c638b57ff6706aa589f49d655d8cf23b5ef8f8a33f8f6fb29c09f402c8c2"
+    },
+    {
+      "id": "68cbea0de4b1981e47037f7ee9d2203d20438d1ba741a84d37e5e34b4f07faca",
+      "text": "This is essential for almost anything that touches front-end code. I'd definitely recommend using",
+      "hash": "86647d05d236b4cb6c6e7328ce43d400706a175d35677bad0d5b98b59da4583a"
+    },
+    {
+      "id": "62ad39979c47fb2b08af887cb9bdf15e3baf73903dd1a063d35e6954a4939971",
+      "text": "for any front-end work.",
+      "hash": "1280ce661038f748baf09aed6201a068ee2e8727aaaab07edb157e2ba4dd2698"
+    },
+    {
+      "id": "8774bef6c8bcb81adda194e818e9a79b0b7aaa64b34bae16dfd82322212c9134",
+      "text": "After Wayfinder Completes",
+      "hash": "2d7e54802b618573e66815288895a9641f464249f435f41ddb289c4e871a7d3c"
+    },
+    {
+      "id": "cd96d3d37449b07cf0a697ee0b4698159dfb38c9e24cc05f8fced56f208e3ad3",
+      "text": "Once all the tickets are closed, all of that information gets saved onto the map with the original tickets as primary sources. You can then take this map and turn it into a spec the regular way.",
+      "hash": "769cff0e6e20c3f9b757f77e6e86a7af71e65cf094dd0b6cf5d040fc6bc54460"
+    },
+    {
+      "id": "607cb19c5425afdc40a4d5de0588ea2a5499f06b05a1fc106dfd2e462071f0f3",
+      "text": "The beauty of Wayfinder is that instead of managing session anxiety with",
+      "hash": "03368a291a16fb767c3474857c47c9b70c41ab7e2a3095cddc029545e40f726d"
+    },
+    {
+      "id": "0748de3bb97cebca37560fb776cc2429b614a1f37ec54092aaf6ca17d363ff8a",
+      "text": "—worrying about hand-offs and the smart zone—everything is managed for you. You just close a session and open the next Wayfinder ticket. It's all saved in GitHub, so it's collaborative and shareable across your team.",
+      "hash": "9aba21a71b39a3312fa656124221bca5d16f6d9596f9fbdd309f607d516e6c4c"
+    },
+    {
+      "id": "aa5d0d2adf7350993d48bb216e67eafcc3b0f9e761fb2e4cc7c73bd255914a6b",
+      "text": "Supporting Skills: Research and Prototype",
+      "hash": "52112ff72f4aeb45d2bd62957badd948a143c26467e1f65a15b90cb9c74c694f"
+    },
+    {
+      "id": "d837d41e7ba4ac2feb975db6a8180773225d1a55b4a3d02a2b06d77ff6df12e9",
+      "text": "To support the Wayfinder workflow, two new skills have been added.",
+      "hash": "1ae3a389accda5b2b70925abf49b45c3788706aa8aca675bafb007a0b1847d7c"
+    },
+    {
+      "id": "e2d0b52c5b2e0915a54cf66939ad0a2f300bfcdbaf362ed3b44e436eed324a3b",
+      "text": "Skill",
+      "hash": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918"
+    },
+    {
+      "id": "c107c0698fdaf05c3df902d402cebbc9e650a377dba43fb595227e49032e7db7",
+      "text": "skill is small but handy:",
+      "hash": "ef1e774878ca7e39dc80e9faaa670fbcb9bc16e6b4d60ba3a8d860bb8ff3106c"
+    },
+    {
+      "id": "18977418d041259ce42e672897fa0f3f0b2b2dc7208024f42d7e8ed14964acc6",
+      "text": "Spins up a background agent to do the research so you keep working while it reads",
+      "hash": "0b8fdebb7d956d4dd39e1e618e45852a52e7f9ad8b8d2e129fb19fb28572a5da"
+    },
+    {
+      "id": "2a5bf730d38cceeb978a53cd2c406eef2abe000c7dfdf1dd981b16ebb6227c6c",
+      "text": "Investigates the question against primary sources",
+      "hash": "e8af92ee2426b619c5320bf0354dbab0e31b42e642ccec92d025c7a4f2d2fa88"
+    },
+    {
+      "id": "e3afa6e840a264c8e407bc035c765bcc9b7a3f662533a43b973af58450045ade",
+      "text": "Writes findings to a simple markdown file",
+      "hash": "4c49a3d70517dd077ada389070a74d501752d048cdbaceff6e0f8713fdda1509"
+    },
+    {
+      "id": "a12eaa024c7c6ea2bd4a9b5960e3104fa651e9449234551499dbd3cc3405186c",
+      "text": "Saves it where the repo already keeps such notes, matching existing conventions",
+      "hash": "cac43f76074fade7a4331899f22b9d452b93b8ae88d7a019da0e6a8dc173d96a"
+    },
+    {
+      "id": "127917f37cdb62dc90a0ebaeb08d05fec1eacef46617e9a760bc5cada0b7b772",
+      "text": "Use it anytime you need to do a research session without breaking your flow.",
+      "hash": "94e36700561d256aaeaa5d4b4b13066b8f926fa48257e3a7c159c82504789bf4"
+    },
+    {
+      "id": "b745c895e98c37c0a4f7205e2df7aadbf677a97d7ee35bac47ce2096f3fc79b8",
+      "text": "skill is now model-invoked so that Wayfinder can invoke it itself. It gives you a choice between two types:",
+      "hash": "984b31c1d3a643eaac30bb270063f805672dfc43a47106dc7a77bb1da58e906e"
+    },
+    {
+      "id": "dc0c3d26b0d2e8731f033264b18781265b516ef2ffff75a4d04506c6d9e7424f",
+      "text": "Use Case",
+      "hash": "26672c09281da9dcba60d90b83e2abb92cdf8fac066ccf5dccdd1589b50da8f6"
+    },
+    {
+      "id": "0f512b1c12ba6ddec04f47e9835628b31260b09fddcf0eae89170446468fa7d0",
+      "text": "Logic prototype",
+      "hash": "cb3653574fbf131e2af954a03441ed3db21698c349d7d420a1d44dad934400cd"
+    },
+    {
+      "id": "548bf5dd940bb40c9fdd61e67df7e54311cd5bd24bcebdf8b0fea85cc15ed8ae",
+      "text": "Test behavior and logic",
+      "hash": "2a1113852919c785e561bb4e78abf05c8de5b2ca00319227bcb0437d70b955c5"
+    },
+    {
+      "id": "40ae53d18687bc0338c1cbc29ab3ca2d55782a25e3045cadc2d19d1cd832ad51",
+      "text": "Backend APIs, business logic",
+      "hash": "e1488ec1e765b89131260a0085070e794cf2a9e3f54b8980971d59f9b55f1c3f"
+    },
+    {
+      "id": "be6b9db58fe22c3cfa86c8cda151e45047e73dedfdb241eeef13759d4e2f02aa",
+      "text": "UI prototype",
+      "hash": "b24082b3a32dcbe68331f964d55cbfbde506bccf79ceecf99107f2c541d4b9c1"
+    },
+    {
+      "id": "aa56898439e1d7ac047af8f47ef5b954bbf082aac18842267c88c4cc280a577d",
+      "text": "Test appearance and interaction",
+      "hash": "8a2b75a4ddf22a8f17a2fb33e1dbbb7a3f0d670c7efd170f0f590ab7b67682f5"
+    },
+    {
+      "id": "6f135e606956bbd0eab8dbe19cac5d2ef0cbffdbc55dd96fd9b076ba7b237b76",
+      "text": "Frontend components, user flows",
+      "hash": "88fcd0f72724e18a648afb720eab4c1e8ac5a2fe7ba9d641be4334a8382a42ac"
+    },
+    {
+      "id": "13f906be2e1c6a49f0677064aeee4abec1b88110fe75f33d9ff0e79b317fb3da",
+      "text": "They react quite differently and help you explore design space before committing to a spec.",
+      "hash": "8b6d515527299049d8d543bf99edbfe2d4d81a3e074fc2a96474dffbb5b97b48"
+    },
+    {
+      "id": "1fee37fbd2f279f2460c4380d84cc0516cbaf8b94d5e2637286ae20a3583d481",
+      "text": "TDD Skill Updates",
+      "hash": "5cd10044494a50f94c197029522d15f7ebfe0acfb27e435cf4d95ebffa4e84b9"
+    },
+    {
+      "id": "6963eb3a21834e477b2523ecfb503b6ed8f81826143865676dbcea8b5848e5e9",
+      "text": "The final change addresses something people have been asking for: the ability to pass an AFK agent the",
+      "hash": "f830dbba9a3fe0be6091bafe49ecadafecb13b0f2fab494a3e9342ec0a890a47"
+    },
+    {
+      "id": "3f1c3e3dc5073dddf03eb985185cb4a0d3d96903dc1bf65f1f0c59d73faef126",
+      "text": "skill and have it just work.",
+      "hash": "5e3849bd851a54564cb622c11c4518b77008012fac86833d480e4c7e3fff94ee"
+    },
+    {
+      "id": "0dd022383091382289ce8ebb9d5827e6f5bee6251f4946506bbdb6063c29a9bf",
+      "text": "Previous Approach",
+      "hash": "f47cd8eff3485f6f41c627a612b9715149ab25378ea25904886390c72b34a33b"
+    },
+    {
+      "id": "1db81a591c891fa46dec0eb03e372d6fed67bcb3d3e3f34d8941f0ab186221ab",
+      "text": "The old",
+      "hash": "2ba6c86571e4b935612b61b2ed530765711e35cb54cbaae686ca2b0867b72784"
+    },
+    {
+      "id": "77d417e6306e7eeda33955cc79b06118d804e17e091d837d9ae9ea52dc1e8612",
+      "text": "skill would recommend a set of steps and ask you to confirm each one. This was awkward because it didn't fit with how most people actually use TDD—they want the agent to work autonomously.",
+      "hash": "da82cab8f2c4df1cf3d1f18372ee1140705afad4da6067f4b8c0f93391633a08"
+    },
+    {
+      "id": "6e0770b57214a7a240b1c72e03254923e80b591adfa283620d1c95b08023a1a5",
+      "text": "New Approach",
+      "hash": "70f9949199992dd8028b43f4b3e92690d7d51bc5b271d18c36894f885c568fcb"
+    },
+    {
+      "id": "ae3ffa7ea56a7bd15fa5d1a2331f9ca4e36ed34d4fc9e2055cb8557371408e09",
+      "text": "skill is now reference material only. It doesn't specify particular steps, just the essential order:",
+      "hash": "28c040b52e8f7abfbb49157645f49ff06b169f9ffd1e49980cd10013deb1a928"
+    },
+    {
+      "id": "a66e49e5f51daf72711e30474441faa5a58a3d44d0b0796aec6a8442cf91c6d6",
+      "text": "The key change: refactoring is no longer part of the TDD loop. It's now handled in the code review phase, which keeps the implementation focused and cleaner. This way you don't overload the implementation session with refactoring concerns.",
+      "hash": "3f7045ab0f411665630d9a82cf443fd00e1b1fe9e16577b94704593853fe91b8"
+    },
+    {
+      "id": "097b7970bf193f4099e7d0c6fae666aa1700e4fa13a504fda24ce42e36d80f78",
+      "text": "What to Watch For",
+      "hash": "97e242fb3f5a52555281a268d8452d07774e5085b7be6258abc0b9062f3afd03"
+    },
+    {
+      "id": "7e001648151ce6b45a16faf42b17ec9095c22d0960608e998ed3ee70b6dbb7be",
+      "text": "– Update any processes or documentation",
+      "hash": "0f06c155a3704d79c851664d2f90c59023f4229956777b3b745c51dfecb7f5d2"
+    },
+    {
+      "id": "cc7d2c28fd0fdb8e6dfb9f177f289b06b77a7ce68cf64db05daded1c5c0e1671",
+      "text": "– These are now unified",
+      "hash": "45ff420d3ce3bd286f1457179684b091a3feecedbddf0c36c3d9fe383a6a5ab3"
+    },
+    {
+      "id": "5ad5f7aa011233218e73c7540b6879a5461e8fa46238122afdb0560cca2f524d",
+      "text": "New workflow",
+      "hash": "750c4da495f2d4420bcfa11df54e77aa76dfca07061abb8202544861722662ea"
+    },
+    {
+      "id": "815afa7984e2ac59a5b8c1a69868c1412b9863893e0c6a29a139637d1ba1dfe5",
+      "text": "– Consider adopting the new flow: Grilling → Spec → Tickets → Implement → Code Review",
+      "hash": "8e7d894eed98b18fd49705cd6778b755033cf0f96d3419f23d46df0d71aa8ea7"
+    },
+    {
+      "id": "72fdb0600c3d063405c3e9097bc5eb06c13898e7a8900e9da9b63065662e9de2",
+      "text": "Wayfinder everywhere",
+      "hash": "fd0defb7e197c4b63e48382efbfece97a54cdc77db4356e4a10d32ad8485ccbe"
+    },
+    {
+      "id": "38265e3886d8be05680e75c376cc70ac8be8d45e29586951b0ca659a2421fc89",
+      "text": "– Try using",
+      "hash": "214e405340863cdd2026123a95586412019d5079e65f0696f6e1add219408a9c"
+    },
+    {
+      "id": "c8da19e123450e0ef487dbc7d34d42d5c72d0a336db50d56b87e5c3f8ff24f3b",
+      "text": "instead of",
+      "hash": "a2c8bc5a8e53f4350716cdbdcf4e9e366aa1ff5392ca146428c932d6216fd653"
+    },
+    {
+      "id": "59a610b2f4472f8638b7843349346f389ba5437bf25eef369bfba36dbad1f413",
+      "text": "for larger planning tasks",
+      "hash": "9be294009188eb7d90e7e1dffcc06c130d34a098833a500acec81f38294c8451"
+    },
+    {
+      "id": "cf4c42616cec34335d81c9f8a16944b3f60a85627e14b77b16bf3d3bd4c9c8ad",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "1f672b31a48ae0a66e23dc07f7e6a3a7b64f6154d188c0f0112687ee77deddc6",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "0fdd72d2330167cf0b8c47792a2175e4620290b86962906fa707ebcb56ff6838",
+      "text": "Build a repeatable workflow for coding agents without giving up your engineering standards.",
+      "hash": "a9e9960668666b40dcea7f5dcef394cc69c7eb352d0f69fb73501f5ee7f15fa4"
+    },
+    {
+      "id": "fa9bb7ac89586e1feab80e928cb0aef119c8e03468fb8c0a2be15fa0af3ad395",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "5c4b70d416ff3b6e07a0502b0426cb2e7ba19611fdda1368cb6a39c8ab8baa4f",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "41e61f6df4e5363120469cdf18aa23c8c5627fcaf435cd6d95cbb2ad61c79caa",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "bab0853f5f4132b8a9091756f48d9d8550474ca0b47bf26b5d93eabb73723fb8",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "17288f5481595faab4fa1c18fd829dd99490dcfed1c58a6566948d25c7211e0f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "1428fcbbc413a95b60d66df61e8a0831ab63f38d40bd9347fe4fed50777ab419",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "9ea57915e9a130f1da20dbc745ad0a2191b52ba900359f0df6e92c3e10f4fdb5",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "5a40465c06a7e77fbf6685ef541a55315f23b951dd568f3d90b980975266aea9",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "9c1988960e9278cbd39aa4b1f973e6e4e9d483fd736130e6efda90f997cf41ea",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "110af7883cb0d039e6b04eadad419459a77c827836178d12d17331997f9e9a4a",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "d38548a8d86d67eb21f250db9915543906017a7f94428ad899b98903c3d38c6e",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "79426578a35d0218b925a43d8ad33a29fa9a77e8a57b45dfa3bc55647c517125",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "9324d8cccdedce62cdec22a78d7117a27ae2bd46e66f3729c71cf03406f62eba",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "535c96549cc73ac2171d09894b0d6f0b7ae2ebde71d830426e33164f5c455f76",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "60e2002fe95ba7c13978d642e6db174b6cffb0e8d8cfe92e4c3b219b0b66b522",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "cfbcf537483d7bf975467057f3e647fd6d59ff7e2bf67ced8aa89679534aa53a",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "7e82c37f9daddf30a3187beb4e35994760dd45a4b5f15dafeaaac15d118f9b72",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "d2ff1eee8c95b01590feb1d2d297aed85337a99c162216c6cf69c8fb173c62b0",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "1095efd7aed4e5c972647f24cf4cca1da145ad26de37e51db1a38ba182f05bfc",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"bslxpxyphp730i\"",
+  "lastModified": null
+}

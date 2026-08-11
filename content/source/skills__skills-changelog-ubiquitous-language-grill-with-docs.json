@@ -1,0 +1,748 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills/skills-changelog-ubiquitous-language-grill-with-docs",
+  "pathname": "/skills/skills-changelog-ubiquitous-language-grill-with-docs",
+  "fetchedAt": "2026-08-11T06:28:43.885Z",
+  "title": "Skills Changelog: Ubiquitous Language -> /grill-with-docs",
+  "contentHash": "4776cd894b1e4c487d26b5332aa88201b2c494c14456512d95dff5be20ccd95d",
+  "textHash": "baa76b796ba669a83ea577bb872a1e4be0989871258bd63535cf580d22244eaa",
+  "strings": [
+    {
+      "id": "8b9ede3a7dad56fcc12fe5563363458631173f13d556cf46b1e6b172decddab0",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d4b01dc97be764e77487e272dcecdfb4ab64f97eaaeb3adbade2ce5bbe2659f1",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "e1a0d8081bd6ae5e49d6c0762222a50e0f979c8206b808a83f7afe730a726953",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "a8d6809d67c1129d96d25d5da697ffa58a47ae5743853d44c6d7da9104fb5c2f",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "07f370abe7ea5d76e55e42809fd933138b59fc4c42282ced04b027365361debd",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "4768f8eec3e53eba9fc4b40941ec261cc48dbe8af06eef31411ecfe8120bed21",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "84866a5369c9663f7966c0afdcc1f5b945034cbe9a12cca98a0ac29afba21849",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "755761da6822204d69e7d377d9abbbfc40739089e8500a1b3c6b4553bfe30e73",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "de6f79874081b027742e83f386f167165067835d2aecb74e55a3055d13d67b5e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "acfec9fa16b720c84924d864433689057038c8a3a09cc1a4461ec481fd0db2ff",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "87e9efdcc0fd238c557f96d8014083bc758ee18e736342062a90194ec36f8290",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "c7366aedece40d8632f35a1a09a2f77af15eebaa6d4dff25d1c7bfef29a1c4fb",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "b0710a2f2a8b7f13332f50139dff96d9a0b1cb903a46c0176bc1d9191d9017cc",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "c4dd3bda36f1ef47c853b5deb7593ee423a2906b2a1dc97fa81dd20dd647e92e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "cff76f985219b689b9cdc0991d42476b4eeb4cdef82440d4fb07f53c49e50824",
+      "text": "AI Skills Changelog",
+      "hash": "00763cbc9ed5c5c9afc525a03124e578d306e829a7c67bb87c9407edb3230099"
+    },
+    {
+      "id": "c1b66650ea5c2b4f0d87650285fe15231c39165408fdd41a359631ef6293dd46",
+      "text": "Skills Changelog: Ubiquitous Language -> /grill-with-docs",
+      "hash": "16871b3b1183f645db5de412027120e346828c7585da50274743857b037ec722"
+    },
+    {
+      "id": "590139bf28a401c01bb0b0df0d1aae0aaad3671bd67f20d1cb6348a55be965ad",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "428f4045dc6e6753d191ca78125f71019da16f8bedefda45a757f4ea0bda2f1e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "7b6f56d6fc1dad14eb4262215549aef8ea6c125b6625013d85c2b448a2db3d48",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "2b9bc2633d6d63c021980b308b2b1e0b8abfbac80aac178ec3bd3be285eac513",
+      "text": "With over 46.6k stars, my",
+      "hash": "48f7a643843c9c3544d03df2a45fd7b225ed04ecfd9ce05ed2275192b0200493"
+    },
+    {
+      "id": "df76d4b12dc54618e5177f597f82f81345941028a21bff3e90507029dcffcbb0",
+      "text": "skills repo",
+      "hash": "18d9deb7d03778fb33a6adeef7f598a7d1d863fbd480452ec4f872e9f28f734d"
+    },
+    {
+      "id": "e12b1d0ef8f5f55c78e07d93b6c9fd0c1528ecb949329620f84293252038c873",
+      "text": "has become a collection of my distilled thinking about engineering. What I'm doing now is posting regular updates about changes to the skills, and these videos act like a changelog so you can keep up to date with what's changing.",
+      "hash": "e2b0dfb5b1a60e8cd3dc5c7ce15ac4d6fa66ceca1353a68cfaabd6a127ad96e0"
+    },
+    {
+      "id": "ae5a54db3f9f9dc95173218c8c7f9240b4724b9e61a673f88dc174ecfca3fe4f",
+      "text": "These skills are designed for you to download into your setups and start using immediately. They represent the approaches and techniques I use daily in my own work.",
+      "hash": "50c3d29e4e0ebecb900473748dac013ba622ad0e8faff3bae42cd2d17c606c33"
+    },
+    {
+      "id": "c95a4281282176ef9e754ff6e537c97f7cd6be562a83718f81c69687075b016f",
+      "text": "Repository Structure Changes",
+      "hash": "46800fecf432b595e23e84d348c11f646335436756e5a97f05dc3a74529e70c7"
+    },
+    {
+      "id": "6fe61facc441b67d418b891da6ba8069802342413a1609ff3459ae7bdeef5791",
+      "text": "The first major change is the repository structure. Skills are now organized into distinct categories:",
+      "hash": "64451bb3f2fbea8a8c3a1643722f8e0797fdbf9e6ddf5c1b883e4a31c22b07a7"
+    },
+    {
+      "id": "821fe1ba3ef3f841bd60d7ca5a2466110308755f9c993f8fe95059aab5acaece",
+      "text": "Category",
+      "hash": "292c06f0045a45d044be282b132b7055ae224e18e02b523a451d8ea96fadfd24"
+    },
+    {
+      "id": "b4805ccb2aba2d83a096277529da27075414d332e7537dfc73d87e3836ebd78d",
+      "text": "Purpose",
+      "hash": "d4e8830a71c73edffe0115b8abad16b0b5cb2e121047c64cd01995203cfad062"
+    },
+    {
+      "id": "dc6f93562c258d91b332d7cc759c2f221aaee9fd9539c4aa3fc96ad1e068f322",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "1307653cec353a5ce60f5fb8c37d121d4b7b90b36322f3cb1484395b141a0da4",
+      "text": "Skills useful in general workflow tools, not specific to code",
+      "hash": "748eb20923bee8186149a2d303e36c5cd0fb911bc3325c83fb8948e3b5961c30"
+    },
+    {
+      "id": "d19b72a7a452138ceb259dac417bbdc10164bf77a48cf6102b91c859bf0d0dd2",
+      "text": "Engineering Skills",
+      "hash": "99dd33c5eb661f0a334b3ced8d1b8ebf8c35552a3d9ba9a84ebb386eea01c6a0"
+    },
+    {
+      "id": "117bf6ce56f98ce50f6c98725b5a200cb9ae8faca517434fad06d5914b4bc512",
+      "text": "The main collection - skills I use daily and recommend learning well",
+      "hash": "5a0b13636670d611e77e27e0c81567f8c7cacef6293e0bc123ed80ec35d83c74"
+    },
+    {
+      "id": "2025e0dbc344ee41c6afec65edf1d89357ea62effc03fd87451b231a4b4f4883",
+      "text": "Misc Skills",
+      "hash": "279775ffa4703156afb6cb40f6272cdc14dc4c90086138bfecad19f7572984d4"
+    },
+    {
+      "id": "216fc0714bfd302beda6692efe690dd985b9c49f5035f8ef4c0759c33d30c2f7",
+      "text": "Occasional-use skills; uncertain about their permanent place in the repo",
+      "hash": "aa34893985f03bddcad929908a85e2f0776d4924e1cd4daedde28e6229ea0af9"
+    },
+    {
+      "id": "a1b55d6b9d37d27874b229bd0a8a30593c5cc8402f38cf6fc58ac0ebb097938b",
+      "text": "Deprecated",
+      "hash": "6b2e8f83dd8e811ed238eb2d7dec8e948549aa06a20a9ebbe9c2a3a56bb47e94"
+    },
+    {
+      "id": "e222796760fbba411448e706baa747daecf059108dc91d773033055f888e1822",
+      "text": "Skills being phased out or replaced by newer alternatives",
+      "hash": "1ef923725e5ada9271beb6ff0cc6c5e2895402181fa0053588ff9e358811e3b2"
+    },
+    {
+      "id": "d7e34a63880000ed1fa0c5b69560897ae240472e2199e2f6f04efeab3e4ffb76",
+      "text": "Personal Skills",
+      "hash": "c6166ef1af1de97e57637688fd25629f3ed9d5c8d8dc68d5dd157c5e7d3743a0"
+    },
+    {
+      "id": "d086867869a167e1b6a99a0b9454a886354ff77617782300f88621f366b92ec6",
+      "text": "Skills I use personally, shared for inspiration rather than core usage",
+      "hash": "fa95a1e5ac4dab3111ce2121ec37739bb73d628b007c13ad93fd297f77e01e95"
+    },
+    {
+      "id": "7ed72b0991574ce1c0347422f6ab181a9f9357b8450bea549ff6ffa6ffe160c2",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "f83f2c78008f7e33de719c4893a00fe7162af4f9f9afe95653b760af135b0edc",
+      "text": "You can safely ignore the",
+      "hash": "49370db244aca6ce42a138c591302836aac980fa20f0484bae4df02e466ed805"
+    },
+    {
+      "id": "b9f08a17462dfdaf78682143cbe0bb5c54466c537ce7caae07adcc0489d1a67b",
+      "text": "folders for now.",
+      "hash": "ddeb49d483a5b73d626936bb5e99b9fd10cbf2d125bfc974f67287ebd725bfdf"
+    },
+    {
+      "id": "6b2df822aa221a3787798db87c6d9fab29c78faed4e7885908dbdd9c5b535d19",
+      "text": "Major Changes & New Features",
+      "hash": "c591bfa2f74763eebdb2103fb0f5a7f501a30fd807244049a8150fcae6788b77"
+    },
+    {
+      "id": "375b52211f2b78e3a063086215352fe86d1a9e5fe99eb8047f6cb5d9e0c0a849",
+      "text": "->",
+      "hash": "71b37b9a8a57b848ece344578aae47e20d4a7adef967e33f39e69aeb231340fd"
+    },
+    {
+      "id": "776714e0def1f7faa52e1d291d87552f36a07aa476b26cef3967583883edec44",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "92d9a9999484d395bdfb39faf1c646cf83dfd0c644c3f000967eddf5ab36aaa3",
+      "text": "skill has been deprecated and merged into a powerful new skill:",
+      "hash": "d5745dd9ac88d5d7e5603a8a2d3eadd536642ac9832deaf215dbf93a98110485"
+    },
+    {
+      "id": "ea1345660062a223ac8ec400f7c54f7409900a22cf58af4e8d342a2c2328bbde",
+      "text": "What changed:",
+      "hash": "9fe6ae8c9fa757ee537e0d5524db8c0935b04b6f8ba91456ee3eb07f22170023"
+    },
+    {
+      "id": "6987af93d4a56ce6444ae38ca84aeb91d246354e098245ebe13de818e7e595e0",
+      "text": "Instead of creating a",
+      "hash": "221a19a55b5f78a5768ce89ab48a7b160221493586c9db6350c2b68836e11eff"
+    },
+    {
+      "id": "1e32bfe24cb48204e84e93b63acc1c546a3b2443b9e5113a9dd31517153258c4",
+      "text": "file, it creates a",
+      "hash": "da6c34e7345596611743e850320f42045a42268fcc4acfe0fbdc27013f471225"
+    },
+    {
+      "id": "88dba30cba96cb69088dfe67f70840fe1584a9e46df9bc4d8d28812c9684bb96",
+      "text": "Combines the grilling session with documentation in one stage",
+      "hash": "70b1d60a0291557c891e7a0b677933e18715913430648fe089b4ea78483cb6e0"
+    },
+    {
+      "id": "5c3010204e618b9383391907e9f6574b6eec7af1cfeedc1b3418cc4a7342cf6e",
+      "text": "Supports multiple bounded contexts, a common Domain-Driven Design (DDD) pattern",
+      "hash": "1e87d2a969d6f6543c7f5d5ea0b9cd933b068044f6a4f248f898511f822c7e2c"
+    },
+    {
+      "id": "fe7490c38534d66c0dd02c70ff628bd92e31e5dc37d4b7377e52217a45406ff3",
+      "text": "This means you can have:",
+      "hash": "9802b5cef2aa2574cc8129d2a3313213cb9dfab7f6b33534afe93ed869639aa6"
+    },
+    {
+      "id": "48e9226c986765e07760c23314e34bff11f274b882c239de7c0ca7d98a4531fe",
+      "text": "Different contexts for different parts of your system (e.g., ordering vs. billing)",
+      "hash": "c7b518375cfbfb8cbee66a9b8ce85259c90ead30a7a926fa76d4acd5bdfc5c5c"
+    },
+    {
+      "id": "3f711986f22e3a7928b0762a7b8b0ddf1148d567cdc41391e673bac929b17c5c",
+      "text": "Each with their own",
+      "hash": "976aec802827083c2991123d4dde4e255be9036d380ef2308bf4812c4f470f9b"
+    },
+    {
+      "id": "f397e6c91358a9dc8867c9c010f3dfadfec8567772ce60cfb8102dd39a01a06f",
+      "text": "and shared language",
+      "hash": "0416470805164a83d7c226efd920293a165c45df5b5b3fed2dc7d1ca86955a56"
+    },
+    {
+      "id": "c80f361ad19e44aa5075d074a7a5815bd101c8af16bb2d4076158d213debc63a",
+      "text": "No need for a single ubiquitous language across the entire application",
+      "hash": "1d10b6f3fd0548670d92d3540c3ccb0b6838fafa896de2f6da3fea315906265b"
+    },
+    {
+      "id": "2ef001acef70378ef2bc447a12a4702226c3d0363e3dd6098264040d19bdda4b",
+      "text": "vs.",
+      "hash": "dbe6a873d506526f55394004e0681691bc10c2261d02bb1d19081c2aa51b5737"
+    },
+    {
+      "id": "80ef394a7fec6664bbd0bb5f04b4e62128ed8a2682e9dd98c3f5083fa4de8e65",
+      "text": "Feature",
+      "hash": "3d377ae910dce03ac324d1f4391c0d4d175825e630baf9c5b93d414d7106cfd8"
+    },
+    {
+      "id": "e5a77195ba5f8c2eb587e4d3826a173f6352b4078e56aa26057fe366338b37cd",
+      "text": "Best for",
+      "hash": "15582071ab2c6633117f2792ff83b0c207000b6c30473bd457b106ed0068a017"
+    },
+    {
+      "id": "49566717ac062ef0b3321fbd905a7ed2c56927a8cdb2266bf7e9628fb11777d6",
+      "text": "Codebases",
+      "hash": "53f3e11d7d5790efec16f205593f81fbb2eda76c832f9441cf4dc98a44ca3ece"
+    },
+    {
+      "id": "90d3484e41d75e15fae84bb06e521b43329cb08d542f582acb8ac865248cf9b6",
+      "text": "General use (life, work, creative projects)",
+      "hash": "7fd52923baea81e294eaaf6f7bda338b24a065468acfbbe871642a69c840f0d6"
+    },
+    {
+      "id": "e1fab30353706e84fb150f8f2c0dcba59a8ff38058e746c2a077a5dae85b6599",
+      "text": "Output",
+      "hash": "b2439bcb8dee14b685f137f294b0e0cb62f5aadf45143ce01d79777d435a93b4"
+    },
+    {
+      "id": "9064b300b9072a3dc285f450c3fb857365057609ac531db0a3d74f57467bbf32",
+      "text": ", ADRs",
+      "hash": "f57b7ba23a3380bd9a96c4c010f15dd2af59fd19f595dae90d0763955d870365"
+    },
+    {
+      "id": "463c54262110b63b5ca12d3ac5b17014970cab6c2d52f0267263f20620634095",
+      "text": "Flexible documentation",
+      "hash": "8d10ef06d18134aa6517524ebe70d6ed3649335385eb68366e6a865aacff1879"
+    },
+    {
+      "id": "6afa979317aa83d3d079f00b8830818321d1fd830b6faff4cecbb0944f031234",
+      "text": "Location",
+      "hash": "15b61974b2707a7b3d4201385e0f01f4ff5eb1f17c5639d98788ee5add2025cd"
+    },
+    {
+      "id": "459015e4554a3dde6d41186f5ddcde8b063498250dfcbfe671dca784a58b7613",
+      "text": "Engineering folder",
+      "hash": "7d0eacc8493faea9d7c497e1bb2f03006682e38d6e6c3dfc4dcc62d07334aa20"
+    },
+    {
+      "id": "ce58dc36ebe2c9341975e77bebdb69c9e63dbf34ba426db6401343c7fb13a361",
+      "text": "Productivity folder",
+      "hash": "54c391865f3f679caef16a6c86b0795255cb8ba936e73354c5ee98c780246709"
+    },
+    {
+      "id": "329bad77b4116bc62e010bd4f41dbbd4f49b0a358abeea7a326a4e8654468c23",
+      "text": "is totally unchanged, it's just been reorganized. Someone even used it to create a eulogy for their mum, and it worked wonderfully.",
+      "hash": "6a0dd6b8d77d9d3f113e89caa299cec69550f5f9f5ed2459a6e22ea6f48ce232"
+    },
+    {
+      "id": "f27455cc265a379bdf995e5a4cbd299b5ad172ad48ffd976792701dcfe7457a9",
+      "text": "- Architectural Decision Records (ADRs)",
+      "hash": "872c0b34eccc184a2bbeba52920425ffac9b3a82e8f783109a2a0d60c012d63a"
+    },
+    {
+      "id": "f67913d91cf21a0b89105bd62333e7d77a30c20ed358b6a86885c1ee659d5d70",
+      "text": "now includes ADRs (Architectural Decision Records). You should create an ADR when all three conditions are true:",
+      "hash": "40a03a86945e88a43ba3bf4ea8e3cfb829f2801a43bf92be5908c22db7284692"
+    },
+    {
+      "id": "d5a8dd90c6857234e48dfd0970d59a99b68b723d182f049bfc13a11400751cef",
+      "text": "It's hard to reverse",
+      "hash": "e23f80264960519743a8f2454663b3fbbfc0290e33e559fdeb313dc6a2536028"
+    },
+    {
+      "id": "80e7f88b8bcd0d273e4cbd2e7d09d0dfde4ba056d4d715b47bba3e60d1d24376",
+      "text": "It's surprising without context",
+      "hash": "ef838f0568be6df275058e413c2f2b14be552b59e915be353981aebdb5a2d056"
+    },
+    {
+      "id": "76bf80b6011463f202cf004c5693710b75249504658c97b1d2aac953b621e371",
+      "text": "It's the result of a real trade-off",
+      "hash": "c2b9f21ffbbd4da2e4ea7d0e8bd42935672c577fb5a594ee5530d63699efafa7"
+    },
+    {
+      "id": "d1d77ff79e7f41f880117f9d827769a11ca557a12b78ecd6bccdf575d94c6bd8",
+      "text": "This alignment between you and the AI on non-obvious decisions prevents the AI from suggesting the same bad idea repeatedly.",
+      "hash": "4dd0bd764ecebdab9ca72fc3cfd0547cadd234205f458c4a2bd4439774326d4a"
+    },
+    {
+      "id": "cb5846f536fb4fc2b1a27b5753be61778a1c3006e69bf3415ad6a57955df5a97",
+      "text": "- New",
+      "hash": "074f22679b06d3e6ee63d5fa04592c1516a2a323d501b43e47a55fee4fe6036e"
+    },
+    {
+      "id": "72c5898a54097cfc670dbd689664566a0c9ea5e087ed8c8efc20f90ef96f2708",
+      "text": "has received a major upgrade with a full language definition for discussing codebase improvements.",
+      "hash": "6f57b01c08b708157aacbfd4fb49d73386a9ed1b550e7c210bfefc5febbac572"
+    },
+    {
+      "id": "6c1842b91c81d24ab5017ec7a0385c1ba37b149a253a36735b8594b8c178a26e",
+      "text": "The skill now uses precise terminology to describe architectural concepts. For example:",
+      "hash": "d5b1afbcd17b07e209c4c4af87545a2f7d47107e7cf79531277b53f62391b1c5"
+    },
+    {
+      "id": "704f762d893ca2d298c8a996440e885e799fb3e224636fdf12d2c52962acce6f",
+      "text": "Having this shared language prevents verbose conversations and keeps you aligned with the AI about what a good codebase looks like.",
+      "hash": "951a956193e028384993391da6cb72b007453558ba54c4313e34b6442af8ae6a"
+    },
+    {
+      "id": "4a9e7adc00f64d61ed2afdc8c24e086b984169ca4420858bd925abd540022111",
+      "text": "- Issue Tracker Flexibility",
+      "hash": "c3762b8f804d4087225a2a20c370165861bc01022ff88a0775e6f207d856c4fa"
+    },
+    {
+      "id": "3478d278fa549283604451fe581a599328476a816f8c8c959949108187c331cf",
+      "text": "Skills now work with",
+      "hash": "75873ca2f723151f4df140698febb5e163ff2caf2949c650e61b814f79d7bf73"
+    },
+    {
+      "id": "843860fa373ec045a233cb6b35e204969876dd56519e22c4ada88e6d4017c025",
+      "text": "issue tracker, not just GitHub Issues.",
+      "hash": "f1f7d986a0dc545b85d6fd34c0a250fbccf8000ea1a79548e583a318a9672169"
+    },
+    {
+      "id": "a344a7a811afc914fc2622771963fa1572fa507dd7d7b36d808706c168d51229",
+      "text": "Previously:",
+      "hash": "e070e6b052fddb158afc5a35bc14b0cc0f1aa10238047dd17fa40ce20ee53332"
+    },
+    {
+      "id": "44efde4ea18f524d2e37e54592577c875c283663c87697f4a65b7ee1cd0ccbba",
+      "text": "Engineering skills like",
+      "hash": "e08a87b289d073bfecb1ad7b3e45d956e0a7f0691f19cf6de4d7ae9e50db691c"
+    },
+    {
+      "id": "d03fc73b917e21f5a99447968223fdec3443a3387ea2707bae48af1d3843a4c9",
+      "text": "were tuned specifically for GitHub Issues.",
+      "hash": "772b4fb72ec23cfacf98d9b6209dd17611af1a5cf13d9b2ec1d7eb314898318d"
+    },
+    {
+      "id": "1c8f5671dd4958a328a8806c819a56b24009a9a764a6098311b2e30730bb2922",
+      "text": "Now:",
+      "hash": "09af5350700df2ec74d3e95e776b9830cac8608b281b2dc65ae88a6e6ce48616"
+    },
+    {
+      "id": "03211c9e65e242433296251607f5eb4b5de155bea622b674b0fd5539e6f7ebb5",
+      "text": "Skills say \"publish the issues to the issue tracker\", but how does it know which one?",
+      "hash": "576d3a36595b716b361c8437d41eb9047828420f97cc98b11aa28427e0153bf2"
+    },
+    {
+      "id": "411127b5208929e47927f88dbc994fac5122de5bdc1d0016ad5d56a013f9cfa6",
+      "text": "The answer is a new skill:",
+      "hash": "bc0f25f9687e2a0cf2be066a56c0209a28d098c12795ab55cf67fed964ab6589"
+    },
+    {
+      "id": "d38850ef2b3fab183db2491d586cc698a5b76c860b26e380e3a7844e69947cdd",
+      "text": "This scaffolds per-repo configuration by creating a",
+      "hash": "af39ed755d92b02f12f481cf5d98f338da26e3e3ab4b78509e7cfbe4df89b10f"
+    },
+    {
+      "id": "f72a5d4f0d75f26343b7073acbdeb54b5c501b4a71be04011b2febc80f4d6e46",
+      "text": "file that includes:",
+      "hash": "f177498d8f4fdebd6d94e8ecfe3f33a13126107f9258e9b4ee3706f5de1b637d"
+    },
+    {
+      "id": "28802047597d5c42e3df913768a1820cb1e6337cbb9b6674fdb386d8617c63aa",
+      "text": "Your issue tracker location",
+      "hash": "4f3504c42a39e63ec5d87682cbd2b3991415b7e4023789fc77867d1b9cb4f49e"
+    },
+    {
+      "id": "47c493146dd5d8fe8da5f77735f384c36d7b957080874020b606b05963b9224f",
+      "text": "Triage labels",
+      "hash": "bc2a1d02fd72e375875315126244c5aa0455540dc76b8c8a264f55fb5884eb85"
+    },
+    {
+      "id": "17c3a243ad54a928a626f8699bc4f77d5bb36ada61e9b0efbebf629250a16498",
+      "text": "Domain documentation paths",
+      "hash": "e5a863f74f8bc87e19c6009a265a93028c69a9bc1471efcec5e7d281e85e9a15"
+    },
+    {
+      "id": "816926a3b7581018407dee2e2f3b1d7aedd4a1c2b96419ead9df15989059b444",
+      "text": "Custom trackers:",
+      "hash": "60ec645daebe99081e1cae2abf3c61acad4d07d938d94bfbf5d866dd9c336856"
+    },
+    {
+      "id": "ce6049e292cba69a583d95e85de4a0773dee7451394206059d59de6bc4835e31",
+      "text": "Since these are LLM-powered agents, you can plug in any custom issue tracker or even unsupported tools.",
+      "hash": "026c875c7999171687f72e814ba3e64a45b786229c16f0aa1684d9c49f66143a"
+    },
+    {
+      "id": "f658dd01a80fdd9c581ecbb4865fbd684f23715362bbd3d0cf2a5b5740e62a08",
+      "text": "Here's what the setup looks like:",
+      "hash": "f87b121968e0d4bd67e4a4c6063b28952ac7112f5e586fd4580c7449151590aa"
+    },
+    {
+      "id": "77fcabb8b47200c5b6b28ea68ebe0fba09a5415602568ba2c2ee4d833b9e0c7f",
+      "text": "The resulting",
+      "hash": "228d6c985311098dedb621d8fc3c97177355fcbd9978c7769e102738337c760b"
+    },
+    {
+      "id": "9e299193624ed68a9aa1300bddbf930d1df67af413c72578fd7b3e8531522c49",
+      "text": "is minimal and clean:",
+      "hash": "e458c24d9d73adde96e364f37f15d4001326ec36150a284f71e561bcd4138da0"
+    },
+    {
+      "id": "35e7c2be3b3b792402130becfe45e8a6a40dd08912534cad4efd845fe48d982e",
+      "text": "This is progressively disclosed - the agent only grabs this configuration when it needs to.",
+      "hash": "387dedc1f8d577dd78dc4f17bdc89b6ec156595e2f0270d15947243d7fb02043"
+    },
+    {
+      "id": "ec3d283d1e8fb92ce9e080c0e5fe95b62df2655e92e1c8213ee54ce3c02c4c24",
+      "text": "New Experimental Skills",
+      "hash": "ee2f3a44443a1c2c69035788fa5075cc1890438d71271bcbbe51b4002ae4eb70"
+    },
+    {
+      "id": "86712520b967ba43744ed8120ffe7740a56a38c1c0ae4aedad6b0d0e221f2947",
+      "text": "is for fixing hard bugs. Run this every time you're debugging.",
+      "hash": "75034ff09d04009175c65e9ea0b62ba5e1b0d49a9313ee676ea9fa0d5bc84264"
+    },
+    {
+      "id": "e26198ad7c0db4edd2944542e1882bbfe09587135234fbc593dc7e6fee8c4719",
+      "text": "The process:",
+      "hash": "eda33b1cca289addb86e520679f2b50ec3a42fdf1cbef8e1c9919bbd16dbd0fe"
+    },
+    {
+      "id": "28c66a7d3c01fdf3f35e0a8ee950f3ff738410fb88253fe8941af8faa9b7e92c",
+      "text": "Build up a feedback loop",
+      "hash": "4c0b0a8069a5a4680aba07bc705b0ffbdae6f414fa9126f8da9427393f6ad5ed"
+    },
+    {
+      "id": "b53d2b3aa3d5cbfb7edf76ee598a9fb27e0294eec25a3fcf02783c9cfb81524e",
+      "text": "Reproduce the bug within that loop",
+      "hash": "cee3d23411b2c00f9b34a5715b0ccc745774eacd79fb3235bdaf38746aa2dcfa"
+    },
+    {
+      "id": "d81bfbfa2e525e9e7fed69e7ebb240c9b19e0e1f2d920dab400fc94888095ade",
+      "text": "Hypothesize about the bug (presenting ranked hypotheses)",
+      "hash": "75fe1f2273b670d0217b015957b77c0b1de83be8250f9a7f1f4c034c6787f8d0"
+    },
+    {
+      "id": "19768793a7c562dfbf8237c28c3ed69c649b1853c2b0c262ffcb1758a27c90bc",
+      "text": "Instrument (add logs to observe behavior)",
+      "hash": "7c664d55d2d2c333d558995dccf2eb84e36fd098cc3b8be11ee5f554faa65563"
+    },
+    {
+      "id": "8f0722fa48e1454916ec0726080076e99b1fe9ae05311f33cae2716380c72194",
+      "text": "Make a fix",
+      "hash": "61ff6c41c04f7081a67bfd0027757f4d6960096268b4c57dc76d1705bc584280"
+    },
+    {
+      "id": "df8c5bd4bacc907aeb1725a44e2bbcdf5f8a4c1b8046e0cfc3b2855af4e449bc",
+      "text": "Note:",
+      "hash": "1150f05446e4d34452b320c78645f5d7f717b745ab3165abde97c15ddc650da5"
+    },
+    {
+      "id": "9869c2a2598a08cea20b57213f0317afebdaf607f9a6c8cf49b5eb8f27ecae69",
+      "text": "The AI currently jumps ahead too eagerly in these stages. This skill is still being tuned.",
+      "hash": "f8652c44e2eefb6b32644125dead364668d4c11e1ff7277ce8b61d6119566a71"
+    },
+    {
+      "id": "227fb134b300e583a0a6f0b07c7a16545adb90fa67fb83fa8429b7fd08914e17",
+      "text": "triages issues you didn't create, typically issues in your backlog.",
+      "hash": "8593083d57a6e07550e553ce3ae4599a269b34d0628ccc2abc5e28c51583bd92"
+    },
+    {
+      "id": "f6bc1484b96a13216126a68a7b82bc8b532950622cb8b6dd4ab2d6f5bde4d85b",
+      "text": "Use case:",
+      "hash": "b74fe9cebc810c97aa1606347efc1d926cfab22ba2af4bff274f58380e32e8a5"
+    },
+    {
+      "id": "2fcc684d515f0d434c16e42e16123594e13fb1a488a969e6dd31d257ecf986dd",
+      "text": "Your PM adds vague notes about features they want; triage organizes them.",
+      "hash": "369f966cc0a933c8986c0c315380542ae2fa4d1333a0d18ada033f2507143ffc"
+    },
+    {
+      "id": "87ca343147e196c6463f79546b51be638d904d390549a2389a567b62db46cfad",
+      "text": "How it works:",
+      "hash": "4ddbc7b3c4ec8cf87a83b8cd6f8d8157474fc6613b7d2f743690fa6597731b3d"
+    },
+    {
+      "id": "8659da5e5cd982e1987b1f0ed247632fe344f1465425aefa1ad5851e74bc2d29",
+      "text": "Uses a state machine with category and state roles.",
+      "hash": "7e7904480c5771489529cb74dd68311781fc4a660a3a5832016bbff26f88c2f6"
+    },
+    {
+      "id": "6fae062fc4c8c041112916ab8f38f5d0134e90ac139eea32c40cf784aef28200",
+      "text": "Category roles:",
+      "hash": "12d85689a558cce50c3789ca6bb03a269c59b2ff13c3ae7a5859e3f7a2394ee7"
+    },
+    {
+      "id": "502cd7a14d0c67fa872b726851c176b6a9a44b4d2a1c19ddaa0dcedbddda3e3a",
+      "text": "- something is broken",
+      "hash": "227b0d59764c9e7b394fec66db5f5f93af5032fccd51b485d11c9c4d612b23dd"
+    },
+    {
+      "id": "a2b7be1383485ae9bd7a49ccd06c980ed110899255c5326cdedcedb814f9fe3e",
+      "text": "- new feature or improvement",
+      "hash": "932ef724d915ce6c14d80d6f7d7e786b473346b47c4bc38b85770215cc83fef9"
+    },
+    {
+      "id": "2007df4a7f8e07a466e3bfac5e2dbbdc56a735af1a11db785d6e1d6e79c2161b",
+      "text": "State roles:",
+      "hash": "ed3277cfda364097412c3f758d17fd054b6bf420201dea0e5af08ee7ce6bc268"
+    },
+    {
+      "id": "7702fafb8e8fcdf26301e75c4519856cfc0c8a8ab616bc7be2bc9d5248c85a24",
+      "text": "- maintainer needs to evaluate",
+      "hash": "6483f48c7badb757710fd017b567009e02a63f78ec19ed802008ade8a67f0596"
+    },
+    {
+      "id": "39716862d108915315ffd258072cf03158646d8f1f7218663aa325bda3e3a5f9",
+      "text": "- waiting on reporter for more information",
+      "hash": "967e462076ccd154dfc5e3b9c1468b03d1560013482bde91bcfec06fa2e64d7f"
+    },
+    {
+      "id": "f4b70f5306ff6ed69f6c010f7b8b9801200df3637b0db9c06ae69a26c78bc207",
+      "text": "- fully specified, ready for an AFK agent",
+      "hash": "75b55ecd9b2cc501c6a4a97dc75d4712ded5fa686e2b5a53fb2004ec495c4a71"
+    },
+    {
+      "id": "801c703c6c6fd8c561b4cbe5f98285bf15278cb0827619e5d59ba21f3f840eed",
+      "text": "- needs human implementation",
+      "hash": "3091566fa90bdfe8c56884880ff24dc0b91fe7dbc444a5f68ce216ab3ce46d26"
+    },
+    {
+      "id": "ae97febf1da8c89dcc87bbc91f0ddd49fe685267620303c86e8b1aebd2ce1db6",
+      "text": "- will not be actioned",
+      "hash": "c8d879ffa26cc1b009913dc3db421e48a890b7c1c098b0eaef3377bfa9f1cf8c"
+    },
+    {
+      "id": "3b34d4333bc890110d8cafe7838c6cdc1dc50b20a1371493faa7b8b2bfb27035",
+      "text": "Every triaged issue gets exactly one category role and one state role. I use this for my open-source repos, and it works really well. I can add vague messages, generate comments to clarify, and get issues ready for AI pickup.",
+      "hash": "29afeea2282874a35e08665a9b13e6aa1ef4899fd3ff873e326b842361853b2f"
+    },
+    {
+      "id": "3adda16993276d1a628b3c4164e88227a7325b3684f6bd78220746f25d0f5dcc",
+      "text": "Getting More Updates",
+      "hash": "6b6711fef625f01341e9e99739e5009a7cf0cb527dc2b90232d7ab7634287f3c"
+    },
+    {
+      "id": "fba76225a785512d3c3188f638a74170ece28a606a1ff9a9a1e523dab51f4bb9",
+      "text": "All skill updates and tips for getting the most out of agents are posted at",
+      "hash": "4ad65bbdce89205ca29c0be7c18dad4e4a1164edd8fa8fd87ae2f56fd5a168b1"
+    },
+    {
+      "id": "d90d1be7cb29fe6fabdaaa7e494b44a854a768021008fb453e2d52c1051f2854",
+      "text": ". It's a tailored newsletter just for skills.",
+      "hash": "369768ec5a6a897953cc1c6b9a5c22893d0f59ce1945e08873940f4a50c62e79"
+    },
+    {
+      "id": "1802b4ba74a64486736fe5e061861613eff381a3e6758d9aec9ca328a4029f3d",
+      "text": "Thanks for following along. I hope you're enjoying these updates as much as I'm enjoying creating them. See you soon!",
+      "hash": "700ab5a4a03acceda3d5711aa13dcbd2f5bf90e7ef77eabf67fd86c019417876"
+    },
+    {
+      "id": "ec8d79f7fe25bfecfe15b5feeeaec5d6f3db53a77ef8f92f5b20b4caed2ef19e",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "f88c1a8488d56ff8148323d5a4d013ccc9ee1ac82452ce943856d70952551443",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "4fd1f60e9013d797d646bb277e4931e6ccb9ec6430f0b8c4a2939594538f74ba",
+      "text": "Build a repeatable workflow for coding agents without giving up your engineering standards.",
+      "hash": "a9e9960668666b40dcea7f5dcef394cc69c7eb352d0f69fb73501f5ee7f15fa4"
+    },
+    {
+      "id": "c2a4e9db6d3035eee4bed1db66590320431596d0d126ec18316075242ea3aee9",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "b426fb5b3c1a9710595697359059628bfbc3163553b2490a598128c1e5c4d7cc",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "11a30311f9f5df246fd62bb7cbae5ca03ee746ad8859136f3e5555255c58ae3c",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "879af4c3af00d632270e3898ba25e66a1c5f7b2f6eb65c204f6bf76f2c1ba7db",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "39e15b9b61f1c386450f89f478cd2059f264d202dbce19641c24bc0ce5fc9fbc",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "909d3d99beb7821f4a0ec06200265808296b43d3c2f33b8067b992c6ee78cdf0",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "c02fc994dd56807b48285b4e7b2770ebb77f8bf9e35f8112a4fa2bbf593feb65",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "4cb4bb63bc521acd3fd84872f87ea40d23dc529537e3e66e1bc940d30464c481",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "16d63d913b38a7a9754c169cbe4719236ffa08032203aea9ea233d67a9754d6d",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "155045cd0b9a34fddd41fe6d9680eaf9e85ec4cff84fb5b40047e0e9d52f7d89",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "52ee02fbe898d6d4210bd96a7bdde2189735a87339e69d32a0e38e6235c10bc9",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "1322014c3f2d57198bffcf89ac17dcfdf052c7ab89630aa6d5108a646a23f4ab",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "3e5d4da85d6ecb61d07df00067c228a75e526da5eb9568b337e7f6583f719207",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "93d4d22838a292695a32fab0886f41a552854d0e52ac5ef81e6631c9389d7c7d",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "634e979652867f6dd0e41c2c71087f0984eca9ffa04ec52c4de4e1bb99ff20e0",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "cb15cedc30524240929be8e3a31fab44eb88af28b068ad0153a5e33e7f608452",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "43b73d7b26b8b485e303bd7b727653546529c2f23d86620e314adbd060640e0a",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "02b02518772e11f9a1f7158ec63bb662aa3bd88c11b10067db25a2cd77a3ccab",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "3a970fbb2a1e3af15cc25f2f98be69123cdcfcab02ce5da913356248281d9938",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"135ayq9byay6gs8\"",
+  "lastModified": null
+}

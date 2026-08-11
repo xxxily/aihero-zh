@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/2025-the-year-building-with-gen-ais-gets-boring~d53hd",
+  "pathname": "/2025-the-year-building-with-gen-ais-gets-boring~d53hd",
+  "fetchedAt": "2026-08-11T06:28:24.526Z",
+  "title": "2025: The Year Building With GenAI's Gets Boring",
+  "contentHash": "c4e3628686cbabad34dd0a94d63109e771a7ff92f0349e4d2f98a4471a286401",
+  "textHash": "8989d743c1410d9fa2b03272fd9c723e75da9d0ab324a839d0ffbaa187cdcd04",
+  "strings": [
+    {
+      "id": "652e7bfc90844c355e1a14c0f9dba7ae8abcb080624ea0e12a96955eae803490",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "11952aafabca9d143c7fb1855495ef65e582a227cfc37d977b532c3fcc2b517f",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "77ee3789d71163dc50f7d99525f5ab117a9bb54ea860b8dc794b8853129b2c5a",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "bbcbeb65925071b40b77170f7f56ccfea68779453b8774cbde300c5e3148d020",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "2a741d6018a28e97fa251c3234d5f378577c9c7da1bb688b2ddd9035dcaab83d",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "8a435a1b8c82c9204b54999ed158940f0625e48e580d44e92c874ba63302f70e",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "4bf24ec2240fe2f67653c5c311b974a361d41393363c22d015d439e0f83efe42",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "13b2652c0b93eb3930db34aa5c6e7ac5f07562b63151e9a19d94315dd15295ce",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "28bcfa95dd39d921974141cdc4a6ba57744cea80e078259b3b925d4ebafbd860",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "2c008375b39da9b0e5568b3abeea570c356e80123e4240766f69b812ec767548",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "5b447c8a9badca48ada0bdd45497bf59aabad8b0891a61bb12d1c5ed3c9cd26b",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "4ffbde03ea8eec7373eaff291f0604b8f76940bb49f4f2ccc14bc299b30b125d",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "0f736d675a758a2589d701ce5bd5f64143d0dc0d45e4a16a1ca30465b66eb46f",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "12c270bfdb2188c88915866e098b41b7c75f7355f59e7d6f64c7102eeb7454df",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "b95bd87bb4928a7c712e75ba5930c2dded7eff126c8cca1e9c153fcade427a20",
+      "text": "2 min read",
+      "hash": "57fa55d8639e7b457369a0a45c052a54cae2a4245f13103d07cc398757baccd2"
+    },
+    {
+      "id": "d6771e1f86cd62b0efefec47b8179375cc6777ec896d5dd1285c2377ef750f5d",
+      "text": "2025: The Year Building With GenAI's Gets Boring",
+      "hash": "99f0bdbac42f5c4f43b4d42e103e9d8a9e7a6c6dd5c1048e5624013470939035"
+    },
+    {
+      "id": "65de5fcb442dfba200aa7194b3bb78050f24cdbd86c482c2bc6d7c27d31ccc36",
+      "text": "The future of GenAI's is dull, workaday usefulness. For the application builder, they are a tool like any other.",
+      "hash": "5ff53822376918eef1b0a4108fb4a0872e74a87150270f258d2ee8bc70bb110f"
+    },
+    {
+      "id": "f2ccd44e3aa8aa1c99df0d4d650c5549da81c9c3ab3a05e343cf55c92a129f1b",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "f0233ad2931bcc6442484c3f2033a493f6879eeaceb2fc38062951012221b2ef",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "fc7f04b81796c788e9377ffee2b6bcac4a8fe8c42b1a3d4e653f3fcb6474c321",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "e17f25a44dc6519355f45c5d514a7325ca870d75bbfb0569c6b591b9eb752e1b",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "203bd215d6eb4978bfa925fb1e17cdc35cb0a2cee1a87d47fc6bea2f30b4932d",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "ef5d6f982f395d8b26e33ab9ff942a7e6610d6d126df4a7794c951d04b56c7a7",
+      "text": "Data Extraction, OCR, and Format Conversion",
+      "hash": "f691c39082c694b0ceb5e0e73589624f4b0e84a00ac863c5fa9785ab372bbd62"
+    },
+    {
+      "id": "f89825cb74768a9d7746820acc7e63286108368a7e232d71b8e451b89cc9bf28",
+      "text": "Summarization",
+      "hash": "30f5b09d7e66bc2561b51a710d9a5584ecbace69918b8a7405aeb7a845641cbc"
+    },
+    {
+      "id": "1adfecba9f335f10df68d661b66493e192566fdd195a0cdfe14edf8132f9b9e1",
+      "text": "Translation",
+      "hash": "6fbd766b1a71cc4d296d92f84976a1fd5f5a750ae0f0cc929db2c6458d3dc9ea"
+    },
+    {
+      "id": "e420834c4c4145c956f78cee7d48e2930af4e3de116de7c2182ca043e566663b",
+      "text": "Search & Recommendations",
+      "hash": "15c35275b579a4852ce00c74502e9070c2a18a4a0086ca58469365f9d69072b1"
+    },
+    {
+      "id": "8bd14aab903b1de3ebce1f810786fff325f415f34ac186432a0642557e878b2e",
+      "text": "GenAI Behind the Curtain",
+      "hash": "a0ccb2a8d2470863439d11293dc19387e5bab8c3aa9ca823645ac2c988eeb0c4"
+    },
+    {
+      "id": "1a7405eed12154e3f5995b91c376b51d94fd8f5100c936738e30e4c8c76073f1",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "6cfb7a9870b0c95ddaa5804314581edac9f447c8ecb10b191a5d6f6e16a1ae23",
+      "text": "You need to persist data? Use a database. You need a low-latency cache? Use a key-value store. As we work our way through the",
+      "hash": "32df8b277bc2aa68eb528330c7dc1393ca7fdc94b40bc9330f908932f6a3883f"
+    },
+    {
+      "id": "391188ca1ec8fd2956847ffe6efb1d7df1ac60e591a19a443fb4de52f10e5e66",
+      "text": "hype cycle",
+      "hash": "5a4f9c4e317579ab33f2cc798c4c12438a072445e75b4d312b0ceffafd46007e"
+    },
+    {
+      "id": "3b86f224b2a3ae4043427d64126d5b72ac327f3a49a4fc49821f0cb96542a1ec",
+      "text": ", the boring, workaday uses for GenAI's will emerge.",
+      "hash": "fa48390adc84112c7f25a07e265b89db78ab968f1988eaeb4b6c8f8cd3e34dee"
+    },
+    {
+      "id": "b830a44e8c03b9479cd2aa093217512db634ec02ff421cd82ed82d6d3bbbd52b",
+      "text": "The ones I'm most interested in are not user-facing. Putting an LLM in front of a user is",
+      "hash": "acc0c96b6a29d6c5c65ef89f658534e5a6752978012c5828e7108a358743bc73"
+    },
+    {
+      "id": "63ed057609971dd91f71a66163f3339f638fb60313bf074c99c89b12df865c87",
+      "text": "inherently risky",
+      "hash": "924c66a21a56eae24c51ecaa5a984242a92445b433c779be1fe31a5c8a574df7"
+    },
+    {
+      "id": "9b0c7226dd74d242b8e3bc3cc83560e9497b91445c4e918520abb1358e2300f9",
+      "text": ". User-facing GenAI's can leak IP, embarrass companies, and upset users. Chatbots are a minefield.",
+      "hash": "0436578006e5aee6641075e9f73a338fc97e057e776db544d9b1df80b6181620"
+    },
+    {
+      "id": "299f49703f240ad78a82e9305a93a5403f145667c79f0d10313c7f7bb89a5295",
+      "text": "But GenAI's in the application backend? Much simpler. Let's take a look at a few of the boring, workaday use cases they make a lot easier.",
+      "hash": "82367af715a2eb29ee70737a7a576a2bf32df815f216a36f0469360b38306035"
+    },
+    {
+      "id": "02924fdc4809dab86d55ff9aaba7a667443d180cc5429495e48b852795406c66",
+      "text": "GenAI's are great at extracting structured data from unstructured sources: PDFs, images, audio, transcripts, you name it. They can pull out the data you need and put it in a format you can use.",
+      "hash": "a0870d8a80ddde72ca95c16245801a1b5e52438c87d5d91576f8d812e9a2cdb6"
+    },
+    {
+      "id": "50d557e9aa005d03e1d777189d775562c5feac169d7c37be390974268949c1bc",
+      "text": "This can be a godsend to companies with a lot of legacy data. They can use GenAI's to extract data from old documents and put it in a format they can use.",
+      "hash": "27a647c336942bd01c6b05471ba32089b1335617c63101f5fa500ec91504de1b"
+    },
+    {
+      "id": "208ddb3f27d7fba9488254cc9877ff34a14311debc25412a681ba8519b6a4cca",
+      "text": "It's hard to overrate how valuable this is.",
+      "hash": "5e1d21e4399fe41afd8e995e0e1bb602c4f0b8a4339477ca91624cb24d8a1beb"
+    },
+    {
+      "id": "d0a8cc9ed54b896f68900c5a91b19ebb9e01ca52721e43235986ec6f4dcc6323",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "3233c5b3ed9b08ff18a8e1a6fadbb999be2398efce17af53231f69f4296f3841",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "a8f0bb3faeafbb7be3b2b3d6390bb2ceb9d2dfc7cd41d8da8466b4efdd933e6d",
+      "text": "Not only can GenAI's extract data, they can summarize it. This can be useful for quickly understanding the contents of a document or for creating a TL;DR for a user.",
+      "hash": "dee661e681d8efcd46aeb10e18c9354634fc32b13449ca832617ff0f6579067c"
+    },
+    {
+      "id": "2340d1b5fd0bc5f99ffaaf231f6dcf85b8c5cf1230c7e10b3b0b6d666395cbf7",
+      "text": "This has all sorts of app implications: creating SEO summaries, titling or describing documents, or even creating a summary of a user's activity. This ends up being extremely useful for displaying just the right amount of descriptive text in your app.",
+      "hash": "70808c0a1d711ed2b5a3d32210279062605a9e9fa9fbae1f8516b44047809611"
+    },
+    {
+      "id": "943122f0c2c1da98857c7e8eacef552a517ab102e95f1ac0797d90e82a91e971",
+      "text": "Most LLMs are multilingual. This makes them fantastic for just-in-time translation tasks.",
+      "hash": "59b099b393844a8e88fede3d24d7b5cc85e084693bed34e2de1badb83f869814"
+    },
+    {
+      "id": "c83f88e3dd0417d23ec15dec74cac5a0f679b8212f0c0efe17ae29e7730aff6c",
+      "text": "My wife is a translator, and I've been known to",
+      "hash": "c9d73d520e7c87f25650b00a13d9db78e53f575825dc3df0ad1f907988bde8af"
+    },
+    {
+      "id": "eab6a0a40be4202d4416e231d5835b9bf78f1422cebe159cafab1566b5f8b45d",
+      "text": "get snobby over bad translations",
+      "hash": "cc611e1f5f11c856fe622537be7995c534393607e477c5e2f04504225d400949"
+    },
+    {
+      "id": "fb9748edb4cb209ccfa054cee1c5cf488cede78fa9a7e0e0dd87b3b79db5d317",
+      "text": ". So, of course, if you want a native translation, you should hire a human. But for quickly understanding the intent of a document, GenAI's are fantastic.",
+      "hash": "4313abeb7c5b288d77fad67e8f26598bc69192729fcbbe5916787225c05dfd29"
+    },
+    {
+      "id": "4313fd933f08168efd64fb854fb8a92610887c2e1016fbf430d68b12e25d7b72",
+      "text": "Search and recommendation systems are much easier to build with GenAI's. Embeddings APIs can be used to build vectors that can be attached to items in your database. These vectors can be compared to search queries to match based on the most relevant data.",
+      "hash": "1d349fd13d642fcccfe3e731a7630087b19afe257a28960777141d4e6eef8920"
+    },
+    {
+      "id": "e4fd25aaf9b912caae4c5cd4cbe24888a27aa5773a1d94e0727c43bf9b3dda6d",
+      "text": "This makes building search and recommendation systems much easier. You can build a search system that can understand the meaning of a query, rather than just matching keywords.",
+      "hash": "66b5e7e95193d520e671cec6dced5bce92ed656b157500b4a6a3cfccc5d138b1"
+    },
+    {
+      "id": "f74074b397930a58980cb0e008066bb3f5f0021b37dd19692e2ee597043df5d0",
+      "text": "GenAI's can even re-rank the results based on perceived relevance—another tricky problem that just got easier.",
+      "hash": "1bf2f53ddc06a51921ce1332975d07c6b42dfb19eb97353ee6b7399c6282fdfd"
+    },
+    {
+      "id": "caee14027ca4d94a3da73e6ad3da0601abe471fb9033e76129d5c287c77d88ca",
+      "text": "Every use case I've described here largely hides AI behind the scenes. No sparkle emojis. No \".ai\" in the domain name.",
+      "hash": "51d0aec43b3ef06047edc1ccf058e1e5601bd694d7bc42ed78b9301bbf02c90e"
+    },
+    {
+      "id": "e7f939b8ff0b2e3050e6383e9f8ffdff461823657ef5e0115665ff50ff2cdffc",
+      "text": "These are the cases I'm excited for as we climb the slope of enlightenment—the boring, workaday uses for GenAI's. The ones that make your app better without your users even knowing.",
+      "hash": "913c316d5f870db9ad1fea6b5fc7516b81172c5d371679f8e0772e015d228c8e"
+    },
+    {
+      "id": "5a3ed93fc1f003ade163513e4a547f2dbd8a4f962795c6331eddf8e911bb0006",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "1fcacaecd1d6d2d2b2a5c064a8b44156a30f2f4d9adc0b816f91ed56499da491",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "0fabcc79fbd3830f8c2ddd0b7275e272169502cca3e44e7db0d2126bc1d17375",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "aca6bf7eea66232cafd3f59588be4c45c39a8a993826fb71505a8329d68642dc",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "23532cc0f549c1de47d8369e9bc4033f299fc209715432afe22289df1ba9eb04",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "af63ac981a1344b65e828e5894dd7f7646f82a452742eb475350551525adcc2e",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "d6c9d803faf0cd70f5b43d79da5cd1563e18e3b61be4fdf763716e864aa3b93d",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "2c623e52bd7a28dabd40ad331b3e86221d56971be991226afd1c6b51aa714d27",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "f427dffe7141886f2ffc29275c7a89188dac338f3cc33bbbca346abf5418c56e",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "cd3880e5a73f88a518a090002bc8e8956566e6669f735331168e319474389a93",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "dd7f4df8d4e1ac0fbe6ab226258fd22b4486b14f9f6de8473c8e349808b960d4",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "62bfc8b4a5072ef391bd20ea04a0c8d462786d76995d415df02a3d96050cecad",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "29697451126bfa630463d643814f1209872794a527068b394a223095d09a1211",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "98762297c35889ae106618ba45d9c233ebbc1aae66d9076e98fb7888ba56dd05",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e07fdf3c2384ab037d27322a7c07b75f06a4458aa8720a6ae31d63c76833ab2b",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "bab685dcd8721889516112308e130d32df3122843a53e92e52c6e89a78e46069",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "dc7838facc787242588d70d6563a7b2711a931ac5d9bf04a6e0f9821ad6fc16b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "cc3bfb5b4c77b9f795960459637aadc7167378a83ee0dc4d570f025d79517765",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e42b1f65a88f58530591177bda6279f6894cf6623778086f653ee1040548a43b",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "86ce006d3639da12830b9bd68938138bad5845d94ef77aa6a6e17993ebd0bab7",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "11de026f099d628672c0d76ee95321d4d6e04a05e634a3d05d5e3815b0e20e09",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "eeaf6b9dc32e586a7558156812ce9364a08ed8e947992b67d72c19e0d1f909cf",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "6f72f154e0c16054a9c6e6c93f83f5a83cadf0b5f308f7713a7117ba8586c067",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"xpbujj0iie56j1\"",
+  "lastModified": null
+}

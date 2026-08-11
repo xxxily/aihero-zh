@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "Hydration 后出现的长文锚点、强调词、CTA 与相关阅读标题",
+  "exact": {
+    "Upcoming course": "即将推出的课程",
+    "Install the skill": "安装这个 Skill",
+    "Try the skill": "试用这个 Skill",
+    "Stay up to date": "及时获取最新内容",
+    "Join": "加入",
+    "developers": "名开发者",
+    "New skills and Matt’s AI coding letters, the day they land.": "新 Skills 与 Matt 的 AI 编码来信发布当天即可收到。",
+    "/handoff Skill": "/handoff 技能",
+    "/prototype Skill": "/prototype 技能",
+    "/to-tickets Skill": "/to-tickets 技能",
+    "/to-spec Skill": "/to-spec 技能",
+    "tdd: Red, Green, Refactor for Agentic Coding": "tdd：Agent 编码中的红、绿、重构",
+    "improve-codebase-architecture: Find Deepening Opportunities": "improve-codebase-architecture：寻找深化架构的机会",
+    "9 Ways AI Coding Has Rewired My Brain": "AI 编码重塑我思维的 9 种方式",
+    "Anthropic thinks you should build agents like this": "Anthropic 认为你应该这样构建 Agent",
+    "Google's Introduction To Agents Is GREAT": "Google 的 Agent 入门指南非常出色",
+    "grill-me: Stress-Test a Plan Before You Build": "grill-me：构建前对计划进行压力测试",
+    "handoff: Move Context Between Agent Sessions": "handoff：在 Agent 会话之间传递上下文",
+    "My AGENTS.md file for building plans you actually read": "我的 AGENTS.md：构建你真正会阅读的计划",
+    "Creating The Perfect Claude Code Status Line": "打造完美的 Claude Code 状态栏",
+    "How To Use Claude Code Hooks To Enforce The Right CLI": "如何使用 Claude Code Hooks 强制采用正确的 CLI",
+    "This Hook Stops Claude Code Running Dangerous Git Commands": "这个 Hook 会阻止 Claude Code 运行危险的 Git 命令",
+    "Never Run Claude /init": "永远不要运行 Claude /init",
+    "to-prd: Turn Resolved Context Into a PRD": "to-prd：把已经明确的上下文转成 PRD",
+    "to-issues: Break a PRD Into Vertical-Slice GitHub Issues": "to-issues：把 PRD 拆成垂直切片的 GitHub Issues",
+    "prototype: Answer Questions With Throwaway Code": "prototype：用一次性代码回答问题"
+  },
+  "routes": {
+    "/my-7-phases-of-ai-development": {
+      "Go deeper": "深入学习",
+      "skill": "技能",
+      "asset": "资料"
+    },
+    "/grill-with-docs": {
+      "agent": "智能体",
+      "spec": "规格",
+      "model": "模型",
+      "tickets": "工单",
+      "and": "和",
+      "changes": "会",
+      "during": "在"
+    },
+    "/things-people-get-wrong-with-grill-me-and-grill-with-docs": {
+      "handoff": "交接",
+      "you": "你"
+    },
+    "/a-complete-guide-to-agents-md": {
+      "Go deeper": "深入学习",
+      "article": "文章",
+      "poisons": "污染",
+      "might": "可能",
+      "why": "为什么"
+    },
+    "/burn-through-your-backlog-with-my-triage-skill": {
+      "that": "由",
+      "agent": "智能体",
+      "spec": "规格",
+      "canonical": "规范",
+      "skill": "技能",
+      "concept": "概念",
+      "redundancy": "冗余",
+      "Agent Brief": "Agent Brief（智能体任务简报）",
+      "durable": "持久",
+      "external": "外部",
+      "and": "和",
+      "versus": "与",
+      "selection": "选择",
+      "context": "上下文",
+      "on-ramp": "入口",
+      "runs": "会同时运行"
+    }
+  },
+  "blocks": {}
+}

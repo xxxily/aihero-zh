@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/prototyping",
+  "pathname": "/ai-coding-dictionary/prototyping",
+  "fetchedAt": "2026-08-11T06:28:42.034Z",
+  "title": "Prototyping | AI Coding Dictionary",
+  "contentHash": "0ce6d28594fe4598055484ecd5129ac3b8f07ed9de42e1b89a23836c8be2a23e",
+  "textHash": "734ec8068ae843eab7a433721ef20ceac3b9b8630b914d8be4fae2c21a839c55",
+  "strings": [
+    {
+      "id": "25809d961c096de443e6a860ef7143266defef346c02ac011fd303c4bcfbd939",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "3cca7750da9190a6dcf67425a1b46cb8ae174e5e0f4e5af338ab96a1aebf311a",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "edb726cfb16ae8e5c4bc8c01bcf30377727e4b65723d0e0aaf88cf28242642ca",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "e71f734ec67500e654a34133828158d6bf8a9464786a71c70320b14556b197be",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "af4ccbaac1974a215337ab1de846126780fb7adb259172c233e2c4183e066b2e",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "42eb3019837f07b4675388eeae9cac8c28e3708149b07af25fc32028dbc51b02",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "66c77f03e2bd99034b1afaef49c02a661ded2e3699cd80d31b7dafadf117a85a",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "30df6146fce3d6cc6a88ba508ce4c917ac5b3a8c356f763f73fa72d597fd4b49",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "dc5c27faaa22ca1e97f512960d59d47916504a97bba461242434585a2cde9bd7",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "874f003eee4ac076f8317701dc3558b0a000f41035433efc5f68ab736d8e63db",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "d5e58f00cfad194c7f4a221ced42fb395b5984a83684be67e10811c21b696afc",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "7d50cf1e28ceb3635784dab24731289ff8887f9b33a2fbb40f1fe3c59488a61a",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "6e41a01fc7a575342c5530b1e5fc3c07ece33ed0bec78419e7a87ba64b94add3",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "98136b34d3304c2e2626f4215960e1f9c3561e03145f6ff43c2b6a52dd06abf1",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e187af08485cde0d47f22db06a4791b7d4d34d9ab25a0a7f745a7b39a00e21c1",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "83df08e555d0402fa787538058516aceb834965646235fe055d5250511da4a91",
+      "text": "Prototyping",
+      "hash": "28f52a5a016a0ccc11741c2b981e3d5a59a6846b2e25bff951b13ce5be27d384"
+    },
+    {
+      "id": "f741f3bf9ca16455a0d5f97cd8bcf2d4c18293a5b72afb7ec77d3f57d369575f",
+      "text": "Having the agent build a quick, rough version when conversation is too low-fidelity and you need a real artifact to talk about.",
+      "hash": "09a06632c0b7749e1a4522638385ac669a6904fe72cfa298b709ceb38939c4a5"
+    },
+    {
+      "id": "a4c2e33f713d21a44efbf3f93b6723e9c0e334917e15e24a4749f3545331a3ed",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "a604732f70b7257ca66ae140fb63cff721526daef8768db9576bff699cf9de8b",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "87f240b22beafbcd8303189a3862bb68c4e65c45e268dcfd7c2eb90393a4596c",
+      "text": "Having the",
+      "hash": "5e17c7953cba6a63599a5d7e664aff5e0c8480e70e6180bd063e6305c677e029"
+    },
+    {
+      "id": "4e9a656d359f15a1c87d684256f5960406931b7ee7e5903ae742e1f2b725656f",
+      "text": "build a quick, rough version of something, for when conversation is too low-fidelity and you need a real artifact to talk about.",
+      "hash": "bcd062a1a70a9761bc861a2caf3ab1b664b87a8d74aa8a2c64594c26d6f84408"
+    },
+    {
+      "id": "a6aaf6291cff26556f2120030a72b6c585cba1f520f0b5a20c0300c7bcdc36b7",
+      "text": "Grilling",
+      "hash": "78318482b2ed0e5dd1aa46addef2c3b1c379b1f3b213eac3337b8fe2b40ab6aa"
+    },
+    {
+      "id": "f86e5b71ebf962d0fe2b307081a50b5866f65c0c1c56cfa8be724bf4a0179259",
+      "text": "resolves design decisions in conversation. Conversation is cheap, but it's low-fidelity: some questions can't be answered in words — how an interaction feels, whether an API shape is ergonomic in real calling code, whether the layout works at real data sizes. The interview hits a question and your honest answer is \"I don't know, I'd have to see it.\" Past that point the discussion circles. Instead, have the agent build the thing, look at it, and come back to the conversation with an answer.",
+      "hash": "2bd16d45e9b5132725dd91aa6abc5b17cbbc1cf4b217e16451aaeb4da9aa4502"
+    },
+    {
+      "id": "fdd3ac5b893135517d33e84d6fc00696c9de9a3f2c3d363a62311cf13467274c",
+      "text": "Agents lower the cost of building, which is what makes this practical. A rough version that used to take a day to mock up now takes minutes, so it's worth doing routinely. It's a",
+      "hash": "b16aa8587b0b6216b34c830f743ecd25fecce6b3d9b47d3e38045957582cee2e"
+    },
+    {
+      "id": "e408595b08c1045bd450a695a1f95007600ae56fa458f3e22613be44201cba57",
+      "text": "technique: the prototype is there for you to react to.",
+      "hash": "9e9b3c996db3c1514df44160b2de332da34d35b212cf19f6bbde7a1928f022e4"
+    },
+    {
+      "id": "1596f1d9f81c25b451f2555ca9b4911b523b9005bcb38f6bc1bff7faf1bbbe88",
+      "text": "You usually don't stop at one look. Iterate with the prototype — react, ask for a change, react again — so each round resolves another decision against the real artifact, at a higher fidelity than conversation allows.",
+      "hash": "0564338b9eec500605acabba7b0f14e4d03062a0dac16431f19d326d8e41c4cf"
+    },
+    {
+      "id": "9ded143518cf9271ed250868452e8aa22a862bc71dc6173b9b684f23349ee493",
+      "text": "A prototype doesn't have to be all-scrappy. You can build the pieces you're actually evaluating to production quality, so when the decision lands, the component or API you reacted to can transfer into the real codebase. This makes prototyping essential material for the",
+      "hash": "53dbedd6a702f9b67125c68de6af72b52674a2ad098b7be624be0d69ddccdbf4"
+    },
+    {
+      "id": "d2d821a542942345e90b46df8c56b76dd9b2ceda834d067c74bc847b89bacea3",
+      "text": "to reference.",
+      "hash": "5381002a1ff2853c0c2e81426e0a0afecb47458d074eb04508856bf6c5629ebf"
+    },
+    {
+      "id": "4c09e4ad2686074bbac6a6a0f5c6b4339aef0944b9a3ed58fcc314aa6293bdff",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "7a401fe2d476bfd9fa29b7a87a4ac956ae104b214d4621da750b3c2cb3693705",
+      "text": "\"We've spent half an hour arguing about whether the wizard should be one page or three steps.\"",
+      "hash": "39b93ffeff79100c580daa3767902209f99766a62f9f25eb8d1401972897e1e8"
+    },
+    {
+      "id": "8d0fd4a7f2687912e35d3f5a5450a8b666fb2373cc73f4ff036be2af2998c63e",
+      "text": "\"Words won't settle it — have the agent prototype both. We'll click through them and know in five minutes.\"",
+      "hash": "cff61ff17928fe2cfa9890e4be992dc8fb3b83127a73c9d312b3ec0f51a3a015"
+    },
+    {
+      "id": "99521ea6a0fe4456c6c95ac63944561f6f8e5541b0e627b6ec4fb3d9badc33d5",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "d83aa6ca37c88f88c490194dc41a055eb72eb1e9db48cbee257bde46a0159cac",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "ffa1178fd66e72d335705262c813c939976635c228fa2da981e23ad51d68fbb6",
+      "text": "DX",
+      "hash": "48c95d370f0eae38ad2d9bf8368264da99f6a95b7b45d18ba8f14a932015ce13"
+    },
+    {
+      "id": "77308fcb2472a9d34420524747962fe786bc572ebc9e2c694d8e091906303ddc",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "937144a2d3dad5464d49bd256d4f90d490a268471f46e6bd1882ab63ded00c66",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "b6c9831c19c0dff606e904e7d8f4e85d10d754c4316a044e0edc212abbb40973",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "aefdfaaba72e96a0d78a4a2ec8b7ca001b0f2b7507bae200b905fc0bee0d07c4",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "8014c2e447d337d5c60ae2d8961069055d75d70fa0b324a555d17fee9bc0d4fd",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "f992e8e8f9e9afe25e96e93d1e7e9ddcebaa42d91e83786338974eaeb1b78941",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "bcf5660f8f1174639c12086149c1ef27f7c5640e4c26c9248685361a4a42c376",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "c63b157fafad3c5d1f6fe5bbdf161d00991831635d86be723700ce099c14d739",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "56bd321bc468838880f6903368c6f425a542c0ac278f7d47181d5e9c37155f01",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "1bce6ffdd1830dc4813068f815593bb41fbfb8d0fd3793537dd4174e727256f1",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "970b02465efa69d3bf0c51816114a8b6876d4018c39638264be767e904c5a302",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "e0e8ab8e5531bdcaf234728295f317dbaad16cf293008d86164cd454b97e1522",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "63c070ff912ba465cb36b92bdae218e7c885ea25b3266a13c44e19fa1e44865b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "2ba4689348f391d5af4f75b091298d56652cf957cba7e34f8f3c69a06d4be148",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "6e25c00a49e04b19ab319440c04aa1c48264ef8895affbc8cccf2ead9959dcfc",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "dfb54bb03a21bbef749b001c1bb5be7cd3c2ade61f7db5dfd0b390d9727d7be3",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "770a73e280f9108902660af97bcb44698d5bb889eb5a95cebb9872d8083630da",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "ca6478f515b4fbfb99ddd61151d0359b379dfde525e3228956444750838b5104",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "dd5862e5d54c0b8df30e66d2ca43d4b334e20f3c8688883352eca92be4535b46",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "eebeecc2fa46c3ef2aa08e0de4d19eff062d51171a10ff7baec8bdceb4f2ecc4",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "825ed86038155032bc5c95aef53a959d6f119bd84524598e5ec795737569a264",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "678830dc42337c93f9a54ba163d2883472926ba9a8301457161204e62497e63f",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d95178d4eeb35a9967cda9941d3ea8fc12c907cb05b5ee8051aa7e79cb3b267d",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "2dcb04dbbbe479aab13239a6e02e2a9bc4b11962de896e930a2bd4667f29c064",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "2806825ab03fd98dfaee2308db42717e6d6fc7fc43700131b31debacd4689165",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "719741006f598d99f36b517498c400940502e532873d9117fc8de1f5e4fa66d4",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"s587rbqjoi4qfx\"",
+  "lastModified": null
+}

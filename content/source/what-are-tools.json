@@ -1,0 +1,498 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/what-are-tools",
+  "pathname": "/what-are-tools",
+  "fetchedAt": "2026-08-11T06:28:16.681Z",
+  "title": "What Are Tools?",
+  "contentHash": "e7e57f6e2db6ac91dc128d9b9504a9e494226778152750bd1c6fa91f32dc41e6",
+  "textHash": "556a488ae6b8284cca0fd693e7fb217103cc8fb3220420dfc1a7b187e21f6171",
+  "strings": [
+    {
+      "id": "ed876cf27ae68b263cada8434667a67dd6461d6edd0157a9b2908896806ac672",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "83926016570eec37c315f18a610d3b88d25052374d38ddf92b079da0da2a15a7",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "e3a3ec17373c8e7c620ebd9ce12d5eb2253c280297990f98731509be7f356e0d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "e3ce0a832596a98efde0912ba7801f58efaf252bb4f1554993da67dd605bf18b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "99c7f7933f026b6bac346d15fe5087cfd56e9e28d9de63380403a0415516e45a",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "143db32254ae841827f6772f1907ea30607d1c5881a14683a770165a0eb42f57",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8ad2b420b3581281e81676ff0f8973974e60ea2fef85d86cb8efe85d3ed31b95",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "5b07b192adfbe008c3e91b7213d86e19e1accd3aeab04f61563d10eda4dc87d1",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "f5c6f6f357a38af83308f1663bd0aff69e0f6a1c9b664b12a8c493b6ad4fda71",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "c8271e4315f4e82ed0e3df6574e9bfa96234bc2e5f9f2dc041dffbc2ec13fa86",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "b00dfe649581d4a30956fb5f53c35aaad509c3a0e99b7ec940567d715b18d68e",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0b31fe61d90e2d61db5a4581594594c13e12f226067610c7c4fbcff8fbd44bd6",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "7a0d786db0a0b7831f40c0fec14270417879cc122c1c9a5f69a4cf46186d3de7",
+      "text": "Messages, System Prompts and Reasoning Tokens",
+      "hash": "3f4abbe2463908b00f5b0843833ac83f093b45c95c2e5ac1c4395162a9512645"
+    },
+    {
+      "id": "7f44d1bfbe3fdd00889fd2aab32ff33907b17b31bb7caf89523750b70ae65a02",
+      "text": "What Are Tokens?",
+      "hash": "ee46b60e4092cbeeb7436395b0ac00e00c45ebfd441d53a6c0ad998bad67a625"
+    },
+    {
+      "id": "4bbe5b31649d6820068a93164b5fe839f9c748f1edf407a4daa646ff54889bd9",
+      "text": "What Is The Context Window?",
+      "hash": "424d3b1d346af8ee28ad019515ce974d4455ac38aabd1de0c6f85c80ad006a35"
+    },
+    {
+      "id": "7305b394d212793ba2c45264aea0a4547b8d2787546a015d266ed499d5c38f12",
+      "text": "What Are Tools?",
+      "hash": "916742818672edbd799c05eb316ebe7f4750efec5d416b1db6d6348acb761caa"
+    },
+    {
+      "id": "0b33b8113b08b61581d1218d511431a6244e482235439d7a30693523214b5007",
+      "text": "What Is An Agent?",
+      "hash": "4363a0eaad32a30e59832dae65d5ce46e94404b308512b2a6a68c13044d2919e"
+    },
+    {
+      "id": "573ee329d5a9cf7251975aa24a869ef80ce6e68cdd0f2cb6f3e294c668067ab6",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "f212cddbdf8f7f2c3e41bb891de6999a5089ee2e495d337143804376e8fd8c77",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b6357172d1da1448f56afc612260ebc8e0f0b973eebe72911bcd1823fc238f2a",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "3669ad034be1a81ef1587f5bb3bbce040b2a8e5b3269a2dcc162938d846b46e3",
+      "text": "04 / 05",
+      "hash": "ca0f1a4359e45b722806a62bb75a03a854c069c587315c23140748952056745c"
+    },
+    {
+      "id": "089e4fd84f449b6995402f9918b5ba2b7006bef5f96316f1ec72d1fd9c2eb098",
+      "text": "Discover how LLM tools enhance AI capabilities by defining, choosing, and executing tasks via system prompts.",
+      "hash": "2f5e40f09ca9c36cfb5edcc7f844bdc73738b64bb7c75d0a422c04cb064e6abd"
+    },
+    {
+      "id": "207fb55fc9234ff7d362e059ca8ee20ffe0a6c6bb69b0dc6bf5bffe91352bdc5",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "b41da0f8c5f75554484deb5564870b1f141f41416d2be99140208ab610c59aba",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "99c608f9ebf8e96b11998be75475f36135e2735e2f80b903a3f2ae0f4c93f2bb",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "86c6806d31c95c8992a4c53f968b51e7faa278e7f9b17ef31cc34846d8b0700e",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "653d65ba787d826035e26dd57423814a90fc0e685dfdee642829e623b001101f",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "3beb1d830923ddade9400371bfe666a06c99da4cb4ef073218e3c1319ebabae0",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "d8e687e1beb754b0bc6431bba0b4d4b51755cf6a42deb5b49bf3f3662be3f6ff",
+      "text": "The LLM Chooses a Tool",
+      "hash": "d0ce7b331a9936e77705df4af01872122d5ba901e7c335c5accae861463af83a"
+    },
+    {
+      "id": "9d69a9b5364b9a4324f7aee3e8b2670c5e6adeef3c92786a997d0ca2525aa2f4",
+      "text": "Tool Calls vs. Tool Execution",
+      "hash": "8cfa558f4897c159561a48afbca7ceeea79a08e5c76ccfbd4cc58c06746bb959"
+    },
+    {
+      "id": "be2728ed866a8f3acfe0c96f3a8fe32412cf1feadbf224d9367fa894f70c011d",
+      "text": "Implementation Requirements",
+      "hash": "501e1d87561dce26fdf56e1db1ddec51338922d82f4ef60562306c3b7f9d6105"
+    },
+    {
+      "id": "0f90f9be8da58e78a3385fe06d19629f6f031b2aa641ebb62626858d1c06093e",
+      "text": "Handling Errors",
+      "hash": "9a64564844dc9f8c179c00a86512232cd67ea21e20509145b890445ca3d3198b"
+    },
+    {
+      "id": "35e477ac48a1151abd3b03eb3a9338c8f8e41c88c9d497c8191114436823cf02",
+      "text": "The Complete Flow",
+      "hash": "a28a198c09d8f1807e4c7fd06434ef7a7263ca2b484c3035733dcae8f4f5dff5"
+    },
+    {
+      "id": "a1b4ba1d55c67f5e5acd248ea65ecdfe84a4e69c03dbbbbfde52fce4be6e21ab",
+      "text": "Summary of Tools",
+      "hash": "f6ab61e6d81328f2b7edabf42a24eae41f83f17012527b3345bb6f35036df503"
+    },
+    {
+      "id": "0aeecb4dc4b0fbf97ed1717bdb664cc1d45f182788204d12bcc548d6f2bee83d",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "20b8437d58b81c9f93423efe52977d328877421b117b50972b44611ca72a3195",
+      "text": "Giving the LLM tools is done via the",
+      "hash": "ff33fb4670db9b60ac859e6f8c457acb3c87aa90d948e55dbad42c07e5928bcd"
+    },
+    {
+      "id": "e23484bfa0a77d07f5c4efc5e645b99d53be411cb7a3432662e168fcfbb8599f",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "17ffca19b312db113366de2a0a83a1989b1fec3ed6d601a0ace50c45a7f97bb7",
+      "text": ". The system prompt is just another message in the message history which describes to the LLM what it's supposed to be doing, and in this case, what tools it can call.",
+      "hash": "577947abc8bca01c05ec42aa01a838efed94d9bd9ef82ff0f61a9bc04eac0eef"
+    },
+    {
+      "id": "87f100c77d92068c9da441764a970f23da105e841350e1c3c6d6ad6efe60d99a",
+      "text": "For each tool, we're providing three things:",
+      "hash": "1ace5a65e5f61e7c483cd219575bf226867f054171e4dc00d7fd40e05c19c7c8"
+    },
+    {
+      "id": "393fc1b49686f4cb87969146bc6b043201c1077ab854a760b44279420af0fe52",
+      "text": "The name of the tool (e.g.,",
+      "hash": "e8576be5015a5ece9626279ab0b4e133a055126350292572046edaec2c8627b3"
+    },
+    {
+      "id": "a1068b503303fb1810ae8a432e48efafeb2ec54c0c5d9054bc7efd12ec7fd280",
+      "text": "A description of the tool (e.g., \"Write a file to the file system\")",
+      "hash": "a9639560ab2a6e540b8c8753ad7970091b2c2f89820506e4784241770f3b009e"
+    },
+    {
+      "id": "780b1215077fb377dfa765300ad8c269ead105a7feab691dae61cd95375fdbdd",
+      "text": "The parameters it takes and their types (e.g.,",
+      "hash": "f5515628a7628962c88077b93c37d2fcfdccd9e23c46d72eed2ce4595de5f274"
+    },
+    {
+      "id": "0d66fe1ab5177271d5474ac7139f3c13e33edecf55b6613b18267e55772077f1",
+      "text": "These parameters are specified in JSON schema, so we can pass anything that JSON schema supports, like objects, arrays, and other complex types.",
+      "hash": "7946c5a62e20fbff71580b365ef3be465c901fe1aea55754d995b160da6b3248"
+    },
+    {
+      "id": "86899cd44a60473ebd60b548a8d752665abbfdec3b735e2a641f544cdfc32d6b",
+      "text": "These tool definitions get injected into the system prompt, and any other information you've provided to the system prompt goes below it. There's nothing particularly fancy going on - it's just tool definitions inside the system prompt.",
+      "hash": "acc333772050231ccc4ec7951f751e10c24dfad17651e6af5a51f30dc51b2aa2"
+    },
+    {
+      "id": "ad61117f7cf1493f0af59f473a92e6e6c004a1df46d59e3b37c8ad0f1ad2a0a4",
+      "text": "The magic happens when we ask the LLM to choose a tool. We've got our system prompt saying \"You have access to the following tools.\" Then we add a user message, which says, \"Write a new file called .gitignore.\"",
+      "hash": "185aa2c61a07e65b1527b23eafbf4bcc7a2497a1d565328674c1be915d276ead"
+    },
+    {
+      "id": "5a0a79fcb5754fe17735a30cff6539655e6aa3c115586a4d479881391775d6f0",
+      "text": "We then receive back an assistant message with a",
+      "hash": "db64659b5dd0f8b8b6b46d981aa3f23fb4c7104db063b42ace4c09f37f9bd432"
+    },
+    {
+      "id": "38bf555e4abb4f49842164af60c93a4e8ecd2117659841eee75a0ef8cb5d4845",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "43ee624f9d79fd614fde129214e44b42ccde5a9ced0fe3e5d3a35a142b90e97a",
+      "text": "inside. This is just an instruction from the LLM indicating which tool to call. It has an",
+      "hash": "62d19cd1d855118dd6d7d833eb202fca28a110ecf119664073f79374aa55d7c5"
+    },
+    {
+      "id": "49e1c70860608f717486452b183d128863eb5fb00aa845f46a24a5ebf909a384",
+      "text": "on it and also contains the required parameters.",
+      "hash": "c3590f6ebaa90597a8123f0a508af7ce447958395ca6576463dfb1c961fefc2c"
+    },
+    {
+      "id": "9ed226e35b88ca8cd2c4206fe744ed44b55901acef6927b55c0a7287f40cd7d9",
+      "text": "In this example, it's writing an empty file to the path \".gitignore\".",
+      "hash": "ab8920d4bbe01b534a478da28101d4cce62226254f2a31cbfec73dee8c9f18a0"
+    },
+    {
+      "id": "a0bafc43a40595a13c4436cdd1783d4f46e888b67b35d5132bf26c9afc2356b0",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "6f7cf3aefe43aa3b839510bdf02238a129a5fb828f5520ed418de55494913d2c",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "b9e38e895bc6a38e9ba53e15161bf16334438f62a5f962d5cb9b5aba3ff8a185",
+      "text": "This tool call is just an instruction for which tool should be called. Nothing has happened yet - the assistant has just produced a message. That's it.",
+      "hash": "f2fb2755fe223ff96cc18f2ce69eb86ead398e1eea9881b542e9b4382ffa7396"
+    },
+    {
+      "id": "2c40894f96f440ae183d87d1f1ab5e1742ae91018155513c6e50e839ca464cfb",
+      "text": "The tool then needs to be executed on our machine. The LLM has created this message, but we then need to actually execute the creation of the file on our machine.",
+      "hash": "777038a4325e6fbb2b207f8d1d85e61f01091d014a792cecbedb09a7e4c2d4a4"
+    },
+    {
+      "id": "9cd222228c0908ba57f607cb9d0901631195be130eaafaf3a02a9a708b0e8563",
+      "text": "This means that for every single tool in the system prompt, we're going to have functions in our code base that match up to those.",
+      "hash": "f17af51ba6f6f5a5025a0797f5e112f2faf2eaad270fc8a8f550318971bb971d"
+    },
+    {
+      "id": "2b78dca08247017810e1c68cc02970e6aeefea066173ae2641d0a2fb3c58e682",
+      "text": "If the tool execution is successful, we're then going to send back a user message to the LLM. It's going to have the same",
+      "hash": "10108ee201b0383dff420f5f01ff01cebdf591d00bf899603e43581f36b87c24"
+    },
+    {
+      "id": "1dfa545f52d57ab1c1991ad58bbd310c288999b704f118c20aa084989fe21488",
+      "text": "as the previous tool call, and we're going to send it a message saying what happened when we executed the tool.",
+      "hash": "452c79299d02d915a9152f1e7b75841a02fc6b6a84c84703763ef531d86f886f"
+    },
+    {
+      "id": "53852b6efcd116a8889a2e718045c0162b03bd5cae57f47ed82a78626bff75d9",
+      "text": "This error handling is really important. If there are any errors when the tool is executed, we need to show that error message to the LLM so that it can do something differently.",
+      "hash": "69957f31efbc78280ff2389c94e42a9847782aa12597bbe2cd93d27f20c3fe9e"
+    },
+    {
+      "id": "861a68220a89117b2c7db29c2da8309bc38e71549773a20db043f3a41e0e7a5c",
+      "text": "So a",
+      "hash": "6ee45cebd3b042f50dd89c43a47b41408a7e240b05820fe8c23096c708fdf30d"
+    },
+    {
+      "id": "aca75e256d983b37fa28a0459282ad1e6ee2e331c2a3d0dfa780262cb26713ee",
+      "text": "tool result",
+      "hash": "496514e28de40f2624fbc4fb01c89afaba32fde82d1e1d6c19ab43d702f7a230"
+    },
+    {
+      "id": "639cb6f4abeffb027fa62beca07396af7cbf984703fc0366878f4f688473df65",
+      "text": "could be a success or it could be a failure.",
+      "hash": "fcc3b702a9227f67572f69e7e987a1dff82c88259a238850ca65f7fc2136073d"
+    },
+    {
+      "id": "1eb965e80fbd10457f2ec9941dc13a7f9516ddc8650a1518c4e7504b4fee1ed9",
+      "text": "Let's go one more time through the entire flow:",
+      "hash": "57703a80c3de5baab56b0bb613f8e20b8a4dce066a04e7e89f011997384c67e5"
+    },
+    {
+      "id": "4be8e1c5eabf4e6d74e46ee5387e861093182c274f30db3839c9f65e0652f31b",
+      "text": "We specify the tool in the system prompt: \"You have access to the following tools...\" passing it a bunch of JSON schema",
+      "hash": "57346f27df28738c04d2bbcfe7d999fcbee2c38dc02d1bae613874ff8eff04e9"
+    },
+    {
+      "id": "da5a85053fdbff7b989af30ed1dfa8b8cae889f9e5072fdd6326684bb9df9edf",
+      "text": "We send a user message saying \"Write a new file called .gitignore\" (note that we don't have to specifically say \"call this tool\" - the LLM itself decides which tool to call)",
+      "hash": "700ff28bcdb8ab417e2b5ea9afab70d49fd4506abad492c46b5025dc18e60c20"
+    },
+    {
+      "id": "e652aca687151f2bb5bd7ceeb1302771fb2eaf7aa48cc82241b83645aba60ae5",
+      "text": "The LLM produces a tool call message with all the right parameters",
+      "hash": "20000d2f4281eab3a6a435c50d55bff3724a4cde8c79e8cb30c1e2009a615885"
+    },
+    {
+      "id": "2aa7e68e51ea795b715d8917d12aa983dccc0a23f51ff2d3bd529f4bba32ecf6",
+      "text": "We see this tool call message and execute it on our machine",
+      "hash": "845560df79f8ff9c96117f550631f7c22352df0c85321055a991fd7a35626990"
+    },
+    {
+      "id": "33d8770009dbe451b7d47d3633e8f24e941b6605b023ea18c64cf0064edf6ab8",
+      "text": "We send the result back with a message saying what happened",
+      "hash": "92bc0a9f368026edfa4f035dcfc22917aea106009a5d2d4f2441e9098471fded"
+    },
+    {
+      "id": "1da1a7132f906170fd9eb80eea5d8ec050a125264832807feecf0990192b998f",
+      "text": "The LLM sees this entire history and responds with a summary",
+      "hash": "a3027f88bb598d02ef19cf87fd0fb420040392f0621927a8f5b298f1caaf102e"
+    },
+    {
+      "id": "d6138d30e215b3aae665935c06690e8d8e53955be50e58ebd3f87f84208c0d4d",
+      "text": "In this case, it said \"Done. What should go in there?\"",
+      "hash": "b13a3bcaf44875a8d1229a5ea6c68b87ae4652b4f4f337e91457d46b65baa8fb"
+    },
+    {
+      "id": "8435537cee38bb7efc4786227cf7bab1d63305ffa20d58595f1e0ad389b3faf3",
+      "text": "That's what tools are - they're just ways of getting LLMs to produce certain types of messages which you can then intercept and execute on your machine, and give those results back to the LLM.",
+      "hash": "727d0ee9c76fb4ce7d8a933e678f4ae1a5c0672050054b8320ff05e2a9b91ad1"
+    },
+    {
+      "id": "b15160d8f790c9666b435e46f11479122b7a7b51f2b6086aaaf44e053af7a4c5",
+      "text": "With this simple loop, you can build really, really powerful applications.",
+      "hash": "05f71867304c6cff2576e6ec1481d73a22d387300060101fabd4cc95dae56379"
+    },
+    {
+      "id": "8ef51efa2b8c9aa135039e7596ecaf302d08bd834e76c73c8725ce9cd829fdf3",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "9050426f7fbbcce0a68bc2bb3a66efbdaf93d45d36fb4f4b53d07f0adae06c07",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "66389989b6e1fc23fd3ee3855dd26ed2c507347ce6ce9d9556a031530421eead",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "683b50ec4932d0c4a826454167f77e29b61669a996b765b7472d6850d9423422",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "9bed05bf08f52d3d3be8cdaca8121bb315445692072dbbe9769fcc61f5dba073",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "a51fce0babc681b99b9640f08fb4c7771423027bf1d32e3a2eac23314eb3433c",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "dd313337a9d622c77234c98519bda9037ebc69bc02314afdc5d26240c4352464",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "5b78f2d403e0e637a3579cbea6f3cb761cd38bb88fdd46d4a146b72cf6c72abf",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "979228ae9f5040a4df6c839c87691e568fff16ee46dbc40479d5c1122d6f3457",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "4b75f1a949973e043d04b1da14f8292262bee4ed2efae26f5a3e8235ace40aae",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "42d61532b074315096955b911dd9542b96e71ae61aab245572e97edb351ca9cf",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "8afc29bb890f74625bc7eb606fc69f6aafc2ca8446a8b42c3327f642e82b7cf4",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "2a17157d5261fb84401a2c89986bbc538cd8fce62a0fc46c166f3fc39e1dfe75",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "1ac89f59ac970e7fbb40bb33629cb184cb245e6e3c467c554c1baff9106bb06f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b5d10dc5d46dd8ef6e39f1ee7228487a5910e2648ea3116195f7af1105d0fb15",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "67c92c8320b9e0f3457b312cf61b722efe69ca77cf4d7c1544bfa0af51ea9a74",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "a6d407f693084ef2c1c6d22f42092be59e07858ceb6bb16643038a62b520b280",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "bcc9abd11cab74486d83c617d3bf13c4aa3b4036c08ed32709a80e5d00763fac",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "bda9bfac041df10fa13b2ff3e206b27fcb758c4c4a84f541cc6747d48e30c27f",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "c7794ebf56b0fb52ba464432d26ba6919cb31e2fbd4f9902f483108f45ea8722",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "8531d58141c570f28b9963fa8ff043278c74a4b0976cc4c379a724ff48a7cea9",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "050ee42ce9f5b5722e5bb8ef6efdef52c605f485437d178b7d853c442ece295e",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "565f5ea87612b8f0a2f546b42d0117d1a456258d080b127a5b9aa92ad7d5a9c1",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "6f2d774fb16193d1817ca6eab485c0c42bf8eb42e355e9c13ed07e527eab801c",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "50fd6f87b9a3befc37085be0d8f0fdd564433113439ab7e77a37ef97d51ac13a",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "85136d234f861127f3ec2d098316c180078430b090e9525fb067ca95aed6166e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"cwholdqrd85vzv\"",
+  "lastModified": null
+}

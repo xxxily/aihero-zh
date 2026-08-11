@@ -1,0 +1,518 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/the-ai-engineer-mindset",
+  "pathname": "/the-ai-engineer-mindset",
+  "fetchedAt": "2026-08-11T06:28:18.351Z",
+  "title": "The AI Engineer Mindset",
+  "contentHash": "e1aa1846c04bf82e9fdf46faad6330330777cdbfecb70f7ac420cdf233e922a2",
+  "textHash": "5452f770cf5d2e44363b35ddb9c0578a04372f336935fdcf125031d13e1309ae",
+  "strings": [
+    {
+      "id": "22b4e3c2c52f02b4ad5980323d9590a4c3912a8a45e45de413215618eaac63a5",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "3c18af5bb3d5d2f39be4301e3effb5a9732d2ce2ee48238d6caad96e5d6b2c23",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "85935e99378483fa8ea8fb80a9c166cc08d2432bdbb4a0ddc013fd0dc52ed6fe",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f5fb244fdbadb6634ce9d8eb1cda206dfc8acc26307d53a43f28c0a3087f3b4c",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "640b4df39eadf9b1155a57c741d57d320c27c83593732b6ca8b824eae27cb225",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "d34546b67cb323ce14202fda782ca3219b6f52a3a98c016d93ef5fb71faf1b10",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "38d6cd7e31c42f20884791c71134bbec15f5c2175612f9c61581bc0adadcd7e1",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b687a3857de933140602d80c8a269f30372f47706e2575a022651682fcb1a321",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "e6d07e94e5dba6f0dc102b59a7e5186e8080d11e7347982484bf189db4ce4962",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "9af06880e696c056df319cd7d2edf2c58e037361c846b3b51f22361260b5b7c2",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "daa4c0d22a212b5760d1fa173812e0b09d0c0dd34db2d91989ac16cd807f6552",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "cc96d84877a73d95eef27b9cecc9433ea62c52427c7bc166623691ec15c0a41f",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ffed6f55db33f1981fc2729640f1ae31cb36be0af973d1da72c38f2631fa3df8",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "ee697f1e80ac0018e0bb2966f5eca3ca8c8a836959cbe9f928af8917bca0f28d",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "9cc433135e7984692020dc55d6bfb7c3f53efb56fdca3c2e0b7d2f69e9f1f73e",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "2ec6590c1b013bb520c79db86b6c13465068553d56f419b25d5234235d807ce3",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "f1d2bf59054b91f6181ab50a0b8b93d5cc4d2243ca0886451bd26697e9a985ef",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "7406bbab9b36066becf301ce0b4ae5b9805afa36d2c71473d1bf0f85e8eebc84",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "42ad135746570b89aa5bc0158f78a63477d5af3182f8dbbd43dc548d684561ce",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "29a131c4fa1cbe362201113779927289234d5dc9f867cb4c9320c33c07bfeb10",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "c4504259bf26ab274829328a2cefd762dde554b47700919dfa4d790b062ae57f",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "53fd6fa4872fdbe6e0683f6f483ebded528683c21d3a2e64a1ba47b674d350f2",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "af1354c3cde3aff994ea2cb1492d3ea2baed408ef14687b05651d6756fdf2ad5",
+      "text": "05 / 07",
+      "hash": "0d046abc933ab3955825a922905e8f880d6402ad4d2ddcf49cd5fa12134363c6"
+    },
+    {
+      "id": "f6e387837a5741e42ebcaabb261b4c4737fe0f497c47afc7611b526d215e6d6e",
+      "text": "The AI Engineer Roadmap · 5 min read",
+      "hash": "ed8b6afc3a374a307751070f43525360a8b6d4f0912515a26c70cdfb2a099105"
+    },
+    {
+      "id": "432fef251dbb4b0d3a8fea9f85b7baee49ed2ecce66f947c90c499b06ddc71ac",
+      "text": "Learn how to build successful LLM applications by defining clear success metrics, and creating a data-driven culture of continuous improvement.",
+      "hash": "02ecdd3a3757c036153f2cee64b1e2607642a9a7191df28163c403e926d02735"
+    },
+    {
+      "id": "803f5e929c8ef1edb2fac61db449e8cab6e6ca9203c765c7a89d052e0bbc2368",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "57292e88cc6d3f828dd036a0f31a02faaf66c320bd68547fd1aed6f24e5a3312",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "e56f7c98d0b994a2a3cef2b05a5f16d38195dd75a79115d4f71c440bb14e7e41",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "dcd642eac7084046d070e9656c7b3bba9512f99488e56a0642043e9655c9f124",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "228f34212bd3c7e4ee66e50a77e0eb0a96c585654ce35c877e563aa361e16b61",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "63b7c89e0d14f990216ae03f990fa51c392ad9bef6581bc7b48a6293ec57e333",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "aede19e7107dc7f5b31cac375407755162d3d61539f5d821f44194079cf4f63a",
+      "text": "Productionizing LLM Apps Is Hard",
+      "hash": "f35e292995d4c6deb791c63d9dfd2fba0f9bbe8087b6a9f28ecbee5307baba6c"
+    },
+    {
+      "id": "4b3ea5ca7ba70b40b3bd6b506971dfba2fbaf4342d5f9a7c45d5aac54b0189e7",
+      "text": "Defining Your Success Criteria",
+      "hash": "e29eea8ba2743caaa75b8f242782d66407be3809ddfc62df66d9b5eb4aa1f649"
+    },
+    {
+      "id": "00e525e4499f8ab15e6528502c97537c765864dc6c0485c05dd9898058ad14e8",
+      "text": "Data Is Your Most Valuable Asset",
+      "hash": "f011665452b54d9866a7c25ac1b74ab56f8d7de0f7a059a906ab752fe281d848"
+    },
+    {
+      "id": "078679e55efcd262c2a3fceea8fa1f753ee53545f43373a4d3768a7eb36cb13b",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "d60e46e6cdd5c5b71dd0a7000288e8621d2f3926907134ccf53ddcc817a59cd0",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "5445124c143ff117ea2ae42565194fb39ef64dc7d74d98a55d986d20babd157a",
+      "text": "Building with LLMs requires a fundamental shift in how you think about software development. You're no longer designing deterministic systems where inputs map to predictable outputs. Instead, you're working with probabilistic systems which are inherently unpredictable. To ship a great application, you need to clearly define your success criteria and build a culture of continuous improvement based on real user data.",
+      "hash": "9483583fbefcdcffdabcb1e60c865a5d678cea236382dca0fbc748fdadd7c69d"
+    },
+    {
+      "id": "e1636ae36b73904346166738285a10a2f2d85662a6bfbcaff63f9f2dc283153a",
+      "text": "It's relatively simple to get a demo up and running. But productionizing an LLM-powered app is a different story:",
+      "hash": "89b431b9a7ecfe81576112e09ff68840cf25e173bea27b88ae31b1569885fe81"
+    },
+    {
+      "id": "45e4be018ca423f6efbd545edf87239bdd1ea167830412d1e131822e58eced73",
+      "text": "The journey starts in what I call the \"Vibes-Only Trough.\" You've got your app working with the LLM, tested it with a few examples, and it seems to be doing what you want. But when you put it in front of real users, they'll interact with it in ways you never imagined. The flexibility of natural language means users can push your system far beyond its intended use cases, exposing edge cases and failure modes you couldn't have predicted.",
+      "hash": "d028b40e8e71155e27f93b2408fec2e7dc59536848c4ee4d9f964dbd64c14c32"
+    },
+    {
+      "id": "3f02c72b15c676a47d075e3c7604aeab105a262fdcf18454cc34af23cdcb634e",
+      "text": "This is where systematic evaluation comes in. As you move up the \"Data-Driven Slope,\" you build proper evaluation frameworks, collect data, and measure performance. You're no longer relying on vibes - you're making data-driven decisions about your app's performance.",
+      "hash": "df32cf77e199304044038133e5cdfef6f74738a851bc1e1b4e0f53408c87e57d"
+    },
+    {
+      "id": "a5c4da542da2cd3fe451aa771e948082567bee7a283bd884c582511cbdd5b349",
+      "text": "But the journey won't be straightforward. Your app's quality will swing wildly as you experiment. Some changes will make things better, others worse.",
+      "hash": "1ed11f581ff704413b0b8ba98bf98a56ff8d9a37c34d2f4363a923561e72e400"
+    },
+    {
+      "id": "6b9a787559a120119f6e053e03e1a69dd743296f6e5d4251df40915b697cfe04",
+      "text": "Don't panic - this volatility is built into the game. The trick is tracking these changes systematically and learning from each iteration. This is why we need a new approach to development, one that embraces the probabilistic nature of LLMs while maintaining rigorous evaluation practices.",
+      "hash": "2d12e2ebafff20c2b5ee0fa4b0c6f9d1bbdd7d3a38c308da7218c2ed13565fc1"
+    },
+    {
+      "id": "bfe4cbaa015b1ce57cefc2853be9b23d77cb88455a8593aeba8f9acdd7e76ad0",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "3655c20b23bcc30aa3b7be628a859f9064053cfc07f8537e91a851f7fc4edd44",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "d5b5963c014465d3a9545c55a0e8060e899911070141c2a84522e4ffd0f0d384",
+      "text": "The first step in managing this probabilistic nature is defining what success looks like for your app. In traditional software, success criteria are often straightforward - a login system either works or it doesn't. But with LLM-powered apps, success is rarely binary.",
+      "hash": "eae8a732055bffa8e93a304cbb36cc16c422e74c26edee5b19187c324d9d9f10"
+    },
+    {
+      "id": "22a4af14a85712434cce27940daaf4fa00762a384c0bef1437670224d9cd13f7",
+      "text": "Let's say you're building a sentiment analysis system that classifies customer reviews. What does \"success\" look like? You need specific, measurable criteria that align with your app's purpose:",
+      "hash": "2f8990883f5b518915653e15b095f61456fae087d8a5e47396361d12e741721c"
+    },
+    {
+      "id": "d4176706a0b2b1492521fef24d1fd08a72e39f3113e5e3f06fe8733b482dd115",
+      "text": "Accuracy",
+      "hash": "ac991dd3c2d928da95b77afb954db61a3246be27b683f30d1232dcee625ae376"
+    },
+    {
+      "id": "2a1b9a4743a3e249bb2d16e112b82c097960fd018d8961543fec6181401d4755",
+      "text": ": 92% agreement with human expert sentiment labels across diverse industries",
+      "hash": "43240ff676ad82c2f0d77acffac6f4385a863e7829e01048fe9af91f6ef46b49"
+    },
+    {
+      "id": "04e33fd4dd642dd1f7ba9c787c400f3e6aa99f1315cedb8a451eef8a9f0a13c3",
+      "text": "Response Time",
+      "hash": "07eda3a2b4a3bf7b88cb73de11d8f6695a1cc3b49ce21005617bddee5a866f9c"
+    },
+    {
+      "id": "60de0ba84f6625670c05b75849dd0890cdbc1a58e7506e4a14fadb6659e84584",
+      "text": ": 95% of classifications completed within 500ms",
+      "hash": "87ff619d7a4402261909602e5e2ae00eff82e12dddb108d844097a256971140c"
+    },
+    {
+      "id": "cfa34e1c80b554286cd8f43f3688a2800c2668b1d969dca821f01d4b8f68be49",
+      "text": "Confidence Scoring",
+      "hash": "9131ef2458fe6455fac6590573bf928d56ac0cefca9c48ac779718f04c21e135"
+    },
+    {
+      "id": "71852d5901fefd889fcb73fa2efb56807ecacca9144a15c8f803bb9ec2dbc210",
+      "text": ": 90% of high-confidence predictions (>0.9) should match human judgment",
+      "hash": "7645cb8b68c4949d5c924dfc727fc0bb6786f113b6125aee88f8603153437c12"
+    },
+    {
+      "id": "856e852e9357e8e251665a46e463a65a8e26c2c808f2b3f8f426a769cae99225",
+      "text": "The key is making these criteria specific and measurable. Instead of vague \"good performance\" or impossible targets like 100% accuracy, use concrete numbers based on industry benchmarks. Even subjective metrics like \"code quality\" can be quantified - for example, \"95% of generated functions pass all unit tests on first run.\"",
+      "hash": "e4ce4e89cdaae1a3d30d6674d42c7ca83b61332b1fa89e7b84a1e5cf341b8b72"
+    },
+    {
+      "id": "8ca7e5a99f301141ac7e00236d026e51d2edfc06de210349b931c8303f4eae44",
+      "text": "Without clear, measurable success criteria, you'll never know if your changes are making things better or worse. And in the probabilistic world of LLM apps, that's a recipe for endless tweaking without real progress.",
+      "hash": "22a119cafaad63ad600d712482c10979c6ba933b0905bf7ae9ac12e2cdde8be6"
+    },
+    {
+      "id": "d0f020358c4f9374011672ce8f9c9c3edf0d4d90940b1be479ceee442cbee6cf",
+      "text": "For a deeper dive into crafting effective success criteria, check out Anthropic's guide on",
+      "hash": "8945b9a49f5176e69d48603ac71e21dab17619f0d677db026c3df6e130feaa7e"
+    },
+    {
+      "id": "51569851f382da03b9a76f0cec135c1b06182922a5fecffd060ec071d07349cf",
+      "text": "defining success for LLM applications",
+      "hash": "33c8840b644bbcb2224226144d735ad1c97bbdae2544c40e5d60a0b05c435199"
+    },
+    {
+      "id": "f6e18e04f6f6c98bfca0ae1066c19f38502849370401b3b5e1918ce5bffce970",
+      "text": "Your app's performance is only as good as the data you collect about how it's being used. But collecting data isn't enough - you need to build a data-driven culture in your organization. This means making decisions based on real metrics, not gut feelings, and using that data to measure against your success criteria.",
+      "hash": "366aed784b353294d16ddd9aaafd6779461ea8f42683147cd1558b6c9125eb9c"
+    },
+    {
+      "id": "3409705bbc476312484fb39cb43e846112b915605e4d7e748760dd3dc87a33e0",
+      "text": "Every user interaction is a data point you can use to improve your app:",
+      "hash": "4fe763c03fe9c5b4e4874b32dca32d61d47f9bb14eff3ed73677bc65671ab375"
+    },
+    {
+      "id": "0367e8851a0910c1b059982db60ea450022ee88480bbc3d9b6de93db59d2b0ee",
+      "text": "Improve Prompts",
+      "hash": "f23eb1434318133d0567e21986dcd169290a967f2f58dfb593a8aaea4015f93b"
+    },
+    {
+      "id": "f57318cfacaf66394861cb9be1e2c7895147796375012aa2733c33035387336f",
+      "text": ": Use successful and failed responses to refine your prompt engineering",
+      "hash": "c15e7a7ca95695a4122f6aad45ad1afe9c7f93f0f225a7d48233d1f41c7abaa2"
+    },
+    {
+      "id": "06c46eca9d34def43862e8444de9ea953417618698ed7eb5adbc4ecd053d5d03",
+      "text": "Fine-tune Models",
+      "hash": "b02f457abdcee9646541fb315cf05b743655c0729de823f6912f994c390d003b"
+    },
+    {
+      "id": "f3565790550249695ea1d4dedc19a2fdf22bb35ac2876e892eeec14e8d9e62a4",
+      "text": ": Collect high-quality user interactions to create training data for model fine-tuning",
+      "hash": "05d2ae466ef2a3f5b52403b6efa9fbd70aa61a076a3fbaf5781bca193e5675b0"
+    },
+    {
+      "id": "dc29e202452a608f320dfef90ac463a5d7738272f1a2f86aacb3e8a28c9d194d",
+      "text": "Track Success Rates",
+      "hash": "061353c48a6816b9e6f9f4fa25beeedba66759542901da785199efa899b39340"
+    },
+    {
+      "id": "52e10c27c199400b76dae93bc6cf0b2f6741c5fced49179c51489b08974b3839",
+      "text": ": Monitor which features or responses users find most helpful",
+      "hash": "4a12dc910bdf79f4f8087ed7a138f61e406512e6ce73cb7cae6aed7754b4d97b"
+    },
+    {
+      "id": "3f23bfeb19cb05e9c40ae49f86e5f8071376a471a2f50dc5a925a37f1ca2b883",
+      "text": "Spot Edge Cases",
+      "hash": "d7dcb7cc5be7b5ccc6b696ddd3998cb5451b739c02dc985843f650d29450f9aa"
+    },
+    {
+      "id": "73a6200a86133daab7b2f31582bb6492ad5bebfc7734ae95fda502eff850a965",
+      "text": ": Use failures to identify and handle unexpected scenarios",
+      "hash": "e7ccefd6d1c74abd5f0956c6172c42058032c8780c22069980008aa16189d72b"
+    },
+    {
+      "id": "a23bbaf07c5e7cd960e71bef2d62ce839902e7c5bfca72f94116cc1d70180347",
+      "text": "This can feel alien to traditional developers. Most write code, test it, and ship it. But with LLM-powered apps, you'll spend a lot of time staring at spreadsheets and tracking metrics. It's not glamorous work, but it's essential. The best AI engineers embrace this data-driven mindset, even when it means doing the boring stuff.",
+      "hash": "362fefe9a89ae9b73dc9f2d888cf788c3839d18df127598de6cf106db230a3f3"
+    },
+    {
+      "id": "64ab926ec500f3a7e4b5c4554404e5b243195ddd02188f327753723488e5e465",
+      "text": "Start with simple feedback mechanisms like thumbs up/down buttons, then gradually build more sophisticated data collection as you learn what metrics matter most. I've heard that one of the largest code generation platforms has a dedicated Slack channel that alerts developers to investigate every downvote. Every negative interaction becomes a learning opportunity. If you can't measure it, you can't improve it.",
+      "hash": "1eb16a09b521178ca32ccddbd1f42b7fb6e5eb57ca88c1ce880d199e134d356a"
+    },
+    {
+      "id": "1c35bc4218c7f723635bacb3ba92c13191aa88e3ea5814e73dc6714c799fa124",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "adbebbeeec08b8e4e0b8a26629daedbfe608b8bf84528229f73bfb76ac2d9c10",
+      "text": "Turn the mindset into a system",
+      "hash": "6972d748f88dc2de32f927bacfb821ebac2d6674e5b106c3833ef743820de310"
+    },
+    {
+      "id": "69b798bf33b21387a263464b04975533f748d3f07d53f4933391435e859cac8d",
+      "text": "The skills that make the mindset show up in real work.",
+      "hash": "e34cd06ae4ad583e1386a1f1d21e9fa8fcebb44abfa226e0fe50f23ae16c3fc6"
+    },
+    {
+      "id": "af98d5f808c0f26be79513703684daebdf97d2a1e4da28c57fa8959934795dc5",
+      "text": "See the skill set",
+      "hash": "dd46869b69c9555abcf3fefb4c764ae30e64692df2ec9a3359dea8d9ddef9b37"
+    },
+    {
+      "id": "0b93d11b48659b4536c8e91e06f5313475090e130285ad284b051b494822da71",
+      "text": "Building LLM-powered apps requires a fundamental shift in mindset. You're moving from deterministic systems to probabilistic ones that need constant evaluation. Here's an uncomfortable truth: the first version of your app won't be great - you simply don't have enough data yet. But that's okay. The real magic happens when you build a culture of continuous improvement based on real user data.",
+      "hash": "e66c07c323169be54aa81a66016319700089115bcbef8897c1903867a18f03a8"
+    },
+    {
+      "id": "3508f40f1b804591e1baac87983f022dc3852b7db23ef370f3790611cb9161be",
+      "text": "The key isn't to eliminate uncertainty (that's impossible with LLMs), but to understand and manage it through systematic evaluation. Success comes from defining clear, measurable criteria and treating every user interaction as a learning opportunity. While this might feel foreign to traditional developers, it's essential to AI engineering.",
+      "hash": "78bb56e761c978a45b600b6292cdd4e9b119872eeb2191e4177648d0bf79f1e9"
+    },
+    {
+      "id": "03becb2b1a919a47becfe9b5eca5a802bcf9d48dddb4bb16ddcf3453939da992",
+      "text": "In our next article, we'll dive deep into how to build evaluation systems - what we call \"evals\" - that help you understand and manage the probabilistic nature of your app. We'll explore how to create systematic ways to measure performance, track improvements, and make data-driven decisions about your app's development.",
+      "hash": "6666ad87e8ad5f33d7c47b2d3603842f92c966f179e26d40b986197136d87cbb"
+    },
+    {
+      "id": "51e047d3138947eec7eebc5972a119c213c9a8ca6c1666d0095147271bb691df",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "d1b244d1da714f9323d5bbbb7103cefc06bb162fa488053fd12c3f00578cac49",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "4b07f3110159c99ec6f17c3e00a0616cda155c08de653d6cf71a650d5ffe4ae3",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "a31a5e26913568070111f36fb85bd858eae26e8a22213d236b2b1d70e15ee6b3",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "d1fdcf32ce9c0ffe34a564ffcaaee15835d2b2ba67a1b12e6a7354cceff378ca",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "a0c3a56dce623708430d8cd57098743e0080b89352f67ca6b640dc1a80f7f5da",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "47a778aefeb0b8ecb8f46e8d163715da0bab0b2acb10718adbe4135e4adf961e",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "86451ac2e1316d739bbd5c5ca21bd4c5c529d73131b8ac87f4897e0abe8852cd",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "7278c4bc44fa0fa78f83c2ddde797db5f62e1546340d54e46c80501e6893b3b2",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b0356cd536e2559d8e22b9e4b9cae64d1696fbf08c8ecb84cfdf32aa01bacecd",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "ea9def5004096fda7c4a4951713b3e34f98dd3ebc2a74d2a0aa9f999072dcd67",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3a3d0ef254f065d56aebec662ac5661c9a0a62e258ac787b7cf258357896ae62",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c8c817f2acf12c450d9afee8ff504b78a5cc7ac899fccfbeed676d47469edb40",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "02da32f336cc6a12ac934c27a18583c8fbafa925e10c9da24e21bdaed8ec245a",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "a38b70a968a0a82313dc1348d55530f5e4b4dc52e8c2bec65e354a27c4b207c3",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "639b0d5e17f7eb1fb67ca855800cd497dd4dcc255680a60f752d32dd27a87903",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "63d33e0b03d9d443b43208157b26c441f5466d4c122d692eb05fd11ec4af76ba",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "d99b331bb221878ebead459e20b8fe4544ebdc824cf91fc8c5315caa8abc67b1",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "2c513f98392d4330ca41af5a8d3f5d2ac40fcff72b53391234a051daf6cb98e5",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "db1d351457c9e086f3ecf6bf83e94cad863a055f6e31b4f92434dd3295ee2b2f",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "34e9f5e2f2d6033a5be15226e8f96cdeb656c674abb0f11e9e40d2bf2825c4f3",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e5c0c3c114212181aa3206f9e199268bf9907690928619ce2fed61fc9f068549",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "9b4903e8768b369a83eeec5724362e60247c79183a91a90542be2408c26f6412",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8eeeb658bcd34efece068c2e1a7878651d13f48f90b1d87660294bf7dc74a7a0",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "423a6842b3dffb7ceed62779b986966fc8f9b150a94f3a8b9a802297fd385687",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "b4eefc084a8f8d2a7af88ac67dcb1c2bf7b522c2c5f9c60a3e3d0ff3482736da",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"107w3vgvli05nc2\"",
+  "lastModified": null
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/model-provider",
+  "pathname": "/ai-coding-dictionary/model-provider",
+  "fetchedAt": "2026-08-11T06:28:31.095Z",
+  "title": "Model provider | AI Coding Dictionary",
+  "contentHash": "7bfc5533dc65bc5099de6ac830b41875a6f7c6882fa78a62fdc2e979a502da20",
+  "textHash": "5aab224948569c3a4036e62688def458eb0227d475258f60f8033676fd94426f",
+  "strings": [
+    {
+      "id": "8a4b3cbd41eaab8840071b007d25404fe2045df810658c5c83c0b15c4f30f659",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "24b980c727465fb5b7319c11de5a5a58a5028a56c3862f11766b81acc1b026b4",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "d867143dd7f4f02643c57abba4f0a20dea8a772d29a6f7ebc61e318e33e81d13",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "8df9f13519ba2744620b1c2025fbedcebc91605588e3da8d4dee81bf063c281f",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "022098cc70dfd1582deaff35bb4cb14e23e5fa925289d0ae49d4b44b3582e7d5",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "1ad689a5142a319a789ff5cf856d0a2c2eb38e6f27d2daef33b9366ec5614d17",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "55040faae47d545d58c9267fa20b517094ac4f5cf25ebcefcf41004e3290fec6",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "acad8ecdabe75784909487eb1deb084601447574fe9942f48dd2770924e7dc11",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "cca4561c8e07cba2aca3c88a88fd390108ca12b6cccbc619f1d7cdd089f8ddfc",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "79d16c14196d7d072340ee1aaca4c7ede34abc42f5232313b04907cbbb7d3caa",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "fac92c10df48c855ce34a1e1e73de686d396787cc17d6601921fbf9a3d717b26",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a452e73a87256a92de5f5f2c512869285e3d3ec43c787953e1e64bc492645b60",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "786014e9b1a84ade84a22f9021f83fa2c85d1dea5f62175d71b38bc16eeaab59",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b4ae7706798d609c3c4134fc203ede127e3eacefe49d3d7c73128fb0df14c7c3",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "2378c04fdfed50304db5bb26d5b22f1924efccd63082dab7f800b1dd1b7e1fbb",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "f1efa1d3cbeac4bfe0aef6819e2cb50b5fc3e1ddfdc3176220ff2cea8f1b3c98",
+      "text": "Model provider",
+      "hash": "ea70384c465d5c89fb7cdd19647c540c4025a1c17532dcb8b987d7b753cf8596"
+    },
+    {
+      "id": "d80be9c2698c7e3003bf7d1981f2526edaff0a849b997bbd186a5d671072667c",
+      "text": "Whatever serves a model for inference. Usually remote (Anthropic, OpenAI, Google), but can also be local (Ollama, llama.cpp).",
+      "hash": "6044e996e1d061ab93937f8014c7cebd445c04a43e7264f565c0ce8956a3269b"
+    },
+    {
+      "id": "420c4b9fd31a90b8bed8e434cf4ce32ffad3bd13a6966fb1afb67f6e7288957c",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "6a3cb890328790ea66cc5b2fe0e2d17d1bdaea514592e45938eef0c3c1ec72e5",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "bf26cda9fe6d31609ea4b465bc1a5663ab4c4afc5a9a85e711fa7557dc6a94b1",
+      "text": "Whatever serves a",
+      "hash": "eb068e329960eeebb23cd8af6ca390161b72a925fcf3aea6c2cf9ee72a819c7f"
+    },
+    {
+      "id": "5285008f53b8277107889cf37f9e96370c6fcc076a3559e71566e2a51506f2fb",
+      "text": ". Usually a remote service (Anthropic, OpenAI, Google), but can also be local — Ollama, LM Studio, llama.cpp running on your own machine. The",
+      "hash": "d77af177e074460a1eb260ca1c08877c45eecd9a557b64562d75aa144b02c9bf"
+    },
+    {
+      "id": "5af4d10aa508fd7fa05b60e4335b2a454b567b95d85b4675283b1d3db2a09b76",
+      "text": "doesn't run the model itself; it asks a provider to.",
+      "hash": "1a03ba0d00b45473d683902733b387c841a1743d2f5f32fb0f79fdfa8f2ff079"
+    },
+    {
+      "id": "94ed77962bd0d83a029c5438b22c0fdb12f8cbddab965ac00e4563706c08db8e",
+      "text": "The provider owns the machinery: the",
+      "hash": "779684edecdb9a5036f8d65efb4de79a575a25d1c370d595e1e59b20a3c3b973"
+    },
+    {
+      "id": "ca9fe585940684fadff83ee1ba6a6cfd57ac0522358c84dcddd0a8ad5f3cb67b",
+      "text": "live on its hardware, and every",
+      "hash": "7a5919bc34f72e96af039cd559a4cd46077e7a273157d2f4030db64f650e612e"
+    },
+    {
+      "id": "10d27813d338bcfbb85f8dfb0e1ddbdde06749f6d525798339910cc244dc7cee",
+      "text": "model provider request",
+      "hash": "3004d539f1f0ae7a40070d95ba4a1323d874684827edf4d55b29a1056f8da7a9"
+    },
+    {
+      "id": "815837b489b1a2259ac95275c79b808a32ecf0ec2a9d6a5eef733c57f2c170ea",
+      "text": "is the harness sending",
+      "hash": "d2f07892e804e81fc172e9e38486a5deaabe8d609d8bc7027a21c910d130a668"
+    },
+    {
+      "id": "613bdddbaf059345f915567721fbc5798a8d951b653bc003e4ad3f67567e45c3",
+      "text": "over the network and getting predictions back. That makes the provider the source of a whole category of problems that get misattributed to the model or the harness — rate limits, degraded capacity, and outages all live here. When the",
+      "hash": "eda0250a911d2e30629c2cd8999f7bb6b41334ea2ab6f9db42c9c27174ad4c57"
+    },
+    {
+      "id": "ba592e0facb12420ef45c94ca36f3fb662c1563493506b956164f92c675e7ce5",
+      "text": "stalls mid-",
+      "hash": "58a6a23522bb60e507e331fc51fb7fca7b3d0934f8dcefdf1b56ba1ec3f46ffc"
+    },
+    {
+      "id": "e82af1bb6bfa125a982a99877fd43bf54e58f6a8908fc996b8a133346d2935cb",
+      "text": "or errors on every",
+      "hash": "06bbdf7155e41df2ec792cac575074f8be14c6d82597ea4deab4ad756c0892c3"
+    },
+    {
+      "id": "85acc4b40aed03fcf86ba3d7725b641e315eb3ba742c4a5521317f859859d5d3",
+      "text": ", the provider's status page is worth checking before anything else.",
+      "hash": "86e275d649c8bb13e9f6b926ac5761c21775779c4949069055fda015aa91d25b"
+    },
+    {
+      "id": "1bd902d2f5900192980220591748b5d4b8cfef9e01ace57ea36bf6b52c084ca5",
+      "text": "The provider also sets the commercial terms: per-token pricing for",
+      "hash": "50cb49a44ae62d8483bd6a79c748020f5583e0572e8ae307f4e5e5ed76975f5c"
+    },
+    {
+      "id": "9e47d94b6da3f6597180a3ff71960fd7a194810a933e6d6c584849ca01b863b7",
+      "text": "output tokens",
+      "hash": "b6798bcee84a53a994de8822f2954fb739ce9a8eb119121f36b363fe86182357"
+    },
+    {
+      "id": "e0399d938cf1d4367189c67ffc5b462c8276cbbcb061398904b7dc1994fe919b",
+      "text": "prefix cache",
+      "hash": "2cdfb6c2d97e750050af7ef5f0ed3c788737a1776e6c1f740f856462592ba13a"
+    },
+    {
+      "id": "e9df82906c2b161c79fc5c857dae7fff3a629c0566aedafbbe3ddd652d93254d",
+      "text": "discounts, and which models are available at all. Note that the provider and the model's maker can be different companies — Bedrock, Vertex, and OpenRouter serve other people's models.",
+      "hash": "93f22ca2dee0319ae9881c4ff732fe32070dfae14f15e91503692c752a48fab8"
+    },
+    {
+      "id": "a18b4c3387dcbbeae74b2fb039d441710d9ce4dfa5829e15862baa9ce001097e",
+      "text": "Local providers trade capability for control: the models that fit on your own hardware are far smaller than the frontier ones, but nothing leaves the machine and there's no bill per token.",
+      "hash": "f623198cf30c73a57e8800dd28a7fb55ce5a53c921ce761b41dc8828cdecd6b9"
+    },
+    {
+      "id": "349900ba741e7368d9a92a9cad83b3d5f18d1f97975284bfc8588c7e009fcc84",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "c2ed2ac6620cf44d6a42c5a8dc92319cede336b9c58f9fb3cede525ee895c018",
+      "text": "\"Can we run this offline for the air-gapped client?\"",
+      "hash": "255d509e41c98a577b262c31abe75005d5804abc9a2877b467af99373ac3cdc1"
+    },
+    {
+      "id": "613a3baca297950ca046aed10329212e65f10ff7246bef13a46cf37e3d5757c5",
+      "text": "\"Swap the model provider to a local one — Ollama or llama.cpp on their box. The harness doesn't care, it just hits a different endpoint.\"",
+      "hash": "95b9d3d2de1884f34919ebffc8c0092c7355f2ebf1b404cb9204c2ec03ef4130"
+    },
+    {
+      "id": "63893eda70263973af8364e7aed9ac27cbb8cf8e28d2bd048944c26c861410f0",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "8e5e15682b3201f287298d6bda9a31854ae5d1053b1c71565c2894e63379700d",
+      "text": "Non-determinism",
+      "hash": "29528d719817ee2e8c9f3bb920e7820ebe1ff4bc1afc1e91f25ef655e25d4b01"
+    },
+    {
+      "id": "43d99f214c34d9b220186d689e1c21983748470904a1e518135bae0c2e1e92dc",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "57e3e71e0d6e8e90597467a34f31fd5f22e980be8a613b5af2d82c55ea8477a5",
+      "text": "Harness",
+      "hash": "e3b5b45953d79a150092df37922ee6261a81040f5fb3c084fa00efffe8b98589"
+    },
+    {
+      "id": "dc3d1b753859b6b64a766f2ac85c3fc4634834d1bd6401645814ed731930ebf1",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "afe37f5b1e44f0b456a7a31832b220e337cc1b191bb72c9ca01fc09c06004502",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "cc26986034903f272404893c1ab8e24642a3bb333bedca1bb51619bf162064cd",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "e7b1628c2fd4de416dd7bf396453b1604c28af97e081884e7af8e4eebb062189",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "d4936dd3d680aadbf71f5692eab3a0a4756a9da1d863488c49ceb734ed242694",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "879b6d919ff9b90fb81d66187ae6a58e2b8e89555ec7c54d0ae62934e8d525c6",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "f13986f2c5c17dd836393de8356a68de9057b060d1b256b47629b4d4a08b06aa",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "8e85831617d2dcfcb6622af7d553354d66799a39b482641c56e566e4191053f7",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "ca11b9ec37916c9bbcc669a0db69f3feb4b66e08391586a4161bdb3785ce2a9b",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "914d17497da1eb11e1d61cc5d6f386c7283ed37946422c4f885ce67247acc3c5",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "3d4b2d6c10bd1dc5694a36750053dc78ed6d33f93dfb9acc8ab79d4c47b9a2ed",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "780275cd46fedd35e3dabec7cee3e37d2e101d715aa7265ea18446e2ddae55ba",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "362fc8114f6e7b703d88e0a36da10c2672e80f9be7a634d29fc313cb608342bb",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "a296f2fce382b4873aa9bf4b91d324a16d8f0b4c880ee8f0a99c131c47cbfd22",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "a073d3989d06cb87fbbf2d1e15f0361af9ebf3ed713d9d55a5d6aa08f22df2df",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "adebdba8071a8cad03dc9692a35c031190f372f8c84edb9b377186fa40ed24c6",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "156ffc8cb437473c21545a70e13e32d344d29d567f6c09760ebff19bdc60b083",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "052b544bd052b10ecf9730e8848f886fe13438f3db64be26e229ecf64842e06c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "32dfff91d7bb54a1fba200cbe2beb5b56c251a4eb86bdce41d45fe0f84a80090",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "4f985f5aa07ac9e63ab832bfc821f612091410696434918d9b8a126cbacba9ab",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "8dd7f91da04b8fee9ba634949735e53574850b5e46c5dcdccd6089b6c0b6a88e",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "80a2fde46a7a3c3121f1b57ae61459c6611afa023c0e667d56b17ba893e5ee7f",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "1b550a82d34e16344b4c6ac5abbcf5007fa094d3b4b45b8a9eaf5f52397c2e4d",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "5823ea4674762f9254597b82e5bfb0cc25ccd757b122a87f1889f126998ca491",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "a23844bcfcb779a75852ef2739a492552491c4dc106dde5aeff5da4ad08127c5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "8625ede960409fca2841d251d7e8b27780ffb04a7f970fdfb7ae913f24e4ff46",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"10v02dy3rvp4qvs\"",
+  "lastModified": null
+}

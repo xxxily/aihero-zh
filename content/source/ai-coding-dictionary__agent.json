@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/agent",
+  "pathname": "/ai-coding-dictionary/agent",
+  "fetchedAt": "2026-08-11T06:28:32.061Z",
+  "title": "Agent | AI Coding Dictionary",
+  "contentHash": "09f21d59c89eb230aeca10f0dab7c14a350f49816e8f26113a13fdb987a56227",
+  "textHash": "1c96eb9923d921a10f529029671381af53c68a2d122e6e0fe75a8025f14c31c1",
+  "strings": [
+    {
+      "id": "6a0e52a239e8ff2a35f3c11dddcb5c8fb21a2c5e728b8549fead9358a0df8d6a",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "2b565cc21784e95aba4a9a91be77debcea1723013e63828720ddaa5f56ad6a2a",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "b1a06cd3a0f71f96512489f621737757a4baf4a62309407b6180860aa2d5705e",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "b8ec15e44829891825a29f6045958ded16f1e2d4e6682a7f2aa51f4a5a8d0a96",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "118a90bff55733e7866b01eb8087ced43ccf3b9fe3ffdfb57a79ecc9a69c16a5",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "244ede1ef0592517d5585c8e0aef2b9e5011cede43310169b23bb10ab05cfb8e",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "3dd4d6a6efab290e1f10fa1d39eb5a9de9e9b5793bea2008ccd1134645e85069",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b12458365ddbf020d0fa3737b36ddde51a15569b5935873155bd671ac5aa1dfd",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "84cbca232e6ee70c9711ffa68b098842a4e535f4dcf120434ac7738b7cd008a8",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "0a744a3ad96e25a10f1e39d61355020ba06ef8e918112924791b6951bcbd44a1",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "3fe8de300ab249d51e817143be2bc442a1206bbff3d9afc9c667ff68f60d27a5",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "019182c854479d51ae26dafacf2c1767c87d680b106fcd16cb871f0b6a6d7bcb",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "25ede177473a378b810aa8c69fb1f040361cde4586af7bce1f03339fc232334d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "9e6302e51b416f8e9f7a83f1bf1f1cdb9e7a36203c44f0a03b60614c0f91894d",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "467aff0536c463f13ff6c62a9a5c9a69d2c579dffdd18cb7bb3feb18b6f9c4c1",
+      "text": "Sessions, Context Windows & Turns",
+      "hash": "6ba86329848f193a00922dde232ac1e483d8805be061a48f5580560ee54d0b69"
+    },
+    {
+      "id": "a51d5ea1bf320809eb635cbb6a77280a45907c7189043ae9571abddbc90727b9",
+      "text": "Agent",
+      "hash": "11b39c93777e8f1f3983bdba7c72b22fe68cfea20c677e9de53e17cb7dbfb19f"
+    },
+    {
+      "id": "7f792dee3b408d61358f0ffeeea63f6072df2414bec116e1cdefc946c2fa71ef",
+      "text": "A model harnessed with tools, a system prompt, and a context window, that takes turns with a user. The model in motion.",
+      "hash": "ce375d5d245f53e6c4e4f705185cbb04ab7bff8ac65d7ee6ea2c9ed635fc5c7c"
+    },
+    {
+      "id": "d09ba6695479d49fcc5eb46eaad84773f08af2fb20629f8a15fbf88907d8af31",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2ef3cd0eb95de20533c67b363e91ca4f51e18ecbd24629e79afa6929ec47d7d0",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "10d0af2d7f054dd21a91af0fcfd7816bb7aa75bb993ecc33e15b524da1838a0d",
+      "text": ", a",
+      "hash": "a5c172abdd6ea1e886ffbda844ab1ea24af334c8fa53ddf7adf81ec6a15c8bac"
+    },
+    {
+      "id": "29aa11de5ea6f4e51b3903c00660150783b520651c9ff3353075427e2a16d37b",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "22f202de6f1f736aa251f7a52d8d97bf65ec8d0bc9a7398ab376e7a27fd5654f",
+      "text": ", and a",
+      "hash": "d3e5bedfc0271592a9fa7ce3703c00dee490fdf02fb2be368e4103507a8f8e10"
+    },
+    {
+      "id": "d89f20418f997ca35f3c146b0417ab42983e3ff52d3e5da6af9a08683ed3a1a2",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "659a25f9feb872cad5d1685bb91af612c88b32f9cf0adebbedd5f99db0158656",
+      "text": ", that takes",
+      "hash": "b963a5649cad42d1d1030accf36bafaa28e9dbf863514c0bb7f5430603b8881b"
+    },
+    {
+      "id": "c3111e21f5246c2a74dabe95105afa24f69d4a09359e9bb5fb7940b20abd271a",
+      "text": "with a user.",
+      "hash": "aaeaaeb2dd8c22106047ec79a0c3b2735a3698024449b7602082592a53b4d143"
+    },
+    {
+      "id": "91f377bb414ee8cbf34f777d7fc1713c4d7b817723ab5a9dcbe3cbc5945033f1",
+      "text": "Claude Code is an agent. Cursor is an agent. Claude.ai is an agent.",
+      "hash": "044084e803d678f1e73bde5f91f06639814ead21636036b00d9e729ba57cfce8"
+    },
+    {
+      "id": "fb432f4d7182e742564009fc3b3ac317ea0a428553ae8728eb36520f732569f1",
+      "text": "An agent is what you actually talk to — it's the model in motion, configured for a purpose.",
+      "hash": "011fef5dd92d518bf86b579eccd689e7d9dab153aaf5cf5260df22844bffedf9"
+    },
+    {
+      "id": "2367584fa5025a59c8e676081343f78b38450b95f68d2c754474df475c56d932",
+      "text": "Unlike most terms in this dictionary, \"agent\" doesn't name a mechanical part. The model is a file of",
+      "hash": "990b8fae0d727f6f8ad9e607cb29c4fc3f5db5c16d6633d1dbd0d75f67dde4c8"
+    },
+    {
+      "id": "28e6335de929ff2b6b988c6aa645de3c1abdb5f9a35c6d068a7776690b7003f7",
+      "text": "; the harness is software you can point at. The agent is neither — it's the unit you're speaking to. People anthropomorphize",
+      "hash": "d913096178fdb0eb7e60f67feaefd8ce0178a2c133398150e71094f1394e80fc"
+    },
+    {
+      "id": "d73b09bd850050a775140c5fa1d933293ed267724556ada53352dfd0369245d1",
+      "text": "constantly, and the agent is the anthropomorphized unit: the thing you delegate to, the thing that reads your message and answers, the \"it\" in \"it broke the build again\". When you say the agent did something, you mean the model-plus-harness did it, but you're addressing the combination as a single actor.",
+      "hash": "0f92ce27a772378227f71b0395ed2e30fd047d797184c110df7c7709577a429e"
+    },
+    {
+      "id": "ec820230aa43df9b717ea8e0042adb21026b1d15fca5f0d2518b499605d818bf",
+      "text": "The idea is older than this wave of AI. Software agents — programs you delegate a goal to, which act on your behalf — have been a concept for as long as AI has.",
+      "hash": "33745f2ea251ee89dc8cd04a5f786fa65f78829373ea57bb75aae71373365c08"
+    },
+    {
+      "id": "e0501f946e1c4b60b8f8c636283a377ff73e1a3f26dc1f75943a897303c8c883",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "9b439e93e29d4123a2d692ad3b86164b6d95597735a12f38bd7e662e4476f8ee",
+      "text": "\"the AI\", \"the bot\" (too vague — they hide whether you mean the parameters or the harnessed thing).",
+      "hash": "9ff55cd6462e9b0784f8ef67d7d66a15ab8eeaacf4ecd29ce4dc0ccc8e68fde1"
+    },
+    {
+      "id": "1070b9ec8f7af5ca0b4d86028d4801e2b765a8a3fe7629ed680d55e8a9be83a1",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "bb5f21d2fd991aa07ce625fcefda73c2ffdac919357f39c39b3fde867cf346c8",
+      "text": "\"Which agent are you using for the migration?\"",
+      "hash": "895a70b627db712e4c90f9b2eda8af48095cc02ec8e51a2090944306cd2bdfeb"
+    },
+    {
+      "id": "c1b473d04a55d0a0a753b29223d233e1e84cd2e1baaddbdf32984f2599743709",
+      "text": "\"Claude Code locally, Cursor for the UI work — same model underneath, different harnesses.\"",
+      "hash": "31c05d1443676a07282a12af9b3617356f7e227c8b923e1703cd461bb3b1e90e"
+    },
+    {
+      "id": "ca01c54b596c02663d5585c31ea9d3f327f8e5f4f3d9083ababfcb25190d8487",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "74d604762fdfeb02d78611a392b5f3e70701dee9de38cf091aa5da9f090fd2fb",
+      "text": "Stateful",
+      "hash": "e4ab48dc9497302d0218524068003e9b3283aaf668d2c8fba98bc0b1c5495541"
+    },
+    {
+      "id": "2c222b54297ac96f06dcff911e4aaba351fe6961c1487e0ede409f5f0c2392e4",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "504ae580636fb0d39db51587ea6b3e6bb7a29b608a54027d94679e52f5bd2dd4",
+      "text": "System prompt",
+      "hash": "561257c019e5e351b341fcb53a45a61e2748698f14404bd38a3dbe58a957ec30"
+    },
+    {
+      "id": "ea9fea7e0e3eb7d61f32f08f42f583c1f064be8cabc7236d9607a9e79c61a4df",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "f68c4dd1710c6db673f6d861587d291ea43ef527f2f8a78bb517de492cc82550",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "52aa978883786e230eee218245fc16b4ae94537e257cc9aa41c89d2ed1e15b1d",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "36606efb5ad75be9c9b65f4eb25ca656dc6eebc54ac85d74df3e97e25b6befc1",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "1c9149cf57c911e13faf7c0ad07b3ed77b063bf25fe8cf0d2fab14ae7993289a",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "e413633beb18e4e52ce3bf739e876986718c0be101cbc8a93fca2d839dc6a9d2",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "e82a5fcd73a7399f6e7fabe0ba6ddfcf1769ac0aeccf14ecca646f191ceb9142",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "283b9dada1a5f4ae3c52a908f04da31430fc875fd05648873f1cf32edf95d5ea",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "726941de7843204af0e9ec455e294499d878d1f94c7be5c34b640561641c90b9",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "2c3244aff27cb18adf9a121c03d1b482f8bc9b2bec1e005e346ab82c964fd6de",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "66e9c15a578f499c8336c46d275c95b1ef72539002a766b9881dc60429cbb0bb",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "bed33d6a542537cb6f777ab5131fcfa50455369e8711d81fd68aa189827fcd2f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "52b3ca7c6933ea23e0ab5c082362d3d370e12d0478807761428e58facb46d906",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "59163849ee3358afb088c19eb78fa889fae25730885a63b21616a34600675dfb",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "58908630a1e7cd51cb821409a250e503323d8de745612739b8a9c4b325e8277f",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "2586f84cd3d8e2921d3b38d9f4d7cafb653513e7eb8d8c3840a0efa3d67227ec",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "42eb605c711f0e915f9aed46a1c6b436d55a404ac7368ffca6650e8fe4bf9e97",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "806f3f5dbc905d18173972ad06b20715e09e9c5d6225e1ea02879e1611ea15a7",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "aa0f117411f0b6429e90a3ed585c00c95a49844ce47c6cfc0af76ed1a0dc261a",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "19ba8a11deed8ec3def7007058343900873a667eec657af92c4bb00d3c27ae54",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "a348c36d65eb380cbbd08fe4cdf5f75d81c91b7e975a68b2d51b2e69f89234f5",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a078ad81499dd1bba3ec8029c61b6948339e360984979b186ba2f7f47469db20",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "3e4ec9f7cc890157451184dc4a5737424f25e21f0e4689c9dd5dc427fd77b2ec",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f36696e0666b5ad6ce8fa8f60b3c60b25666a1fee24dcc6bb96a3372f3654f80",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "653420780958df476bcc2f044e0f9452d559babc6868bc60a15b66ac54e58094",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "5c67df1b21e18f2dec39297ffc30ecae24d28a1c97fa4137529b10aa68f08ebb",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"nbrzeo6g274pb9\"",
+  "lastModified": null
+}

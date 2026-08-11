@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/dx",
+  "pathname": "/ai-coding-dictionary/dx",
+  "fetchedAt": "2026-08-11T06:28:42.248Z",
+  "title": "DX | AI Coding Dictionary",
+  "contentHash": "3cb92d28cf387cf6d7b275217db5b490362f424f4567b6f59c13b79e2c709afe",
+  "textHash": "a64c4d2a3b01cbfce9a79a3482d47057c34a02380b39a70360b00f76507758fe",
+  "strings": [
+    {
+      "id": "8ee0c40c6fad9a6e4fb69370e7e796f5099ec7f994ed81140fbea5b5f18eaebe",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "4349fb008dde9dcdd14fbcca4a0f6ba7b13f6de2af5583b3195f4a0b208000fc",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "30ab7d0aeff11006f8b64467364ed16bf8e0747d849b8834f86494426c9beea4",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "5cd64665b7b84e9f4eb0ad64b47188bbb499f5ae0c82fd90b05274102e17fc9a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "32ea32e850e8ffa3baf1cf5693807f0c23717ee6541d8565ca3b7332645a653e",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "04846e3213f075b8233a9bb41519f0172818e799ac64cfc38f56dc0598212aad",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "d212f5b2b8c34c40c5434bac88dadb31903702ee27e1bc38d4af9b2cd23a01b8",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "639aa7ed385cc0f5010ed14a3160373e897cc3327083ff21ee7e3478cb50fb59",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "7e85c61e484b9994f2746b8be54824fb66692c3b0c82447835543b849a3a2942",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "eb450bd3d97def2a062b44688e7a61030c5805e1a02b1806d19b805443645ee4",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "5d7727f696c7a08ce7dad332ce0d83ca45c65b505de990b91269499841b6eafa",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "3f2f6ca531a3e2e94d4abb99af7da1bfeaf4b8e37de270cb1aad79d2ea7c69ae",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "8269d16569fe39a9223bfdb776d2d4d0d01d7f0ad56af0c81aad1b54ae842b56",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "4717ba330dcc4d7a4f5f5c6083f01f985e8e0a1a63e9445d4813cd2dfb4b172c",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "6ecfb32fea425fcfa3624a91cf8f7dc3241959abbb5c25193cab5791eb263700",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "fb2a3f19126bc925db1d37997d7191e566dc894134589aa5839e0972352020d2",
+      "text": "DX",
+      "hash": "48c95d370f0eae38ad2d9bf8368264da99f6a95b7b45d18ba8f14a932015ce13"
+    },
+    {
+      "id": "8accf5a8669d5419ecf94d162ea550c0ff5ff3f9d4177c783bac1a7c3a5cdfe1",
+      "text": "Developer experience: how easy a codebase and its toolchain make it for humans to do good work — docs, feedback speed, errors.",
+      "hash": "2f04bc64a04ec82b686b6032ced2fb72168e5449c25fa43bea2547bde8093e08"
+    },
+    {
+      "id": "caaa05788f37c170a5f7fde2b3b288ba6e138228eeb673317b48715c21e2bac5",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "8320ed237546577fd25bfc55013e10866db1fd652d6697da1ecbaa65ee6d4e69",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "b572c3f33fa756b26483d1e539d08456c8f04c29b690ee4dfe8491d7d7ce7746",
+      "text": "Developer experience — how easy a codebase and its toolchain make it for humans to do good work. Good DX is fast feedback, clear error messages, documentation that answers the question you actually have, and setup that works on the first try. The term long predates AI coding; it's in this dictionary mainly as the contrast for",
+      "hash": "0f561f190e75c14d118ebdfe5c8e745dd2f94aab30f15e43852192f55bd033a7"
+    },
+    {
+      "id": "16723e856db196ebc192d7e078d39f09b623f750e610254bd259b7e144fd7862",
+      "text": "AX",
+      "hash": "bbe96fa9f44ea0fcf38b0ec729822f37f5cc11e625753b2a250a90a3b59dd098"
+    },
+    {
+      "id": "56760cf8920e8e384905f948dd08cbf592df4e65c9e9390a9b14afc349913e14",
+      "text": "DX is the interaction between the human and the codebase — nothing more. The main difference between the two audiences is that humans are",
+      "hash": "6351ac34b26d70eeb53fc2db44e8fa182d301d988c29439deab572b0526af851"
+    },
+    {
+      "id": "35075b9e10f528cee8cb3ff4234283d719a64dfefc1b5eede987c747627d6712",
+      "text": "and agents are",
+      "hash": "b15f203b6225f055a7becf5af490e21514dbfece7956864211ff26593a4bfb1b"
+    },
+    {
+      "id": "9796fa16650e022ea8bfc322d4ec9f955c9942f1b1bb97603fb85954200cf5f2",
+      "text": ". A human learns the codebase once and carries that knowledge into every day after, which is why poor DX is survivable: they route around slow CI by batching their pushes, around missing docs by asking in Slack once, around confusing structure by remembering where things live. The workarounds accumulate, and a team ends up productive in a codebase that fights them.",
+      "hash": "b440bc03df863b9277aea3387a97562cf30d6ee04738956f4c675657159ba313"
+    },
+    {
+      "id": "e4aa6878f7616f0dc1f13eeecb4739f22a01d90bf11a325d42d1aa740fbba3b8",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "54f612239a117d2f172ccd6f11886b5c04caa48256115576f7046d7b2f6e1951",
+      "text": "face the same codebase with none of that accumulation. Stateless across",
+      "hash": "b8de1bc758a7d4b79da06c28d409f091927b0e2353106dd2323351b4f38d8fb9"
+    },
+    {
+      "id": "e2a61898adf29c59ffaba8eff1fafa5fa26a391ad3edc307fd947c6bba8bc38d",
+      "text": ", an agent re-learns the codebase from scratch every time — it benefits from the fast test suite and the clear error messages, but anything it figured out yesterday is gone unless it was written into the",
+      "hash": "cc8ba238ad543c9df6f2829578644440ca52162bf79be5f7cbca29dede9f49e8"
+    },
+    {
+      "id": "41abf031afe1f6dcdc22e6927393ae1e68b0a5247072935b8e01597518e27c8c",
+      "text": ", which the agent only perceives through",
+      "hash": "d12976842c46e82fbc4b2a7a4b9dda6fa128cddd7f57759c910503b84193d111"
+    },
+    {
+      "id": "236cd8d09ebda6dcb9ca2c8f8f7e14e76ef39a5cd4d729a8ad9c725df5ee838b",
+      "text": "tool results",
+      "hash": "a5594e12dfffd8e54c36d9b99bc31c7d41f0389d2251790338f34e836a3211fe"
+    },
+    {
+      "id": "c4e1eb6a2348f5be9257a658c6f9401be557f0c949ff3a9c0493ca5f481f0c5d",
+      "text": ". That's the gap AX names: the parts of DX that survive when the developer is an agent, plus concerns humans don't have, like keeping the",
+      "hash": "94ceb838bbc2e33cce3510f350d160254f095764f9fc89ac28376eb73d99d6e9"
+    },
+    {
+      "id": "348ec07b4af02413efe0fe03c01a7bdc48363fd3ba8e7a013264f8335a6702a9",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "220e851723d97bf1498af5a79c2826c2cb7a3cd7a998a520fc70c5f13784a56d",
+      "text": "free.",
+      "hash": "05224092363307c44094df5d59934204fbb8d7f2989348345005ff773d3b0098"
+    },
+    {
+      "id": "d048cc703c322dbcf1e1c0a69f433738a52c3fc49c33e7daff3f941b88f79df6",
+      "text": "The overlap means DX investment often improves AX for free — strict types, fast tests, and predictable structure help both. The divergence means it doesn't always: a beautiful onboarding doc helps a human for a week and an agent not at all unless it's reachable from",
+      "hash": "e9f109a0ef4af4bc39929ce9c25ca64da3477b9982577ec16f1037db4f11e0e3"
+    },
+    {
+      "id": "a2711ac0ec6f604521f68fddffd0ccaea5eacf4029de5d994aaa553ebf6fe775",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "de0a4b8b12c2c4d82844f712f929d2beeb4e99e5b990820ef9fff76ad0310d94",
+      "text": "\"Our DX is fine — new hires are productive in a week.\"",
+      "hash": "f4f6bf1a6962a461b42a022bd8b63c401174d5486bc0093443f36775cad92b43"
+    },
+    {
+      "id": "7c2af808912b9e22bfedb0c8ef7274d76d87d778a2721c0a6847374e2b3176cb",
+      "text": "\"Productive because someone sits with them for that week. The agent doesn't get that week; check the AX separately.\"",
+      "hash": "a37eeaf1c2e8f507672af5a7549f1e7b10a2be43134e8494e3ca937b53796a76"
+    },
+    {
+      "id": "3716ba55b353652cc42ba72761802182a8a37c9e9132e51caaec498651285501",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "002532fa280898735246fa82e10f29c5e5d46cce76ff5b700ec9421c201c362d",
+      "text": "Prototyping",
+      "hash": "28f52a5a016a0ccc11741c2b981e3d5a59a6846b2e25bff951b13ce5be27d384"
+    },
+    {
+      "id": "fed79b4469e12b97ba17a6c3cade75634ccee8c4f35a2bc4ab20ccc61e1567ec",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "e8aa89a131c8573497611fa952d826159b208ff7b0e5b83353f086801064b204",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "e6ae2d399e6ad8dc2eafcf1d31143fff69e81b1e10ed8356ff37901789125c39",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "a7d6ca56587434e28bfc55471b7043bd1125c3a8620e9e347b71e7e919efe20a",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "00424106c14c414b7c7e2deaf79f59c5805b418c329ca654cfe90e5c2308c412",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "14105f86915f3cd1a12a9b9d0fcacf5c62b8df533929029d898f1d0b02837927",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "ba706bcb5efdb716bda4db5e8fea90a62e4c41e292284d61f963fbdc60db800d",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "43b2d31b2a07017345da8a2e6806bff93cb0b47e3b3da1f7140b68a71458a4ef",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "84693f8d1208d9172837e11a6c8350b115b111cb5d6d0185d1df9a3b2a6473e9",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "f494a3293787e8749fe85dfdb96b99ed2114a0c67fbbd3ecabc04fbcafee9c31",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "e6a91324489d6d309bd8e9530da693bf2448f41f9d84616212e25e04050f7a7f",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "417e056c720edb6ee370bae14c774d22a70e115ac70fc1b9cd85966c0f92afd6",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "1d392f12948699485048f51d8974915fa49e611f856603786bd99b38fd56b71b",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "415611b13c0d5e59e78817f1c2fd52d4a25d8e0f4f15c01955944d6da3307551",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "1d357d48544e309a71e27a8f94b37ea67c3d9923d08d8f4ad491cfd414ab82fd",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "459efc039e47c5dfcac5e027dcf284679cff370ab5ff048de49e5617a8cf2777",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "59e1009b7053eac2b6353c82d8adb46d5f600b198e86733a61f4d0c3fb0b1d33",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "53677628a4d1e88ccb317fda38684626a39378e53f7bae965463c7cd7e950f1b",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "3d785ac442618a512b0a833801081c3f0ade4e4768cef4fff12618d1a8a159c8",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "bd79c1a8d470b6b7706917bd8400280b09db91214cf244457234b97ba2473f5e",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "345e620fff9cfcebdea6bf69afd7fa6ca42d31c2cf4504e0066b3cbec0fadcbd",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a8fbd4a691417be54e8107e81891cca1905f8dfe7ac5b598ff067f4bd1629125",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "b3e567b61fa73f8f444b11bac65ed83b0c027dd82d7b9edfdc6f78e067a12b35",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f859f4782aa58a34514f106894a797b41ed1308bdd615fc3926490716260b15b",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "0b3c1064fbbe96d9ad9085c7172bfe96cf5942f9c18a9d6b1bbce6c228264162",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "391df0179274466f325e993b1d1ce917d9c6f8a8c26bf35c4efbc2ca9110c311",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"pp1vk3y3fu4quc\"",
+  "lastModified": null
+}

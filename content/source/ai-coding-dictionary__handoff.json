@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/handoff",
+  "pathname": "/ai-coding-dictionary/handoff",
+  "fetchedAt": "2026-08-11T06:28:36.871Z",
+  "title": "Handoff | AI Coding Dictionary",
+  "contentHash": "7b63ddfb38efce3bbfc105b986e286d89e1122822e475686c5642667384ac0af",
+  "textHash": "bccbd69ddc7344bfda01e78aa83b5ff57289db881aa962e43f4d8f3e90592bb1",
+  "strings": [
+    {
+      "id": "f23b894f4668cb1e9fe9beee79aa013e919feded3cbd0b3ca2ec2c1c22b2bde8",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "780c0966bddc5cd3db0320d45f554831e0086bd7fdfb311041467032e4e0c72e",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "214c2aa535d38694e50ba7c20df31418edd24b79cd3e1880f2482d4af429a3a9",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0dfc36ef7385efd33a9723fd2919891142211331512c6bad7f7fde97d266cbbd",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "c21b927df784ebbe3fc6e74c7aa14bb3506686048c5c3d208d9cb73181404140",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "2ec74b5b631564e0d8fdaa9a8d7e4b529e5975b24c0c1f6e1bdbfcbef388a4f4",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "6e9b0007581213b2ec53962644ccb378fce4cae1d2e33efa23c844288a36fe08",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "d23c5f1edbeb86ee3687a4a21daf9275c269132cca34492780dc5f6d187e09b5",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "7432bfe0a41f2158cea7cddeca22fa7156837ca6ced6455b66c321e8dd8346e3",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "076578428f6cbbe27257ee10f0d0c187b24db05aeab1aa5d78a0af51842f53cb",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "d6e39cfbb1f2c2d8e9f6e6569fe08f23bfa50894254685018f1eb103c3935ab9",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "319f1a066057d532cf090aee52859aa2db44582f5171d76eae2488cc12454183",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "b3f77d0a0beec07f53c67a9dcb7755bca6b21950bb2e838d29fdc02914e70bc4",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "c41fc5a5c9b93781c35c1ef4acd2346922eb184d298e2b87ce0c610468dfb62e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "afee12a3a0cec2f31940628652cf23035cb9d1395f2270451d0d33894878f63d",
+      "text": "Handoffs",
+      "hash": "29f217d5d86062d687fceaed0f8ff7da2900d2b2b33d409e4abfd6ebe310c1b4"
+    },
+    {
+      "id": "9b365ec609e521f8d4bd3aa2df52ef079fe5a9a89a29b3e4832564ac50f0c6fc",
+      "text": "Handoff",
+      "hash": "f89e2d72da00888b27c938fff1eff1d138fd49fb664d0269527a69e746ced479"
+    },
+    {
+      "id": "f465599e6fb72d1217d2149340d63732309b337660b1dcfddc54cdef536771de",
+      "text": "Transferring agent context from one session to another, with no return path. Carry mechanism varies — artifact, compaction, others.",
+      "hash": "afa7316d1164640fd935599a2ed85edc3c30891e73ed40922e8297bfeb67a101"
+    },
+    {
+      "id": "7b0854f3a0152fa3b3fd68faaa441b0441560a24d55605f8714729572efd6e69",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "82d68153e601391426c5338be29db4b5aa15538ab16ac7333f2913d898f9d204",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "827a4d9f632be72383f410e8c12aee22d7a361685b959dddc2235d3e5119391e",
+      "text": "Transferring",
+      "hash": "5e16e20d6e130f916eb84197c8b5c4cb5c3040cd7d9a51a9c26a29937c079fad"
+    },
+    {
+      "id": "558b356485a6495fb652f562364efe6c915244bac9d6e9dbcb9f39806db22609",
+      "text": "from one",
+      "hash": "e9450cbf4b7a387eea887dcc850564d6974ef364c8afdb7537abe1a088211af4"
+    },
+    {
+      "id": "ac390ce4fbbb66eb6d5cc0223cdf800b9f2e1c4cc0e3ccf8f032734973bf1052",
+      "text": "to another. The carry mechanism varies — a written",
+      "hash": "90104b8ae837d6cc2ceb288d4c062767173a32a6079b8106f0746c7bc213de7a"
+    },
+    {
+      "id": "6c24ca34e621af18cb6aa85ec724902646e823e932d974aec113487d25424373",
+      "text": "handoff artifact",
+      "hash": "741619a26b388b5e1035994e6e7ce6c59c885ebd231ad21f8d9ff02438a0cbc9"
+    },
+    {
+      "id": "a8029ee163e3bfec7b9b1895890f5f517a8db4108b0371b992403aaff37d8002",
+      "text": ", an in-memory summary (",
+      "hash": "56db31abaa4c3a3c5b26287978985d99dfa4c073a9b50ad50dac64772e8ca888"
+    },
+    {
+      "id": "13835d1c171022ed7286fad417f48b189667251141a15a071f1192a04e433d58",
+      "text": "), and others. Distinct from",
+      "hash": "1e7d47d79d8995940f1cc1007bb01f4d6255f91a32c38f90ef927c99d6cd0924"
+    },
+    {
+      "id": "ca45cd2ba5e0d9dd5c9618ab7eae829d07d2dda2660ac4d457cde35f7b9c3ff4",
+      "text": "(no transfer at all). Reasons vary: switching roles (planner → implementer), kicking off an",
+      "hash": "84f20f5894993319c96f8eb3f19eaad9ec6cd1ab6e137b9fc57337247e916d01"
+    },
+    {
+      "id": "fde7eaa921bd16944ad4496f047a441a88f4bfdef93df8323df61e85f3933f04",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "70fe7139a63c465cc26dea3072b795d83ac36ec03f43ea71efb809fcd8a1ec12",
+      "text": "run, fanning out to parallel sessions, or freeing up",
+      "hash": "7b6a7981201e8cbaa5cee3f4bd18b453d423dfbccbcc01b4a68c53db86590418"
+    },
+    {
+      "id": "dcc33e5e9b0e38626709cc088451607f4beaff783495276b925e5109b101f9a5",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "a51f2c85f6b135dbb8045cee76f3f31d4d5679a0d2c68277142e709bbbf4c5cf",
+      "text": "room.",
+      "hash": "ea73d8773540402e7de6840567c52f27986cc4439e3abe132c01dc295199677e"
+    },
+    {
+      "id": "2c410a314e6ade58ca1f26b6cf32e0185755f5dea3d7931f7fa4fb8899feffed",
+      "text": "The receiving session starts with zero context — the",
+      "hash": "ea4965de941ddba7d9d2e67ef9628b28f9e63b2b71321ccd000077690e30a625"
+    },
+    {
+      "id": "609e8bd70c7bb9e79917459f18a4b05b0e1707b10639bd9e08f5be54ec6ae1ee",
+      "text": ", and nothing from the old session is visible to the new one. Whatever the next session needs has to be carried explicitly; everything else is gone. \"No return path\" is the constraint that shapes the carry: the new session can't ask the old one what it meant, so the carried material has to stand on its own.",
+      "hash": "95266a469dae97a7f0c9e270980228aeee00ecbdcf54e484db0ee2a42b9f583d"
+    },
+    {
+      "id": "da9b1bc021e94f949889ac9a85ad6402577d0802dbae43fb6cbf786dfc9d3949",
+      "text": "Mechanism",
+      "hash": "3489a4c81c349cadc87ab637b3d9b215c40589a3cb6b74f2a0563f2ff4f6e9d1"
+    },
+    {
+      "id": "0bdde4678643a32086d769f80c8cd95ea9d926afae96e5e370f24dce40bfbc09",
+      "text": "Form",
+      "hash": "2e0e960ab3204127b1dce399c9984c81f52a79f4d85cb0c3afddcfcfe8a2b48c"
+    },
+    {
+      "id": "b8308588a24fb400d43817a65f9e2aa7670cfd5393a14264ce60a2911b8fb945",
+      "text": "Properties",
+      "hash": "ae43692b2a310b8ed2443d2b7d2a3e4cf0b6d73115badd72831b3d22381f235f"
+    },
+    {
+      "id": "8e1622bd22a694055b7985da04b39d51cbece1465651d5ee83c019aaa1ed3bf7",
+      "text": "Handoff artifact",
+      "hash": "ead240861579b1a7860feadb4392025d981ee640559b4a3c75c64eba36517a48"
+    },
+    {
+      "id": "1f9bfaf31e3280187614707f5c053fa0114d6e9736f7fb3f9a5e6aa95965fc4c",
+      "text": "File in the",
+      "hash": "27871063669492c97bf95b12331b1603d0f79563b442a310a378ca25b7f74fb3"
+    },
+    {
+      "id": "481e47a309c16068741f4c3173b807c764102f193a43aaf8ed555c949a0bb5cc",
+      "text": "You can read and correct it before anything depends on it; reusable across many sessions",
+      "hash": "d82fad0fea298e9b83c52017d6772965712c05168dbb92274275f5992de0304c"
+    },
+    {
+      "id": "3f94bc8b17ff10d4b44322246bef89991bbf719f124ede4ff79acdcb48c9ed50",
+      "text": "Compaction",
+      "hash": "a0ade140bc8e408639e51492b949bc4d31641625ef070015b5d4a5e92ef0edb0"
+    },
+    {
+      "id": "8ad047ab93346408664a8e5ae84af8694f806cb8123436d3799a9fcf96e59733",
+      "text": "Summary in the context window",
+      "hash": "ad5da2b36776e5d6f1440340bb75164c5a69323f49526945a4c77bd0c8d22ce7"
+    },
+    {
+      "id": "ce9bdeba85954fcf5cdec717aa28ec043b4e4ba0d0f5434350722289a39fe2cc",
+      "text": "Automatic and cheap; harder to inspect; feeds one successor",
+      "hash": "18e79875bd411821e2994b33f8cd7caa5f9f316a4a1ac5f3516ed8c7fe675c66"
+    },
+    {
+      "id": "587459a0ed2f1c63d37ed98e98ea86acd463741e6be4c09abaff17c6c2c83872",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "9db249324daa45bd45eff92d57f9d6d5a5a905ada5099ae97e2b063c8ab884a9",
+      "text": "The visible failure of a bad handoff is relitigation: the new session re-opens decisions the old one had settled, because the carry recorded what was decided but not why. Judge a handoff by what a session with zero context could do with it.",
+      "hash": "806f2723bbc23123add6b53c6babea56f3da3d1d826d6e29c53ebbae85a79c51"
+    },
+    {
+      "id": "0d9df1842646348e0db6fa1c37a9defce5b5f3b9cb663de2cf15df63d4bd0021",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "0f299a5b44b153ee891e30ef0d55e039a60f79bd949fa320cbebc832e29fb236",
+      "text": "\"Planning session is getting heavy — should I just keep going?\"",
+      "hash": "b1b927e0e9523d274d1d4a477af4b85e20da3d22b8ef6660cd91f73a8d0b6fcf"
+    },
+    {
+      "id": "7adbcdcfef79597ba554c88301a0ec99d23284c9944eaa0f981b8ca14cf96a3e",
+      "text": "\"Do a handoff. Write the decisions to a doc, clear, start the implementation in a fresh session reading from it.\"",
+      "hash": "b8bd464917ff673abd8f5cf50d3523c4b2d93ee2be0be920237c11a09efcb74d"
+    },
+    {
+      "id": "e9f8e4dd9b500dd7a93a95e37a7db5e6580cb62bc3eb50eafe9b46db504db39c",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "49e920ec7d7bcfcb05527c9921b2f2927dc3e8d654679da878954f1ce5b60b0a",
+      "text": "Clearing",
+      "hash": "06648760a765043c7be785f4e63ebea0fd0dcd056d36d53d153208749e757840"
+    },
+    {
+      "id": "e4aacb3ba498c729a83cc40fa3b5c4932ba65a198c37592e9815517f67ec82bd",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "9bc770d003630a945d5a619629aefe05447970d43aa32a81864a703648d1a7d1",
+      "text": "Primary source",
+      "hash": "a518c683cac9ab4d00390db41fe8a1fb150258d23d103dec32e0017ff94a0b5d"
+    },
+    {
+      "id": "d8206480f3a0a942ba9c20665c0c5f48fdb1515156d0549ff3b41500428e5709",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "59f4b54eaf9b8e635d23a5335fd1cbc7fd9dc52d0d22390936a6ff24f8ea3ef9",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "806f1627b00690129e5c0697960c7746ec92341b46fd51cea73fa74e6b8518e1",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "e5b09d75da6c0de38ff0795621941690d3952e14ad26e1201780c34ca2b07a03",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "13aa37eb656d8d7b55c18bfbbe766a252fc2427e5de927851b035a6f25896ace",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "37988d88375443ea1dc4073d1f71fcd09675c3df5889d977eb617467ab22442f",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "231ee37b7c0c8d168b920fabd105b42b5df2b70c80852de94b2590125f8f5e11",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "8649086ab134f157a8fd79ecc8c9483f6d03e305612ab924c797f360982533cc",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "22978b19b6c6f224fa51aed8ca160dc37f8d7126987d7c0e6c38a811568f6a72",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "40f7f069b33bdbc3a595d5b0c7f7fbbd7270eebe21d2a20e51a221a640ece6d7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "b2074557743b6dd3276535622cb7c4cf348bbcae264538b61b8d0fa8c97cfbc1",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "1f840e52fdf10df3b983912efca9da73c295f0a3e8f8ba6e6f0b0069477caa89",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c4d84c0747011b7a6c2b972bf7b1dd136298a72df2c18cc6ba476ae7c9ec5ede",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "e517b9af00c1fe216964688a948601392961348a811d96cc564f6776ef0eeb75",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "40b457d0990239d39dda2b24be331a06881e948056e15b24c5a1025a7624d992",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "dbcf602ef045676bd2f6485eb7b02b05f2f8e4cefbb63299ef07c174f48807b5",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f89395cc995be9c0aa2403823d8fb7527e69104e2bc9de1e9a84278124351698",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "eabb04059a402cf20dfe8eb0f616373f6b0929e72802faa5d78613de7169f463",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "9c9f46a9722759732076d3d3e9692007fa22fac4d75b410c7b5e70e062aa1e3f",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "0a3dfd9105d060d4dfe6d2d5c4f1d0b95e7ad9c8434c764888a836447aa9a3ba",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "e85ddf064a54bc8f1fc8326498958224ffaab36bff4dd69826d0e3851e98e1e2",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "9adfcdd1c5714a004db37fbed433c759951461bfa48581d9096a6dd0c0190f7b",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "3d61c4f69cb9f2ecf6f219607d14fd8bdfb2aedd465f2e95eb5e73cd5798ff13",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "268d7352960ca7f93f2cd86c09d341a82fd5904ddf1cc25392e4308fcdb188a9",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "772e715ccadfab6edfb389fceed4a659bf95b3c02c35309e1f3ffa0b0a5b1d55",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "34a989ac922626ac5b2217e56eab4e0859b87b27825d508be7ec860ce2f5f48b",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"17yomj0dh7q4w7v\"",
+  "lastModified": null
+}

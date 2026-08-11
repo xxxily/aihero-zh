@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/tool",
+  "pathname": "/ai-coding-dictionary/tool",
+  "fetchedAt": "2026-08-11T06:28:34.151Z",
+  "title": "Tool | AI Coding Dictionary",
+  "contentHash": "e75bb83dd6c7ceebacf7a1a2759cdd2de380dce766199e39e06d46cfba987d98",
+  "textHash": "1a3b8d4978e1448d6cd663346b638e6e693631f374bb1c19c77e8fe1240afd68",
+  "strings": [
+    {
+      "id": "6759c221c78537684e98ca61cf17273b7bc623608ac20967f1893fc019f71066",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "5d6396e687ebe3a5ee5e20f6e01f357df16411d60fa3d56f6f53b407bbdf061d",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "58d4a8c578102bc892218511e61dd7c3b575db74173a3e0561bee8d0553bdb98",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "30c8bcd08d6843f3f726c4514943ce0c52655f77e5a2b6d67a62d80b1f705f6e",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "ec0e1c77aa5da125b6ab8eb8dd73052b42a29558155e5999c31f75363bb62459",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "8c9c13c8979fa13f72fec9a8d8a3cc0a36102fd318e173e8097561295f7e4404",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "c7d93bcd849e87b0b768bb8af57882d33781f2d60786f3f6dfdbf4c073f620d1",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "035a4bb1d295ab83165ca234c6010edc26e94287a4081ac549ad30768228e7c8",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "d9f2223fc731c2a2fd9d9c9d4a209f0ed7fec7498511d011d5a63ddefebf3e72",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "2fdbcaea4d14925596c47c3132b509b7e3d6291f4634e8c770da8098e77a2bf6",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "1460404e11e7adc2ff8df9ae3736df7e95ba1bf86d35a0386efc61b61d0485fb",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "b876d7e7d5bc176d80ba3330aa4083e993e311646e6325200cebd33dc37e804e",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "8c8a3e46288b12594851a39ff862c0519a9e370a98ec3d452e01e46bb19f7942",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "546597321b0ee66950011ac69464b6b6f979e13267c7805687b026106f66251c",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "700258954343658d8bd77228f81d8d70557b7ea7d60677603b0ae41b228f0af5",
+      "text": "Tools & Environment",
+      "hash": "cf9194302814cf2bb2ae04f0e1023fec3d18acdc5258a0e00c18bb7df366cf00"
+    },
+    {
+      "id": "2d2f3adb7e0a520bfbd5238ff1f5c64ede59003d183c854fbfcb14505cbc44a0",
+      "text": "Tool",
+      "hash": "2e53bdcd0740867b597599e733c04a994f55fb17c89a61595183a001742e5705"
+    },
+    {
+      "id": "498a2b9377074fea138212bf415ab38d79859888064e88d07fc411bb2caa5705",
+      "text": "A function the harness exposes for the agent to call — Read, Write, Bash, Search. How an agent perceives and acts on the environment.",
+      "hash": "73a913ec01a96d0c152e4156dfef327a5dddd169115221a9c5b870ef83e24232"
+    },
+    {
+      "id": "25b6b54e12c2aba2423ffe9c1ba8efe91fd49534ea95d81a64bbda957e2af20d",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "1a10967731b009477e3de1021a89cdca4fd771a97376a6b71b93f96ada4e2c7d",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "8cfcfad2d26f2d009f6546d8074d9407fa31fbf1c2261d496ad254a3da653730",
+      "text": "A function the",
+      "hash": "0bce16c631422f77e944778eee234dca886a647bd1b936643f2de152a19a067e"
+    },
+    {
+      "id": "401b79e8bbb3dbeef90ac63c0613e8da96ccaaac2eead90ad0d3e7b1efd8c94a",
+      "text": "exposes for the",
+      "hash": "6597ed3beca29ffb17a7b1b8178799cc11ee0bd6172d29344069b630afa8170e"
+    },
+    {
+      "id": "a39f75a32abf962e6c013138c390c2868a9a158a118a74ff4420616ed97940f5",
+      "text": "to call — Read, Write, Bash, Search. Tools are how an agent perceives and acts on the",
+      "hash": "4d3cb5369ede2b5c32938fb830d41d30ef74b40e0686f0a27f9d2f61674191da"
+    },
+    {
+      "id": "1c8f969f52fb32957198c07e95bdabc5d0c4d42f95737d4df2add2a35afeb2b3",
+      "text": ": it can't see the environment except through",
+      "hash": "4c1c261e239da544e2cce85510caab1a7fd105dc5c50a13e07083e47ba5084fa"
+    },
+    {
+      "id": "2e7ea38a00028ed7c2b8a45de6c5b418a49c889471f4f01f02ca0c3f81f12669",
+      "text": "tool results",
+      "hash": "a5594e12dfffd8e54c36d9b99bc31c7d41f0389d2251790338f34e836a3211fe"
+    },
+    {
+      "id": "dd7bab57c7255a2450f4bc9801ec3d09c1feeb141c1e491e9772d8543741e886",
+      "text": ", and can't change it except through",
+      "hash": "aaedfaf3493e65031a7461e4f66a5f8594d35017e04faf67f54d8e91d7347133"
+    },
+    {
+      "id": "cd904f98a315cd92bc24af6ec5b0e88d1b153fde978e115513a6a362e45b0e3b",
+      "text": "tool calls",
+      "hash": "b102cdc6032df9ca67169a6d620fba86a9b0344b8dab71565a5b230deadb5e68"
+    },
+    {
+      "id": "f3962a33f83ca9022e7fcee3a060517729f55c8634404a3747370d5b1309a87b",
+      "text": ". Each tool call costs an extra",
+      "hash": "926e7ef22adfe70223e017ecd885da7374fc1ca9ba3a74f4cf2011292c6be373"
+    },
+    {
+      "id": "fee218f9f3873a5d8fbd68167530ef00d75f14031b738b1f623463b613d37a82",
+      "text": "model provider request",
+      "hash": "3004d539f1f0ae7a40070d95ba4a1323d874684827edf4d55b29a1056f8da7a9"
+    },
+    {
+      "id": "7700df8074b163ce621791ef8bd82c9192f1959f5b701e86a3fe87cfc9e38579",
+      "text": ", since the result has to go back to the model before it can decide what to do next.",
+      "hash": "026013ce9b89bc3eb22ca2e0a2f59450176257d6ff61fb46beb6f491cc381e39"
+    },
+    {
+      "id": "656deb514e9cce0c9e13e0d9d41201640be4a0610dc2b383a6b9a1ba2874b585",
+      "text": "Tools most coding agents ship with:",
+      "hash": "5b12e6b537e4ff432ff14832a00e80e517f9a96e5f2df15c0059cd9b73123c88"
+    },
+    {
+      "id": "51a0abbe0f225d86d33b3696abf641bd77e90226cb83a695725355762e747aaf",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "cca645a565a37862b059234ba8e52163c027ab2dbaeaff6d2d6460e00778bb65",
+      "text": "Read",
+      "hash": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca"
+    },
+    {
+      "id": "df323d094338ebe88669322e31e9654aa80b0c9ac5ee4fe082e9e0bf65ba3496",
+      "text": "Returns a file's contents as a tool result",
+      "hash": "37f29d6858b7f6693a362282453541546cf1af7d617b05e1527008466965a3a7"
+    },
+    {
+      "id": "e30880526be624aeeff7218c1aa5faed1f523d5a1c5f5f55e346f56798ea2efe",
+      "text": "Write",
+      "hash": "3f00927a719345edd4a8316599d3b328857987547f8884306861161ffa09647e"
+    },
+    {
+      "id": "09306199ac90779e6344074c8892f9012f0a173f8eccf29b941e5c661edf7fd0",
+      "text": "Creates or edits a file in the",
+      "hash": "ef541582afd9f07313eaa60fd40c59a45dca158bc80c6e0f61351d0f0ee81952"
+    },
+    {
+      "id": "5e1ea8719378191e8548e3d2ff4ac87ecb8fa9fff561d59692e8763b14626ee2",
+      "text": "Bash",
+      "hash": "d1e9567da9a8a4b0c43da0791da1d2594cf5d7b78547fea132d06bccc1b06091"
+    },
+    {
+      "id": "8a058ef7e8ca052d743942908d9428b276c644b6eec9e940ae44970a95967fce",
+      "text": "Runs a shell command and returns its output",
+      "hash": "8a055b0a883be587c9403269e6fc15ee4e960b5d7c57dc90ee3593aaa35f6a85"
+    },
+    {
+      "id": "96fd2588beca7e03aeab4f093c009fc0ccb806711de0070dbaa48516bb92ffe2",
+      "text": "Finds files or text matching a pattern across the codebase",
+      "hash": "8b1927c962f1f771c23e33eda18d4a1e15a0f0125c9c094fd2076b391cb996ea"
+    },
+    {
+      "id": "3b407e1dedcca9640f01c44b1446193e58f86fa212867418a95e56edc7348086",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "358f5c15746d89df1c0e72cb9964152e405f76c03d73e01eea45dc9c871c9d25",
+      "text": "A tool is defined by three things: a name, a description of what it does, and a schema for its parameters. The harness sends these definitions to the",
+      "hash": "16e8832ff14cbff7f5753fffb59306efa4275894c9cec5e02fdda6ff7b9c709a"
+    },
+    {
+      "id": "ce7496b196129a298cef6bd40bb47d323674fc1eea87f41380c35398285d1cba",
+      "text": "with every request, and the model chooses a tool the same way it produces everything else — by writing",
+      "hash": "f3f8db55fca9fd48ea3a7ced9b967c3784a344d8dc66982a38c535f00762484f"
+    },
+    {
+      "id": "48ef228fc07a3c772c03797470aaa9aba52dc8a6250352e8afb892bfa4ce7633",
+      "text": ", in this case a structured call with arguments. The model never executes anything itself; the harness reads the call, runs the function, and sends back the result.",
+      "hash": "8378aafee17ffeb77ce47bdf241827eb7c62adf7541d7b46c682e4ea05435efa"
+    },
+    {
+      "id": "570083c279838920fbbd08afcb11b95c2bf892a939d28bee169cee7143880a7a",
+      "text": "The tool list sets what the agent can do. A capable model with a narrow tool set is a narrow agent: it will route everything through whatever it has, which is why agents lean so heavily on Bash — a shell is one tool that reaches most of the system. To give an agent a capability cleanly, add a tool for it;",
+      "hash": "6fa856ad47eb0e51de1a8c6ffba2a41bd7f2a638a9e42f92386e4d8ac9abcb3b"
+    },
+    {
+      "id": "eb207e8b5c24b619e6bd2fa71fba99c80baaebd281d4022d45dd4a5932832c81",
+      "text": "MCP",
+      "hash": "53f13ae99ed53bd346eb8e1c8cefb7ef8260683b50401caf101360967ea052aa"
+    },
+    {
+      "id": "8162bbc1c7a46754ca7c103e12f57c53d36d8bd1d4aea7af7cc44db67e59d8b7",
+      "text": "is the standard for plugging in tools from outside the harness.",
+      "hash": "fd95e227ffa227dcc2830698f7aeb8c65cbd1d5da825c7d2da30bf515860442c"
+    },
+    {
+      "id": "bc7d701c70ed4833948764651e5b32ce8d1122a34510926f93f695afda6cacbe",
+      "text": "Tool definitions occupy",
+      "hash": "7d82ecd2d02183e4946bdfebeec43f6b51d0e88e6fe931049709e3f10e530911"
+    },
+    {
+      "id": "f19b29a6f2f296ac0b3d9c66a93fe83e140fb186ea23fb525a12dd928cf9600f",
+      "text": "on every request, so a large tool set has a standing cost before any tool is called — and many similarly-described tools make the model worse at picking the right one.",
+      "hash": "23433da03635758c2b98b167c3d1afeed7b7d9ffe151ad3441e644af0f51df91"
+    },
+    {
+      "id": "c83db7b0814f1f73da42bf439ddde8a68f5e7f052c5614fab740d338f3afab62",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "389e1092d6a165702bd69612665ee1a794c4f48dddc90ad835108781ebcc70b2",
+      "text": "\"Can the agent query staging directly?\"",
+      "hash": "42227d2a65f6e8590925a70ae60040dd1388eadbf169c4386e1249d516e20043"
+    },
+    {
+      "id": "e940458009532bc1b9e95f1e5b92210bbe650218547357d746ddfd66f7d8632c",
+      "text": "\"Add a",
+      "hash": "40279d7396bc589630a7d289f558d32e695b5ed6a29493db33e84a771af93b0c"
+    },
+    {
+      "id": "aa85f9219dc2c9e6ac525bfee91dfd5ac2487a06281bf1cb23dd57163a7b3a4e",
+      "text": "tool to the harness, scoped read-only on staging. Without a tool for it, the agent's blind to anything outside the filesystem.\"",
+      "hash": "8ce96921bc6f04d46cc73b1294fdc1975e56629b138b49e523fa9a51e90dcede"
+    },
+    {
+      "id": "2ede6d851011272a7c4800add447cdb4b2a6bd8ec2df2951b5c421ef950a3f80",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "347871ee2bc049258cdaca6377aaceb0bbfeac33f60961e1d9df042a1e4c86d2",
+      "text": "Filesystem",
+      "hash": "8230c68a6158c8ba8c1b7d5b8e0557be9564e129e15806f60dc2205a9ca5bfe7"
+    },
+    {
+      "id": "32c465be07fb5af3a12fbf4712216245bf36c1d1099b8fbe1668f398ea5a3f40",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "f41329f97a141ba39c2115255ab30f86e13e8ec5f4acb9aff751e16da77c19a7",
+      "text": "Tool call",
+      "hash": "17011048725fe0aa705c845f084d0cceafa8c81f7f439bd83a6600d1f516e009"
+    },
+    {
+      "id": "ff9f0535e496365ae83ee48881eda19971b291cf9cb80ba1819362dc6a2f26c6",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "76a35db9ca2708849d50c4785dcd478e8e7aacdfd6adc38cd463fc257105ee68",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "fdd5a174048158c8bb3cef58bdeb2e6951534633eed6449e5e582ff652c8b503",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "058045e8d3cb1193bcfe83354d2f417b924b1892218926703418bd1f95ae274a",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "a8a5888d7a6c29d8011199226cc3ddf03e8c9b883742c231f270a65afce0f9a4",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "7f9c9fb028e131e6e933c7125f141632152023ba280efbc87cf77a1fa4104dfb",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "81d91b5e30884374152eabcd55d3f419d8dc72b60245f6a0b75d5b9ef0b09637",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "bed09c8d2013eb75a12a31a87437329c8bbae55037fc4cdc51ef6dfe95946b0f",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "3c6a0a96b097abf12af8ad3133b9a2b1183b5f37059b801131762af305909309",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "befa83706fcce3a8eaab7056d5d0550351fe9ae8d690a2206bf3c206f8e6e255",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "17419da85b156dbd3f530e544b3888b8036b573a87bbab84e77c328189087122",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "813ce3c9de28230e4985b2c72eb6273e3bd08f5fd2ab509857d5393ee920e28e",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "ee7411665fa6d6f4b961690e5dcaf514c5b14a26d3c02d591871b5be4fd464c3",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "dcd4dcaa298a73d4ce7829822d7a4029db73d927c2c0f27cc81ff223df0d0e52",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "85dceb6d17dc75044e157aef18caba5ccb3ec848f3a1125d273c256e40dfda62",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "1073d44f4b6726c0158198a191e2eb7d95d81df6364f3deb6d52c86e3df6c333",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8a4effea31158ce2a4354ba1c467ec0dab27cd93c9501f019f062c1e3132c87d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "694921b09583959c27b65dae9ce94f866d2a1318c6282246068f80bbcedb4eb2",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "7d4177680bb9a7273c88a10e52b08ba948748ce66123eff2e61f4888a4cdcf3a",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "52bdd0bd07e3152fb48c356acfee2981817a859b45a4ce3708680b3dc9ac8950",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "2078485f98d526e8d78b2f7c8c68c1a0ad7f310fce57e95faaf8e34e614d7287",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "1e2b781b5671573361b2f929ea598d950f2ee3db333b0a8446c8f836b4ee84fa",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "8929ebaa522548fc870d6a588ce231b76285d10d03f95054bdbf2c702581405d",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "2041101d8da057b428700e6a965a07f6e26440b9c593cd776b334f34158777d6",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "07dc8208eb12912e808b9ae023bde44057f5357ac85abdc1b75558132399de0d",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "ba7b5cd6d8b9d5325ee0338864042aaef24130ac253e860e8b3942e68ee5a41e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"pi10ua756q4x7u\"",
+  "lastModified": null
+}

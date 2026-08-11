@@ -1,0 +1,1163 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-wayfinder",
+  "pathname": "/skills-wayfinder",
+  "fetchedAt": "2026-08-11T06:28:05.338Z",
+  "title": "The /wayfinder Skill",
+  "contentHash": "779fac653f619dc00c47613e0e70f3f8521492c46859f0fa2a56baa852545c23",
+  "textHash": "cb83f7b40565481a17c2d22b26ede7fb871bcf5899eb58cce506cb11667fa4cb",
+  "strings": [
+    {
+      "id": "bb6f58b34d8b337c8d022c9f54164d2ef05900eb3b4ed08078dd24a92dda7e34",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "ceb8c6681b58347a029944df0d3cbd870072ebbf3b125c1dc477940891f15e15",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "8f36fcca59083364bd4cd365ed8282a9cced031d185ff9e9c8ea77ddbb5be02e",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "e1dd6277729ebc742e3ecea6deeda7b4f6a47f8553efd4391e5ec29ec9c40bc2",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "bc37a2b1c4b9b6d5caff07ac0c5f3dedd43edea8428dcf29bdf12cf2c5f2e7f2",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "42d4429414ae1895dbb2f05e8b2791a33e03885368259721072b81bd15d6692a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "20e3da853fe0f1b8bb77a1f68b1a84c60d70a31a78b31506773d07604eba41a7",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "03ec4b81b7ea3cdddeae17e079d9992dbdf3883e01a78e583d73781701f3f44a",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "8b07674d266e29b6b6a994ed276b3a7ce861f8d63b6778a712b9acb4853001a4",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "663c91fca6b93c6247b9e41094d5e6416a0db235d03caca8313912784ae0e066",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "010fcdf16dec07230843b8106504410b84b130e2514c205b3740c4f61c125acb",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "84de2cafeddf97244b1647f9e604768a41111a4f85ad73287c52157bb8de82b2",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "bb837eb6e0ae81919023b4e2eda34f5e7e0ec9e1787b897a5752e31e2e5405f9",
+      "text": "The /wayfinder Skill",
+      "hash": "ad5c81cc0127099d818f2a0d357323e62abb1458a56b2b704db6d50303313c48"
+    },
+    {
+      "id": "32bb4db3eb4b3df9a8715b595f0e9916b4cf413600906bcc245f7da9779bec48",
+      "text": "The /prototype Skill",
+      "hash": "0704c2a7f3f21081c77a25eda1e8be09a3e7cf6c6bcd5111b05f143302886d01"
+    },
+    {
+      "id": "046008a8f768d063a54a041a2cfcb81089ea87299539bbb9610d7b6c6e0c556d",
+      "text": "The /research Skill",
+      "hash": "d44fca1fd1a3bf52e4677b6e3793c990ea7f8b12508f0fe03d7bc328c60ad562"
+    },
+    {
+      "id": "9ee3cd97bfbe561a8de34d4a76a502cc037d114aa32953938e71eb65591eb9ad",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "b038dadf08281be0fa691b31eee87220dfb3f4e3ac3fd6cc6a69b3e1acb34bf1",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "d927ff0d7f051bf064cc5815832752e5377eeadcc9cbeee0c30aff8b05c74139",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "2e1cd7eff30ab7b182201171ebf61d055ed6c4a9bc845c7a36d44b14db06657b",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "7b9f3748cf22cc4c01d9869ac446b1b2e4b8a4794d21a63b5a1cc7b6d4222b4a",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "015dc1c8f936328a8228f9a0ce472762ab3ded2eb2a48e1d2ba4d83483e822a3",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "024c9c4a9e4c59e0800b2f3494eba880318ffed7b39df9aed38c12fa91711dcd",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e2b053fd31be2c27f730733a7fae8395a7c9a6aa0d5358dbbaede413fe9dc4b7",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "7ed7e4be46a8215041b179aeb3c5db8a2b6e33bf0835cd65d8e43d3dd0f9c527",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "7e6ef8ae2382f00fe9d68517c2689894bf3ed40141568de0511107d04390a7fd",
+      "text": "08 / 25",
+      "hash": "9e18c72df566a58d35a8422c4b520bacbfb0b05b3e7b0c8ac233a43b8eaf3c93"
+    },
+    {
+      "id": "1b43208aa46859bca4f18bc6f98beb897fb12629a44ca6d092a7c984c913669a",
+      "text": "AI Skills for Real Engineers · 12 min read",
+      "hash": "2ee7c16698ec92abea946a8ad6cc6ce7800cc4a9dcb0062d30e288db068050b9"
+    },
+    {
+      "id": "69f61f7891d1c8f73ca9856892596dcaed3566bfb88d04a14f042c4863cecf11",
+      "text": "Chart a large effort as a map of decisions, and settle them.",
+      "hash": "9b26c847f92a26cc850b923ad33198bed591f0d2303cc2aa584c46f35b0b2b73"
+    },
+    {
+      "id": "a3469c7d1b4de50cab6f504cb35aec1bafc0112b4d36bf57e15c27a81e82f3de",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "f070961a14fa63662937bb8d140db68c46094a66e6523b330e7f55830fdec765",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "b611ac8201d37ed0c4cef86d02f5d151b514fcd810cf29c4ddf4f6d3a9925db7",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "d9bad2696b68cf36ffbf255153cc6f24b74de8ddc09bdfc0727a8f7c585c94ae",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "16fde41c0d847a46953be9fd6b599d8ff2fa2ac32c6c8f1c8480c9ca80657fb8",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "d9017e28668308e2a044172190a891ffeb1479258b1e16f92ce36b5f88681596",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "90011f3693e4801b387b741208fe55aebe09df7ac18e43c33422ae4805381bfc",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "fb98a81001e8531a1a776cd318d80d081528b3fa30a6ec75e9580ea90a1b9f51",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "698c6e558cf167118f23c35604af50dd89652fb374fabe8f2448a85a7f1b93d7",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "e1c4096551805305205f59a61cdb806b7a2d23dd6cd30081c286d34e57e6cfff",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "a49d17103e95a46358a350666755c1ae2d887295a2a4f84bc3c8e08545971227",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "0550a287f0c9cd6cd6880c5ef45608c64b16aff7cf69d1689f80fa9f4d62d68c",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "58aa1ec2114b802f509a944ddf5d2f48a978306b476225c2b0ca60ba05e4c4f3",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "ea943da6f6533724d397eeb06a0a063fe1f14a7327e7eb02b4f418415de522ad",
+      "text": "The map, the fog, and the frontier",
+      "hash": "7f8aa5e782e9c7cb736f98632aba7718fcc7f8caad70acbe3f0e123dbdd497f6"
+    },
+    {
+      "id": "e1d610a10f35c026921ae1d1bf4e7fd6cdea7b26327795123aad9e5154fb5ec3",
+      "text": "The four decision-ticket types",
+      "hash": "1a0e99946b8564ee1b46d8767ed641058eac52d0b84fc9eebeab9d41b5f37b24"
+    },
+    {
+      "id": "34ef93c69a28a529526fcddaca9750b8162f7a74bc46e35629b141bab725756c",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "a5a247b962d471c971d450c3243cd29319acea125d5f349a039cf93446817b57",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "854e15d866dc31024f06773a5c658aa5e1465804c41fb95a14dadb40f92b9e7d",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "62a0092f1a16b4739c09d5efae44346eb02e66c90e2a0993256aa7a1fd5f1573",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "014dddbe0b461c7132b12f065933440772d31b9c0fd168eae560f79c9058bb88",
+      "text": "takes an effort too big for one agent",
+      "hash": "5c8a253d27b890ec2cfc4084c0d361d4d9fce3d70ba4da3913c9969b442511d3"
+    },
+    {
+      "id": "38964f479dc2a6f978829dd26dfdde09e86468de01e4ba297b813f7f465d66d1",
+      "text": "— an idea whose",
+      "hash": "6923e5f639b0aee00656266f87f5835ffa113ed6f6314a3fe4448e00ddc3900c"
+    },
+    {
+      "id": "b4c7fad9f0b33cb64e0bfb98e20310078abe9f373986c3695d01fc3c3d67c2b8",
+      "text": "you can name but whose route you cannot yet see — and charts it as a shared",
+      "hash": "b0c83f2a6e5490fff9fa3d35e26d17c9ad1ec07b213ab5476057eb7fe0591436"
+    },
+    {
+      "id": "a061f076aa1c8cede97898ad832bc797b0d0421591f1fb721b8f75273e536029",
+      "text": "decision tickets",
+      "hash": "74d73f9111d889f565576fbc2b5cd8c0b8a5b3521054edd4467a534c9883bd28"
+    },
+    {
+      "id": "4ecd7b2f69abd0345277b982102385fd09e3570c22b2df946adac80aef80b56f",
+      "text": "on your issue tracker, then resolves them one at a time until the way is clear.",
+      "hash": "5eab979c330ec95f8a1e0c9bf57b681848dcc94ef866191f787d3ca22ed9abe7"
+    },
+    {
+      "id": "bc1f6c45eb074cf5c508e4d29adf3d9be82a72a7f47fcefba474385a1b2cc542",
+      "text": "It plans, it does not do. Every ticket holds a question whose resolution is a decision, not a slice of a build to execute, and the map is finished when nothing is left to decide before someone goes and builds the thing. That one rule is what separates a wayfinder ticket from an ordinary implementation",
+      "hash": "4c586194cabe9e72e678a4c97f081347b7662d0fcef1259a7d5a845c7c189945"
+    },
+    {
+      "id": "6b2d96ed457fe2f452dff655f9cab41d0ae43d1e4d870e7c21662b73bc7b95a3",
+      "text": ", and it is the rule agents break most often. When the map clears, wayfinder hands off; it does not carry on into code.",
+      "hash": "9b27601f57874d63184de22f57f6a9554a95ff54d16849fd691f796cc2651f5a"
+    },
+    {
+      "id": "aedd9b768ee9d73ed89b0a3199ed7a20c104ef126ebbe106286ad4b1024fef38",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "3cd793c9ae4d1321b2fec8d57b66f847bb7a753597c3c7b3a6d9e38194d228c0",
+      "text": "— the",
+      "hash": "4b4c2edaae377e0f86cfdaebcd2d63a27f6438259b3bb97065b79332660fe2d1"
+    },
+    {
+      "id": "a1403c2995634ca1375d0043c7515a10d8e6e0824e067937b62cc660c5b1f24a",
+      "text": "won't reach for it on its own.",
+      "hash": "4df2e2b70e321619d23c1e07895e6e8a647d4c0c4882d1fc2cb660ec45febb43"
+    },
+    {
+      "id": "2abc642b29682f38014b4b1e87114d66ea45657427cc6eaf309bd33b46baea42",
+      "text": "It is the heaviest, densest flow in the set, so the trigger is narrow: the effort has to be genuinely larger than one agent session can hold, and the route to the destination has to be foggy. The split is a clean one:",
+      "hash": "51658f968ee838c76356a386d70f7e55bc0a605a65d8d1d192a2b30c8c7d6328"
+    },
+    {
+      "id": "cb8a1a6c8d357de52a2b6717b1297568993d677e47ef45962001b85c3fbaaf9a",
+      "text": "for single-session planning,",
+      "hash": "8a42bfb6c4a5fcae023da18bc870e469c4847989f42a10f26af31bc58771ae61"
+    },
+    {
+      "id": "8ef94470227ac450ca23a33bcef4f6e61b96bb611b6ae73dff077af377d93950",
+      "text": "for multi-session planning.",
+      "hash": "9732e9eca95d12a3830faa3f93fc018b7a25c632f04b74c05b668833bf36a7d8"
+    },
+    {
+      "id": "49a96c04de037a2a4acb7bcfceac15458d03086e998e0f01f3c843579bab11b5",
+      "text": "What you have in front of you",
+      "hash": "45090cc0dde91023c4ea76a9c36cc5fab328590333108ef77257df6c3ad754a5"
+    },
+    {
+      "id": "18dd25a6f20df36e6d520535498446a2ce2a9e80b9e423d18cceaebec94b67e6",
+      "text": "What to run",
+      "hash": "5256318973c4788880bc6b9ffd7e53c52b3c546b2ad03b74efadf89676a904fa"
+    },
+    {
+      "id": "655879b175609fb614f6c3fe0e5295c2ee79d0fac1233b2de9f9851887e1cfea",
+      "text": "A well-scoped feature you can settle in one sitting",
+      "hash": "133d8109d74a3e43ee3f6a3774c79482964c6d447c94f7fe02a98a91a49c8304"
+    },
+    {
+      "id": "6e118b4979a7b752dd9de74877f5e74f2908001b0dfddd8cef2174b972fbd8a5",
+      "text": ", or",
+      "hash": "3d30020b1863441a64e786bdc72745e998a1e3abd32100e1b043bfa7a01b9095"
+    },
+    {
+      "id": "2727e9333ef880be033108414978d754f5c9f8e3e8611eef0d21a1ea5c9a2781",
+      "text": "when there is a codebase",
+      "hash": "0a62e4a97b6f23105e8c11694ab8b514f1b223d652802e5f05b610f0c32e9028"
+    },
+    {
+      "id": "98cdd2fb497a9f99e0a47f30bbfa66f831798bd78efd90c71e51484292db32b7",
+      "text": "A greenfield project, or a build spanning many sessions, with the route still unclear",
+      "hash": "cf677be909158dbeeed5705010c474ec8a942c24fb33a922f7521367a012bac8"
+    },
+    {
+      "id": "d9beea736406232be011dd2e99c31893d29c1ca62443b297c08c294462672b6a",
+      "text": "A thread where the deciding is already done",
+      "hash": "d0ab9c98a7cbce69f57339a375daa0305929bd884da9b587e9ff0fda0b3864c0"
+    },
+    {
+      "id": "fe5c6e6b2c86ac5c76618daa40695488727790cd07be2ef08a69842b7bd66f95",
+      "text": "— skip straight past the map",
+      "hash": "9cc03ff837d2b33d53d85141a46b22efaeb4129fce93359a1742bea3269deb99"
+    },
+    {
+      "id": "4a8ee6a3a7a4fa2cf61da610804cd729fc8f97e939e31c9abf7c2f75135a894d",
+      "text": "A cleared wayfinder map",
+      "hash": "193e0a26c1d5841d33d52e715b790f0d6be960fdd7cf202fa43ed8b359f580ef"
+    },
+    {
+      "id": "8c343daf2b16868995ccb78ca0e07eed3b05497f70d8ae01892ac20046f45b36",
+      "text": ", then",
+      "hash": "aae687415b64628689a47f7a9d38150eb22a0a82d1e615ef8ede3a603a1d0b4b"
+    },
+    {
+      "id": "709b925341f2a869b8d16a187a99a0f2c0bcc07a07eb8c3a209cbadaa41ec1e5",
+      "text": "An existing session that has already grown too big",
+      "hash": "dc2297eb6a40893779fdaef42f72b68e793bf776c5800d59e992c0467b59a3ff"
+    },
+    {
+      "id": "aef7b1c75ad8f0124b8ddd7232097d51d1831b786f6e91470e318d3a760df031",
+      "text": "say \"hand off to",
+      "hash": "fcf9f53095e33c122684c22883749e8450b3ebf4de8d5502fd1f1cdbd1a06350"
+    },
+    {
+      "id": "3c7ef9be120f7ed5715b03b624ed37e45f4392ec374537e48ca9bb95db5dd1f4",
+      "text": "\" —",
+      "hash": "a991e386742266daebf6a6aef3fc7818ea21f2af419d16f84570086510ce49ed"
+    },
+    {
+      "id": "02ebb1bb4834bee991fae76a943bc3d1106390d6da5d3ed7495272de70d499a8",
+      "text": "bridges into a map as well as out of one",
+      "hash": "1974e7d8379840ed7da19233d54ac8d5871b86cd6cac9b73f802b4ce55d183b8"
+    },
+    {
+      "id": "4ca9a56c3bd11b57812467fdb868f3a673632614c65f25ff3b7b86101c8a55d9",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "552a77f4890ae498330f1f0d77825e48fa7c41a4f2a43864ab41e6ea2a2c7546",
+      "text": "Greenfield is not a requirement. Wayfinder is used routinely on legacy and half-built codebases, and it is arguably sharper there, because a lot of the fog is \"what is already true here\" rather than \"what should we do\".",
+      "hash": "ecf859af3b2d65e0a7e6b8bfd18ad43ec18da8e1437f28ffac4ee41f5640db03"
+    },
+    {
+      "id": "f6bf1c0819a4f3a0323132ffaf2cf93e074714c098855eeb61ea4fdf2acf2630",
+      "text": "The map and its tickets live on the repo's issue tracker, so wayfinder needs the tracker wiring that",
+      "hash": "78b456071904723ad3e9a74371ec614e322c3c3c515a7704d7e57c63fdba9f59"
+    },
+    {
+      "id": "1e4aa124982602eea66acd71cbbc38e7c0e4cf6d0f1d98943443ede9df15d256",
+      "text": "lays down. That step writes a \"Wayfinding operations\" section describing how the map, its child tickets, blocking edges, and frontier queries are expressed for GitHub, GitLab, or local markdown. Wayfinder resolves that doc through the pointer in your",
+      "hash": "5288e3c637264fc1edf5ca1070d614fc8d75494dac56c87a27eb589e92605291"
+    },
+    {
+      "id": "35661257876699b8888d23377ab98961e09f6eec67156dbe405db48f89e02236",
+      "text": "rather than a fixed path; with no tracker configured at all it falls back to local markdown files.",
+      "hash": "b69eaebc970765f5ce4bed1c3f8b989133bb1fba7454d8410308b2c9f7b48c1f"
+    },
+    {
+      "id": "186478ab454ee7d74b15c452d84c0975a4e74621cbb8f85d2715583fc4d35c9a",
+      "text": "The tracker is not decoration. Blocking is what renders the frontier visually in the tracker's own UI, and a tracker without native dependency links — a self-hosted Gitea, say — degrades wayfinder to inferring blockers from the map text, which works but needs closer supervision.",
+      "hash": "bfd2f305e4ceb1a137d5341e85b6cbc111a556bfa2744c49b2acdfe32850341e"
+    },
+    {
+      "id": "abfada3790ec8a9ab5b0ee2aca75ba995a3945a272d41fc9dc8dd5738f74c5cd",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "fda6cf858dd0f98a3585c311657d2abac70c62089e6a4dde7b199818545302dc",
+      "text": "is a single issue labelled",
+      "hash": "8a2126b269ff2d8f21fd9ad1b98355f0fb73c055e93064823e689748d84a88e9"
+    },
+    {
+      "id": "2f480d98e5bf68cfc6d86e31a856a7a3fddcf855d2fc5b8054c5c6b5ca39ed5a",
+      "text": "; its tickets are its child issues. It is an",
+      "hash": "586c7890891301978c37c3677e85650527166e26054aae9335b4c7a1022a97e9"
+    },
+    {
+      "id": "bb23b2dc1fed781b3e716dbf226ef54b27bc7d810a959d9302a9bc529b039b81",
+      "text": "index, not a store",
+      "hash": "89aeede9ac0eba162209270935421665a9ead045943383841f59a443ae8a4b89"
+    },
+    {
+      "id": "9c01acb7744f8bffd08ad727eaff1395c590985731a357d435cf33bf1f4dbf3a",
+      "text": "— a decision lives in exactly one place, its ticket, and the map only gists it and links. A session loads the map at low resolution and zooms into individual tickets on demand, which is what lets a map keep growing without every session paying for its whole history.",
+      "hash": "390f24eb030e4d684117b3fedde4b90adb0cf572dbb1bb7210c2be7c76ac50dd"
+    },
+    {
+      "id": "d395c045bf647763efb8a79cc0df9e908be6962d3fce87a95a083de9d2dbe888",
+      "text": "Four things live on it:",
+      "hash": "a1bde314b516c8a4d7f90c9fb27489b00d7977a6a19ad11744e731c63eb612ce"
+    },
+    {
+      "id": "27499bef2694e44d587d361d915cc6eaaa8b92b4e97dc1ab6119413c1f1d7263",
+      "text": "Destination",
+      "hash": "293d404a500f5f9a149916d810ff4f4231bd5d6ecd25eb0f55a867e2095eca48"
+    },
+    {
+      "id": "d6e680db355a7aa03c195d4d309154ecca162463c3b87cf5e9fbf84882c37c0d",
+      "text": "— what reaching the end of this map looks like. Naming it is the first act of charting, before any ticket exists, because the destination fixes the scope every ticket is measured against.",
+      "hash": "33a36bdc364eecb6198991a958c3f8be7b676b56802e2a4d2bddb3fe5c60149d"
+    },
+    {
+      "id": "17384626b8bd9e1ce080bca5cb59f5449118aee6a8cb6e93ccc7b0be2ef01f38",
+      "text": "Decisions so far",
+      "hash": "e74394d8c43724347042fea6a44383041afa1e7910bea763202e6f4883f3cfb4"
+    },
+    {
+      "id": "75cb0abe6299bd31a667534fc2b3fa68c3ac060f8b65da6c9e0c36e38e111939",
+      "text": "— one line per closed ticket, each linking to where the detail actually lives.",
+      "hash": "5d9b6a4f83f1ef669a44d1a5e26623a5300b7030fa47374f84ad500950316ac1"
+    },
+    {
+      "id": "d1a90b7f880abe63837d8870a35845c05fb07f17601d3e1ae94179b2d7ccb278",
+      "text": "Not yet specified",
+      "hash": "5f5cebd1d1fe820ffababd5f3e18663d6a6138256a91ef5fa9f49767cc58fb8a"
+    },
+    {
+      "id": "d8ac0b64b5e49a5c6fc299871871721287aba20a39ab419b8de33b09d094e9c8",
+      "text": "fog of war",
+      "hash": "a69c35194f26a11c310cf11cd18a4c3e2a4a9446f561d82bfd58202761990b8f"
+    },
+    {
+      "id": "cbbd3a7d53e40ec29c604865bfacb85c8a4a61c95367560d3af7fa4f72022c4f",
+      "text": ". Decisions you can tell are coming but cannot yet phrase sharply. The test for fog versus ticket is whether you can state the question precisely",
+      "hash": "fee213835a08da6da53f0976ccab7a9d2663cab51b075031654cae14996db78f"
+    },
+    {
+      "id": "3083496954e7ba024a2176dc4573903d24ec4912fb3d582521348e912f9d61f8",
+      "text": ", not whether you can answer it. Resolving a ticket clears the fog ahead of it and graduates whatever is now specifiable into fresh tickets.",
+      "hash": "534c2f492a5c935be201106abaf283a8261c63f473e416e688579671f82dbe5b"
+    },
+    {
+      "id": "8f67081068720aa50579b8174fce38959df0acce7dd248d8abb35858515137db",
+      "text": "Out of scope",
+      "hash": "3e914d79843854262f2c85f4d00a512a7c0c3f30fa5d94ec3eb9aea47b9b4b5c"
+    },
+    {
+      "id": "b192c3243a2f12ff6257bb661b1e286f72c808b01e766bbe1ce1648dedf92d57",
+      "text": "— work ruled beyond the destination. Fog only ever gathers",
+      "hash": "081d19772c65a06b371545a0f6f7c05cd6163faaa0a0ea65ed0ef31fd872636c"
+    },
+    {
+      "id": "8dcb48d503e3cca1297eaa446cc57a1a108f017cd93ead8c811c0293b644e1fe",
+      "text": "the destination, so out-of-scope work is closed and never graduates.",
+      "hash": "9eb3fc572eb71a3d3010b7246f0330fd91691a9a88bf83b4277cd373e8aae1f1"
+    },
+    {
+      "id": "5140bfb9c1378338e8fcdd047e35f890b06b168a18b3072b4830c71451641737",
+      "text": "is the open, unblocked, unclaimed tickets — the edge of the known. A session claims a ticket by assigning it to itself before doing any work, so the assignee",
+      "hash": "cfbfd2830b79a9130849ec4b7d589b787069618023c38b8ab64894156316584c"
+    },
+    {
+      "id": "e73f2b63ecc086aabe4cf347905c01d6cc5513e6c8994d7bed62195fd29ab181",
+      "text": "the claim and concurrent sessions skip it. Tickets are referred to by name throughout, never by a bare",
+      "hash": "cbdc7d2a1d0c09408d89503d7b7db31965410eed7b50059b7a160de3e2b15b7e"
+    },
+    {
+      "id": "33c9c1c298e924253f22272e1176393cc2c5d3526da569a8c2e6011a5dafaf2e",
+      "text": "; a wall of issue numbers is illegible in narration.",
+      "hash": "a5afdc2b7ce7ab42a31a070e4ab9122056b6f042250ddbb5cfc1a847fdf4bf2a"
+    },
+    {
+      "id": "df8d8119a81424bd4010401d433f9a900b8b285b77e5539ce6528fd0af425c85",
+      "text": "Every ticket carries a",
+      "hash": "96f55d59b7e5428c7b75ff4b26bdc060c309288df988406c7f0a63b9e8faa5a4"
+    },
+    {
+      "id": "2c05d6c864c4ae3aa1628ce12113103459c3c4a29e10ac9d02962957627b6403",
+      "text": "label, and is either",
+      "hash": "e99e9e616ff8fe968bfe2132ee3536b926d005ffed6784b391d20f5f57d90eb9"
+    },
+    {
+      "id": "7137ff7d71704e434337d729cd29ffa656b2407780ebf5d77833a6dffd279d83",
+      "text": "HITL",
+      "hash": "2f4f6562fa1ad480f0aa55825218f4724f32f4893f1d9880e8c7addb36e328a8"
+    },
+    {
+      "id": "e4dec9e14ef35e70ff04377ca8d21ffb93f8440896cfd127e711d66dfea04cd3",
+      "text": "— worked with a human who speaks for themselves — or",
+      "hash": "f36ee224e061b283465989268a9e3cef772a8f29138d746b744a296dbedea705"
+    },
+    {
+      "id": "1d8f6a811ece70ac3764cb77d1e3b6ed74c4e3a13aa5cee6760f6a94f18c7d8c",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "bc8fe5f22c80b8e2f5175635722dbe69df42815d530b7506ae84986704ca5ac6",
+      "text": ", driven by the agent alone. A",
+      "hash": "e857deeef13d1200668c838135427468005b8ba7b89f0c79e6f978ceecc9cf2d"
+    },
+    {
+      "id": "f8a5ff759e1165054302ae5bb400e6500a671ffaf2f53f520e922b42dc7d51cf",
+      "text": "ticket only resolves through the live exchange; an agent that answers its own",
+      "hash": "7096fceb766f60b04d00fd602a83a87c336dc084d597b200f7e3ddfc44a8d64f"
+    },
+    {
+      "id": "2f33219e21c004b0bc5f95ca4c41e3617848018a97abc6bc8740b3b1f338d43d",
+      "text": "questions has broken it.",
+      "hash": "2902426122e7aefefa22eb1b9415f4d4b5fb6486d76a4ffa48ca24d7c4b992ad"
+    },
+    {
+      "id": "1c83c73a900c3aa01f8c9c83cc4ae9dc76a42b85ed932c63784879936bd8b989",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "ea074d11002676513d7f5feeb477b719d01e0d1027c49f98d37bca93e25092bb",
+      "text": "Mode",
+      "hash": "5e23ec6a300dc60a79641769017e16e9bf042cbd8fd0a54586a048ab9da972ff"
+    },
+    {
+      "id": "0397f2529f7098e023deef8d2758075065237600f8210d741a9c4abcb03c3bd0",
+      "text": "Reach for it when",
+      "hash": "dfd95cfd46f82e8dc373ce071ad038c7ad4cd806d22c6246901849ace6a3a15e"
+    },
+    {
+      "id": "7bdebf41b916244c59650ed06a0972d07243291468ac514a8243fa53884de8ef",
+      "text": "Resolved by",
+      "hash": "f266c7ec4bafc371950c35d04f7a8b2228d55b07183b864d80e175b210edf4cc"
+    },
+    {
+      "id": "a1eb37d0fcc4f053cccdf316b371cb25f47ddc853d1989dfb557d6af7e8d23a4",
+      "text": "The default. The question can be settled by talking it through.",
+      "hash": "86faceaa72278a432f9db80b74af7328c28fe9028239ba723bab235a3edcca66"
+    },
+    {
+      "id": "8c51167ecaa4f2761dda04d56f1515474995ef3d2e37b046d3fbac00b2c54eab",
+      "text": ", in a fresh session",
+      "hash": "3c8b12fc18738be7698bd43722b4614239f36e97ee647e195a8058073f049e01"
+    },
+    {
+      "id": "b1b4a95fd538b72201f01a745c315072faa2ec71fef2d7f6e78bd465eb673c6e",
+      "text": "\"How should this look\" or \"how should this behave\" — a question talking cannot settle.",
+      "hash": "2ebe58d5b94092099d4832dfe80d37833038a018103432bfce850a458d8f6248"
+    },
+    {
+      "id": "e88a6dd4538c8f22363b9a68e5b389f80b30edb3d8f2f394cde6ae6bd77365d7",
+      "text": ", with the built artifact linked from the ticket as an asset",
+      "hash": "87b567f7c82e12c05b077c4771a5b72ea8d4bd76794c6a5fb98ee3029b8d2ecb"
+    },
+    {
+      "id": "fa1a2a3ab4805908ebedf2e0c588d5fab1707f6d6948cfef3c3e1bcbba682185",
+      "text": "A fact outside the working directory is blocking a decision.",
+      "hash": "02d935e896484fb8ffee2ac6050a521444453fe99770a03f570b99da9c811596"
+    },
+    {
+      "id": "3932919f20b1d99d97362c68e8acf5cd27251185e6e961eed6b7009e4e892835",
+      "text": ", fired at charting time and burned down in parallel on a",
+      "hash": "9d15ef70c288c08a905167f1291703d8057e9e23f310e34299045ef459536afd"
+    },
+    {
+      "id": "6bda1562385c42001b6ce501f1ab4cd043665b2c5462231646ad26a9d20614bd",
+      "text": "Either",
+      "hash": "b5969c3eba8a6e9dd2530d877b20ff01e22927346aaf6810673b1658ecf2cd83"
+    },
+    {
+      "id": "10e74956d7c2f1650d4ca9868452429c933a522e9d607aad2b03abd7583cdffc",
+      "text": "Nothing to decide, but manual work blocks a decision — provisioning access, signing up for a service, moving data so its shape can be seen.",
+      "hash": "93974d396c811cfbb1f3d83bf610790d9835293b623b48b635ad5cc5a3fcb5da"
+    },
+    {
+      "id": "1203ff57c43dc31bb379f617eee2b36df9e8487565c93783e8cbeb6459ed5e8d",
+      "text": "The agent alone where it can, otherwise a precise checklist for the human",
+      "hash": "506822a8d719b7a34588c5187eefbc017a2bea385a5ccd6640c1b722f081b9b4"
+    },
+    {
+      "id": "46c99a07dbe9d1a9978cb27cd1c050915f09aa821edd75dca011d172c3f1d395",
+      "text": "is the only type that",
+      "hash": "ea0eca28a205772cc0c0dfaf3c6f25fd08f3025d61a30baf4ec1a159d26ad10f"
+    },
+    {
+      "id": "58a265625d688c703e2fc32df549722db44e315e25b73252108954f391454845",
+      "text": "rather than decides, and it earns its place by unblocking a decision — never by delivering a piece of the destination. This is the type that goes wrong most often in practice: agents interpret it as an implementation step and start writing product code inside the map.",
+      "hash": "a8ba634ee5436a35477030ab3865ccd629cbd0614bf7dc7d8bea43506e975042"
+    },
+    {
+      "id": "1a05c4bfa58395cc8593e0a9f38d8e5ceae4779ae7c67ded06b738aebb24b73b",
+      "text": "Research is the only exception to",
+      "hash": "1e601499ebe2d3aff85bb16a83c6cb50f705c71b0232d61bc867d849a4330f7e"
+    },
+    {
+      "id": "f823595d1705a6a8dbc55e841d2ec7919e60a9999c77f32af658ab879631a3bb",
+      "text": "one ticket per session",
+      "hash": "7cf88c478b2ede1452c4c5c07dcb849801b86e65ef432980b48dee1b4aec7228"
+    },
+    {
+      "id": "e078d6ac7fe421732d81d8fcefd0f9d6e8f1b45a35cc0a13573b840e58f2c8c1",
+      "text": "How is this different from",
+      "hash": "3ed8af41383905ef9b243e63f1463f9db81138a3cfed74320028eb1219e73868"
+    },
+    {
+      "id": "b3359cad25e65ad67836a725d0ce676d389d3262c4c9194c80c501e08407ace1",
+      "text": "? Which should I start with?",
+      "hash": "983b0ee54789849da3175e662853d9ce8eb4db408b4049939cb689282dfb09b7"
+    },
+    {
+      "id": "e19f9d382ce692e5ece3e6477139e58591890ef836d313301669483209e30b2e",
+      "text": "Session count, not project size.",
+      "hash": "23a1f0efa6a9b470830244fe05fc3aca8de87ff4dac5c4257acb9bb9362018c9"
+    },
+    {
+      "id": "2ac5d63113dcee3f6c14782fcd538c7271efdac296f29f3e03f36bc0ba8988d3",
+      "text": "is single-session planning; wayfinder is multi-session planning. If you can hold the whole thing in one conversation,",
+      "hash": "565ab71c2f0de8f667b6d8b1523e94359e91e119ec12272f3daa855548aa785d"
+    },
+    {
+      "id": "116344221f9e124d1bd5c9a6fa99a5d5bd11916298f835e186c602be7f86ecee",
+      "text": "is the cheaper and better tool, and wayfinder is genuinely slower and denser for that case. The community shorthand that has settled on it: wayfinder only makes sense if the work doesn't fit into a single session. This is by a distance the most-asked wayfinder question, and it keeps being asked because the descriptions do not tell you where your own task sits on that line — you have to judge the session count yourself.",
+      "hash": "845da83509ac6795a1dd4b580f20a2de98edf078af2382adbfc561f34f8e4089"
+    },
+    {
+      "id": "720c25703bd49a3ebe59c1353864038d275c79d0821e154cc8e8a50e81c6dc5b",
+      "text": "When it asks for the \"destination\", does it mean the end of this session or the end of everything?",
+      "hash": "74a6c53f7de89fb0d92580a6a1c701b9b0561d07846c661a067fe09f54e7bff3"
+    },
+    {
+      "id": "6d87578686e0aa07e1270371454bfc0a63866dd1b7c9f40a54bd59a7beb21a45",
+      "text": "The whole map — the destination of the entire map, not just the initial session. The question reads ambiguously because wayfinder is by definition a multi-session tool, so a session-scoped answer never makes sense. Typical destinations are a",
+      "hash": "135bb38ec233b76807d5571957dba5fc0eab49b9158a9338631d3b406668fc86"
+    },
+    {
+      "id": "683f16622617dee24429e13880a84f2af1c1e2c7014eb000c7f19cafa93bf18b",
+      "text": "to hand off, a decision to lock before planning starts, a proof of concept, or a change made in place like a data migration.",
+      "hash": "bfcb8eef7cbc9b1dcc8521c85282e7c70036158789ce2c3aa40be9e21872b34e"
+    },
+    {
+      "id": "d4f6736aed6bd3b7b7bb6a36d3aafd063326214541a3bfa79b20fab7ee2ae384",
+      "text": "The map is cleared. Why do I still need",
+      "hash": "468e8fbaf2ae393588b94f7677c788a812620f6ff0781b50e88ed96838b7a2f4"
+    },
+    {
+      "id": "5d51ec5464b0c12a86ac60d1c94367317eda73d11aa50c58b6f72ac9bf830f28",
+      "text": "— didn't wayfinder already write the spec and make the tickets?",
+      "hash": "784afe3b4072328a209322d3066fba191b8d8144a9bdb8eb87e6a9af8aa2e850"
+    },
+    {
+      "id": "d25aca575c8cdadcb4fcacbc1e44e47817842d8c723137d0775c72c017fa84ef",
+      "text": "No. Wayfinder's tickets are decision tickets, and by the time the map closes they are all closed too. What is left is a map full of linked decisions, which is not a build plan.",
+      "hash": "b52e3d206f1776a61806ee91ab86555c7cf6ad4c223afed6d2fc242dab812b64"
+    },
+    {
+      "id": "62ec2b520c1c7782d898129970f4fed83a84352f75857fe2f56c0fb95afba26b",
+      "text": "collapses those linked decisions into one spec —",
+      "hash": "395a82a1de0749f3ee3d1fc726402aa7765440c37dca175c5dee63c98994e3ca"
+    },
+    {
+      "id": "db088eab9fd0a5ec90233e37b4d637353dcdf3470cb8a3dfb9c179c4ecef0137",
+      "text": "— and",
+      "hash": "beeb4b962f58d5dceed7a5f95ff1b0df73138b20776dc4a971b0a9e6eea8ea35"
+    },
+    {
+      "id": "c8178bcc66e48c90a3b432f37c58d05569feb866a5fe36e530ed951eae4e29e4",
+      "text": "slices that into tracer-bullet implementation tickets. Looping the map straight into",
+      "hash": "e069e11e0fb13fca2d07c3585c252f53b251c1480518b63fe4c53c123d72a738"
+    },
+    {
+      "id": "067e32de499db7be118cf31068bae67918d1bf412b747208fb1a9986b84782d9",
+      "text": "skips the collapse and throws the linked detail away. Go straight to implementation only when the effort turned out genuinely small. People do run the abbreviated pipeline and report it working; the two extra steps buy you an explicit spec artifact that a reviewer or a colleague can read, which matters more the less solo you are.",
+      "hash": "f8452516591129970e8c0a2aa5edb82ef7c38a6e2695a0bd1a168a999041c70f"
+    },
+    {
+      "id": "089c7443e3a88af112cf20d0bb2d0bb5b05f3355f5697d0734054da7e5cb7dda",
+      "text": "My agent started writing production code in the middle of a wayfinder session.",
+      "hash": "68cd83e5fcdfcefcf5c47276c4022f421cd9c29c66a9996118941fb360b16b65"
+    },
+    {
+      "id": "beada6b224476fa4ae903e68929e3d04a4caf6fe9f7d1ecd720132dbeac5b79e",
+      "text": "The most-reported failure with this skill, and there is a real hole behind it. Wayfinder's \"plan, don't do\" default can be overridden in the map's",
+      "hash": "4b29db959af3608db7ed6fe71659b2f5569a7fae3945dd062473456273652629"
+    },
+    {
+      "id": "f1b19d8fb9093ac92fbe69b50ef60315d65a1de22587a8344bd00963ac8576a5",
+      "text": "Notes",
+      "hash": "8a7525b1492fb84833f5c4a69b30f4bfbb134f9b666b61a2c1872d63d234c085"
+    },
+    {
+      "id": "0cea6c6b6a7c016431d0eb5c77d560f8cc8e8b7b552688d8e1dc983cadd0f9e1",
+      "text": "— but the Notes are written by the agent, so the constraint and its exemption live in the same file the constrained party owns. One user watched an agent write \"this map carries execution\" into its own Notes and then read it back in later sessions as its own licence, building on a live server. There is no hard in-skill stop for \"I meant the default.\" Until there is: read the Notes on any map you didn't chart yourself, keep implementation in its own sessions, and treat any",
+      "hash": "6d8ebc0f2fe3d281c8616f5415dad90392b2cc5fe810f9562fee2e8a2eebe774"
+    },
+    {
+      "id": "3c4ab7699b26daeda8c328f292924ef084131b1dd94bdb4c2e144c4f9c70d2a4",
+      "text": "that looks like a slice of the build as mis-typed.",
+      "hash": "35de6226f56457b7eaa584401f9e68c9b6dadc2e29309b10aa320364f1945530"
+    },
+    {
+      "id": "28b03a14d3bcbac7d11a1e14ed74fd38345e605ba856c6e9604cd09eeb0e712f",
+      "text": "I charted 27 tickets, and by the time I got to the thirteenth, the rest no longer made sense.",
+      "hash": "6727d5f5752ada672506ea08fe762f4c9540730a574a958c020df5d2963d107d"
+    },
+    {
+      "id": "2254a6e329e687b1cc7adacb69fbc19262c6c38fa199151418f119bac95dd276",
+      "text": "A real and repeatedly-reported outcome, verbatim from a field report. Wayfinder's default instinct is to plan comprehensively, and a map whose later tickets rest on assumptions the earlier ones invalidate is exactly the waterfall trap the skill is accused of. Two things push back on it. Scope the map to a bounded destination rather than to the whole product — practitioners consistently report that maps scoped to one defined epic behave better than a sprawling \"implement V1\", and planning something very big is not the goal in the first place — shipping small increments is. And",
+      "hash": "c7b02c9d08e6eb87208601b280b2cf1f84bbfd1fbfe300a41d24665cea2b42d1"
+    },
+    {
+      "id": "f222b8f1a1c5f1acb871cbfaa468fe0d35f98289700c5a2986ef321eb160170e",
+      "text": "aggressively: the whole reason the route stays current is that uncertainty is flushed out by cheap concrete artifacts before implementation depends on it. Wayfinder is \"prototypemaxxing\", not \"planmaxxing\".",
+      "hash": "4eca0724cbbd80afa205b2efe277964c80c5c35b9a90a32f7b11f3dccf488c35"
+    },
+    {
+      "id": "fa08631644231a88646f189d942dbab48fc9dd411f19c1fe551f1216c5c2a76f",
+      "text": "Can I work several tickets in parallel?",
+      "hash": "ab6e92d4984bfdac40998b108e6a3e4be0a1972abccb8cbf1d9013f9ecf5747d"
+    },
+    {
+      "id": "05ef6289e2b689e9079ea25a0850b32f2b97312510d7b1684d5e90451a06fede",
+      "text": "The frontier is built to show you what is takeable, and blocking edges are there so parallel work is safe on paper. In practice one-at-a-time is the safer default. Users working two grilling tickets at once get asked in one session a question they just answered in the other, because the sessions share no",
+      "hash": "5fd15bed3079f1bf197a0973bcfb22c81ee3e10c7b1fd5088e520f3afc262cfa"
+    },
+    {
+      "id": "f2fa57bce2f026dd6a1d45e93b433844c321dcc949089ba2d83b0f9514e6be16",
+      "text": ". There is also a known gap on prototype tickets: an agent has been reported building three UI variations, choosing one itself, and closing the ticket — the selection is yours to make, and the skill does not currently say so loudly enough. If you do run in parallel, review the dependency graph yourself first.",
+      "hash": "c2995b25c1126d1b4528723b50c2d069450a2ade1b824f6c3c6fce14ccae3a8f"
+    },
+    {
+      "id": "21842c0438f446195980527cf27630c59fb2fd35f70e432bfacfc3ee24bb7eff",
+      "text": "Do I have to use GitHub Issues?",
+      "hash": "33559d01e990bdd9e2988df9785b89e69166e036f55e581a6bb6c1b0b8ead63c"
+    },
+    {
+      "id": "84044632ee81c4d518492b17332211d5694470858c8e32142e4186635c59a30e",
+      "text": "No — any issue tracker works. GitHub is the best-supported path because its native sub-issues and blocking relationships are what make the frontier visible without opening the map; GitLab, Linear, Jira and local markdown all get used. Two honest caveats. A tracker with no native blocking means the dependency graph is inferred from text and needs manual correction. And local markdown puts the artifacts in your repo, which is not recommended: storing this material in the repo tends to lead to accidental persistence. Open-source maintainers hit the opposite problem — public trackers filling with agent-generated planning tickets — and tend to choose local markdown anyway.",
+      "hash": "badac0430b1e6ee6332ccc40dc1f7ce354a06b481d0f31266e3e9fa3b65055dc"
+    },
+    {
+      "id": "9cf476bdc0d2d44a30ab8ba325a21b200a6c474b0b9427028851b76c4fa5d900",
+      "text": "The grilling is exhausting. Every question is three paragraphs long.",
+      "hash": "915a759a2365096bbdd55bcb3fc148641d671b94eb825c8cc5a62f8018d3a9cb"
+    },
+    {
+      "id": "e9942393f3d952d880f57bb0ff81ad53ca59f9ea1bbe1d53d349f8464e0c5d3c",
+      "text": "This is the sharpest live complaint about wayfinder and it is not resolved. The decomposition one user gave: the verbosity itself causes decision exhaustion, and the length strips out",
+      "hash": "cda211f1d322137ed052f51419e09251f226dbb669ead1cc0264f2c559f88109"
+    },
+    {
+      "id": "ddd5f1b559e9ecbab3862db7d1894094d24b985a5a978bd92fe01b47870e957d",
+      "text": "a question is being asked, so you lose the chain from decision to decision as the map gets longer. The verbosity looks like a property of the current set of",
+      "hash": "3cfc4777f7d1140741d711fce608786b2c687a154c11bd0e2bfda6008b037d35"
+    },
+    {
+      "id": "5180cfa2eadf640a7adb5215acd6b5bd7caa37c500c453dbf755aee490205e1a",
+      "text": "rather than of the skill, and no fix has landed. Practitioner mitigations in circulation: run a lower",
+      "hash": "0be104abecccefa93931431dda252550feafba08355016fe280251374f7f34f3"
+    },
+    {
+      "id": "d1aadd048b660d75dc8c87987b6d10a4abdea07c375aea05ce226c94854c29e9",
+      "text": "reasoning effort",
+      "hash": "54dad770ad5c531590671d5c0e6029c726e15e9dc8d91fd14f82c06db40a6fcb"
+    },
+    {
+      "id": "6a746902b91ff0a34e32cc205784b30c087456ed5c0098ddbcd72c263cce1984",
+      "text": ", and put a plain-language instruction in your global",
+      "hash": "8a35404b62635539bec2ebd927cf143899129de81d7c61867dc911ceb8e51d69"
+    },
+    {
+      "id": "17c82dcefd6cf36b3d08197dac4c6dff321282f9a540b18a27f41359bd880d44",
+      "text": ". Expect to spend real thought here regardless — the amount of thinking wayfinder demands from you is not a defect, it is most of what it is for.",
+      "hash": "ae091aedef09f6d5afce9e2d831199be5dba16c90ba71c16ec9090b573a0a40f"
+    },
+    {
+      "id": "3aeddb562f18d2faf1c4b96c54ab3319b87b14717b5b95eb06f9d69cd1cc6d1c",
+      "text": "A decision I already closed turned out to be wrong. Do I edit the old ticket or make a new one?",
+      "hash": "3b5be7012beb3ecaf48a17068ba023a7c17219f343e7d7fabbf7b598d4f1afcb"
+    },
+    {
+      "id": "17a5a55ecfe01e94794c228a160a7b66ab02167aa496cda4d0fc2795557c7c92",
+      "text": "There is no official guidance, and the agent's instinct is unhelpful: it tends to design around the bad decision rather than challenge it, so you have to steer manually. What does work is telling wayfinder plainly what changed — it updates the map, revises the affected tickets, and comments on already-closed ones. Scope changes mid-map are recoverable. A map you",
+      "hash": "465ca392f14354bc8f090976ca646165df8d2a931120dc2773338eec7db90c0c"
+    },
+    {
+      "id": "514b9a6ead5b38a9052ff7de3db435d3ec1d916ffa289017f7a8bc61f362b60f",
+      "text": "to change is a scoping smell.",
+      "hash": "f789ada94d33c45480e602df097507d68492c8087ff4e0244cf78ce9a0f19414"
+    },
+    {
+      "id": "deba1eb7fc050ce31fe09eeedbc45c4fdac5e2e9a339f5f928bc9c32ea5f5883",
+      "text": "Where did",
+      "hash": "0cb2ce3ee597de967c6f15abd2b6cf1742a261775ebd1bad8e58977c9690b5d8"
+    },
+    {
+      "id": "01cbfeadb63350f0185acb0d8401935f8186fcb203225b8d6118d414d8ee6f54",
+      "text": "go?",
+      "hash": "a8074eba17565ade3d3787352b3e64ce5b3445d3610ca952afaff2557e593dbd"
+    },
+    {
+      "id": "7c059962bf6ed0bab40121b1b3c39d2ce69b10cda4a6d53a4a2965e4834efa32",
+      "text": "It is this skill, renamed to",
+      "hash": "b767cbb11fc9137ec6e1a1f5b2463af2c2aaaa3ad604014d63b8c158bf2dc159"
+    },
+    {
+      "id": "8ce1dc8bfd4cc7852ae05fa752147799a4156b34f068a22fba776a92fc4b37ca",
+      "text": "in v1.1 and invoked as",
+      "hash": "e94e80e3e4c1dc8f22e0e205600620e80cb4541cab40b99e51d58cfe36d1e391"
+    },
+    {
+      "id": "2ae0b32e4274bf0961ca10d174ef1364842d464656d9eabaaa0905379e6e0d87",
+      "text": ". \"Decision map\" was jargon and was also inaccurate, since only one of the four ticket types is really a decision by itself. The reframe gave the skill one coherent vocabulary — destination, fog of war, frontier, the map — instead of an invented term layered on top. The unit kept the \"decision\" word, though: a",
+      "hash": "252a575a98d60a8ea110caea3bfd51e4ba8be26bcde80da1e581062de24e8807"
+    },
+    {
+      "id": "18d11e6e8e74180859b7651f882a4a17abd1a89c0647498322c092c7e8fdf09b",
+      "text": "decision ticket",
+      "hash": "d76d8f64c026799a359ea510a31313fc6d902515690044968cded84067289766"
+    },
+    {
+      "id": "84cc50f0d44f730c1acffb57f65575605ae4dfb4af6c7d5b30b23cfa0b885c22",
+      "text": "is what a wayfinder ticket is called, precisely to stop people reading it as an implementation ticket.",
+      "hash": "bf695ec6fd636948c35ba5f19fc7c84b4bfb8a5f063848608b06840a032bdcac"
+    },
+    {
+      "id": "c5eb00a413c06bd2acceef7420c2cfd57be538bb701968ddafc5e088aac7d129",
+      "text": "The destination is written down and agreed before a single ticket exists.",
+      "hash": "0ca20cce8edc5183acdb93c2f6c3f853acf5cadd6a834fbcb980eb14aee906b2"
+    },
+    {
+      "id": "aa53adf58bbf852160264df3fb222207a57d2afe83fad19f7ae12f8893c4bf19",
+      "text": "Every open ticket reads as a question. Any ticket that reads \"build the X\" is either mis-typed or belongs downstream of the map.",
+      "hash": "23a5335807f4f5505392915a6c0b4b74c0238fc7e96dbfec9ca062c0b3916299"
+    },
+    {
+      "id": "e8e89c6f8e6ae0fc4e101c024a1289a4dce835415909c0cbf5fc8f3d9c1b18b1",
+      "text": "You can look at your tracker and see which tickets are takeable without opening the map — that is the frontier rendering itself through native blocking.",
+      "hash": "7948d2cef65cf0c34fb3e262d50e2f061bbaa72dc404b81de3ad7ee98b7b8445"
+    },
+    {
+      "id": "5f5b38388178533260b9447aa878f365778b59282adc37ea834645f2947131df",
+      "text": "A session resolves one ticket, posts the answer as a resolution comment, closes it, and leaves one line on the map's",
+      "hash": "e4b2e56dd8e0f29723e0991152be885280f5727e807a64ba4d9c6b1a34c4af7c"
+    },
+    {
+      "id": "58a175af85fb53a900e8705437d7598f3c24984e8936c7466dfad92045882741",
+      "text": ". Then it stops.",
+      "hash": "57802a34f972092fc67d6806d557416410452d781ed18d0231ea63657a7a8906"
+    },
+    {
+      "id": "a0bec66b7abdfd78d3cac62582da36aa2869b8ad01f4f17c4d6e844f69e390a9",
+      "text": "shrinks over time. A patch of fog that graduates into a ticket disappears from that section rather than living in both places.",
+      "hash": "42e0d277429ba1ec71df649b5462bcf8ab7e284955d7c808d90da84e9bcf3631"
+    },
+    {
+      "id": "293e809e4f01690cf6cb9387a078db3a25b8ccc2edd7d9aa427a85cc252e897f",
+      "text": "When the opening breadth-first grill turns up no fog at all, the skill stops and tells you the effort is small enough to skip the map.",
+      "hash": "a996cf0462657e9d0e9cd01d587c3eb7c106e8050c4338a6341e61c850303aa3"
+    },
+    {
+      "id": "d317093df080c39b423b496c8f8e4608a5211f6b35c56cff89a7ef4401ff2c73",
+      "text": "The session that finishes the map hands you toward a spec, not a pull request.",
+      "hash": "ea3a2d65c83c0ca31d08c31f66a53965e991f805141f61e96e16f77cb8b2a722"
+    },
+    {
+      "id": "53efb8acfb71a745bf05f79cd397517c117f6139561cb3a201e74c9b79289682",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "d49a5762457135fb259774173d1752081a9817c349774497e52b5d2d0cde4e28",
+      "text": "situational on-ramp",
+      "hash": "10c90810ca6b0b0610b1b346479b4fd6cb1b214f30a367740a19d9a16b8319a3"
+    },
+    {
+      "id": "22f27ca9136388d09cb54b04b80fb0121e22d59cb07ee108628a689dd15154e8",
+      "text": ", not the default front door. The grill-led idea → ship chain is still where most work starts; wayfinder is what you climb onto when the idea is too big to hold in one session, and it merges back onto that chain at",
+      "hash": "ab83d00ea4dc9f0fe249c812616bb433c271fe74b8ccbeee3d95d33a06a7de49"
+    },
+    {
+      "id": "09c23e9f4a6b439660b7d1c20c95a9137b93bf87e5ca9cd1c73d3002fadfcf1f",
+      "text": ", because a cleared map hands off rather than builds.",
+      "hash": "41b5acf1da8651a121a521eb61007092cf922e92ccc53e35793d89f09f87a560"
+    },
+    {
+      "id": "155570a68206f4c60b4cdfc46eabed1d58ee032d465b7379fdce98efb5905962",
+      "text": "Underneath, it is mostly other skills wearing wayfinder's scheduling:",
+      "hash": "dbdd0f4869d94a80ffcd0a583677abec386865b70685caf204704e8f4f596db5"
+    },
+    {
+      "id": "9dbd8d401e5dc7f4cd98f870f7e6ed6774a660f9ee6114b926e7d3eb2a956745",
+      "text": "resolve the default ticket type,",
+      "hash": "edff7692683d48639cfacc24f7f7d7da1d4cece804212812737fa9d51ae00d0d"
+    },
+    {
+      "id": "e6546cd9e97601a23bdd7a4deeda118d886df3eee7d6f50afae9e48b055a1cb5",
+      "text": "resolves the tickets that talking cannot, and",
+      "hash": "24118253c8ffc489d5d85864100f58718c3c5868523556b6e2ca0905d8b247ba"
+    },
+    {
+      "id": "c0b359b6f3cd9c902d5cdaab466234c4ade2721060545c60ef886734b016ff61",
+      "text": "runs as a",
+      "hash": "1c2addf445717650c6b123b09a71091d8fb9bb35d6ceeaa2b6392816451a2d73"
+    },
+    {
+      "id": "a2c2c7502dd8aa367edf5786fb5351fa34fd698a695e78b24affe454f780f944",
+      "text": "so its reading never lands in your session.",
+      "hash": "9c5f98aa85e69ed294a4aa602d10a0b05a9aed498f2ee3eaf0e0e429f4704153"
+    },
+    {
+      "id": "6304906f3dab7c9c3e313d3407a4ff76574d77458441e7b5374963646a1a2cd6",
+      "text": "is the bridge in and out — into a map from a conversation that outgrew itself, out of one when a side quest appears mid-session. For anything else,",
+      "hash": "bea6554e59076d40a507558747b3e7e05b17e3236787e9d499ab664fcdc85cd9"
+    },
+    {
+      "id": "5a4670b9ccba8621127c605f536c2f7be882aa7cbed0c4f5dbef8e75de84be74",
+      "text": "routes over the whole set.",
+      "hash": "94fe64dc6f96e2cc5e1787c3e932229f2cfd00dcdb253efd070d7d6da7ab0b77"
+    },
+    {
+      "id": "b828f22057046d389b34fbb22df6f4a87e82e5876e1d6519800813123e96eec6",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "7d0183d13e1a72ae3a860a1cb85050c78319198924a8a337b591fd17df9eea93",
+      "text": "A decision map tells you what to build. It does not build it.",
+      "hash": "47578359918a11d7c8ab443677641d7f4cfd35d3ad714fe992d17bfe4b22f7ff"
+    },
+    {
+      "id": "50563badf9a60c7afc3a3df5e9896b17d4e8992378b902bc500d83349dfd3b2e",
+      "text": "One command installs all 22 skills. Once the fog clears, seven free lessons order the build from settled context to one scoped run and a checked diff.",
+      "hash": "a4e02ea4ae468701f6d7ef2b7510cde114a79592be1642dc94ffb19195e4a4dc"
+    },
+    {
+      "id": "e5e454bfcf44baeaa9a0da464599307c0822818bfc847fb81a994a3b74579a42",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "fc85fa19028aca13dcbeb507e2e04dbdad7f3806fafe97cb502346872f580782",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "1b058c026e0a66a074f8cf03555a010e4ec55f9544fa99cd9c461a5b6a11eb40",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "d9882d2fc460a1af5d71a9091579a44f74630fc50db00a5856523a0bc47c003f",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "a08a8c3bda4e18fafa0e75b3a3c7044d98345b008bfe0262b4a0c304265a5cda",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "40f60790e5cb8fb7e9d639f93dda1119347be7019dcd7913a5e102d153e53c5e",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "e67d86a2e8c835cf13e450b26693071a7a89b2361ea6bf9da209f6ef08cd4283",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "141709864232e2a4b211ef43bb6838971441e5315b9940ec7bec2e220642e0ba",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "29f7db62baccd9f67a101d920cf66d629f8b10a074d2e4afed82e770f2c183f3",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "3a396ac4bf8230aa9f9b49b37205c44260d8e8e35bd611686d91d071b80be60b",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "749b39cf58e5188807225353f579e0f289a4cae75eb9b715ee23b08d0c415b61",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "5d200b59065ede957139ae21912332b82a0e9e0d9affbf43376193f81bc946a3",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "81cc2c107128886ed1a89de98c1bbfe961ac306b49283f1360ba0cc87ba97c3b",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "46b71c7f73a6173ddec0b64d9d47f51f24ea7751f47dc57dbd3522ddac25339c",
+      "text": "The /code-review Skill",
+      "hash": "828cf257382b4e1a77ee8dbdd85ef159141d8c34e4942831831d4f70f5ee84e8"
+    },
+    {
+      "id": "decb7e9f6f1f61d2cf8bc33388377d2cb36cb5f37572b4a4199a9c18b19e529a",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "798aa990307fd08f01239b1f69df029573993d1120c9401a4f93581b67cb6bcf",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "78ed0c4cd6ca1b30193c328b7c019fe41504bfd5d6d5eecd889aac5f749080ad",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "cd756f207e63a131415e8dc0ae133d14b2544cb033b475953a7d1f7d115faa5b",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "fe6503255fdb6554fe308155447dfe9a0ce5a545e70c142b6358ecc1465e65f9",
+      "text": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+      "hash": "a8132b4f77ca14f2ef5aa84bc8386bb2e8acc3ce746a8209008bcb9af5610bd8"
+    },
+    {
+      "id": "a61aae455a6c4f5f6fad8aade4bb4dcc5f4d9ce414a34d901af741a99c40625e",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "860610638d69517dc58b3603595fd7bb2f274f6e41c2d0a6a58692838dfb55e6",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "795ecc4c227f5fa76dfa41fddf703c7225ee5ddb3e683b9ae3cc357709981cd7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "5307162289a9a347bf91b3544ee8048b7ca248c30e32716798fe6c8a7ab74566",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "f3e0835cfbd9dec913ac80229732d4947ca5ce599188ab522324d2708b53ee0e",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "2c931998da6fb41fa4c86e2d3e12923736547b6031c93db7730221465fb455f2",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "bef6d88f3eab415b3183842b145781b111251e418039c931ca4dff8a64a76c2e",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "3b6332713961d8d97d2eee23fb68fc0b2d80f428d105d8c04f96075e5f4e93eb",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "e4162373dbfe11389f5734f0b0e2697e93bf1d5cc3033858944e7d9cd985f239",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8ef80e039d76fbfaf45196c0fbab4d900119fd9c012997ce2dad8099b9e9e9e0",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "2231e3115e1375aa45e38a7302cc00382bac52933201b1cfea0af1e59f991f40",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "a115ec5193f4332f7a2f97753b46517817c666be01f5c07d5e55aaf794fc3826",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "6c7439c9be3959ff8ec4d5691fb5377add9481f1ca0b7783bb92a0e32663a136",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "6cb28a8bf55f2fd74bc104f957907df6c16b6842f2c4bfcc7bcb26f5c8b46172",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "124f9ee5285d7caad264e5007eefbbc5c4c4fc29ca1e254fe92676ca9b754e29",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "2c68457c80b2a9a2d4ccebce8fdc4b7ec59062b06723d4111eb89c0bffde838f",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "1b1386cbd1aa98f046d30c9bf5d728ede8186175b3ee7ca24727bb47ee0c2ba7",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "7717f5d4a438b89fed5739f66d6b266c0b0fd316813f538e8004726c7db00f12",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "e013c46c81f68ac28e580801a0271621e6326df862e2db8167b094df11bb9252",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "f1ec57c052fe62c11891eb1e9386a54d45c31b6bad2bf1cf156a6af398f68aef",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"i3qw5nj9mm7ro9\"",
+  "lastModified": null
+}

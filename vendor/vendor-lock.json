@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "repository": "cfy2015/aihero-skills-zh",
+  "rawUrl": "https://raw.githubusercontent.com/cfy2015/aihero-skills-zh/main/aihero-skills-zh.user.js",
+  "fetchedAt": "2026-08-07T15:43:21.248Z",
+  "sourceHash": "51bd4ed432862faf244fbb2f4c2b1d0b5fbea7caf8f64fbb45d009b1e07b3337",
+  "upstreamCommit": "a44637b6d675d7e00b967b0410566b9d790b3b58",
+  "license": "MIT",
+  "translationCounts": {
+    "TEXT": 202,
+    "FRAG": 2510
+  }
+}

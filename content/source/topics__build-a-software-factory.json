@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/topics/build-a-software-factory",
+  "pathname": "/topics/build-a-software-factory",
+  "fetchedAt": "2026-08-11T06:28:43.599Z",
+  "title": "Build a Software Factory | AI Hero",
+  "contentHash": "d1f53c7622f21bf6f5fd939835bb8d0436fa60c3e02254fe47600f762c2678ce",
+  "textHash": "b97414298a84090b71377a6461ddf70bfb3fc9458d26cfb6e5b71a7dce1bc7a3",
+  "strings": [
+    {
+      "id": "3ff8e7b0872e07b4a49cfe1e3c1f139fd3ba28ba769d5b51b46532fa949e777d",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "ccf072a823409a30558a0edd2b72fbc2ed18c0fa4221fcea597ca0b9076c3a77",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "d581f44db207b1ab267e70aafc283b001ea19e6d6fd3c8603adbd3bf25a42db3",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "b24914eb39e530863a866116fba85d6d7320721d5a5cb4c016ab3bbcf3c3e1e8",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "a9c0adf4ecf84f89d39bbd51c66ad0c50f291ee98329870ad21919b4955e9e8b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "80be66657232b5f8f28f16fa248952f13aebada536eddfff61b3167630ad723c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "c1ea51f44c5c566e5695ea0cb26ea81384ed008a63ba59b80bc4e8798567c18a",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b7c7dba79cd2f80890c0391f355b86551935f536b7481f8829d783411484e09c",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "2605cf38382da9a7bc6cfd8c8982a8fd856eb21f77addf514001aa11e7af1dc5",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "f9c6b5b1621ae408b8ed3b8623c1b52e17c299bb235113f1914d134f82f1ce82",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "4ad237e295cf2ba1a6828655cd3359c7ac33d041e4e0fce47e858a7a682775cb",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "9ca015eb97abf1320ab38bf45a6cbdbc64b15d2ab10fb1190dd7ce16df052d64",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "4bd289f1f326c628b8eee8b2c5f136857cfdcebe01b6cc3d8a88776c1361d8cd",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "0da4c87cabda208d04b4527567baea4b95e6f91a9fd4d5596e4c869dfd659703",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "c8b561f7135b8cf51e991b5e4b077464d2a462deb2c7e12d52cef5f7f81a6ed7",
+      "text": "Topic",
+      "hash": "7e61847d61d65d9e3ac15c6281f7bfe0d80b8d79d3b53125e9fc2bfc25bb81e8"
+    },
+    {
+      "id": "ce76157c202242493b8ebd3e071ba8a74229b46b0852d6b3df6a83126353782d",
+      "text": "Build a Software Factory",
+      "hash": "38b3e79d1cf2487444b0ba91a5ac5e9a1e6ab6b7a0f337cada2941efe99465e6"
+    },
+    {
+      "id": "e388455231c0e35ec5652a0c1c5bc75504105efe14313610e2d33bd67ce5b867",
+      "text": "Article",
+      "hash": "29d94922512b93e8d81ffb4c721e52afd32e80d952ebe753ea2b739159219dab"
+    },
+    {
+      "id": "f99e38a08a6a1ba5abdbfd8a3a6d6fc09f737dfb95d74dbcf8b1b3300836d03e",
+      "text": "Why the Anthropic Ralph plugin sucks (use a bash loop instead)",
+      "hash": "5209a91e17bd26bc56cf7ab00f2b8f41565310781e206b9b2afc62b18f32c8ee"
+    },
+    {
+      "id": "c152c4bdd7f1b0a3cd6d317153cf61982a27ea41bd227f670c3b5573c6f96671",
+      "text": "Discover why the Anthropic Ralph plugin degrades AI performance by filling up context windows. Learn why bash loops keep Claude in the smart zone instead.",
+      "hash": "111dbd87cb51a8881b78a99e23b63c80c2f297300af2f9cac1b24e09a2e78af8"
+    },
+    {
+      "id": "ec02fdbf6142a1776f0c234454caff611995f5a300b2f7c6777bb7bef392e2ef",
+      "text": "Here's How To Stream Claude Code With AFK Ralph",
+      "hash": "13d20351103a1be931bc9a4d65e749799cfdc30f585bd3c2052c112ccc4e2095"
+    },
+    {
+      "id": "684f147855757423b0dafd87ea43c3dd3a6f83c95cbf8c099bb2316441f1fca6",
+      "text": "Stream Claude code in real-time while running AFK Ralph. Learn how to use jq to get visibility into Claude's output instead of staring at a blank screen.",
+      "hash": "9b8c23f86f492b4555da0f3a080a576cfaebd465f033ba8468195fdda0537244"
+    },
+    {
+      "id": "8e6a6c1bc211ed4e89782fa28b7d382403db24afb783bee7b12d37a69fdf2ffc",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "3e7a8c3f41549ec5fe4dfee0820dea8d7378bf1cd74478fe0e3288ae4846038b",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "4238175cc0c2095b420fd3f27988e29510cda6e7ace6f7fc240007576a45027c",
+      "text": "Learn to run AI coding agents in a loop. Set up Claude Code, create a PRD, and let the AI ship features while you're AFK. Step-by-step guide included.",
+      "hash": "0e51f29a70e066ba64658c068d41eca4417e148b7516ba57e0400542a003f82b"
+    },
+    {
+      "id": "47e36316344321dd5e2c12f2799d946084b5dee270e215c9a08bb2120fa24c99",
+      "text": "Article · 19 min read",
+      "hash": "c04cee9189899b5c05e6c2a85bc179840bd49e565bed37b8e9f787b9c0eececc"
+    },
+    {
+      "id": "5a840e24679730f76466aa6a96fc90e40a02228b3ddec3631857d6ac1797fae5",
+      "text": "11 Tips For AI Coding With Ralph Wiggum",
+      "hash": "59a78eefe41a098856366e524a8d5b33baab13286f03e8fba9106fea52bbe4ae"
+    },
+    {
+      "id": "bfcc0eac556dd29c77b42b380c4810108077dad95a1c1fa3b3c7e17c8cf79c9c",
+      "text": "Run AI coding tools in autonomous loops with Ralph Wiggum. 11 tips for AFK coding: scope, progress tracking, feedback loops, and shipping code while you sleep.",
+      "hash": "830fa9e06015ab3a2edee90359b30e28f45e93a4cf405f03a0c832594a95e3b5"
+    },
+    {
+      "id": "9d47c12ad909120256fda0dff9996ef5ad468f29d2bc5ae89e97da514ad22257",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "f649a35f29887b6aaa86c4fa54b7876ba64a6b854523c0d07f7bbc646d0d9939",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "f6b2b77981fd52708499fe1679d6096b662c8b5d2e7dfd08983fbce33d14af24",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "4cdccee3c12cebceae621906aaf950d3720d5fa40b97eec3fec07b614a62ea89",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "cfe61541f0da0ab52642186797ecc2cfed9a36f15a6e9fc63b4e3e9d81a5102d",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "453c474363fbf1b2d1bd432825c5a0ee3442eda7c07e75a486a880a0b40366b4",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "0fd4d00b728ccb2748ce0b73a9efada0165930c1874e2d2537858fe5a474c5f0",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "2818b73d7a71211d53ae69b6a4bf6eebeac6936e3c1783ded9d3946080a69aa3",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "17afe08f57cb6c5c7143419272af66856d521a6fb4bd511624449d130cfa5c47",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "d90f6b4c981bc20982ae15a53390929677050c1643b7929c74c55c7f923f3859",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "267bd257def847ab74485d68b9b498ab7a50bafb6c87c277ee34773e87a1f607",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "bd6d6f3608ce13293fcdaf2aa444297142598fe3e148145c4bb998fa8fb55a96",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "04dbc5ee7764679613d5135d1bdf63d95f03532eeb55e7df5c31e8d17d1904b6",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "881c6742568ab0809bbcf72e7dff624de804fd42d08e4a976283b499483a7e45",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "479c7a09f45a3ce2c4637d0c1d4482a132fd50fee27108c7fceb468d1899dac3",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "76bfa4769dbe68c120bd2b9145ddd8a4baad6933feaa68587d55bdd49553f5f0",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "ea45a20f688d3669a644dc9a20ea1200c37fe7c5cba4c9eb035eedaa0f532a37",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "ee4b3fc8a514b0b0a5ae20ad1d8bdd51eea3d319b51dc60c9285304c06227bee",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"69gnbxeeh141sx\"",
+  "lastModified": null
+}

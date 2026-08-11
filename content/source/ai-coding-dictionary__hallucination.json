@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/hallucination",
+  "pathname": "/ai-coding-dictionary/hallucination",
+  "fetchedAt": "2026-08-11T06:28:35.212Z",
+  "title": "Hallucination | AI Coding Dictionary",
+  "contentHash": "c40a827b4e9706c8fc9d2d6624d4a0ac556099053359302de0196b6c85d0211b",
+  "textHash": "ac90db4cba056bd067c40db212e233373ba436e78d455be4b8bf4617a824522c",
+  "strings": [
+    {
+      "id": "17ae0e71f6aedb6f6435188dfd16ce9a03e6aa3e31f6eebf68d456ba238e12df",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "a7b7af3f1dc245c66b3ea108913a42fa61e0809dd1cd89b42f7076ae548bb397",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "2b72826b840e9e53b1c74830fc2a27f84ac69a0e9c90ae47e7f19385add6d044",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "9af33e6d89727271f5f7bd9a38258b98c5785cba96b476f404e8dc3df50345d1",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "e6902ad27cd868cfd2ff20484fb803fa05ec75e72577c0e2f1725dcc75422f1d",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "51e01f6feef496fa577ee27d7d3b9fd8118b6d213384af8424afe71c99caaf2a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "cb88abb846de60756b87c722231a71872585569fbe3d07380248310ca6e3c8c8",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "9900b609afb26b97c150d35143ffce95e2b878a1b9c55c4f7a66b67fad0834d6",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "ce76645df2f5fb9356ab9261362ce91637aef412a5454ebd36836728690d596e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "f145a933e3b2d1fc994fcbfeea71ac460339aebc1d3ca76cc0fc870a49101447",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "d522219a7d6eac0988fabf5f7a4d4c88c74d1d5c2aa28623fdd5a7f573248f66",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "924dc88cca0c6fe976a0447956db3104e1f21db0136b1999f95a8f24a00adc6b",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "3998aa1d630932b3ad3bb9c0f48ac75cb7059d556409e91f63f98e6d519917ba",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "893f7b58011f2b3b0858a6b6c9f820506903dc11a6c7a335dc35a3198f85b403",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "ad255add4657211ee518bbae9abcfd74381dd9f14644b64cb3c1149809a2cc7a",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "e48fa2db65bb9de338c6f105784a380644918e7aa4179272b81328fc0bc367d1",
+      "text": "Hallucination",
+      "hash": "08cbd764e551fe9d33c8868ce7edae2ddad683fa405222f643580b0fd2a25e5a"
+    },
+    {
+      "id": "4e210c0a0a3aae3d5c1f416a6be31baa435b8e42104c12eadf78279af5090f5d",
+      "text": "Confidently-wrong model output. Two flavors: factuality (invented facts) and faithfulness (drift from loaded context).",
+      "hash": "472a81b7040b99af5f7eb0392164f37405b59b6dffefb64e04a027771618f720"
+    },
+    {
+      "id": "cfc4ef6a32dcfa91dbec27b9798d198fb39d8360f6c06537bf757df9d4cdb891",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "8d01ea6c9e3aac7a9baff35ad4e47571fcdd1419c11523ac2cd32c4929bc2e2e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "c831d9bafadcbbfe27798c6425f9c39a78bf12b0af71d6d10ea5a7306b5c1a66",
+      "text": "Confidently-wrong",
+      "hash": "2612ba5beb04afb2aede15279f42e965025cc038c94e822d1d28ccf9917ca94c"
+    },
+    {
+      "id": "1f83cd82f9ce488a1efecd6616855c114f3e38c4b3b587f1790823284495fa53",
+      "text": "output. Two flavors with different causes and fixes:",
+      "hash": "1ed77ef64226e6bddb07b77ffe39d673a0f23d2cc2f2cab9c43c0e26c2b67dba"
+    },
+    {
+      "id": "9c521171590b7aa335a5b7829d852b010d1076af81615230d2ddc66d9bdf7440",
+      "text": "Flavor",
+      "hash": "f6cbe06235773705b1aa8e2e96d447012f78cfa11c41ac46ccad947a59854795"
+    },
+    {
+      "id": "5b72afc20b4790bed2ace1fab473be2341d85eae6561a381accab14936e40e42",
+      "text": "What goes wrong",
+      "hash": "a0b5041e81534163e7045cb25baa0b694cc4190abb6baec8b44f50e5713bb445"
+    },
+    {
+      "id": "925ded1394eed261947b314bce0c8b9273ba1b06c34e1fda5ec90befe1d0b351",
+      "text": "Cause",
+      "hash": "7ba6317aefb0fec5ce658adf785cc80f92545ab8fded8021644c853c6e0aa89f"
+    },
+    {
+      "id": "05828a78a31305311b3a67e8aeac82fba4ea60b3f1e08e8f1b0ad81f95f33d9a",
+      "text": "Fix",
+      "hash": "21f1595b614ffc31c2693545a5ccb27559edf20c53cdd21099bc83b743313fd8"
+    },
+    {
+      "id": "8ed9ed48bb0eaebaa030515ad584a616a5d92ce76674f18056115b7ff24f9036",
+      "text": "Factuality",
+      "hash": "0a468514356ff9b6f781024ae13a94ec77af4a3e5d5337c274050a951f88b150"
+    },
+    {
+      "id": "05337a0a51f112277fa918caa5d593f18de5d00a74f160fd93fed889bb488e99",
+      "text": "Invented or wrong facts about the world — a function that doesn't exist, a wrong API signature, a fake citation",
+      "hash": "2e869ba3edc090ae786a2efc5c9f7d10668fa8896bd4ecc879587118b50d42f4"
+    },
+    {
+      "id": "b58e48d62c6b5e99fe80a86f98833aa21b7ef90f576e278910c00528eaa1cc1f",
+      "text": "Parametric knowledge",
+      "hash": "ca4427e58e7eb25fb52c817968346f4b0283569955f17477e050362e47238167"
+    },
+    {
+      "id": "53e3cf90396c3538ef809bb695d98721c7a66cb9dfa7ba421beb5ca18c3228a9",
+      "text": "gaps, often past the",
+      "hash": "be1d6bb25f9c3b375e12b122ad60951b220c935ecf8d7270058ef5ffdea384ec"
+    },
+    {
+      "id": "77faa9353364d94b83082ba24311fb1b7b36267a9d7be50dab8e3f0738cc6026",
+      "text": "knowledge cutoff",
+      "hash": "46f1820f6339cd5450653d0018ffb90af1d929a074ed2e211dfa39e52b7cc408"
+    },
+    {
+      "id": "5a48ddd83ac888e3e4438a2444583d5ab08d614f8100b173d0cc3a2244f614c3",
+      "text": "Load the right",
+      "hash": "404bee8ea0b4bc66ffbbb34b5c03f5e2c8da0e4b7007a71a5efa352f6ad9992d"
+    },
+    {
+      "id": "798dc69558ac46795cf4e5627227eb1de0eb3a8a49747441aea86274680d3195",
+      "text": "contextual knowledge",
+      "hash": "c5c07eb508c755a6fe9f4ee4c829877582a9a819c31c8bb16c552c305ddd9600"
+    },
+    {
+      "id": "0b83e94c4ebe6a2ab338cc962e30025c9a143fd800175f28647a04ad45d51fe7",
+      "text": "Faithfulness",
+      "hash": "c4356a66502becdcc2e7bf1f1ab0369101ec47453ff655c51f6e8ff3b38df224"
+    },
+    {
+      "id": "7dc6a9df4997644492258ea60c94f69c3f03494c864a8f5a6dd4f33a655e6e74",
+      "text": "Output drifts from the contextual knowledge that's loaded, the user's instructions, or the model's own prior reasoning",
+      "hash": "16f6b0068a4e2126f0b42aa63e0898ed45373e9e09e1e781a0fd96ae0d398876"
+    },
+    {
+      "id": "a5e97c758da611c37cd333a4bc4859e5e33e94f3c5060a6cb7153bf8ca0893f6",
+      "text": "Attention degradation",
+      "hash": "892a19ca52d75c31194b0b4d50bdbdc67fcce95b1420c662633dbdda562252f7"
+    },
+    {
+      "id": "68a14fb2a60e62c74827df33d321fae3f80777ee989a8246f2d4cf724ae30028",
+      "text": "; worsens in the",
+      "hash": "2cc6c88f0075302f78870c4b7e1b300f72e2fa532b0e726b0fc770cdc09c69a4"
+    },
+    {
+      "id": "24bc61082b2dedb99912a1493ffb576eea28836cd3986000e610d7b73f17bd97",
+      "text": "dumb zone",
+      "hash": "d1f4ef2612da4453aa6dc92c0023b63f3efd20345f0715a9e437d9a08a5dbb8d"
+    },
+    {
+      "id": "ab772f996555aabe6ee89d51fb8f45ecfa7254c7426be867d76d26dd84523c24",
+      "text": "Clear",
+      "hash": "83b12c2216efb4fdc924e1deb5182e905e4926ed0c1c324d467107f46d5a26a9"
+    },
+    {
+      "id": "75f1490f2636e832534794ad78d6039aefe804aeba11bce9fe5e8f06f3e8c569",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "7c8a3a0734e449b329caa5096c0eeda606bfd5161ee5cb06a999e1b8a085f589",
+      "text": "Next-token prediction",
+      "hash": "db2e13aa671f566f6c582c8ff074e0b702a81659695c239d0634c86b0e328583"
+    },
+    {
+      "id": "e0728050f259806b745aea128e031c12410ad26f2adc47857accb56f7e752ea6",
+      "text": "produces fluent output whether or not the underlying fact is real — the model has no internal signal that it doesn't know something, so an invented method arrives in the same assured register as a correct one. Hallucinated code is plausible by construction: it's what the API",
+      "hash": "cc95b74aa62a9cc7eb44c81cfe74f7db1a541158d46f3ad136f71a40dec1381a"
+    },
+    {
+      "id": "e8b3f947b0e1f9948c6b0bd549630cb96e75090c4446053bfe7745ebd07d8f08",
+      "text": "look like if it existed, which is exactly what makes it slip past a skim-level review and fail only when run.",
+      "hash": "bb4d26eb6097a857aafecc1eeecda4462987b113315bb2c4b1006ea58d1e49b2"
+    },
+    {
+      "id": "a281fc3c1a290e07278a25e9d1b46aa29cf6b12769677de52fd5a2d9449fa597",
+      "text": "You need to know which flavor you're looking at, because the fix for one makes the other worse. Factuality means missing knowledge: the fix is adding context — the docs, the type definitions, the file. Faithfulness means the knowledge is present but losing the competition for attention: the fix is removing context. Misdiagnose faithfulness as factuality and you paste in more docs, which grows the context and makes the drift worse. When the agent gets something wrong, check whether the correct information was already in context before deciding which problem you have.",
+      "hash": "fc5295b849459f5c02819fdcd406dfa2da49fc98ebe406a491fceaa02dbbd4db"
+    },
+    {
+      "id": "0c521a9e721fb801a4206d6049f62c9f3aff77c14e724159ad9e17cad692a932",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "ef851539c5ec153150ce3060a258a589caebc00e00e225da6eb52464bef88964",
+      "text": "\"hallucination\" as a bare synonym for \"wrong\" — without naming the flavor, the term has no diagnostic value.",
+      "hash": "7249c29d689f0e15f4feff13d272271de995da2efefe879c847ebec4fb60bbda"
+    },
+    {
+      "id": "34b5332740fbd305d27a29e4f04c98d57d4ff6f8b3873600cb3cc737cacdd6f5",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "a5a3dd8afad59c19e9db26e96f9d2e14e38640b74a9135ea4e79d6406af1a9d4",
+      "text": "\"It hallucinated a",
+      "hash": "44ec65ee8915dc11f870f5952104d4894ee3acab56b75205e9d1ad0feaff3f53"
+    },
+    {
+      "id": "523bffddd47b52062cd239858f14b01667fc71e80f887f6ca55339f240dc191d",
+      "text": "method on the schema.\"",
+      "hash": "6b2f7a765519a727f861947ec1d2260b7cc5a32e4a6840cc59791f550fdd056f"
+    },
+    {
+      "id": "b33b4590c2493915f2ebf407736cca31e05c6e2e1c9b3547eabf41995e012d37",
+      "text": "\"Factuality or faithfulness?\"",
+      "hash": "401c6948d717b4fb2d2d61a0b7272db1939f0203ba8d6ee000477f97bd96e783"
+    },
+    {
+      "id": "0d8c0368d0d7cb871c805f87b41133fdb72660cce130982aec1754ee5cfd622d",
+      "text": "\"The method exists in the docs I pasted — it just stopped reading them after",
+      "hash": "3e5ad0b3a34ef3ebd4f3613101132f2b20c434d40f442510bfa40cc97163c56f"
+    },
+    {
+      "id": "38ad1e89921accf1ff14ef9f7e1b987ced01cf42c6dd1786ccc54628cc9fb7b2",
+      "text": "forty.\"",
+      "hash": "80387e859c31acbce2027ab3778be72636932f4fb128c1f328ca6447d50db39d"
+    },
+    {
+      "id": "70020b3fdb122c7bd0a269a741ad9be42c1b81c60ddb0d871546432117ebf394",
+      "text": "\"Faithfulness then. Compact and reload, don't bother adding more docs.\"",
+      "hash": "bc37c0bd98037d5a28aed206751b7e2432c36285c67e13f8609d8e81c7f61b58"
+    },
+    {
+      "id": "9641ca36ba4ea688efa5f9411f046f3889a9e89466395cf451d584ca1204c1f0",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "56981e5f9d4e0154bcc9c3e349be74951e3d16475833d80f34da26662bc242b4",
+      "text": "Sycophancy",
+      "hash": "3ea44487a35802429565ace3d346af85ffa355f51322456406c67ae05fbe8aa5"
+    },
+    {
+      "id": "7bcd0870cdd26e5db8ffc6517f20fc0fdc298bfed5d1b842739e23987243eb9e",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "0e4282ce6cdc24ccc716f78edd7c9ac4d8a214c31b0b8d39582209ef1e7508d0",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "a55770cb2f972018f3e85207bf3b0c9259fc3f530123375557d09be7c399536c",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "062588b00a328d409252f52b43d331747bdd1c97e6fd83d6e0b5a052c36330f4",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "acb9ec249830496be19597644b8b5f1e3d08570e7a91ca2184e9185155520cdf",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "1b37d1ceaf0c22f6b75269ef2f145d4ffc185df4092f4c2d2252374d1cd0f2e4",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "d76ba9f8c0b6f90e5f84235971356dbabe83d798be3ea67d09528286934113c0",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "c2359eff3fa688638f0deccf0fe8708110c9c5493cd7d107b025ec34a38aa04e",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "d9af337a34a1f938df8416bc4934f47a41bf332f47ca75673cf317f6e8b65696",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "e3e94afc80ef4755a80789dee25eb5a57d1246b595a9f4d47bba8bd37dea1c91",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b253870ead52588d9f1c824312d4797a759483d5b46ad506d4eed4c350309d3d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "4a5a027e4bd171e2c063d5c94e3ccf8419a44fbe7e8e2d5e27a03c1ebd2cc5dc",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "a23c8ae4d5cf9e1d35a7a8e03154da525e18ab1c3036d1646be54f8277b9d5f6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "35ad974c1d1975620fba230d3080e2619d4eb58ced89178b8d0c021d994e8a77",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "f7eb0760e703cdbc2f58f42168ad27a459de7eed47581d2207a8067f26dc78fe",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "2afe94cd68fc27c696acd72642c59c129ee68b09007675e80e4cf2668de03727",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "3db4c7bd4b5e5bcfc78f0c1974f57818e8c04a5fa188f9a5decb0e361ee76ab5",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "e4f1e7e016a671a48c9df1a28410a1c5a51102a30e43db2df808d7d9a1d6c9c1",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6310d45423adea975850cc979e1cf355f028f94fe9061fe5fbd83c074de3bea2",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "660762e0da8f1ef16ffd8cd42d0a671c6ce85b18e262e0a721609b15af970042",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "017927f40969f31b1729575d61f5b7f33e79d88b08aebaf36d6cce284e5a7874",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "c5fdc5254040ae075b40b4434716e52fdfce38bc075029c507896a76309079ee",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "8c2741444c29adb325f05cc1805802bc17924dc2ad502c7e58a117ccff11dcf8",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d772b644c46da38b54c906ac55ca3780f9fdff46f80ee713117398e70450d457",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "781c8a75d6cb4dae5597b6ca1374e6209c80ba99a00fe9437c80ae7beb496bb6",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "7afdcac08b934f8906a38d3580fe4db73261cb0d1c58acf67d2f42c8ae53fea8",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "60ed2806aef79eb8f4adb726f83be990ff47ddee22c2e1e05519c5a60dfbbe40",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"7iywuohte84yez\"",
+  "lastModified": null
+}

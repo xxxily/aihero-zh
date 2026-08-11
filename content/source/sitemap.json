@@ -1,0 +1,1204 @@
+{
+  "schemaVersion": 2,
+  "origin": "https://www.aihero.dev",
+  "fetchedAt": "2026-08-11T06:29:13.817Z",
+  "scope": "cached-pages",
+  "urls": [
+    "/",
+    "/2025-the-year-building-with-gen-ais-gets-boring~d53hd",
+    "/5-agent-skills-i-use-every-day",
+    "/a-complete-guide-to-agents-md",
+    "/agents-with-vercel-ai-sdk",
+    "/ai-coding-dictionary",
+    "/ai-coding-dictionary/afk",
+    "/ai-coding-dictionary/agent",
+    "/ai-coding-dictionary/agent-mode",
+    "/ai-coding-dictionary/agents-md",
+    "/ai-coding-dictionary/ai",
+    "/ai-coding-dictionary/attention-budget",
+    "/ai-coding-dictionary/attention-degradation",
+    "/ai-coding-dictionary/attention-relationship",
+    "/ai-coding-dictionary/autocompact",
+    "/ai-coding-dictionary/automated-check",
+    "/ai-coding-dictionary/automated-review",
+    "/ai-coding-dictionary/ax",
+    "/ai-coding-dictionary/cache-tokens",
+    "/ai-coding-dictionary/clearing",
+    "/ai-coding-dictionary/compaction",
+    "/ai-coding-dictionary/context",
+    "/ai-coding-dictionary/context-pointer",
+    "/ai-coding-dictionary/context-window",
+    "/ai-coding-dictionary/contextual-knowledge",
+    "/ai-coding-dictionary/design-concept",
+    "/ai-coding-dictionary/dx",
+    "/ai-coding-dictionary/effort",
+    "/ai-coding-dictionary/environment",
+    "/ai-coding-dictionary/filesystem",
+    "/ai-coding-dictionary/grilling",
+    "/ai-coding-dictionary/hallucination",
+    "/ai-coding-dictionary/handoff",
+    "/ai-coding-dictionary/handoff-artifact",
+    "/ai-coding-dictionary/harness",
+    "/ai-coding-dictionary/human-in-the-loop",
+    "/ai-coding-dictionary/human-review",
+    "/ai-coding-dictionary/inference",
+    "/ai-coding-dictionary/input-tokens",
+    "/ai-coding-dictionary/knowledge-cutoff",
+    "/ai-coding-dictionary/mcp",
+    "/ai-coding-dictionary/memory-system",
+    "/ai-coding-dictionary/model",
+    "/ai-coding-dictionary/model-provider",
+    "/ai-coding-dictionary/model-provider-request",
+    "/ai-coding-dictionary/next-token-prediction",
+    "/ai-coding-dictionary/non-determinism",
+    "/ai-coding-dictionary/output-tokens",
+    "/ai-coding-dictionary/parameters",
+    "/ai-coding-dictionary/parametric-knowledge",
+    "/ai-coding-dictionary/permission-mode",
+    "/ai-coding-dictionary/permission-request",
+    "/ai-coding-dictionary/prefix-cache",
+    "/ai-coding-dictionary/primary-source",
+    "/ai-coding-dictionary/progressive-disclosure",
+    "/ai-coding-dictionary/prototyping",
+    "/ai-coding-dictionary/sandbox",
+    "/ai-coding-dictionary/secondary-source",
+    "/ai-coding-dictionary/session",
+    "/ai-coding-dictionary/skill",
+    "/ai-coding-dictionary/smart-zone",
+    "/ai-coding-dictionary/spec",
+    "/ai-coding-dictionary/stateful",
+    "/ai-coding-dictionary/stateless",
+    "/ai-coding-dictionary/subagent",
+    "/ai-coding-dictionary/sycophancy",
+    "/ai-coding-dictionary/system-prompt",
+    "/ai-coding-dictionary/ticket",
+    "/ai-coding-dictionary/token",
+    "/ai-coding-dictionary/tool",
+    "/ai-coding-dictionary/tool-call",
+    "/ai-coding-dictionary/tool-result",
+    "/ai-coding-dictionary/training",
+    "/ai-coding-dictionary/turn",
+    "/ai-coding-dictionary/vibe-coding",
+    "/ai-engineer-roadmap",
+    "/anthropics-new-model-context-protocol-in-2-minutes~hc0tx",
+    "/building-effective-agents",
+    "/burn-through-your-backlog-with-my-triage-skill",
+    "/connect-claude-code-to-github",
+    "/create-embeddings-with-vercel-ai-sdk",
+    "/creating-the-perfect-claude-code-status-line",
+    "/describe-images-with-vercel-ai-sdk",
+    "/essential-ai-coding-feedback-loops-for-type-script-projects",
+    "/evalite-an-early-preview",
+    "/evalite-v1-preview",
+    "/generate-arrays-with-vercel-ai-sdk",
+    "/generate-enums-with-vercel-ai-sdk",
+    "/generate-text-with-vercel-ai-sdk",
+    "/getting-started-with-ralph",
+    "/google-agents-whitepaper-review",
+    "/grill-with-docs",
+    "/heres-how-to-stream-claude-code-with-afk-ralph",
+    "/how-does-the-model-context-protocol-work",
+    "/how-to-choose-an-llm",
+    "/how-to-improve-your-llm-powered-app",
+    "/how-to-kill-the-bloat-in-claude-codes-system-prompt",
+    "/how-to-make-codebases-ai-agents-love",
+    "/how-to-use-claude-code-hooks-to-enforce-the-right-cli",
+    "/implementing-anthropics-think-tool-in-typescript",
+    "/learn",
+    "/learn-anything-with-my-teach-skill",
+    "/llm-fundamentals",
+    "/logging-a-huge-mcp-footgun",
+    "/mcp-server-from-a-single-typescript-file",
+    "/messages-system-prompts-and-reasoning-tokens",
+    "/model-context-protocol-tutorial",
+    "/my-7-phases-of-ai-development",
+    "/my-agents-md-file-for-building-plans-you-actually-read",
+    "/my-claude-code-cohort-a-teaser",
+    "/my-grill-me-skill-has-gone-viral",
+    "/never-run-claude-init",
+    "/newsletter",
+    "/open-source",
+    "/personal-software-is-insane-in-the-age-of-ai-u2hx2",
+    "/plan-mode-introduction",
+    "/posts",
+    "/publish-your-mcp-server-to-npm",
+    "/real-world-feature-build-with-claude-code",
+    "/securing-your-ai-app-with-guardrails",
+    "/skill-test-driven-development-claude-code",
+    "/skills",
+    "/skills-ask-matt",
+    "/skills-catalog",
+    "/skills-changelog-ubiquitous-language-grill-with-docs",
+    "/skills-code-review",
+    "/skills-codebase-design",
+    "/skills-diagnosing-bugs",
+    "/skills-domain-modeling",
+    "/skills-grill-me",
+    "/skills-grill-with-docs",
+    "/skills-grilling",
+    "/skills-handoff",
+    "/skills-implement",
+    "/skills-improve-codebase-architecture",
+    "/skills-prototype",
+    "/skills-research",
+    "/skills-resolving-merge-conflicts",
+    "/skills-setup-matt-pocock-skills",
+    "/skills-tdd",
+    "/skills-teach",
+    "/skills-to-questionnaire",
+    "/skills-to-spec",
+    "/skills-to-tickets",
+    "/skills-triage",
+    "/skills-wait-what",
+    "/skills-wayfinder",
+    "/skills-wizard",
+    "/skills-writing-for-agents",
+    "/skills/skills-changelog-handoff-prototype-review-and-writing",
+    "/skills/skills-changelog-ubiquitous-language-grill-with-docs",
+    "/skills/skills-changelog-v1-1-wayfinder-to-spec-to-tickets-grilling-improvements",
+    "/skills/skills-changelog-v1-announcement",
+    "/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more",
+    "/skills/subscribe",
+    "/storm-generate-high-quality-articles-based-on-real-research",
+    "/streaming-in-next-question-suggestions-with-the-ai-sdk",
+    "/streaming-objects-with-vercel-ai-sdk",
+    "/streaming-text-with-vercel-ai-sdk",
+    "/structured-data-from-pdfs-with-vercel-ai-sdk",
+    "/structured-outputs-with-vercel-ai-sdk",
+    "/swap-ai-models-with-vercel-ai-sdk",
+    "/system-prompts-with-vercel-ai-sdk",
+    "/the-ai-engineer-mindset",
+    "/the-problem-with-mcp-stateful-server",
+    "/the-prompt-report",
+    "/things-people-get-wrong-with-grill-me-and-grill-with-docs",
+    "/this-hook-stops-claude-code-running-dangerous-git-commands",
+    "/three-types-of-evals",
+    "/tips-for-ai-coding-with-ralph-wiggum",
+    "/tool-calls-with-vercel-ai-sdk",
+    "/topics/build-a-software-factory",
+    "/topics/build-the-right-thing",
+    "/topics/get-better-results",
+    "/topics/learn-how-llms-think",
+    "/topics/meta-announcements",
+    "/topics/score-first-wins",
+    "/topics/set-up-your-agent",
+    "/topics/ship-solid-code",
+    "/topics/think-like-an-ai-engineer",
+    "/tracer-bullets",
+    "/use-local-models-with-vercel-ai-sdk",
+    "/using-mcp-prompts",
+    "/vercel-ai-sdk",
+    "/vercel-ai-sdk-messages-array",
+    "/vercel-ai-sdk-tutorial",
+    "/ways-ai-coding-has-rewired-my-brain",
+    "/what-are-evals",
+    "/what-are-llms-used-for",
+    "/what-are-tokens",
+    "/what-are-tools",
+    "/what-is-an-agent",
+    "/what-is-an-ai-engineer",
+    "/what-is-an-llm",
+    "/what-is-the-ai-sdk",
+    "/what-is-the-context-window",
+    "/why-the-anthropic-ralph-plugin-sucks",
+    "/workshops/ai-sdk-v6-crash-course",
+    "/workshops/ai-sdk-v6-crash-course/generating-objects-via-output~dkm2k"
+  ],
+  "results": [
+    {
+      "pathname": "/",
+      "strings": 88,
+      "textHash": "4ed48812033806305b9deb95e2218b12ab05cad737dfd2536568d26b5b03d217"
+    },
+    {
+      "pathname": "/2025-the-year-building-with-gen-ais-gets-boring~d53hd",
+      "strings": 74,
+      "textHash": "8989d743c1410d9fa2b03272fd9c723e75da9d0ab324a839d0ffbaa187cdcd04"
+    },
+    {
+      "pathname": "/5-agent-skills-i-use-every-day",
+      "strings": 135,
+      "textHash": "1404a85d99c78da1f8595a2bf417ab46ca9b5f2017df7e9c8c3b97c2c4194cdd"
+    },
+    {
+      "pathname": "/a-complete-guide-to-agents-md",
+      "strings": 206,
+      "textHash": "1f75bf946021dec436ee1816028f735cba5a6fe67ebd70093454a4cb5c3bdaad"
+    },
+    {
+      "pathname": "/agents-with-vercel-ai-sdk",
+      "strings": 133,
+      "textHash": "3871c802ef923c6c987ee58afe0db3b77469b61872a59e1b89ffa0f260bc4b39"
+    },
+    {
+      "pathname": "/ai-coding-dictionary",
+      "strings": 187,
+      "textHash": "f192d4e2002ace37586109f219368870e57aa508a52a5f23777ccd97af1557bb"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/afk",
+      "strings": 74,
+      "textHash": "79ceafd87ec9bc784d0a42c545c7fdb03869dc623314950db9372fe5ea4f6d56"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agent",
+      "strings": 66,
+      "textHash": "1c96eb9923d921a10f529029671381af53c68a2d122e6e0fe75a8025f14c31c1"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agent-mode",
+      "strings": 76,
+      "textHash": "33bed97c9775213a9735e19620d58a6bcc757201432eff1de5b71d8a9cbfb876"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agents-md",
+      "strings": 70,
+      "textHash": "bb77cc1c85d7c81e7e8775966950939945a62bfea3a14819af9a24b7374653eb"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ai",
+      "strings": 68,
+      "textHash": "893c34df1d6a37384124b5be44315fd4948e4f21ea5365a67fde49538ed0536f"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-budget",
+      "strings": 68,
+      "textHash": "291ea35b3fd87a3417ea95558fafd79613adc40637bd01150bb4628ce796327f"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-degradation",
+      "strings": 71,
+      "textHash": "b950ab66440dd142470dd1a20cdd90b8bdb290d3977d9fe775bd7040b5a2f21c"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-relationship",
+      "strings": 82,
+      "textHash": "049abe59049615c9028189589d9f0db5cccad08d824b3b274b97d9cecea18528"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/autocompact",
+      "strings": 65,
+      "textHash": "758f20921ed092fa79da49f2a001eb6fb9c318f930f227a12ff3eb5630348fcd"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/automated-check",
+      "strings": 74,
+      "textHash": "bf9925cbfbcbe3413f2d29811a3a67631d0dbfcf749e3c05c5955e7333756314"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/automated-review",
+      "strings": 71,
+      "textHash": "76ffc6b46b3fb3916e2e307be61c6d31a59a5cd186b81e351f44654e6458be31"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ax",
+      "strings": 78,
+      "textHash": "c42ddc8606f1e0ec7413f139e34a0eb40050bbd01e51add9e29abe32fb04bc3e"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/cache-tokens",
+      "strings": 79,
+      "textHash": "ff0b7af0fbbd7f844eed8ba4b8b97562eb6ae7e1521221b1203cada24d772254"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/clearing",
+      "strings": 70,
+      "textHash": "7b21b25a757399955d16fecb7e341fcd06728c8e11e0718e54e53474701e6b31"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/compaction",
+      "strings": 71,
+      "textHash": "fd65fb1fff50498ccaea8adb9ba5813cb6f9fd335369a42e48ab69da68e11bae"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context",
+      "strings": 72,
+      "textHash": "c620375a7f1483095601920ef266d2447b5a90e4bac26697a983cd988dd53209"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context-pointer",
+      "strings": 77,
+      "textHash": "f73b1fe1db372c52d478cf6231cec4252ff5ec0ad7a682b8a156545dd045f500"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context-window",
+      "strings": 73,
+      "textHash": "05d0bdb591daba85a41ec5d84302372d9d59b6ef2a6361325f979d754a981501"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/contextual-knowledge",
+      "strings": 81,
+      "textHash": "8600908e225e29aa8546088f1499e6099727cb284ba97fb567051b3b59d98436"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/design-concept",
+      "strings": 63,
+      "textHash": "af9ed92588a3d289bb99a2ac81ef04fbef43f101968c29fcd11cc7a6564deece"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/dx",
+      "strings": 64,
+      "textHash": "a64c4d2a3b01cbfce9a79a3482d47057c34a02380b39a70360b00f76507758fe"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/effort",
+      "strings": 77,
+      "textHash": "0f1ed5006b8fd76702599b6a23b9e6de78e5b1de5a06ddf0e15bc336745644f4"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/environment",
+      "strings": 80,
+      "textHash": "ec2524ef7d81e6253e559f2dae6902526146c583c583c41aab8ef9d7c4c3c492"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/filesystem",
+      "strings": 67,
+      "textHash": "012a6d4c63a64ef81f641ef1d99e1dc69057b3a73705efe014ed317978375f6a"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/grilling",
+      "strings": 62,
+      "textHash": "656a65b736ab0c441b2cfd8e5cdc157ce24ce0a0f2dd5ad385f6324992817b4d"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/hallucination",
+      "strings": 81,
+      "textHash": "ac90db4cba056bd067c40db212e233373ba436e78d455be4b8bf4617a824522c"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/handoff",
+      "strings": 76,
+      "textHash": "bccbd69ddc7344bfda01e78aa83b5ff57289db881aa962e43f4d8f3e90592bb1"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/handoff-artifact",
+      "strings": 71,
+      "textHash": "cccba2e2dd32aabb488a1ed7c13f3c787e0c0652aee64b028ea194988c60e47c"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/harness",
+      "strings": 75,
+      "textHash": "f36ae0e889ead798165958eb455c5b743bdf48d5225c9142b281a454de02072f"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/human-in-the-loop",
+      "strings": 67,
+      "textHash": "e93084f90dab8455e66278ccdf9263fb0f1f47006208904c0772819b734896cf"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/human-review",
+      "strings": 71,
+      "textHash": "e04a5391309088aac6926aef2263d3cd544baac046f289f233ee6c6e9e8a2f6e"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/inference",
+      "strings": 85,
+      "textHash": "165fd0bbd52cc2d1a9b440debfd1b5e5b673238c855a3168792a12517474721b"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/input-tokens",
+      "strings": 75,
+      "textHash": "521a3f6e63dd471efaf890bcd9237ebd462821829ffd265648cd606749cc548d"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/knowledge-cutoff",
+      "strings": 63,
+      "textHash": "21dc90f46927b0b22cf52a195f2ca3cf092eb455daa08f89a74253c74b09161d"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/mcp",
+      "strings": 69,
+      "textHash": "7cd41ab5ff99e475638568082cb1eb63a8577e9f5fe93301451b508269845625"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/memory-system",
+      "strings": 70,
+      "textHash": "56e7183ef335769555d8ac8f92666257de8b1308439020e10adca302d5f96fb3"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model",
+      "strings": 68,
+      "textHash": "d175fd4ce2e074b5de6bca3e35ffbcc377e4c274c83dd95c2c3336fb2c44ebb5"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model-provider",
+      "strings": 68,
+      "textHash": "5aab224948569c3a4036e62688def458eb0227d475258f60f8033676fd94426f"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model-provider-request",
+      "strings": 91,
+      "textHash": "947fc89358ac5d8fe7bdd203103564168c7684f3ad2b8411426bfd6d40830fd8"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/next-token-prediction",
+      "strings": 71,
+      "textHash": "d665f53b48b16ad6598e871f0d68f5b8a9371ab55ef44cb8ac5362e30d8ade0c"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/non-determinism",
+      "strings": 65,
+      "textHash": "85dc432a35000cb56fde2d8c2ecf985f63a13396b54bdbe1bf9bbbf57127424a"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/output-tokens",
+      "strings": 64,
+      "textHash": "c4c147ee7821191ef33ceb77d8685e4ed4fc7d3a9b6dbd0df673a3fe7da22084"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/parameters",
+      "strings": 70,
+      "textHash": "278d240ca942afabddca42479e2f023ddf5d01e83e57a5e079035989a5e1fd08"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/parametric-knowledge",
+      "strings": 64,
+      "textHash": "3298234ec3f10075428272ea76e76b9675e7377485a5380e7c833e442336aa59"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/permission-mode",
+      "strings": 86,
+      "textHash": "72cb4883ffbc268a9014af6b9091cc3b1fdd30b90d4b8fe3cd45d93a979f8709"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/permission-request",
+      "strings": 83,
+      "textHash": "3d02e762d6ae787fd8dec3e0bebbd06929cff3fe2c52a79c78a76d2fb1dde1b3"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/prefix-cache",
+      "strings": 67,
+      "textHash": "07a77a56035531eda9196c87aea9128491487599fe4d9c7796572626474c911b"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/primary-source",
+      "strings": 65,
+      "textHash": "bdb3b115cc19ee58014c767d82f10bae79de6bf4970795d4dc2e6eeda19b645d"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/progressive-disclosure",
+      "strings": 67,
+      "textHash": "cc3bcd3626d808bbe83d40bae771c7a0cf38c6e816455c196244e1d19015b6d1"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/prototyping",
+      "strings": 60,
+      "textHash": "734ec8068ae843eab7a433721ef20ceac3b9b8630b914d8be4fae2c21a839c55"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/sandbox",
+      "strings": 78,
+      "textHash": "9aedc7a1a9d9ca8e7058d51f27503f52e112627c43f2e73e7dfe9c00fe9a6dc2"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/secondary-source",
+      "strings": 72,
+      "textHash": "503e064ba7795b527bd57a2b2fc53b883e1e69a22a0d2b0f31df01d45aa781c9"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/session",
+      "strings": 71,
+      "textHash": "1c4d39b9fcd9b037a035386a056f5e273244c5359b154688edbd9f5d24c554e7"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/skill",
+      "strings": 77,
+      "textHash": "f0a6fd5b0ec25486ccbed50906602287eff4c7caf380cf8fa75ce8de4415ced8"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/smart-zone",
+      "strings": 70,
+      "textHash": "d642940116ccb76adf5ca41a6e100b06938815490396d52c0049b4358f4d1d82"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/spec",
+      "strings": 71,
+      "textHash": "be4eace982f1c8b3b9dfb95f1b1352b67153b4d04f28557f641e9a36b0d0362a"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/stateful",
+      "strings": 90,
+      "textHash": "39b01f32af60eb1bcac9cc92527d83841a733bca06af2f9e1f73e8572340702a"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/stateless",
+      "strings": 72,
+      "textHash": "814879be356223f809422d26d6ea82025f23c230fe8b62af0217adf3b25abf6a"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/subagent",
+      "strings": 69,
+      "textHash": "910ac3bf35e6484150418d6063ed799c209483c1aa90da70b09c5ebc9a6f4238"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/sycophancy",
+      "strings": 72,
+      "textHash": "e6d4eee90e3b8cf0bf4247f60784a3f58e1dca3c1cea2f480ccd56ad074729bd"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/system-prompt",
+      "strings": 69,
+      "textHash": "96c928678d16af99ab07a9b7cb66f8b2e0d6b9cdfe1bfb1b9ce2359eb123494f"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ticket",
+      "strings": 64,
+      "textHash": "148df99a9428e13d1d60cf0abce1f601ccbe06764a4a24493c4115ea71388755"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/token",
+      "strings": 69,
+      "textHash": "b2aab3931edc03017d71d2602442636d7592080a8d655bebfb8c2159c34a97a6"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool",
+      "strings": 81,
+      "textHash": "1a3b8d4978e1448d6cd663346b638e6e693631f374bb1c19c77e8fe1240afd68"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool-call",
+      "strings": 78,
+      "textHash": "51dd2e1f80c8f27fce86f3e2a80495985863bc77ce5db626cf4886c78c2468c9"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool-result",
+      "strings": 80,
+      "textHash": "48157bfbde116304210df9dcf7e8d0f3e8f8b0bc4df6efe1dc41bb6a0e60bd7b"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/training",
+      "strings": 66,
+      "textHash": "2751c12afee45196d4ac819cd5491a8733f7b13467133da7d7f215d9ead1a6a6"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/turn",
+      "strings": 65,
+      "textHash": "7d30f3c36a240fb25f8065e35cedc7b6553e1f4b974d9a303eef0389ff4aa445"
+    },
+    {
+      "pathname": "/ai-coding-dictionary/vibe-coding",
+      "strings": 68,
+      "textHash": "08da568d557bae5b9f3b35c7cd8526913192e0be961e6d87d111869233e2cc27"
+    },
+    {
+      "pathname": "/ai-engineer-roadmap",
+      "strings": 76,
+      "textHash": "3c75b67b40013d8c15d25289079ff59f222d7e2c9129c45c513f02720664424d"
+    },
+    {
+      "pathname": "/anthropics-new-model-context-protocol-in-2-minutes~hc0tx",
+      "strings": 52,
+      "textHash": "00964c8126134adcd15bfe58e483956864bcd7ed5e619458aa810e3573cc401a"
+    },
+    {
+      "pathname": "/building-effective-agents",
+      "strings": 86,
+      "textHash": "af9d8375c1a0c05a5221370da4858e6989dd7e9c0aaad6878e7e2262e6192383"
+    },
+    {
+      "pathname": "/burn-through-your-backlog-with-my-triage-skill",
+      "strings": 221,
+      "textHash": "aacab7ea44ffe90147ba2931ff85235e46024994bc135dc8ed1893da5d7769c7"
+    },
+    {
+      "pathname": "/connect-claude-code-to-github",
+      "strings": 72,
+      "textHash": "97c4b58068f8be4127cba28acf6f4c5d56e99b400e429551c610499b8b7d335e"
+    },
+    {
+      "pathname": "/create-embeddings-with-vercel-ai-sdk",
+      "strings": 106,
+      "textHash": "62f883517e074a6921978f847ae949a9e1b6767dd578d00ef0c8b65621d59129"
+    },
+    {
+      "pathname": "/creating-the-perfect-claude-code-status-line",
+      "strings": 103,
+      "textHash": "4aeaa2ef4c557513c475d5ba70aa4902a06a247c2d0e6e2f87619c0c7f533fa5"
+    },
+    {
+      "pathname": "/describe-images-with-vercel-ai-sdk",
+      "strings": 109,
+      "textHash": "fbfc71bacc8ac05e03940666805e5edb6c068ef701f463ee1f353b4ef8bf7ade"
+    },
+    {
+      "pathname": "/essential-ai-coding-feedback-loops-for-type-script-projects",
+      "strings": 91,
+      "textHash": "d020f9e5f4f0c95aaecf26bf9f47b69b422fa1331cd53cbc4eb3d3ca083497c8"
+    },
+    {
+      "pathname": "/evalite-an-early-preview",
+      "strings": 57,
+      "textHash": "bd6ae72b3538ddd38106a8cc22853bfa05492719ca833750fd1d6a88783332dd"
+    },
+    {
+      "pathname": "/evalite-v1-preview",
+      "strings": 133,
+      "textHash": "12a107f77265e33a30253467c008de854c20694315b702222f2043fadfc0b9e6"
+    },
+    {
+      "pathname": "/generate-arrays-with-vercel-ai-sdk",
+      "strings": 91,
+      "textHash": "1b964a4a68814752b7d5fb78fa8076cf71178a0da4fe03a3ed19c1c5b2219594"
+    },
+    {
+      "pathname": "/generate-enums-with-vercel-ai-sdk",
+      "strings": 85,
+      "textHash": "1d8eb29bf7fc827c5510ff423ef57bcd3a1435c09a286eb685d3b5b66d6db184"
+    },
+    {
+      "pathname": "/generate-text-with-vercel-ai-sdk",
+      "strings": 80,
+      "textHash": "bd931589f8aa1eb34d74abf5921e562d237215ec57797a5e8a148f84a26aacb2"
+    },
+    {
+      "pathname": "/getting-started-with-ralph",
+      "strings": 152,
+      "textHash": "6e1b3bdcdcae835f10d555c5e309791cdd9bdd5d380d91805d0c2ea88f31c2df"
+    },
+    {
+      "pathname": "/google-agents-whitepaper-review",
+      "strings": 98,
+      "textHash": "616d61a4a83e065d5847f9a30fb841e2f7e953e487b0de6cb8b010c0f34c1ebd"
+    },
+    {
+      "pathname": "/grill-with-docs",
+      "strings": 172,
+      "textHash": "bbdaa60733ceb4311e2d0a33fc22dc938a4eb25bc6d32767fdd943a7332d3947"
+    },
+    {
+      "pathname": "/heres-how-to-stream-claude-code-with-afk-ralph",
+      "strings": 94,
+      "textHash": "fcadb7578dd5b75b252d46a29c760ea4bdab237de6f0f05af8ec017805505f87"
+    },
+    {
+      "pathname": "/how-does-the-model-context-protocol-work",
+      "strings": 109,
+      "textHash": "994315bf1dd010ebf2f50bb25e36af19f6f730a85eb23e9a5a94dc94b6d6c14f"
+    },
+    {
+      "pathname": "/how-to-choose-an-llm",
+      "strings": 158,
+      "textHash": "b46b2d0f5569249f977b8b73b4486c36dc4d159f1e874d5856270779105f5381"
+    },
+    {
+      "pathname": "/how-to-improve-your-llm-powered-app",
+      "strings": 305,
+      "textHash": "2633d935bf05aa20c1246753c103c88389de798c166d218c876b72e68ac7a8e1"
+    },
+    {
+      "pathname": "/how-to-kill-the-bloat-in-claude-codes-system-prompt",
+      "strings": 109,
+      "textHash": "619ae1de59fdb08b284ba4195dfa728b2531a71696f135128fa55d9485bcbc95"
+    },
+    {
+      "pathname": "/how-to-make-codebases-ai-agents-love",
+      "strings": 94,
+      "textHash": "64816ca0fa24779c79627483bb96994bc03f50247053b817a8b9f27c6d53c32a"
+    },
+    {
+      "pathname": "/how-to-use-claude-code-hooks-to-enforce-the-right-cli",
+      "strings": 86,
+      "textHash": "a30edabc47d2d413db9840fcbeb5abe2f0faa0046feacfaab16e53899dc7d2f6"
+    },
+    {
+      "pathname": "/implementing-anthropics-think-tool-in-typescript",
+      "strings": 88,
+      "textHash": "0e75c79b92cef656b1d0809ac5e65da963de25f101a5cd2836a48abf497c876a"
+    },
+    {
+      "pathname": "/learn",
+      "strings": 103,
+      "textHash": "2eea6caa995b53662fae4457cc457e53d57aca6ea3a8cef5274da954ec17a32f"
+    },
+    {
+      "pathname": "/learn-anything-with-my-teach-skill",
+      "strings": 103,
+      "textHash": "42d0d8acc243446a674d6b06ddefe554b375801998b17e8e59bd10079f7a4dff"
+    },
+    {
+      "pathname": "/llm-fundamentals",
+      "strings": 68,
+      "textHash": "8893325bc286c5984cdd3db244242364e17cc066586d311db24bab9683735e44"
+    },
+    {
+      "pathname": "/logging-a-huge-mcp-footgun",
+      "strings": 108,
+      "textHash": "e2d64453dd70d762da1978456c4a5b036c67ed8af2110b194fac65c481a02ff1"
+    },
+    {
+      "pathname": "/mcp-server-from-a-single-typescript-file",
+      "strings": 93,
+      "textHash": "3c2d369cce1d338888a0eec496d340ad4b33f6829760c6c0a2c86a607a8b87c8"
+    },
+    {
+      "pathname": "/messages-system-prompts-and-reasoning-tokens",
+      "strings": 88,
+      "textHash": "00259e66b3b029adc81c57993d08fad95776a54610997a6a35762bc4d3fb7b0b"
+    },
+    {
+      "pathname": "/model-context-protocol-tutorial",
+      "strings": 80,
+      "textHash": "90abbb6c9c72b3650b945d9baf81fce347ea52002481738846c3a7311cb3490a"
+    },
+    {
+      "pathname": "/my-7-phases-of-ai-development",
+      "strings": 158,
+      "textHash": "7e04056855227feea5d5fee64306e97eff4fa5e27524e2f3c042cdd9772552cd"
+    },
+    {
+      "pathname": "/my-agents-md-file-for-building-plans-you-actually-read",
+      "strings": 80,
+      "textHash": "ff03e20cac7be84e8bf61f31e73b10826d1b94c2fa826648ec17c800932080da"
+    },
+    {
+      "pathname": "/my-claude-code-cohort-a-teaser",
+      "strings": 107,
+      "textHash": "990245b104eadc7f0b976419b7b05f50c999d724b854c2aac97b0f39fe69d642"
+    },
+    {
+      "pathname": "/my-grill-me-skill-has-gone-viral",
+      "strings": 84,
+      "textHash": "59cb8a7778f207b18902fe9bc85e9dcd3e9ebdf30829a43684a2432d5031a499"
+    },
+    {
+      "pathname": "/never-run-claude-init",
+      "strings": 140,
+      "textHash": "6caed10cafbc6f4b27f9c134f27ed6caa965007d642ac404ced6e704a5069fc7"
+    },
+    {
+      "pathname": "/newsletter",
+      "strings": 32,
+      "textHash": "ce995337118b094fca52298df771152e383624c014173f62373c67e15e32343d"
+    },
+    {
+      "pathname": "/open-source",
+      "strings": 46,
+      "textHash": "73f247f42f55fd7abfa273511003dbce5ba495a6c11b165e5ea9e27964acfa58"
+    },
+    {
+      "pathname": "/personal-software-is-insane-in-the-age-of-ai-u2hx2",
+      "strings": 66,
+      "textHash": "f812657ff5f80ee419f2785e1af44e9f3df72f7caec9627ad11b741787bf906a"
+    },
+    {
+      "pathname": "/plan-mode-introduction",
+      "strings": 143,
+      "textHash": "21eb1063525b1c564fc6064330938ab637428a850a61e2af556976dde9137cf8"
+    },
+    {
+      "pathname": "/posts",
+      "strings": 147,
+      "textHash": "c299b5fd34d3558cea310ce4d91c515b153840fe3fdd785f34e6b93c6af9153f"
+    },
+    {
+      "pathname": "/publish-your-mcp-server-to-npm",
+      "strings": 129,
+      "textHash": "5bb9c6bda8c0e4146e701c64149633f1abda52c45a957e20360628c6c1de3b28"
+    },
+    {
+      "pathname": "/real-world-feature-build-with-claude-code",
+      "strings": 54,
+      "textHash": "e681e97e0ce448d6556a52496e37541b9b6857ec6a97d4156230a7b3f81e63ba"
+    },
+    {
+      "pathname": "/securing-your-ai-app-with-guardrails",
+      "strings": 77,
+      "textHash": "afd9d37ab3a9680619eca4bf4014c50be6c32983f12b125c4cd749dff7d0c35b"
+    },
+    {
+      "pathname": "/skill-test-driven-development-claude-code",
+      "strings": 144,
+      "textHash": "272a35d8e022f970d26d190e1d8a1a8304ce79f2e00465408b434d414efad391"
+    },
+    {
+      "pathname": "/skills",
+      "strings": 156,
+      "textHash": "049b5d97178ca78c96402b0b724e4c79967233008a656b5ad405d7d8cfaa73f5"
+    },
+    {
+      "pathname": "/skills-ask-matt",
+      "strings": 197,
+      "textHash": "f3eece654307410c26e4b3b23fc6e82b3388ec2d439bbb3840f76b1e30da8cd1"
+    },
+    {
+      "pathname": "/skills-catalog",
+      "strings": 120,
+      "textHash": "6aa2fa4b5c38748657aeef0c376583197ed653e9939fb88934fb00682cd05fb4"
+    },
+    {
+      "pathname": "/skills-changelog-ubiquitous-language-grill-with-docs",
+      "strings": 158,
+      "textHash": "359f25b4724bb8bb2cae8fef1a2377c8d4af8a625b8013e4876c788ad67466b3"
+    },
+    {
+      "pathname": "/skills-code-review",
+      "strings": 196,
+      "textHash": "f43c2cf8e75bf3d19116da9c264a9bcc9b4791c4b52c7b969eb5b44cbffd72e9"
+    },
+    {
+      "pathname": "/skills-codebase-design",
+      "strings": 211,
+      "textHash": "2f1fc592b88fc6a3d7328adaedae22157972bc5c4d75f9deea420af1b350d5d8"
+    },
+    {
+      "pathname": "/skills-diagnosing-bugs",
+      "strings": 189,
+      "textHash": "07ad126ce94a69bdcd8ef2b00c8a9bdbaf84e3e6bd300f8f98235b2097c41de9"
+    },
+    {
+      "pathname": "/skills-domain-modeling",
+      "strings": 210,
+      "textHash": "f2f15f60580cede631579df493061f575e09e823c3c96bfc435fdcbb1463620b"
+    },
+    {
+      "pathname": "/skills-grill-me",
+      "strings": 163,
+      "textHash": "ae130a9723cfb30e9acdaed158c7d3634a3eebbd2266765e1c1d3945bc5d29d1"
+    },
+    {
+      "pathname": "/skills-grill-with-docs",
+      "strings": 185,
+      "textHash": "f80512b59af4dc6aef1e982655d4c466b65e7d31fbc9cf5d03e78bb308638f4b"
+    },
+    {
+      "pathname": "/skills-grilling",
+      "strings": 187,
+      "textHash": "40f04a80222cd57037c35ef05c8a5467cbcf3d27fc5a9d765a516b3138b14ea1"
+    },
+    {
+      "pathname": "/skills-handoff",
+      "strings": 184,
+      "textHash": "42d40e3caf50890f4aff18929063798c320ab649d513f150d86c407da1560baa"
+    },
+    {
+      "pathname": "/skills-implement",
+      "strings": 189,
+      "textHash": "8043578d845e17f3f4593bd01595e03eda1da654b0b2ed0ea53d56253cb134cf"
+    },
+    {
+      "pathname": "/skills-improve-codebase-architecture",
+      "strings": 194,
+      "textHash": "a9daefd53c6ad6cc518db7a71bf0e15d904072290fc8aa96ac0bfdfa76508332"
+    },
+    {
+      "pathname": "/skills-prototype",
+      "strings": 165,
+      "textHash": "58585e8ecefa83c42cf06b2883922e902478e7e4fb28cf50afdfe86b0d63f546"
+    },
+    {
+      "pathname": "/skills-research",
+      "strings": 165,
+      "textHash": "1ae37ad54f85fc646fc25e3e6d13198b07ea37e509b599fae862b5f758207ecb"
+    },
+    {
+      "pathname": "/skills-resolving-merge-conflicts",
+      "strings": 129,
+      "textHash": "307b1c05e05ed2708a51cd9e927e4e3b44d295965c0640f2af99743f4b0ccf08"
+    },
+    {
+      "pathname": "/skills-setup-matt-pocock-skills",
+      "strings": 206,
+      "textHash": "259bde4df95c0781991c72975171e813a9e230738bbd1c0178aea3813a8a9a4a"
+    },
+    {
+      "pathname": "/skills-tdd",
+      "strings": 194,
+      "textHash": "2e759af5eaeb4d45516e42fc224861ef355ad71d28022a7cc7842290260045b2"
+    },
+    {
+      "pathname": "/skills-teach",
+      "strings": 208,
+      "textHash": "4946f454233e772fe5d70a038e9358b695c68455fac2b58de7211bbeb9634c8e"
+    },
+    {
+      "pathname": "/skills-to-questionnaire",
+      "strings": 152,
+      "textHash": "c31432aef9222ef928a32803a56e1c0284395d0abb1f06469e949005b64c5336"
+    },
+    {
+      "pathname": "/skills-to-spec",
+      "strings": 171,
+      "textHash": "a553ae6d44f69c66561cb6e6dd29d8b6ef4c877390db067758e4d4c9d4f82e01"
+    },
+    {
+      "pathname": "/skills-to-tickets",
+      "strings": 204,
+      "textHash": "52aa2b9219bcc948ecba5a8cf5d4d49b703cae92170e3653eead8f93234507e9"
+    },
+    {
+      "pathname": "/skills-triage",
+      "strings": 234,
+      "textHash": "cfa2efbd14587bb1807e9e1616be44e6d8cb0541edf47457a62bd301b4dfb10a"
+    },
+    {
+      "pathname": "/skills-wait-what",
+      "strings": 128,
+      "textHash": "1c1569e6da4bd47ca7aeaed2f3c0afd65e3b8db1c8bb3f1993da61e899238b35"
+    },
+    {
+      "pathname": "/skills-wayfinder",
+      "strings": 230,
+      "textHash": "cb83f7b40565481a17c2d22b26ede7fb871bcf5899eb58cce506cb11667fa4cb"
+    },
+    {
+      "pathname": "/skills-wizard",
+      "strings": 184,
+      "textHash": "45d3fedcd139c3e03e7f748385f5653af356521d9934e03aae6988f8587781a6"
+    },
+    {
+      "pathname": "/skills-writing-for-agents",
+      "strings": 166,
+      "textHash": "6e592ca6ed40732f993cf7b51559a768e68f7ab511e2cdce93e865080665fec2"
+    },
+    {
+      "pathname": "/skills/skills-changelog-handoff-prototype-review-and-writing",
+      "strings": 72,
+      "textHash": "b260ec05d708b1aca7b45c7dc54452dd48061f12697a08deb84b84ad6183957a"
+    },
+    {
+      "pathname": "/skills/skills-changelog-ubiquitous-language-grill-with-docs",
+      "strings": 147,
+      "textHash": "baa76b796ba669a83ea577bb872a1e4be0989871258bd63535cf580d22244eaa"
+    },
+    {
+      "pathname": "/skills/skills-changelog-v1-1-wayfinder-to-spec-to-tickets-grilling-improvements",
+      "strings": 205,
+      "textHash": "127e5a64f86c8a8651d9f685f9c06d6f50c5360ce1d39d653f46f4794b4a08f5"
+    },
+    {
+      "pathname": "/skills/skills-changelog-v1-announcement",
+      "strings": 137,
+      "textHash": "279ecc8dd317231dc8c3d9937b4581cc28304dee5ebb9560ebf6d7b9d374c156"
+    },
+    {
+      "pathname": "/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more",
+      "strings": 191,
+      "textHash": "7f74c7ff3998c586e248d33d0d680c2b0007b058b110b7fa879e59a2c582486b"
+    },
+    {
+      "pathname": "/skills/subscribe",
+      "strings": 67,
+      "textHash": "09094b096e3cd3c0dd1df76ae5713ffe6a0658537ded5766d10765d95856e6b6"
+    },
+    {
+      "pathname": "/storm-generate-high-quality-articles-based-on-real-research",
+      "strings": 50,
+      "textHash": "c906307d90cdb7f6af6b77241b940824b4117a2c059a1fd597ff406efa90aca0"
+    },
+    {
+      "pathname": "/streaming-in-next-question-suggestions-with-the-ai-sdk",
+      "strings": 94,
+      "textHash": "6708a3a1d7fbb59818b67c9b436db1467dbefc31c4bfb2e3b0ea0530dd9a453f"
+    },
+    {
+      "pathname": "/streaming-objects-with-vercel-ai-sdk",
+      "strings": 92,
+      "textHash": "316c5c843fae1312eea97c923b4db9ab9fcffb36baf1464b295de67432d45890"
+    },
+    {
+      "pathname": "/streaming-text-with-vercel-ai-sdk",
+      "strings": 89,
+      "textHash": "94c1939e185fb5d234bf87ce19a38c723ad7a995cfc5481905676cba09230d4b"
+    },
+    {
+      "pathname": "/structured-data-from-pdfs-with-vercel-ai-sdk",
+      "strings": 94,
+      "textHash": "332494367ca071d40e6c2632172e5e39e859341dd19a7eb8c867f871cdf5868a"
+    },
+    {
+      "pathname": "/structured-outputs-with-vercel-ai-sdk",
+      "strings": 101,
+      "textHash": "649281bb17c02a55e13fd40f1d52a75e2bff96c9e1f11fb65655790a4381459b"
+    },
+    {
+      "pathname": "/swap-ai-models-with-vercel-ai-sdk",
+      "strings": 80,
+      "textHash": "450e038f1ff7f0f598f46728b1209fb17b1da48ac1ce8cb71a90a7b561a8d4f0"
+    },
+    {
+      "pathname": "/system-prompts-with-vercel-ai-sdk",
+      "strings": 82,
+      "textHash": "53af0c24dd1e65b1628b2df1055c1ac59091ecdfb39046946b99de1abf6229aa"
+    },
+    {
+      "pathname": "/the-ai-engineer-mindset",
+      "strings": 101,
+      "textHash": "5452f770cf5d2e44363b35ddb9c0578a04372f336935fdcf125031d13e1309ae"
+    },
+    {
+      "pathname": "/the-problem-with-mcp-stateful-server",
+      "strings": 103,
+      "textHash": "0308a90e763a48b2b599ae6e262417a3b2579aa229831496218a7db15d6fdd81"
+    },
+    {
+      "pathname": "/the-prompt-report",
+      "strings": 58,
+      "textHash": "74501e5a2ea339901530c6b85d84f8afffc4989878c7eb6c0736b3df4910d35d"
+    },
+    {
+      "pathname": "/things-people-get-wrong-with-grill-me-and-grill-with-docs",
+      "strings": 179,
+      "textHash": "d2c9832136b52fadd126f27158d771faee3682202d6febe2f9d58d51e580b45d"
+    },
+    {
+      "pathname": "/this-hook-stops-claude-code-running-dangerous-git-commands",
+      "strings": 92,
+      "textHash": "846a6d154efae8a27981cec04d056e9a0b2c2c25774815afb16d7196fd37f5d5"
+    },
+    {
+      "pathname": "/three-types-of-evals",
+      "strings": 68,
+      "textHash": "22dec59107ebd78edb6132d8e34860a8c4455ce37fe48efbbe719fc5735ad319"
+    },
+    {
+      "pathname": "/tips-for-ai-coding-with-ralph-wiggum",
+      "strings": 384,
+      "textHash": "2b9090facf6592be039255e1c004600e6327bfc62793676bb15dba8935dbce8a"
+    },
+    {
+      "pathname": "/tool-calls-with-vercel-ai-sdk",
+      "strings": 120,
+      "textHash": "1686a772e458841e216ef54ecc2ce02ba1b859860f1227c80f09f6cd914d9c88"
+    },
+    {
+      "pathname": "/topics/build-a-software-factory",
+      "strings": 45,
+      "textHash": "b97414298a84090b71377a6461ddf70bfb3fc9458d26cfb6e5b71a7dce1bc7a3"
+    },
+    {
+      "pathname": "/topics/build-the-right-thing",
+      "strings": 45,
+      "textHash": "936587aeb4dad7707a91cc9720c533d481b9b05baca2acb78172b71f241e703d"
+    },
+    {
+      "pathname": "/topics/get-better-results",
+      "strings": 46,
+      "textHash": "ef5cb3655e0b3e85a9ecc44983485f8325d7a66ff74bcc351a86eaa4f15c59fd"
+    },
+    {
+      "pathname": "/topics/learn-how-llms-think",
+      "strings": 56,
+      "textHash": "86546fc0d68f5c428a573c3f96f416840e8f09dd7f3d0b72e2728b8384ec9265"
+    },
+    {
+      "pathname": "/topics/meta-announcements",
+      "strings": 40,
+      "textHash": "cf04667703f9192b0b44ee25891727abbb59ba5152d001478736065104262bb1"
+    },
+    {
+      "pathname": "/topics/score-first-wins",
+      "strings": 41,
+      "textHash": "d9ba18138c43a267083857e76ee74e0013ae3cb6d055aa6cf756fae9deebb3b4"
+    },
+    {
+      "pathname": "/topics/set-up-your-agent",
+      "strings": 55,
+      "textHash": "7167b5b312c712485f1e4a868e007088d381ae1592461be6d0f8d6fab6bbe144"
+    },
+    {
+      "pathname": "/topics/ship-solid-code",
+      "strings": 46,
+      "textHash": "ecb2f7565ab19734209e74851939dfbeb9d0b651aac37babc544f4851cd576a1"
+    },
+    {
+      "pathname": "/topics/think-like-an-ai-engineer",
+      "strings": 51,
+      "textHash": "9be2ade4733125667d5967519e8912bec88619ee65ad4dff10f5197b2c2f3668"
+    },
+    {
+      "pathname": "/tracer-bullets",
+      "strings": 99,
+      "textHash": "34df85d6143bbb0c8e8b24f403e1fd8f2d88eeddbd1ba25281ee498c407b62c3"
+    },
+    {
+      "pathname": "/use-local-models-with-vercel-ai-sdk",
+      "strings": 83,
+      "textHash": "733a735ef715d00ee8e4ca436cb0b2a4343a729320dbc47e79f9a9e50b4dbbe2"
+    },
+    {
+      "pathname": "/using-mcp-prompts",
+      "strings": 96,
+      "textHash": "54f37a8df34a163560f58ec821ece5f0c70e6fbaf7bd31f14017bfaa3f894c91"
+    },
+    {
+      "pathname": "/vercel-ai-sdk",
+      "strings": 104,
+      "textHash": "645e9372da0cc6b01b698d4cf06304cc8be2556ebdfee39ff9daacff44dd6137"
+    },
+    {
+      "pathname": "/vercel-ai-sdk-messages-array",
+      "strings": 130,
+      "textHash": "c46325447047a6f3454e712a257e9be1b0832b27a44494256c91a60c143d333e"
+    },
+    {
+      "pathname": "/vercel-ai-sdk-tutorial",
+      "strings": 95,
+      "textHash": "7c1731a69e75047427c85c3681c10598d661e703e285b4f0e1c3f8633b429228"
+    },
+    {
+      "pathname": "/ways-ai-coding-has-rewired-my-brain",
+      "strings": 111,
+      "textHash": "b2ab3b5e835b5104911d7bf228ee1bf5adfda58f376f2558b4e6ad3f851f3591"
+    },
+    {
+      "pathname": "/what-are-evals",
+      "strings": 156,
+      "textHash": "a9ec5b66b57fe46806159079b2d4d1e6e480d5dda4d6d907926bb41cb6391731"
+    },
+    {
+      "pathname": "/what-are-llms-used-for",
+      "strings": 129,
+      "textHash": "8982f41aed008a5d88a5a831d7dc356f1d385a8fafce027bcbfc353d55b1b158"
+    },
+    {
+      "pathname": "/what-are-tokens",
+      "strings": 103,
+      "textHash": "8b329eac7696b336b1656ecad047628045abda555b41f0696fa108209c0816c4"
+    },
+    {
+      "pathname": "/what-are-tools",
+      "strings": 97,
+      "textHash": "556a488ae6b8284cca0fd693e7fb217103cc8fb3220420dfc1a7b187e21f6171"
+    },
+    {
+      "pathname": "/what-is-an-agent",
+      "strings": 75,
+      "textHash": "7ca8a59aa99c70ea3d8db839f35e60d68a72c86662899575779b412a24e7c7eb"
+    },
+    {
+      "pathname": "/what-is-an-ai-engineer",
+      "strings": 135,
+      "textHash": "7e048de09ccb485273d0020a604f686d170fcce22285d7c3b0ec1fbf71c7f17a"
+    },
+    {
+      "pathname": "/what-is-an-llm",
+      "strings": 127,
+      "textHash": "4dc2883ddf0fb221fb9b237c6c6381f9250d2f57396b557334a6853b9f7e4cee"
+    },
+    {
+      "pathname": "/what-is-the-ai-sdk",
+      "strings": 117,
+      "textHash": "0e47a5464d10369944433eed40166ed26420b5cd1ebf2cf984179803c7e34589"
+    },
+    {
+      "pathname": "/what-is-the-context-window",
+      "strings": 79,
+      "textHash": "b1d7f146f3328d939311c8f8315c03cc5c71f0c57f2cf9a39af94263d7b2e47b"
+    },
+    {
+      "pathname": "/why-the-anthropic-ralph-plugin-sucks",
+      "strings": 112,
+      "textHash": "336e3b233440832a1a4d2cfc18f03153e572ca7827f2a1c3cd69966c57d49795"
+    },
+    {
+      "pathname": "/workshops/ai-sdk-v6-crash-course",
+      "strings": 181,
+      "textHash": "d4d6391ba4f61bd26ac7d99538116027ce498ae9bb861fb6a41cf77f8e4fea5f"
+    },
+    {
+      "pathname": "/workshops/ai-sdk-v6-crash-course/generating-objects-via-output~dkm2k",
+      "strings": 55,
+      "textHash": "94b31abbd45c86d08c92b6202e5a63ee6da98479f438b9ec678ad8b1b32fe4f4"
+    }
+  ]
+}

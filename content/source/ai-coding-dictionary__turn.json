@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/turn",
+  "pathname": "/ai-coding-dictionary/turn",
+  "fetchedAt": "2026-08-11T06:28:33.637Z",
+  "title": "Turn | AI Coding Dictionary",
+  "contentHash": "b781c4e9c7b15417401e2edf51526ab40d275bcffb0845f16e10aadbe7333fdb",
+  "textHash": "7d30f3c36a240fb25f8065e35cedc7b6553e1f4b974d9a303eef0389ff4aa445",
+  "strings": [
+    {
+      "id": "b575771fa78b5cabfd902512657f69f4456090c4176bbb6146df226be6b41f38",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "c84f9ad737cbed81de8022b9f0c139ee94fbda7c9de64c8ee12f41569896da6d",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a97d2c4c6ce4057c244371b1f598e4ded396822da75c114725fcc6ebf48a4e2b",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "b84983c73eb7967d5959f919cebfce3552f374114b72af38c56376e2fd214a32",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "e12139dd4128995245964d746d0b9a9d3275f21b0b3be789319a2913b5f7412e",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "e7f821d36cddc7bc1d3b7538029c5c13c37ed825d4cb8f5b1d09babe4f427e55",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8d2e8ef8897370a8692e5cf0a7b16017398ad37a046cbc20bb254896b032aab9",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "37a32cbf190db33d9fc6e491844b986653d444fd14ee58a7c4b35e46a3dda8b0",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "3f1295f0d08a64bcaf4dc445dceec998f96ee6797b7b5c749ce75064ce5b1d44",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "f0363aa799f794cd1314ceedbf72226bca13afd1ace7defc7fd2e9ff21aa1f6d",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f51fad143069b60845d898cbd984706aa2e0161e66b4d3a9e1fb167a7ec55aad",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0880d6cd4a2a07eb9d84d46d3f859a2154d557380c769a1a39ae6e8c12d65a93",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e6a1196b45beee212c3b0d08dbb2fba7c559e94931a57ae19b10e7a4daf545ea",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "066118abc2bd07fc2e9034b44aa26e9e318a99c544a35bdb9982b60e2789e5f1",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "d770b3e62e63272d2032c07ca0d7e9cb5a9ac7a886b9deda275f60881c38d92a",
+      "text": "Sessions, Context Windows & Turns",
+      "hash": "6ba86329848f193a00922dde232ac1e483d8805be061a48f5580560ee54d0b69"
+    },
+    {
+      "id": "f9c8d5cf45d315dec11dd8d5beba8de54b96bedfb812945f1ada77cb435a6693",
+      "text": "Turn",
+      "hash": "b823d5f9d1ce690c00935e097200405bcf903b6bbd61e4866c3c1fda7fb3238c"
+    },
+    {
+      "id": "8a68929e1bd50d5aef16416b98160acc12478df7012bc19122724eefe7e346bd",
+      "text": "One user message plus everything the agent does in response, up until it yields back to the user. Contains one or more provider requests.",
+      "hash": "8c9bdb00f143674688439d1d55f1251353bbb98ecbd7c7f37fdb976641ed1cf0"
+    },
+    {
+      "id": "f6753a23203b5cb44dff0dd4791176283f6d90b494e960108cc729e01a1968bd",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "189b61b127d9a55088eab4ef0787cfbc23f24661148d45dd76e12356d706051c",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "2d8d679f5710b69b00f64cb1215d26411bba076494de925f57a3bcb572cb1a9e",
+      "text": "One user message plus everything the",
+      "hash": "09a7b62639eda856bf44f647e9b8010c97fd476072f95577739c72edcf4f6778"
+    },
+    {
+      "id": "27e9f823674ef612a1c585a873323214e8278a8695d24c027f4b9c55a87c3c00",
+      "text": "does in response, up until it yields back to the user. Contains one or more",
+      "hash": "56794b3069578de78f600e75c6fee9c812b0e5b28269be4e490aafcacdf3adb2"
+    },
+    {
+      "id": "c6c13b1780a9455cfe55aeb8395ae2ad7de77dc3c27fe36c54c59603c5b75338",
+      "text": "model provider requests",
+      "hash": "08d711616fef85ef9059cc46b7a84267d6c19dfaee59ccad9095e7d25528b21c"
+    },
+    {
+      "id": "5da4f8e703a96366b6f16d03b81d35687193070685f2135ae9aca596a1da976b",
+      "text": "— many, if the agent calls",
+      "hash": "680eaea3250d394cf2ada51e7299a65a58a1d80df24b33d6e07af8206ae6b4bb"
+    },
+    {
+      "id": "cb64e30318de4db9e17b231ca2d5fac8ecf06544d5e02fd353660ade93010105",
+      "text": ". A clarifying question closes the turn; your reply opens the next one. The hierarchy is",
+      "hash": "a4442e5fe38b39839fbdd770a65643fe53d9c2780c60e460dc9bb74f7b11c07e"
+    },
+    {
+      "id": "31d246287dc027351d87c92a2ff9607927009902380da0f355f9ad1951cecda6",
+      "text": "> Turn > Model provider request",
+      "hash": "f8ecee7c2d2bc6e7b0956e971578b633f673ba77df96883c3980bed40d9af2f8"
+    },
+    {
+      "id": "b757547eeccfee32c8fe134a9808f5752c3dd512a6bafaba37382308f45bf183",
+      "text": "What makes the turn worth naming is that its length is the agent's decision, not yours. You hand over one message; the agent decides how many tool calls to chain before yielding. A turn can be a one-sentence answer or twenty minutes of reading, editing, and running tests. That's the same property from two angles: long turns are what make",
+      "hash": "bdbb034d0a56bda06fb8a92287aa592ed41f915c4a76c0639273ed363928276d"
+    },
+    {
+      "id": "12054e47d709a69bf2748e90bd1a62101024f25edcca41f8e163036ed3dc5a0b",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "33efb812135d99fa9c72527ecfb0acd27564e2e17fc34b5270cbd91a1507aae5",
+      "text": "work possible, and long turns are also where things go wrong unsupervised — by the time the agent yields, it may have drifted a long way from what you meant.",
+      "hash": "e93c2f01df4f833b497ccdc4d6abd3559166d70f0a6f500fc606a46c8b0770be"
+    },
+    {
+      "id": "813df22084b512003bd61498c037c5c2e8b6b6e2c9159b5a07192db2b916579c",
+      "text": "The turn is also the natural unit for steering. Everything inside a turn happens without you; the gaps between turns are where you redirect. Most",
+      "hash": "1af29260a7d3d8ae9a1555eba68c8a2e7ff1636f846a0c2f280f7eaf2e766ad3"
+    },
+    {
+      "id": "d8970ffac9abdbb79e6fa80618c91c3481efba44086268c654a0d84781dd5565",
+      "text": "soften this: you can interrupt mid-turn to stop the agent and redirect it, or type a message while it works, which gets read once the turn completes. If you find yourself repeatedly unhappy with where turns end up, the fix is usually to ask for smaller ones — a plan first, one step at a time — trading autonomy for more frequent gaps to steer in.",
+      "hash": "5e8ec1f79e51db896e3028d462eb189f8a25d3788848a554915bad126f4f2e73"
+    },
+    {
+      "id": "f0e0e394e62b7c7d938bcc3783101ab5bcf9ceea6267d5fd84dc27d751de4ab9",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "ac9cf0b47eca08337a8a54c39cd4d972389790fd62b5481750e6be740ad2b481",
+      "text": "\"One turn took two minutes?\"",
+      "hash": "6f577e0ed92114bb8fb5e5f82aaf4f091e46096b6fe7c25119a4de13799cba6c"
+    },
+    {
+      "id": "8dafefbd76d38520e8849addc72860649d57eb95d92231f1c3665ce10b337a8e",
+      "text": "\"It made fourteen",
+      "hash": "629345ef5de3338f2b4907ad99eefdd6ecef47ab93eca189017e6eebaddb3c79"
+    },
+    {
+      "id": "27e3c085d889384d81e09e03d1aaba78667f1827c7c03e52c1f5c2dea1ae0303",
+      "text": "tool calls",
+      "hash": "b102cdc6032df9ca67169a6d620fba86a9b0344b8dab71565a5b230deadb5e68"
+    },
+    {
+      "id": "3896b3c113876aa98d56a3d02f01a8d0b0ea797892fd946b4c23f5730784abee",
+      "text": "inside that turn — each one is a separate model provider request. Latency stacks up before the agent finally yields back to you.\"",
+      "hash": "e7ab67d87e621ef9bc05d43b7997399a68e5a967db0c1088d420e2f4994149c3"
+    },
+    {
+      "id": "9f1188cd906f6a8f531f03b06d5485e44b7b94128bbfb3f5ee0b53d05e0e40d4",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "5efc7b3442765f657a41a828960f29ce0d244d9100d658435e12cb1ef1725b56",
+      "text": "Session",
+      "hash": "6959b4159575d8dd76d9f3bbe2c6437904f861e7860c35abd18deffb1c3425a0"
+    },
+    {
+      "id": "cd6e34a9bcc8f5b5e94b5301282c47152cb0ee9c2d4efd85bafc7c3d2e3a942b",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "10f63f4d8d499d06403120a3bd21c98d952a6074b61270abc8c9a6a341358b40",
+      "text": "Environment",
+      "hash": "9e471951a1b4106e54be128a21112b02914fe98cc79b2c92b49ee80c5464487c"
+    },
+    {
+      "id": "58c2c34332ff7a1b034c12093f0dcbce362836c9c027c3b724c38974bfda7ef1",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "7a16e96e0458be80fdb1ac97f0a6e7fd54e8aaf5e506985f4cb32806777851a5",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "a0f088e2a932153b10d9b98f3ac3203688ecc8e110716624a5013b4c1ef2f82a",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "a986c9a8482871e354de38a27c99a88db348c82b46625aad7c9bcf72fffd3b2c",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "cc3a234259b5b6228b56a7660ddfce8c9a044ddf55fa973d4d38d0a43710bf2c",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "d8354a4e403fc3a0a4b7b90047f152d5992a72bad7426834878467cb6de4c907",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "302a3ff179b6dbd94fd5bfa47237dfe92e7c5a12171dd61209094f2540456523",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "8a99b1a1f12c5f87e7bdba88bebe91aad49d38d2aef379c84f8b68f6bc2d2e59",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "59b8c3541fa02b773103a15e0a29d286d707e93ee8aa71189e5fc62c4ab54668",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "9779498e155fc1795b263b8b4ab29de920c241136a0e55d6fd407ef71aca3311",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "646a29bbc839a3f6237a4183fbda005ebe9ef9719d76a4b904a7b4e388f402a8",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "1b192066e0c7bb805a3fd8fc950da35778f47dc2dd28868f4d7093908e98e976",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "9f3c6c80298ec9cfea419f4440aa98f621bdebc67ccd2ed7fff49579e85195de",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "c99d48deed7eae83daa0f9f920205ee619cad024556b54db34b6d1476719b97c",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "09dc08a7518bab7f013c234a142d4259be8edc2cb238fb55d4f92564a25947cc",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "06afc6ba132e15e99f9f9d26b94f546ac0e5afe041d513943f8673a56a50ed40",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "a56eb67f8e48345366afe730dee418ecaac7ac6885039e5c32e6e92db145977c",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "885d3e54c13696ab93e18eb8c8a95cab14b5aca3af425794dd8f08ec98778762",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "b2cef6badc16370aa5c772af5342aba8ab2fa8b2628916068051dee429c1ca28",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "8d973bd5c7d609a3dfeb97d0f167b50e80b79dd8f8c08aff7a5d9262d4232e6b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "5a48f333ef4c1b3159b130d508758aad3058844ac3b7d96c970d6455aa796b65",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a2ba5b89fcc53dfd98562ec479dff5049ad3f4307e7dbf99ede0ae6dd169b168",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "8f2054927fc945768b4b8d435bf652ad9820b9b87db268220c0f6e3daf54dc3f",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8719e7e6b355fa077700efd341e1a8e4798b035a1bbe53773de37326dc9090b4",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "6c6770c7ff6ca6e2ae2c5635c7b43ceafbe633ce69fffa04edfccf8e7b719059",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "1adf272d0b55c8e58b991a9529c20d34036fe31e056783c7a7fd3a3b6d55ef7c",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"hl3t3vaijb4px4\"",
+  "lastModified": null
+}

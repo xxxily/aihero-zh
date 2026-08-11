@@ -1,0 +1,948 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary",
+  "pathname": "/ai-coding-dictionary",
+  "fetchedAt": "2026-08-11T06:28:26.946Z",
+  "title": "AI Coding Dictionary",
+  "contentHash": "04a582ad1b453bb649a083fc4b997dc756eb0855c8e48d0bf6f898ed718e1b41",
+  "textHash": "f192d4e2002ace37586109f219368870e57aa508a52a5f23777ccd97af1557bb",
+  "strings": [
+    {
+      "id": "9fe170937d5d60651c1c5b7b2e3453c9a4e4003c4a3c60079ff1612f234e396c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "4ddd254ca3901634f4a9839dff7766847ad0d236e17cdd220481fc6a17ed93fa",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "7018dd23d60e5f3ac48d8c1fc8abb7d88366c54c145a0e7030e56d179155741f",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "edde76d0dcf828a70eda38588f2a03f557b67a5fac6525c12e534e93e60ea7ab",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "aa602ed882ea0db3942b4a7ed62959c5484543a8eed583d1c78b97d94510048a",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "4c9b8724e2a6b18d9f16eb35de86d9145c3e293a9d1d7658eee52297a6123ded",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b439c9cb7e2d2a07e5d51515248c5a972eb24bc082033de82cb63698a0373d78",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "eaa21ff7f2da665054838908a84233d5656cbc63af0bf05b1b491ca4d0f2e499",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "864886b9622a61bb761c29d6d986974efb1f6bb1486e4b7a33e0eb2c5ca400ea",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "96a721cf70ce958c85e0a09ae4139dfd3239d6f3e68639a8ca6ea2a1d61fd99f",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "047e31abeb8d2d2ca471a0e8c725906fa2423e274415b2654d44bc77a0ed952f",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "a3201edd22b44d718e892810b6a8d8cf3ab83c378b114933e79bdaca04a59695",
+      "text": "All posts",
+      "hash": "3a2e5c2c34923fd59378b934af83e64a872ef512e6dd42d647094e19df08b6a3"
+    },
+    {
+      "id": "3f8f7f6802707f4c02fb7987064633fa9dd4094dfacde22acbd7941ced2d0199",
+      "text": "AI Hero · Dictionary",
+      "hash": "8f53833e9c03fbe691c90269c2ad8fe66fb527874ce095034047eea97da71980"
+    },
+    {
+      "id": "7f631d2af35190ab6fa43f5e0064767a8c1c876836023ad0ace688667e43d929",
+      "text": "The vocabulary of AI coding,",
+      "hash": "0c2599388f6302eb52aa4645f7a0dc2187099ab6368e16bfecc0277d6585ef7d"
+    },
+    {
+      "id": "42aa1488d0d74d7d60e7f7e72497a61c07d16e7e14b0e94f3401c3441c400d95",
+      "text": "in plain English",
+      "hash": "4d8012a251887f40a0e5e95e65d9230a151ef8c96e3cbae397b7f8d2d54acae7"
+    },
+    {
+      "id": "f3817339490f97a284d69fe88b3376631f9e79d71568693780317078d0478566",
+      "text": "Skimmable definitions for the terms that make agentic coding click. Search",
+      "hash": "b99f208ff05000fe775915559bc23d67139f7fb5181c28637264e03e0c833850"
+    },
+    {
+      "id": "5bc581420bb411c56fcade1a1a278892e7917ee260495f4caa2e6b53b2ea2bf2",
+      "text": "entries below, or jump into a section.",
+      "hash": "561d8dfa487c77f0a8ceaba7a7bbc560c1c3993738b517e9aaaba944629a46e2"
+    },
+    {
+      "id": "fcd37d687886a1172c841489558bf83d0726b5e4b76747eae784e4b244e82d41",
+      "text": "sessions,-context-windows-&-turns",
+      "hash": "3b63ee41cd73d03cdc14a423e013a5dcd99d136a37faf236b25d87d85bff029a"
+    },
+    {
+      "id": "99715f3b5630023789f98356d709114ec996753cfc8b0a3ea71f53cf05a171fe",
+      "text": "tools-&-environment",
+      "hash": "710f6629b1f45ceee30738618cb9088773eef3b04f12308ca59b964335e26a80"
+    },
+    {
+      "id": "454e39ae3c5d18dbf8f126f40e7e3f134bde7d22c742e545f006203202b01b77",
+      "text": "Sections",
+      "hash": "9bae918add9affa51189bde5fefc7390ee2866831e894bb5f72b472a79d4ade8"
+    },
+    {
+      "id": "c7f6fc4c32b65c018357bd3cba4719215685534e2cde27a82a77fe9b6c4e8017",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "ea4499522b5ee762f7dd895b086daeb090f8c622ef0454c67f46b621bda728ea",
+      "text": "Sessions, Context Windows & Turns",
+      "hash": "6ba86329848f193a00922dde232ac1e483d8805be061a48f5580560ee54d0b69"
+    },
+    {
+      "id": "0f2615bd70a8563efd8cfda51d904d47c86e4d8dc08cca39f6e99aba1c2a1273",
+      "text": "Tools & Environment",
+      "hash": "cf9194302814cf2bb2ae04f0e1023fec3d18acdc5258a0e00c18bb7df366cf00"
+    },
+    {
+      "id": "0aebceac12a070e051a4689e8085c9a095b6101aed8f9988c307bb8c6a197865",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "b53e64f214cac5986379bb0fdf4b4c30c1ef6c7e993f979de3300a32ba7680ec",
+      "text": "Handoffs",
+      "hash": "29f217d5d86062d687fceaed0f8ff7da2900d2b2b33d409e4abfd6ebe310c1b4"
+    },
+    {
+      "id": "4e7b751715c80c84820681ab71ff241b27e3b130f7a2f6a0a7ac599de1def477",
+      "text": "Memory and Steering",
+      "hash": "e9396c915a0fb1c9f188708920573d4a5b1ec0a09639049682989999ecbdf3de"
+    },
+    {
+      "id": "8148d0e5dd129c5a16135240a161fbc8bc2ad53a1c459c84f8137926c4326753",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "f46c7ad1df6f9671839a9728041cf6f6832a433c850df8114add1b10f750161a",
+      "text": "A moving label, not a technology. Points at whatever computers can newly, impressively do — right now, large language models.",
+      "hash": "ae5d29315873870b0fc18dfc2e6ecd51b5a5be1653332ca424c6e168f9cd94a9"
+    },
+    {
+      "id": "06cc5eda2d92eaad77aba585c6fd80b70423466603677dca782dae4722ea53aa",
+      "text": "Model",
+      "hash": "5e2c614c23f02239bc03c6c04fcb681950f9e72bf8fdff6be79c79841cbb10c0"
+    },
+    {
+      "id": "bc04971dd2c9e7ba1afdacb20ed050a306fbb21f390885955cb0691cb3074241",
+      "text": "The parameters. Stateless — does next-token prediction and nothing else. Cannot do anything agentic on its own.",
+      "hash": "aa98c9bb7a544cfc19b000f6c2d874b3036a7c280b8f0930cb91ec2f6816350a"
+    },
+    {
+      "id": "40078b4514ef6a700291e68fd4af2b51eac0074b29aa45857b5baae127abd579",
+      "text": "Parameters",
+      "hash": "e68b36b17cbd990802f57741cb75cf3a73fa66a61999b0cd70e3cf7d26cfb25f"
+    },
+    {
+      "id": "c0e5abf1ebe05f7c605a5793bd05379f1d20f34e28e828edba678bcae603e591",
+      "text": "The numbers inside a model — often billions — tuned during training. Everything the model knows lives in them. Also called weights.",
+      "hash": "2e07981549d106263c7492b81e6a49e974245cac92d0bd2493a48fbea79c6aed"
+    },
+    {
+      "id": "20a612f2a212e4a8ad77103d36ae560f180b6538b4ecc0c85fe1f2d90825cbaf",
+      "text": "Training",
+      "hash": "36a798e3f39239ccdec697ee348d2ce0a7b8d2d9087940496e2ca5d0853399f2"
+    },
+    {
+      "id": "4b968dcc3f57504c9f4e7fc1b28fb0a161175470326ed5b8bf74b5734bd75dfd",
+      "text": "The process that sets a model's parameters by exposing it to vast amounts of text and adjusting to improve next-token prediction.",
+      "hash": "7484df838cffa2dcbb4cde1cb5fbb1cbc9431c4a4fd049fce8941b91edec474a"
+    },
+    {
+      "id": "87a79f0c162b0968c54e3c811ced031c277a3d7c88b110b0c18882c117aaeda4",
+      "text": "Inference",
+      "hash": "ae5b8a4c6ac9aa79b9fa5676a05734984afeba28277a24d2f3baffa9354ccc7f"
+    },
+    {
+      "id": "cfd042ddaee58ff3c5c3c0b63722b66dedfdc49c8bf7655a507a8ec96ec0f82d",
+      "text": "Running a trained model to generate output — what happens on every model provider request. Parameters stay fixed.",
+      "hash": "07be2dd9618c2982c04b1e6aff72f542942846ca3ed9c8e7336a2b935d8f4f40"
+    },
+    {
+      "id": "520ca7b4f205a082dea1fb6958b1899f8a4a979d0c38f84631908b2e2dd3a67b",
+      "text": "Effort",
+      "hash": "4387e5d3966fc436532792769763cd1ab7cccd6464d4c01c2b91261894e96b77"
+    },
+    {
+      "id": "fed51e18d1b8ba7652061c4234d545c647cf6f45527b47072c25898a0d9d7131",
+      "text": "A dial for how much reasoning the model does before it answers. More effort spends more output tokens for a better shot at hard problems.",
+      "hash": "a33f8c75eb99211e1c9a24ae09720fb2ca6f00179b506920989fd2ca3831ea8f"
+    },
+    {
+      "id": "eba9e20ea4f63b186ca7f3ea04f579f8368f2598ecd7b2f68b2fb0be7eb8ca2f",
+      "text": "Token",
+      "hash": "d2089be672953d1136faa84079af1b6f3967fed8932dabffba3032d30e3c0618"
+    },
+    {
+      "id": "32a990ca27276f259c8c3d580ae42f31b770a5463f3236becb1769309a296902",
+      "text": "The atomic unit a model reads and writes. Roughly word-sized but not exactly. Context window size, cost, and latency all count tokens.",
+      "hash": "31bce3c71e1acd9ea3fc77b80a3a9ad805591a2b7af267f6e002849ad08d7fc3"
+    },
+    {
+      "id": "066ef1c7622caf8a18a12c3df3a9770aed1205b1775e7f004b96c8d58e21b163",
+      "text": "Next-token prediction",
+      "hash": "db2e13aa671f566f6c582c8ff074e0b702a81659695c239d0634c86b0e328583"
+    },
+    {
+      "id": "85c4751e6c5be0a970b337ff8bb63c2fd90f0f3b1b029fc25a0eadddf8486f59",
+      "text": "What the model actually does. Samples one next token from the context, appends it, and runs again. Its only mode of operation.",
+      "hash": "4ff0db2922d8c5a13fb5c81106a04cfaf59b1fe4ec859c783598961511fc1640"
+    },
+    {
+      "id": "2281f10ac84ec1c651eb29a36214ecaf25ac9e6d9fa0f9dc0430eb75bc816d68",
+      "text": "Non-determinism",
+      "hash": "29528d719817ee2e8c9f3bb920e7820ebe1ff4bc1afc1e91f25ef655e25d4b01"
+    },
+    {
+      "id": "db817c73df76540dd044f339164a84c13d7340453f3abde75ce398eb368afb0d",
+      "text": "The same input can produce different output. A property of how models generate text and how providers serve requests.",
+      "hash": "f1700615d5d5a3a32b8dfecf068a5038783adef2707c4bc73bf149b00b2987ba"
+    },
+    {
+      "id": "82cf19c356bdf15070b5b18a56ff9b8cce36029ad800667e38f8f1407d1885ac",
+      "text": "Model provider",
+      "hash": "ea70384c465d5c89fb7cdd19647c540c4025a1c17532dcb8b987d7b753cf8596"
+    },
+    {
+      "id": "c078967f53e429d0dfd048b0fe73bb404c0a19c42c52e81e48e0541072b3108d",
+      "text": "Whatever serves a model for inference. Usually remote (Anthropic, OpenAI, Google), but can also be local (Ollama, llama.cpp).",
+      "hash": "6044e996e1d061ab93937f8014c7cebd445c04a43e7264f565c0ce8956a3269b"
+    },
+    {
+      "id": "19034e8d04388ae8fec303b68b6476ba33b230fe0e42e4df3fa0e7ef39afe299",
+      "text": "Harness",
+      "hash": "e3b5b45953d79a150092df37922ee6261a81040f5fb3c084fa00efffe8b98589"
+    },
+    {
+      "id": "77f2903b493ce1adae45274feb7eab94d984a0757bda68821769a27fc7de3a74",
+      "text": "Everything around the model that turns it into an agent: tools, system prompt, context-window management, permissions, hooks.",
+      "hash": "e40299472c9a9bb26d0674f0080cba6484a9e46266325376cc8a4c4b67354586"
+    },
+    {
+      "id": "1fcf4581829e495fef945f9c27833126459afb823f2bfabb75bac0a8dfe49f97",
+      "text": "Model provider request",
+      "hash": "9c5ec7e007cdf80e19c7d748afcb27235638ab5cd45408bba18188a20fc2e611"
+    },
+    {
+      "id": "e1fb113818405d013da82387630935af0e2a3dc3c85305e0c57506088d122e4d",
+      "text": "One round-trip from the harness to the model provider. The harness sends context; the provider returns one response.",
+      "hash": "bdfc4a1521ec2576fb662ee7b64f4831ff567a899ad04ddd0da1adb3c5270a1e"
+    },
+    {
+      "id": "d33079e9ceab96d5ffb2e8be8a9fcac5d820662b784fb42aab3a6eec6707e0a9",
+      "text": "Input tokens",
+      "hash": "dd856eeb50463bae46757d871d833fcb63d29a39356e7db40fea337f6462c947"
+    },
+    {
+      "id": "e1a28daa18503b9eff2a45c48c72131c9d081ce226b9c181ea7122badf3e6f1a",
+      "text": "Tokens the harness sends on each model provider request. Billed at a lower rate than output tokens.",
+      "hash": "27dbaee7265214d38d84d6d5013b6eab72a2b7645881120308b16c0a513569ec"
+    },
+    {
+      "id": "1526d781c5e2d725547437f216160b39612c5216c87c9f232591de9387abc04a",
+      "text": "Output tokens",
+      "hash": "a9b50ea0c4a7e3469e7ac21e5497c3b11159a5968330807180eba6b5f0f36bfa"
+    },
+    {
+      "id": "bf9c1ead04bd97e529a79ae8b612a5f423754faa98729cded420815654d4bcf6",
+      "text": "Tokens the model generates back. Billed at a higher rate than input tokens, since they cost more compute to produce.",
+      "hash": "6577769b186cacad59e0e4bd955c582bfe96bfe276cf7065e7973edebd057e44"
+    },
+    {
+      "id": "c3b3e61f2eb683b8fbbcfd39be3108d74c5157f1f3ef2a60499f02520c0d81bb",
+      "text": "Prefix cache",
+      "hash": "6d2f1e1fefb634a9d9c07247312a3bd2471f20af5deb07dff137143ede4f3810"
+    },
+    {
+      "id": "9dbf6fe5a4b33d71d472e932cdab0e9dc315744122cd38fa7043d3cca8b804c3",
+      "text": "The provider-side store that lets consecutive requests skip re-processing a shared prefix, billing those tokens at a lower rate.",
+      "hash": "b820ee4e01d58e4eb8e549f1d16545d3e2c750278b27cc57edfff8a643a533d3"
+    },
+    {
+      "id": "cd95c69ceaf40ee18d0a27d566460af9663dcdbe2b02444cf760179e4bb3054f",
+      "text": "Cache tokens",
+      "hash": "cce47e61662627e3233cc32f7d9c15df14bdb29e105265edb1add04660d4dc43"
+    },
+    {
+      "id": "ca080423c4bef3b6f514c1ff1c7f406ac0d1eb085f89d58ee6e5292c2df90f8a",
+      "text": "Input tokens the provider has cached from a previous request via its prefix cache, billed at a much lower rate.",
+      "hash": "aab171121a71715bf9cbd1a080afb6dd7bbc8b2b7088d883d346674fa2b0d321"
+    },
+    {
+      "id": "633146664c7e21515d6125f3d7b0728ff271b5643780dee7e3785429fe27bb4b",
+      "text": "Stateless",
+      "hash": "f0916a93b0a1776f11d26f8ea012555868465f41131bb6037f712455ac330788"
+    },
+    {
+      "id": "a580209cbd47bf34d73f396aaf2a57a6f26aa6dcf74d6dcd6346a5ecb05550b7",
+      "text": "Carries no information forward. The model is stateless across requests; an agent is stateless across sessions by default.",
+      "hash": "ae8dae879a652102f3eee96d71327fd4cda6c6072e0517d7ed504dfbd94b91df"
+    },
+    {
+      "id": "ce51fc9aafca6e1db5c9852fe442b26def275941657ac1d0ebe593d5bc722140",
+      "text": "Context",
+      "hash": "a6e600a10fede40f648be37a700467776215ed2da3c271e9d02fa2987190a0a0"
+    },
+    {
+      "id": "8bf2e134e61c605d756b77b5defb5b4b116b508a2d74011f794ab21bc3ca993c",
+      "text": "The relevant information the agent has access to right now — what the agent knows that's pertinent to the task.",
+      "hash": "390e062000485f74e2afa938a5ec85ad4d0f73c064c9111c7d0b7ab5e5e84362"
+    },
+    {
+      "id": "e4e4c82f13d931ed5ff38bf9e3a35537c38691e3b7226624220c1521fa4e45f2",
+      "text": "Context window",
+      "hash": "7696d0855331622dc12438057f5509348f9d6f0ec2eb3580e18a99d31eba86db"
+    },
+    {
+      "id": "a97829da967cda57f1acec2b77593a98e0072a22da1f6eec65f3c9c441c5585b",
+      "text": "Everything the model sees on each model provider request. Finite, model-specific, the only surface through which the model perceives.",
+      "hash": "bab5572ed70e6cab56892f92fa6b11e39d420dce2d8b831c215cc44c212339db"
+    },
+    {
+      "id": "848bc4ea72e7fd94afbf8ad003efd35d436f0ffc7a32e6a177221b41920228bb",
+      "text": "Stateful",
+      "hash": "e4ab48dc9497302d0218524068003e9b3283aaf668d2c8fba98bc0b1c5495541"
+    },
+    {
+      "id": "eb7bc7e40cc42d4877170a741261b458fa104aa4125de8001982225ad01fdef0",
+      "text": "Carries information forward. Sessions are stateful across turns; agents can be made stateful across sessions via a memory system.",
+      "hash": "8d4f48ee77a4260af9e822cb68dfc53a261babff77ec4ae76296856ce5b1d749"
+    },
+    {
+      "id": "813a15178eda7697827dc3c1be85a41f0ae5a87623896339021d5a75186b19f7",
+      "text": "Agent",
+      "hash": "11b39c93777e8f1f3983bdba7c72b22fe68cfea20c677e9de53e17cb7dbfb19f"
+    },
+    {
+      "id": "a0b9f08ab1277c3cb4139bc5ee6fed56880f22c2488431c6eaa6c174b56bc5f1",
+      "text": "A model harnessed with tools, a system prompt, and a context window, that takes turns with a user. The model in motion.",
+      "hash": "ce375d5d245f53e6c4e4f705185cbb04ab7bff8ac65d7ee6ea2c9ed635fc5c7c"
+    },
+    {
+      "id": "f0bf34170b916de338acee01ee8fd75dac51f9a1a2ff5a824da19e371b965696",
+      "text": "System prompt",
+      "hash": "561257c019e5e351b341fcb53a45a61e2748698f14404bd38a3dbe58a957ec30"
+    },
+    {
+      "id": "ca0d460c4ecdb0e10ebce2652fc3cbc9df44da05664ba081e0ade95a6694a788",
+      "text": "The instructions the harness prepends to every model provider request — the agent's standing brief. Usually stable across a session.",
+      "hash": "c6bc37b61f974149ed93ba4b8d5550a57d5cc059d5475332cb082bf59bf8ec4e"
+    },
+    {
+      "id": "dec49b1dca2ba38ddd9bbd19374b297ed4a099ade1dadf0bf92282b7c12d5edf",
+      "text": "Session",
+      "hash": "6959b4159575d8dd76d9f3bbe2c6437904f861e7860c35abd18deffb1c3425a0"
+    },
+    {
+      "id": "98af2c486c2ab26ab2e21d291d80991a112ab70b32db284c76cc785f1f4d84ca",
+      "text": "One bounded run of interaction with an agent. Starts empty, accumulates, ends when cleared, closed, or compacted into a fresh session.",
+      "hash": "7ee077c28b8cf80eddb60651b9dab5945078732aa6f084cd7ff75ea753a2068d"
+    },
+    {
+      "id": "145af16dd6f0856a9f3a9fba10f70a9de1a07a1c4c94b7b754593c2ce4c1fdad",
+      "text": "Turn",
+      "hash": "b823d5f9d1ce690c00935e097200405bcf903b6bbd61e4866c3c1fda7fb3238c"
+    },
+    {
+      "id": "31730935da7bc8f5e40996eeae944a34ae8066e3041fd58093df6fff40bb97a3",
+      "text": "One user message plus everything the agent does in response, up until it yields back to the user. Contains one or more provider requests.",
+      "hash": "8c9bdb00f143674688439d1d55f1251353bbb98ecbd7c7f37fdb976641ed1cf0"
+    },
+    {
+      "id": "0bc5e69c48b32ad1451d14a48d1dfbbffcb92faed0358e9d95f4094191cc0441",
+      "text": "Environment",
+      "hash": "9e471951a1b4106e54be128a21112b02914fe98cc79b2c92b49ee80c5464487c"
+    },
+    {
+      "id": "f433a3bcce7249343b7640818dae393f67f62db67a09c3c03ef49ef7823ab26a",
+      "text": "The world the agent acts on — anything outside the harness that the agent perceives via tool results and changes via tool calls.",
+      "hash": "86fbad51fa7bd74f5c6ac338e5a5f2e0527e4a3d67592026300fa7f9c1ba539c"
+    },
+    {
+      "id": "7b3575201482cc89dd34e9bf0277f986d92546e48c31e874d4a2fe86a7d96dcc",
+      "text": "Filesystem",
+      "hash": "8230c68a6158c8ba8c1b7d5b8e0557be9564e129e15806f60dc2205a9ca5bfe7"
+    },
+    {
+      "id": "9caa5cfcc9cbaa5f39a3fab94bbb5178c7025ff024bbba8a02349048b7a33c43",
+      "text": "A tree of files and directories the agent reads from, writes to, and executes within — the default environment for a coding agent.",
+      "hash": "37020af223f0586d2a5a3ab33f55c4a0dccf939268a99f20a7dbc7c23a1ec726"
+    },
+    {
+      "id": "c24873158640505a923a9b530100b193254267a1ac348f36fb2a200dfb4dd4b2",
+      "text": "Tool",
+      "hash": "2e53bdcd0740867b597599e733c04a994f55fb17c89a61595183a001742e5705"
+    },
+    {
+      "id": "757e221c92ccf514d0a2ff0c75c2bb040281f34fd4995541d27451f12cef9911",
+      "text": "A function the harness exposes for the agent to call — Read, Write, Bash, Search. How an agent perceives and acts on the environment.",
+      "hash": "73a913ec01a96d0c152e4156dfef327a5dddd169115221a9c5b870ef83e24232"
+    },
+    {
+      "id": "79336bc76201a26f70388de7729f1284a7cdc96d8238d14d28aa2dc3cc4a9c64",
+      "text": "Tool call",
+      "hash": "17011048725fe0aa705c845f084d0cceafa8c81f7f439bd83a6600d1f516e009"
+    },
+    {
+      "id": "6e571b98f1d0e288d5cb70e454e7216ad521a2f3b28a237406ae397c9fb085a1",
+      "text": "The model's output naming a tool and its arguments — just structured text. The harness has to read it and execute.",
+      "hash": "ab964192485baa9f5d72227337a06e06f8bba722affcbb95ecbbbca718c414dc"
+    },
+    {
+      "id": "2117156e93e293e3ee8289cf48c021f1d07d8940acb541a6c0a37f762742b579",
+      "text": "Tool result",
+      "hash": "9bb620efa692f707a302a5f42464015a54c20843e2f76f18a1542626b886bb91"
+    },
+    {
+      "id": "33d257269a65b1ba20d86553005fbe70fbe9f2942c4dde634f3d69a6a8a4515b",
+      "text": "What the harness sends back after executing a tool call — file contents, output, or error. The agent's only view of the environment.",
+      "hash": "81b6af2a31f1880ae786ee5ef139982feddf31956cc5b7391f929f262702acc0"
+    },
+    {
+      "id": "dec4f508659ddc93d1aeb37a036812655fe8ddfdca9054267dbd966d9c65ab4a",
+      "text": "MCP",
+      "hash": "53f13ae99ed53bd346eb8e1c8cefb7ef8260683b50401caf101360967ea052aa"
+    },
+    {
+      "id": "3577238cb9977bb8a324d5e86ffeac4b95073bd58b7341291f96ec262c03541a",
+      "text": "A protocol for plugging external tool servers into a harness — how an agent gets tools beyond what the harness ships with.",
+      "hash": "c3c693fcdc6d9fbd9f640231d381a36d6b8371b3f23b1653c2d78e6c7ec51ed7"
+    },
+    {
+      "id": "9bf93ca89b722c6175851bd6791c60a19b9b29eed77337e5d45e12c3957a8095",
+      "text": "Permission request",
+      "hash": "93dfd0b5c5d1162c11a79ae6f8bfd7443f2bc1dabf3f8e58791fbd90c0f97fbd"
+    },
+    {
+      "id": "899f923720c955ae4df4d81a83d06971eebd46d1e3ca235ea9443fb2736de2e9",
+      "text": "What the harness shows the user before executing a tool call that isn't pre-approved. The mechanism for putting a human in the loop.",
+      "hash": "75c684bd58fa8da73f29508b2b1da23373e1588476c83ec31d4b1dd203b08d8a"
+    },
+    {
+      "id": "ce8b1db5755a87db13025c72b6bb3a163f8aa23dea90a4a77ed7d6c9be95b46f",
+      "text": "Permission mode",
+      "hash": "c7a8e6db5cbb4c7180dc0a588ac85d4c5e98d7d9f5b92c87bd146758e6023463"
+    },
+    {
+      "id": "6555111ebc5e4500d0d62485f487956224eec6c7eae1f96266a7acb9ca75f094",
+      "text": "The permission-gating slice of an agent mode — which tool calls trigger a permission request and which run automatically.",
+      "hash": "65f78d889a7386860dcc1a452dd895d9f68b6d347db12f22d38ef3e4f50cdfef"
+    },
+    {
+      "id": "f78153b84b3b3d02344e01196bfb0b234d3c51efb2c1157c7f3f23638d547ec5",
+      "text": "Agent mode",
+      "hash": "7cb0154423f4e208531c0ab32537384bffd7b92ace440743085f715a3a9042b7"
+    },
+    {
+      "id": "e1983b1e5749f66d2907754354f5bd70278aa70c2ea9accb0c164c316b7f21b1",
+      "text": "A preset bundling a permission mode with behavioral instructions injected into the system prompt. Can flip mid-session.",
+      "hash": "2c8dada3a474291528e855208d613593c36f3055b73df0eec3b7409d039484b3"
+    },
+    {
+      "id": "15ea097ef4298eff319fe4457230fef5355d97fed28b00e208d374cd5c88fdde",
+      "text": "Sandbox",
+      "hash": "67fc62497e85d81bc54ea07aa87dca6868cd470e95d7281155a8eb532ce60009"
+    },
+    {
+      "id": "9f40d4fec14676ef1f2f7e4a024f731e468876487f5bc50132be1b232c8128f9",
+      "text": "An isolated environment the agent runs inside — container, VM, or restricted shell. Limits the blast radius of agent actions.",
+      "hash": "a57e4fdf9556c49d5778453404b48b57a6192c9f43702091e5e58db8dcde551b"
+    },
+    {
+      "id": "5e751d9b5c48274a894f1dffbae7b2e5292aef1b6e8f566ef2595205ce0086f9",
+      "text": "Sycophancy",
+      "hash": "3ea44487a35802429565ace3d346af85ffa355f51322456406c67ae05fbe8aa5"
+    },
+    {
+      "id": "5cae6cd589487cee370444a814e85d5ae6edd7957cd6ef22b8e150d171b5dcac",
+      "text": "Confidently agreeable model output. Caused by training that shaped the model to favor answers humans liked — including agreement.",
+      "hash": "1a45692a24a256a27977a8d81943c4f90fd99ba0ef218beff12ab39329bbd276"
+    },
+    {
+      "id": "bdc3624c3c0f06fa3de8c99f1f3d8f738fcc2c2e7c41462ad6222261c78534d8",
+      "text": "Hallucination",
+      "hash": "08cbd764e551fe9d33c8868ce7edae2ddad683fa405222f643580b0fd2a25e5a"
+    },
+    {
+      "id": "3c41b53535f99adedef446ea06405ee9d580d3e33faa334a8b6d0ead9f4c9d0a",
+      "text": "Confidently-wrong model output. Two flavors: factuality (invented facts) and faithfulness (drift from loaded context).",
+      "hash": "472a81b7040b99af5f7eb0392164f37405b59b6dffefb64e04a027771618f720"
+    },
+    {
+      "id": "620ba9f0d1a95d57c70c4f205e8a87b8e5cc3ea870de36f51acbb55545a59f3d",
+      "text": "Parametric knowledge",
+      "hash": "ca4427e58e7eb25fb52c817968346f4b0283569955f17477e050362e47238167"
+    },
+    {
+      "id": "038e1705c0c4601d2502982ecf0d2b581ab1d55b39c2998646002362aa4bef28",
+      "text": "What the model knows from training, stored in its parameters. Frozen at training time. Counterpart to contextual knowledge.",
+      "hash": "24012f4804d5bbaa9cc73d284643e49852f4d72cc740531fec7c940082f489df"
+    },
+    {
+      "id": "e74229bea823ddfd7785451b214983d03eb9861ae591e40ec9424185027a814b",
+      "text": "Knowledge cutoff",
+      "hash": "da7752dcbdc5ec6cb75299abd8a5293085358a207b7a1383db9e1ce36002d71f"
+    },
+    {
+      "id": "9d27ecda1c17aa8ba608e5ce72067f69ebff557262b5deb0a90addca66f54fec",
+      "text": "The date past which a model has no parametric knowledge. Post-cutoff libraries and APIs are fabrication traps unless docs are loaded.",
+      "hash": "87a9269ed198acdfd6e7aac285725b4ae882c13628113a10ab64fa3778efa089"
+    },
+    {
+      "id": "f342aa0ce158293f4196f13a2c7f883e498d4fb6d53ecf9b4c1cb5294f1e1ca5",
+      "text": "Contextual knowledge",
+      "hash": "d6e7abe0383292e093bb86c7be9c6e2a5572caca8fa0e5265c6f14c196b0bd4f"
+    },
+    {
+      "id": "26f45f9d8b4c2867756fbeba0a4715ff131028f3ddd8459d866e665068315b75",
+      "text": "Facts the agent can read directly from the context right now. Counterpart to parametric knowledge.",
+      "hash": "73c00ed4b125d42a134ab302ad5bdfe555b1a597b851113d2c6e8b08763ef347"
+    },
+    {
+      "id": "2e5ad164370cd91183ed01f9e790ef9eaa50152c8ee71f80dbd2c6e43321e855",
+      "text": "Attention relationship",
+      "hash": "3326352af9343a5dd603549ddc399a87efaec24216defa5bbbf745688a6eb302"
+    },
+    {
+      "id": "51125463b961aaa7ce36aef9a22873e6250651b1b5ada524be1f6729461dd96a",
+      "text": "The pairing between two tokens — meaningful pairs influence each other more than unrelated ones. A context of N tokens has ~N² of these.",
+      "hash": "03fe1897b52bf66e386c04a4423768cc576e3260e3bd60e2f8ce1625a9205fd2"
+    },
+    {
+      "id": "fe0c2ec5082b8669d0ab25e3ae3d5f61b7567d7bff35ca93b476c6512982e6e8",
+      "text": "Attention budget",
+      "hash": "3050c3ed0aa7f513c8d6d6891433e8d97ad0fbe382486b1f5b52a1129c834ab1"
+    },
+    {
+      "id": "e4af04934e16ba13cda2ca9a2f769ef9a0868d59c06a5c28a24a797597cda1ea",
+      "text": "Each token has a finite amount of influence to distribute across the rest of the context. Per-token, doesn't grow when context does.",
+      "hash": "062efecad3133d1776bbc810917fb38cc6128b3fd57eeeae7e63c8a00db57f99"
+    },
+    {
+      "id": "73a909b44d8b6a1ab11451b7233c857d4d980a70a023c95c89194228055551cd",
+      "text": "Attention degradation",
+      "hash": "892a19ca52d75c31194b0b4d50bdbdc67fcce95b1420c662633dbdda562252f7"
+    },
+    {
+      "id": "d409e60c1a4aa27d31d1ad641237e5d56987dfad5f599358b8812d0fbf8d7b81",
+      "text": "As a session grows, each token's attention budget spreads across more competitors; signal on meaningful relationships shrinks.",
+      "hash": "af10f843a07adbc1fdcb1f1d6b683a2c001d57d331382c97d0265434878784c8"
+    },
+    {
+      "id": "bf3de1aa77ccf02763e99d602a6beb2e61a8a6391f8b5da332fb07cd3d2cbc11",
+      "text": "Smart zone",
+      "hash": "1d6692e2d3e60ff1a5113a02cc9524ca6a226f294b75c980767702844a9240ee"
+    },
+    {
+      "id": "bc3e6e3503778ffd922cf6587e68caa8aee03d2cda40a9ab7adc315bbe5fbb7d",
+      "text": "Early in a session the agent is sharp and focused. As the session grows it drifts into a dumb zone: sloppier, forgetful, more mistakes.",
+      "hash": "2b165fb0afa5e63c6f16ad81527be0d7a3b8b7767ba8b222b81023030c5e4ae3"
+    },
+    {
+      "id": "b82f376f163cb9449ea3d5b2f2b302b4305b64df7553a40ab80fa3ed4a7612ef",
+      "text": "Clearing",
+      "hash": "06648760a765043c7be785f4e63ebea0fd0dcd056d36d53d153208749e757840"
+    },
+    {
+      "id": "9c69ef6570f9f47072d40878b74725905b40a8ee89495b6a7ecb3163f010194a",
+      "text": "Ending the current session and starting a fresh one. The next message begins with an empty session and an empty context window.",
+      "hash": "eb7562c076bbf2b51e0ca0a99e0ea61566cb50f86d60a4805b95e26bba86d511"
+    },
+    {
+      "id": "f3c74a80659d9b33ce0819e96a4b506e270bd4847245f881f9571173f5d1491d",
+      "text": "Handoff",
+      "hash": "f89e2d72da00888b27c938fff1eff1d138fd49fb664d0269527a69e746ced479"
+    },
+    {
+      "id": "90fa870d3c3f81e0a4eb3df3a10b2c2ed00506137f6a300b8e50a844c519f535",
+      "text": "Transferring agent context from one session to another, with no return path. Carry mechanism varies — artifact, compaction, others.",
+      "hash": "afa7316d1164640fd935599a2ed85edc3c30891e73ed40922e8297bfeb67a101"
+    },
+    {
+      "id": "b1c85c66897c103c1e5089ca4c238f64c3745433e82263de2616c9c8cb632b9a",
+      "text": "Primary source",
+      "hash": "a518c683cac9ab4d00390db41fe8a1fb150258d23d103dec32e0017ff94a0b5d"
+    },
+    {
+      "id": "ec0734f9866912f020f759c850b2dc3f5b8336044e4a09353a40666156df6d33",
+      "text": "The thing itself — code, transcripts, raw data. Complete and authoritative, but expensive to load into context.",
+      "hash": "1c7b05f219ea3b3f1d9ebf4ec8d1b1767dedd0ba7cdefb7d72ed7f538ae8ef58"
+    },
+    {
+      "id": "f52cb75810b86b992c9418fe43216de9e415a60d9a4c43630423909f095be9c5",
+      "text": "Secondary source",
+      "hash": "bfb4e03af539fffd1e5f2d37e16646bad9d6d8ed76c5e690a4111372b24e93df"
+    },
+    {
+      "id": "7c1a8f9a92d7adf996c4eba93c8ea1bdb9cdc9844f1f65fcec8c0b9c4da18f31",
+      "text": "An account of a primary source, one step removed — summaries, docs, compaction summaries. Cheap to load, lossy by construction.",
+      "hash": "b9bc0dd26ca1cd1e08a800a6a473e4f02e7a6e551c0ce8d3bcdb75b180fed736"
+    },
+    {
+      "id": "dff535dcd4710c917936f0179283c0c1381c7cc88b23491d70a4867fb05b0cc2",
+      "text": "Handoff artifact",
+      "hash": "ead240861579b1a7860feadb4392025d981ee640559b4a3c75c64eba36517a48"
+    },
+    {
+      "id": "d4781e3c96db457003e5d49236c86714c79080576b2e45e44204f3683879397f",
+      "text": "A document used as the carry mechanism for a handoff — written by one session to be read by another.",
+      "hash": "7ea07f3fae878316e884f0dcd47ed783738b88d532583a405fe82acb0a657fc4"
+    },
+    {
+      "id": "0d84e2de5c4bc010d664d50e193eaf8b3a68981572dc8a4ccbd36d83b94e8473",
+      "text": "Spec",
+      "hash": "9bdc1337d7016d5825e164ca3a90ad5cb013b39396a1a1ee6324f8dc5ed6a1ee"
+    },
+    {
+      "id": "59865f7efa410c95bef8fc52ea87a2a17c9fd5d88f479a31fa75f6e6f5004c15",
+      "text": "A handoff artifact describing a multi-session piece of work — what's being built, not how each session does its share. Made of tickets.",
+      "hash": "805a70400fe17d4a77bf10a3815dcab2d65250453fd85672abd631c182e9353e"
+    },
+    {
+      "id": "029f37895cce8b8427caff6abd1b8dc630456386cc2e8b948a2f10fd7596ac86",
+      "text": "Ticket",
+      "hash": "567a8b5f8f5ce3c525286711a68555da645ab87e929439f5badba2507fd2b6eb"
+    },
+    {
+      "id": "2b84c66b8acb74006bd98f6f7f08dcc5743a58c099ae11c007fcb7f13a4f818a",
+      "text": "A handoff artifact scoping one session of work. Stands alone or hangs off a spec. Can block or be blocked by sibling tickets.",
+      "hash": "35ab4eeb0c2fd19ab2289363a0755fd15f77a617b78260f67c9ace79c810242b"
+    },
+    {
+      "id": "9a15d134b773bbe3088885ab6daf4dcde09f13cd0a14a85ad360c66cf571839e",
+      "text": "Compaction",
+      "hash": "a0ade140bc8e408639e51492b949bc4d31641625ef070015b5d4a5e92ef0edb0"
+    },
+    {
+      "id": "55ce41c9c2a248f039d16abfe767ac41b0113aac1ff8bb1f507ce2091a065d01",
+      "text": "A handoff done in-memory: the previous session's history is summarised and seeds a fresh session. Lossy — detail traded for headroom.",
+      "hash": "7d9a1548a9ad3d41558cb7553a4c42b1044c4f09262ed9257957ed929a83de69"
+    },
+    {
+      "id": "945b106fb058a407fae66513ee5e47d2f4954987efd097403bb0106047c0e5db",
+      "text": "Autocompact",
+      "hash": "8a36ad552d898798dd978db0b1b2d4e568ae7f3c3b3295eedb4df69ab8604e0d"
+    },
+    {
+      "id": "192220b0d8fbc65d472c7a26cb5caf947564d7968e4dc99f90c9b1f1ceb9fccb",
+      "text": "Compaction triggered automatically by the harness when the context window approaches full.",
+      "hash": "993ea624edea8b3d32c19d56e0694d3002f3285bad7a7605d0bf823626cab404"
+    },
+    {
+      "id": "87d967818e7a94b9184e2a537b9df4605e22488894e113b1464d1e3e123b09c1",
+      "text": "Memory system",
+      "hash": "0262e82db5dfb849a70a2a6a94c1afd575205f2d24d5f001afa96f4d8dcb47d7"
+    },
+    {
+      "id": "4b612792277fe52e90567e882ba4f53ac25bbd22af162480a32b99117affe06c",
+      "text": "A system that attempts to make an agent stateful across sessions by persisting to the environment and reloading at session start.",
+      "hash": "0da6aa86553264fd3252a69391b29d866ec079baa42e4c0ddef78b7e7834f6eb"
+    },
+    {
+      "id": "fa4eed43cd7fc9444173d51cb5c014f0486318bbb405c98c75d09bdc1d65619a",
+      "text": "A file in the environment that the harness loads into the context window at session start — the project's standing brief to the agent.",
+      "hash": "a1fcdbc29a02f700f77a1ad3793e6f196e207186642419719c9d492d48ad89c5"
+    },
+    {
+      "id": "8ab2b59baefa3deab93db2532ff183d464e26a243e818d5f5f466b3577237951",
+      "text": "Progressive disclosure",
+      "hash": "cc1b70611c98675e8e42c8d6246c2f13f869540b48c6abd18713bd25ecc7611b"
+    },
+    {
+      "id": "616211204350e6e773b815a4d27c0713f0019bf095d365aad8f05294e20c0657",
+      "text": "Loading only the context an agent needs right now, with context pointers to the rest. Borrowed from UI design.",
+      "hash": "6d2b614348e39cae34b13b50817334d59406fe772318327ad72a8174d9eb7e38"
+    },
+    {
+      "id": "bdd806c5d35e926777df7838ccbfc8affce7ac41c8370f1eb00d2291790532bb",
+      "text": "Context pointer",
+      "hash": "d95bc371d100339c0ab85461467e2c00939ce2b4d26a5c74d8a927ccfab4b271"
+    },
+    {
+      "id": "805eed12934c532b4446b969645591a951a808dfb9e54887ed8f3081f68e149d",
+      "text": "A mention in one document that points to another, so the agent can pull it into context only when the task calls for it.",
+      "hash": "c5c3d458259d658ef5d90434a86ac39a4779b384a900f44b9b6bafae0534dbfa"
+    },
+    {
+      "id": "c9eaa53cb338d63bffbc649d4dfb8b153f125b695b8aaa84470dcc9f2809a88b",
+      "text": "Skill",
+      "hash": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918"
+    },
+    {
+      "id": "04bb068e604734b5962b7fa9da587c0ad585ddb09b20e8d863a6145c8adf9190",
+      "text": "A teachable capability bundled as a unit — kept out of the context window until a context pointer pulls it in for the task at hand.",
+      "hash": "91594c76f076a603cc05de5aed0fe7191b9d2ce04185ed392c5830231b253946"
+    },
+    {
+      "id": "bd3de5a9f3af687ea77cd99716f4e80082fe2cf3e0b2d0f4a3e8ad6c8890d413",
+      "text": "Subagent",
+      "hash": "d6cb4188b8fa57aae3e4ca3a1210c9afe7ca995375c2fb36d90a1fa73529a44e"
+    },
+    {
+      "id": "13de3d5edba23f296ba6c4b195df7cd771259fad1f2aaf7b963d405d89753a5f",
+      "text": "An agent spawned by another agent via a tool call. Runs in its own session, reports a single tool result. Cannot spawn further subagents.",
+      "hash": "cac996d0d6691e0c365c3e6322c2f8b3aab33d404ec30849612bb8ce6da825fa"
+    },
+    {
+      "id": "b2d3d567f9e8c8f052116f86c45a1105d90b9b6709bef045b3c31e9b656e2646",
+      "text": "Human-in-the-loop",
+      "hash": "014893d767fb10c9f698bbc84894647de33135dacd220fcf7b22451b55c64e6f"
+    },
+    {
+      "id": "84faabbea786d414d457e079a42c1be9b0f4d32d8172eed62b13fcdc56789ec1",
+      "text": "A working pattern where one or more humans pair with the agent during a session — reviewing, redirecting, or collaborating in real time.",
+      "hash": "593c90053375caa00c552ed91158b359f1f6e475990e0c1098b7d1c2418d65d0"
+    },
+    {
+      "id": "18e84960ca6e551484fb032f7bf26ae9d523af3dc2250194e981067aba43722f",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "d9a4ac0284209f217d62a617b6c12fe89e3d0f5588fb79a16b7113b3c33ac1c3",
+      "text": "A working pattern where the user kicks off a session and leaves the agent to run unattended (away from keyboard).",
+      "hash": "5af849e6da5f286b228b0e7f36c6c7ea2ac98dea488706213c6a9b8d052b37ad"
+    },
+    {
+      "id": "98bb79c9747fceb1f2962b836b87e95614f6fcf796feb0fda015bda88dedce43",
+      "text": "Automated check",
+      "hash": "02f50ca3b316125cc24382d78e247a47971a48880f6655c3cfcfcd84dc3891e9"
+    },
+    {
+      "id": "bc4288cdb5934f35b8ea4df007acfbb4ce33eda1a2b5a57e95ac34c40d39c113",
+      "text": "A deterministic verification that runs in the environment — tests, type checks, lints, build, pre-commit hooks. Pass/fail, no judgement.",
+      "hash": "a577c8375fcf8e480f5034cca562e3e1e8aa9220cd77ef0358546487991b1625"
+    },
+    {
+      "id": "e28b02f9878739b251fe7e2eff0613ad99534e470e7eacf687bd09de247d58fa",
+      "text": "Automated review",
+      "hash": "df3514233adbdec46b793e0c605f72423cd52386b0c05dcd3d604d6f196da301"
+    },
+    {
+      "id": "a2df777b13e36580945e41d30c13c7909cec661ef800bb7edc95896ae07ec123",
+      "text": "An agent reviewing another agent's work, often with a different model or system prompt. Non-deterministic: it forms a judgement.",
+      "hash": "7bd47568e0d2439ecdb054618692172c3e467f262ee7e7e71666aa9c752041a8"
+    },
+    {
+      "id": "e67117bc95087635b8f60725a87ae1aa8615a8af1c3c4972b9c56d3b79d44cf9",
+      "text": "Human review",
+      "hash": "c1f43b8fad7537eba5cc87664a03cf3efedf7b64fb1d45ffa16a81d566ea2cb3"
+    },
+    {
+      "id": "689648e5a14d70d53619b4809d20b1468f2470a3f63bb9c330ca02a8334548c2",
+      "text": "The user reading the code the agent produced and forming a judgement on it. Reading the diff counts; reading the summary doesn't.",
+      "hash": "33f76b077094cf9c62f314ff6410e57501b60bf963422de95a099811431db1e1"
+    },
+    {
+      "id": "243c9d8bc8c9118faafcea8e86b584308841dd3fe3a61c994b6bc71e5b4e0da5",
+      "text": "Vibe coding",
+      "hash": "043de4d164bd53f633b0d486ea898fddf3e3c3ca941f408349eeab6185ee8892"
+    },
+    {
+      "id": "e25a2cda67ee398ffeaf949bb47fe335afebefd93847e5fa2cd4e2622e03ad11",
+      "text": "A working pattern where the user accepts the agent's code without human review. The diff is treated as opaque.",
+      "hash": "1fd63778795da02d3ab8d0be1b06ada91ead7d0ae68d15af4f74ba87c53f7a31"
+    },
+    {
+      "id": "326d5890f8f8e11a5486ed6a154a31dcc82be8571a777dc2f514dfedc5a5e21e",
+      "text": "Design concept",
+      "hash": "82e016d461be61c25a0a6d1aea2feb29c33baca4c6a3af40367f9ad5b297dd6e"
+    },
+    {
+      "id": "d19fae402b01a7b5296fd03a05dad052e64e56cd48d43bf5befabede0dd87538",
+      "text": "The shared understanding of what's being built, held in common between user and agent but separate from any asset.",
+      "hash": "6dc8f85f5964d8844bd75ac81c2672cbb7ed946b18cd602fae15a671c8168a49"
+    },
+    {
+      "id": "60987d1b45da83ee31277cec324e0bddf063e0b03f994ee5df702788357ed1ae",
+      "text": "Grilling",
+      "hash": "78318482b2ed0e5dd1aa46addef2c3b1c379b1f3b213eac3337b8fe2b40ab6aa"
+    },
+    {
+      "id": "fd4515879d8e2f3a65f33039f7cbc140ba0626581c23e6aa5f193b3531f7dfdc",
+      "text": "A technique for developing a design concept: the agent interviews the user Socratically, one decision at a time.",
+      "hash": "ccd13e44dc8aeef98ba2674fd7b44678089e580e85e3f901351796315240a34c"
+    },
+    {
+      "id": "3b4e1bda94ae31e4dff35bfda366087d93912f083cb6c44e053e09bf4ca86c5b",
+      "text": "Prototyping",
+      "hash": "28f52a5a016a0ccc11741c2b981e3d5a59a6846b2e25bff951b13ce5be27d384"
+    },
+    {
+      "id": "834680424ccc5484735615c7bb3ec1568dccd948b87d612747faefa8886e2d27",
+      "text": "Having the agent build a quick, rough version when conversation is too low-fidelity and you need a real artifact to talk about.",
+      "hash": "09a06632c0b7749e1a4522638385ac669a6904fe72cfa298b709ceb38939c4a5"
+    },
+    {
+      "id": "48e447b11137bf6bb74ad1a7b9eea29e7953c4616c74b84f52e19e001bfb3848",
+      "text": "DX",
+      "hash": "48c95d370f0eae38ad2d9bf8368264da99f6a95b7b45d18ba8f14a932015ce13"
+    },
+    {
+      "id": "38edd9592392ba7f68246e75c94090a597d475706b37577f12acaa9a6c6632ea",
+      "text": "Developer experience: how easy a codebase and its toolchain make it for humans to do good work — docs, feedback speed, errors.",
+      "hash": "2f04bc64a04ec82b686b6032ced2fb72168e5449c25fa43bea2547bde8093e08"
+    },
+    {
+      "id": "3d62fdb351d0227cdac721ca7575cafbcb526bcd077a5f6b73d726f6987f7882",
+      "text": "AX",
+      "hash": "bbe96fa9f44ea0fcf38b0ec729822f37f5cc11e625753b2a250a90a3b59dd098"
+    },
+    {
+      "id": "dda6ecb15a7fe6dcd1e2025df62e4a052abf76e30c3a03ba1c986ad1501fd3e8",
+      "text": "Agent experience: how well the environment is set up for an agent to do good work — checks, architecture, and free context.",
+      "hash": "8fe54a3a55611541ac1ee930f4775d932f321d56db76fcf0764aa57ee42056f6"
+    },
+    {
+      "id": "c943563fbc82df67188d4140872c00e10f850b7ff443d583e96a7bf0adb3dbd0",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "c9323a119df2c010bc67799d6b9829dbc337e45498b5a02b720b52604a7d8e55",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "b2ebafb2f9cad679ba818d4f04b9fcf348b3e45e3335e08164e0c29e298d07f6",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "2d7bb9f9c88468aa288fbde085296bff54624509f58d7fc37aa102ad6371f903",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "c4b93b29a35127b208d8074c92eacdd83e8136f8d18a3a824d7b39129c41683c",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "4b79bab279ce85a7a9075102b085e6b84cb1f269a144494dc3951c6a4c1344dd",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "87349ace57d7bcdc1370a8f0d5ae15427159590b9f6b940339201aab8f39acd5",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "818b496b901e832aa38b90a1e161cd10cf07fa85987f75048c52ff1c7800adde",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "7d66987950a090d962268b0d2558419209a57abe1634298674f9bd117fc13d04",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "1b6dc841919e71fa8c10ee3ec52be9dcd8a4c9077dcb3a596cb700ffd34c5b67",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "1deff1c018c91bd89218955ac31c834126d4c730130a70da974f62452eb61ca4",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "66964336a0a40e6aefeda2450f8315acf9b456480cfa201863172d4c972a2f8c",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "dd20fddc60e4d4158662e293e3b3eb2dffcf407bd6cc7a9cbc7bdd87a9737060",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "a4a2789c22c145f06520148e9c339ef65775b1f462c96a3842e7f425498e9889",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "bca2d7cbe7ae43e57c506f4b123c134437c25e307a54894dd798814d33e236c8",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6358f4bc426aad503a3be67970c9e5457a7deb40a821d6be9f370aa5e518999c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "3286588034ee58ca67323cfcf96210e002fc6d6408b5d1627ebd6b243fa021dd",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "ea54e95e6faf05339839172f0e16faf29cffa3f63a8ae984e06973a70d96b659",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "02956d5090c48472d201006e99d17b86c22f860c62a236200cd91de4100a32ef",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "00ed1a2ea813d33e989980b8a39e2a6d78d127b96a192db5c40b7618d32ab0e9",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d1a7294a9f6c4f6b0558243f4a4932b7dbe04e6d8326d15bfe274f7a137652ec",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "90eedd3ffe73174b9893db3b726662accb482c6e1e27d145843a73e45c9b671b",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "67e0f3bb5093453802770c70ddfd79bebea35fa7b9de804d05192e13b81b2c0c",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "0f3773d1c48ea20367be3c1cfb862dc72bfa0d9c2ec9f615f110a3e6bb90c626",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"13rg09eamc9iu65\"",
+  "lastModified": null
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/topics/build-the-right-thing",
+  "pathname": "/topics/build-the-right-thing",
+  "fetchedAt": "2026-08-11T06:28:46.713Z",
+  "title": "Build the Right Thing | AI Hero",
+  "contentHash": "bcc1f52ce973fef4bcfef6e30be63b1d2a6f0e53da89198869ff526260624196",
+  "textHash": "936587aeb4dad7707a91cc9720c533d481b9b05baca2acb78172b71f241e703d",
+  "strings": [
+    {
+      "id": "330288dd64e4bcb2486853ec1dc3bb15abc3e60161684dfd5e05e780c8af42ff",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "f8ce9d5419d0dff9753d3783601765cedf66769be9bcbc6078e6d9a05fb40427",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "9995c13837c148473b788291b854798a4f0581efed36f928de15a1b131963f2d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "03a1d68dc4845e7abe58c24067a179d61935460cf804b2dbb131b1ee46ab8bd5",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "bc6b0f22afa13cd24aaedb065182a4a90b1cde5f859fa511d84f01e182db70a0",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "8dcfb655955a7450b0465e06f98c9cf844c7dae2a474ddab1488e17dd10fe10a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "cb8641144a554712fcacdcae406e8b86ea71e40a12f8b37f7500bc59aa2e3025",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e0bdf65661c8d4a53346772b49b806c5cc4b9ac0fd22e9f7cb16b5aaf941f40e",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "51217c5f462456d177abd9c2430a521dba71acff373779949146eca75554b4af",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "37bd99a68b08ac9711b2d85dd29d07ee1c625f829c3b5fe3a0e6d85355cfa0c7",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "3d1f703d513fec19c72ba4371c0537a8a1df4dc773cb55a4b5baf657d36e5d0c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "b48fa78a0f1bc09e73bb8754edaca567fb57de8f99212ad90f5948884ccd58e9",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "c47c8fc41f459596f8915f332d872994de03b09adb49b7415b352c347237396c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "97c63da47ab13ca0463219cd99f00272ea2f0236cc4b09fdb6f6f7945b40f7cb",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "3ae426500ce7b1c34bbaf1a5c432f82408aab3af58d3e2eaa3fe5210cd92d9cc",
+      "text": "Topic",
+      "hash": "7e61847d61d65d9e3ac15c6281f7bfe0d80b8d79d3b53125e9fc2bfc25bb81e8"
+    },
+    {
+      "id": "7b2420c93d829c05fd593b029da6ee17a6691fde93d7de9fa649cb6b2de7cd53",
+      "text": "Build the Right Thing",
+      "hash": "7c933420f3070cf5fc985d09a2ce800f99b8022478f2a3bc1f3e1b439931170e"
+    },
+    {
+      "id": "b6b4ece3cbee36e0f6a3c9d76cbbc6188f0d064b0367ddfeb5c839a73141e8be",
+      "text": "Article · 3 min read",
+      "hash": "9a559e56b103401e5a162120da917171aa78913e233fb28169988580696ea61b"
+    },
+    {
+      "id": "1cc4fcce47d8f869446312f2a0da1d0d6e82d0045d3964b3f1ca6decffa746a0",
+      "text": "The /prototype Skill",
+      "hash": "0704c2a7f3f21081c77a25eda1e8be09a3e7cf6c6bcd5111b05f143302886d01"
+    },
+    {
+      "id": "e62adf0f654c040f6555825df7684f7fe70ca78bbd57598d4b2568dfd7c97092",
+      "text": "Answer a design question with code you then delete.",
+      "hash": "f58ced05a5a15609081a9a33dea4bd0f49667c79024c4c6276ca5fbb7755dac8"
+    },
+    {
+      "id": "e4e88e1064eaa854ab4df181b8e9f3caf7cd7b99178443096581a0664707dde9",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "a159abe29fc732b3c2f3543c11356abaab2f15b1c68bcc31e147ec4e19834dcc",
+      "text": "triage: Turn Backlog Mess Into Agent-Ready Work",
+      "hash": "01694fa1e3057407ecb33b84383432ff8ed99da51a0252951a5570fb40231ae6"
+    },
+    {
+      "id": "9d686a88d7315f4aa3bdaec99ce0e00f34e152489bda7f7d7dfbf8888e488916",
+      "text": "Learn how to use the Triage skill to organize GitHub issues, turn messy ideas into actionable tasks for AI agents, and manage backlogs efficiently.",
+      "hash": "c20b2b7059f77f3087d7f290079122e626849fbd5ddef4fe8885345f6d12d392"
+    },
+    {
+      "id": "b08a198bd55e47a6b474e6e1ba5253c2f2903f3c263f41c3c7618c03971409dc",
+      "text": "The /to-tickets Skill",
+      "hash": "edb2e623d3d628ae29e30650179052886b0583e7c6d64c61f4833a0555f5ffb9"
+    },
+    {
+      "id": "0c95d4970abc6da2f85e5171ca3e7328e55af2381743cb0f0c7c5c001f66aded",
+      "text": "Split a spec into small tickets an agent can build.",
+      "hash": "2f7eb91d6e60d230c1053c9c1c182268d8c19bf636462ec19f83fcf5389f31e0"
+    },
+    {
+      "id": "dbc070b8bda1b3da2da97fc39a30a5fdea31f809e4ac43e33350768db4e36cb8",
+      "text": "Article · 2 min read",
+      "hash": "cd2d276c7b65bcb702e22d03913c0fda0d78f7283aa6d8ab48aea35c9c5fe3ff"
+    },
+    {
+      "id": "0ef3f30d6ffc751eddcae053eec14b8d95e37b4d97d8e085e2083a38faae628e",
+      "text": "The /to-spec Skill",
+      "hash": "a23abd13c89fe79ac0e3626d5d4c722e63235829c4cf6f85d3d4d28039733e86"
+    },
+    {
+      "id": "198eb425568091f2335ebd3f02b963ca865ace28686c3a736fbef885c1f6c882",
+      "text": "Turn an agreed conversation into a written spec.",
+      "hash": "91e6f3a80003384410be4fb29eed873433a2671fa358ddc13d9306be7fbc89df"
+    },
+    {
+      "id": "7a5b093dec215434cd57f0bd7421458588015f8eb19e57c568dc7750a3b7b4f1",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "91f1d255f426417d9c83565b6441843a42c2416e5f84e5d3e6bfd6ae1c15ebf0",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "36e65cce12697870aae3f8b418986ceaf56d51d98de197ca8fbc75ea04848521",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "dc28537a2d2030e053f651d04ecde8378fd13fe788d8d8a396669383fd3c3526",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "6c26a64c7184e581965a6970d99d2f5391662786655a7c5f11d01f65d3435526",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "a22814bacf781d8dd25d4e51a09135c04c60cb170a82914a1bfaef0a45226864",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "d0b53d9d6e6b07cdfe47d7ccd9b81b08dbeb72704722557886aab5c3c309a1d2",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "83bcf8a79c0071421055b2418c0cc08be1844495ecd0a86aa9bdbadf70e89200",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "b98d78273425c31a55f76049d12f2a61514f13b58b7eded1042e9c1925929e54",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "a0aaced97692c7a9b2b40ef17c496ad7f3313d69a491e5b1fc9d13c3ce8cffad",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "78808e384bc85681ab4688dcb61f17ae41699a9489cb8f0afa1f853fc90f466e",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "71530c68f707959f425b478fe418ea5c8df6d23a6a84c49b23cd219322c37f02",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "5bd4f0d0ce00b4334db0b3721a3fa76b200b7c4a035886ad13b6cb47f1ae5a0b",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "f1b14e84b6108e3943c971f9b1bdc7121a9164a5cd1c7d9cd1d46dd5b9a4dbee",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "855277adb119db3d06029c88291d05efe4e787f4f0afe2f19e2dc8e96f16c7bc",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "fe65c8c8b951e47c542c80091efe59bb2f2babb3ffeca511e6e1ca863bb8b9e2",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "7cf1963a81f1a090a5f0a08574e1261f15ba5cc8c8a8bd1e84c4abb530b50b77",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "29257ac30cd4730d7f8fcdb90b9ec3150ab256f049c2a673c94d16140c65e8e2",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"r8zmvg0dvk43fc\"",
+  "lastModified": null
+}

@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-11T06:39:56.535Z",
+  "status": "passed",
+  "strict": true,
+  "uniqueSourceTexts": 8811,
+  "translated": 19026,
+  "coveredByRichTextBlocks": 1837,
+  "missing": 0,
+  "violations": 0,
+  "warnings": 18,
+  "richTextBlocks": 1161,
+  "examples": {
+    "missing": [],
+    "violations": [],
+    "warnings": [
+      {
+        "type": "numeric-style",
+        "source": "~1 million",
+        "translation": "约 100 万",
+        "route": "/ai-coding-dictionary/attention-relationship",
+        "sourceNumbers": [
+          "1"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "~100 million",
+        "translation": "约 1 亿",
+        "route": "/ai-coding-dictionary/attention-relationship",
+        "sourceNumbers": [
+          "100"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "~10 billion",
+        "translation": "约 100 亿",
+        "route": "/ai-coding-dictionary/attention-relationship",
+        "sourceNumbers": [
+          "10"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "Anthropic's new Model Context Protocol In 2 Minutes",
+        "translation": "两分钟了解 Anthropic 新发布的 Model Context Protocol",
+        "route": "/anthropics-new-model-context-protocol-in-2-minutes~hc0tx",
+        "sourceNumbers": [
+          "2"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "This is nothing new. This is how good codebases have been designed for 20 years. What works for humans is also great for AI.",
+        "translation": "这并不新鲜，优秀代码库二十年来一直这样设计。对人类有效的方式，对 AI 同样有效。",
+        "route": "/how-to-make-codebases-ai-agents-love",
+        "sourceNumbers": [
+          "20"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "My 7 Phases Of AI Development",
+        "translation": "我的 AI 开发七阶段",
+        "route": "/my-7-phases-of-ai-development",
+        "sourceNumbers": [
+          "7"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "Master the 7 phases of AI-assisted development with Claude Code. Learn how to ship production-quality code using research, prototyping, PRDs, and more.",
+        "translation": "掌握使用 Claude Code 进行 AI 辅助开发的七个阶段，了解如何通过调研、原型设计、PRD 等方法交付生产级代码。",
+        "route": "/my-7-phases-of-ai-development",
+        "sourceNumbers": [
+          "7"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "2-week learning cohort • Starting March 30",
+        "translation": "两周学习训练营 · 3 月 30 日开始",
+        "route": "/my-claude-code-cohort-a-teaser",
+        "sourceNumbers": [
+          "2"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "It understands codebases instantly and is available 24/7. Plan mode forces me to articulate what I want, which makes me better at building software. Both my code quality and output have gone up since I started using it.",
+        "translation": "它能迅速理解代码库，全天候可用。Plan Mode 迫使我说清楚需求，从而提高软件构建能力。开始使用后，我的代码质量和产出都提升了。",
+        "route": "/plan-mode-introduction",
+        "sourceNumbers": [
+          "24",
+          "7"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "bug and green when it is fixed. The default behaviour of a coding agent handed a bug report is to read code and guess; this skill blocks that. If no red-capable command exists, there is no Phase 2. That single gate is what the skill is for. Everything after it — bisection, hypothesis-testing, instrumentation — is mechanical once the signal exists.",
+        "translation": "bug 时变红，修复后变绿。拿到 bug 报告的编码智能体默认行为是读代码然后猜；这个技能阻止了这一点。如果没有能变红的命令，就没有第二阶段。这一道闸门就是这个技能存在的意义。它之后的一切——二分、假设检验、插桩——一旦信号存在，就都是机械性的。",
+        "route": "/skills-diagnosing-bugs",
+        "sourceNumbers": [
+          "2"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "Yes — say so when you invoke it (\"don't grill me, just show the report\"). This is the loudest complaint the skill has. One user put it bluntly: they liked it as \"a convenient way to get a thorough analysis of improvements,\" and after the grilling loop was added found it \"borderline unusable,\" reporting sessions where it proposed a single solution and then asked \"10's or 100's of questions.\" The design intent is that the report comes first and the grill only starts on a candidate you chose, but weaker",
+        "translation": "可以——调用时说出来（「别审问我，只给我报告」）。这是该技能最响亮的抱怨。一位用户直言：他喜欢它作为「获得改进全面分析的便捷方式」，而在审问循环加入后觉得它「几乎不可用」，报告了它先提出单一方案、然后问「几十个或几百个问题」的会话。设计意图是报告先行，审问只在你选定的候选上开始，但较弱的",
+        "route": "/skills-improve-codebase-architecture",
+        "sourceNumbers": [
+          "10",
+          "100"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "now requires every answer to be the same number of words, which kills a different tell — the correct answer used to be the only fully-reasoned one — but says nothing about position. One contributor tested an instruction-level fix for position and reported the correct answer still landing in slot A 33 times out of 33 across nine lessons (",
+        "translation": "现在要求每个答案字数相同，这消灭了另一种破绽——正确答案曾经是唯一被完整推理的——但对位置只字未提。一位贡献者测试了针对位置的指令级修复，报告正确答案在九节课中仍然 33 次全部落在槽位 A（",
+        "route": "/skills-teach",
+        "sourceNumbers": [
+          "33"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "My 7 Phases Of AI Development",
+        "translation": "我的 AI 开发七阶段",
+        "route": "/topics/think-like-an-ai-engineer",
+        "sourceNumbers": [
+          "7"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "Master the 7 phases of AI-assisted development with Claude Code. Learn how to ship production-quality code using research, prototyping, PRDs, and more.",
+        "translation": "掌握使用 Claude Code 进行 AI 辅助开发的七个阶段，了解如何通过调研、原型设计、PRD 等方法交付生产级代码。",
+        "route": "/topics/think-like-an-ai-engineer",
+        "sourceNumbers": [
+          "7"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "And version 5 is the best yet: more elegant, more refined, more complete.",
+        "translation": "而 v5 已经是当时最好的版本：更优雅、更精致、更完整。",
+        "route": "/workshops/ai-sdk-v6-crash-course",
+        "sourceNumbers": [
+          "5"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "To get the same level of production-ready code, you'd have to put in 2 or 3 times the work without it, conservatively, reinventing the wheel and accounting for platform changes. And then you wouldn't have the power of open source keeping things up-to-date… meaning even more work for you in the future, too.",
+        "translation": "保守估计，如果没有 AI SDK，要达到同等生产就绪水平，你需要投入两到三倍的工作：重复造轮子，还要应对平台变化。并且缺少开源社区持续维护更新，未来只会带来更多工作。",
+        "route": "/workshops/ai-sdk-v6-crash-course",
+        "sourceNumbers": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "It gives you the power to switch models with 1 line of code.",
+        "translation": "只需改一行代码，就能切换模型。",
+        "route": "/workshops/ai-sdk-v6-crash-course",
+        "sourceNumbers": [
+          "1"
+        ]
+      },
+      {
+        "type": "numeric-style",
+        "source": "The AI SDK is so darn popular (3 million weekly downloads) that platforms like",
+        "translation": "AI SDK 非常流行（每周下载量达 300 万次），以至于",
+        "route": "/workshops/ai-sdk-v6-crash-course",
+        "sourceNumbers": [
+          "3"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "AI 工程师路线图与 LLM 基础课程索引页",
+  "exact": {
+    "Messages, System Prompts and Reasoning Tokens": "消息、系统提示词与推理 Token",
+    "What Are Tokens?": "什么是 Token？",
+    "What Is The Context Window?": "什么是上下文窗口？",
+    "What Are Tools?": "什么是工具？",
+    "What Is An Agent?": "什么是智能体？",
+    ", in order": "，按顺序学习"
+  },
+  "routes": {
+    "/ai-engineer-roadmap": {
+      "Series · 7 lessons": "系列课程 · 7 课",
+      "Want to build AI-powered apps, but don't know where to start? You need a roadmap.": "想构建 AI 驱动应用，却不知道从哪里开始？你需要一份路线图。",
+      "This tutorial is your roadmap to becoming an AI Engineer. We'll cover all the core concepts you need to know to build AI-powered apps.": "本教程就是你成为 AI 工程师的路线图。我们会讲解构建 AI 驱动应用所需的全部核心概念。",
+      "When you're done, you'll be able to:": "完成后，你将能够：",
+      "Engage in meaningful technical discussions about AI engineering": "参与有实质内容的 AI 工程技术讨论",
+      "Understand where new AI breakthroughs fit in the broader ecosystem": "理解新的 AI 突破在整个生态中的位置",
+      "Make informed decisions about AI implementation strategies": "对 AI 实现策略作出有依据的决策",
+      "Then you'll be ready to get your hands dirty with my": "之后，你就可以通过我的",
+      "tutorial, where you'll put your newfound knowledge to work.": "教程亲手实践，把刚学到的知识真正用起来。",
+      "Let's dive into the world of AI Engineering!": "让我们进入 AI 工程的世界！",
+      "Diagram Pack": "图解合集",
+      "Want to remember what we've covered? Here's a PDF of all the diagrams in the series.": "想记住课程内容？这里有一份 PDF，收录了整个系列的全部图解。",
+      "Core AI Concepts: How AI models work under the hood": "AI 核心概念：AI 模型底层如何工作",
+      "Model Selection: Choosing the right model for your specific use case": "模型选择：为具体场景选择合适的模型",
+      "AI Engineering Mindset: The key principles that guide successful AI projects": "AI 工程思维：指导 AI 项目成功的关键原则",
+      "AI Engineering Techniques: A directory of techniques for improving your app": "AI 工程技术：改进应用的技术目录"
+    },
+    "/llm-fundamentals": {
+      "Video series · 5 lessons": "视频系列 · 5 课",
+      "A free video tutorial from Matt Pocock teaching you the fundamentals of LLM's so you can use them better.": "Matt Pocock 制作的免费视频教程，讲解 LLM 基础知识，帮助你更有效地使用模型。",
+      "Watch the intro": "观看介绍",
+      "AI is powerful—but weird.": "AI 很强大，但也很奇怪。",
+      "The tools we have today can already transform the way you work…but they can also get in your way if you don’t understand the fundamentals.": "今天的 AI 工具已经能改变工作方式，但如果不理解基础原理，它们也可能反过来妨碍你。",
+      "The tech is both early and developing incredibly fast, which means even the most seasoned developers can get lost in the quirks and constraints.": "这项技术仍处早期，却发展得极快，因此即使经验最丰富的开发者也可能迷失在各种怪癖和限制中。",
+      "If you don't know what those constraints are, you don't know how to work around them, and you're not going to be able to get the most out of the technology that we have.": "如果不知道这些限制是什么，就不知道如何绕开它们，也无法充分发挥现有技术的能力。",
+      "These concepts will give you a serious advantage. You’ll pick up the vocabulary people are using, but more importantly, you’ll start thinking about AI in a clearer way.": "这些概念会为你带来明显优势。你会掌握大家正在使用的术语，更重要的是，会开始以更清晰的方式思考 AI。",
+      "Because once you understand the quirks and constraints, you can actually use AI for what it is: a strange but powerful tool that works best when you know its limits.": "理解这些怪癖和限制后，你才能按 AI 的真实面貌使用它：一种奇怪却强大的工具，只有了解边界时才能发挥最佳效果。",
+      "What a system prompt really does": "系统提示词真正做了什么",
+      "Why LLMs “think” in numbers, not text": "为什么 LLM 用数字而不是文本“思考”",
+      "Why overstuffing your context window backfires": "为什么把上下文窗口塞得太满会适得其反",
+      "Why giving an LLM too many tools slows it down": "为什么给 LLM 太多工具会拖慢它",
+      "What an agent is—and when you don’t need one": "智能体是什么，以及什么时候并不需要它"
+    }
+  },
+  "blocks": {}
+}

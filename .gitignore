@@ -1,0 +1,11 @@
+node_modules/
+.env
+.DS_Store
+.playwright-cli/
+reports/*.tmp
+screenshots/
+*.log
+content/cache/assets/
+content/translations/memory.json
+content/reports/translation-failures.json
+.omx/

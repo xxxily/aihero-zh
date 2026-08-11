@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/agents-with-vercel-ai-sdk",
+  "pathname": "/agents-with-vercel-ai-sdk",
+  "fetchedAt": "2026-08-11T06:28:21.470Z",
+  "title": "Build Your First Agent With Vercel's AI SDK",
+  "contentHash": "7aead0ce25040c9e935fdee5b9ac0cebeeb87f82aa4593205eb5d174d793d9d3",
+  "textHash": "3871c802ef923c6c987ee58afe0db3b77469b61872a59e1b89ffa0f260bc4b39",
+  "strings": [
+    {
+      "id": "4846f93b4b44575ebbbcfeb7bfde36d48d8640cbef42674f59f082b18f48d4b4",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "7c0b4de07c4afb868ef01891a16f55428186020a1cbdc706a26f61623c277ca9",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "597f258321e83cd824ecf1c3bc98c3a8a911d40cedd72cdab36dc9cde5f2c739",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "8a11c985e1e7e47871d963c49a7c96fcfba09a69ae47740a13338056bf986b62",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "8fa75752486f37edec07c4db99b7c9129b6945ce410fa45fd64a8dc30cfc09cb",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "09c306e47e88a983fc5a31db0bf6e4b62de83118044dc3ce79f662301de64039",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "9cc74d4b0acd901f80b8447da13643957fa3e47745eb2a5f810a313394709378",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "8e3fbf1188a672c58abaadb529e3dfbc8181601561949d110ab10c3f6c6819e4",
+      "text": "What Is Vercel's AI SDK?",
+      "hash": "1f210434178eaa98b25c4c6b455fa5973f854a1181e1fab9d10a8ce725bed88d"
+    },
+    {
+      "id": "d1a4d6f18b1302ae8b1f1d590ffd16008f4c9eed331d86ac1475614ab2807ce4",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "c51f5d4d5cd8a0900ab06d067541ce0fbec43c3ba7e866e763c1319105e02ac6",
+      "text": "Streaming Text With Vercel's AI SDK",
+      "hash": "c8834e359f3b28f367c74e589c38e2bf98f323e4f89d4e707b88ecc0e812b58c"
+    },
+    {
+      "id": "c98ff9460faa594876177f883b8fcf97a6802d08a251418ad9a88459484fd914",
+      "text": "Adding System Prompts With Vercel's AI SDK",
+      "hash": "c1856791eb8a9cefc3c85784d7e7865a4fbe03b8e4ce9097e30b44c8382bc0b5"
+    },
+    {
+      "id": "c5fa5909511a5988ed1b53b4f7b1c8c20272ba63d8bb40031cff77d8b4c4bd0f",
+      "text": "Hot-Swap AI Models With Vercel's AI SDK",
+      "hash": "a2e60e88e6b98f280400b6a6e1ae57cc56e04a4487923179fafbc1691daeaf88"
+    },
+    {
+      "id": "fcc52b65a2ff0ed25435876c169e57834a17af7d8f0a7605c0936c152634d2b8",
+      "text": "Working With Message Histories In Vercel's AI SDK",
+      "hash": "6836bf9b5242f2374260cc952dcfc713c5b9049e92673765730b88183fcca9b5"
+    },
+    {
+      "id": "8917c28eac3d901aa1f16a84d0da17df4d80cbd480e11d7214f13d989bd6f802",
+      "text": "Use Local Models With Vercel's AI SDK",
+      "hash": "2f23462b857b3e2c9ff00eb7cc7ee290ae7b503bf5da369108fbf7f208a2ffee"
+    },
+    {
+      "id": "8e2c0e77af9b659f7fc4c6be657d769c11036cfa611ffa1e173184f9518f86f9",
+      "text": "Structured Outputs with Vercel's AI SDK",
+      "hash": "ee7eb24d53c4be13cfa8480df0adaba3c76bfea676d6937956456cfe1938156a"
+    },
+    {
+      "id": "efb82891a4bf1e5e3a0fbe3a8babc3bcd2ff567b369614c63b93abd408ff7608",
+      "text": "Streaming Objects With Vercel's AI SDK",
+      "hash": "dbfc1631aa468169f64909580711d47efe5fbd6c1a8dc7f96f24d8f312775b76"
+    },
+    {
+      "id": "73614443f1aa6b6e57e506eeab85114d37aa192636655ac0ac857a3586cac058",
+      "text": "Generate Enums With Vercel's AI SDK",
+      "hash": "0c0888498e8f0728d68d768a855caaaf0407c72679e31a43781b058c580bfd30"
+    },
+    {
+      "id": "8031882f23f7f3ec0af6d4b63597a433c92875ed2382cc76f12203fe7d8d6d33",
+      "text": "Generate Arrays With Vercel's AI SDK",
+      "hash": "966b534831ed3ab632d0d4d6fdbac9f5574b7b021619463331f1a040103c3434"
+    },
+    {
+      "id": "55f7e5551894e72d2c72236aac427198d7bfaa3514b4dfd45a19e323d725dcdc",
+      "text": "Build an Alt Text Generator With Vercel's AI SDK",
+      "hash": "e469cbd9ec4e26ff6b524e07b410ae85b176eee38375c531752024cbdb92388e"
+    },
+    {
+      "id": "50265abbeac938fa94284310a7d731337911d77ca913e1be0c3c02c1bfee278a",
+      "text": "Extract Structured Data From PDF's With Vercel's AI SDK",
+      "hash": "270c0886bdbd409901a9bb1d21cbe52e0e4e6504f3b17a0def44e8e729d3846d"
+    },
+    {
+      "id": "e98c20a218eb52e0e383407cba09a9034f1fcd39404010a09e1478aec12ba5b5",
+      "text": "Create Embeddings With Vercel's AI SDK",
+      "hash": "204fae433156e6ac042fc80217c5e8a91fd4e1501d92da5949fad8c62334d1e9"
+    },
+    {
+      "id": "e6e5eb1c3668e6d5498ca199841e5c5c391cd8858f2854078883b15091727256",
+      "text": "Tool Calling With Vercel's AI SDK",
+      "hash": "90485e2aae316ee7132e932b405c5b1a63f0786e824e08689a3f78e4846c2d13"
+    },
+    {
+      "id": "9fda5e5d9b4f36521bc26c6696bc01561ce7f3a5987f8ede77ff065b1b476d1e",
+      "text": "Build Your First Agent With Vercel's AI SDK",
+      "hash": "52e11d029211f26b4245ca878765b7530ded3b5475536900eefe472e424a5f44"
+    },
+    {
+      "id": "a9049ca0391e79275f794f5b514484ee75d3c32f4ac4e6e183715c2cffb7c327",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "ad51444601805bf28b5d868dfce8441c8c88350c7adb0a5972e4fbc0dbbeed40",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "5193886acd1b066ea1b1bad2effe711dd017971ea9a7d4d2703871438225180c",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "9cecba6f5004125b4ac9d573dc87d3fc00815a424c301840145eeec0425fb7c6",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "c0a0eebbbf83d0403cd0ff4916d83565cedb7421e574c199b192e24135c2423b",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "9768744703f505215ac70607e569a72add7afcb0d809de35cf9809debc7e9f0a",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "846efdea63a83eeda572f6761aa2f41a103ee243e3fa1d57866ff5774a72c468",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "9813db74e43dcd1dff33222ac1d43c1363b21375c360eff7826c746bc0506505",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "09cbad68751df1c84314c5722a1080b687577b3767e19f7810a69f820e2541e1",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "6e37caf71fe476187c3aed6567bc1639b185842d0b632c928ab01d142cfe443d",
+      "text": "16 / 16",
+      "hash": "efc8f8344e7d04162dd7d4cc335e8b4b3dbba5cf6ee847fb035a1fc23dce5ff7"
+    },
+    {
+      "id": "b4a9929ebdee2bac3f83051eb497987c98f60804309eff3097a66c205b564ea3",
+      "text": "Let's build an AI agent. Learn how LLM's can respond to the results of tool calls with Vercel's AI SDK.",
+      "hash": "ba0492f057c07c10d3dd954316423ef32133ef3bde683da20dfa0581601edde6"
+    },
+    {
+      "id": "2e82a648ad1df109f57250085483ed938dab26f21c52988d96955beee9f61312",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "5817681698572635e57f30f32c0c4cb1bfa4974df6aa2c9e1de1fe641879e77e",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "62b8371333961bd1330299a91009fbbedeef25343b1902bf40bf9e5abc9b5655",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "f5d6705feb95cda0dc13c56d34cba536fcd8c8893b407e4eb5dc9f5859c8f4b6",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "9eb3361a71ff45cef17f148f1bf3b02394d9f264f14835ec08d5ab543d8acf32",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "c0651b6aa0685415217c564f1b4128157bb57691be08d26ce41b054a6fe2f566",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "a554f3616c716b031577f541797138a4010b00e408278bdc65e95cd270ad612c",
+      "text": "Debugging",
+      "hash": "47fc5bfb5680bd7a9d55085c13c03c5c75ab3a5e2beb3eebd08067146a17a0f1"
+    },
+    {
+      "id": "6f9e1d6d2b826a19b12f0311052b08e42059e8a9110b2910658a152e82ead478",
+      "text": "Stop Signals",
+      "hash": "261bea0077f70a5b0c978a6e685134ad1fbb4532648723661da30e429dcacfc5"
+    },
+    {
+      "id": "b0e4fff5995378abd1450bf721775479491bbc9d981df8f009938f568abeb1e3",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "b543e3d5a59cc9b95f2c54861e09543b8d420d118169282fa3c8f62ecc5d52b5",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "bef11c5e4ead85a3c8b0d88e40ad1cb5b7f56bb3f6cf7f9558705a52ee47d4d5",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "5df79fa4142ff50486949f0b40801aebec801608828709e3b30c94302558f21f",
+      "text": "In our previous example, we saw how LLMs can call tools to do things in the world.",
+      "hash": "ab761190dfd8d3a5f1f58b7846270eb9aa1366b333e9aa5667fd10a54b0337bb"
+    },
+    {
+      "id": "fb739fb6abdb009c41f98b66ce5a3665199c161d9e199e43218fa32513489e7c",
+      "text": "But they can do more than that - they can react to the information they receive from their tools.",
+      "hash": "da6b66bf35e571fef63e6e70f4d78ea27247898d0ce6d6df929afc9b4b5fdd1b"
+    },
+    {
+      "id": "c3f43f3c87515177a02b7eb2860cc03b555577f278d37bcbd36c44eee5437d50",
+      "text": "This can create a powerful feedback loop where the LLM is continually grounding itself in the real world.",
+      "hash": "a0b2c8b769027c55ae12add2290da1e6f5251e30f10770c840b05a2e8b238213"
+    },
+    {
+      "id": "517ee8a8e23a51d6d75cef45986f2f0b570cf5d9b8441646b5339ea170fa0690",
+      "text": "And this feedback loop is what most people, including Anthropic, call agents.",
+      "hash": "42630a943baa5a673e7cd411851aeca165322a1e07c37bce9ce0aae5c7fc69dc"
+    },
+    {
+      "id": "e826ecbe63a645238ed1348a3ffcd30f7b2a19a4d57f1afd29a85c1034159132",
+      "text": "The Vercel AI SDK makes this super easy with a concept called steps.",
+      "hash": "1d6699224c48f9f7183f1000e1276adb92e6f1c00969cb2bf361d8f48b22caf9"
+    },
+    {
+      "id": "8f5841e944ee5f161f6861482780f7e0cef3ee5f764693596e4ccce160e173e9",
+      "text": "We're going to make an agent that can retrieve the current weather for us at the city we specify.",
+      "hash": "58488213e2f522988d53f1140968c2fb37b7e7789679b4be276fd1386f88d0ce"
+    },
+    {
+      "id": "879e78430d71c9b10c0a025b974f69ef323e1d5f9f41e7d3514e2aeb28472a1e",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "b65eb6f1af8f790ff2ab56ba2624df45bacccc2c1941dee4b6d5fab48010d117",
+      "text": "To kick that off, we're going to create a",
+      "hash": "cb2dd594691a5ace13571ae8318c65b487511dc4f65c58e062353fd07bec6177"
+    },
+    {
+      "id": "aef1f3920e6a256b7ace673a02a9415e330b2d73588acdcfea0bf6a8bb773d87",
+      "text": "tool.",
+      "hash": "6aed665815d7845b7d01b2c6821d304a6ee8c28862bee6bd30eb37ece2273a4c"
+    },
+    {
+      "id": "948538f3a8b392b4959fa2541134b497601918f1d1dc7a086ddbea744f71389a",
+      "text": "We'll start by giving it a description and some parameters.",
+      "hash": "35505ed94f46aabddeed69d2c297fcb4c53c2d130a97a115d6ee099238ef9608"
+    },
+    {
+      "id": "2fbe2a242356b50cf6f2aacb1ea22679e4c85cef0dbca38a0bc19f62c869078b",
+      "text": "Then we'll implement the",
+      "hash": "3fc560b0705ca738895561988659b493db5ee8586b95a822bd6ed2dde8705c48"
+    },
+    {
+      "id": "4a5507623cf799b408c730b9cc856cd3f945bf6cb5e1daab0815247170c0911b",
+      "text": "function.",
+      "hash": "78655d4d73de012287e630a648d3bc75193043eb45bfd031f8cd041012119e1d"
+    },
+    {
+      "id": "7b744a1cbd09f446bcec65af03897cb8694e7de35109ddaa41900747ef3c7434",
+      "text": "In this case, we're going to just stub it out by saying the weather in this city is twenty-five degrees.",
+      "hash": "1808d1c856d60409884313a042fd44ae2130c8f34ec14330e1bab283957bb3f8"
+    },
+    {
+      "id": "2a4a10cfa8c7e0da94a9e250810e99ca0c871436beda67884c6f7006561862de",
+      "text": "But if we wanted to, we could call a weather API to get the actual weather.",
+      "hash": "d4f4a13f270b5c90031bae982c49279de1ac17a92dd8cfe091bc04ef56959a29"
+    },
+    {
+      "id": "4018f5cdaf241c65f853a9aa0e0ba0be4ccd08b54fcd0e410137ba4e2396337d",
+      "text": "Next, we're going to hook this tool up to a function called",
+      "hash": "0e621e6af9a4e5a3d772742cb6638d3715c9d02f18d935ecd04bb3c18f7ffb71"
+    },
+    {
+      "id": "6304c7efb1eb6cc410b0bacd9394cefc41aa57a50757d7b84e9b13e4f2fb0e00",
+      "text": "We'll call",
+      "hash": "7e3ee3ddba371e296767d718081ca061626765eb27a1fab3aa88ebec161bd545"
+    },
+    {
+      "id": "9b829ed321679cf5a72b0da4f47acaeb0eefa43992d130692e5121786c13b6db",
+      "text": "with a model and a prompt, passing it the",
+      "hash": "3501ce5a92d15c7053acae5ed4f251db1394c5656415ab552a43e32ee05aa484"
+    },
+    {
+      "id": "cb687ed800ef5bfc6ef744caa33b99be010f55df0d6d9756cc3a4859896d3064",
+      "text": "Then we'll loop over the text stream and print out the text to",
+      "hash": "19642d1ef90dafc4ac4faec9ff8801d94e2903845986f22bc7741b2d3f01c22a"
+    },
+    {
+      "id": "ec84b3949edfd5a4bee49a03ac0d7db7aa977b3473120e11d0034a42230a0c5a",
+      "text": "Finally we'll ask it what the weather's like in London.",
+      "hash": "9963df02026c72eeaeb631009d160590cbfcb5b4aa15d65498f838c0c44d1750"
+    },
+    {
+      "id": "fc3f2248398c6c0ad86f2076ae5c03137b4843aa438224189639c4a9a7dfa448",
+      "text": "When we run this, we notice something interesting.",
+      "hash": "62687a655f95b3e9c5d34a609d0369b8804402284ac5753a044e6b2644c733a3"
+    },
+    {
+      "id": "2b49e89041578ac05a996eb81d09d68c4373cb8543e03c86c5cea8073e8ad2ab",
+      "text": "We don't get the information we're looking for; it just says, \"I'll help you.\"",
+      "hash": "4eb184cbde26099c844e0bed4893c1a15d056e79742de435d68cbece1edf7408"
+    },
+    {
+      "id": "58555783c9cefbff24f0194622612499008e91bb4ba9cf2414317612c197b84c",
+      "text": "Why would this be happening?",
+      "hash": "462cc17848913f86772e361db25902eb1d67860ccdeb6c632f6d30f3bfdbe5ed"
+    },
+    {
+      "id": "03d25ba6ea933fb192841b8d62e81a2201659ce748cf71a014c5a2a13b1cab6e",
+      "text": "Let's debug this using the same strategy we used last time: looking at the",
+      "hash": "061c0baa5eb9d19af30cc95eb1e3fc65b7e8fe5acc70d4ec5d3562bfdffad438"
+    },
+    {
+      "id": "8f16cc1f6028a03f3dd646e156b8c5b3e9cc35911b791c8b971c0f3c71258fdb",
+      "text": "property returned from",
+      "hash": "e57e7a981ff975db6506edc2230ce9a57ea5a4e96f1f977d97c424c510eb0d39"
+    },
+    {
+      "id": "ce71bf67ad04b54b8edbbcc83d145db353a35853f131fedf227ff0ab4a37b660",
+      "text": "Because we're using",
+      "hash": "d515886bb8090aa7fb7fb230373aabd1db4d426591079021fd26115667a705e8"
+    },
+    {
+      "id": "aca0ce922dcd6c334c0e98226428ad13ab0aa2c4143565c6b06ff08cfe464e62",
+      "text": "we have to",
+      "hash": "5e73a5ddfa2d3deaf3b08f73f61652856868939e419fd4cf29177ac7b23edc41"
+    },
+    {
+      "id": "9b8fe3018beb1fd1e357ee7c474632d6890b13a63ee633d0b0357d02a7e9905b",
+      "text": "the result of",
+      "hash": "2393e249f0a3aa1eb14931832962f4a9be1e5becbd73c9fe82e4bb4f69059fb4"
+    },
+    {
+      "id": "4e0597742e0ef7f8d2beb5cfb8485532d10538e040e7796911dcbe8d94092d9b",
+      "text": "Here's",
+      "hash": "372a30bd4a955b811ac15c04a60d9f59c311c4b224b39cc07f124a48bc11b51d"
+    },
+    {
+      "id": "d380ccb3899a31bc6c4eff409f33e3feefbc0fa94a73382b771b3d202ff3f215",
+      "text": "what it spits out.",
+      "hash": "b7cd4ccdc43f91956f910676323d3f987b090be30da906b919785390a7c95811"
+    },
+    {
+      "id": "aff266e6df0d339b142afe4e993f526f1cac4e660b78119796a62b272c9d1657",
+      "text": "There are several things to notice about this massive blob of JSON.",
+      "hash": "5dd4ece94549a977915b13dc28e2c7771e9d6df2f14ddd4b4eacf3e92961e587"
+    },
+    {
+      "id": "49a249187c40c50059312ea4916941dfdc5b8c1a840f0e05b6ee6f40c23524f0",
+      "text": "First, we notice that it's only one step long. The LLM only took one step here.",
+      "hash": "e597293ec4facf7726db5b048001d316d3b5f50ba23d66e650b431504f864033"
+    },
+    {
+      "id": "fc11c288e6177ae1fafbd0bf9afec0badc45e9a9e411a3bed0508f29198753f8",
+      "text": "We can see that it called one tool and got a result back, from the",
+      "hash": "c58f48f3743e2c35c62cf77465a4d8f56a42ddbe5a2c9345e1dec21dc921df88"
+    },
+    {
+      "id": "064dc0ce526e56ad696721076577528fe5e649d90bff53dc4ea944d9b7c98b6c",
+      "text": "properties.",
+      "hash": "5223198f967aba1c1ba8122e86f44c51aff00093dc369ecd4cebabc8eabab32a"
+    },
+    {
+      "id": "eb1931e12c2ec5005c9af5515de735c4d642382f45b6a8c4c8acf6b1291c593b",
+      "text": "So the",
+      "hash": "7c6d076c7ae0574f73818482f1c50c94a196cf765fd768765834cef9c93c62a8"
+    },
+    {
+      "id": "20f1b34c9bf2e73b93d55432df67f1c16ad175b3155e3b4e07fe70ba016bfe8a",
+      "text": "called the",
+      "hash": "b1a492f11f8c50ccbd7051f5163d5abbff6e1dc695484dac7798b9338e0c7b61"
+    },
+    {
+      "id": "6febdff8beab49d43d1495f50aec49db02caad7a74db763ef196269609c71772",
+      "text": "tool with the city of London and got back the result that the weather in London is 25°C and sunny.",
+      "hash": "60ae20ebe4904433e7a1e3857fcc319289acc47a6b74e7e3bfb0010aa8ebd0bb"
+    },
+    {
+      "id": "f3cfc9bb24466a7cdbf4657670c1b9ed0e20724a10390f8bc0f2bc7b07ae20b7",
+      "text": "But it then decided to stop.",
+      "hash": "7df356243a98b4154a7787cfd89ca780fff875756d43eee423bd2d0850c025f1"
+    },
+    {
+      "id": "5bd8eaba6b4bd88b5236dd0bf598f011c1741a4cf86f6002ffc95d3c75ad2d99",
+      "text": "So it seems like the",
+      "hash": "f202b7fc09fe492f4d62a013317e77d9f3f867f8e271e1d606ef6026f4aa34f2"
+    },
+    {
+      "id": "912173497fe7fe209ff7ffec825754ef0aefed93b309202a3be237c962bf25b1",
+      "text": "did the right thing; it called the tool but then it stopped for some reason. How do we make it take more than one step?",
+      "hash": "da42fc6a8e6ecbe53ff3c9d7ac591213c12d2d694ddf414a244bac6618f0676e"
+    },
+    {
+      "id": "6f345ce0a4d397cf51e0a91418f7616c9d851ec14f51015b854006ac19278e97",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "12e31017850f122d302e86bab0d16f53e65cdae3c4a68892811291af7b260258",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "8ab57be9b0ed1fb939de02e9fa566617b2f294a45a9fd648b1424179ad4890c8",
+      "text": "By default, the AI SDK only allows the LLM to take one step.",
+      "hash": "ae235ce35a0509091f68ebe50ab2cecb5a928aaaa5bb11d0842a6549374f9298"
+    },
+    {
+      "id": "6b1a41cc372dee3c4126363955d3242066cd3549be6648d5511ddfec9a4dc696",
+      "text": "If we want to allow it to take more steps, we can pass",
+      "hash": "1b91fdc3088b4f582740fc408be51b190867d5bed221f6505d24f13d4dac3739"
+    },
+    {
+      "id": "7f6f4ddcf20935353f9c80f7449dc5a05dcfaa5f181ce969d704cdb4b3d1ac41",
+      "text": "This forces this loop to stop after only two steps.",
+      "hash": "03ea0a7bfaf188df8d274fb7453b82038c6ad7b904fedfc4f363c94d33cd01a1"
+    },
+    {
+      "id": "84053fd7fcd4cf6f94fb7488e3f9096f389f58710352335b0b509263129e1c2a",
+      "text": "When we run this we get a really cool output:",
+      "hash": "ed94eefcbf9e1905a1d362d6564cd3bd3d3f69901bdb29bd5dc64a1e0fbdefa7"
+    },
+    {
+      "id": "08e9adaab49a95d409d3ab8a3e134261b22a35c8b84dbbe7aa1289c603f0f6eb",
+      "text": "We can see that the LLM is now reacting to the information that the tool provided.",
+      "hash": "330bc5e5528a2011941e4813d3734c45c40e0131de4a8942f64b1c7c05fa5d0d"
+    },
+    {
+      "id": "873005a4a8b66f4823d639313abaced9af02d6a6b883d54fee1bcce1054a8da9",
+      "text": "And if we log the steps again we can see that",
+      "hash": "b3461d73776e143cef48422580008bb6f1bdccffdd5f8ad8fe8b8307e5833a8d"
+    },
+    {
+      "id": "665774023919dff57226a1f98a0215e2f99198cdf5f868be68be82203d9f4765",
+      "text": "two steps were taken",
+      "hash": "d767f1a3133eb0c6fd32cf1d51e54f6dafd1cadb627463abdae980aaebd94a59"
+    },
+    {
+      "id": "85055ac8703e283fe3d668ad526141dd4fc1a328cc7e09d2ce192eabf31c4ea1",
+      "text": "What would happen if we specified more than two steps? Let's try ramping up",
+      "hash": "cf0fadcd47039d007b0715ac0a8bc89a22cefcbb58cacddeb27839bfafba3791"
+    },
+    {
+      "id": "6fcd22c1933b1b9f1cd9a65f7b508bbb5655b1d61139c2fcdd18a58cb9b42595",
+      "text": "to 10 just to see what happens.",
+      "hash": "607293dc39ffbd81274ee78e34a0ef08452f4474a151bb671a813e6e74a035e6"
+    },
+    {
+      "id": "dab26d4870b0f86c7b649e6d2cd33389f2866fb467f5867c6533be82ec79c9b0",
+      "text": "Turns out, we get",
+      "hash": "022786ec32a97e15a56d747449eebf0d39a63e3d8b01ac6ce2357405793fc11b"
+    },
+    {
+      "id": "30c360ccfa27d146c59bfae7e7e5312ebd7d3ed38a6f3b22812aa3d7b23ca5c3",
+      "text": "nearly the same result",
+      "hash": "00bb2fb2b29bc5972f7f806a4e71eae673af87db5274bf60a939eef633ae060f"
+    },
+    {
+      "id": "b3b882ba7edd92a87f53ae0aa52bffabac02026e85e10d80ec55b73fbc80a2a1",
+      "text": "The LLM stops after two steps.",
+      "hash": "dcb513cf522ba02a19ed56690da74d835282ffe6f71b557673b1af41c15d259f"
+    },
+    {
+      "id": "863edf3484a356e5ed9ef2d12f0993b28a8857f0eedd5104265104ae2b6cc2f3",
+      "text": "We can see that in the second step it has a",
+      "hash": "8ab45562874bd42a44fef5088383ba5ed1b85711118aa6410cfb61f51d6f11f6"
+    },
+    {
+      "id": "a0c8b6d176da5fd7b5e6a54e93d8b3b73f771561da5b20ceb02c1c711e28ecb2",
+      "text": "This is because the LLM has a built-in mechanism to stop after it has completed its task.",
+      "hash": "b9293ee518b6e7eaf5fce3081876ac13a014dd48ad6c8a7c015a54e285ea8ed0"
+    },
+    {
+      "id": "cac01baa9b71584c72fbc2ecc8af77d4a6e1fca261d7c83cd9da1f0b4521e16b",
+      "text": "This means that there are two ways that this loop can complete. Either the LLM stops itself or it reaches its",
+      "hash": "914da35ccb414cb168de313f68c77f20c3793cb1dd10c5f3778f37cc07e11f7e"
+    },
+    {
+      "id": "0e5d2ddefd64a9b5c6fa15e99bd2c2d6b51a00749df8e80b77d8789dcaa222c7",
+      "text": "It's not a great idea to specify",
+      "hash": "1937ceec60b1bde534cd0d350dfe32b7955211b3a8348e01bec948fe790ab659"
+    },
+    {
+      "id": "0d239812b9449e170d377a3b9fd84087de76a302cfc67110b70b7b98e188ca5f",
+      "text": "because sometimes the LLM simply won't stop itself.",
+      "hash": "2a5534ce64bbd87577cd76e8e6d455103d0ae028e69b337783a89bd6de7404eb"
+    },
+    {
+      "id": "7ede85a354c375346353fda6dee72cd37dfa7cfb4de003a859c43dd2e9351aeb",
+      "text": "To wrap up, we've seen how to create a simple agentic loop with the Vercel AI SDK.",
+      "hash": "07a7cb437767e87f1fd6e1e2d27801d678d0df2ad857b99456928a899345e872"
+    },
+    {
+      "id": "9e89120feac2092724a367e8be75b48abb7d3ed115f85aee08d29d08d55781bd",
+      "text": "Using",
+      "hash": "afe773e42fa0e8939e89e8bd489a3abcf3ce4912375aac4698e94556a0a48ddc"
+    },
+    {
+      "id": "6fe1eb678010034d57b8cd2d959a96010ffe9fc48f694418b4ac56b058d69779",
+      "text": "lets the LLM take multiple steps and react to its own tool results.",
+      "hash": "8e17a20ccbfb85bf47147f2115ce5680a7a47026eba00af40ff2eb645f277b7b"
+    },
+    {
+      "id": "8a0c371e499c2ff658e4f87338c0aab2ab711568b3c221ef8f469fa14bec1941",
+      "text": "This lets you build systems that ground the LLM in reality and make it more useful.",
+      "hash": "8c8834f668cd213febdf1fe5cb3cd76d2750279ec92076496e553a3deb53eef5"
+    },
+    {
+      "id": "80f6e337def0250ab74bf042f3ead9983b521d9424050c3f53b588aa8c66b077",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "a065a26701202b6c6c9d80bb80875631c466d559ab22eb943e94ae2c6aa76315",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "1d3b145ef98a0ae46cb4ea769d8b3a7324f9545b1220167682dd7c7af4380172",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "439b74c62271771ed4dadf8960582f747c6cdaeb1a4e85e4b4bb1b5a4d467150",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "f74ba2858eeb2d99292f22acaa540238de5d9696fd33f23724175b15ef1cf390",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "fa402312e56b14cfa965f53a7c5391df1bb7c9d7b79ea5ed5ebf9811ad48ea6e",
+      "text": "Article · 19 min read",
+      "hash": "c04cee9189899b5c05e6c2a85bc179840bd49e565bed37b8e9f787b9c0eececc"
+    },
+    {
+      "id": "dc1aed17035c0d7eaed639aee609b4b445e466aec385e2071752c8d4e33c50ff",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "3e6f36610a3bd5d7f2c651fa1e567db38450defb1ba42807fb8a21ca3dd1539a",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "7e7cd47ef41737005d5b27e6a1972ab2ab3add129aba33afda80bed4234f12c7",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "10bb77337efa650ee89293d7b52d9b5b24afde476a4a26d0fdfcfc05bcf09ae8",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "a7f5b8df5a5548d883fb449735c786531a2580686a56d2ab588bf91e88c51be3",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "5735e35294ca768860ac0eed3d29a68b01c410b6f3d3a69a5e63a56362a1d531",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "50a93341a4f3084ec1bf213e77372c47795cf7ce372ccc9d70d5bab4d7ec3594",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ed75428f65a6942c25127fc01800a04dd88170f0b535b51d2be22c2025740e08",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "ac0cd8cce2d71a0b537fb262a4daef91510075cfae77f2bd138377a8479e25b0",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "5e278deae6c0cbe63d0238699f307eb31f2a7e6e67720d95b39316fb6df493a1",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "3fdbaf0b40cd0725480fd3dfb3ad3cf6fff255ab727100f1a56b899b8700716a",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "cd12fc6da654bed5bcbffe417cbbc70427f67910d550814e3ca5d0ba5dda164e",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "9034d635c23e9694b273144ff53e60445ce6c72e36da54dd2cbef864e807487f",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "50bf93874ff9da3d2fb868e550d1a6a06fa149efc3aff70d06ff1f75d6b61716",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "b647c313880ef136b16638947e480f9daa36160cecb7b462aec4316ea47ec5ac",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "56f0b7a4c10e53993b0a7b3d89b1dcf89d04c76b2924ed25463fca04d4ba0895",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "6410916d04567ab0f8d57068606b4b694f848afc7fd9f67e7cefffd72adda3f9",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "9baee0524f7a55a312b290c463eb7dec45089d32c81c62a87c7fce5425f20604",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "caabbe10da4b95b0e5e2df1bb98bea3eefbccd764990701a6126050b3a5d37eb",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "6a28418048319d389b51cdc83bda1c648a8358d5669752790425de196646945e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"hh7iyjc0cs8mdp\"",
+  "lastModified": null
+}

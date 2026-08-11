@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/grilling",
+  "pathname": "/ai-coding-dictionary/grilling",
+  "fetchedAt": "2026-08-11T06:28:41.833Z",
+  "title": "Grilling | AI Coding Dictionary",
+  "contentHash": "2f64a8f8729921131df211ad6e668bf50861ab4b0dd715b7ddf8c3b918e5c982",
+  "textHash": "656a65b736ab0c441b2cfd8e5cdc157ce24ce0a0f2dd5ad385f6324992817b4d",
+  "strings": [
+    {
+      "id": "978fc3c505e77300edb384958d44bbb2dc9419a12f91c24d1e296f46283df79f",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "6707cf24c80d8a9baa205096c5218706083224ed3f20c701308c9058d4a61ec2",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "816883ef9b0b81c332dff48d93789f16ee904f0faa1c9439dfe71e2682689597",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c8338317b5a32f0b062b9d2012eac5f7fa197754d83d3e3389103b06795fe5fb",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "2b261ec028f6e154f03cd2e5e0b93bf57e271908fc5fec0eb26702054d8b6263",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "7483b145a3438145e2c3f2057674ed4e2977a96922c10df1df14ec3502e913dc",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "9f3f96bb8c6781c54450aa11cb4a5248d152684ff1e9d92822410441e474bac0",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "0e28c970a3a09af0447696e1502375c9fce75d81d8dbf2179dd015423171c959",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "54f14578cb57259ff1063b1b0135f7eb23f0b949f7fe597c64bf0ba014f1ea1d",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "06a557e6a995592a3c1ebd86203384f17a783ae3eb4e7cb7117e031bc25a2681",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "dbb639a37f7f8f318559aefdc250ef87df97b6e489a47196e75218d6fb38006c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a5f8625a5d1851d2c4072451d68d5008a82eaf5542f5ccb7dd76a2381ec27cbc",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "f0e5487a29f71fbb749ba7c8b850f3296503b62a9eeca58d09fd150523edc61c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "771928989c3cfb4eaa4df0353f7e80f0989429b6e5795b29408ce7da3299eb27",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "075b122ae30066b231b17d4642093346fe33f421c0e0d7bbf9ea816e16991a83",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "b22c92965eb04ce7a109796f737eb91bbcc4f947e0030c8057f2b173db726a79",
+      "text": "Grilling",
+      "hash": "78318482b2ed0e5dd1aa46addef2c3b1c379b1f3b213eac3337b8fe2b40ab6aa"
+    },
+    {
+      "id": "783b096d248ec825581510051d001b2366a298fc10508e14f67cd8102e3240f9",
+      "text": "A technique for developing a design concept: the agent interviews the user Socratically, one decision at a time.",
+      "hash": "ccd13e44dc8aeef98ba2674fd7b44678089e580e85e3f901351796315240a34c"
+    },
+    {
+      "id": "b7f5e7fddd0004ff766370590b1c8d527f6fb210fc63f03bc19e532a8eac9b48",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2f6b85414b6ba955c34dee93e1c6fb05e91844f1b177252c9fbbce27fffbf7ca",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "cd31022fe27ab80c1cc58268ad24425992660f69e5b80efbac04ca213276e2fa",
+      "text": "A technique for developing a",
+      "hash": "1adedb24ec0d07dc15db502831d05e4ed7fc6b49d81e5825439d59a983248173"
+    },
+    {
+      "id": "57fa61de5967f8f15f57c75784922c801bf9aefbcb1e0fa17f9bf3c2022b3044",
+      "text": "design concept",
+      "hash": "6ae84ca998a976763f79c817e8b8d469a75a0c9c0f08c154e1f767a358dda43e"
+    },
+    {
+      "id": "a3a0aee498bb7fc5de5350ac095c720d2c36fa6d1b81d30372cb12c3fc6e4113",
+      "text": "with an",
+      "hash": "6ecddf32f1167dfef0838686471bfe0b81f98a3289c8016d338618fe2bad8f41"
+    },
+    {
+      "id": "20161f7d21a271240c2b2c125a72cbe3fa51909442c3a3f5461bcdf16f780229",
+      "text": ": the agent interviews the user Socratically, one decision at a time, proposing a recommended answer for each. Slows the rush to a finished plan — no",
+      "hash": "3e6f6c884476e5d75ab8caf532a29c395364d8147acee105f9036e6ce1a8e9b6"
+    },
+    {
+      "id": "7364f62707c5456ab18a56900e3a800b626598924a1b82e5d67e79c82f4f6aef",
+      "text": "handoff artifact",
+      "hash": "741619a26b388b5e1035994e6e7ce6c59c885ebd231ad21f8d9ff02438a0cbc9"
+    },
+    {
+      "id": "58becfae25175c7680d9e2ba3af98a54007309746625ca261b0c3a689466361a",
+      "text": "is written until the concept stabilises.",
+      "hash": "15ada79484bd42e11807050dc430aed9ae70d95f1ecdf29ad99b030e61d6f335"
+    },
+    {
+      "id": "5e49c1479dca6c5e3dff1673cb788593709da99081ded8c63142c0121cd42422",
+      "text": "The technique exists because agents fill gaps silently. Asked to write a",
+      "hash": "dfc943e27baaa6060971d2ffcf7636d9167d17dce9d36e6b237d36deb9d67a17"
+    },
+    {
+      "id": "d06b40956843930ad7443432c105fdda2338dda229354d48179aba67a7b49f73",
+      "text": "from a two-line prompt, the agent doesn't stop at the decisions you haven't made — it picks defaults and writes them in. The result looks complete, and the guesses are indistinguishable from the choices, so you discover them late: at review, or when the built feature handles an edge case in a way you never chose. Grilling inverts this — instead of guessing, the agent has to ask.",
+      "hash": "4084b9f6455cd541055db558554758af234074edcfd4b3c43784578095cbcca8"
+    },
+    {
+      "id": "4e0157c9dd043250c0219b1d4c59cbf35addb7305c0e62cfe7cdb829f19bebd0",
+      "text": "It's a",
+      "hash": "4563b3669cc90cb903accac1cb2982afa8d5303ac30482e8b4598b8415c56b1f"
+    },
+    {
+      "id": "23944a2becb5f1e1981d3e80aafbef9e5205bb5245edd59cce6c5e5c4b2f078e",
+      "text": "technique: your answers are the input. When a question can't be answered in conversation — you'd have to see the thing — switch to",
+      "hash": "930158311d02a4c397ce30738552d3641dbfc4e529b25b8b5525ebe93990e00c"
+    },
+    {
+      "id": "0220299db5794bf31eb56ef1283f756dde6c1ce31305d845f3647721972956f9",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "208e294479d071247860c5b742a096991e33aa05ff63069e079a07ec970f9abf",
+      "text": "\"It went straight to writing the spec and got the cancellation logic wrong.\"",
+      "hash": "b3ac43eb626710615caef780dd8ad5243910b12920405d6469ea582e2cb5f549"
+    },
+    {
+      "id": "fb88aad8c3527531cd7ac4756d00ff2c20c6e14d7bd703bbe9af78c7d9e90656",
+      "text": "\"Grill it first — make it ask you about partial cancels, refunds, and timing before it commits anything to the doc. Cheaper to resolve in conversation than in code.\"",
+      "hash": "22a02aa532ac6a4d3f70a293c89f4aa6b1be8b55765d1ddbb7b6233cf3400da7"
+    },
+    {
+      "id": "96af6d005f7548ad7bf495937fa7445f84bd225d6575dd697f0154f282e612fd",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "33cdd418467f8286e4d000b88ffe686f0153481d166cf18f83ee01d310ea424a",
+      "text": "Design concept",
+      "hash": "82e016d461be61c25a0a6d1aea2feb29c33baca4c6a3af40367f9ad5b297dd6e"
+    },
+    {
+      "id": "4d98a6036ca084d0de4fff9bf983bad388d01a8892aadcb38862889cce709f67",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "18b1369479f003f61f91931f020f3c708be44efe751cf20ff5d4b942faa4cce5",
+      "text": "Prototyping",
+      "hash": "28f52a5a016a0ccc11741c2b981e3d5a59a6846b2e25bff951b13ce5be27d384"
+    },
+    {
+      "id": "2c227b93eaaf64b96e4a3edbc3028aa78f951f37d1f4385d3a37f8fcda43896f",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "46d29de5df2ac67a14a71d47181a85f27395beb46d9c601c1389777674b9d1ef",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "35c114d553fc9a2837d3b0a96a12face522b70f63ea465fb358d25d5a1f93781",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "6f412c03bd84ff81baba0936fc5a676d6f4729059a2ff1b07e608def63bd9394",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "4aaa25c26f4cd5bc2620650f4a2d68be5232d40a11be42277445ebd71fbbea2b",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "3c1bfabb66e0a119ef950a8279695ac0f31de58b217c8e41f8f1e66783d45482",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "ca5ba507c3395e3f10a634ab6f60b27147fd4c95e24fa9ee1621c170a51c3e21",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "1ce2d71dd669c3dbaef2ad2731c497fd56931fb8984fede8fcfb3fc8b6254e0a",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "40a30d6ec2967a80eba0db86c93077b574fd0ca1a81425466a1f92767b9da7ae",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "5201f3c0b7e15f2e6746536ac9f22127ea8bfbcc5184de1db595c0413f159d88",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "d265acef940ccb1636f74140dc4f99d7cbdc2ab15705bce7850ed2979da64d50",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "24bfa7d730ef1b4d019c96a136e7c2b81f941b3372970368d975722e9f17bf56",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "031ac7ec64829c3d79fd540748049bd4e884173fdea5a5cf0203af83aa9a7edd",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "979e03d6410144586ad98e6241749d0c9e28730bee0fa76e3cbfd2308b8580f2",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "aa0148ec574570db5ca49fcdf23d673588e45ccc1cfb63dccb74b2b3edb9dda8",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "d15d7ac8408f3416d2230dbde075f3b9c32e0b92a2ffefe7177dd25ea3722d7f",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "9ccd0080c9400de5e73370d74972a45975dc98b0aade940c72a060a9d800e278",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "4666ba3aa0ac971baf3aeca719c9aa7f7a2378419fc0fd44bd15d356b224e138",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "03fc4e7ecb0187e8d2a3dad9e825b9ae50e10c390f2e0657f25665e4d837614c",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "746f860da8b3d30ac95006b71a8ea959185497b67ba83c76c18b1815d8e638cb",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "d10c3ea372d2ce4ae981c960a999834f2f473f1399704794797f4edf54c1957e",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "f34e920601fa679a95d225d038b07f06b11ab21595db8b2e542831229ef66fda",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "69febe04fd68f3389157afe6153aff21fe4e3512903ee2cb066e7f8fcfb2936c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "cb7c7db27cc77d3ada2685f79728a1218576c515eafaa3635956198e32a5cadc",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "9c788ed1f630cd5bd98d07bd2a41d1e3a1ca26b814622a4aa78c2c1edce2a284",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "a8cd82d6975885b534d85f988a36411bc13c9f2320002cafb0876291f077f963",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"lpqxhfu0654oq7\"",
+  "lastModified": null
+}

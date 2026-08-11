@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills/subscribe",
+  "pathname": "/skills/subscribe",
+  "fetchedAt": "2026-08-11T06:28:02.107Z",
+  "title": "AI Skills for Real Engineers — Free 7-Lesson Course",
+  "contentHash": "d14b718eaad3c910a1071fc60801dd2aa786555616cef436824bac2cb6f141ed",
+  "textHash": "09094b096e3cd3c0dd1df76ae5713ffe6a0658537ded5766d10765d95856e6b6",
+  "strings": [
+    {
+      "id": "8b4317ea65e3c7a43b2eeb8966ffb4c8b0133faa1a6a24cbd1f1b3b7dc2541a9",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "8d3d8ad4e46ac1cef3490b7e98702ae8f9dec11a9a5bd1d9faf1b29578553471",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "eace0a110f90905546d711f839cebaab2d8423ad9dfa549a14314c1c24e71e00",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f434ec622418e58e75c1f421d00cdf9bdc35608338e7aa303f9b24c615115558",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "422e4a3ea57d29a3b8dfa3cf0cb7aa0fa9b2899be80bed6efbc47250b28994e7",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "77fc7345bc7bf82f8ba43e39e8db296b8f852249bcb4bfa39e6f8a97c80ed705",
+      "text": "Free 7-day email course",
+      "hash": "6aba8f3e1e4c9c030dec098b6093e55d5187ac3c649a6337daf5e86d47f008aa"
+    },
+    {
+      "id": "8c086a6076d8a76e68c98becc3a0c101f5968c4589a883aaa189f8dd8a19901f",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "cf55851a328119c743f2b4da150bffee46d9de3c7cd121dbfc5fd02c8b1fba62",
+      "text": "Build a repeatable workflow for working with coding agents without giving up your engineering standards.",
+      "hash": "fcb15182653f1ed6d314a1ca67020539e5466faa84503e40d1f5a683f9b5a5f0"
+    },
+    {
+      "id": "f3229dd11bf3d2954b26d03db064a4da9dc7a0e33acc6335a13d7c6d652f1eea",
+      "text": "One practical lesson each day. Learn the skill, try it on real work, and finish the week with a workflow you can reuse.",
+      "hash": "3a1af14aef302b9430126b35e35665d5b6ef890617f677f057ac6b1b4c2495a8"
+    },
+    {
+      "id": "20935fcaca2edbb91c1b31cab08202da0dd78647ee64449569c17af234052d64",
+      "text": "Lessons",
+      "hash": "cb4ad503e340ebd1a921e3ed6dcbfc0a80660936d8bfc9d190f70694b9ccb51b"
+    },
+    {
+      "id": "6bb6c377648c24c5d2fea44b8321ff9beeed966484a5bc49397bf151de1a728f",
+      "text": "Developers subscribed",
+      "hash": "2a3c9789b4d3a312ca335d875c2a3f86fa1c67dd5da26d67391551c9dabe8843"
+    },
+    {
+      "id": "a8d2a1f15a4dfb0239ef974e35638609c3dd204afc2ec217fbc76f3bc10de154",
+      "text": "No account needed",
+      "hash": "1ad20e017d7621688b9c96059912ca850c58414909b509092d31aa294d548718"
+    },
+    {
+      "id": "2ce73cf92dbb504c120ed95bb6bd57bbd19f8cb98ed7acdd45602ac9b5da54d0",
+      "text": "Free",
+      "hash": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d"
+    },
+    {
+      "id": "b3db70f9fa55ad9f09ab44d834f4e7273340dc4b551f6faf0a708fd34adf1ca9",
+      "text": "Start the course",
+      "hash": "a602723d450ce6f804f4e4701bdedb71962574673aaebf9afa509e1deb15cdfa"
+    },
+    {
+      "id": "182631567f86bf9bdcf2bd5cbd0ab412d0f7c32ac36f031c55251660b4193fad",
+      "text": "Get lesson one in your inbox",
+      "hash": "19b98eb2ede90017867db84e46550598f465664f6f775dd9d4446c2dfcfc1020"
+    },
+    {
+      "id": "df0f7f8d1857c71ace31a9b292329769dff003458f44e8a7ea52a0eef9a3cfed",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "eecd046a17f103745de5565212d4cd1e47a6ae10f80c91434a32e878d98eb928",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "887c84f00ab9971646d7c940124bcfc95e1a03954effbfa7f7c663eaa805246f",
+      "text": "Start the free course",
+      "hash": "9ac2404ad07155af43c1327c5014b1de20ec489948bb3e2075b3c6389ff981a0"
+    },
+    {
+      "id": "1c966662be4b4d72e03c259bb705fb9fa8e95171bcc39fb15d785a246c00a1a4",
+      "text": "I respect your privacy. Unsubscribe any time.",
+      "hash": "c429347d1095e2bdaf56f7ae06e3249840e3134a7a02f1793142f7a4da8e60c0"
+    },
+    {
+      "id": "987951dd67d2e035c9a30d9b6acff6a63ffa821212ec99d32754e8e455a57f67",
+      "text": "From fuzzy idea to a workflow you trust",
+      "hash": "5403510e6bdf5a275fc43966b328826e9bee9092381cd78f1c7045f7377f04fc"
+    },
+    {
+      "id": "2ef441b93879db72709d22da55e6016f87ecf2ae3f82a23cddc57c3ae97c787b",
+      "text": "Each day is one skill and one small exercise on work you already have. Nothing here is theory you can't run the same afternoon.",
+      "hash": "14845f3ea2a82e3a7e078bbe57b868d388a0a7b65f4603a2bf42bd1df370d693"
+    },
+    {
+      "id": "5cac042a606476c42be7fcd5dff0307630282aaf7643c9898e320188798cec09",
+      "text": "Day",
+      "hash": "8f2364e11b8be3ff008f32b3dedb54e659362429bcc9e3eb6acb6070de4ffbff"
+    },
+    {
+      "id": "b60eb41abc1ce4a048f9414563c1ece8d57f38291d3b528099d798cade2e92d1",
+      "text": "Choose your workflow path",
+      "hash": "55561dfa5fd263b9e94069be897dffdc85c809bf01acff5c8cf1e13a8a30c73e"
+    },
+    {
+      "id": "d9a750d71b8107378f90e6d32a176e0b91eb46e88e0c160e682bba42a449ed1d",
+      "text": "Start with reusable agent workflows instead of one-off prompts.",
+      "hash": "af89edb22d1dcd7c7bcebd8a75a5983604901a7eae13d55c4fd881d0af548fbf"
+    },
+    {
+      "id": "3752aab36d0ee081c00da09e519ee1354fce298d3020bcf49af93543edfff0bb",
+      "text": "Clarify the work with",
+      "hash": "11f58e71b3e485f8f450f3babfed1f5a355140d6972ed118c7010cb3c43cb8b9"
+    },
+    {
+      "id": "66a071b569171056e66d47ed61af227c5b5a2dff252d1e9a67ea5ae462b797c4",
+      "text": "Find the fuzzy decisions before an agent starts building.",
+      "hash": "8722132e0cec68f50556bef9b8284c60c5ec97d23154e62aad336e4255c9d36f"
+    },
+    {
+      "id": "8d41d1e06a3982c0e2128788b828427d429f497c4c26b2d882a0f1f9902f3124",
+      "text": "Test uncertain ideas with",
+      "hash": "57eeebf0a5bb6f5a535a79effd00e5a38be673ccf7853ff469a894b4f67d8115"
+    },
+    {
+      "id": "355943fcffc991da413c167bf141c30bf14d9039cbb3d6d1eb19ea47fece3d24",
+      "text": "Make the unknown visible in a small, throwaway context.",
+      "hash": "b91e6aeae30bf5326f7b459ed761667d2894b94be0bf4374d8caa121f061d63d"
+    },
+    {
+      "id": "dd8801ecb5acac6fa389ba54d5d83065a5f36a5faac9ab3906178d138f011306",
+      "text": "Turn decisions into",
+      "hash": "53e2f71d67528be2f0ab314f8ad86ea76f8f594dd6704b003c7efdf45756a076"
+    },
+    {
+      "id": "776e5ddf6189e9b0b28b7756581bd86fd8a954fec0dd4072e22d0d881c1cdebc",
+      "text": "Break large work into reviewable vertical slices.",
+      "hash": "6c5d9c4983b6234f5e66d20b94c20a57fa8e5af25216fb88b8baf7edee6c42b2"
+    },
+    {
+      "id": "8be8980775ced32a434477c29260efd353ce931270283eb6de9245d910e5dfaf",
+      "text": "Run safer AFK agents with Sandcastle",
+      "hash": "05ce4885459de0edb25a47b3d08c4cd3050dffe27afba3fdf6357d56f3417846"
+    },
+    {
+      "id": "f3a27868de849caaf31985bd7340ea9f30b10ed3b2a3e50a615e222cf6024ec7",
+      "text": "Scoped tasks, isolation, visible logs, and reviewable commits.",
+      "hash": "2d0cc41817df25ce532dcff4a21b40d626e3f93b0b3c4b102772c066160abca0"
+    },
+    {
+      "id": "33387867b363c1b22e911bfe07d49b944ebca86a180e74445151c7b4062f3b15",
+      "text": "Review the result with",
+      "hash": "ec29b5df0a387428a46f7389390c7e707487747f6b6bd56c09e9390c9c53d7b2"
+    },
+    {
+      "id": "c590739e6ce295b7ace08cd34432338bd7047fd2ea3325271852d059abba088c",
+      "text": "Find avoidable mistakes and improve the system around the diff.",
+      "hash": "bda65ae59ddaec4fa258901f415afdd080187cfbc26deb6829efc99bc1420618"
+    },
+    {
+      "id": "75caed4a4000bee9c7bb571e734ae0ba81f6644fbc089c68114028bc6a6c2f34",
+      "text": "Put the full workflow together",
+      "hash": "744e33f369bdaf3b15263fd09c7fb4ecf2819a5e2ab47ac9d437f5888b291350"
+    },
+    {
+      "id": "0dd3087aa13377342a56cb74a03fb3319b4e5900d8bdd7ff2b6d1ed0f716b44b",
+      "text": "Run the loop from fuzzy idea to a better next agent run.",
+      "hash": "c2d6095a37170489592b686b33f73634dc6d4c2f8c4f30d903ec580cad9fd0f6"
+    },
+    {
+      "id": "c317d4dbb247aba2ca3d8fd7c1f1c9493e272d45618affa9d413e7751b4af308",
+      "text": "Day 7, what you'll have",
+      "hash": "73fa45efa56fedad96b5a372e455926cd91baf42c5aecd181ddb057d7219c246"
+    },
+    {
+      "id": "a3113b3c4b83667a69cb771d492a36d170ccaf5a91aae2506f0b4d22941d34f2",
+      "text": "One written workflow, the slash commands that run it, and a review habit that keeps your codebase one an agent still performs well in.",
+      "hash": "d096b3ddb946d3289d0da1a314ef280d026b5eab982bcd2055e47d6f8fa5b2a0"
+    },
+    {
+      "id": "9c8fda01def50e8b724b984ac0c6dcd75e8cefd6169233bfd275f55f2d4fbe18",
+      "text": "Built from Matt Pocock's working AI skills",
+      "hash": "4eab88b0270a747be3189d92821838f56d400aac97f3763d42c64f0540eb0e2e"
+    },
+    {
+      "id": "b6fcc8896a88ddb13c4c81b2fac625d7eb1ced37b89ca02507b265b2c1bef812",
+      "text": "Matt created AI Hero and the practical agent skills taught in this course. Before that, Total TypeScript.",
+      "hash": "6316a064784ff0f714f46fa90646fd79386cd9f5efe4fe50ef1fa4e7d5a0a5d5"
+    },
+    {
+      "id": "745715cdddde6c74fcb871fa7814b95979168e45afee98702c81f8f40050b3c6",
+      "text": "Matt is one of the best developer educators in the world.",
+      "hash": "915afe4f4cb6fa588b46181e861a2e8352c561627dbdaa74ee5de01145e632f1"
+    },
+    {
+      "id": "dd80283331e4e9d8a163477bef5cd059d7dc537012a44c884f1743e6d7fdc8e5",
+      "text": "Guillermo Rauch",
+      "hash": "6baeda859b57123a30b8892b9ef22ac5670de5a99c6a73bb8e01eb7ecfda37b4"
+    },
+    {
+      "id": "865ea37ba748d240909d2b9b5617a3ed87423c7d1438b447493af0d550c0bf8f",
+      "text": "Vercel CEO",
+      "hash": "5fac9abac815a44aed14e4ff25b83cb7f2b2a1bc3713387191544525195fca2d"
+    },
+    {
+      "id": "f17b7137929af2d5c674822f4ef13e89acc2af54aaf8e3f38b140b37e0841311",
+      "text": "Trusted by engineers from",
+      "hash": "efc1a4c959c1d268ff159cc11e79add9d7ffc96abace5ccd2c39f5f16a6c8882"
+    },
+    {
+      "id": "5e7a2bc6df0fd6049e887922ea3715e8029d399c57dc087f9fb9a75b8ee642af",
+      "text": "Lesson one lands the moment you sign up",
+      "hash": "b16d01a6c42c4840e8c251eb85f631e72c72102fde90554021048a4d5b1a8696"
+    },
+    {
+      "id": "286ffe736c8aba6c32f6c185972650ce425b154444c32571ef3266c2339000a7",
+      "text": "Seven days, then you're on the AI Hero list for new skills and Matt's coding letters. Leave any time.",
+      "hash": "edd7faceb5db87a37f3ca842505a83315a23ed1384771960cef2025f30b0bc81"
+    },
+    {
+      "id": "3d450ebfa0f8af42dec4aef68610a1f2343d6013ef9d1b4213bc7a7f59759539",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "e766a22515c659986f6244d4c3dbb02ce043cd78a9bce8ce7e94b8c8dda16af8",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "6270271cc0679f040fe4d8b06c6c35a4b8ccb97d498a0a606c0579cae8c78eff",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "e13961a3e10c182724b84ee0feda4c77954c8488f77b9f1b1128fd527cbed76d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "2fc1eb04fa414d33b24c4a7160cef26d8c33733af8d74a6713df98ec2660c71f",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "ff005527a618e75994883b79b4d5df9122b9d92f06559e3674df317ed8da6aeb",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "880d9d6765a1d8526e7542c6b76db66627d0e9aede68e68e248b985eb3a1f21b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "6af91f34b22c0303b4e08d86006db44218efa075a463451c88638cb3fdb6af33",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "fdfb37f657400798e88b460a73babc53e30cd71284c76ca3007a714f5a0daf70",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ea961029e3d4d8794a8d5d238b3f960af1693bc4898a6293650b73e1cdd661b3",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "260d806f8cea03e98bd9aec15283db7a5ec107eff4c4f379811652d9163f8279",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "12854c1444423c1accff87d84672d649508fb7a44d853a48ba358fc86c7c51e7",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "a72ce5bde92782ce9722b5d28b5b14ca0f87ae0031fc02c0fb56c534c5e28bb7",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "29a4cfaf32b119bb1fbbab2778ab50206bde783423e0e0bb1362efcd906907ab",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "ab40bdefd43af5709abb886c9e15efc7a83a03476ea478440de57f6aa4245c73",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "2d3e12d77fa4db9a2f251170a62b3bc1079150a8e0babc4e61bd6169ef8698b0",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "72744cebd9668d30eeb8a1878864b69ca8ce50af2edba5e2dc2432d39f62ab06",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "b8588e479ccd5f0c8378d5407c8041d0b0d5b887cb276f0e3133123b0378443e",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "067484a20f09cff98dacf5bb69c4848334556e2fd425ea2a728ae8707d427e8f",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "20bd1023f01dc1bb67342db04d7798119ff5135714b307dfa602fb278bd20ef3",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "c9626605a9120247e719cb0f0380fa068ea2b883982092203a534610b09ad96d",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": null,
+  "lastModified": null
+}

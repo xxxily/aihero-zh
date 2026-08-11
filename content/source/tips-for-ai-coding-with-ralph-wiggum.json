@@ -1,0 +1,1933 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/tips-for-ai-coding-with-ralph-wiggum",
+  "pathname": "/tips-for-ai-coding-with-ralph-wiggum",
+  "fetchedAt": "2026-08-11T06:28:14.764Z",
+  "title": "11 Tips For AI Coding With Ralph Wiggum",
+  "contentHash": "1e684d623bf112eb11ea3dc8fe157be3be781e21197412c83804ff84a09df756",
+  "textHash": "2b9090facf6592be039255e1c004600e6327bfc62793676bb15dba8935dbce8a",
+  "strings": [
+    {
+      "id": "50b391e4256dd450b121c37fbd0db3e1d41c6384662a8443bd4fc0567195051c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "9ab308638234bbd34a85f3843169b9c23f8cc01dedf993638548c0a50e61ae33",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "2c2afc9992ba32d95c7a6c5210fcac7c07bf68c3f1c6b05283b2d02101cdbb44",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c7d3cc957618ac9ac09e0fce182993318c215050aa761be1d67283bf87740d3d",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "528f2b8a237f87337501d77f01bc5a253fcabbe5d12175ab5f2624d50b300065",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "2821c9c77175cdcfbce6f6f6bda87ad0c77cdaad660f993d79d18299c8177416",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "dc9f5285fe79a522467e1dab12d47022342fe970d9f85d248b9cdc9f7d89cd34",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "9dd584696a928316bdb445dbbe53fe5954694a668a9f5d7533c5b87829f4e7b3",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "65895e8d4ce0bf5cbd5877f375d4d9554f7669a346399b9864c71f7936a9741d",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "64c12b860278865de6f88a75fa355865e31737b8814c4cd823e42df5608e41ff",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "1770e04492579ac027f0a5a9e79f57d975b363283ce962a6e5172ebd16fe9d9e",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "b7d0874133b98257a44e88ab7df04c95eff99a9999242d7238c5f84a9bce72ea",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "144e73f01f58458bc15ca3d1811e6824db10e45715c550bfd7bcb5dc35e97fb5",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "858d370eb13de56ed7203493a7e802c23516109b03fcd6cee1a9878f586f4da2",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "7292d761ebfa7bf4db83904cc922c276111342037c2c7b685551f43476dcf6bb",
+      "text": "20 min read",
+      "hash": "502d29b2b871bdc2b2b6915c6e18a9c029e646711e89c3324331a78b56ab7920"
+    },
+    {
+      "id": "fb674b11ced1da8df1997d910953b124f656ad4870fa2a52a84e8d8786cf8c7e",
+      "text": "11 Tips For AI Coding With Ralph Wiggum",
+      "hash": "59a78eefe41a098856366e524a8d5b33baab13286f03e8fba9106fea52bbe4ae"
+    },
+    {
+      "id": "876273260a7181a8e23eba8a69654d2d74068dcfc0864fe052c7829ad8dc38b9",
+      "text": "Run AI coding tools in autonomous loops with Ralph Wiggum. 11 tips for AFK coding: scope, progress tracking, feedback loops, and shipping code while you sleep.",
+      "hash": "830fa9e06015ab3a2edee90359b30e28f45e93a4cf405f03a0c832594a95e3b5"
+    },
+    {
+      "id": "4c1945b57d332d31d0d24ce6e11b84353ac81f1d7af4d9ae6b11d093ae8ae5d0",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "338b4b57d585f13281fe5396a8717c9fc64318264cc391d397fc2b289ef6bcd6",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "116a75ae8c2d3b2581b4aa334a2414a1b966064ebe92e55e9b4a454936be8329",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "b9e85293a6a75dd4e8f29da50923381874f587ca41120dd14eb6e7517465a756",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "059bde67ad27eeff5e0e172d726e55f1e523f04f44bf36bfda7d24ce79e55794",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "69153950054c4a0b68756a4814be3c7ec98d8b6c0c133519a4caf6db8be63a0e",
+      "text": "Ralph Is A Loop",
+      "hash": "b59592217b2ce45cfb505a36b8e7f4faeaf436f04a7a3e175922a278f73818e4"
+    },
+    {
+      "id": "8aa0be682e30fc35372cbce1cd03d47262d75fee7912a0e8532b1c9846088544",
+      "text": "Start With HITL, Then Go AFK",
+      "hash": "a5903ac08edc55f1b21b026768d55785875512a27f14261cf6efb5d3fc063700"
+    },
+    {
+      "id": "a1b99ac5a7cdb371bf42af1c9d8a9e60d73168430223e845701a4cd954f0052d",
+      "text": "Define The Scope",
+      "hash": "48214458f6fe40c96fd03e850a423a2119418ce1ca89169a76d6cea91da0fecd"
+    },
+    {
+      "id": "1af85e80da8aafbe1d51bf42ae7a8be49b48af31d72febcf8a0b486103af44b8",
+      "text": "Track Ralph's Progress",
+      "hash": "272019bfd9983fe3c9ff7e672ab86f01ec5f7473754a35a860d92be33b757d7b"
+    },
+    {
+      "id": "4bc0e243c768ac07d56f8e42cc92c0cbb57783b950b67e434a313fcde4425742",
+      "text": "Use Feedback Loops",
+      "hash": "baa770cba077e63c155ee388ef9309a9d4eeac15adc52ae6fc770c4c357fadf8"
+    },
+    {
+      "id": "519c3f02775294ff9294d73056028785b2116d308b6a143bbb2e95696662a606",
+      "text": "Take Small Steps",
+      "hash": "0211496bfa80c8bf6668d3328f13b5a1f41d6c145a7e691a84fcd7f1a978903b"
+    },
+    {
+      "id": "343018e0c00916d61849de9029b8e2709c07ebd8ca4a0b1fd87bc3aaf987b73f",
+      "text": "Prioritize Risky Tasks",
+      "hash": "e48d77f87b4501b4edee60df014311cb0959a836e13baee6a8cea8d7fb11ddd3"
+    },
+    {
+      "id": "3c56713181d0bf697958fa0259a159e37a71160d43a2e2ecc6e6dbd946c53d0a",
+      "text": "Explicitly Define Software Quality",
+      "hash": "5185f4d1fb770a168c564656abd2480f1fa353fc80cb0989f6859aa45deda99d"
+    },
+    {
+      "id": "ec686f115d19d7509f7661437c111b55c57053033e3c58ae2c4b396650134fa1",
+      "text": "Use Docker Sandboxes",
+      "hash": "d3b86d6c9ad4cf1e517b138c6cd39e8ba7d272d923be4381a676e4b10ac871db"
+    },
+    {
+      "id": "72a4a0813bbbf0702a936a416123dfcae05a03d960d54f2ea8171915d5fede68",
+      "text": "Pay To Play",
+      "hash": "5b14fb689e66996a24576f34a9c3770741941f6fce0d104bc9513fb4fa35147f"
+    },
+    {
+      "id": "f2eec6f4d4e3d4483f40ba0d24e22cd981aa139e4b1db1087a0d1d17e17f522f",
+      "text": "Make It Your Own",
+      "hash": "df8d9bd8a700171b6968be0861d6027d233f3c01c095c38138817eb22b5d3c55"
+    },
+    {
+      "id": "53da5edf11d3490db83431712148953ece30d16beeff4551de2001be3000e8fb",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "aab2e5c0d37a8e96d50eed2e514807336278b2dd7043dae53efd57dfd35875a1",
+      "text": "If you're using AI coding CLIs like",
+      "hash": "cb241bdf0374c6116b704cba723abb010aec41a63c7426b53de45bdfcd10b1b5"
+    },
+    {
+      "id": "0a1d8607dc176938de6f921f97e74ac205ad12b842e67044547a00b5c06275b7",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "f60e7cb310afc1555e1f267a08f106842265fcd4d660d64bd5739ac0901249b6",
+      "text": "Copilot CLI",
+      "hash": "c73e38d4278ae2f5527defc1a2045b9972fae06626add8eadb01d77be345979d"
+    },
+    {
+      "id": "aa510f9f6e76ad90cb3395c07c2716be9d1c1e97b2fc5a4025a59b7ff54bfe26",
+      "text": "OpenCode",
+      "hash": "3af0e55ccc96d87ce0f167c9b1bdf63212d20aece6aa24eeac88ec438674dfb0"
+    },
+    {
+      "id": "bbc8c17dbf2f4364b8225f50f74ace5acab1b0c2df6d1c8e5732a2855265d072",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "269b30d9f52cb8cf32eb8878c8760104feb5c51c7b934c3cf7fa9697a3d8ca26",
+      "text": "Codex",
+      "hash": "616efbe96852d8c957d6be5634ed41e871cf1ecf134c9b9693f614daeb15137c"
+    },
+    {
+      "id": "2ea5736401700dcc1bfd121416ddae269aa507abb405954b57eb8915ddd47748",
+      "text": ", this article is for you.",
+      "hash": "ea1fead7a0dbd0b121fd380d438f5ebad23c9fd452dd676446f603ba975e20bb"
+    },
+    {
+      "id": "3c65f7e1caa584edad8e75ff84dc40d903434e6d98c89c8bf086c2592cc8956a",
+      "text": "Most developers use these tools interactively. You give it a task, watch it work, and intervene when it goes off-track. This is \"human-in-the-loop\" (",
+      "hash": "1f85a035b13a6e025b161bd0fb8e35b9b4741b91b4dbfd559d11ebbd0f871e31"
+    },
+    {
+      "id": "c95bd0db5e64d0d59cfe75c0447c20355077b84e6456c6090a9e60c64f16462b",
+      "text": "HITL",
+      "hash": "2f4f6562fa1ad480f0aa55825218f4724f32f4893f1d9880e8c7addb36e328a8"
+    },
+    {
+      "id": "e623bcc07635e9b77d6323ac9ace00415199b090bf9e9429d94fe34d4e394cb8",
+      "text": ") coding.",
+      "hash": "56b7804efddfd243328d3e0dbd3fd83cddcd11f9c0fca4fc59365cd80e6b7083"
+    },
+    {
+      "id": "8286d22a8c6ced54fc7eaa599babbec00690459042db3dedf1ed6f2769fbbd4b",
+      "text": "But there's a new approach called",
+      "hash": "89f22799a42060bfd9ead879c04afeeb6846b48ed8b0319bd3e3d7636d21c010"
+    },
+    {
+      "id": "f78454fe5fbd9ec589f1b790682110076ae1330f7fd270b8694d6e89f20ca636",
+      "text": "Ralph Wiggum",
+      "hash": "2c1f10d7df07c1399420e89ef823af3cc7f34cda5b8306c06e09f7e412e52b12"
+    },
+    {
+      "id": "fcadc20c27b4ccba5006e7b1773134694c5a31a3976c454ddb0bfee4bcacd290",
+      "text": ". Ralph runs your AI coding CLI in a loop, letting it work autonomously on a list of tasks. You define what needs to be done. Ralph figures out how - and keeps going until it's finished. In other words, it's long-running, autonomous, and unsupervised",
+      "hash": "81ff81aa6b4bbffe7b03ca42009bb0df4b8f4ecb50a0f6cd8e1ea32ee019aed5"
+    },
+    {
+      "id": "3ad549610af5643eb21085a18329dd7607aafaaee2a52375f568c25b83fb80e6",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "7c365601ca7bc829aa46d9cb8735b7998bf6a1189dad4f6ecce9b807c10db6d8",
+      "text": "coding.",
+      "hash": "ad93cc1e49624c3e3d26859608fb223c3e48f48af73793a8e159cb992534cab9"
+    },
+    {
+      "id": "765c695574c1d3ec016878679d76fcae451169ed87ff705bb36e5480ee72ad66",
+      "text": "This is not a quickstart guide. If you want to get up and running fast, read",
+      "hash": "3f927289e74e6e370a7282cd1101590b8ebe707212eb19f34e878e7931adae18"
+    },
+    {
+      "id": "125cb0dd9a5fd9472859c8ccf0b9269f74aecff117d72b0ee9d3869b01a9619a",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "81aad5171f211f149a3440e0870558ae55567a582b8805779ed78550de268c78",
+      "text": "The 11 Tips",
+      "hash": "d17a3e5096c7d6255979e638c34288f0e002f549f566ed869ef3eb6b271bec11"
+    },
+    {
+      "id": "4371d602529d719ecb3400c7eb320cdf53a8a6d2b880dc2bf3d651071f68c5ae",
+      "text": "Tip",
+      "hash": "a4245a3c4f566caba3bf1b1000529d433917a1596d86d88bc7d496d414d0d5b3"
+    },
+    {
+      "id": "bab7550de6bb7e72234c254233d1a506bde6662525c886d0011eeb177b57210a",
+      "text": "Summary",
+      "hash": "8e76a94ac8320d515375e625bef1829238b097ecbd33611b59eeefd4ffefebfb"
+    },
+    {
+      "id": "eaaf98302463f172ee24fd7c3c81a8de84e9b4724af100344d95bb27a1ebac4f",
+      "text": "What Ralph is and why it works",
+      "hash": "a4416bc98035446df61330d4056eae4a05b864ccbbf691847b232bf1e29d2f77"
+    },
+    {
+      "id": "5180882a4315341ef06763f289e965a5d086d8b7ebf2377d74fb3eb9cfd7c16c",
+      "text": "The two modes of running Ralph",
+      "hash": "ce5521c00be7fe2b654a2906bba06a6b79727fddb65780ca9a2a102269a510f2"
+    },
+    {
+      "id": "c8d11652d42dcd02e4eae87d06973da1edc991b79e83ca0e3a8a4270cce914dd",
+      "text": "How to specify what \"done\" looks like",
+      "hash": "fc01694bc80a7d7a3fab7aacceae79fb4936ab48c9287e13e261d0b1a8b6aab5"
+    },
+    {
+      "id": "ae5e9f77dad3cff2a316aa51cf4aef3daf20978c79d653ad5276fc4537a9ae14",
+      "text": "Using progress files between iterations",
+      "hash": "ad6ba7ad19e0bfecd46c9b2acf98aadab20efda01d55f45726b8aecca3371625"
+    },
+    {
+      "id": "760208bfe1fcd31100cf92b4b5c2c888e622c5818d9640b70e8ef4ec3ca5a8ef",
+      "text": "Types, tests, and linting as guardrails",
+      "hash": "219c62c10a67c50233bcfee5595237e3744a6828d9467258b567c6a6e4828a1d"
+    },
+    {
+      "id": "a938e00548232a45e853b677b6350fdcb5d88426b2a3871be7cc43033952ef55",
+      "text": "Why smaller tasks produce better code",
+      "hash": "9a6b8bbd20ab1663305809e88fae34581a14b97398cd877cf49efd79b73e0c95"
+    },
+    {
+      "id": "a167a4baf46fe9d17862695cf28aea37b3ac4748e8eeae24ab04daa9e6df23cb",
+      "text": "Tackle hard problems first",
+      "hash": "b64c39731fc773171dc3988054c45d19a40d55e5e6b932d465b1d3b9ddab74d4"
+    },
+    {
+      "id": "e22f8f859e46611b07edae8a13570bb36479245e0a5d2e8fc18bf7fc467211be",
+      "text": "Don't let Ralph cut corners",
+      "hash": "b7381cd0013cfcd125dfc609c330dd6e0083124d6d0843b7133095af979703ea"
+    },
+    {
+      "id": "81069579719a2dc4b7da256a3b826be5cd957948964132463d682ddc4dd52943",
+      "text": "Isolate AFK Ralph for safety",
+      "hash": "c8fba348669a8eb8105a38bae5e04b00f37d080eaefa2f08192fe146947b383d"
+    },
+    {
+      "id": "78c2c46ab654ad83e797d826f8ed695e022f100abb6bab02898758ad03ac0a05",
+      "text": "Cost considerations and tradeoffs",
+      "hash": "8e7bbeb0d33905534959e471b6b919278ba47dd2fbcb85dbbbfeb610d890319e"
+    },
+    {
+      "id": "72b452cb29507e9b3552065886a8a458c941c5817b4511d08420c8d3442f6137",
+      "text": "Alternative loop types and customization",
+      "hash": "c2c6dbe537d458a480c8502b7502bf42c9264e083842f34cc45f0831965b031b"
+    },
+    {
+      "id": "f4c7df3fea67913eb401b62e2b8d1d28c760599d6bfc8bd46844dd3333703165",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "a0556ba0a555b50fa2892f9b0b16f4a5550715398ee508077ec907c380be418a",
+      "text": "1. Ralph Is A Loop",
+      "hash": "70c8d4d2bf80adbbbc2114e772cebb4ea5736a94f6a5f884d9aa1cd8c10b4be5"
+    },
+    {
+      "id": "34efbb4a02a90bd9047f023dc4cc0dbe9eeb2e26f387efecc0ab9c06879faef0",
+      "text": "AI coding has evolved through distinct phases in the last year or so. Let's briefly define them:",
+      "hash": "3b7f146070c225a4ae7e518d880221d6e19a6090572ec260ebb3537d7335f5a9"
+    },
+    {
+      "id": "a3ae7007f8cef16c1955ef76ac933f889cdd2d432a13fd3a2cbc3853e3a9dc5c",
+      "text": "Vibe coding",
+      "hash": "043de4d164bd53f633b0d486ea898fddf3e3c3ca941f408349eeab6185ee8892"
+    },
+    {
+      "id": "d28530ed0c2f66a3b7c49d6f66338524c1c6c93829fe2f3ce89b6d3811b56e2a",
+      "text": "is where you let the AI write code without really checking it. You \"vibe\" with the AI, accepting its suggestions without scrutiny. It's fast, but the code quality suffers.",
+      "hash": "0e9c861bbabf5ec47c23dfa245e4b08a28090f87dfd0ecc173be0beb1ed28ee8"
+    },
+    {
+      "id": "730f41fa899a201b4e137c04f6da64ed67d0b78059f0edef0b684edfc3738441",
+      "text": "Planning",
+      "hash": "21cc305095786cd35cdd0e43b4ab2d5b032f95b8e692ab97dcfda3bae2c12d24"
+    },
+    {
+      "id": "edbc72e3a674470698a290b8aa644aa765a6f6d3ee069393da8c40932414d0b2",
+      "text": "is where you ask the AI to plan before it codes. In",
+      "hash": "4f9b7586398e37dcbef613bbb581e2d3d2f37ddb23ec145400a8325cbb124a63"
+    },
+    {
+      "id": "55956300107ca4e287ea7bba081c848ee0ea2ca9354942fed585764ff48fe8c8",
+      "text": ", you can enter",
+      "hash": "05b5aff64afd71a625662a4330dd4007ef83ae4ce335c275ae7d0a9732e33f39"
+    },
+    {
+      "id": "2d36897b5c5322af5b52a67295c70c73d903f45e95642fea88bbcb7f4bc88680",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "6418d047f24fa601d8e970b9d46c833b0272b52d3c0a08adad5c432f3da7f29b",
+      "text": "to have the AI explore your codebase and create a plan before writing code. This improves quality, but you're still limited to what fits in one",
+      "hash": "ebb9b45342e9b8fa2e9c247d97b0124b0cd05761387153ee2ce809ac98842500"
+    },
+    {
+      "id": "0adfccbb55101536d496dd878b27d65fb2d8bfb4b0f07e9497134b486c5a3381",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "ab2652bacc0deb4041fbe3774e636b11c1b782d01efdbb27937bdb8d0c51f470",
+      "text": "Multi-phase plans",
+      "hash": "9be761af8742f5707a7c706e38a4ef896552df9a29a45831745685cc6c89ef3f"
+    },
+    {
+      "id": "de1e2a07c97f0ce02b29316b61153debdc62b06d26fa14d39db97f7b5baf4d9b",
+      "text": "break large features into phases, each handled in a separate context window. You write a different prompt for each phase: \"Implement the database schema,\" then \"Add the API endpoints,\" then \"Build the UI.\" This scales better, but requires constant human involvement to write each prompt.",
+      "hash": "55d38b5f573d5ee169c273a10f3d2b8e9ce51f6bc3a0c783f46eb654a2ca243b"
+    },
+    {
+      "id": "2f68565f3859568ccec8a7a53c77e58568c602999a201e7e873cab283c5b1a5c",
+      "text": "Ralph",
+      "hash": "b808b3be2949a354337eed5302ef81dad57948f1ed7478d92b8bbd1b20ccb9cc"
+    },
+    {
+      "id": "482504226de65bc9cf1cbb57bab3e3bf3fb7784df53073fcaa174646f787c8ec",
+      "text": "simplifies everything. Instead of writing a new prompt for each phase, you run the same prompt in a loop:",
+      "hash": "8975090c5f303a6e1efa5348fae3ca643ee57f8f887cf1b619d892e58a620322"
+    },
+    {
+      "id": "93dc01bb24fff511c4738b15477725f9ca417c40a270409a92d0ba3fb98c1502",
+      "text": "Each iteration:",
+      "hash": "f4287ced4f778c9bd1087396c21e32f7b951665ff031093a8f33554b01c647f7"
+    },
+    {
+      "id": "aaf96a89b691d5579b5edb4977e0a3ce7dc4ef18ed9eed9340354697c9600edd",
+      "text": "Looks at a plan file to see what needs to be done",
+      "hash": "2ae0e6179f4e843fa1d8ebdb8e369bbb93bd1834411b09d446fa9c6eed8a400b"
+    },
+    {
+      "id": "b11afc7526ea0f75a79ec1868ef595a3ceeb46499b8a9cc55287c714f893f5e7",
+      "text": "Looks at a progress file to see what has already been done",
+      "hash": "dc92ae5511e08ecde886281a6775373e2fbf500e67165aa8ec33e73839714f12"
+    },
+    {
+      "id": "448d20b63ea4637a7646b045639a8a2b9a789046a6b667ab25f23a518f535340",
+      "text": "Decides what to do next",
+      "hash": "67b2e441d2295dbf250660b71d186e11f216a0124012e24286d01852b7e96562"
+    },
+    {
+      "id": "aa2d67c48164ffebec4095e88a0ce327c68a6a1ee108b4b1674e04f15b19b525",
+      "text": "Explores the codebase",
+      "hash": "662b4b6c495e1775c07566abb3c7667d2e5eeff3bbd1dd1d379b66cba15b00c1"
+    },
+    {
+      "id": "b76370347dea63f19e9132ce609fd6dc0c161ab1ecc8eae2806421d5e855cb10",
+      "text": "Implements the feature",
+      "hash": "b13ef209fe59e08a2ac63c70e9e3b37861155d9419ef03498afc74baf85ebbc9"
+    },
+    {
+      "id": "e95492a67550f1b17d6fae4f3fc7a1e9fad84a4a92c6e4e98eda41ab95e96d4f",
+      "text": "Runs feedback loops (types, linting, tests)",
+      "hash": "0e0d1d036623beb12cc5bd0cba1fbeb74d1f9f5a88ba1f7d3137575d3fcdea75"
+    },
+    {
+      "id": "37283352a8c0a4063d59197c00b653bb501ee8fbac676392e6ab65a4da2d4f3c",
+      "text": "Commits the code",
+      "hash": "fe1bf9cebbaf8091b2fbfee598a12b804ed800077980e7211a022571e83a0637"
+    },
+    {
+      "id": "d7d5a34733ced2dd4b600e8b78d0bf318d67409b73c5acdf134c6c06ef89708d",
+      "text": "The key improvement here is that",
+      "hash": "f7b1c11154040531b9b6f977c23f931e75b236ecc811347e6475f4300afecf94"
+    },
+    {
+      "id": "bd260ae0c7aa17617f9e07a86790680c13e3b2f4bf442b2c8c39592800581461",
+      "text": "the agent chooses the task, not you",
+      "hash": "c476ca004a5c669141b5a6a67d5d254bee837795c71bbc1b1c3af9e887620c7a"
+    },
+    {
+      "id": "5fcfcff8802ae3fb04919d69769371a7aabcb52e7da96ea46b4eadfc20daf99c",
+      "text": "With multi-phase plans, a human writes a new prompt at the start of each phase. With Ralph, the agent picks what to work on next from your PRD. You define the end state. Ralph gets there.",
+      "hash": "75a5a1ec89c24b7c63a962f24d97b5c05cd2ae2275cdfc581a2e885dff4ae449"
+    },
+    {
+      "id": "5a32dd9a93d92008e4d852646226bcc328ff4f9aa7ba1f81be8c089e664ddbcd",
+      "text": "I've used Ralph to add tests to my",
+      "hash": "d32658d3360ff48e918bb19bcce864e375dd9e0a25d998515a3ddb40ba63de2f"
+    },
+    {
+      "id": "8519cb08a38b9a1b134e6a2e1407f60129914eb7b0b41331d79690266b537f6c",
+      "text": "AI Hero CLI",
+      "hash": "d770502591f9e6c34b44d2d59e0f775b5e939542456373c4ec6e07d171863d54"
+    },
+    {
+      "id": "d41ccf52fde1f11463925bb767bb6575e314c7f567221c4cbded54b000c4b685",
+      "text": "and build features for my",
+      "hash": "c58e1a505d10beb2d06293359771938110d9e8c93c351cca16f8f280301df656"
+    },
+    {
+      "id": "fb42b4332cea8701f931df74cb764fe39c97c619ba681e8272d9272f7123c30e",
+      "text": "course video manager",
+      "hash": "1bba270a468595e179df35977d50eb03853933774f3d705111b01d1638fbb88a"
+    },
+    {
+      "id": "9364a68bc4983d90b56558479013d47d7015b6e761fd32c6c26d9ef70f3a00f7",
+      "text": ". Others have",
+      "hash": "bfebcf925197b5a1b4339bb6b7f4ffd693061d4dae6c611c9ac0ac5692088077"
+    },
+    {
+      "id": "c95a6291a91e31fe5a436913b7d3782fa41dfff839af1d1f22b495cd30370394",
+      "text": "built entire programming languages",
+      "hash": "686fc2af6d761f50a9fe0172fb1145b24835b498d3da06514a2ab1824545a143"
+    },
+    {
+      "id": "55dd62f7ff7ee293aaaf6d4dfc6e8d9f3b57c73d2aa85d2e9257ed5b0d648584",
+      "text": "with it.",
+      "hash": "4e368257ed4c74df52ab5bcec1943f83715b9be215856bc529eab70191d600a7"
+    },
+    {
+      "id": "582a237d5220d48bb07bd522ad6cd82a87a41e8ec16324d4da4014d3778b9415",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "bccd4305d30cefa09bdfd8874f1f257512c23378679da2679c87417f27e6eb18",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "717b7b8c381d68574d873a1ea3603bedfff93ec08ab9fc3790bcd4717798c883",
+      "text": "2. Start With HITL, Then Go AFK",
+      "hash": "896fe65f66551732df9018715f08812f48799f88dfe7aab1797bd3d43c80fecc"
+    },
+    {
+      "id": "515329020a2dd0ba95e206b10c93207f90078b6ca56a7bbe5fb4029b8a5db24d",
+      "text": "There are two ways to run Ralph:",
+      "hash": "da638e279fb4060ad4bdcc6fd43b23d527e55086b88b05774efbcb2a4bd0ebb9"
+    },
+    {
+      "id": "9753d9f001b824d13826cef1e6cb54950283883de67cffa9177fcb4e717580a3",
+      "text": "Mode",
+      "hash": "5e23ec6a300dc60a79641769017e16e9bf042cbd8fd0a54586a048ab9da972ff"
+    },
+    {
+      "id": "251fe2c1d87067ebd3ffca165aa7e162e5b6e8fbdd04419ffbe6db574df22f86",
+      "text": "How It Works",
+      "hash": "c1879525c75cb5c2f2f3bcd2db2554aeca020ede722bdbe6949b8f5f51d885d2"
+    },
+    {
+      "id": "2d3fd83effac040a0b232b4580f7831aa641c5aec09d22ff736cfc97ddb05016",
+      "text": "Best For",
+      "hash": "22967648691b0b8c54e7b4023e8c08ea02f97e33063042966f0a4b9fe36d76f8"
+    },
+    {
+      "id": "17cea3b7c1ac6b8055f87738fd50e3880afb4a2fb08801687a7aa98f183c40c7",
+      "text": "Script",
+      "hash": "102acc10e67a297d79f7a0440d9fb96e2bfe8b1830676ae1d524cde6203212e0"
+    },
+    {
+      "id": "65419fa4c311c6614b0e88b86e55493c734535a4c48d4b21b410a49ea4bdebad",
+      "text": "(human-in-the-loop)",
+      "hash": "309b8c4f810cb42c1a95aaec188a84c25864a54a8992185bce189b08b82a3f0f"
+    },
+    {
+      "id": "6ef6d885a3ad297619400702170c3474661f8acb3dfc2091ca5d3db92f29f4ba",
+      "text": "Run once, watch, intervene",
+      "hash": "a14ff93175a710cb882e8a8406ee5b2f81c529c4789ce868b076347cd45df11b"
+    },
+    {
+      "id": "d77d44a368e2152f07b029e69a1d8134a983d90599e2ca5bdcd1cdc603e1e64d",
+      "text": "Learning, prompt refinement",
+      "hash": "2540885748b95abdc77576a889684671813b883dd25931f0f15b0f0c10958b90"
+    },
+    {
+      "id": "a55f0452d6128ee0f569fa64f2933d9e73bec289d43c464477b1b0be421f662d",
+      "text": "(away from keyboard)",
+      "hash": "a3bed3bf10fed49df9908571c3f69659e16b6c43302f009738886e4efe67b7ed"
+    },
+    {
+      "id": "b42cbd890aabd337de3b46d143a785bc6df57a5d95948156ffaa75e9a861efdf",
+      "text": "Run in a loop with max iterations",
+      "hash": "3d925370e97d7900b7cecfc0a2891990fcde45a7f661ae24984198d1741f19be"
+    },
+    {
+      "id": "2b0d25025eb6541ff0e88c6056754e8ee91a6d204162e7d8c84c7304a5eadf92",
+      "text": "Bulk work, low-risk tasks",
+      "hash": "0d7d26fef4b2f07de4e05805dec645d0eb298bb035b83bf27fa89ba615df6ee4"
+    },
+    {
+      "id": "6ed56d1d6b33b12d5fe193d6b7ea2dbe472f5325e5dba39d899020387d6d4e48",
+      "text": "For HITL Ralph, keep a",
+      "hash": "88ba46198c7bb2a8df1658effde5d7c5e55b75075ea7779a8a0bd3369545d996"
+    },
+    {
+      "id": "4b25015bf40d4c5e0dc2eff118bfba6c2a6e28b7409e59abd5356b8c4c3c7cc4",
+      "text": "that runs a single iteration. You watch everything it does and step in when needed.",
+      "hash": "76cc60dd92b26d9746464395197c400edb8f4d170aed0fbaad9850d6e48dfcdc"
+    },
+    {
+      "id": "c43f084b5ac1cd730b142c9b7f4bf48280001dfc6272b397c290503c6ed65a63",
+      "text": "For AFK Ralph, always cap your iterations. Infinite loops are dangerous with stochastic systems. I typically use 5-10 iterations for small tasks, or 30-50 for larger ones.",
+      "hash": "04486343cba24a21738d1256bcb1b8ec8e0659f9e825e103ee649b435cc5432f"
+    },
+    {
+      "id": "df164eab89693f52b076411322668002ebd546710af5ebc04b1cd8e85fe223eb",
+      "text": "HITL Ralph resembles pair programming. You and the AI work together, reviewing code as it's created. You can steer, contribute, and share project understanding in real-time.",
+      "hash": "7843e627abd05052a781f10e838fa401ba57ef831e818a22143ae437f393bd48"
+    },
+    {
+      "id": "df37cc42f032c16af5fcabe06d979654263f33eb416356b5256de5acf2739f7b",
+      "text": "It's also the best way to learn Ralph. You'll understand what it does, refine your prompt, and build confidence before going hands-off.",
+      "hash": "bb3150674d773adb34ed85a22977dda9eef3104a4a6a879aec113a0528ff27ce"
+    },
+    {
+      "id": "985ef6c1a95c0d767d1ded7b46254774a88a79e67416857e552001c32c88478c",
+      "text": "Once your prompt is solid, AFK Ralph unlocks real leverage. Set it running, do something else, come back when it's done.",
+      "hash": "a8c49dec09f0509e902834ab837f8078ff710efecc07d92704430252305b70a7"
+    },
+    {
+      "id": "687d7fa52c4e574eedc5a2203ef462268746cb21eec8ee50e8963bc05175dee4",
+      "text": "I built a small CLI to ping me on WhatsApp when Ralph finishes. This means much less context switching. I can fully engage with another task. My loops usually take 30-45 minutes, though they can run for hours.",
+      "hash": "bd91239847863a9c76d59d8aa6e6a36c99facb5cf9d8d20084395445cb73fe97"
+    },
+    {
+      "id": "2d896c1ea284bcb60d4f3dad718c7a332e73f22afb4881dce8eef6b8c99bb8c3",
+      "text": "The progression is simple:",
+      "hash": "6cc1610e80e580f8a28406711d6d699c4354e0094e6807f34e32af23d1e9a0eb"
+    },
+    {
+      "id": "26b22727163df0b72fc73534fa1e9c72c016000517c6f82501c51a079f7bd91a",
+      "text": "Start with HITL to learn and refine",
+      "hash": "70e177ff4ac472a69a4ad6612803ccedb7fdc9605833d949093aa8f060cac9ef"
+    },
+    {
+      "id": "c1432d54a3d988c1f89cf92e00f016618e71dd53a25530668e7d08a0399dc6df",
+      "text": "Go AFK once you trust your prompt",
+      "hash": "e4cea8591caf624445710e83d069d734a971a4900ce2a283e1b909920abf2091"
+    },
+    {
+      "id": "d49ee6b93737a01e1078119505692bb1812c77ae4a26cba7c9619e3965718394",
+      "text": "Review the commits when you return",
+      "hash": "30ec01b113151ac6c70497be406e246354c3800a0ece462b7ffcc4be48d2e3fc"
+    },
+    {
+      "id": "b8d7efff68d49c7910107b28b7218c6689abd5a8ddd3c9c171d5cfba6d75fd90",
+      "text": "3. Define The Scope",
+      "hash": "063b68c22849caad4b71dfd36a220cbe012fbeab6fc48ed16b7d33cf89ef1389"
+    },
+    {
+      "id": "324143f176da25cd6ddd8e3f02802def2cf2ac5420f683d6bef530cdc8c8ceba",
+      "text": "Before you let Ralph run, you need to define what \"done\" looks like. This is a shift from planning to requirements gathering. Instead of specifying each step, you describe the desired end state and let the agent figure out how to get there.",
+      "hash": "d517638fe0d734d251b80863edebe12aa599243de5bc6ddb64d29c60e67c79ca"
+    },
+    {
+      "id": "8d1d0d388623ac51659cd373a05f3cda6000c6c7c39415375982577bb2b5d30d",
+      "text": "Formats For Defining Scope",
+      "hash": "8f0cfba2ae08aa401e70c2d970ad29a5fab9c283224e2c84f09eff352649a30f"
+    },
+    {
+      "id": "3dfeff36b6c18c3873a47a6d7c5f701863b21595d8b8486eb3a84321ac139a1a",
+      "text": "There are many ways to define scope for Ralph:",
+      "hash": "4dfa95eb29dec2c8909c31e69258cd19028faaa6885b54e4893df345564a7895"
+    },
+    {
+      "id": "c997c57411d6ac77995007343faa4df0dd43daea40e79a8738c2fb14d943f034",
+      "text": "A markdown list of user stories",
+      "hash": "d2deeaef260a3504a1c6593cd6fe28e7351834a837560e9213442b6056262bc4"
+    },
+    {
+      "id": "ededd4e0d7db3b804d9036a3797248fe718cd9e2133df073aed97ee210e0d409",
+      "text": "GitHub issues or",
+      "hash": "2e7d54665919d3204009bb19d4aa3ea87c98d0ad4c16b8752e4af58fedbf0ecf"
+    },
+    {
+      "id": "a35cfc5db0d6a226067aa07814aaf1ee9cf20f37ccbdc459dee71014e23221e8",
+      "text": "Linear tasks",
+      "hash": "8b8c42913b2e5fc4210d31e5d6c522dae569010c49bb6c617aac1009803bb80e"
+    },
+    {
+      "id": "a4ce7ed805179821b75d7b356dbc2749678be88e28dc88f7fb560a71b2c108a6",
+      "text": "(more on this later)",
+      "hash": "8c38b240282873939d401540a1fd3d166439a974726ddcff98ad19292eba419c"
+    },
+    {
+      "id": "214daf276a39c4a8531583d331110a73050e09b1f108eb26555df0830c4ee5c5",
+      "text": "Using",
+      "hash": "afe773e42fa0e8939e89e8bd489a3abcf3ce4912375aac4698e94556a0a48ddc"
+    },
+    {
+      "id": "d385db9cd4c59bc4c6d1b06967c1239eeb4129961b7c387aec7e665a4c7a9eab",
+      "text": "One approach I like comes from",
+      "hash": "2fc15b4d9d5feebafbcdfa786a89ac4f5266e65d061abdc01d746b0262c44421"
+    },
+    {
+      "id": "305608a738a4827b6cfe5eeab5d8d93eafa6130657fdda646b5fb01769853f9f",
+      "text": "Anthropic's research on long-running agents",
+      "hash": "a7aa0f961d71ccf11c284277ddd00954a64921055af2966c7257ff36d58b8b2b"
+    },
+    {
+      "id": "1fc48b34c3c49f5b2e9a0abd0a4d6efafdc10c221040e1cb1cf96bc8560ac9d4",
+      "text": ". They structure PRD items as JSON with a",
+      "hash": "dcd66b953819c50af0795ca0b5f1fbaec49f76c1453f8eef19b28e70d21e978e"
+    },
+    {
+      "id": "774561d908d6104888533820567c016e25870f60f2824820dbdb1c1f931ebd63",
+      "text": "field:",
+      "hash": "4615826c610ef9f632b27d2da1ee74d325d1b3d1328cf83a8f2dc6b05ea0cd8c"
+    },
+    {
+      "id": "a3d9ba58f6b5495b50c9ff50ec9fbc1370e8e6c37cd24ce7de53a1bc8f9e0246",
+      "text": "Ralph marks",
+      "hash": "19878274c964111d640667aff7741b4fe1da37ab68c1e1b283121537de46b36e"
+    },
+    {
+      "id": "73fee5f5c3d6db4c27e6fb04041397ef36762dee58b4a1371f2c0aea28247c74",
+      "text": "when complete. The PRD becomes both scope definition and progress tracker - a living TODO list rather than a waterfall document.",
+      "hash": "3a78708215508b822c1046e4447fa34a0393bb6f2affb75266f66d05bf0b1046"
+    },
+    {
+      "id": "5d8e11310ea321970be92f5f8dc2534e0f0a33c6f4d29665b9263ba74d95422a",
+      "text": "Why Scope Matters",
+      "hash": "8a5f61863f08f6639c10aa7f50ebc7417d7b8bdae6bbb96ac0532d06565cd93d"
+    },
+    {
+      "id": "f48ef65f08f0aa91ba743f6948adc2c8ca69e7b75557fce2eb491408c09bac44",
+      "text": "You don't",
+      "hash": "1ef1a7fe1639719fff443494e60e11823cc4500951c073009a2c8f0c71d74485"
+    },
+    {
+      "id": "a8a665a490c8aff61f00a44189f7f92f4674f501f447f556f604908ccc78b3f5",
+      "text": "a structured TODO list. You can give Ralph a vague task - \"improve this codebase\" - and let it track its own progress.",
+      "hash": "edaf17c5e6f99a4b3c588f4fc22d3e01ce7d8efd5246840f73094e1e48b7b4c2"
+    },
+    {
+      "id": "afc05f41b2eb4c02a7cb88430ac1d7435757bfc101a0ab04c11bfd62db096c9d",
+      "text": "But the vaguer the task, the greater the risk. Ralph might loop forever, finding endless improvements. Or it might take shortcuts, declaring victory before you'd consider the job done:",
+      "hash": "c3d919a27b7a14173a4967da1523d95ec16bd09375ddc279b00c016c95b13593"
+    },
+    {
+      "id": "9120dccbf6e1db639dd21e197f2fb7b7ef6bb8bd1c8628cb6dc0b4d81d2e6dbe",
+      "text": "I ran Ralph to increase test coverage on my",
+      "hash": "f7cfcf9fc801a8bdcc3fa392bda01e9a19a46d1d5fea0f89f139a05e752bc387"
+    },
+    {
+      "id": "f0dfd39650a936e144e740b0ad763a38fc58ae2fcb48738dbd341db7ae9eab6d",
+      "text": ". The repo had internal commands - marked as internal but still user-facing (I use them). I wanted tests for everything.",
+      "hash": "cb75c5a16503a5683fd93d7d48c4feebe9755b516062e1f4b0aed0ed35290f44"
+    },
+    {
+      "id": "de337549be7dfd13ce6dafa127fad964228024dc32f10dc0ab23443aeee7dadd",
+      "text": "After three iterations, Ralph reported: \"Done with all user-facing commands.\" But it had skipped the internal ones entirely. It decided they weren't user-facing and marked them to be ignored by coverage.",
+      "hash": "87e025c314d85c5d04987bc9823120973c44e86fce1de2112b10b37b9104ea27"
+    },
+    {
+      "id": "1888d66ec644b052518f93a32f811f7360142e230c3f1f95a4935be380e4ffda",
+      "text": "The fix? Define exactly what you want covered:",
+      "hash": "3621ead5efeddd7de6438bb3e1c7dad97d05201fdfd85f560b446aa36f3b79eb"
+    },
+    {
+      "id": "355c8f8bcf67d7aa5ba4d34fdc110eda74b8054ff5f56847fc8c7a00dccfaa11",
+      "text": "What to Specify",
+      "hash": "3e357178f5f45e7005299df97c9ab531b5b34aa0cd904a92e47f744f1664b4a5"
+    },
+    {
+      "id": "a1bcf5372c8a9cecaccc1d62f7cca6dc2d6e83bce1a53e6d9909e84f8845572c",
+      "text": "Why It Prevents Shortcuts",
+      "hash": "785298ef3440c89a63675ed9877bdf20ac4d33069c65d35cd521f0b6538939c5"
+    },
+    {
+      "id": "a3bba003b13b0b914991bb18181aab5fb2629da6589c4c79c4e608ddd13d7220",
+      "text": "Files to include",
+      "hash": "b3b73aaef4c8dc83683f6c411e63f6191381f9acfb08f4a5ae367a6a22aca970"
+    },
+    {
+      "id": "da5d5c5375ed33ae641ea46e04cdf1c3f77413e43bf33ecc27f11cb74bc22c2d",
+      "text": "Ralph won't ignore \"edge case\" files",
+      "hash": "3621c778a1a1485537e588c1f7183852fc30a55a612e3c538f9f3fd4e99b55a9"
+    },
+    {
+      "id": "da938f2dab550a9c2560b44d3bdf52042cbcdf850055f9ebec1cdc340d4aef25",
+      "text": "Stop condition",
+      "hash": "12e4c1b3cf7034c46ed187381bd1728831971c60287378a233d32975b53f5a9b"
+    },
+    {
+      "id": "7c9a6e9ed65765534b0c928853db6cb21fe4b63efbfbfe2565ca9481d301e2e3",
+      "text": "Ralph knows when \"complete\" actually means complete",
+      "hash": "9c6d62b7c3e08ae8989c7e9959d106a0a6763b9beb8dcf3b7624ed6055d7f17e"
+    },
+    {
+      "id": "47b36f40c02eefc4f61cecd1b68e54e4b2598c68b325bd07066229ec13c98240",
+      "text": "Edge cases",
+      "hash": "d38813eff4f7f46ea8200fa2f0d46ac4e5d92ee15667bbd9e3a7fc032ed95595"
+    },
+    {
+      "id": "85bd6bd2e5dc47f63e5d904a45eab3d5eb721d5775d96f4cfa1a812b4ce691cd",
+      "text": "Ralph won't decide certain things don't count",
+      "hash": "523848fcab747f7ccd5bd1209d3af36104d6a0f78200b9f0f6d59da87e3c639a"
+    },
+    {
+      "id": "02e82d37502a67ea37e300bffe51e21da0f154cd808935a481d823f7f227fbcd",
+      "text": "Adjusting PRDs Mid-Flight",
+      "hash": "4780bd9c90ce55fdf49f1793c93c596480a73d584a9d055ae5181f7d81e3fa7f"
+    },
+    {
+      "id": "39ab48c9c17a8360c3db539550c0ef3c7bf557dc85165864f1a70b9e316cd12f",
+      "text": "One benefit of this approach: you can adjust while Ralph is running.",
+      "hash": "6227d09d53d610ee3a81739643e36e7bb856456762c292aab462d1d894bee0a2"
+    },
+    {
+      "id": "8d4546d93c3e5f67cef803e4e03420ef5ff8d89e409a073cf38372459dd4a46f",
+      "text": "Already implemented but wrong? Set",
+      "hash": "8bd4a07f380aeb0262151d3ca75e579a07263dad4a4bd5ea33c99a04c7741e45"
+    },
+    {
+      "id": "ffb29d2d91fe91afaf0785019ff1318e3e08373548cf8459d0b7311187989b98",
+      "text": "back to",
+      "hash": "47f4998ca2d36bbb4c10ce0ab0e4c87f6d1fe4419ba762d671028e92ab4d190a"
+    },
+    {
+      "id": "1144f858b836fd0147b2c60662ab547746a234ac763f972c81bb50f0527eaced",
+      "text": ", add notes, rerun.",
+      "hash": "eadc6311ba48670585c319430fc59420250479df00dfb8308e2608fc9d0e34c4"
+    },
+    {
+      "id": "dd0b7bc75681593751e3957627c290c8c8a8cf6435dced7ab6ca1c12bc396452",
+      "text": "Missing a feature? Add a new PRD item even mid-loop.",
+      "hash": "cb9fd865654ec9502d9a075c4b7749a1a3dec9efc0e908864faec828c20b9fab"
+    },
+    {
+      "id": "6fd561cc817102ce476b3ba003c2179d809fa5f41c51a11546f1826237170543",
+      "text": "You're not editing a linear multi-phase plan. You're describing a different end state. Ralph will get there.",
+      "hash": "407c1e86c8e4456bd5616f575fb7f8918d260c2b915c9218575cd1a01707208c"
+    },
+    {
+      "id": "cd4087a646b0a250c37c1dcd303c9a23884746a1101ec21f8d8366721385e989",
+      "text": "As long as scope and stop condition are explicit, Ralph will know when to emit",
+      "hash": "cdb28c45104608499dee0b93405a2c8c940b83ef84f281cab4ebad537d341246"
+    },
+    {
+      "id": "138660be87606f2eeea24d97c40ae4beb9e5e482eb25548a419dfab6f947ec06",
+      "text": "Try It Out",
+      "hash": "1e8c338783434be3ac2027b9c37f8c3005188c9f358097d660dcb99e67910fa1"
+    },
+    {
+      "id": "1a50008929c172d54ecb8ddcc978b7c4e44fc6b108e307094f99e6c4183e6efa",
+      "text": "Use plan mode, and create a",
+      "hash": "6bf79b99c0eececb2b6d5e27eae6d52d6fcd58de50559d392cafa1e1c5caa9e7"
+    },
+    {
+      "id": "1a03d33891e3f98778ab674f2a04c2957adcea51c83e277377467f44905d8794",
+      "text": "file for your next feature. Use this prompt to generate structured PRD items:",
+      "hash": "192ede7ef2dc20a2ccf57e91eb857a0c09aef11dee4f9abfbb653f0e69bf9522"
+    },
+    {
+      "id": "ad84840eedbc5883360271e7caff4c54e8524d26546df542210a33b2686452f4",
+      "text": "4. Track Ralph's Progress",
+      "hash": "b9903d05c8724167aff298be253ed3adc22cfc75150390599cfcab48785dcc6d"
+    },
+    {
+      "id": "721a3c861af20be4a1b1f2b3fe1236250b76b345809135602b965b8c90896166",
+      "text": "Every Ralph loop I run emits a",
+      "hash": "7db7b337766f26b1f1a11223cbc9dd9dd7c6fb8c247ba292dc150d35f8261506"
+    },
+    {
+      "id": "fa509275ed71728891e062d029fe4e89580adbe1811c9f9b29a5df5d52a1ff26",
+      "text": "file, committed directly to the repo. I took this inspiration from Anthropic's article on",
+      "hash": "eec195ce96bd22e9e04313ae8c841267d3f980eb1ba24a7c11b1c9c17a736305"
+    },
+    {
+      "id": "99290764f8d902b7f1f0811f67db90ad58361c068c49e392458dee14fae276ae",
+      "text": "long-running agent harnesses",
+      "hash": "97afea7ec6a444a80bf5ce6d51e43ac55de8bc7c32c297132c40aa7951ed70ec"
+    },
+    {
+      "id": "b18f232633efdebdb413ca4ec318dda0974048c8bf65ef4d86e7295aeed50b52",
+      "text": "This addresses a core challenge: AI agents are like super-smart experts who forget everything between tasks. Each new context window starts fresh. Without a progress file, Ralph must explore the entire repo to understand the current state.",
+      "hash": "ae137a98bfc1ba6e6586c5219e7281afc2916264d88764ed6ff25db331f11e07"
+    },
+    {
+      "id": "6dcb2df45c823491b540e2cee8cd29b6e4fa81d078010aa10c7c334bc1ac0aa6",
+      "text": "A progress file short-circuits that exploration. Ralph reads it, sees what's done, and jumps straight into the next task.",
+      "hash": "4fba4b5b3cf95f704500ce8c118c777fd7ced2b7532719b721e724793ce52f8c"
+    },
+    {
+      "id": "d0a77773519f8c44c564d2ed2b8fb454dfe54041263420d5f325132d9c818279",
+      "text": "What Goes In The Progress File",
+      "hash": "72a819cd38025f3739fcef9987167015615462bf6364aaa4318aaad54977028e"
+    },
+    {
+      "id": "107c9e11e1294778836f15bdb01c88ab835fbcd3ca835e1ebc13a0038fe4eeab",
+      "text": "Keep it simple and concise:",
+      "hash": "7f4ca4640702d84526395c13014eb46fcb39e8947373bf060852521e6d1fbea0"
+    },
+    {
+      "id": "23418ee3de478dbcf2283090a9f397e57d4e6ebf0653a3d08d5e30fcf2806773",
+      "text": "Tasks completed in this session",
+      "hash": "f15712c99300102a8c981d698048d3e15dd11dcbeb2a2768827df509d78756e0"
+    },
+    {
+      "id": "de4d42b8cedecde8ca9ea7795ef57bde160a492beff44df04378dcc6109e8eca",
+      "text": "Decisions made and why",
+      "hash": "db1322a9d662e341a6dac784a57b9fd738fd8c8ae44dd8f6ac1b38bd7068d656"
+    },
+    {
+      "id": "b77bb0178d9c7cb4c6c76a3c99ce0cf94f2d9b04a9aacd3a36e493f1118b53e4",
+      "text": "Blockers encountered",
+      "hash": "9380f2b32fedf4c0d3c81b936fb9fdbb3ac0d25acda8ef24a05979e6ef0e5e3e"
+    },
+    {
+      "id": "565a2850c617bea660b82971ad8996f84324f3a922a0f0794971cc24634ea650",
+      "text": "Files changed",
+      "hash": "b42c8ffb89c678e36e0e798796b76dfcabd5d933e793fd0726bb428775f5301c"
+    },
+    {
+      "id": "3f432c883d66f62005e57da45cea81df97c7a154fe0f23a2e6179ada0c26ce99",
+      "text": "You can also include the PRD item that was just completed, any architectural decisions, and notes for the next iteration.",
+      "hash": "b70d163e6fd5d28d92c22284b90c87a1be2491d11a6acf80c40ffae03bf83946"
+    },
+    {
+      "id": "8567b46413fa47ec513c61b517180e567a885562b47f7de47c7785cc61166867",
+      "text": "Why Commits Matter",
+      "hash": "8c0f36a7c32053630426218f16ab9e2dd4df22744336262a39eeb2ff6047b95f"
+    },
+    {
+      "id": "62aa3c49d1f3020db86d2d323cfa5201573b6ce943e227c1166789bb579fe68a",
+      "text": "Ralph should commit after each feature. This gives future iterations:",
+      "hash": "7faee713c732204d985b1b615f0cf926c773ac70e614c08a9d39c3d1612cef39"
+    },
+    {
+      "id": "779d2f4f877a3eed5e73e4dcd7fd98825f236932ba29eb0682bdb31ddb847060",
+      "text": "A clean",
+      "hash": "e2cf3f5b24e6f8cb19cb86b3d5631eed52b4e0377a6fddc67d2e7b93fb0963fb"
+    },
+    {
+      "id": "8bf89e601230a7588aa18a471d1d340ade5cdbdbc9d37e9b4ed5a13d477ffba1",
+      "text": "showing what changed",
+      "hash": "3c6b14e783630fdafd61a0756b14d63bc608cce8e53d86a7d6777547d771d137"
+    },
+    {
+      "id": "a6ba89cf82ada830adb896bf506455be58da6ed33c232ce27576540b584872d2",
+      "text": "The ability to",
+      "hash": "171c3a97048711e5b76d9712043b95dc09794084545aba8c394875e77535307a"
+    },
+    {
+      "id": "e099049a0434ad1eb58a00164a107a6bbd82d5e19ed8615cf92d0e52fa69a13a",
+      "text": "against previous work",
+      "hash": "e24b54a614b1a9817f5d1a779290ab2ab954547f7d612f9ca4c450fbfde1b74e"
+    },
+    {
+      "id": "7263edb0a613ca3358d660e83f1fbe68db3f26bd1306847d75f8ec8c1d9112ce",
+      "text": "A rollback point if something breaks",
+      "hash": "823cae5567e7cb0d359ff5e4dfce371e6e56fe698a5114a1b06e8f9de2a2e6cd"
+    },
+    {
+      "id": "952f63590d8d0562262c4401e05dc68aa270926a9ee65e4dd0861d345d84a204",
+      "text": "The combination of progress file plus git history gives Ralph full context without burning tokens on exploration.",
+      "hash": "635a24b29d1c1954f7c61c9900e58a166d20c21727a11c341a8caa154ac2459c"
+    },
+    {
+      "id": "ce6b9eb04239bc7a557a9a83accbd776b6e1c8d337935b2d8d77fe3448182a72",
+      "text": "Cleanup",
+      "hash": "9f1b237b5dc314edb0dafba43265a24f2eb3fb998a011b4b605f38ec20a7cead"
+    },
+    {
+      "id": "816fab8f99539ce008908def9b17270439ad72ba4cc202576d41213649f0ceb7",
+      "text": "Don't keep",
+      "hash": "19508fb4b7a50dbab58220c7643af4d0f66f5a653974b1687f0344e45325655e"
+    },
+    {
+      "id": "381f817ad9517be7a912e68c91d56754947f862f9d19a4c3275b1549023847b7",
+      "text": "forever. Once your sprint is done, delete it. It's session-specific, not permanent documentation.",
+      "hash": "24bd5ea641c5af72093df05b6ff31d098deebd45e29e0e79bfebf2ce85401898"
+    },
+    {
+      "id": "689c624243f8a22145d586e7f328d1ec680150c0dd5531a435f9df4bdf118961",
+      "text": "Add progress tracking to your Ralph prompt:",
+      "hash": "7f8861f9d347e14b3c0532df9a70654c6ae63f73d8a1b92c6d244e0a1db61ba1"
+    },
+    {
+      "id": "1217845cbab5e7f728e9834fc1583accbcfdb3ba52ef30f9063d6487479e63d5",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "fe644c54bd53c474b5e42fbb1375a7dac48c69b9574c621466eb659d4aa2e625",
+      "text": "11 tips, one system",
+      "hash": "bff08cc554d174daea6bb1a80cdd5c494f93ff9f3d49f2f813f88c190b6010c1"
+    },
+    {
+      "id": "dd44643b97209ecb2ad162203669f7302f3b503ac1e8712e647dece2f1066a76",
+      "text": "The skills that hold the Ralph loop together when it actually has to ship.",
+      "hash": "48fe335526f4775ba4a104c8d14d47ae19737fbd1cd430c583844475d8011311"
+    },
+    {
+      "id": "42029fc6113fd86837c0446a59749857d510c102d21efe57abb628e43ebfe2cc",
+      "text": "See the skill set",
+      "hash": "dd46869b69c9555abcf3fefb4c764ae30e64692df2ec9a3359dea8d9ddef9b37"
+    },
+    {
+      "id": "a93dd4b37d4b3dac038d6f586029ccd43206a11f460b4f67c127a29b6ba8d6e8",
+      "text": "5. Use Feedback Loops",
+      "hash": "d643624a1ad8b490259d5eb8a96e446523ffda193ac4563dafb80f0cf9414caf"
+    },
+    {
+      "id": "7eaaa2f7359f5807bb254aa75562b718fafd4b3422c3e5c36729c4b6b25b2a45",
+      "text": "Ralph's success depends on feedback loops. The more loops you give it, the higher quality code it produces.",
+      "hash": "3b79a9e357d07bc06ef2c204fc1be1a4f16cfb85a99ed86d91d7a4ea7cc9af16"
+    },
+    {
+      "id": "f1e625f064bff38025ae42de28afb2f0b4eb666c432f1a56a3d51673c4be4a06",
+      "text": "Types of Feedback Loops",
+      "hash": "7fb24a182790aca0ef44de18412ee55bafb72c05a9a6772fedb6e6fcfb6c3dad"
+    },
+    {
+      "id": "1724d959715ed3dce7e84f4a74ab03a5fa92c1ea34eb4acff928cd81cb18cacf",
+      "text": "Feedback Loop",
+      "hash": "82e5350cefb58e5703cf3b0319471097bbf5fd25cb0df0065a4a5a10f6f5453f"
+    },
+    {
+      "id": "51445abd48f7013dd221662f4536409bb27f8f86700503a089ea72beb5c8e704",
+      "text": "What It Catches",
+      "hash": "433d7b48167c0acea07db444c9cd3f86e14d75d1e2bdf8250dc880015a5d0e9c"
+    },
+    {
+      "id": "f14ff6714e72b8f4e7e74de34f60787ec0d9f5221612dae6c2697d719d02d3cd",
+      "text": "TypeScript",
+      "hash": "ed0504f70a48ffe9ed17e7ddee02a72a9c8af602aee1f7ce11853975ce911733"
+    },
+    {
+      "id": "3abd85380d120ba5babedbf33ae4b3a3af663783f8374a10701c82bc04949249",
+      "text": "Type mismatches, missing props",
+      "hash": "05abaf446f4db62733e41295652d4afdb5e600077fb4684f0e2a737a73a34d01"
+    },
+    {
+      "id": "3ad0a3d2940a00ed324f18cbec02151fa75b21766ad5d69cae992d50b182dcf5",
+      "text": "Unit tests",
+      "hash": "e6ebeaeb81e463d0dd7da9e8efc10811491edf6feb7134cd68ddbec8d11778a8"
+    },
+    {
+      "id": "4615e4ef91b893b70df07938aa27e794f6c7c91ff038c5c855d65b584ce45814",
+      "text": "Broken logic, regressions",
+      "hash": "8aecf1c9dd1d6f4955f54cd11e1b2071f19a500b84ed04fa564ca95b6d5a8016"
+    },
+    {
+      "id": "7112e41fe05f798347425ba4756c02653ed5cbd1bc0f271c271fe724f02d9152",
+      "text": "Playwright MCP",
+      "hash": "1bec74430e20be5d737d4848f5328f109da09a60996858fd09981bc2fdad5b33"
+    },
+    {
+      "id": "b1a17a678378579cd814f2ef7f940a650e7aa34325f6612f4c1572840d6ef9c8",
+      "text": "UI bugs, broken interactions",
+      "hash": "9e7c29471d4be9ce2a28868f9d5da8c23b233df7103e681e7feb9318e4b4a6fd"
+    },
+    {
+      "id": "40e183916e003d4603afe638f82180dfa58faae13fe83bcd123988178d0fb578",
+      "text": "ESLint",
+      "hash": "6e3a6f9e9947021031d8864ca2758613f8589ccdfe59c93fcf8a0330b92b2521"
+    },
+    {
+      "id": "14d671bf0264ad339404ddfeb4d1769ea5ec355110585160b9023f576ce4de64",
+      "text": "/ linting",
+      "hash": "cb4ad3ce794fbc7036627f1aa94753cbe9d2e355de3bdb5a0089ded94bf84c2d"
+    },
+    {
+      "id": "78b4001ac5fa8f1569e3c4970bbd6193dd4e20d2ea59d45e8fc78a56a2354d67",
+      "text": "Code style, potential bugs",
+      "hash": "02e360a79e0c8be929a7a7e44d5074863f1ae60367538c78d8a728feaac719c5"
+    },
+    {
+      "id": "7fed8b8f76fb9e78d00a6dd75226f824e0472f3de2d55317998da33add492f5b",
+      "text": "Pre-commit hooks",
+      "hash": "8370075f974057073f555f57d38de7110299c8183135af58938ad47b3d2754ff"
+    },
+    {
+      "id": "4f129974edca147f80a83e4c4b1421e1e85e4ae804292f245583fd65790272ed",
+      "text": "Blocks bad commits entirely",
+      "hash": "64a11ef9d45462c182c97d5566cb5ed48bbfd76c0637efd8311fd5e3b5199c2a"
+    },
+    {
+      "id": "6a80945cbaf2a3495c117cc6fcee9343ace3e46d54be429b0e170351ee88f1ea",
+      "text": "The best setup blocks commits unless everything passes. Ralph can't declare victory if the tests are red.",
+      "hash": "8627dedead68a6581491a322cb29adad4d66d54f6f1ed76ed3a855a4bf2a8ca1"
+    },
+    {
+      "id": "d80ff9bf6e851563a57012508fa37f8c95ebf0665e69a1c66cc646b5d1a7fabf",
+      "text": "Why Feedback Loops Matter",
+      "hash": "765fafc59e77b0ed36b27781169182d336c226321025da328daa29950e769b01"
+    },
+    {
+      "id": "73d1b38d73c3e8cccd792a9ec3bde1c50584a40a2ef97c4d3d949549e4aa3bea",
+      "text": "Great programmers don't trust their own code. They don't trust external libraries. They especially don't trust their colleagues. Instead, they build automations and checks to verify what they ship.",
+      "hash": "37b40832d7911cb174e86b4e2ca6ab90dd0601f4ac15e4a67ec2cb7840ef104d"
+    },
+    {
+      "id": "cce8661a0d42a3b21fd03b26449d31a3b7e8c8d95dc9be757ded4cf779720feb",
+      "text": "This humility produces better software. The same applies to AI agents.",
+      "hash": "18e3b9acffb992258a3790e626d9976f0e81818cf4b5c4c60b802afa1d562e65"
+    },
+    {
+      "id": "6a654bc1a2ad6d4b7fe495a980622009f48f1840f48f996fcf92ec61b7d39683",
+      "text": "Every tip in this article works for human developers too. Feedback loops, small steps, explicit scope - these aren't AI-specific techniques. They're just good engineering. Ralph makes them non-negotiable.",
+      "hash": "ebc92ed9fd94583d12ce05c264ede7831140980475c7b789c9ef1033d565eed2"
+    },
+    {
+      "id": "337fee22ed7a65f4aaeb2a3ccf1a397273d57bd576b0d58574852fc6a26d5b15",
+      "text": "Add explicit feedback loop requirements to your Ralph prompt:",
+      "hash": "50cded4124fd83bf291178445b2a18e4faa36d81823110cbd09619a74590a2de"
+    },
+    {
+      "id": "b90121f68a36939acfd8ad71d524cbfa5330768c6332e33492bcdb3cef58616a",
+      "text": "6. Take Small Steps",
+      "hash": "4d1925b75ba58244de4d5212a90b78a598109370aae59bcd06d026a1087daa96"
+    },
+    {
+      "id": "d986f53698745bfb929bf56ae2a556b63fb4a71fdd2688a73b71c440e6b57aa6",
+      "text": "The rate at which you can get feedback is your speed limit. Never outrun your headlights.",
+      "hash": "703aca5a788e0a98a2fad305ab964654550ccf9d5fd7712a8fd4dc7f0f6bf7f9"
+    },
+    {
+      "id": "7185a4744b84178819222868e61e3f91325255e8f3ea14b22d61844cded6a35d",
+      "text": "Humans doing a big refactor might bite off a huge chunk and roll through it. Tests, types, and linting stay red for hours. Breaking work into smaller chunks means tighter feedback loops - less work before you receive feedback.",
+      "hash": "979bbc043f68092a9946c4b43270f9c91399aaa28ede29c9ecd90ab476e68fbd"
+    },
+    {
+      "id": "e366adb368a052a03f43287e0567154998973c776a0d9e9b4fc883a65096fb84",
+      "text": "The same applies to Ralph, but with an additional constraint: context windows are limited, and LLMs get worse as they fill up. This is called",
+      "hash": "aa54ebf2f6129ee2ace4e9ea53ef555aa1841899354f8a12c30d4e021638fcdf"
+    },
+    {
+      "id": "0ff2c16667198c59df0c7b4a57669741087f30344f10827e6df64fdedee605a2",
+      "text": "context rot",
+      "hash": "7247594e44db72054d5b8bdccfbe63c9264f12cea96e38602a14485e51d98e99"
+    },
+    {
+      "id": "dcf49e62d656caa6a5008a071d19acec55261415d0d7930b7d82f26eae9af21a",
+      "text": "- the longer you go, the stupider the output.",
+      "hash": "41aa86f3ff87ec4d26b8ff8d3513ac841dbf6fe710ab59369c9e181b5e53401c"
+    },
+    {
+      "id": "a2a2f9c765cf271ab7ced56e5140f7e5a301bbdf83f258a1a13fa8e8e20ab112",
+      "text": "The Tradeoff",
+      "hash": "04705ea7fee76591d5be5955b402592d0b1a68f8c22f90f493bdb790f520d113"
+    },
+    {
+      "id": "b599ab4284e65500dc05c20d972c6597ff15a26f89ee77d89bf46758eb121e0a",
+      "text": "Each Ralph iteration has startup costs. Ralph must pick a task, explore the repo, and gather context. These tokens are spent per-loop.",
+      "hash": "1f48a581ce6a9bce3531207dd38273b8e3ea7ac35f00c3f14ff035035fb4e743"
+    },
+    {
+      "id": "cfda85ed452a512bfa5f30f6629e612b0266056ba15b56c12784a4459a776bac",
+      "text": "If you're doing a large refactor, you don't want Ralph renaming one variable per iteration. But:",
+      "hash": "63fd3789674b46731283a859eef97e69b73d90a5b9bcd827911d0ff9170bd510"
+    },
+    {
+      "id": "f2507c28541d6041597b3266439d75f29a55873d57922997b842b5cee2e35743",
+      "text": "Larger tasks mean less frequent feedback",
+      "hash": "eab48ef63b3e73ba38dd633d93e6ef3097d00402fcf0260ded6aac912e11e59a"
+    },
+    {
+      "id": "585074fab60de9fad05b3e25752579e59dc23b84687b70d08771828bd44517c9",
+      "text": "More context means lower quality code",
+      "hash": "dd6bf2a8ca8cb0d9bfb7439873ba4c6d14542d4eb7e7be978100e5d441d98d52"
+    },
+    {
+      "id": "a846912c34dcc99e4f9ac76ad555b8d8f52ddd6d0566526180a37cc38adce5b7",
+      "text": "Smaller tasks mean higher quality, but slower progress",
+      "hash": "6a4c70595a3adda68339dea5c339a0f2868de265f7b39c31264ad015d3eb0b96"
+    },
+    {
+      "id": "b277c24215848a55d9131102e326ce752770a2e3a1939abe75468cbe44d337c4",
+      "text": "Sizing Your PRD Items",
+      "hash": "36f1f9081bde3ca1b3b4a5373834a62bfcaee06e74be7ab16bbf8a2c529c2b90"
+    },
+    {
+      "id": "33f70145624632fa9a332c58b361226d1d93efd66b00d5a5602a1853df9235cb",
+      "text": "For AFK Ralph, keep PRD items small. You want the agent on top form when you're not watching.",
+      "hash": "4e1ff7e75ecffe5a3584fd72b01aac56cffa1f7a7ee26116bbf7aa798a6b4092"
+    },
+    {
+      "id": "966107dc133481d9911064064a0a710d905b2765fec28fd848891b3c4ae37e76",
+      "text": "For HITL Ralph, you can make items slightly larger to see progress faster. But even then, bias small.",
+      "hash": "74503b5bb0e7ec7b650e02770aacfc58a41bf2ff9842fd1ffe62264c08561c98"
+    },
+    {
+      "id": "e2a13330216233b3b92cb8ceefa8dbb287657018ce8a6f1b105a213f9290228c",
+      "text": "A refactor item might be as simple as: \"Change one function's parameters. Verify tests and types pass.\"",
+      "hash": "080a6b681cd2e2b002e9a96e28a730ddb8da894ec2d8b63b5f9461c08b5fb19f"
+    },
+    {
+      "id": "7886a36d31bd9ec597e7b2e1e9cd78300ecdcec982ab3bfdc1cbc014f81f77e5",
+      "text": "In your prompt, guide Ralph on step size. My tendency: small steps. Code quality over speed - especially when AFK, where speed matters less anyway.",
+      "hash": "d79bc5de0c7d7930ffec8923c9abf8f91cf17efdfbaf9d99ae7ece8a360dc2a3"
+    },
+    {
+      "id": "aaa1dd3ef4435881413dc1f455d449ba8925d9fd736b9b1a430c52a85ad9bedd",
+      "text": "Add step-size guidance to your Ralph prompt:",
+      "hash": "602f4d307af0b175f9f8680b9c6c8edd9ecd7a97ed5ad489d0e4850d75afb171"
+    },
+    {
+      "id": "33ddccc9def632e60434add794a8b8eb07136b547f13eba804b6d1f1f15de688",
+      "text": "7. Prioritize Risky Tasks",
+      "hash": "d106694ea34d6cc54ebaf5a4c03a83d2172d13a183469223f98e0a6d02d8c49b"
+    },
+    {
+      "id": "cc38768fce23452e4ff984d66686e101f60a04343a3f9401ee40aa26f18ce3a4",
+      "text": "Ralph chooses its own tasks. Without explicit guidance, it will often pick the first item in the list or whatever seems easiest to implement.",
+      "hash": "deba06acb68dd67672bb572cd6bdff0477f584ea2270651aab09255faf27e55f"
+    },
+    {
+      "id": "3b0c98541722bf1721955c2ccf7a36eb7b0e50a24ab1865d452f2a2af0cd99d0",
+      "text": "This mirrors human behavior. Developers love quick wins. But seasoned engineers know you should nail down the hard stuff first, before the easy work buries you in technical debt.",
+      "hash": "fcf2171e05dd9cd68132b6ce7976c5b9155308917857740e6a3f58b17e99b6c9"
+    },
+    {
+      "id": "6361ca71ca4d1cd688126f823cd277771df3046292fb3c3f46e05f4da7e7e798",
+      "text": "Spikes And Integration",
+      "hash": "491cc069949a48acbf672fdc5a8bc2b6e26eb5f94109218b60227b0b0e9ca868"
+    },
+    {
+      "id": "f6d305433b6bdb73ed4bdd8302a49727c15886ca174fe6eb6f38d5ae9665e227",
+      "text": "Focus on spikes - things you don't know how they'll turn out. Build features end-to-end rather than layer by layer. Integrate early.",
+      "hash": "8d0305281852234bb0ff8a7fa2849d7b2d3b63aa055e50b89ea73e905b6e36af"
+    },
+    {
+      "id": "6f5e5e59d6b6705473b1e0c98e46019b944e73e55b34463c125adb1d42b9118d",
+      "text": "If you have modules that need to work together, tell Ralph to integrate them first. Don't wait until the end of your sprint to discover they don't fit.",
+      "hash": "7ef74d44ecf8d363e7fb50179d3e15f085e2d6b77dd80448c643f041d89fad5d"
+    },
+    {
+      "id": "7191f48d20c16feabb43c910357b9308df2ef768d0b870ad4f8e88a6616021aa",
+      "text": "Task Type",
+      "hash": "8ce1d13e6099e62efb35970c54809589f43da8ec4b6857dc90d250c290f40bed"
+    },
+    {
+      "id": "a92f1835743d1ff8a40bb0bb0370bdf79e26eda9a5392189a0587017443fa80b",
+      "text": "Priority",
+      "hash": "d60dbba079223254d4c49c230a515bc107a997e69f811365da2387f8557b9cec"
+    },
+    {
+      "id": "c1bbd464d5b7d5f8dfb465912327994225eca3e3bd01f3653a875576ffdaa732",
+      "text": "Why",
+      "hash": "d3ae14a50bfe463f804c73c9fd16e88c36bf5a0bf4a56f98ae696a91eb2de149"
+    },
+    {
+      "id": "6acd73c027ed07605b96ef0ca17d9375a8900562263d1b03c9951631eb5a4459",
+      "text": "Architectural work",
+      "hash": "fcc8cf93da6287997b3d7d0bb1e3e4c56539e9c1b2b5a442841d9f7500c252ee"
+    },
+    {
+      "id": "71df284c2ef894204fa8308f0d5aab079ad8885e5037725dad55321d2b4f4bdc",
+      "text": "High",
+      "hash": "c4ebc6d4a5832cd9415f906ad03661110c705a72381c8b8b145761d02e2dd23a"
+    },
+    {
+      "id": "5e182690af612d2d2466796917e57e6df60bb7adc143ba5267bebde80fe43b7d",
+      "text": "Decisions cascade through entire codebase",
+      "hash": "1f7cb3fb9b9ca553c4ad7ed3192c5ef3afd7f820a07db7f8757e898c8f75ab54"
+    },
+    {
+      "id": "62606280496f02a165010facbd398b7c8d18dda484d2146d3c5ddf420d95823f",
+      "text": "Integration points",
+      "hash": "cca27bd5f2e45478785767baf56816dd213fabf886828d7e6b0ed117c8df4dca"
+    },
+    {
+      "id": "93f5f6fa9ce18ea18cdd89afbebd5f7cad2d10dc3e377aef69f8e0cc3330d6c6",
+      "text": "Reveals incompatibilities early",
+      "hash": "108a729a0fb736b27a24f9e5b6b6f6e4551438532da824983f70d78d9fd4c4d6"
+    },
+    {
+      "id": "24461e17eabfb5aba8ab4764bb6810db39c9b8f22787a391bd0cbd43c31d1e85",
+      "text": "Unknown unknowns",
+      "hash": "560754601a6c4eab58da5c349722ceba70752e2f7b376f0ad7bf004a0f9ebd79"
+    },
+    {
+      "id": "085137900be016191f120a9a17b610055479049e5b4cb3746f429f99f8ee2e68",
+      "text": "Better to fail fast than fail late",
+      "hash": "67fdadeb33be9e17b029f055e58048626d2eb1d561b36b1deb79c12a3dada827"
+    },
+    {
+      "id": "212ac8693cdb51ad2217be809aa9b14e43ef752e23f6104cb4929e20c6e9c7b7",
+      "text": "UI polish",
+      "hash": "47f3144aa9d0f4833156411a313f3f1b14ac7f0329b43d33524a9e8874adb9cc"
+    },
+    {
+      "id": "f09e3eb7fe49ce4481d6b98559b7799f01036aa803565844570e06a267920e30",
+      "text": "Low",
+      "hash": "f793de205ead5ac302c4a1627829dea41f176b1068b993a32373fc869918374b"
+    },
+    {
+      "id": "97cd59feae5ba4f5d0e6a8336a628993e04bb53a2d2087bd8763abe30116d2c6",
+      "text": "Can be parallelized later",
+      "hash": "6e1c0226500793bebd205ec8cb4d63343f53e3967f0cff984d9a5ccd2b1e654a"
+    },
+    {
+      "id": "5e9119687e7ec22e01611eb04a4fbb526328964b366f2543764f37116f7367a8",
+      "text": "Quick wins",
+      "hash": "99b2327e49ea15e6048c33b5ca528b234ca7ecc05e921077091e6ce9cb3269b6"
+    },
+    {
+      "id": "40782fd0afa60d3a07b7aa4cb8e7f591545ef9afc3bcea6f5d5fea7b3f4c0789",
+      "text": "Easy to slot in anytime",
+      "hash": "3ebe7c692502c7aaf4ed9cb6248e3658fdcb5cb2bade7906c2717d5c44c3c4de"
+    },
+    {
+      "id": "bebb12d56c2c3104780bf873d2b7f2b01de759a1dd7f740df18b956271f29f80",
+      "text": "HITL For Risky Tasks",
+      "hash": "f00c8017c4efcda70fd0b57f224dd631caa1bfb0522bf79be53ea71a4e8ac883"
+    },
+    {
+      "id": "26d7bfd6cddceb1528d1e4e2e631181a370ef42c1ae64ee5a3460c4e81f95438",
+      "text": "Risky tasks need more human involvement. Use HITL Ralph for early architectural decisions - the code from these tasks stays forever, and any shortcuts here will cascade through the entire project.",
+      "hash": "2d68d609bd1b1eef424bfa93ea5b85d572e60597bd4f24372eed1a52e863c0cf"
+    },
+    {
+      "id": "f543b19f09356a204acc669338aa6ce10d8445a7c9b3582f6275868cbe5956c0",
+      "text": "Save AFK Ralph for when the foundation is solid. Once the architecture is proven and the risky integrations work, you can let Ralph run unsupervised on the lower-risk tasks.",
+      "hash": "8d57d43ac790ae31d994ae919e0434c043a1f762ea2f47552c462dd07cda8d29"
+    },
+    {
+      "id": "23e627eccd4635076f126a8cf025e4182de0132db698b63360a13edbb8e6b6e4",
+      "text": "Add prioritization guidance to your Ralph prompt:",
+      "hash": "2a1db8b298abe118b3d6e69c38fb74afb3c70bc28cb22e38d7ef8851c404806e"
+    },
+    {
+      "id": "1fd4c4413da01369bc483d6036df197968f1cdc897081338c9a999ef3e3cfdfd",
+      "text": "8. Explicitly Define Software Quality",
+      "hash": "8c8b0da075254a09d6d7c3a5ab402a17f70b331aac5ded28b8c58dd651f02e80"
+    },
+    {
+      "id": "9cc9dec7c714a19ed8182514a990d99493902984d0fc1f21ead36335d1fee44a",
+      "text": "Not all repos are made alike. A lot of code out there is prototype code - demos, short-lived experiments, client pitches. Different repos have different bars for quality.",
+      "hash": "60a8bf23d8bd013817c2d62d5eb85c427e8fd24ff6995b1e4e8383d44ddc0c74"
+    },
+    {
+      "id": "bdd8cc306666329883e0a99e4bb059df3ce5ffb806da097dd594fe18080b2601",
+      "text": "The agent doesn't know what kind of repo it's in. It doesn't know if this is a throwaway prototype or production code that will be maintained for years. You need to tell it explicitly.",
+      "hash": "80f46d8f804daef6aacf4127833cd72f23b20ac414212e530c384a49f92e9f09"
+    },
+    {
+      "id": "a7fed1b786d2f186aed31799e04f48e6e54d09cb15daab8e67b66a12b7ac42ba",
+      "text": "What To Communicate",
+      "hash": "99d1f487a74e2a0f914226cc5d8f6ad99205a7d52cd9c8f64d18b4795b531a0d"
+    },
+    {
+      "id": "258deb5772c4c57e857b2e309ce55dcf4f0f38303a815e8a15c6d0569e341843",
+      "text": "Repo Type",
+      "hash": "6a3596fdf8b9e51b2f74030f857a97a123003d4d85df2501da2d15d096728e02"
+    },
+    {
+      "id": "e684fb56db6e4d04519c6372c23bf518e20fbc2e5f2895a197f2beba17afcd8b",
+      "text": "What To Say",
+      "hash": "6a082bb0e2d4f986ab8d9353f5524dc8f60ee912971756d928c15a510bfbf90d"
+    },
+    {
+      "id": "e885c3d3c0af32b33841530ae812f2ff6d5d2335a00cf05cb8f8a0c4b40b6539",
+      "text": "Expected Behavior",
+      "hash": "42133cefa1fe6aa68418912ed005fb4f79c5044bcb63725a36b652039aae24dc"
+    },
+    {
+      "id": "736f4809cf776a1ca73e0b205289fd36739f2dfc2b3169819a1a57528602b711",
+      "text": "Prototype",
+      "hash": "c570c5baee7ad0d9654107fd0b32c0018fa3b5b0015fde36a4721acc5ac29ba3"
+    },
+    {
+      "id": "e68f5211fad05093091d810ad6685d5ec521c0a50bd0c2d77782c8c24777bec0",
+      "text": "\"This is a prototype. Speed over perfection.\"",
+      "hash": "5fca67ed7b3ebf334afa2accfac6afe6418e563f89ab5c6dd88d31acc42b5e57"
+    },
+    {
+      "id": "f0099c9aebfcdd0b073877efde6668d7f39a328d45354b57f384a80e980f901d",
+      "text": "Takes shortcuts, skips edge cases",
+      "hash": "79790023d4a3ffdd6463b9035e66c25b6a329789c05f031399635affa8412207"
+    },
+    {
+      "id": "d8f54434b4d90c2682e3e5a236050d11e17890411c209fa27b0bb3d9ea3c9d67",
+      "text": "Production",
+      "hash": "13a7c655a7d4213c0c7e77e83a7be6b267baa3f16937c401bf73371545cc9db8"
+    },
+    {
+      "id": "8a6f862d707daf471ef166381e3c0f53b7b8ab79d4bd175ef279117d19583ba9",
+      "text": "\"Production code. Must be maintainable.\"",
+      "hash": "417abc220007f31f4be32193aee48180f377c444f3a9dcdd457207c2de1c7606"
+    },
+    {
+      "id": "0224addd49c8aa8cb0e54257fe73602a9cc344828fd55e73b187b85dcc2dce7e",
+      "text": "Follows best practices, adds tests",
+      "hash": "57b409d378f4ee2f59645c5718dff754ec422c4d310d64cba30059c6ae37a7d6"
+    },
+    {
+      "id": "24c3a2ade7c7fab0a0ba50489666cfef89e3bf86e7789639bf80c59026d0a15a",
+      "text": "Library",
+      "hash": "dc20b3d5d2cddf82fad332821ca5e9a4efdcede4a273aa193d2b495bdcc92825"
+    },
+    {
+      "id": "a6c204967df49be92b5e13cd9fb876b02bd10acb2b4359cec76586a31bfbd043",
+      "text": "\"Public API. Backward compatibility matters.\"",
+      "hash": "efe8297f5e3b3304e751ab0140f2c8aa119dd6ab306efcaa59a5addf70dc4a39"
+    },
+    {
+      "id": "1fe317a974f1fff3ac0c3372fde973448edc36b57608fb4a27f29af707801ecd",
+      "text": "Careful about breaking changes",
+      "hash": "5fb528d0eef2e7e2d1120e8bc75b9669117f08f9a3db5c937c93b12cbab41468"
+    },
+    {
+      "id": "0a2601453d33edd4a336369433bc4e27db225de2762f8eed4d6053b1c9e98ac2",
+      "text": "Put this in your",
+      "hash": "d05dfc618affa41f6d22befcc7d69dbab7ae51bdb71bcc8c1d8cb06deb05eb03"
+    },
+    {
+      "id": "615d32a117c02f39b8adab202cb700b08d3383a10ac77ffee372685bc61de8f5",
+      "text": "file, your skills, or directly in your prompt.",
+      "hash": "a1912acb8ff94d9df22d26d3f95fb677577039fcca8ac975a2a8f22fa31af10c"
+    },
+    {
+      "id": "93c7c9bf7d7003adc6faed0f1d85a34428f7e25fb120be6c66202768226d7f3d",
+      "text": "The Repo Wins",
+      "hash": "99810ac65a5fe9d86fc54b6b992d7fde0f0aa24347b76934a9473b02558cc1a3"
+    },
+    {
+      "id": "b933191d166a9eb52505abef12cd480da5852be67f5e49f059601a2af92b726d",
+      "text": "Your instructions compete with your codebase. When Ralph explores your repo, it sees two sources of truth: what you told it to do and what you actually did. One is a few lines of instruction. The other is thousands of lines of evidence.",
+      "hash": "e20501feb5a7fb492d7d668471e863c906094e4fc75b1a8f6229de3e2daa9ba0"
+    },
+    {
+      "id": "9bffe5dec4ebf4795b9835d500ecb15b10a313503b15113f80910dea6ca97de2",
+      "text": "You can write \"never use",
+      "hash": "e58a30b61c9cd72e35b7d4408c010545be5cf8d5296f8e21f25eef897a769dc1"
+    },
+    {
+      "id": "e545f543a3cbcc0878b108650199a4d33e0f1cddd64900c4739e6ddeb8305315",
+      "text": "types\" in your prompt. But if Ralph sees",
+      "hash": "ee646ae3dea8eb148d3e852ef50f9d7172990655ff2e7d6936e07e656c85a13d"
+    },
+    {
+      "id": "0587fbb505e5094d0d4bee3a34de1a86d98907a4c51b735bcc1e83e2e82dd897",
+      "text": "throughout your existing code, it will follow the codebase, not your instructions.",
+      "hash": "d769d7ec45257c62deda618b29ad38a5b41ab2a09ee95024c77f75919426f72c"
+    },
+    {
+      "id": "5a0f469861d9569233bea97d8388d76ac39fcc0ff624ed03f282ba542a7fbffb",
+      "text": "Agents amplify what they see. Poor code leads to poorer code. Low-quality tests produce unreliable feedback loops.",
+      "hash": "b64251ce00e131627d2bc6ea22c3b724ee81a6c646dbcd4e0412a8a4f22091a6"
+    },
+    {
+      "id": "bcacf5c080ea79d2d32ba7e82687547c1ddd9437f5a23ebd8378ad967b530a40",
+      "text": "This is software entropy - the tendency of codebases to deteriorate over time. Ralph accelerates this. A human might commit once or twice a day. Ralph can pile dozens of commits into a repo in hours. If those commits are low quality, entropy compounds fast.",
+      "hash": "c51f8acbdcee788e69c5064dd2030091fc2edf565d7d6310ac85fff35d8b8ad6"
+    },
+    {
+      "id": "4dd6a67b78260c7da8833364afb6f559a56150285eae5480920c4a05112b636f",
+      "text": "This means you need to:",
+      "hash": "249e50db3b544710a5dc6311c800ce54cadbfd3f3377a45f46caa7ee419f8f23"
+    },
+    {
+      "id": "4dcd32598ce299e549ca57eb5b6489057aae4521c94ebd6dc700a8f26e58ce3c",
+      "text": "Keep your codebase clean before letting Ralph loose",
+      "hash": "49eae8e9c7dbc10d00cb0d5d14637c867140bb971751d5c32d0b5ee7cae1a2ef"
+    },
+    {
+      "id": "6969369754035e328794164a2427afaabf7e87dd394c1ef94105315f63da5fac",
+      "text": "Use feedback loops (linting, types, tests) to enforce standards",
+      "hash": "5a6bfd4cd27814f78e35ffdc25e35b29e75dd82284ff779e41e8176f504ddb92"
+    },
+    {
+      "id": "f06d4b7aabc7892e652421ca90ef207547cb33edd35fac05be1dbdeaf8deddf8",
+      "text": "Make quality expectations explicit and visible",
+      "hash": "c4903bc8cc13b6289921e7bac584918194d785f7a5f9663a3652d3fdf4de0177"
+    },
+    {
+      "id": "0fc642b5ed61f814e630ece6c8246c76789cf04910ec6de93cfba777f11cc182",
+      "text": "Add quality expectations to your",
+      "hash": "3aa2f344d9aabc1b03755d3d150eff5255a89434dc26d480ef838be40b1e8b00"
+    },
+    {
+      "id": "bdd20922f9f7ac2e137de3d8a7e4b0f05b813e8bfd9b5b0f429534d36b708bb3",
+      "text": "or Ralph prompt:",
+      "hash": "14ea72a80221ab8a21b08622a1080808696cf89cf83fe6e8a73e0274d98a45ca"
+    },
+    {
+      "id": "a61bbb71ef075538517211582f66c96018a8879fcb5fe88a64d6374070174e75",
+      "text": "9. Use Docker Sandboxes",
+      "hash": "d91f49f93093418f8a6c88dd4a7afaa0c92592351db8f76838ed4ad97fb3fd91"
+    },
+    {
+      "id": "e73b91e0547822a8f89852270870b9a8969b1d4ea6829c7306b1fc6c4e752885",
+      "text": "AFK Ralph needs permissions to edit files, run commands, and commit code. What stops it from running",
+      "hash": "5e76574df6d7268d96eec50faa7ead33a9e62bd6db8d79c3b4b59d94e17a0b29"
+    },
+    {
+      "id": "b78890a18ed9c713fead3f74813053687145054b67abfa48cf5ea9727ec28048",
+      "text": "? You're away from the keyboard, so you're not going to be able to intervene.",
+      "hash": "e93efe485d99de1c7796014c75fdc65131d2345d413ca4a8c70d29a7c6e9fe8e"
+    },
+    {
+      "id": "5e6d3fdb314e7f15a06c11d7a04e02ffbf47e41dff30d77ec7b1ff9a617d270f",
+      "text": "Docker sandboxes",
+      "hash": "95d083569f3f8f3d98b19918f1867b30d1253b7c1e589c4518844547ce90f03b"
+    },
+    {
+      "id": "f36def557248d59a9269df8b13f60367722f0c61f2b2002f95fc6ad0fe162342",
+      "text": "are the simplest solution:",
+      "hash": "e5ee70426015935d36b4c8f5afab717d452114d92041d9b80b442ba08f09a54e"
+    },
+    {
+      "id": "28366fa358e08fc3f2fe90c07ee61b26462db47dae4e99207ab15a4a7c373ad7",
+      "text": "This runs",
+      "hash": "cc8f4d2f585c27574ab11b650d0764d57a1070798c00b1f8efc399bc762a84c1"
+    },
+    {
+      "id": "e56dfa023a58b6299d27a548bdf48a0f59cb86de2e7838223e444b2160152db6",
+      "text": "inside a container. Your current directory is mounted, but nothing else. Ralph can edit project files and commit - but can't touch your home directory, SSH keys, or system files.",
+      "hash": "4b856fa105ba8695ae5bc38bb539d84caa94ba26296dea3ea7deabe9d3439b29"
+    },
+    {
+      "id": "252c9736cf9a1aee7c91db99d216621331d68c3cc78a55204de617c82f0fdd55",
+      "text": "The tradeoff: your global",
+      "hash": "afa470203237f328558d361bc80fba2c9b323c44abc44725d02e7a0dc9eadec9"
+    },
+    {
+      "id": "d15515034a2751d8b6544d17d6de2777a4d52fb38ce0deac167d4c82f39d484e",
+      "text": "and user skills won't be loaded. For most Ralph loops, this is fine.",
+      "hash": "78c81ec4dd3ccc67123fba2b64365fced71feb1e0aef1c65f42126c9672e1ec3"
+    },
+    {
+      "id": "a3262f6d0e4531228e7e3bc22cdc0bf416a967ed83331383f8c96222ae09b6c5",
+      "text": "For HITL Ralph, sandboxes are optional - you're watching. For AFK Ralph, especially overnight loops, they're essential insurance against runaway agents.",
+      "hash": "b0f9e045ce0a46b7d18fbf0b4889cc676abd0f6fc631ffe0d7d93cd1282497cb"
+    },
+    {
+      "id": "8b43bda31d5e8ff63b1986e278bdc650ffd852f8669111715ed0dba7fe62fd04",
+      "text": "10. Pay To Play",
+      "hash": "fe36289b771f4f753659bb9fd675f3ff6d6d4975177bda64563bf11708757fe2"
+    },
+    {
+      "id": "29afd87b98bf47b8d7fc40f4f6cb6f37136968c5c9e00ebc4d59cb3809663738",
+      "text": "One question I get a lot is, \"How much will this cost?\" Surely running AFK Ralph overnight is a way to rack up enormous bills?",
+      "hash": "9eae432c8ded025b04782e7992684f63b0491b6057fcbf650751a74117e759dc"
+    },
+    {
+      "id": "c1bea53a60873b6b73ecff7c151ddc85be2934d38bf8fa288edfa69e9ff24ad4",
+      "text": "I never feel comfortable giving financial advice, especially to folks in low-income countries. But Ralph is completely configurable to how much you want to spend.",
+      "hash": "fcf3822758f1bad5c31c2d572c3c9ed24e68aec3c9a88a5440d4e232ae13994f"
+    },
+    {
+      "id": "72412781d3dab412dac87f84cdbd23b2899800a6ff3afce9842ec010ebe3a839",
+      "text": "HITL Is Still Worth It",
+      "hash": "70915155b8f2f0a9873cc1e32a07690e1f55fa1d8050429aa1c1fdc9b349c354"
+    },
+    {
+      "id": "9798e8093aceac0a0df4ea8c95038fed8f227aeef1b700d48130f56096179ba1",
+      "text": "If you never run AFK Ralph, HITL Ralph still has big benefits over multi-phase planning. Running the same prompt over and over feels nicer than specifying a different prompt for each phase.",
+      "hash": "d20293c51bf933e184d6fa718a404a50e88a1f8cc677d0e415f6484563536c2b"
+    },
+    {
+      "id": "9b25fb08b46cddc97daab18b0a618226681d982ae98df7e4692e20f08e1f197d",
+      "text": "Approach",
+      "hash": "b6b243caef1ef4d3b387fade80bd20f38c2b8beb0b3c2cadd3a7aebd19fe0968"
+    },
+    {
+      "id": "b15aef89a4ade0895944573adee248fa84f06270f66acfa4ed1f08177a22a2cc",
+      "text": "Effort Per Phase",
+      "hash": "e3285535a6e83e977b157de958a9f9a17de3e933a8a8f2360f67b21ac000a781"
+    },
+    {
+      "id": "d496bd43bf257e0a94d55cffe2660717b770f7a64635ca638031c4e86e346fc4",
+      "text": "Write new prompt",
+      "hash": "6f6675792981efa6913b5711dc7123cea834f733a07bb679f17cb4318960de66"
+    },
+    {
+      "id": "b0c55c36a8908f63d63007575473777666d3ec8926a5e67f8eb6abc696f5d96f",
+      "text": "One-off large tasks",
+      "hash": "b90df2cc49a43a9a6d94dfcf68b59218ece164a33cebd1bc39cd0b75e9e27db4"
+    },
+    {
+      "id": "7dff8676251e4f1536239ab095faf23ae92eb69e7bb083b8486003ae057b6d87",
+      "text": "HITL Ralph",
+      "hash": "c4810b7a3fdbccf91b469b02b34a60d7361d549794b53487f717c0cb45251186"
+    },
+    {
+      "id": "262fdb4853544f5e9a73b337edac35d940dfdfb4c160055b89fa30b057c4d817",
+      "text": "Rerun same prompt",
+      "hash": "f34aa0f84cadb00bdb716592347e83216ae8549883c3bf2c9463080bf2d204d8"
+    },
+    {
+      "id": "b77172ed09bb499aa91ab2f941d78f51c5aebb59a35fd93d8bf85028dc14ab86",
+      "text": "Learning, refinement",
+      "hash": "d860edfd2e5103dd025b753c96595d47d1a979dce6b68532ee3f2d6142a57e24"
+    },
+    {
+      "id": "87a7856c9dfcaa6d31b477720f736644c214992551b35aaf7ec00eb3f53545b7",
+      "text": "AFK Ralph",
+      "hash": "d5630be2b6bf0882796876121f734d382e2edc30b56df97c8f1c7a72999f7ac1"
+    },
+    {
+      "id": "e6ed5f2835c08a23dadb7d44e48f7159e0be4c39f16f8f24edfd297528233d32",
+      "text": "Set and forget",
+      "hash": "5ee5af71259558396aaa6eaab1652962e65f9e67e73fa33b634ad1db5da7c3eb"
+    },
+    {
+      "id": "94785d6c5461fb448d3f74d91d052bc3f9b73e3bf6be360a74db71eb1e2b288c",
+      "text": "Bulk work, automation",
+      "hash": "19a9048a89e88790916c814df3a187cb2f6165fd428015a130d455c1c4ab13ee"
+    },
+    {
+      "id": "de46917d8b9faf6b194d784d815b73c419cce8e67701ec2765764164d2934dca",
+      "text": "I'm on the Anthropic 5x Max plan at around £90/month. I've run AFK Ralph a few times, but most of my usage is HITL.",
+      "hash": "89169998ddfb55512c4c7e4906ff9e73b454bca455701bd7754a72d18be01b40"
+    },
+    {
+      "id": "99c94a4dfe3a608da21e7ca24e96639b4208267771c1d0450c11087800ae7b7d",
+      "text": "Why Not Local Models?",
+      "hash": "1d1c243cdffea798dea2e6cce840394e90881331754c206cd10b4339cd38f77f"
+    },
+    {
+      "id": "dbbe93dc0572b570912df8a704f99ee799f4b5872db7653744e76b202c8cf476",
+      "text": "I don't think open source models you can run on your laptop are good enough for Ralph yet. They require powerful GPUs, and the output quality isn't there. In AI coding, you have to pay to play.",
+      "hash": "fae0c4d65e0baec4454d93d765128b07fa0236f33dfab5ff0535d971be1b72c7"
+    },
+    {
+      "id": "8761695bfc49d9fe261b06cab0bf12d88b64355121d1f6d5a90a9a2d1dc8dc8f",
+      "text": "The Golden Age",
+      "hash": "df1e9eceb49d61f215a77b3b48a32aa9da2b79672eaa189af81c1bfbf47a60c6"
+    },
+    {
+      "id": "6ac3381f273ac317795d26bb1fa42cb4450fcc4e4205dff2a996b617d1df0259",
+      "text": "But we need to contextualize this. For the next couple of years, we're in a golden age where you can do magical things with AI faster than humans - but the market still pays human wages. The market hasn't adjusted to the fact that we all have access to extremely powerful AI coding tools.",
+      "hash": "018a00b1ccdae5b5a79de0cc50d97089f40b1a81ba54624eb4c32546ef833b49"
+    },
+    {
+      "id": "18810b6952ab12fb0f14dd9af8a546e90eb36e22d1314ead3c91312d3a178520",
+      "text": "Yes, you have to pay. But the rewards are there if you're willing to claim them.",
+      "hash": "6b418ba5b589e582ac01eaf3ad9d92a1737a454db59575266eb95689ffb5b46d"
+    },
+    {
+      "id": "4a9020022065ce001f90332cde972809e9663bf197336a368028755a54aa9571",
+      "text": "11. Make It Your Own",
+      "hash": "fcca0dc5d488c3e224b8ed198f8723b9c93a67a9b5ef8a44671944acaccb73a3"
+    },
+    {
+      "id": "d1c5d1b284f63e5a3b396452f9ad4ae778e5d9bf4f99e62c6c438f680416a723",
+      "text": "Ralph is just a loop. That simplicity makes it infinitely configurable. Here are some ways to make it your own:",
+      "hash": "c0d7e5703846f19dc9840322596b24cfbd84c06088c1337deed684c2a3425c0e"
+    },
+    {
+      "id": "ce9466eecb56556e46caa2524ef56df58c9c9584d07f8ef3dd557efb5458cbef",
+      "text": "Swap The Task Source",
+      "hash": "7f761851240c601c8acfab361ed3c6a8e60f376cac54e298933bbfc721efa0a4"
+    },
+    {
+      "id": "50bc7b1e60642c6f184562601f8605c8d1165d1018f03e951fcdfcfacf9c19c9",
+      "text": "The examples in this article use a local",
+      "hash": "157f104aa343272b4f61aedc167d7ce643a736316c848386d608fead937ecf83"
+    },
+    {
+      "id": "84926114540b4e5b9f18ef59621805a5c55d339143d033034ba66b436a6b0422",
+      "text": ". But Ralph can pull tasks from anywhere:",
+      "hash": "ff02ffe276184955af53ab5406b09dc4580e68b392f5381330b1cc0e7138aed0"
+    },
+    {
+      "id": "25ce65e2ff6a3b4b43f8d87bf9fe90d6b9fa374c3d377675830c735782591333",
+      "text": "Task Source",
+      "hash": "462571cb5575985a25a4738289c0ca4dbdeca70cdab0090d2420ade9717f5277"
+    },
+    {
+      "id": "059a91aa87a0454ecf6d3604cffd158fbf58c2085bf66bb6c12800c7831c66c6",
+      "text": "GitHub Issues",
+      "hash": "10b4bd5e5908d9a8dad60c255f8f0f9b4998c65bfca7eec2e5368b8f4290222d"
+    },
+    {
+      "id": "4acfea7d00196e42eafc230a06397763e1e049aae26a5081ab9dfabca8ecbc23",
+      "text": "Ralph picks an issue, implements it",
+      "hash": "a253edbccea98ca4b4e21449fc43bc6883fbe4efb6699e1d518b35e542a5faad"
+    },
+    {
+      "id": "239aa74ba863f7cce221dfc862882ca074e5fb28ccc79343c6946faadb07676c",
+      "text": "Linear",
+      "hash": "e6950b45d25c2027b1ecae90490570d89bb0285e606df6ea24c16377fb0f2cf1"
+    },
+    {
+      "id": "5a4f142d076f473f9e6f3fa2df4306ea4b638b84b95ecb3fee2dba815d234793",
+      "text": "Ralph pulls from your sprint",
+      "hash": "f5d594affb1781a4dfc1488732c1b90f03d7f1a7703dba2c07b1d26344e15dec"
+    },
+    {
+      "id": "2eb0f0b9f9bbfabed2f664b2ea643c4835af8b2bff73afdca197a530e7d7a585",
+      "text": "Beads",
+      "hash": "6382c777dc07d79a96de3614f8e45bbdd78cf837a0d8ba35804a7e6f883ef62d"
+    },
+    {
+      "id": "5ae4b5aa83a77ec7abd6cc6628553ff2bb0519e74243496502d51d1fad610f6e",
+      "text": "Ralph works through a beadfile",
+      "hash": "a57d543ab6cd22d52819bfeee24f12e72260ad177284d97ddcf30e63ca3f3135"
+    },
+    {
+      "id": "791ab38d32b62d0fde0362dd1a33ef63bcf87fe39067a4d8a83fa6588d8cbde0",
+      "text": "The key insight stays the same: the agent chooses the task, not you. You're just changing where that list lives.",
+      "hash": "d8fc73750a376e2a333edef4a79fe7171feb0e6a5ad4179ab6fa2c22c578c934"
+    },
+    {
+      "id": "fa6e73e5a862b267f32940d737d8c03ba5b6a39d3893b6ad7cf0b10f70c71119",
+      "text": "Change The Output",
+      "hash": "60871737de234c6624c00086b7f58f1580338a741ca048b545af17f78554e3e2"
+    },
+    {
+      "id": "daecf14dc653dd8c377cd22a5497546f1d55a2d933229bfadb72294a711d7204",
+      "text": "Instead of committing directly to main, each Ralph iteration could:",
+      "hash": "6a6d46d871a8f16aee7cb4190facbde7e6b63bfeb2c17fb6cf5b439cb0fa3adf"
+    },
+    {
+      "id": "dbdeee3ccc239f9e0b976311b5612c2f5a67c054d83c86f79ad4936760b66564",
+      "text": "Create a branch and open a PR",
+      "hash": "9bfd2b1171c5bdad61c4990b6dcf3d141c3502bd8154a7eb35a6dac3fe22e65f"
+    },
+    {
+      "id": "88584f167da43296683daca114b2ed98278b79ec4cf65a6efd73b5abf05ea344",
+      "text": "Add comments to existing issues",
+      "hash": "b88532aa59b50bc38feab397275b314d85b5a0c58548da81780044d115374aed"
+    },
+    {
+      "id": "2ac7dda7e10d432d7fda59ade4c5fb76f9ed812ee37f8501e6fd16b073a7c988",
+      "text": "Update a changelog or release notes",
+      "hash": "38ea951bf36f8a86f88ca42b0e492718f1b60c121bc9555c66ae65e0ef951c2f"
+    },
+    {
+      "id": "c8b107707abbb5f4cb301a8213a19e725b6232966e7093fe7f0570e5a0709736",
+      "text": "This is useful when you have a backlog of issues that need to become PRs. Ralph triages, implements, and opens the PR. You review when you're ready.",
+      "hash": "96171abc7d6474f66292ad0eedbb81b31cd33c66e62155bad7a3cd4566debb3f"
+    },
+    {
+      "id": "a3aa79e16ddd80ccb268079fdb2a35b7b155d5507e6632e81db5f10835ee73e2",
+      "text": "Alternative Loop Types",
+      "hash": "711fcddc7d1c7f85652506d7d4dafdcfcdfd65c7aa63898c9c2243dcee409ad6"
+    },
+    {
+      "id": "88c47bfd2c564cafc8bca59fdc110d51e6ae5f1ded15ba89c239e71601c857f7",
+      "text": "Ralph doesn't need to work through a feature backlog. Some loops I've been experimenting with:",
+      "hash": "e8bff08b1c9b49d70436162c4da9b456029ef5bcddac927cc3908fdafd0a2d17"
+    },
+    {
+      "id": "857d15fdd0e0e9d86a1625c29a80663ab496583c2eaa345d75754d687aac630b",
+      "text": "Test Coverage Loop",
+      "hash": "f704422a3015a3898607ab4f191276298dd52c86975e3463be909b697b7303f8"
+    },
+    {
+      "id": "82cf15ed843d3396e0973d04763ab96a6e2a1e6d7681234a8ab64015cb563d52",
+      "text": ": Point Ralph at your coverage metrics. It finds uncovered lines, writes tests, and iterates until coverage hits your target. I used this to take",
+      "hash": "30f3421f4d30a5ba84146fca7d1393f8f95ddfda03a905f4b2e41007cda4f40c"
+    },
+    {
+      "id": "9488c99e18ae4b4a1eac99cd6903ed8505bf5d239785eab7005c53c2d04191fe",
+      "text": "from 16% to 100% coverage.",
+      "hash": "3a6b96fa6463ab2a966798ecdf70ae93e091a6963656f2bf7d6f8715dfd3a840"
+    },
+    {
+      "id": "e093dd726fb8498767c20423a27d8facc670724b06342a24039202e358cdd61e",
+      "text": "Duplication Loop",
+      "hash": "bc9323fb578a2933c1992467d1e06a24c50fa898c0116a2eb634d2763c27740f"
+    },
+    {
+      "id": "55b9b48c3eb9e150c98618a4004c2e6a971a8cffc81ba8787a7dadc51f8f585f",
+      "text": ": Hook Ralph up to",
+      "hash": "e765182447d18584e2a28b3f2e123bd0f75afae5deabfc6a6de848f253788623"
+    },
+    {
+      "id": "587348d1efa3c74e7f0e06c91d6ab090bc4bb8b3ac9d58c040e5fc65e468190c",
+      "text": "to find duplicate code. Ralph identifies clones, refactors into shared utilities, and reports what changed.",
+      "hash": "86d666d0438ebd00edd0307abdf0cc75a72dd4d76b4b3560da809ac62e326b07"
+    },
+    {
+      "id": "b4536d67d920797e570922a8cce226986f8451cd291c3cee42046422b608c34f",
+      "text": "Linting Loop",
+      "hash": "b0fc984a5a475dc4646193356bb058d841dea348d0aa4f9fad9a722be0acb74d"
+    },
+    {
+      "id": "1ee02d30ec55a07b9f1c92e8d1c648cc6ddb2f5e137eb3b6db11dbd8e4abd8dc",
+      "text": ": Feed Ralph your linting errors. It fixes them one by one, running the linter between iterations to verify each fix.",
+      "hash": "9f2acef8335c4bf084d96f9e7bed9a55ce1ec8d7ff4746afd901b7286ce3fdeb"
+    },
+    {
+      "id": "cd6584714a40f6b2d94c2925921ccc3b30490a59c2703e77872ad147097f11ce",
+      "text": "Entropy Loop",
+      "hash": "81c90f1c3ee4df24b2df569ebb26ac55b443fc89e5c73eeb389703ee3216fc52"
+    },
+    {
+      "id": "7bbf8da29dc09415db0f12952077c0f78aff377e2c5d9d26ec92ad2c830b9cb6",
+      "text": ": Ralph scans for code smells - unused exports, dead code, inconsistent patterns - and cleans them up. Software entropy in reverse.",
+      "hash": "cd617e56aa43f0f9cb6b0c9ce83a432c169aef196a9a3c600198b961a856df5e"
+    },
+    {
+      "id": "3acf4901dbc6e696061b37ed6b7ceefa082ac34e5202bf60d1fa48c58dfb1aa0",
+      "text": "Any task that can be described as \"look at repo, improve something, report findings\" fits the Ralph pattern. The loop is the same. Only the prompt changes.",
+      "hash": "306b24d1871a2002800303308868e4b56f15fb83064ba69143281bc9aff7c91e"
+    },
+    {
+      "id": "6b0d281dcfb7312fd84717d2e73d1e18bd9cd866d2612f101b445f2784410ef3",
+      "text": "Try one of these alternative loop prompts:",
+      "hash": "67eec91299bd8512ce86ef89148e2d46c69382b88638cdbe4d0dc196713ecc87"
+    },
+    {
+      "id": "a0ab7f6f0ff3d43e57ad64cdf961abe8bfa2526fd0adffc0b9346bbf92a564b1",
+      "text": "More Ralph tips, straight to your inbox",
+      "hash": "0f4c7f931674afaa53292a887bbe13977892f17daf716a8d886a669a3511ba87"
+    },
+    {
+      "id": "f666536c036af6e5841e01c2714178441e58da84428e67b4b1afe642a46d8541",
+      "text": "Skill posts and changelog notes as Matt sharpens the loop.",
+      "hash": "3675f2c84bb817b0e3833cde72692cbec2ad1fb4b6ce31370ccad461f443104c"
+    },
+    {
+      "id": "2452dacb4f747e8cac866ab664c243cf18ea943cd2df038cfa520491780ddf05",
+      "text": "I look forward to seeing your own Ralph Wiggums - fingers up noses, flying through windows, eating paste, and shipping code.",
+      "hash": "d27fae96cd66db53a98c98729a6e6e5ed18113694f13fd4569d645f8449a8973"
+    },
+    {
+      "id": "c3a20e5a5bbb2a9daed54bd203dee38f2d789cd7b1ba716a017b9bbe4d4e75dc",
+      "text": "Want to learn more about Ralph? I'll be publishing a lot more about autonomous AI coding on my",
+      "hash": "e6a1f538a0ff2c89dc1fedf1a0220948ad748720ad8acc3cb24ddcd2967aebb8"
+    },
+    {
+      "id": "97624489477b7185843ae8d35a93d56df11b14dab8d4784a34a18d7ad5bda2d6",
+      "text": ". Sign up to get notified when new articles drop.",
+      "hash": "fdb50bc8653d9839a0b358dab7497e2b6a68b129e058cc375d6860c106fdf156"
+    },
+    {
+      "id": "9daefe868f17500bf33c7f87c2f831debaec2c9fb8d6ef8bca879a6cb38e26ad",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "963a476ba9d029ba462f27c048120fbe26379a5e9453c5b1e9ebe5855786740b",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "2e67599a424f4337adffdd90c3a37376017b4b111d4efec114bc7a0b3669c516",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "9b49f61ec2d9b86f513e9ab34588fb56d9e87231225787655722afea66f4ef50",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "0dab5698917cf7a11999ab5a70e38471503b99edb5fc85cb7c17bf4dadc087eb",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "27e1eff427bb6142b8894d6d2aa8a4894c267e1912b9095b6fb45f35db278a7c",
+      "text": "Article · 4 min read",
+      "hash": "8d437eb414a7fa8f57889d78f05cd08f83482d4f93356ba481096cf36d5469de"
+    },
+    {
+      "id": "c2a499c9ee5be9ae03fe6601769ff6b19c189816af0a7c715cfcb6f1dc225287",
+      "text": "Why the Anthropic Ralph plugin sucks (use a bash loop instead)",
+      "hash": "5209a91e17bd26bc56cf7ab00f2b8f41565310781e206b9b2afc62b18f32c8ee"
+    },
+    {
+      "id": "f2997ecbaa27047ed802eebe21bc2c3dd30baf15d6f6fc0c80c74b37c5aa4ca0",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "2a5878ed49eace6ee99c4b78ee032855cb35ad8f83030b2b8f276f0c1b5cf6ef",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "c48efaf83ef05af55a7f2e3441433071d68f628407c81fd924fef02b8b9bfc72",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "1fd6c9e5ade76d84b4b72317be2c735bb9418d2d8942c7aaa5ffa16ec1129231",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "58a336089964eff8e6c5c9596de510a6e62d5f5d4d66b8bbfa91086e2f7a5730",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "f32975d56df67370ccd6323fec244194e2b244d1962de0bd7fbe208d5a0b1973",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "65b33f8328d5fa593eda50d750fc9d47d252100a6e0b2e1ae0ecebcdf78290d3",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "98a8a80a24e5f61ad9a5cafde8726889ae455d082c40be87e88764c4f2f75660",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "b9f5311be1378c8226ec3b39af15ac33f066cf32d2ffbb434de5e2aa411fa865",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e610e07990cf24fc5b4aaeda30429e4d0588f1815cb3c5ada273371d75eb67e3",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "0b4b2e4e0f9fb3b53465a90eec56eb523c19ba5584423591b80f9d1142113fd0",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "aba635033569d9dbb4674ad85c08767dbfb452e86ce456517dcb1a8ddd2338d4",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "ea16088b4df34b0edbdc00c34c8d03e59c7a66d679f778e7e4c0016d30159d54",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "1d6b81b218f1193f7371d4e7db3a66c79ad9c5fc732f02904f918abea750dfa5",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "b112d06cf2c11359bc50991c30b6bdb17f9e9f1804d6302864daf10981346568",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "989018b44b661dfa0ac213224010d7c02b46672bc608f374df1fe421cf37bb17",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "d3af0efb82534e9eed6b2fcc721ce14303183b25d7043ce3705046d88177aab3",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "c83643be97b789d00270aa06a0399ec88ea27640cc26e8b254677806e6b2fce9",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"9bbt7xtv389too\"",
+  "lastModified": null
+}

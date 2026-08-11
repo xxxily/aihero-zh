@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/vercel-ai-sdk",
+  "pathname": "/vercel-ai-sdk",
+  "fetchedAt": "2026-08-11T06:28:24.636Z",
+  "title": "Vercel's AI SDK Future-proofs Your AI Stack",
+  "contentHash": "132f54e35dd051c75867aefe5cd2840aedf4c369590e0d61fa80e3f96e07a415",
+  "textHash": "645e9372da0cc6b01b698d4cf06304cc8be2556ebdfee39ff9daacff44dd6137",
+  "strings": [
+    {
+      "id": "3db9ebe9f6a472384e7b00954122040b78604ce8b3a64165b5e16c0b7f4a1edc",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d1777ece6d5a9d833b510ad9b7a5b8d8a68f0513b58f7bf79f1e9911b56fe1c1",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "97220903be43c9d6bfeeb5615f9960fe1100c7c3eba6a34df1125e297f705431",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "83c76169d0c536be3e099c1462e52b0464b80b58c48114a1453d2b5873620947",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "e6733a8c79e04c64519cc3c38259fa4f7e497ef01ac50075b432f690f0012d0f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "401e6f5b04eba08fe02c3ed783adfe7f9393f7226d79b82791524897f184cd46",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "7900d594f72a19239e4c9d5f5ec07397ce820a0319b647a6aed2e1e4c62b7568",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "daf6114f807d1296beccb9ad2e54b89602dfc249528d39c0ed6a96bfde67d493",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "693e41fc1e1c75ba1d94cb14992679a7fc55799d2d6f909468da256f5e18bbc1",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "167f32da5862cefe63092431e69935cf0d928efebb40fc61ba471f94f10e5ff1",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "6940b164f878f7e7eb8aeefdc39d28db6111ca00315c16c7d300b5680946cd4a",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "e598079816f7a785db12f4f6dd031e616b2d73ba2203440614fc8afbaa19e74d",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "669db1c39850904e0a4ec15aafad8942a2f3fec1230bd63ab0aab42a9991b213",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "8ed6ebbfa7eb16f6666e1bee87b41b7d338d2161e209fc20c7e0bec056480f38",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "8e52820408acac5997fb938bb4eda15f30f9137be15cdf3443b1659c72f70e22",
+      "text": "4 min read",
+      "hash": "4d9657762e6c77a0b993256206c8bed21d2fb2cf6f39d987bd7ff233fe4349e7"
+    },
+    {
+      "id": "20abc31e2f8b871a93f706f6c8f5a955e105212a48cd82b41d5b9b7c0c2c3784",
+      "text": "Vercel's AI SDK Future-proofs Your AI Stack",
+      "hash": "6f6810c7129df446932e8e6d89c04395f81509d513b7243fbab7f1ee03607e4e"
+    },
+    {
+      "id": "d8f6c2f31623690b4e3caea366ce0691e5b16dceb5f941fb3b8b726af000d002",
+      "text": "Future-proof your AI features with Vercel's AI SDK. Write once, run anywhere across OpenAI, Anthropic, and other LLM providers.",
+      "hash": "c55653bafb33c27eddf9ff96559c75397b406977c3b08ad6d01e7a8785f20863"
+    },
+    {
+      "id": "a2e0bea1127d70c9983c221026edf160a58d60f0aac292f4982d032248b936b2",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "d72acb7bd9f1b68fbcee9b4afcd6eff41bdb72304810851651cbe2d9363e1111",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "d5875dd25903efc380bebbed51c819e1fb4ee42c3cd8dfc6cb98e3fbcbbdb3ef",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "111a5315461cb51b7ad7ecf2d84668f29044e1b36ffced3ad6ab25e64d379f56",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "cc94e1838b770eeb94516725be64a1f269beca1c979ab04d6824b0851f67b7c9",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "767cdfa93b523824ae227457f58bcb4252902cc8ae864c74b77bdd273f4e4d5b",
+      "text": "Vendor Lock-In Sucks",
+      "hash": "f3e6aa19f4ed44f34684154314fe66c46aebe0bdd01ab3e030dbd022a7048be1"
+    },
+    {
+      "id": "55aaa18b747f40e71061fb70c174c417e4fdbee6247010c84af4ec10607de962",
+      "text": "A Single, Unified API",
+      "hash": "462fff007f06adb923f5afafed931057256dd685765c4fd3821dd35d62dee39d"
+    },
+    {
+      "id": "dd4ed85fed3c48d48337f1b35367b91f71239091c5f60f76dc541dcc2f4d907c",
+      "text": "Appendices",
+      "hash": "c14d5666f05d49225eca8d4806d5b78dafdb844950c535018c32763d5b79886d"
+    },
+    {
+      "id": "2cb24f5b922f09c3d3600fc68069a2b7b6c74ca22bbd3b6b3ab6985e7d01489b",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "847983540931fede1a87c18d017fb1539bbe2cbc2d7d18e53627191841d04d3e",
+      "text": "The AI landscape changes weekly. Your code shouldn't need to.",
+      "hash": "1070c98183386f5126a1c7de75d12fc194439749815661d5a9552e87162509fe"
+    },
+    {
+      "id": "15c5b885c7803a7043e3487bce40cceca608d1ea22754fd4abb3ce84fce51170",
+      "text": "That's why",
+      "hash": "ac3de6b982bb0d02d31a14a0794a2dcb62b47546545f61a3ca357bca2015656d"
+    },
+    {
+      "id": "b0b61b70c0ff821cd2d2029d54084ee05ba8e9c86aa9bb09071fd56d4ba165af",
+      "text": "Vercel's AI SDK",
+      "hash": "dc53aa5cb97d1a8e63e4646afff7b26dbb9ae1abbfd4dd77ea33dae13002e116"
+    },
+    {
+      "id": "76c6a15fb0e08afaf46126f9c2511962b18c1b2ba1e0d9bc4ae9caeec2f00616",
+      "text": "one of the first tools I reach for",
+      "hash": "5bb4e9654c8c1aa08a8c89a90331ace46a7f572c30c7fc57e5eb65b3275eec67"
+    },
+    {
+      "id": "16f42d60531f9c340746b17f58efe47e7cb4a7d93619d4448b930a051fe07ba0",
+      "text": "when I'm building an AI-powered feature in TypeScript. It's so good that I'm planning to make it a",
+      "hash": "c9f65042e0ed43a628ecf277a32c694c79616c961383a1460f011edc06e75a52"
+    },
+    {
+      "id": "763a3ec2fa3f7f78ec3eaa3d100380b4f779f0aff84875b428d8c837045f91e6",
+      "text": "foundational building block of AI Hero",
+      "hash": "9ffd8497526d14d3d67c656756a735ad267cbb7337b25a944ad766fef031e75d"
+    },
+    {
+      "id": "734a1a7fd02918700845592231b5962ab485047b3cd2cea1997da2caa1e5ad9c",
+      "text": "Every LLM provider ships its own API",
+      "hash": "121539569b135493b5f0de54641e4f717dd9b301bb002c370e005b121fff7e59"
+    },
+    {
+      "id": "d249db84f573badf4f8afe223ae3ca91d62778ac991d71f3afabdc220b23fb07",
+      "text": ", with slightly different features and quirks. If you build your app directly on top of one of these APIs, you're often too deeply integrated to easily switch.",
+      "hash": "d60eecedcfd435079328dd5e4122b889d47b3f637d3471c7dcde52c90a400f93"
+    },
+    {
+      "id": "3d20e2456691fa6efe5df8a5fb9d7083a411141ac83f8fa4d9ad123108896719",
+      "text": "While these API's (and SDK's) look similar enough on the surface,",
+      "hash": "9d3b4faa0e2204c32a279d391bbfa2bff5d75695bb5093b6a9072ed05f385fdb"
+    },
+    {
+      "id": "4b4e8999a94d078d00237cae1b93c6d3c5ea7dd0bd8d5649447928c71a4b1b1d",
+      "text": "switching between them is a pain",
+      "hash": "a7b3950d67d0194e006b51b5ac2f0bc70c0bcbe3b38ebb3d995ead87b5972ebf"
+    },
+    {
+      "id": "531450f47f1552468691b50f5e495e0c2b5df9459c7c64a03901761ca1971f16",
+      "text": "- you often need to write a lot of wrapper code to handle the differences between them.",
+      "hash": "fac7c7381d21be31a4a9046429aaf89a5f77e9a10ee33b45be0aa59b6a054c56"
+    },
+    {
+      "id": "f81e90243ddc1019813b09accdae101510e398ba98205e57f55dea477ea7a526",
+      "text": "Here's what some typical wrapper code for handling different providers looks like:",
+      "hash": "9555551849ec8aeb1dafbe48f1cf74ad3c4baf2affcf16b0523530953b0f58c8"
+    },
+    {
+      "id": "9fbc6c822631155c80093d2115e2a6bd0a95a9d18f2f7777265424048db0410a",
+      "text": "This only gets worse and worse as you add providers, especially if each provider has its own quirks and features. It makes it",
+      "hash": "479d660c19bc30e0f6f441ecbe81eae96a0ad4bb03a96da458ac51795bd87788"
+    },
+    {
+      "id": "755c2276539c90503e6101a845f3c62e0cb93c9fa603ba3b38353b140204c885",
+      "text": "especially hard to switch models",
+      "hash": "309e0b7126db6d6bd162d9c2c0533dddaf232c571c99644ed7fa8cf53b37f570"
+    },
+    {
+      "id": "e80e31119af3503527d87f0ae950c54420309adc4b3afc9d9805203b027d7618",
+      "text": "if a new model comes along - so your app can get stuck in vendor lock-in quicksand.",
+      "hash": "85693616cf1fcdfd34fad5273fbe4a97589f90d981a30c672205b2facc38b05f"
+    },
+    {
+      "id": "914954b22ce3adae67fc56e23a4a19ba4819f0e38fe0d860f979c126ee81286e",
+      "text": "Check the appendices below for an even more horrible example - streaming.",
+      "hash": "c20892a7d972b26b6ff39db85b994f83be4f0b6d8da14623b11cf36abe2837b9"
+    },
+    {
+      "id": "e1632bec2cdc1a04ff1d867c003122aaa8c4ec4ce432095e36b93194378addd6",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "d3ac8a077c2e1ffff4f2db2cd58c38bc1ccae5ce5eab9ef96d3c855b1ecaebab",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "422f95203d7ef51aec74b66a4e207b2e6ff13efa299b7d24c554fdac1916dfe5",
+      "text": "Vercel's AI SDK solves this problem by providing a",
+      "hash": "8d5bd4244ecdefd884ee042622e4ce3e05920aa3a475ab468236e7d5e10f6d5f"
+    },
+    {
+      "id": "fd03d374c6edbeda92098eadd01790fa9252d85569ad12974a27f071a2057d0e",
+      "text": "single, unified API",
+      "hash": "65e31782fe872d1f799ee8c4fe863676521f039011d0fa3190929cb034b051df"
+    },
+    {
+      "id": "d29a1407d4d50a4e201cdd4692ef40238a9d036373e00f6be005dc5d532cd356",
+      "text": "that wraps around all the major LLM providers. Here's what the same code looks like with Vercel's AI SDK:",
+      "hash": "7fb40e6488d1200664eef248a5676949d8c40e58e4a7876d525badeafa2db8d3"
+    },
+    {
+      "id": "381da28cd8faadbf437b6940e606c072bf2a0cba61a8cd4c1194408f6ef9dd15",
+      "text": "Now, we can pass in",
+      "hash": "2aa3049274e1a0d7aaf4a1dd74811df48d4666ac06878e9f77fe225fdad85e67"
+    },
+    {
+      "id": "77a844503dfd0f57ae8a376430a4e8134f3d5c1d0c375d19c119092a50a0fc86",
+      "text": "model supported by the AI SDK into",
+      "hash": "de14f8b8f22f7d7b9e2385f030c9a173b9d6531bfae2b20ea5a7c5bd4986d58e"
+    },
+    {
+      "id": "dce28eae204f871c163364a5d1d71d58175197d60b9689636ad522aed1262d34",
+      "text": ", and it'll work:",
+      "hash": "4b951b92632c74757dfd53c5a3f3837f701b11534d0654926a95abdead90b429"
+    },
+    {
+      "id": "75fe86019eb10726fc22e231a0244ba12952f59fba27e35443680db647fc18eb",
+      "text": "This makes it",
+      "hash": "e337d343b1ce7129ca1d1680522843951827ed8888c432b85d9e8ec15512a235"
+    },
+    {
+      "id": "cdb6c08f8f2a92c7d275d8ea8e782298e9ed339fd1a2e556de9d89d853b7908e",
+      "text": "much easier",
+      "hash": "db1af7a300c41996f65b29738f8a0449408e834ae0f199ab7abb6c82944d41f6"
+    },
+    {
+      "id": "259b0e80dc1a2906ee2b91c61735f66ed9eaafd346d5c3ea5cde7e751a38fe2f",
+      "text": "to switch between models",
+      "hash": "00d89330c27971c5e19f71bb0c121b0ae42553b0297887df7995a7cb7bd47799"
+    },
+    {
+      "id": "ac02447a2426cf269b07aa80750f80668b42e888d6681802c9ce8ba820b18dcd",
+      "text": "- your entire app can be built on top of the AI SDK, and you can switch models with a single line of code.",
+      "hash": "74aa0e40396032efeeae56a120417fc5be62981b3d91530f164aa2ea405dc11b"
+    },
+    {
+      "id": "e3ec6fdf81b0b3392da169fc48be1734b191dd9a5018e616a8c516153ca104c5",
+      "text": "It also means you get to",
+      "hash": "179dc727c52b1d9e61f60e7a4274331373f1cab3672bfbb90e6b18a506647ef3"
+    },
+    {
+      "id": "ace3bfcd6cd21b888615e6ffd8eebb68952f23f45595ec9f811796c534b31477",
+      "text": "learn the API once",
+      "hash": "97a50fb56915cb9fae904363d651c665d3619614d550bddc16061543121795ed"
+    },
+    {
+      "id": "1933eb604fc4cf3578d24ac573ca5ab27f5a1c4de9b37e2d9e12c1bc0daff287",
+      "text": "and use it across all your projects. This is a huge win for productivity, especially if you're building a lot of AI-powered features.",
+      "hash": "52b8591da8478aefba5e994428fff49ce1e70aefd96f1ae988123f6849e5d7d2"
+    },
+    {
+      "id": "9b546227a611f3851606a80795db383099e2506fb521e7672c87aad7d74de9be",
+      "text": "Supported Providers",
+      "hash": "cb8c85d64dbe51541b99a84788d899b0a7287f0a5d7c62b048df151a865db76b"
+    },
+    {
+      "id": "35dcbc84a511cee8c3d327e45aff40650ff460e62efb2bc8a4a537e7afda5502",
+      "text": "The AI SDK currently supports these providers, but",
+      "hash": "be029d777cf37bce9d182b9647f716f49391df4d37a6aa0b023d4f9ca8f9f046"
+    },
+    {
+      "id": "831479c5968812bc99080c0a838f71bb26ae656f8095bc5e590b1886578ce5db",
+      "text": "more are being added",
+      "hash": "82ba6b339ce18d274533ed214212b253b853ebfe6002eb9a973b8c82e9f77b47"
+    },
+    {
+      "id": "fab46ec71615d2d2c1c6b26110d8b19a64411155c299bc7cfcc6216627c9f85d",
+      "text": "all the time:",
+      "hash": "6e5501ddc1921879880f15f60e7a0d5f792b3c0704bbaed740c16392a1641abe"
+    },
+    {
+      "id": "85dbb39cfade2e2bd789216a46b646a77e6c400dd6f9e58c2384d1ecfb9659fd",
+      "text": "Provider",
+      "hash": "472590ae974d4c1f44b3780df0b152d9119f076c61bfb3e8cb6affd7889ac0a8"
+    },
+    {
+      "id": "4749a55e92505819e8f20b8c39be3c4f839552aca695730dba3fe6b9e95b72f3",
+      "text": "Models",
+      "hash": "d17d2d78d76e6a6cd13048de225e107ac73de4aa5f8914e58a0cfaa9698c373e"
+    },
+    {
+      "id": "a5113470a38cf3d0784d988a83511dc205e7e7f6181b8d304f96b2654638e80b",
+      "text": "OpenAI",
+      "hash": "8b7d1a3187ab355dc31bc683aaa71ab5ed217940c12196a9cd5f4ca984babfa4"
+    },
+    {
+      "id": "54f446396bff47e9d9132e47c2d20c3b65dec5b5b0b2c8fc3397f346a9a9c344",
+      "text": "Anthropic",
+      "hash": "744205e43529c1fc39bc4ed37dbcd1e91facc78d2a2d136bc893b023ac3c75f5"
+    },
+    {
+      "id": "22dd49c15cee0d904a9fff6c1752d53d53d0b218854f40a8472e102c1f8ab3f8",
+      "text": "Mistral",
+      "hash": "0cb39762e6f13f493bdf28ae0306901eba3b845268b0b77240363923c46efc44"
+    },
+    {
+      "id": "6c37948c29b79fd2964246f4e0ee6d1985593a8bcdc51c5ed03db0e407e6022f",
+      "text": "Google Generative AI",
+      "hash": "d2b7b3e4a144032c48b1af5e7772be01b3a1346de1c7872f42b6e46284751eb4"
+    },
+    {
+      "id": "6b71a3cf66ecbba478832e7e23448574736709b271e5bedc8780a800208cb86d",
+      "text": "Google Vertex",
+      "hash": "151092ae5cca827cfcc3faf34eeec7ff4a17613bbddd4784e52bee23a1b22530"
+    },
+    {
+      "id": "f54b2ef2b487996e259b9a780a3d64c0c17cd73470f30c0bddd19040015e729d",
+      "text": "xAI Grok",
+      "hash": "6e84114ba8be4411d3ca7b9cc2b820cb4096c3475061a6e9b6acb7d56d3a6709"
+    },
+    {
+      "id": "1676221b799b395ca1ec9e72bc29dbaa97ce06913aca66c04d044976156c30ee",
+      "text": "Groq",
+      "hash": "493727d6225ff1b2dce35ffe6ce86dfea1756c70f1baf0753b53fb378c27fab9"
+    },
+    {
+      "id": "474b3a3c32d341ee24afff803d9b3515bc7267949470f2d0c7f13b4df0a4c98a",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "aec127cb704cf2088dfa828f1d3bce1c9cba232483b579182ece972b76774261",
+      "text": "An Even More Horrible Example",
+      "hash": "3ce634fccb2695a6e719c4fcf8b7461f7f7c773207963087714898c30f01f48b"
+    },
+    {
+      "id": "0f8dcc2d111c7aa9639f2d7067e38a0cab3ec6bce56bba6507f9fb072120dba4",
+      "text": "Here's another example of the differences between providers: streaming completions. OpenAI's streaming responses look like this:",
+      "hash": "7e784ffdaebca88e3e373f6168e5204664625390d8f56c0c5516fda504cdce1b"
+    },
+    {
+      "id": "8a242e814b5d8c45b6edee1a167df964d7c4635b715d5242c7d683635d7a7468",
+      "text": "But Anthropic's look like this:",
+      "hash": "0e9974e86609497fc9f89e745844bb2d5380784aa344bc15c05cfb180cd2401b"
+    },
+    {
+      "id": "3a1cb5dd732f1d24e15ab01f72deaeafdd95fea0de2560a76b1138df6134f323",
+      "text": "Instead, with Vercel's AI SDK, you can just do this:",
+      "hash": "88aee5d00ba122044cfb2a91fc4e2ef04499cdd10a8cbbcf6b73a3f6211ecd02"
+    },
+    {
+      "id": "9d4dbf0427f74ce78f8858d476a18e04bb388cdb634bcb3f7ff563f38bd576e6",
+      "text": "Fabulous.",
+      "hash": "76f813c53ca622e7eb57d6162a51adf59964a67e968b42ab7f9659baacd13e51"
+    },
+    {
+      "id": "df3df38ea5c31a357ded59d274b01f3a74b138184b2d3a5c4de0389c1c5612e7",
+      "text": "Links",
+      "hash": "9024c197d84940e47ff6aa631b7711c4cbff4e7fb2fe1a574a3592b662983a0d"
+    },
+    {
+      "id": "72d739dbd75f7496aeff3404b2c8c0231e98fc27c9ab0201bccc4048adf0283b",
+      "text": "OpenAI's Node SDK",
+      "hash": "b188747663afe940ba3960f66ce9bd5c419160b4ad885abc8ab539b6a43617eb"
+    },
+    {
+      "id": "6c990498c40758d774f175ea73dc14ec7fae4e4d393895f174a7fc2b51381323",
+      "text": "Anthropic's Node SDK",
+      "hash": "b1a1b6cae9d82a05cd75a6a6850f8c1483f9dec312eba2344ba28a43198d8275"
+    },
+    {
+      "id": "71308ecb813dab390353790c32085100be516f9dd26c0fb0fcd5a6a8a6c1c45c",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "bef6fcae570bc9b01fac525f71a15f6e743bc9fb8dd28fb019071e6b5345dc3e",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "2ee49ae595eb8d98c5e56ec677b6539b4d634dc3887378f0f4bb7538ede0f11e",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "6ec71df274cba895c33c674903ad74d23fecbea509ae4769b4994c3b3c7663ee",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "04b25c33e8064c6d1c1a82a362866b682dc32126c77c6f33a79f484604e03a70",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "cfe576434f13f633ee4b90a640efa64dd67dc2ba40c67defa986fc7bdc5ea98f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "1e7b4a188b0e568b1e09052c1e4d40c69592a2be6e27f8d63c19c420a9fc4d0b",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "d21a85e86d9175edb0aa7feddff0cbf3cdad7e45bd731da263c395341760b84c",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "25b33c9338e690e6d5ce24cb161087053e2658c06bc199c37706ec661977a40e",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "25923e73cd4a217c4e4012bfde8ed2b62aee94c1387a41cad56f63339cb1753c",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "7cd0e7bebc79aaf60484ca02111ebe7a4d921aa0c52ed138541ad022f11dcbb6",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "7beeb4427144a1916f9bd346d5b57ccb6dd089ec0964786196141bb3e362c0be",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "cc0a9bbe5cf48259efb69c91409a16ff1fa78fd43e1b26ca498312e7a4281483",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "552e428aa0a9177af1f6db222bea950c2faeeae5787de060a678bf995868a6a6",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "e55b316d3d62fd6e08c898c80402c2e6e91565a79b04cc084a9dcb9f8b9736b9",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "b76bc524dc3e7f07411770bd8b9b4117ba15b60c140a75cadc4c7d96d15d87c8",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "39ecd1c224cafbe27bce870e21ad962b2fcb2029475551e5a7f0cd4f5e50f7a0",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "389ce7ebbc2538f72b1debfcfdbe380f1a1bea85f8369d873ff7e48b84f926da",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "918d0be1372b71f4231a3cf218e5ba96d6b76448acb7a1f1aec858ade3c7aed5",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "3ff256cbb358d9e967267f24d16d8e6e8faf1e530164f0edde83367f2b935a11",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "dda7753df42cfbbad369c9af54ce9b5f0271b370e9cdbacc0c8b7d2f9e2792cc",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "fb2bf30845e064bf707b61ed81471d35cd198b508d463b176ea60687693c4535",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "daca9d15ed2f6131f997d58bd9805cb251bc2507a422502a9aefc0293bc87e1e",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "356ae19150402d996f4fd310eb3c10d9623235b153965f8f324725d3a1092b8e",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "06f718c28fa7552a199ac09347d7b06376f9444bb8952adc89b5435368bdf82c",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"4tzhfgwnt779xj\"",
+  "lastModified": null
+}

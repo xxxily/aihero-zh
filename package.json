@@ -1,0 +1,38 @@
+{
+  "name": "aihero-zh",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Maintainable community Chinese translation layer for aihero.dev",
+  "scripts": {
+    "start": "node src/server.mjs",
+    "dev": "node --watch src/server.mjs",
+    "sync": "node scripts/sync-source.mjs",
+    "sync-pages": "node scripts/sync-pages.mjs",
+    "update": "node scripts/update-all.mjs",
+    "check-updates": "node scripts/check-updates.mjs",
+    "extract-vendor-translations": "node scripts/extract-vendor-translations.mjs",
+    "build-source": "node scripts/build-source-from-cache.mjs",
+    "build-translations": "node scripts/build-translations.mjs",
+    "translation-queue": "node scripts/translation-queue.mjs",
+    "translation-import": "node scripts/import-primary-batch.mjs",
+    "translation-rebuild-primary": "node scripts/rebuild-primary.mjs",
+    "translation-quality": "node scripts/check-translation-quality.mjs",
+    "translation-quality:strict": "node scripts/check-translation-quality.mjs --strict",
+    "translate:all": "node scripts/translate-with-model.mjs --mode=translate",
+    "translate:memory": "node scripts/translate-memory.mjs",
+    "translate:review": "node scripts/translate-with-model.mjs --mode=review",
+    "vendor:update": "node scripts/update-vendor.mjs",
+    "verify": "npm run translation-quality:strict && npm test",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "acorn": "^8.15.0",
+    "acorn-walk": "^8.3.4",
+    "fastest-levenshtein": "^1.0.16",
+    "linkedom": "^0.18.12"
+  }
+}

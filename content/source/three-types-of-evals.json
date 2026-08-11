@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/three-types-of-evals",
+  "pathname": "/three-types-of-evals",
+  "fetchedAt": "2026-08-11T06:28:25.018Z",
+  "title": "The Three Types Of Evals",
+  "contentHash": "e978b81eea50a61cd7ae1e9a7e60e357b4f87fa11e5788ae29ca41429072fac2",
+  "textHash": "22dec59107ebd78edb6132d8e34860a8c4455ce37fe48efbbe719fc5735ad319",
+  "strings": [
+    {
+      "id": "860d8e6a6fb47153211b4fbd582955b91be701a570a9d33c4275f176b50703dd",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "b675b32adeaf43b8e37fc519c13d047433317dd9a6e2c6608695de3bee8a5d30",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "c6d7f116f45bbd461c7fffcdd53e494292b0a76084a78afa0d779edb111bdb5a",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "dd093499827e6485396f4657b3d901922a8b689c2956a410f761bc26d77ebc97",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "96c659afe05fdd549598b9b8e5569709f00b20ce1f116eea1b087db5a17030bd",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "3c9bdf186adadca516fc19bc186383b1d8528cbcc4d5daaf979bd2ee2f680b73",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "86925fe408587fcce0ab4604f19b4e70343e00e8a22ed2803912a8f15badd89f",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "6c48c1996f43ea126c5c3901b40b4b99727f0a3026ccd4d9f039f16970ed40cd",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "319003f6cacb9c827f0da25f3f8ad69cfaab5eb30d156b85fffa1cde2179b035",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "6cf402af3ad31a59ec60ebd6bda38f58437a3ee85f15ef93a0b7b20be6a006d2",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "72d7b2fa7c7c4ab498d15c1d7e298ded8f45a275bb1f329d935056b94c491f54",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "62bf503551cb903cbf93c865f436389b1f97284f7266dd1787f7b9a0e5d64178",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "cda16764e934983f31e4fd046118c7690e74be71d0a6a8c2e896b6982c316a34",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b67e973fc93f50b5ba56f846276fc12477e3e39c5ab588a5b4ef5138cba044e2",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e49ab4c5c38c34fb30d1ad0ada5ab8828d0dbe4a59694b1b5b3d67382f41e982",
+      "text": "The Three Types Of Evals",
+      "hash": "b9ba2c6b9d4ca4819cb17d0220a690bd440da3c53378ea0bdcf54f44ce5eccbe"
+    },
+    {
+      "id": "37704315805112c2128dcab89acf01f41e79ce107824f22865db8792dc93efbb",
+      "text": "Learn about deterministic evals, human feedback, and LLM-as-a-judge.",
+      "hash": "96aebdaea42b06e0919938bdef617a10450b869ecbde6db1bce3b13148c0b65f"
+    },
+    {
+      "id": "811b13ea68abb9ccf717378284895e84697d7e7c83a89217aa3bc939830c4aa5",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "5d123731283758e21de842e95cebb1002a8911029c35d266698baef6c7a50c6e",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "3c335ee33db75ff9f691e8c3b9d7c0b957c6f9fe3b36c513fb6f5055f0bfe13f",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "091840f4387e8c74176b274de0769a34f34c6a8af6e72c5f39f99a71a9d10738",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "bded33fad5574960ab92e621d137a6fa801a6da8cbc67366583f42c947b4f4cc",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "9ba956944e4d24a996017335dc9a0a2269478ebab9fecba20dd92a3beffe44f0",
+      "text": "Deterministic Evals",
+      "hash": "ddbfd76057afa8fb206a1cb033ce8530c3f7a9054f8e6ff8958047d270f65b37"
+    },
+    {
+      "id": "ade622b0780899ac059b12eff06f98931e944cc1635e7156812a7710e7732409",
+      "text": "LLM-as-a-Judge",
+      "hash": "631a7d1620448d00463f18badf1ecbec9e1852c0f9139385406d6145a0ac3786"
+    },
+    {
+      "id": "c43bcece61defef1919e5074005e595ba558e4ccc8d59c8c799224cbddc044b6",
+      "text": "Human Feedback",
+      "hash": "95ac34789bda4660412458f3a7fcd656943a45d667cf4457f3f7b2fabd5cc3d9"
+    },
+    {
+      "id": "4bbb6a71718d220406c5059b693553cee61ab3273b58b616c72928db6a2ba06b",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "5439314dcf35f834d5b0811e403ebed91ee4bb8fc81435ee6eb6280d0b022ccf",
+      "text": "Deterministic evals are evals that return a pass/fail result. They seek to extract determinism from a probabilistic system.",
+      "hash": "b20e94cd8145e80ef26b4a4f193d656bd43e817bccab3cebfe99460f5858ccca"
+    },
+    {
+      "id": "9b2d6e8c00c7b00202ab80a9ee3febdd5f0734fa1ba483eeb1be6f5371cdd990",
+      "text": "They are the \"most useful kind of eval\" according to",
+      "hash": "f0b75db21d8eb476a7200ecd1ba7e9a210cea3d1886241348456507dfab4a9b6"
+    },
+    {
+      "id": "53171709262bd91411365cf803b9f1c09066d9cac5658247eb25c0902fa77e84",
+      "text": "Ian Webster",
+      "hash": "48e1505c46dfb2107e1a820fadab2a25dec333843ea58b8065509a28dd5327a1"
+    },
+    {
+      "id": "56286b3b1e22a76444c9b1e9bcbbf7e2f05430096266852e2b103cfa97de4207",
+      "text": ". These evals should be fast, and developer focused.",
+      "hash": "3518a6e3d7e7c255257d0c233e2a3659cf1c14846c96418ba10e7453f5243e88"
+    },
+    {
+      "id": "a993e73f720f165371e560b2eafe946ea9be4b3801d4ebd5d7c79b767afeead5",
+      "text": "A brilliant example is from Discord's",
+      "hash": "4a4375974156b128db5cb68d47c8d9d74e82897ac1f1fb9f190a0174aca0589f"
+    },
+    {
+      "id": "5a7faa856e76242c520d0f162b3186db96b695d44d8112ca96139592573e608d",
+      "text": ", where they checked that their AI bot, Clyde, always replied with a lowercase letter at the beginning of its messages. This meant that their bot was imitating the behavior of a Gen-Z user.",
+      "hash": "a9d2bc33ad4f3550b2c5374e65c14ec7b3a6c0221ae3246ecbac103ea361b930"
+    },
+    {
+      "id": "5ab2f5ce9d13b1e1d83144d5c0a682043211a891f42d6c887abdcc5d03919ce7",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "b023439992615b6130f86e6353c44420d5dea99bed88650cfaf37b589e21e2a7",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "93624c831a26dd0b77845e2e8346e6fb460f4499c291e19035ed5abf8bf036e8",
+      "text": "Some evaluations can be done via LLM's.",
+      "hash": "93bffac40995ef26912cc1c48486f8d8eecc72421b33202d784114106026230d"
+    },
+    {
+      "id": "ec9c54465e4d2b9d9b1439112cbf06eba92b6feaef668e3569d496aa6692c231",
+      "text": "templates are a good example of various types of these evals.",
+      "hash": "7c319523fbfded445ec2ebdd41bd1c26a9b1d9d42aeedecdc1ce60c505f11c13"
+    },
+    {
+      "id": "0515701d8541777ada3628313cc0ee3da36c9d69b89fcc2ee7fe8dad22cc809a",
+      "text": "Humor",
+      "hash": "8a590611f49c89d56e80d6b409a1151477120d8e8acadac4ab343e640fdd15e5"
+    },
+    {
+      "id": "886b44fb33ef5c56912d15c7d83927ac03c6bf15499cde02bf4bb2d6b06f7316",
+      "text": "judges if something is funny.",
+      "hash": "2d22b32f48c3d6f224c7b18aeafdfbe0e6f9e0bbcc8b5321cad50d3ce2d2ea44"
+    },
+    {
+      "id": "22b2ec96797cf63f0ddef4ce2f490e55c88f593f2dbd1ba2873765a13637a81c",
+      "text": "Battle",
+      "hash": "1b18ebbc3f490c845c2ebeca8853fcc82daefc66068eb984a445f8b1b7068438"
+    },
+    {
+      "id": "522f4bda563e87067b3e434cfd8a1d421b6f3c5b337844a8e03bd5b0fa0f3963",
+      "text": "compares two responses to find which one is better.",
+      "hash": "65bdc80e158d857b9f76c20b250cb6e4a7d751f6bb68e9b018318980c3bdfc62"
+    },
+    {
+      "id": "97dd1a695c7fc6f97f37d5567179aea66a1c27c503e550376ecf567008cfa10f",
+      "text": "You can even use LLM's to check factuality, by providing a ground truth statement to check the response against.",
+      "hash": "f4ef8ce73fd83f3e7126df70d780e1d1ef7b3c117ab255b6d24b1d257deb3623"
+    },
+    {
+      "id": "142e2f7a382cc234fa326c2a0ae484591fd2c368187846ea78834520345f9ac9",
+      "text": "Failing a LLM-as-a-judge evaluator is often a good indicator that a human should take a look. So, it's more like a smoke test than a real test (personal opinion).",
+      "hash": "b03803a6f2fcf910bd9c7548204cc23dff6048dff18c21b927c13192123c018d"
+    },
+    {
+      "id": "db50bc7e470fd925f6024416b44485753696d52e5759e7220b6402a5bd4fd23c",
+      "text": "Some evals can only be usefully evaluated by humans. These involve long-form text generation and certain types of factuality.",
+      "hash": "22b0f0da1ec38a422a7364c33ae27487a95a54e578e7c32b4c5cd79c8ef79d96"
+    },
+    {
+      "id": "595152ddc77e959b56e8f86b69855b6225a0d719e2511b2894dba8b7c5e94c99",
+      "text": "Human oversight is needed for any type of LLM app.",
+      "hash": "69e43c6e1e37b49c8b669c7ffd932ad3dce5810ff811fd30f97d7c06873ed3ba"
+    },
+    {
+      "id": "3daaf52b33adbc8ae1333249be3fc819b244ffa4d7e464c1a974c2181e731502",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "02b8f64483bd2c032ea5381712abe8035f5157877085de5866477cb9277823eb",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "c95bec66da693bff5f141c27e5e5f106303ed324c8fd80b561b2951b66de1b93",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "5dab2b4fffe0f27adddead304bb73de4a396b99b6454c1ca7314a7bb783ae134",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "4e5f20d52678b5124ad3457f301c4c213237f32e60f15bed549136f4ad2a81ad",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "5d70f4a3bea1260356059f28bb727e3d8e9afe42d673f6d18b807d63800b7a90",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "0e1a28968c0f117d4e07a0c0129b78f51213a4ec6a3d4b7837296e3932cec7c3",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "c023b5c1a3b0cf8c3685ea384cfd37eda73d6b43f5a1dc4f689ceefa08db4079",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "0872156feeb9ded91eba798b5ebab61b93d68ba449f0b314c37655bc2c432293",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "0191ca9b0fbf524ceb42fdbc57d013631849c24d33f97f7cd9b8d4bc75c0b9dc",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "cfbef257103f504bc731eaba921d57512245e06773d427923271761a33282785",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "b879a5611edee978bfec1ea9629e52497626401839488c8dc1812b99dbe988c8",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "3ed9eabe655a3073325b9ee23c655b6d6da3eac3eae7e59a2aa7a7e6384c0591",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "a5d3df42f530060510e5ce5f2d5d06b60a4edda9f0f1aed74d76448940b6b6fc",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "7d7f9c04e097ec10e886680da999f558243e783895e4c8d90f7b190e4e13a890",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8c069e1691674337452b1a78b4c9dca2f5d4d5d75bd186a1bf54f56e5510f395",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "154d556b8b68cdcf582e93ffa8a10e5d7552cff08da244bbe5f1de1d2e127437",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "564edc2945cdf4c04f96db706e67a524342d890167b2a10288c8ddd90bb12bf2",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "dd6ce13f31e9c53041b90e1a07553e430340ca2d153d23f1e72c0c4745e33b89",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "bcd5498afe1845c9d69fa3abe4cb0105cedef6f21a2abfb0fb31152dbde1f12c",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "ba59ce497e62e33e0314d53f0c12d422528d10c901690ca5572f3fa99cd88b0c",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "13de928c678076ef040b3b0112cc961dadcd30fdd178d653dbd080b6b104f28c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "67f9f5e38321608f1a687eee7dfc0eadd414ce3579072c2c15357e2722226ee0",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "050334f55902b9e68a8e34ea2323041531a97539987d87265fd5caba6ebdd5c3",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "10b0e631f6993c1a5f5d83483c1bcc20ea2b4c34828bc0b988059a816d2ae9be",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"yz3hbngdci53w3\"",
+  "lastModified": null
+}

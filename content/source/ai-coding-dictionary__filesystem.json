@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/filesystem",
+  "pathname": "/ai-coding-dictionary/filesystem",
+  "fetchedAt": "2026-08-11T06:28:34.270Z",
+  "title": "Filesystem | AI Coding Dictionary",
+  "contentHash": "783c232981562d55db8a6c7f0b542f9c5f8c4114e82d8b8401f7f5d7938168d2",
+  "textHash": "012a6d4c63a64ef81f641ef1d99e1dc69057b3a73705efe014ed317978375f6a",
+  "strings": [
+    {
+      "id": "f4b6368ec09936c576a4aef35b17d9728bd56e47ea4231cb2e396d3e8cfac431",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "f3e940e1c520448e956d6b41719a13e4133172b405cd4c163140a06e4caedae0",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "cc074a839cb6cded891683c252f43ea99914e8b01a2e519b21909a779c024329",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "16dc64cf635d063a4460db0f46b53a1c1c2b91c29fc430bc1d9cf36745ff67a2",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "c6c71bb691ef246b25cbd3cae89a7fd03b5a803bd1af4b8ff3b3592cc156952c",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "8beb9fa7f67021ed17a6f6765c207a6d8d7084656dd785aac941348c72d34015",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "a915e853a52212a6c0899f5883658bf630b3ece0a6ae8ea014e1534cd4b717a0",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "06d233469a4e3ddc933a4f6d91468dd48210ddd971cfb83c8868cf5e4bb88e14",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "949ce911ab4ee2059071cab6706bb14edfc69c3b2a178143a28d924c34afec61",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "a88f247c2765bf4f69d5ccdf8dca6bcb8fdffda5a2cb9ac3fdb7d6104f68bb82",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f9da9aef29462dd4c8957f9e69d1210b7f57e605096a2015be5b170dd2d1c97c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "68fcf4c08f8cae67ae59196401b5caae73d2cd6ea3d86886a22b5e01536f6c95",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "1e3ae28bdc4e9c94d7b8602877c32682e5d5967908003de928dea5a67c0daafa",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "3a0bdf4f91e0d9917a182a9eca6fce6e8fe2e202908cabe5278c580b2f82a67a",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "0300bd2faa2c8516b2afaae063460ea5135a62e5073534d67db71717615fcf01",
+      "text": "Tools & Environment",
+      "hash": "cf9194302814cf2bb2ae04f0e1023fec3d18acdc5258a0e00c18bb7df366cf00"
+    },
+    {
+      "id": "c261761db94be78c74dc09cb1f7d88e0cc3bf893f9e96521c626533e550f0db6",
+      "text": "Filesystem",
+      "hash": "8230c68a6158c8ba8c1b7d5b8e0557be9564e129e15806f60dc2205a9ca5bfe7"
+    },
+    {
+      "id": "829dda3e7285816fc5ee8439857b2db44dfff9bab3bd245904780ccde4bc89c0",
+      "text": "A tree of files and directories the agent reads from, writes to, and executes within — the default environment for a coding agent.",
+      "hash": "37020af223f0586d2a5a3ab33f55c4a0dccf939268a99f20a7dbc7c23a1ec726"
+    },
+    {
+      "id": "cdea85d2adb0a6dfc7dab5296b38714bb1e1c2f20d8e7c1294f0971e9315bb4c",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "10bf707220bda70e9fe8e7520e10cc5e56f18cd40d86578d419070329e053e6c",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "c605af2ab22ec81b77fdf418594bd9b54a6ec791711d5f8bce0e26973bc5bbf2",
+      "text": "A tree of files and directories the",
+      "hash": "4d748e391922888f550fd9b237a1589416b5537cbf87ca181ca446d6b0a0c082"
+    },
+    {
+      "id": "227193c5941c930e2c846ee4149022309a8a2940ac5809a88f2cd770315fbf85",
+      "text": "reads from, writes to, and executes within — the default kind of",
+      "hash": "f3f45f6ae9b259f039713a89ca4e99df779ac37f64846755f02f729629d5f0ef"
+    },
+    {
+      "id": "691b9b15503961bb30126e7fbb6aa86a996bc5e4c5128f3718a98781cad068c3",
+      "text": "for a coding agent.",
+      "hash": "39f41820e560ddf80dcb34a527846cab455f2a763ac9c55cecadb480d3461324"
+    },
+    {
+      "id": "ef6b2248b76bc2b804a6290fedc8673fa7766ac15b3365fde387bd0625a6e45c",
+      "text": ", source code, build scripts, and",
+      "hash": "0b7359adcb3873c11c555d961606c46b0b9c318e7638cf53998e242f3c6ebfc8"
+    },
+    {
+      "id": "9c4ba654dd13d60b80953a64eae5e96be54c8ef010abecb3011ad4d09a5a85af",
+      "text": "configs all live in a filesystem. When a",
+      "hash": "be152154d725bcf89f568b3daadff1020498a0f681e8562a0f91b43f3175421b"
+    },
+    {
+      "id": "4537c4ced8f2e1dbde9e49011b85c63fd057b95852de01f564e0a28d6be13724",
+      "text": "\"starts in your project,\" it's pointing the agent at a filesystem.",
+      "hash": "4350682b6079162aa8eafdfba6bf329ec85326604ba7a6cff1a9ef008b6992c4"
+    },
+    {
+      "id": "829fdcbb7b230bf96e98fca43861a92163b186b48ddcaef0161066439c787e62",
+      "text": "The agent touches it only through",
+      "hash": "39bc7f456f7ddaff8e3e4a9e298f00ee9a1d97ae3e576e9208925c04feb1a817"
+    },
+    {
+      "id": "f3889fb224c5ef3e98310c1fea687a4380ad7cfe4d6bf7a6ff183ade0632d0a0",
+      "text": "tool calls",
+      "hash": "b102cdc6032df9ca67169a6d620fba86a9b0344b8dab71565a5b230deadb5e68"
+    },
+    {
+      "id": "dd2f02c536d41ab0f6dbaa5464ddcaf99926c3b34579e0de7933fb7a0625d6f4",
+      "text": "— reading a file, writing one, running a shell command. Nothing on disk is in the",
+      "hash": "4a2666cd7b617dda3175078ab7573b90a710d841aba4b6e7dd108b9d7f0d1012"
+    },
+    {
+      "id": "97df8d6c6e6f413e2f5ef4aef41f7f7358ec61ff454fe40ae557056a5a1e4f81",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "b9704910c8cbc12c10453c46a2fc2f5098aa88fcf17a22cf4f32b92822dd64f8",
+      "text": "until a tool call loads it, which is what lets the agent work in a repository far larger than the window: the filesystem holds everything, the context holds only what the current task has read. Some harnesses do load the current directory's filenames into the context window by default — not the contents, just the tree — which act as",
+      "hash": "08a33d96d559981b1d4abd7e8733286d262239c22f9b1a299ed5a704b5d91bf5"
+    },
+    {
+      "id": "61c1a89631043fc73f48bc98cfa04e55c96d9106c3dfaa84114490aa8a021d87",
+      "text": "context pointers",
+      "hash": "82528bbf7c9c348f2db59980c707a48c7c85c4ea3d7f7f63f107a209445930c8"
+    },
+    {
+      "id": "59da8b5cdaa91360d92568d516064484304e245d96a6c4d826e39ab226f92c10",
+      "text": ": the agent sees what exists and reads the files it needs.",
+      "hash": "51b0978f7abb2cff42bdacc230dec450f80d992e75954373e609c1e57cfba405"
+    },
+    {
+      "id": "55e2dce753385e8852b608d13d50245b4257b996fc373d4bbd534dea20fe268f",
+      "text": "And it's shared with you. The files the agent edits are the same ones you open in your editor and diff in git — the filesystem is the common workspace where you review what the agent did.",
+      "hash": "b10ba8ae8c5cb9fceb491ab0eab1e57f0b05c00b7eb66217f1289de77e78476b"
+    },
+    {
+      "id": "d2d17dd0ff3de4d4c7b6677d554c7c688ebe4825aaa37445cad2cde87c0825ea",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "e8284c8ac2675566224610a55b8b79084efeaf62bdc64acb48ea8ec351e38575",
+      "text": "\"Why isn't it picking up my AGENTS.md?\"",
+      "hash": "4b50682c7343e1a3c85f53c2f07269e66f931058e58d42f0e0fd60557eb688c8"
+    },
+    {
+      "id": "8e7ce65d6eb3fa5857748157837eb4c935fbf3c86f155f3d0f86e5c004c1ab6b",
+      "text": "\"It's running against a different filesystem — the",
+      "hash": "e76fe580552f067c2a2f835b1c756f1de95bab16ffa2919e73f9d4d4fb018ec4"
+    },
+    {
+      "id": "80e67a55dfe222c4d747bf5c7fe79ba38bc0b7bf641045436c3fda1f7deaaf8e",
+      "text": "mounted the parent dir, not the project root. Repoint the harness.\"",
+      "hash": "7832c1536b063420ba84564294d33431403c69b8a2b662c06b582282ce9e89d5"
+    },
+    {
+      "id": "a5d2ae625a208b3d3c39f5b221ae6740aa404fe3a6011b7eb072405b113ac583",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "1c0a9e906d03d6ea9744413085ff6705b15f72d71ef1bc12deba49be03e86186",
+      "text": "Environment",
+      "hash": "9e471951a1b4106e54be128a21112b02914fe98cc79b2c92b49ee80c5464487c"
+    },
+    {
+      "id": "108fad4c945c935379a4d2a2ddefb3d97923cc678ddef7e62cbbc74fb6ebe003",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "42ffc05321c3371af635ba4436a316b90e07018c1b8aff1b9358d45bc081cffc",
+      "text": "Tool",
+      "hash": "2e53bdcd0740867b597599e733c04a994f55fb17c89a61595183a001742e5705"
+    },
+    {
+      "id": "1764d0570aa24e856c1b672a0626c5ec2e0fc6a9dac7b5104b203cd45afbbd2b",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "676d7972f453be9129f75f376ec9117dfb9e4518ae5ce029078ab0532dd5f62d",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "5d70c4d96b90415179e4a8d6d677c90300b716720152d6eac884a627c491895f",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "1a266632e8920fe964ebdfd69ad2dcb7c8fd91eca0eccd5245aad4264a1ded50",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "6af939175db2d4b4c56272faff0af3a50254ccf41b0253f0eaf416e93772b11d",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "c642c9021b3ca4e33275baeb43e472fc4d92ce82b9b7fa61e0a0b55150eb0fb1",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "3b3f8b68a8018305aa0d1627a5ccc6b0e6f27b8555090cf50cdc4ae532c266f6",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "35c178c2772389fc8a37a28c363b80e62d71e109e51db8c3cfbd6019d9549538",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "fcc82d446f77d1b6a681c491ced72b82b4d6f55cac05cc86d7364cebdcd39cd3",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "e749ed12b2028dbcd70550f84e44f98770f209f63dbc75500b68e4c93e1eaaf7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "503aa92f2efcef0359a257bcb083cef621babf10c252aa5b0cfe4a74f6780e93",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "cb492ae0a36b4b50692998ad33370216a018af4b74033733c18feb7a5ee7fef6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "aee160c3ddf855e49cfbf726c361f541d8fd46cf16fdc5e3bfbe747ca6ee132e",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "5e4a483e0b4dbb77e6f5e101b5c33817a619979fb840fe723ca7ae77139244c2",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "929a0964645ef33578a2b9be22a9017ec29d89fef0b9797422bb660fadc66ede",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "6f3a5f919fed337da00416cea9491916c59c8edc961fc5796582ef5d29f1a55a",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8b5be659f9077130fe1b7879db41829e88b2d0697615a845a74a41bcbedf1d79",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "2ca910844b96b8a09ea53977daff51aaef93e7ce4434e74c28d2ea1dd0acca22",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "3cd30fdc844565bc3977ec48d8aed7fd3b97a872b5236b0a7e38c85977ee4fcb",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "9fb21683718462af9a16e5ed2b0427a62943ff0ae948e9b678e117e27148da98",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "c43615566b2e8ea770e47be3840ec407b8124737b0379db0ef7c16af063fde97",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a8ce4ab3689243eb2f63678b95ef75a036912a0a897036e90526cdefc76059f8",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "e6ec9e4be5ee61a30d1031fcf1e3b852900165f72b9a5d5f10b839318c5c6550",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "3b63c6d9886d540d3b5f44ef589443c04af23165fcb9b627e27b57d9538bad58",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "b108f02e5cdae49a6f1a590604676109fc80c7b966486ac53ac852306a00711b",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "7a9170ac459c0f34d5607605c4be8eb337c567d0613594de7d03be8ff270a498",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"gncb492s3o4qed\"",
+  "lastModified": null
+}

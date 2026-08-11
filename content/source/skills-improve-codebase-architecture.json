@@ -1,0 +1,983 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-improve-codebase-architecture",
+  "pathname": "/skills-improve-codebase-architecture",
+  "fetchedAt": "2026-08-11T06:28:09.435Z",
+  "title": "The /improve-codebase-architecture Skill",
+  "contentHash": "cf22e607d690b06446deaab8d24d95f5406ea3277655b7eddfae03a79df51d14",
+  "textHash": "a9daefd53c6ad6cc518db7a71bf0e15d904072290fc8aa96ac0bfdfa76508332",
+  "strings": [
+    {
+      "id": "9badb61a6f5058cce1533101b6082598abdcbd9fbfc7713d880f8ee6446a2589",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "ac23b580914f65eb324f63869f9c9a6bccbf9a1abc60fd1f5e1de7b21bd5af77",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "fdb791ff0b9b506cabcc663956ca705dc206d63884854d59ef400285cbc0e142",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "ed4a0eb7f5115dd1275846a7ed554cb359a80acc4be423b3e43b4434298a10e0",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "7db3bd99fdbbfe46d89fdc0933c246166271038b4ffcc807c9b0a70b71a1a1c8",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "6a6a56423283cb9408a31cadc8b5addc197ec3de89cb493b30c9a99968aeab5c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b7aa4c080d3b43716e345cdb49bc59e718c8062204a0e341643a73ba415e3854",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b9688f023e4843b22c60a5bc7d391f3f4788508f0cca44ffa8c04c41ef98abbe",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "3444a9e67c18aa1f4d83a580221abc18cc9310538a022a0d49847aa0717b65f7",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "63fc5f7cca54b10715d3979b8b1f188a85c78f0651a0df4ac524ad96674e1e11",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "4ee8197bc5b66ba25eb99c1fb05add67c9921cea1292148bf805b6915a7daa74",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "62f41c5218d96eab9e60fbe5e6985553a3634b396bf383bc3972d90abea8d3ff",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "1d5d9f3fc864ba930029c0a2af083ca388621ef2e7d175b04326d3b28a46f04c",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "6d5319e1657a96cb2720fad804f836965c5413c471688a7d54bd87e9c66d1c9c",
+      "text": "The /improve-codebase-architecture Skill",
+      "hash": "1d2feca177f8d2a2229e95a3f013777630bd379b24ca132a89d1c87623d2d722"
+    },
+    {
+      "id": "7b97e38058eb403ed82b8b6885c42a8205ceba753961709044961324e2c5927f",
+      "text": "The /diagnosing-bugs Skill",
+      "hash": "82d22e5c3f7a145e0c607c7003a935a563d1e107a030000f3aa33cbcb8f1f676"
+    },
+    {
+      "id": "fc2c87049187eafdb3a2aba16a772f62e0026ab6d01519d81b99853eb8d0b129",
+      "text": "The /resolving-merge-conflicts Skill",
+      "hash": "503c1d265cd640ce24d1252efc32c21add9fc91cd0c40a7ecf7af547a1f28fd0"
+    },
+    {
+      "id": "d971263219a801e507cbed6e61ddabea5ffd3c27ea5f84c345e9e4a7e6f114fc",
+      "text": "The /triage Skill",
+      "hash": "28ca8c73ddb7e7f15619f62dd65f987942e6e4a625b9bcc743e938d3322893ef"
+    },
+    {
+      "id": "07c37d0f52ccb0b35a51a034bd0ec818ea8915aca3f19e3a3d3edb10542ad6fa",
+      "text": "The /wizard Skill",
+      "hash": "dc2a9dfb2e7aafb5b920a374d3edfadca9df74126313b2f8bbd9533e45a3805a"
+    },
+    {
+      "id": "146c66ff70f185f9e4ffa903e12b693936ae754ce5f3388525de219be1c659f7",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "a2385bd49295159d6e7bf536cc7d9a8856f10dab6963a112516d1f921660616e",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "d70187f4cfd36a1ea5e60079ac222a81197c69dc93b40b96852dac3b0a9d23aa",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "703c3590bf99d05b4195e7a2c164aac24a7a1950c05ca3c85d387cd05ed93b3c",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "3a9dc3e53cf91cc409e8c739558b34dbbabee40e82de92e4438ab50a11cffbc1",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "80d7753a12f18cd4b27ab07824714d014f3890a5ff224a17e358f25638b4585a",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "3ba907b0a93219753e733ad0d335fe3af9ea1648038fc5cae0d6f6951d8a3685",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "e8a5c3fac14e76643443347bed213b35b5baafdc14a11d15f1439d2a113f5292",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "bb665049696c4e4953278b03cc426c1ef2ad9d2dc09b62cd78a227ee89dd8d69",
+      "text": "11 / 25",
+      "hash": "980871ebce5abe0aabd60fefe735d8c5f61e900e87c8bf79c313368a901c71be"
+    },
+    {
+      "id": "a1b8a605ae538880cc7fb77a8024697818b11d26f3e83c9bdd52a6b6f5aeea51",
+      "text": "AI Skills for Real Engineers · 9 min read",
+      "hash": "1bc3add9114cd43052231f1a226921808bb9b8dee191ce4eddeb65078509f15b"
+    },
+    {
+      "id": "db9db9a59f31bd685255ee977b7b7e6c2601edd4132f69d14a7af87938149ed9",
+      "text": "Find the modules worth refactoring, as a visual report.",
+      "hash": "e68f7f37b834194faceb91a5decd54e183228e21ce907c7fc6f4f1957d2b0885"
+    },
+    {
+      "id": "c56097466b6c10da3a5a6022768fe71161d40e155ecc6eea6a8d32fdd5490da1",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "6e3276b105dc64088d90ebaa56e873037f3dd95cef6ec9a5c10ccd4bc1000ac4",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "63f52b1fd347c29679bf1153c8ae99ebbe42bbed0372b826709c9f6c449ee56e",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "6f29cee69fba5cf7e8370669169984f47f64d750c3549632c3fbdab13e863bca",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "d9436e91e92bab480b5c1e1edb93cb7ba25fc91ece9d626c3aabf00ff4ab13b7",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "086d289b44735b0f0e8d48b2bdb667d9d2a8d7a2d47e4954b995bbee7d4e9f23",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "f777522ce851d534f1ce700531effbf1857f77078a4a7cdee6063568bfed87fb",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "c51651c2b90e4aed72fb0e210b599f8aac7b19ec346daa8a9cbabde2c856f2c3",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "66594092c8be83f4baf18931c20a20cd070a2145d5d26a1ec057456487e2ebd9",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "5f26488a7076bd41136473413fccb400dd32c5ceee0d2270c28acbae2d3bc78a",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "d2cd519a77aa165b04fbd26ef5f5a42197aeccf2b0fb9b8cff71478a1daf5f84",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "d0cb85679f72448334ecc0e96daa567d53f3db60d79d32e13b5b23dcd83e4b60",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "7d6ecd164d5866c6e397a9cb72f683ccc76baba803bd27cd981b59bc53280501",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "9a9d7b8c1bf1790265d84698c8fd6df80b8c84dc35db46210d4a1a216e690f55",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "d0134c42dd103cbc59d20a09640400e25edaa8dac9d743c979714995cf0922cc",
+      "text": "Depth, and the report that hunts for it",
+      "hash": "a5bb0c102701636488907fd096eeb07ec092542348495bb33042a49057d8df7c"
+    },
+    {
+      "id": "88db9f7465dc48948cb06623062093e144de4305aaabe122a5a653cb4680096b",
+      "text": "What happens after you pick one",
+      "hash": "e1bfe744b7e7c7f7c4adbe4e362204df3f058fde8a108984a8e6d74f8b1409fd"
+    },
+    {
+      "id": "c9929475714a67e32b7591e62b3c325c35a3ddca4f6a6f0a9a92adbfd526811f",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "89be6868c5306149db893a69531acb724c5c30be7052d326ac1cd34c20ee79a5",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "491aa6ae4ad6e526d8d294ea95cc12ad3e3189cbda5ca9b786373691924c7a7b",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "647500832dfd63f4275340ac0e46bb276eda99e9acaa2041242a297ffdb36755",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "1cf79fc51d3a7c4b76646c3fa1195397c15d96aea5e34c309d75e5284a3bf02e",
+      "text": "surveys a codebase for",
+      "hash": "332584327925922e0db8e6e07b9f6a02a6d8ebfe2d28ca6e77f2a19532f4468a"
+    },
+    {
+      "id": "d7a052f16287e7db43325b59f408320583bbf1b6af9139bfd171d5ca28c1cf69",
+      "text": "deepening opportunities",
+      "hash": "58588fa5b2a131dec54986a42fc4b7ebb4081d437e593874dba1a06584cdd977"
+    },
+    {
+      "id": "4c0d92112ee46bd62e890e9c1e9815751fe0ef3f208d21ca78a39a8e5ffe0f3b",
+      "text": "— places where a shallow module (an interface nearly as complex as the thing it hides) could become a deep one — writes them up as a self-contained HTML report, and then",
+      "hash": "217d44c38c8c87a4f09848f77aa1716b7f6cb6b8e84bb6bc7d756d2ccf33ee18"
+    },
+    {
+      "id": "f10ca1f94cb51f905b730a49ca5e26c9209feed49a3b440b40250623ef000582",
+      "text": "you through whichever one you pick.",
+      "hash": "d51086a6cebb828de72a4a5c27350961792d60a827f15113ff1719d1e495e0db"
+    },
+    {
+      "id": "32d49db36e77e119fd4000f6eeea2e5cd38ee27c34fc18e7894fbeaa2d92258b",
+      "text": "It never changes the code. The whole run produces one HTML file in your OS temp directory and a conversation; the refactor itself happens later, in a separate",
+      "hash": "853c0bb3b6781cd872329c6881011624979435fb1d8c45bccf43388bd8bde08e"
+    },
+    {
+      "id": "ffd0de67151b8652d5dbb4d7bac9af2ce8102f96cc3ac6017ce3d0a5158be964",
+      "text": ", through the normal build flow. That is what makes it a survey rather than a refactoring tool, and it is why the skill is worth running on a codebase you are not ready to touch yet.",
+      "hash": "5444651eec4a2298585803280dbe6ef8406469f394766edfcd703319f179d8ad"
+    },
+    {
+      "id": "33d16a6d29e41563b7d1075e73cc7f0bfc8098e0d554ec5acbfa2c5916818222",
+      "text": "Two filters keep the report from becoming generic cleanup advice. Every candidate has to pass the",
+      "hash": "5670575ee904bdec137e43d78ca6f69ab36f3924d74c7d81dfb624237aa54087"
+    },
+    {
+      "id": "b093aad13862c98b96c18e7b055de4c0524f206a9015dce35d721b9f4e2f4fd6",
+      "text": "deletion test",
+      "hash": "fa8e2488b56f37fb45e02e5ed68ad868e19762ea6342b0e5beef37edd8dd5d40"
+    },
+    {
+      "id": "553050b297a441d52ef68bb4f77aa51ab9ed6b284227b912c1f700587b1a2903",
+      "text": "— would removing this module concentrate complexity behind a smaller interface, or just spread it across callers? Only the \"concentrates\" cases earn a card. And unless you point it at a specific area, it reads recent commit history first and biases the scan toward paths that are actively changing, on the grounds that a deepening in code nobody touches is a refactor you will never cash in.",
+      "hash": "b3664990f5b9688b135687bccff56c9ed96f1ec5e9ffd6f8e83aa378dedd1403"
+    },
+    {
+      "id": "a064701ba44e4f0fb718327457663948c159216b43eeb65b2c0674920b373b03",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "30aaf65783034c1aade5f123cd5d35378d511dca8471dde491cea5a4eb9d9503",
+      "text": "— the",
+      "hash": "4b4c2edaae377e0f86cfdaebcd2d63a27f6438259b3bb97065b79332660fe2d1"
+    },
+    {
+      "id": "24435f947bdfd8191a43799da0da74c6ed7f5508049c26d3bab48cd83dba9b94",
+      "text": "will not reach for it on its own.",
+      "hash": "2b0628d03a5bfc07855168d79609c8a5fec2176a2eef339a8de37432bd5d1181"
+    },
+    {
+      "id": "202f4b65847f2c00d92d39868c23a9c028c7e5157db11aa02e01586491de9c4f",
+      "text": "It sits outside the build loop — it is not a step in the main loop but something you run periodically to queue up more work to improve the codebase. The four situations it gets used in:",
+      "hash": "ace083c93574e3ad6835dc13c1ef687c90dc414c99598a324edbe7bd65955702"
+    },
+    {
+      "id": "4792c2ff9cd81dc3c7b1162b8700526d2bdee1122f4ceca7db598ad4b80494e8",
+      "text": "Situation",
+      "hash": "b3aeeb32a0c7c5d45b6e955370301ca1c8d271eaabafaf9125e371ef28984223"
+    },
+    {
+      "id": "f3a58406479a01088bbfd4b03690c99e8fa377020cecf3eb01499ff5fc0946a3",
+      "text": "How it is used",
+      "hash": "4f91d01bded5a14e34a92d42091beaeaefdfa6a22f66ec47921c0a435875cef6"
+    },
+    {
+      "id": "7a8de46cd83c157506a18495b53bfaf2e3605c15d51a73f24c02b1daec279a04",
+      "text": "Routine upkeep",
+      "hash": "fa6e565ff306bc251f67c6af05ba69fb8b3e50172779114dee90f531ed9f70ff"
+    },
+    {
+      "id": "457ce4b68c04aad6c224f072d7f7d1b5e85ace16e6e4360bf8ff78245365f988",
+      "text": "Run it every few days, or whenever a spare moment appears, to stop structure rotting between features.",
+      "hash": "bd1e62c97f74ea9e05abd343525f597dd274cf113eb0867ff1dcf12f214b3560"
+    },
+    {
+      "id": "5b4d73ddb8bcc05b259b5da67e0e7864c9888451515fd31631fa5147e598ea57",
+      "text": "Before a big build",
+      "hash": "8e44f412b4c31235a92d3e46781aa758c01969e68da90959918c7d2b47af4709"
+    },
+    {
+      "id": "1622c87a41b81469db151d661a9c20278d9edc06a74ac88c33551ae63f22f64c",
+      "text": "Point it at the",
+      "hash": "70a92043a2d79dcec47ed7804f436d19083142c715fb6a766fc412e1ce8ec693"
+    },
+    {
+      "id": "d19fba83249ba70a7b382b6949ad4aa1e2538c851ccf3f103d965d543e4b900b",
+      "text": ": \"how can we make this change easy?\" This is the most effective prompt for it.",
+      "hash": "56de8ee8d3933d1349e61bfe14e439c95e95fb78093e21f9aebfeacea1f26053"
+    },
+    {
+      "id": "a773de530b5fc8847278fe2b28156cb942bd3edc602f21460a53eb06ddb20df2",
+      "text": "Brownfield audit",
+      "hash": "9068f955a32df0949431e816c81feaa1703d3943e67d4897c95eb2f12c6eaade"
+    },
+    {
+      "id": "67584ffb9d8f47aa4d0d32e89e5e0a02cc7754a7d821f9abd714ed7965564da1",
+      "text": "Run it on a large, unstructured or",
+      "hash": "60fa0459cdd82c6af23190dd7844e81410c43c0ad91d081c93ce9e1b0a2c1f0a"
+    },
+    {
+      "id": "6074263065815e37feb10d00dc5a31fe72b0eb88f5648673979b65c0aca8a010",
+      "text": "repo to find out what shape it is actually in.",
+      "hash": "be36c99f81f2d1b2f838e971852f662578c8ed3c28201ae6f07921bef7691645"
+    },
+    {
+      "id": "2896132ddd45dda3d2d6e5954689bc6abdc5039554ee6553cd5bcd21a11e9aa7",
+      "text": "Legacy test work",
+      "hash": "b54062e41ca944f89973e9bb53cc6a3759dc88e66aee05fc625991ef65032d66"
+    },
+    {
+      "id": "e5cb988a8034e2bef1cbd5704bff875fa51b07a6bf422774b698e4b42d7ca93a",
+      "text": "Use it to find the missing seams first, before writing tests against untestable code.",
+      "hash": "29304bd252f0fb56d19d6d02745038313d5e36fd8f1b7292511ad987b2a9fdff"
+    },
+    {
+      "id": "f1d9d2d2485e8e2671214610aaf325bb33dd384c4d9760f3c1d0a9b6cb3f2498",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "0b16645c65dfbb064238b81f9bd01791a9a36df511dd379f07cf0ecfc4ad4a6b",
+      "text": "Where it is confusable with siblings:",
+      "hash": "fd005b2578275d7b1965afb1f5440d4720e31e6443ebbe7a1c88ec8651bed9d2"
+    },
+    {
+      "id": "d1deebe494981882e3862c7b28e8bb452678e75c5ecd361719c6cd5c441b5ae0",
+      "text": "For designing one module you have already chosen, use",
+      "hash": "394a65e89b0075a1eaee47a7dd5913d7c597e5752d4aef3d3ab7346a674e4748"
+    },
+    {
+      "id": "918f90a562a562ea56fcd2ee43d26dba2432018299748acb2a44215c599769f4",
+      "text": "— that is the bench, this is the survey that finds what to put on it.",
+      "hash": "b4b9698d46c14b4d2a4075a96efdbd4acd030a3252cdfbf1c47585a01d956ddb"
+    },
+    {
+      "id": "77de938616af50384e0c339c19105a1015ede8bead95b168802f23a2152cb89c",
+      "text": "For a whole effort too big to hold in one session, use",
+      "hash": "a0a7d21f551cde01a95657ce58f613ae1369f2ceee52295f31eee8312cb58f87"
+    },
+    {
+      "id": "f55ff646d02ed4afc0019c80c996a154fde02bc794c70ccf2be08495a4d046a2",
+      "text": "For \"this specific thing is broken,\" use",
+      "hash": "831c2f66e84a33dbe4a542c542d7b418137f60d7007869a37249dad60499847a"
+    },
+    {
+      "id": "686a1594e015b7b5323ae0ea69d3ed27d59899ad3803eb14b883d355b3e6863e",
+      "text": ". It hands back here when the real finding is that there is no good seam to lock the bug down.",
+      "hash": "d5743a3829b2be2879cf1ce92dd451a15ce0a68fb24a33073b447a194e7df19c"
+    },
+    {
+      "id": "1e591f43f3ceb5b0834ae9a71b3645b6bd8116ca4b680ef05f570a024f2e870e",
+      "text": "None to run it. It reads",
+      "hash": "57c4e453061a794490b2883beb3ebeb178cb9c01b340803f0b0effab3408a874"
+    },
+    {
+      "id": "2e1d6e7e7ac2aba438bcdf7ffeefb8a967ce452ac97fa3b892f0b869bef48383",
+      "text": "and any ADRs in",
+      "hash": "183ea0a092a8566e7598f46339952e49883bf29eb3ab71912bf266d22bd2d53f"
+    },
+    {
+      "id": "56adb51bba27a298fdf9790b9efca943d70fca2d76fb57c89d185619f3a7a938",
+      "text": "if they exist, and speaks in your domain's own nouns when they do — a candidate reads as \"deepen the Order intake module,\" not \"refactor the FooBarHandler.\"",
+      "hash": "dfbabfdee74a2b89041841c95b80ad582a2f1653e420163f5122041408421ee6"
+    },
+    {
+      "id": "79b80e026134bd5c4e6baf56daf543b39dbced55a562558fdbf6b11cfaf9b419",
+      "text": "It writes in two places. The report goes to",
+      "hash": "123505aac0990c4841cbe3af795faa91ac915744e578c66db0ffcf8619c7b41d"
+    },
+    {
+      "id": "aa76b154d47d64b170f0fbce8c2e0d185ed05aee3f110a2669b844046bde0f55",
+      "text": ", outside the repo. During the",
+      "hash": "69976775ca18a411b36badaf56deba0e56eaa2aa33ea823597b621463f6d0dc8"
+    },
+    {
+      "id": "ded5f63b4f42f20bb71476d35a826a966255ad45c06cd079f23e0455b4e96d43",
+      "text": "loop it will add or sharpen terms in",
+      "hash": "ecb01f7f4904c64cc9d37cba343fc19ec93ea4c342fb266a5582d04b1024b664"
+    },
+    {
+      "id": "30f40f60772c0c7f45920b2f31e1bda95aa249cd26b61b45ce96f68dd615c15d",
+      "text": ", creating that file if it does not exist, and offer to record a rejected candidate as an ADR so a future run does not re-suggest it.",
+      "hash": "fb7acdb64415139c763897701c98eafcfe07793c420723f5488d91d90e8da6ed"
+    },
+    {
+      "id": "13319bf994f0743c9010ad6e241b29e0f71d1b13a7f038c143547498540b0ed7",
+      "text": "The skill turns on one idea:",
+      "hash": "879164c8a18a1d6af464699a6b231b4fc5c17d095cddadf5dbe7feedc2edf1fc"
+    },
+    {
+      "id": "3ac508c32ce1ab40ccb6fa44baed3113a295f1024ce254de6b921af7738e4ce5",
+      "text": ". A deep module puts a lot of behaviour behind a small, stable interface. A shallow one leaks its implementation through an interface nearly as wide as the code beneath it. The report is a hunt for shallowness — pure functions extracted only for testability while the real bugs live in how they are called (no",
+      "hash": "9cc45b051caad4bd2b78481f05d6b420df2835fd7d6cebe3ec565d76673213e9"
+    },
+    {
+      "id": "0c4f6ee680c236ba529e85431e0b2ad36c3dad880636fa76e6803e7cbece0255",
+      "text": "), modules leaking across their",
+      "hash": "7442804f20741e33b830a0fbc7bded68ed65392634874a497c8fd6531ef13fbc"
+    },
+    {
+      "id": "9a6341c018908724e599a7823c6d12807cb0bdc04c72c489ce12159a164d1392",
+      "text": ", a concept you cannot understand without opening five files — and a proposal for the deepening that fixes it.",
+      "hash": "de1057ae167797f07044264ec8a65c8b5fa1f4cb3113d96b927e69626b68a5bd"
+    },
+    {
+      "id": "a90a75de972dc27025e80015bf7d6ed66eb966dc038d8781d5fd121ec8a49dc8",
+      "text": "Each candidate is a card: the files involved, the friction, a plain-English solution, the benefit stated in terms of",
+      "hash": "9084e26975026adb8b80c7154be5f2b1fb1666e95db1aec273fcd64e3f37e5e0"
+    },
+    {
+      "id": "b0677a818cf627f56c4e9d5e690283862e9f5ebd9ade4f925799f28d188e12d1",
+      "text": ", a before/after diagram, and a strength badge.",
+      "hash": "a4829b95d356e9de0f41f279044b628b26b0d2e61393d23742d4b95afd8e2e82"
+    },
+    {
+      "id": "05e6764375af7d05a347b6f954b73f46db564fa916a1218bff1492882b59dd88",
+      "text": "Badge",
+      "hash": "002474e368210827e5f71950ba7cb0b2cafa82d71b047c356f46d37dd276a5f3"
+    },
+    {
+      "id": "10f75b7b2da4e3b0e2e1e7ecf1f33d8c9218fe612e6537ab276529a2f0a3a434",
+      "text": "What it means for you",
+      "hash": "0549a4ea3fa0b0e55d2553f3685ce26fa3cb670a7361ec92144f5e19a50075d3"
+    },
+    {
+      "id": "f7b6090f53fb2d402cc22e9b8ffa405edb6b4e43db68e55bea57b78cf2b249c9",
+      "text": "The deletion test passes clearly and the friction is real. Take these seriously.",
+      "hash": "4ffa533fd8e4e032c133ae6d417ea76c278bf233c7c2506a1525f6a2090c002f"
+    },
+    {
+      "id": "4fc3f63ea0e77d17caaca84a1f60f6a2b6d6eb909561c487992fa73fa88b0383",
+      "text": "Plausible deepening, but the payoff depends on where the code is going next.",
+      "hash": "377e4877bb91d01ccf00ffe9b913ce90f5a15f40af846619a358172f7a15dd2b"
+    },
+    {
+      "id": "3e75e804bef8edd7161ca89b6a5eb3dbec39b5a819b975d894a0316780ac50ef",
+      "text": "Surfaced for completeness. Most of these are safe to ignore.",
+      "hash": "2d7cf7c38140e170fc4f9a2dc4a5206a5b097e3c9ec55412001dc77f0994ef6a"
+    },
+    {
+      "id": "fa33dd54aeca6bfa3a309058d90e929a2ddb98acb740b466edbd65896f63f48e",
+      "text": "The report ends with a",
+      "hash": "0beb3a140d96e9b37983c9a229e033abea25f75072d91409eb41f97f69bd0120"
+    },
+    {
+      "id": "79b098eab741980109bf890598569660d5e66a3e7d577005542de72d57a1efbe",
+      "text": "Top recommendation",
+      "hash": "b14e1c8b2e2511651643f32e9cade76bc1a6b0e1a04b38eb1405f624c1758278"
+    },
+    {
+      "id": "82d44d34d1e434c586a973096d733b6777a9dd1c4c6513288624d2c4f3f04a9f",
+      "text": "— the one it would tackle first — and then the skill stops and asks which candidate you want to explore. Nothing has been decided at that point, and no code has moved.",
+      "hash": "1746f1be80029ecd492802d3cd6ca0900f945ca5cbbe5f8a70cb3c473252f567"
+    },
+    {
+      "id": "3ada94508177e47fa1d75cc2030b5f477005c3a42f9e07d032a9932b86f393bc",
+      "text": "Picking a candidate starts a",
+      "hash": "6fc9adeda3f8eb832c89e391486a8fc930c0c59e5e092618bef53335eb1b8955"
+    },
+    {
+      "id": "6bdfbca3529a27cd19202ca9948589576000e06546fd988ab9ba5e4b8635909b",
+      "text": "session over it: constraints, what sits behind the seam, which tests survive, what the deepened interface should look like. The output of that session is a decision, not a diff. From there the normal flow applies — take the decision into",
+      "hash": "f12bad4e6344a9ef0eb9b2a11ce9d7c067135f39d5bf958107992846eb1d088b"
+    },
+    {
+      "id": "831906d0250b5f0f08bd6b7df89149f4c307c844853cf7689357509c15692417",
+      "text": ", then",
+      "hash": "aae687415b64628689a47f7a9d38150eb22a0a82d1e615ef8ede3a603a1d0b4b"
+    },
+    {
+      "id": "b3ece1a656e8d7d88142c675693c1e9a3617f4743d43f7c8f350fe414a24f444",
+      "text": "It grilled me for an hour about one idea instead of showing me options. Can I turn that off?",
+      "hash": "806035604f2b06e7f1148aafc1b2a628e54b78bfdeddf20e4cd76e29313e60d3"
+    },
+    {
+      "id": "b92e4313c4ab1a31290ddf02d256a78397fcf101532055a5179fbac0526b8344",
+      "text": "Yes — say so when you invoke it (\"don't grill me, just show the report\"). This is the loudest complaint the skill has. One user put it bluntly: they liked it as \"a convenient way to get a thorough analysis of improvements,\" and after the grilling loop was added found it \"borderline unusable,\" reporting sessions where it proposed a single solution and then asked \"10's or 100's of questions.\" The design intent is that the report comes first and the grill only starts on a candidate you chose, but weaker",
+      "hash": "1cabb7f17b60d6c15122bd64f27fefb81ffc52850dfc6cba03be3d90d3d170cf"
+    },
+    {
+      "id": "11cf2a4cc6efaefedc0353c38dfdcd635cdfac5034763b200f8d6160b26fccc4",
+      "text": "skip straight to interviewing you about the first idea they had. Reports in that thread vary sharply by model, and it is an open issue — the skill does not yet have a documented no-grill mode.",
+      "hash": "7a6354166f97d786104eb4395df81c6177330907400ed6d19cb093b3e853af22"
+    },
+    {
+      "id": "6410167e215671a9aab61769097bb43bd06dfa5cdb1668b4d03c38eb8d5c3fd9",
+      "text": "The report opened as unstyled raw HTML with no diagrams. What happened?",
+      "hash": "289cfe70546929648ffbaed317df6a3244dbe4c2448167564dcbc532f9dacd4d"
+    },
+    {
+      "id": "a4e76c38686c3aaa57b204fb0100c54d37bb099f22f0f17dd23df7346ec53172",
+      "text": "The report loads Tailwind and Mermaid from CDNs, so it needs network access when you open it, and it breaks silently when something blocks those scripts. The filed case was a security hook demanding SRI hashes: the agent added them, the CDN served different bytes to the browser than to the",
+      "hash": "edbd0f309af1bdd917f9c23402cd4531909b4499c11f5ab5da34317c805c9d14"
+    },
+    {
+      "id": "2e99fad5ee1e73c61ddf003aaf6ef0f1311eb9b3fc116c6ed9d58abefed01dcc",
+      "text": "used to compute the hash, and the browser blocked the script. Offline and locked-down environments hit the same wall. The agent cannot see this, because it never renders the page. The workaround is to ask for inline CSS and hand-built SVG diagrams instead of the CDN scaffold. This is an open issue and a real rough edge.",
+      "hash": "84f86423c062bc92d5a28ed57ba7834d061be5371519ea1078188deb7a96c89d"
+    },
+    {
+      "id": "ae37f2b5ef414b4f85f190e17b0c17f20f288fc12e949d44b89e2566db906573",
+      "text": "It gave me twelve candidates. Do I work through them in the same session or start a new one?",
+      "hash": "17e6fae5b344b22697f1e93ec456ffd030a31f68a706b1dfbe1645c44880f4c3"
+    },
+    {
+      "id": "5891eae79e4eb4585e1fd96ec63a43a1d98cb5da18b093bb7418d5ccedeafebb",
+      "text": "One candidate per session. Working through several in one conversation fills the",
+      "hash": "32f35eeb23ad37c661b6f478cea9b238a52c6c99837b84776a8d2edeac946602"
+    },
+    {
+      "id": "33fc1b35017484babb57982858356072a7990694450a32891f4b8360b4292ee8",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "9e1f1fee7aeaf31375798d5fd9506ea330b4196fc39ef0dac5ef40d495761ffd",
+      "text": "with the report, the grilling, the domain-model edits and the code changes all at once. The report only lives in a temp file, so carry the candidate itself rather than the file: pick one, grill it, take the decision into",
+      "hash": "9c95dd6a2835932028b926a2c1c8f36b634fe0ee2f6c024edabe7cefe08321b9"
+    },
+    {
+      "id": "3db9b969549fd292371d240371f37d86e22409734669404b60f1a14ff8f1a5db",
+      "text": ", and turn the rest into",
+      "hash": "6df28e1aa4dbe4219c23c3065bf3add457f3abb80d8e326aa0ecf92d0c36cb1a"
+    },
+    {
+      "id": "7c8e3e2be2bc2995be5091d40a49a9d2accfc9241296a7cc0b1d104e559a17fe",
+      "text": "you can pick up independently later. Put the chosen improvement into a spec rather than going straight to implementation. This is a recurring question with no documented workflow in the skill itself.",
+      "hash": "06aa041862777880e0c47bf454990e6e699d23639ce6d6f4e1d3cb987e556ef6"
+    },
+    {
+      "id": "a58b93af8a50ebc1f7ca3a87d6260424c628f4044da044dbb2307b3ecff1eabb",
+      "text": "How should I prompt it?",
+      "hash": "ac158524ce914d214e01ceb201873aae23a42c0241a134a152aed4fa38986ed9"
+    },
+    {
+      "id": "535e67579608ff1d17d400f50f31178589503b5608692f04307f8c02ed940fbb",
+      "text": "With the next thing you are building in mind. Where a big build is coming up, point it at the spec and ask \"how can we make this change easy?\" An unprompted run scans for hot spots on its own, which is fine for routine upkeep, but naming a direction is what makes the report actionable.",
+      "hash": "6c39a1315fba0edab8eaf702bf5c07619a04244fb1cef05e21c1ce695f74dfe1"
+    },
+    {
+      "id": "6bd5add4b07c0e6fb8ea95e68592342909da57b647be3d110d18f83daeee2dd8",
+      "text": "Does it work on a large legacy codebase?",
+      "hash": "080377dbf67852d5d29c49bc0c04efb6a63f85a22d6a12b8010115f87d5ccb2c"
+    },
+    {
+      "id": "65b19ef4112fc55f0e609957d2512e8390a958fde4f2e65d8976ddf981669537",
+      "text": "Partly. It is strong on big existing codebases lacking consistent structure, and it is the recommended upkeep mechanism after any one-time structural setup. The honest counterweight: users with genuinely out-of-control projects report it \"helped a little but still doesn't seem to cut it,\" and one developer with an eight-year legacy codebase reported the model going in circles where the same skill produces a clean graph on a tidy repo. There is no dedicated",
+      "hash": "1151d5b1168248d6850f077eb0c7808352271ec12d2c8b004763428bd1cf8d7f"
+    },
+    {
+      "id": "3af270514562f3ab2942d9956779559fd6d97f22fbb491993b913553ea3c4d59",
+      "text": "skill for that case yet. If the codebase has no shared vocabulary at all,",
+      "hash": "37f78efb81c74c13e1acbf1c58a19a06aec7bba5fbde8b92fd31e1bbcb67970e"
+    },
+    {
+      "id": "a237f56eec58e8fb4dc2424f0b51bfa921d99d0f42860a4b1808fda0d0505e7d",
+      "text": "to establish one first tends to make this skill's output much better.",
+      "hash": "bd8426a427ffde0d0a11a7bd79e9ae4ae2ff92eb5f4e20a6fa4075b57316aa88"
+    },
+    {
+      "id": "2add1af48640c99eeabc80ba9f5ff6820df3fbc4a02d71625a25aebaea326693",
+      "text": "How is this different from",
+      "hash": "3ed8af41383905ef9b243e63f1463f9db81138a3cfed74320028eb1219e73868"
+    },
+    {
+      "id": "fff5d1887682b8fb9765c8af89410b470085919a2ef78c75c7d72cbc9d1ab933",
+      "text": "is a reference, not a session driver. It supplies the vocabulary — module, interface, depth, seam, adapter, leverage, locality — and this skill borrows it. Pointing a fresh agent at",
+      "hash": "0d814b64fc10f7945773a486e821c30b23d206564c310e6a2f134fd42ff2fbff"
+    },
+    {
+      "id": "311eb94bfe69ed1a4af1420dc87b0d9729276f007d9aefd9524031dbf6e74f62",
+      "text": "as the thing to \"do\" is a known failure: with no process of its own to follow, the agent invents one, re-explores code and runs for a very long time before asking you anything. Drive with this skill; consume that one.",
+      "hash": "6a32134ac2050ede82f8dea196acf4f9dae31959533d55ebc8491530408d3c07"
+    },
+    {
+      "id": "0d3d7c202fbb6880dd778d85a031a020b4a29c30cd38fcba1da1afc053c1284f",
+      "text": "Will it ever tell me the codebase is fine?",
+      "hash": "35ce9b75d179b7bacd95c9db042c8070d5f1bd320f210c725cfec02dfe738f0c"
+    },
+    {
+      "id": "9834c99cd90781d5aef8ef77d61e7bb3304333ae7331afa138f7f3b3123ab5b0",
+      "text": "Rarely, and you should know that going in. The skill is built to output findings, so the framing pushes it toward producing candidates rather than concluding that nothing is wrong. The strength badges are the defence — a report where everything is",
+      "hash": "5ecf63238a7b8a6df205979e330d1d30899091dbbe349b45e5a8d7eee4c385e3"
+    },
+    {
+      "id": "7f26b8cbd12b2f5e048cfed0193510e4626c8c01546e4f1efdc50b2117452135",
+      "text": "is the skill telling you it found nothing, in the only way it knows how.",
+      "hash": "be9ee5f424d21c54335b392bda8eb11c9d3e82e9d2091e53579301ec25f80236"
+    },
+    {
+      "id": "d2f8ce51534b98dcedc15e02b92018e1395a08eb9be4bbe7997a3a0a3f38f1b0",
+      "text": "Does it work in Codex or another harness?",
+      "hash": "a798f73987368bda6e4173226bc7ef378fa2d6187e22c091999af583c24d8e77"
+    },
+    {
+      "id": "49062d706dc640d8dbca791bc317cf5cc80ce76ed42cd93fe260292445234b19",
+      "text": "Partially. The exploration step names Claude Code's",
+      "hash": "af7d15eb051a13bb41bd4d8bf1c3e6f915cbf62541bccd56e2f1809ccd2ab3cf"
+    },
+    {
+      "id": "a548ba7f0ba38a67b89ea93893e564cefa5c976c46989865c90108f85a0d655b",
+      "text": "tool with",
+      "hash": "fb2cc6287a60f7386194cda68b95da7d05771ea309c82e1512b454b0f3b3187d"
+    },
+    {
+      "id": "a35007a1f59c8ded4179ca31b05d58b4fcc44b5a311adb1e1ebe400afa08a90d",
+      "text": "directly, so a",
+      "hash": "f0c1b2a55b67ca2e8869ba8f3f28b4200e5afdccb1ad842fff09364909ee562c"
+    },
+    {
+      "id": "fc8da2cb16f6d68f72d0dd1ca0c0b00301386079e27cb60aa78ea2e0b5495213",
+      "text": "without that tool may skip the parallel exploration rather than substitute its own. The skill still runs; the scan is just less thorough. A harness-neutral rewrite has been proposed but is not merged.",
+      "hash": "394ac98531c86d48cfcd5b8ad4d221c0d7da74009904c30dbe3f366e33a88abc"
+    },
+    {
+      "id": "e708d045abe6f152ce9b952d2a40fd3251625cdf29a317c2c1dd8219e4bcd309",
+      "text": "How do I actually implement deep modules in TypeScript?",
+      "hash": "afc7b1cbef5f620754ba34f8e40e4f34160aa94d5bd60b4d131cd9e02428f38f"
+    },
+    {
+      "id": "ac5b44e1365f09191a073a2757a011f69c7c9cf7fb9f6afab2c4f172e6142a87",
+      "text": "There is no good answer shipped with the skill. The recurring request is for a",
+      "hash": "97ca3b8388a848dc7eefac3a278e977b077b93a50b5633fe8a2da3f26631f5de"
+    },
+    {
+      "id": "b4d58874cbf1479646415dd64b6c71039779528fa33730f464be81acc37ace89",
+      "text": "giving concrete file and module layouts for the principles, and it does not exist. The skill will tell you where a deepening belongs and what should sit behind the seam; translating that into a package or directory structure is currently on you.",
+      "hash": "7701e2c5d2a832831e1978d0bc432d9727cdd270183bc46275ca48e608978346"
+    },
+    {
+      "id": "bbcec0ea6891b2324addfada01213e06a25d4698887ef5dae7f9b0224ddb0637",
+      "text": "The candidates name your domain's concepts, not invented class names — \"the Order intake module,\" not \"the FooBarHandler.\"",
+      "hash": "a1ae4a6a5866ad10ae8b462bcd50d5c2fb24aef64faeefee0e36d08c5f081d7b"
+    },
+    {
+      "id": "7bd12d0e4b115291a6fb60d44fbf7f65ec7e697e8024fbb184368bf6c5a61001",
+      "text": "The candidates cluster in files you have edited recently, not in dormant corners of the repo.",
+      "hash": "c3bdeb2bd5bc8bee884350acf90639e0c048b996dd4cd63de133a1c4c3541346"
+    },
+    {
+      "id": "3a77b39f17716364104660b75f0dd7ac6caa4fb98777b364911cf5b20c0d745e",
+      "text": "No code changed during the run. The only new file is the HTML report in your temp directory.",
+      "hash": "b4fe5120f8bd1bbef150c83b0e84d87841bda577bf5c83cb9d661de3c6f5bbb3"
+    },
+    {
+      "id": "ea2563b650df9b8c7a46ebd8275c2ecd51206d07bb78e8cdd047ee3a49f2edb7",
+      "text": "It stops after the report and asks which candidate you want, rather than continuing on its own.",
+      "hash": "ff6e687a638616cb9a1c4584432046c8e6a81ed4f4d7c5fb2174101fbcbf9622"
+    },
+    {
+      "id": "506fb1d06e7f0e0c2e72672e16bb9777839f6c0ce0df817dbc5b5922e0253c8d",
+      "text": "Each card explains the payoff as locality or leverage, and says which tests get simpler — not just \"this is cleaner.\"",
+      "hash": "33870a729af62fc73ff4bd729d63c5187030800f62e006e10deba7280dcd6b99"
+    },
+    {
+      "id": "80531cd2bd8bf3f432cbf744518f02689221461d0c1dcc3d50ecec7647908c98",
+      "text": "Rejecting a candidate for a durable reason gets you an offer to record an ADR, so the next run does not re-suggest it.",
+      "hash": "cddbd4d775bcb8a52cb7fd2b4537df3baecccabb6f5d4a42397bfe63fa5db670"
+    },
+    {
+      "id": "2b7716c1f7e8d26d04cf37a80be2e3d60253eb3f871641c37208d4f6c7cc208c",
+      "text": "periodic maintenance",
+      "hash": "47c3da7fc1ae9ef244d56f9bf9302c4eb72148c9d7d439d9fdfdacbb097cc60a"
+    },
+    {
+      "id": "2a95da80b5250197f8ee9c4d41e2b6df31212e0faaa1b100d62c1d72a3d988a8",
+      "text": "— run it every few days, outside any chain, to queue up work rather than to do it. Its neighbours are",
+      "hash": "dad913f2c54212dca0e4199fd6c4d4857949360740003f4195882361e2ceb9b1"
+    },
+    {
+      "id": "38ab6778f902411db017cbfa93983356bec21558a71a81f0e255d0dc2edc494f",
+      "text": ", which owns the depth-and-seam vocabulary every candidate is written in,",
+      "hash": "696b30dee86a1dd8935720cdbd8dbb3d346283ecd313c9d3d9c457ae62cf4da9"
+    },
+    {
+      "id": "ca68ed499a30f3cfc9c2d0e5e057d3d33a7d090e88a2124e0a245b4b9022b663",
+      "text": ", which walks the decision tree once you have chosen a candidate, and",
+      "hash": "1dde2c1ef0da196f36f0990e0f734e5dd3b4b1c2dfe7e988bbc6990bd09126aa"
+    },
+    {
+      "id": "950e4a081c94a75a6555eabe524e85a2960ec590e5fd92b2f10a1e889503e024",
+      "text": ", which keeps",
+      "hash": "a9cf8154864afd78844cc0aa830e52418aa9cb4863c58b8dfad4fdb834878b79"
+    },
+    {
+      "id": "ed17be2c53eb987ca826fb7403969e542bb4c1c6711fa31798ff1facc7ca92c5",
+      "text": "and the ADRs current as the decision settles. What it produces is an idea, which re-enters the main build flow at",
+      "hash": "54d2a73cf1a392d757257c9ff640311c12b7900614544aae58a941acc21ee985"
+    },
+    {
+      "id": "507e7dbaeebbe5c34dbf50b294879f61a8702fcbabb0257f230527db02363b5d",
+      "text": ". For which skill fits a situation,",
+      "hash": "0b38dbb2e89ffcbf2ad5e0e0f9f79aa5629d6912f0dae86ef246ae5cb9b176b7"
+    },
+    {
+      "id": "eb883e7df50e339dd277464aa7297f66eeaa3c0174891412b62d0eade40c2a83",
+      "text": "is the router over the whole set.",
+      "hash": "3bd09b9746065ffda859b42a8fddc427b96ccbca7380c2877a752e38c48d7670"
+    },
+    {
+      "id": "f2da5542527f8483d3d18b2dd1b1d2b436720a563a22b84d76f9f7f87235538c",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "44f7e084b29656904d13f03976737c6a3872f2d91517da749f69bd695baa0d11",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "069330af088b38a6bb8ca6f75ef0c82efb6df019e7ecc3f79c773406b5be6932",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "45d4246608e339a9126cacc01d540b37c3cf4d33f607300ac48357bd1c9d616d",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "e2b978c3f918f5c38702ba12e81b16e655d5eaa81f9cec99ba5f2078484b9999",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "1c512bd9de8b7cecf0941d6449fd9811b7b5eed187413a0385d3bd607e7a29ff",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "427b9870aa93f35ee33cb4456d10aa71044935595cd54cec55c27a9a7a69a6ef",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "f93eb4cce1c403b50424bd33222880f88e19ecfee9c00550ca5ffefb9404fbb7",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "e2d217d916091ff73811198e5445c2101d9548097338b2ba2056ce582f446eff",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "75b7da578bc99e2d2f63a5f057ccb00e5ba7932ae2ecd22ba8d7aead51f9cd12",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "ef36f4bc8061636c2b5d4def642b3e7d7db2a32464e428746de0de04a164c839",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "f5650c32cc605d69d724765fd3adaa5a8c998fa47cb0990441d1f75deb8ffd72",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "de5ccaa2c2f1676b763c470114d12bd3b37783007f2af10edb5c8ad57eb55c4b",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "c298eafe8d89f62ebd6df6e3cd72a5a49c7b4f822b2ddd178791cb46d902846e",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "dc3c6de54fe902a74ae97096875071cc9ee240a25c04df26e64d868b428ed810",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "745665fac2ca258197ec1da1c1a376c2adcc139d4c86af1a703f49955d5f3086",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "e7ecf10d2791834fd3a1d1ac5e4056879dba7bec78e1fa9013d2a0befddb0593",
+      "text": "The /research Skill",
+      "hash": "d44fca1fd1a3bf52e4677b6e3793c990ea7f8b12508f0fe03d7bc328c60ad562"
+    },
+    {
+      "id": "26d63109923adfdf137a42aaeedd79fa94669c47a50ec35a9315506d7433ef56",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "eab40e2c845d6a4ccb1130e5759a734f6f7851b5e23cbd061fb053c6713f0156",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "4a6586c6de560c949aae1b6d16ccbe660b707797b3790505fd3b29821ead59b1",
+      "text": "Skill · 8 min read",
+      "hash": "8cd38e76c0cc03067bbb33f0f69804d982d39b3c33de124fb20669cbb60b3889"
+    },
+    {
+      "id": "58cfafe0e59f24b2bda8e8bc1733aea59da07b8bc0cafae1cf1763a366f00983",
+      "text": "The /tdd Skill",
+      "hash": "c37d71d36e49748d5850616b6cddf4ce32b9eb909f487b9e1b5fcddc163ac66e"
+    },
+    {
+      "id": "432958f61ce825718c5adf411baca4d1c4fb3c60ceb220a0ca9662c234ee9f75",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "bd600613b4728d2837a8c35ab11a0f85ea9b45b8091ea41cd73cb734c1654e1e",
+      "text": "My Skill Makes Claude Code GREAT At TDD",
+      "hash": "11975d24aa6419408b2c63b9b0a6903e90fc4f990cb95c7ed247b915710b27e9"
+    },
+    {
+      "id": "38d90bb64f80616e80ab70a837edc7d9f51b8a397cc8582d283d08a5cffa4086",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "96ac222b03633f9174bef361bcf528ffdb60c92de27c2ed73a15da3c4c41d449",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "8ad7a4dab669e9e64bd2fa3a74f6674f2c37e72258b1358dfd81b444d0698464",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "7b98d1d98f0497633d63cd2163afdb66447f6c7510554c9a6d23b4574917327a",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "5efef214a10e798f3a3757d62f6f567919b7d51e3cff09c200af03c57633b5a0",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "140137edb7e12382ceeed571b80341335d44fd819287fad4cc22daf5f47c926a",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "3362fb8577111f8a14c6b246af6ef65a955e56f4269cde8fcb9eaf6f6f311549",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "cf2e97f59ca8018f666747922e869fb0ef2717eff017b02551be26fb711c0f94",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ab107a21344a2d83ad6b46b400d1aa02857cff423b942a888007be4f65f27a42",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7adb7c4384d4b14f2b53e7aa5f3c2a45fe95b19f1ba7a68b9991405c6f48ebef",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "2a41c23e4c7ee38c241515ffd077459322da981d3f63a68cc918e71cfaf78821",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "fb962ee24ee28f744a2008c47be94baf1b026f648cf72ab544ffbfaf2e637ec7",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "92ddb5b4b3bf4c6bb5f7799ccc9cfb47d2df95b8d5523f4723a7b13409f31799",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "4f441abdb2ce4d9c25c161ddea7d8224d7902eacde98f024d8eb020dfe512503",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "2aa1a323ce250f812fdc0d1d6e35d9bfcfa18585a8b34cbc82f936c75f3794e9",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "aed0828dd1ef6c476aa4a52e0dc8d4c7d9f8fd3e3628132112cbc64d8c5ad7bc",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "12034a51298c8cb8d6184eb313c60cc38c36b86b145bbfda1a4794c51f5bbc74",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "2c1959840f7330bf504639efca94b49d91fdedd51147679d58e969c03dc55ba7",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "bb7bd2fe274ee8ca57a6f1c5146c1a30babc3288c690ab13a00a5ff00f143c1c",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "0e485fba179ac3ac6e621a05937e2511b53b73afcf7edd7c69224fa8ab855689",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"x78dddg1507n95\"",
+  "lastModified": null
+}

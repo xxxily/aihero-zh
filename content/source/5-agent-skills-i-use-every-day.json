@@ -1,0 +1,688 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/5-agent-skills-i-use-every-day",
+  "pathname": "/5-agent-skills-i-use-every-day",
+  "fetchedAt": "2026-08-11T06:28:12.052Z",
+  "title": "5 Agent Skills I Use Every Day",
+  "contentHash": "ce1c950991d5cea8524750973596d46549f1d5ccee828cba1669590f590ad081",
+  "textHash": "1404a85d99c78da1f8595a2bf417ab46ca9b5f2017df7e9c8c3b97c2c4194cdd",
+  "strings": [
+    {
+      "id": "adacb0415784badd0160e696c9baf315158a6bdf2b6732c5f4ebfd2403727b98",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d98b3c451a7885d81e010dc45f212717c8dfa3fc34ac82901e360ebb3bb6a426",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "499f9873a1a52c0622cdfcda3a9d0f71e395e598ce82d913d6c971f57dec44c1",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "630c55eab4b04c70643aed9fd45758165a00297da6b1c664d0dc0067bb8b499b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "7e5a567fe29e62f789c4ada7ed4bb9bb1ecefd2cb48e8d6380bcb3181a9be012",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "7ec881a1a37bf2a47a0029dff3b3d2a784a68bb8569f2c09b6b419da1c47f15e",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "ca20d6cccee5a05b3d4765806807948a9440e22ab856092fb8057815810c7080",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "4ff13905617e5be3ca617e437e64d50bc835a1bfbac090fb589f340d7781b141",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "7f3ce6b0b4f0f2ef1f05deb05e71ce85ca3265194b45a9d00f66541ef462ff12",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "462b1815ed3a1ab07ac81228eb025a1772e4642cdc17f5f8cdd1cf312f310258",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "0105af8f4dd232020cbe41fd6d4f9863cfd7ea1a4e34e4c24e509bab695c9e97",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "2acee637f1752e6cbcaf1e135ee5f16e034b80b2e9628e40df644be591c4a6f0",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "b5cce714484bbb7886cb8ae18be077cf17a1913dbf1da5cd8f78fa7db3c5d000",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "49a9954465dcd448d05b1b76f0163dcdb375bc1a8050effde52801a55d5e3710",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "7098014ef8ca5150b8fefbafc98c2ade2890caad65eac33cea71b96760d20eec",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "e8f1876d35a0d1acc1f1739eae2adf47048d48047740f4db88350fd197bb27c2",
+      "text": "Master AI code quality with proven engineering skills: prompt techniques, TDD, architecture design, and spec workflows for Claude Code agents.",
+      "hash": "58de2c6c88ce25ab0d52b91f403d1cb62256bfd82a7dd4672400569adde862eb"
+    },
+    {
+      "id": "119657e0fcf2089348a3d4a2632dec70a4ef0d3c320233f2239a3fc6bd976126",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "05eea9abcbb12576b243344314194663fcaf172070550f8f6fada5bb02945ed8",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "6e6b185d3cb44091d84f2f58dbc2fe8c7d438d9992f9954c73d01b3341ffbfa1",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "39a8b5cebef95f6f961d8ebb56acc7ae5b0f0379b3069cdf0f7f83b2dea08668",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "fb599fdac67e5b3642416d9e7e727ad74df534be53e866b1424c0445133e8558",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "f48f5a10ba7a6a8db349d70c83242869aef2980c2b9d762b18bd85fdb64c7408",
+      "text": ": Flesh Out an Idea",
+      "hash": "32f4e38c560f6f0bf2a8140fdae39b71aa7f22a16301128b1768cee95a438c79"
+    },
+    {
+      "id": "3c09bf011225d67c3d0a5803da343ea4953ac5be3666713247697f7da778394d",
+      "text": ": From Conversation to Document",
+      "hash": "af7ba11b59db78a2043021be295a0f00405abcc3719f1a040e0b6f59becdfeae"
+    },
+    {
+      "id": "9dec76439985ab4328fb1ff3c6a3cdd219f9d6a4ed00946a496483f5e4cad856",
+      "text": ": Breaking Down the Destination into a Journey",
+      "hash": "b3d6b1084761153e4f477d280a9d5094b61ed31664869cf0929252da50b1ebe7"
+    },
+    {
+      "id": "de878b4088723ad71351163b9a32362dee1179add02777ad3f4fc67235ebd147",
+      "text": ": Increasing Code Quality",
+      "hash": "326186f74857a67e7f1b3fe5d19909c3193d6beeed52ecbb12918d6b8e8cd870"
+    },
+    {
+      "id": "2f4f6845ba510c2995de0c270d63e961beb3bae6d29b86802692c6ce206db4e7",
+      "text": ": Making Your Code Agent-Friendly",
+      "hash": "07b7b1bfd6f91ebd7dddbad34dbf9796b704c1e0ade3bfd0febf699c0e129b89"
+    },
+    {
+      "id": "623f2cf954f8aabb8f88bdde8a9eca13be3c48ac857f34026892edb890f37f5f",
+      "text": "Why This Matters: Treating AI Like Engineers",
+      "hash": "20ffd985c3843a57a728b4b7f3d5ef9376da8b30743d91b42bd41ea8fd99ea1b"
+    },
+    {
+      "id": "9561011d47d7d7b174a6ce485fcff0e2e2f36b204c42d7a118a3c995d34b5057",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "7af72d51b3bdac1b9a779c007472f86c8ae0231d677f1d31dc29f5a17924010b",
+      "text": "I've been an engineer for nearly a decade. Right now, process has never been more important.",
+      "hash": "be7bc9f1bf4f44c2dc4e7e0b25a8f1934026728d481398b3a175742a8f602784"
+    },
+    {
+      "id": "6918aa4656c179c421fe1291898f6686d27ea2d1ca2073a10837ae422803f8bd",
+      "text": "You have access to a fleet of middling to good engineers that you can deploy at any time. But these engineers have a critical flaw: they have no memory. They don't remember things they've done before.",
+      "hash": "8b470d3faa6e46383c2c7c3aef35c3fcef715a442011efe6b308e6a005531ee8"
+    },
+    {
+      "id": "3a7d0a81582057a8da10f424a3be32801a19af96613f3c281139f0393913f23a",
+      "text": "This means you need extremely strict and well-defined processes to get them to do useful work. As a developer, you're constantly steering your agents, keeping them on the right track.",
+      "hash": "0fc1417e461da16e9466ff20e9a70bcfac398f9aabcc46903e75bbf4875d42a3"
+    },
+    {
+      "id": "09b44ea34af0fc757407621c54a0d15a234cf2efc8a164f47d55fe5fcc31cc33",
+      "text": "My way of fixing this has been to create a LOT of agent skills. Each skill I've designed helps me encode my process so that AI has a strict path to follow every single time:",
+      "hash": "ebdeab45f3331f1d1851abdd60f47723a085aaaf32ccd4a93572673ebe76650f"
+    },
+    {
+      "id": "73c34c8780facb9589853838d3ae9fcb6422a9af2991768b902b4be4bdc0ebed",
+      "text": "The result? The code quality that AI produces has shot up dramatically.",
+      "hash": "07c3ccd5ceb5ad3cd47626a7357a9fa01f889efcb6dbb6973aac20e351737bd9"
+    },
+    {
+      "id": "929f0ad5b820064064a9b704bdf83d400754938e968cc8778a212358168d4c2c",
+      "text": "The kit:",
+      "hash": "00ce8104a80087555fbb2f37142ae2bc55e8325168e8cb223bac03d8917b9124"
+    },
+    {
+      "id": "676e55cee1440c22c4b4890c2c982f7909b5e73286e270e01fafcb962e247dd6",
+      "text": "· improve-codebase-architecture ·",
+      "hash": "17b6cf5d0a8b75c54d22e0925cb7364a1241ccce50aa2f88f520e70c7905cc4b"
+    },
+    {
+      "id": "ad08c0cd26bdbc902ca64600d62de16fa315ffe0a8ea912416f6424e97ba0918",
+      "text": "see all skills →",
+      "hash": "c4abe64920b16253006a4406d245cf8bc7dc5fe1618bb125b069357bc4f3ee89"
+    },
+    {
+      "id": "9d9c62b4658936663cd47846ed4843a88a09315459d1a95c035cb66bd4c964d6",
+      "text": "Read the guide",
+      "hash": "83b3b277abbf82ba7b69a28ff551233716ba12660654e5889d4a48d495425af1"
+    },
+    {
+      "id": "0ceca92c46ce14db785a99290f5fa1a79dd170522ceebce3397a21975de444b3",
+      "text": "GitHub",
+      "hash": "f911e414cf6bdfc595532ab166b5ba0f63d73c021452fcdacbda363dda6ad8fb"
+    },
+    {
+      "id": "8b13909ffb46d036b576a041e2e35edeecb7257b17155aa1925e951ddf30f678",
+      "text": "This is my favorite skill. It's only three sentences long, but it's incredibly impactful.",
+      "hash": "324c0c8f5e1c13078cf0a97846699ef4c81b89d588aaa42ed0a037f107bcc95a"
+    },
+    {
+      "id": "ceac371f11d27cd17b21afbf35a71750137978d965a2111b710737ebb0db18d9",
+      "text": "The Grill Me Skill:",
+      "hash": "05dd886af65814a58ebe2855419a5285870de3602e664a00250374b84447aace"
+    },
+    {
+      "id": "96fa4d79b2eddf241920052313ee7db7d6d1cf920ec1b0bcde67e83225d4498d",
+      "text": "Interview me relentlessly about every aspect of this plan until we reach a shared understanding. Walk down each branch of the design tree, resolving dependencies between decisions one by one. And finally, if a question can be answered by exploring the code base, explore the code base instead.",
+      "hash": "5c98bc4aa6ecfb0c555d7db0745041674677a9f679568057f96ae75b839ade70"
+    },
+    {
+      "id": "4d4914d4ea990faee2519228378d20029f7d1d325c40d1caf6c6e818ccdfba72",
+      "text": "The concept of a \"design tree\" comes from",
+      "hash": "e4844025ab45c380ab312b7ef96f5226623271481a717b509dad4788636c359b"
+    },
+    {
+      "id": "5f88c067b1e6e54f84f47974cac19fb37104332312718b232fb86d88476d6ea6",
+      "text": "The Design of Design",
+      "hash": "1e326c6438548b1b949470919dca75040cacfff2bf78f3b11617278fb754ea64"
+    },
+    {
+      "id": "b53596ea13d5058aea582d98a85d2fec731b918def0456f3d85a84cd5c4414bf",
+      "text": "by Frederick P. Brooks. It's the idea that as you're designing something, you need to walk down all of the branches of a design tree.",
+      "hash": "a0b0102926e5fdb5ade2200390ce000478273de950894fbada56bb8e6d036304"
+    },
+    {
+      "id": "28563ee0feee5ef620077db2164c16dcf620444cb81bbca90218afd8f5752213",
+      "text": "For example, you might be designing a search page and need to decide between an advanced search interface or a simple text box. If you choose advanced search, you need to figure out all the filters and sorting methods. You keep walking down the tree until you've fully understood your design before committing to code.",
+      "hash": "1dc994e6140d1dcf37074f43903717b1378e02b17344bf8a8538f8658dfbceae"
+    },
+    {
+      "id": "cf0b1ea7095ea20955ecc3e6af2700bb530d4def0e7fa89be12c335f2ad5fbfb",
+      "text": "When I invoke this skill, I want to reach a shared understanding with the LLM. Claude Code tends to spit out a plan really early when in",
+      "hash": "ecdc2efd45eb79024289f26a8c2f1649111001d459fa412a55417cd39a0f290d"
+    },
+    {
+      "id": "60fada19d291757cc9a23bfc2e98f7692bc97e0ac4b15cc65fd68f8c9ddd0337",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "a394f04ee1850aba380ed5386e028f725e842abb2296db20e0c0644df114e3ff",
+      "text": ", creating a document before we've truly understood each other. But the grill me skill forces that conversation.",
+      "hash": "90cda83fc5db41a91fbfa320a10ab8f76a0b70f3f83daf5b99bc059e36ded32f"
+    },
+    {
+      "id": "0397315179790f3331dad886f2426c7b30c3e6a06631062e872cbd0b300a09b5",
+      "text": "In one conversation about adding a feature to my course video editor, Claude asked me 16 questions. And that was a relatively short",
+      "hash": "bf24a9aafe63ba8b1776e6c1f419729067eb64ccdad6d52a3fa647ae5cc25153"
+    },
+    {
+      "id": "4b2f010be4397a7b1d8930b127482bfc1af388a7acba37523d7424e66e4f40e6",
+      "text": "session. I've had sessions lasting nearly half an hour with 30, 40, or even 50 questions on really complex features.",
+      "hash": "84d15f1d0d2497db9a98e6be2de829e0a100087fd223b7a955c7597f3dcc92b5"
+    },
+    {
+      "id": "674d8de963670747eddc414f329b5f3891babbd55089bfc71bbf794a79a71e84",
+      "text": "The key takeaway: Skills don't have to be long to be impactful. You just need to choose the right words at the right time.",
+      "hash": "f52306d7041d3d29e64456778c1dada2cad3fd121642e43eec16d98f073aaa07"
+    },
+    {
+      "id": "2b2aa6d7a66ab8c281acfb651340047ec4ed496ef2e303d4dbbdc41e6b8974ab",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "9f7d445b898b2bddf02e8ce5cd55dd40e7fcc243d96d37ecb6dd5e40e911d0df",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "8d4fdb93e5167936101097a70e881731120911d15a22c8535fd9c2a2fbd594b3",
+      "text": "(This skill used to be called",
+      "hash": "ec6c9f2654a21f894c57bed7d0c1598f61729ef756763589ee1960d192b454b6"
+    },
+    {
+      "id": "2b329b10bbceda5b8ee067aaf9f5e92b6715bdac25c856f4e46ff618329cb9c4",
+      "text": ". Same job, clearer name.)",
+      "hash": "581f2051d0a04f5a915c9b1eb06deeb964e7d060f8150386438f6fc22e4c6226"
+    },
+    {
+      "id": "bdd8e503f144fde4659bf42079bea1f2b855e0162017662d8b2797374017869e",
+      "text": "Once I've reached a shared understanding with the LLM, I invoke my next skill:",
+      "hash": "1427bbdc186c78838e5b8678234c3cb769631774202704cf6ac354b403a0ac76"
+    },
+    {
+      "id": "d038405795aafb0b0390d0187903199e61d66233fa7127735b010fa6465260f1",
+      "text": "This skill asks the LLM to write that understanding up as a spec — the document you might know as a PRD. Crucially, it does",
+      "hash": "2e4f4532e4f3eaa6090dec173e5ef0e6fcb5643dfba5c4bb55afbecd1bdf5dd5"
+    },
+    {
+      "id": "f2738b174474a01e5bc9072d4ed02d1e188f3a01ee748af1ea1063b3ddb3bde0",
+      "text": "interview you. The grilling already happened, so",
+      "hash": "87a761bee2e7d6af18a2d84cff26e53dc5ca9c58ba66f7ebd6901fb464013787"
+    },
+    {
+      "id": "5915aa91e9d4a0d6ed4e9e0285c494c4eabfe3f73cf0cc9f9e540c050262dccf",
+      "text": "just synthesizes what's already in the conversation.",
+      "hash": "32fbde1c9d1a66d5cc57444546227f79ffdb25c3b084a48608a699e9415c01de"
+    },
+    {
+      "id": "696c4d21c7e3d12aac2d4fe04cb4a2fe5c8a2e3e755cda19d3676417dc6913d9",
+      "text": "The workflow:",
+      "hash": "d5f0329a8df62420b2ef54f60c2f5021bd12ba2eeb75eb4c33742c01dc25b14a"
+    },
+    {
+      "id": "c4911a190a839cb70e8a4a940a3e1f5b5584df4fdb5cf2df0b92389b70ecea49",
+      "text": "Explore the repo to ground the spec in the current state of the code",
+      "hash": "790a4dbf6ec39e0158e71822d948c565fcf4b2ddbdc4f126d4f80c31de9a6497"
+    },
+    {
+      "id": "5aa1e07f6756b7ffb5614ade834d376eb734c3acdfdfa7e3659950a6eb1bcf75",
+      "text": "Sketch out the seams at which the feature will be tested, and check they match your expectations",
+      "hash": "99015127421d6f1f1c252eb0564a06652a16b081a2cc3a4d54448f1627af806d"
+    },
+    {
+      "id": "fadc47d466e470e49a968afa1e5ea74b217b7b3cf5361c52b8c4f837497606ee",
+      "text": "Write the spec from a template and publish it to the project's issue tracker",
+      "hash": "9bf56217e9991ea7e899475541ba24d23f39d1b5b817dd7ae7b8cc290ec24b6e"
+    },
+    {
+      "id": "e5302aa377868a10b1c4171d4e9ba172ae7bbc5fa45cd8b5954dbece7a9b9d41",
+      "text": "The important part of any spec is the user stories. These describe the desired behavior of your system in language, drawing from Agile methodology.",
+      "hash": "b9c8cb46e72f3ce69b61979d165225c6d327d894bfcd4687472ae9b6071b52e8"
+    },
+    {
+      "id": "64a802bfd86416bc66adafb7efed97bc2d4e1a85a666151485f90739b8b74722",
+      "text": "(Formerly",
+      "hash": "ae089319f53c26e9bba16cd1de3ab2290fc9a23eada194b3571b0939c3c0b6ba"
+    },
+    {
+      "id": "813268ff09977151727ca434009dde823a60f988a2e46e92f8e7cdf431edaa94",
+      "text": ".)",
+      "hash": "d84e727959ff7628e4773ef6c40b9ae207850fa6863ae4b69bd4eb5757b70c2c"
+    },
+    {
+      "id": "0905ba6e2df7b5165ace31262829d0b52b9b81e3a436df6ca309b4a1adb084df",
+      "text": "The spec describes your destination. But what you really need is the journey to get there.",
+      "hash": "8b7fd400496147a1c50715237a5e4766815f7d43b37b13dc6f9842e543813c14"
+    },
+    {
+      "id": "a4fa066a985e3f46c3cabda5cc1da52fa310e592b20b1395181675e227efd4be",
+      "text": "That's what the",
+      "hash": "ff5e344ad8e009fc16a0d6d71bacd7a33d19fa713fd1ff34932f283c68047648"
+    },
+    {
+      "id": "c2ad30c7bf5bbb0005b6fade8ec2870dd1e2882804ef8101ab2557ffd20535b7",
+      "text": "skill does. It takes a spec and turns it into a Kanban board of independently grabbable tickets.",
+      "hash": "a40cb7a0a14cceae7ef38b3991b2104141a303b26f7cf299c0c5d8dc6cb081f4"
+    },
+    {
+      "id": "a0daf5c907739c034118f622fd50b94db7e62448d5e8280dc7877d578a564e3a",
+      "text": "The process:",
+      "hash": "eda33b1cca289addb86e520679f2b50ec3a42fdf1cbef8e1c9919bbd16dbd0fe"
+    },
+    {
+      "id": "e698958bacf599910dd8f3013c2e6e902744210023d42389f3c553743bfdb938",
+      "text": "Gather context — the conversation you've just had, or a spec you point it at",
+      "hash": "6743adef5b07f960985e3509fcbc697f69305d4b41f480d7dca4c5473d273840"
+    },
+    {
+      "id": "5587de2be805104b00a051d43018689c691aa3d05b7cf4df480ebdea625fa4ae",
+      "text": "Explore the code base",
+      "hash": "2ae977e7e128054604d49d1f35c2960a8e628bb41f6fe14d02c3001234d1d039"
+    },
+    {
+      "id": "0d4c0c54fe0c087479b309049bacc10abf5b1e3a541b7a07d2f7e6fb2edd9e96",
+      "text": "Draft vertical slices",
+      "hash": "473d335fded921859fc0dcfe9a67440af08fde8714b94e5e402ecf3b24ba8fd8"
+    },
+    {
+      "id": "05497e48dfdc4b471a83b3eb6e7140f5309bdf1c71770bed331fbeea84859a83",
+      "text": "- break the spec into tickets that flush out unknown unknowns quickly",
+      "hash": "cec562b45fc39f0a5eefb3acd76a8e77f6b43d7bfa2d4409cbbe05a525e3935a"
+    },
+    {
+      "id": "c5bd56aa52e1ad3bcecb6fd857e7a1f7d132036e16b519c20d2e59b1fd6c14d2",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "f3fdd79889995769b41edb4827d1b28387e1d454ffcbdd1219817d5e27a68ff1",
+      "text": "tracer bullet",
+      "hash": "393b6f6cdab8e06443785e4d4fbf204c578903ead2aa26ebb26d7d2707ed25d7"
+    },
+    {
+      "id": "3bb7d6f2ba90e67ad8fe56a8fb3aa7974e3d4cf976f0b1c088abd22115c607c0",
+      "text": "analogy applies here. Each ticket is a thin vertical slice cutting through all integration layers, not a horizontal slice of one layer.",
+      "hash": "fbb4d35e6f81a434317b0be6513e8f80d0fd9bbacfaf89efe616cae5e0471bb7"
+    },
+    {
+      "id": "cd1237f44af3934fab31f47f928c6e290266a669ac95994ecd029f60ec0476a1",
+      "text": "The skill also establishes blocking relationships between tickets. For instance, one ticket might not be blocked by anything, so it can be picked up independently. This is useful if you have parallel agent setups where multiple agents can work simultaneously.",
+      "hash": "9c60e4c001cd9f3549e117428733088bd2b5dcc35d7bf43ec79e617d172093d2"
+    },
+    {
+      "id": "f195ccb00c5dce9ebdafb34457b5b539ab0afb982ea8e65c9b5bf2ea5302ea29",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "e0bd6b5b85e8918147476025edc281ad76578a3d473ae0f6a2943d50cc9be030",
+      "text": "There are more where these came from",
+      "hash": "cf5befe23ba2e361f7c55b87a68675e8c20be4fcd1f6989be73fe5c823c54fd1"
+    },
+    {
+      "id": "c3122c4566a91376a07bee4d27116eb263e0c91adf5468b3eb717bda0a92b3e6",
+      "text": "grill-with-docs, domain-modeling, and triage round out the kit — plus a changelog of updates as it evolves.",
+      "hash": "c6dd2e715b3f9e5b8124e1ebee5ef5cc40ac9e51262b4a3a93060c49b0273d63"
+    },
+    {
+      "id": "db4e62e580a65219171ea1102bcfa2c15524749c7073bf55a13c20fac2251126",
+      "text": "See the skill set",
+      "hash": "dd46869b69c9555abcf3fefb4c764ae30e64692df2ec9a3359dea8d9ddef9b37"
+    },
+    {
+      "id": "6d68bc6d751d63737b901dc1c42ff5bb918dc68433533082fb1b495c8cc91c87",
+      "text": "How do you execute on a skill? How do you make the implementation rock solid and increase code quality?",
+      "hash": "00f46fdddd600e3f3d5843fdf65b69154f7fda2d75ad1634658b1dfcf85c8bf7"
+    },
+    {
+      "id": "41a9beb4b98e13befdfb87dbb508eca852b7b64fc11ad45b38d38710033570ec",
+      "text": "You use a TDD skill. TDD stands for Test-Driven Development, and it forces (or rather, encourages) the agent to follow a red-green-refactor loop.",
+      "hash": "85309e35e5f9399cfc19df7cf85a2f92cfd12e700c58270a5f1b077f73eddf1f"
+    },
+    {
+      "id": "a7d9d9688c4d8a9619e4c893aab9bb4b85a90a069e61f4c049134bd94117df21",
+      "text": "This skill is substantial. It includes philosophy on refactoring, mocking, and what deep modules are.",
+      "hash": "c2795b2cd32fa4f6c4b0390184a49d670dc84aa32cfeaf04e71e60ba19feed10"
+    },
+    {
+      "id": "71509b4966b3d6f6b00a15f8dc8a477692ceccff5506499a3c81d9dc8999c90b",
+      "text": "Doing really good TDD has been the most consistent way to improve agent outputs.",
+      "hash": "d4365bc7ddacb1d17792f5470eb318577df75308684863261361a088c3c87cca"
+    },
+    {
+      "id": "d72ddf0608555c478a18b44c678c543206b2543a1c4a29b4e213e5a8120889b3",
+      "text": "The workflow starts with confirming what interface changes are needed. When an AI looks at a bad codebase, it sees many tiny, undifferentiated modules. But if you restructure it into larger modules with thin interfaces on top, the AI can navigate it much more easily.",
+      "hash": "030666c334f1d75b7543ad9efb74d074d6f28a54a76406df4656ea698aa53bae"
+    },
+    {
+      "id": "16e90f86a80ea18578030afcb298438501c9d8dda8911307da992102a34eafb9",
+      "text": "The skill then:",
+      "hash": "c7d9f47037764a4cf0d557b107dfebf169952df433d15e5a67cbcef7a62665a2"
+    },
+    {
+      "id": "a3c0207c1bfc63b2efce9b3ec417b388a686708527a54276a2b7e1ca1f1e933a",
+      "text": "Confirm which behaviors to test",
+      "hash": "1dd0edb29b56bff0b1c7e59b29fa28dfd3fbb1c1c4efbfdb13c76a79754b2a62"
+    },
+    {
+      "id": "244e40fe89ae9969da73dba0107634f6d9750f1854a9c7997793668db7c4be67",
+      "text": "Design interfaces for testability",
+      "hash": "3fd4c70f380b18c4dc39a33c79ceab637470d276452f5ac4b6b185605285e52a"
+    },
+    {
+      "id": "5e1327d1aadaa0a919e6bbc0a64f7d6eaff7fa5ed3cddc3c48b4ad44b5324ea4",
+      "text": "Write one test at a time (test first)",
+      "hash": "24de0fa54342544c106c459cfa23d967cab8017372ba4a75cc5bb37b016c79b5"
+    },
+    {
+      "id": "ae1e761cccced9ce8eba3b1be42a0663611fbb38a5d46b9de9cf6d1c2a51d07e",
+      "text": "Implement code to make the test pass",
+      "hash": "3ebee851511f3bb6b506e9c8e7ab48a6d44e95c388110f53505f71cc8dd8132d"
+    },
+    {
+      "id": "4e44f06c3d81f92c392cd3fe7e487cf8e6b818961c7375adeb10e32ea3645c54",
+      "text": "Look for refactoring candidates",
+      "hash": "dd2292a574e355af76a92457bf9351f6634c6fbe7c3ddc737535fa1a6a535b33"
+    },
+    {
+      "id": "45753031254e3753cef03f33e4a60e7ae940793634bb2c543c73dc50f70f736a",
+      "text": "Red-green-refactor with agents is incredible. It creates a loop that continues until complete.",
+      "hash": "9696d8d777781fa147cc1935ae1ade4acca865d72a468fa67b5f1d99b49bdc12"
+    },
+    {
+      "id": "2321556664a4abaef2fe7ddb57ed36a8bb361f03b082c42028585f45086e6712",
+      "text": "View on GitHub",
+      "hash": "20672423d71690888afb7caa922ea2a23592d49346341b1eee292de65189a296"
+    },
+    {
+      "id": "71beaa5df7506eaa280236f133d7dbd790065e39ae244496b216b588b5907aea",
+      "text": "TDD demands a lot of your codebase. In a badly structured code base, test boundaries are unclear. Where should you test? At which layer?",
+      "hash": "9830221ce45fefb3a1e7842c289beadd9c8a404e0b41209612b73ea0087d6d74"
+    },
+    {
+      "id": "659b4aa071f39d8476c59db5ecbeeb3cf39697bfd723ac0cbcde4eef8010b981",
+      "text": "When your code base has clear module boundaries, testing becomes much easier.",
+      "hash": "3799f36acc2bb313e36a05e8fb4dc106c8177e734d1aac0daec83112d952418b"
+    },
+    {
+      "id": "86a8b60ab2834d32684279a1ccb12ab43a14fc354fb103abed7918b5497d69f7",
+      "text": "skill explores your codebase naturally, looking for confusions:",
+      "hash": "c209f0b188a4cf20b5ee535a58e20fb585141cd685e0ef9ae9d38379f923d0a2"
+    },
+    {
+      "id": "05854572dc01d443c5ed32bbad7477dc47c6d13ca9b6a016730a6b987364e302",
+      "text": "Where does understanding one concept require bouncing between many small files?",
+      "hash": "71d41658a64526fc789d387fb03c821d8b5f9845a213080b04a37bc3c5496ea4"
+    },
+    {
+      "id": "87d07673d838a3bf562740ec074128b74eca4ccba9d74dd1b92abe4d485eb9d5",
+      "text": "Where have pure functions been extracted just for testability, but real bugs hide in how they're called?",
+      "hash": "32f0d1f0863151c281bf5656044c4f03a13649f2f1a9d8c631c5c1844344885d"
+    },
+    {
+      "id": "5a19bbd542749a96d0b30b7dfcdbb23ff0f0ec6b49c41af7e974ab995fbdb637",
+      "text": "Where do tightly coupled modules create integration risk?",
+      "hash": "a96310c704b5e5f1b255e43eaa6f29440c6f395a9e9aef2a269bacba945401fa"
+    },
+    {
+      "id": "c4f08314c6916addddccb2ce863dd1fc61249e186d8bbe9a7e1a7a8b7f4ac372",
+      "text": "Then it presents candidates for deepening opportunities - chances to deepen shallow modules into deeper ones.",
+      "hash": "9a011044e2f73eae6ed1d8c56a4483b6d959ae2f49496c6a402ee863642b72d9"
+    },
+    {
+      "id": "79ba56f9a04630f7aa25ccb9ca3cdec2732a413e0a65a3423238b946881df30e",
+      "text": "Do this once a week or after a surge of development. As you keep refining your codebase, you'll notice the quality of the agent's output goes up.",
+      "hash": "e140d54bba37a5749bcf02a5aa1c9c11a491dfd1223a053bee07ca4b7a86dee1"
+    },
+    {
+      "id": "b0aee174956d87dd3fada68f1bcd7e7b4f5d4848ce00675a1b92b9d7d6f25a19",
+      "text": "If you have a garbage code base, the AI will produce garbage within that code base.",
+      "hash": "1ad0f4a495cb3da6603b07cd48586a8507367d0d7f633d4f86ff1a2db0a63d0a"
+    },
+    {
+      "id": "72551f27b85d16910a1fdd8e217d65938107dc1a787e83fc93cfeff3f06d1d34",
+      "text": "That's five of seven. The rest — grill-with-docs, domain-modeling, triage — and a changelog of updates live at",
+      "hash": "1f57fb5dc06e92649c0af8caf5bc23cf1682aa70fd78306fd380fc6f02698b56"
+    },
+    {
+      "id": "572d52e6262d54f058ae5fe6d806a86591f934d8ee37816d2ce82d68b32482b0",
+      "text": "The most successful way to get code quality up from agents is to treat them like humans. Humans with weird constraints, sure - humans with no memory who are cloned and go right to work. But humans nonetheless.",
+      "hash": "1b94a46adea59a7781a58890e5efd1ae2aad3b9dc9e52a509e7670187f97dbed"
+    },
+    {
+      "id": "04962c8de40ded09d0f3b284e97cd2703733353875c5e941e6c4eb3ee63d9eb4",
+      "text": "Check out the skills repository",
+      "hash": "da7954d5d035af687e5eb1e0471d3ee4574e87590df99ab40eb3af5cb228939a"
+    },
+    {
+      "id": "1765110331cd40023f84343d10c2f0207434c715b7ab6a8605347b7d81037566",
+      "text": "to get started.",
+      "hash": "305f69df00e9d42491d67600941295e4fcadb16ef7c759ae772ae1f95fef6e69"
+    },
+    {
+      "id": "4e3efe7c3fd9badc45b79e2c3a8b58292341f8761681bf09f2ab952e105bd85c",
+      "text": "The kit keeps evolving",
+      "hash": "ca2c43452ae59f4030c8903873b8520e022fc82e9d506da0e2315deb1dd356d0"
+    },
+    {
+      "id": "93002d0a89149af708c7c82a149d3205875b6134bc8c5e70874fa417f286ca2a",
+      "text": "Get the next skill or guide the moment Matt ships it.",
+      "hash": "8ee2ac6e763c04e2a67baa707462e599185d1ac87e1b49a2dcaa20fb47cd770f"
+    },
+    {
+      "id": "12e1451eadf91b7d09b96600d49eeec55e48f2897f510e7afaaf7153f13db588",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "61b79b21efa341a9db07ba92ddb883b6f82b900f46c203ea80f610d5a17bb475",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "e6fde9ac1a027cce2dba3fc98224dec2bf887bce9a5d057c563b5944c26b7fba",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "358629471751b6563ef151c4bf6febcd411e3cfb772a08a4f1e13a5696a8e146",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "5a62bbe1149febe1338426a5e660486485d174842ed8d57bf90fa264bc1710a0",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "f3a8468ef6aa8dd1c68bd1f5f79f8419ad494526072ed6e250faca64daeecd02",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "3515e6687a881ecd85aa06cce3585466ac53438210def98ee2abfba580ad507e",
+      "text": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+      "hash": "a8132b4f77ca14f2ef5aa84bc8386bb2e8acc3ce746a8209008bcb9af5610bd8"
+    },
+    {
+      "id": "f5ca653085c18589638590c2f6cf761e9668f94bc50f3051797a0f6864e54709",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "4f1ba5842e556e012ccfed1b38a6c028f43cba4abefdfc4af2aee1dfb9c7abd9",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "e1d9136222347329d4dcd87a9f4a514cb0c1d06a7005fa57e7e2e1a0ea4304fe",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "af8da638dd8727eaa975e14585ec2b908727093f3c2d48045b42debb7445a17f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "94d846765854b5615848859f994afc3ad27749f605e9ffeaac52530ee1450898",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "8036f3fb3c138b0e1037d056094ae393451f88f0f72f2f68472ec1f349ba6ee9",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "2f9760d79ee2a0ab7e05698385ac2d95f5e0b5e61f93fca55851a190bd757a06",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "47fd11bae508fd362c2dd3c3ac98b717219adf3047b53928e805d282e2614f65",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "cffbc1545b777c4e224d1ca72c2488f9786709b663c1a2edf78dd7322423b1f9",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "747372d0aebca361e41b3ad48e8b62578fb1107f310b397faffc1f1864c148e3",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "a29faab8c9fa6c3cb9a327a6e828840871eb1b69bc6b0ee08bd39f5f87b2c4fe",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "ce5deed340ce05e5823b1bfb096572cad14b68af0646a35e2593a722687a7f98",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "93119c0839430780c46317e2738cb2ff37b898cd6354c710166515eb7b6d2fe4",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "1eecffd1350c3f6e2fdb92ae5fb83e96dc4b985aeb6709c9a0177d7ad952cae1",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "dd599c8f9af03e957acbfcf1e5addd48db4f27c2810784e9b68146df520a55e9",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "aea67586de8bbb2500c87fbcfdad86ae79dad50e3f41b00ac83fe8349173742a",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "9c82cb600150e9835cb545999f672af13a14e7e3d25296791dbed050d9c004a0",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "4adb4e92baa884f832538f82ba9eec58357a5e813dc701f34ae9d4250b61b2f3",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"b9j05jkpc27ejd\"",
+  "lastModified": null
+}

@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/sycophancy",
+  "pathname": "/ai-coding-dictionary/sycophancy",
+  "fetchedAt": "2026-08-11T06:28:35.835Z",
+  "title": "Sycophancy | AI Coding Dictionary",
+  "contentHash": "9470832fbd07cdb86d3bc25752079889a58be3b6105700f25c086d1a0abe2464",
+  "textHash": "e6d4eee90e3b8cf0bf4247f60784a3f58e1dca3c1cea2f480ccd56ad074729bd",
+  "strings": [
+    {
+      "id": "684b040b28a164fafeac6aa355473460d067bcd944217eb0ff70a7db416f2315",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "748c9f23cba8c3c039eaa7afb97ce9698f8379e54c840660632e9eb689425923",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "c03638fd851e624a7d8e55886adc6f6b34459308d581ce999c03621947869235",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "b5af30578e7e3725cb00c4ed3cf2cd087be844c8615b6658a8fa6770de15bd7a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "23b6c8acc9a392c7cb9038b431a320c39e55edaca067178fdec844262cc46978",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "3b0a5967d1c6ffa4d76e20dfbdc877c29dd6bb0b784bc64e9f1ab7cb15679175",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "d895201888b2deccddc74241cd6c0b7b81406618d2ff8dd78141221ee90f647c",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "cf149c91f2abae67d23f00e5574ce52be23aee908c81e79c7a8bb905783a4f56",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "0354168de61d6da56397bc835df6a3068bae07d986244e236284056adb7dc5a1",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "af7346b60f39dc60b85765008897ac86c326c8ba30c0a7b15fbbf32ebe0bb050",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "a973a413e17e5d24b67f489a9556b056c59f1a836ecb09a565a2462a5a301bf0",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "55e1158cb91c3fe185afb03197885ed60ce2a548ff2d3afb5a24175593451e8f",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "b81c01531501df4ef73b9e83c7e22c855ecd4aadb924df3071de88eb733299bb",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "54243f1bdd6f85ffc079e90e85c51770b456b96887624942cfdb21246df4070e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "494d8af6debe034205153532c405b52e36655c045e206d263d0b47432fb1ba4d",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "b67aa82705a8e86520f89716ddb8b26390b1bd8060fdc615e14e629d67b4f054",
+      "text": "Sycophancy",
+      "hash": "3ea44487a35802429565ace3d346af85ffa355f51322456406c67ae05fbe8aa5"
+    },
+    {
+      "id": "b0432ac30261604b9a8453f6d5defc58d61945167246a724cc07f4ddfb8eb070",
+      "text": "Confidently agreeable model output. Caused by training that shaped the model to favor answers humans liked — including agreement.",
+      "hash": "1a45692a24a256a27977a8d81943c4f90fd99ba0ef218beff12ab39329bbd276"
+    },
+    {
+      "id": "bda5c4b979885a9a4c5cd2d86e42b8a100f33c87486856aa130cc239eb41c14f",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "4b39997dfd5e67c3c9205206ed689759490ae5f66fb2a322ef3b4cce71e2f90f",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "02716796b89f5a69164f0d3712ade56acd9d93fffc908c0d2e16755193f7090d",
+      "text": "Confidently agreeable",
+      "hash": "bd4fa5c4228ae4369591f878a0ede8b1609823044fff798a541e1bbf5ebb973d"
+    },
+    {
+      "id": "18495b866e40f941098708eb2a0a96cba4ee5dbd30259e9dc92d84cc013bbbfa",
+      "text": "output. Caused by",
+      "hash": "19bf3cfcf261e67e2639f3e8c61879dd0266772927b7c92388f4ead0a3beee43"
+    },
+    {
+      "id": "162e77ccec6ddc218d69e26affa0695b2d37328754b2ce44020a88c5eed2e871",
+      "text": ": the model was shaped to favor answers humans liked, and humans tend to like agreement more than they like being told they're wrong. So the model learned that agreeing is rewarded — even when the agreement is incorrect.",
+      "hash": "a4a04d84562f9558f52357193e85df782b1f6da6725a3d839c8e837f07daf7a2"
+    },
+    {
+      "id": "be1f4eab01de21d52fae68fd788db88b4250893f51cac3e35fe127cc65fdd3eb",
+      "text": "Surfaces as:",
+      "hash": "37d7fac4f451763fc08f5ef9a6890d566cd245b243f0367e2983ddc643d4100a"
+    },
+    {
+      "id": "9a63842afdeb47a3d0e9f76d461d2003d7819a3e648dfc55372f3597a84878a4",
+      "text": "Caving under pushback",
+      "hash": "353aed72f53ee11ac6fab15c1c23277c1458380edf9e93e040fc0b5dcf94b044"
+    },
+    {
+      "id": "34c408e3c5eec9230b3b745416374514718025aad8586edb65bf09ee741d5ad2",
+      "text": "— reverses a correct answer when you say \"are you sure?\".",
+      "hash": "94be315d6ed925abe7391460a5301335c604f322f80f4b74fecdfbf4a0850c71"
+    },
+    {
+      "id": "be12b4c2f21eb7bf53fb7d4e95bdd0a2695a5c94b2c06036e4ad4804d712ce45",
+      "text": "Praising bad input",
+      "hash": "246e08b8f7d750fd9402f835402f65f6e724387b95bbe387ed1ee1dc39179580"
+    },
+    {
+      "id": "7f74941a18cb1efd989276eb1b03ec53707252af9d621d0901989064e9fa98b4",
+      "text": "— agrees your broken plan is brilliant before analysing it.",
+      "hash": "20b3081f07fe9388a07e92302ff1048274cfdbc6cc2a54dbb85a7b45237b74bf"
+    },
+    {
+      "id": "15d04e42de865470bac3eca0472cccb35a370a7dcff14613e8b58267af96cad2",
+      "text": "Biased framing",
+      "hash": "aafc5545146fd0be88d155648d3ce9c135fca92a666a2c41d94575cb9767fc9a"
+    },
+    {
+      "id": "4ccf539d7e6eb29e20c0b87ea834b19e5561735fc7e1da931884c91174353392",
+      "text": "— review skews positive when you signal you wrote it; negative when you signal someone else did. Same artifact, different verdict.",
+      "hash": "f909d5c10795e16029b30f86c944289ebbd7b32fe148ab91810602f7fb2afa5e"
+    },
+    {
+      "id": "2188ce59cf3fa45a874105dc5ab916a9d88fef2bd8339af25f0a40f9022ad257",
+      "text": "Mimicry",
+      "hash": "71623e6fdfa9d880f56c582eb8efce7bab866bb1605f46b62a7eea0e832e11ed"
+    },
+    {
+      "id": "d78bd1f7aacfbc36b2b22dca4617df8891173d5b4bda0937ef81b35b7a971b83",
+      "text": "— repeats your mistakes back to you as confirmation.",
+      "hash": "b3105604e2466ec8683fe6a2ffaa2834e0c9b5bc41151a3fb314bcf6c11cc605"
+    },
+    {
+      "id": "0fe9be12fc22ffebae62c682f266158157c6ff925a19e01a1d9d8f5924400543",
+      "text": "Diagnostic test:",
+      "hash": "e4ca217b3e83458cab68a3d691bdecaf12d7491f8a61389bc5a4edb039226e70"
+    },
+    {
+      "id": "7ae894dcaaac472b0166148e37d2124c43a2038fd4132b45b6214dfbf5cb8f85",
+      "text": "would the model have said this without your steer? If the only thing that changed was your tone or framing, it's sycophancy, not a real shift in analysis.",
+      "hash": "1a4220ba8ad1b0e70b65a789fa87482f96106c854eb3a4281b48fbe5e8be6f8a"
+    },
+    {
+      "id": "02f58cb6dd665f708ec303cc5519f9cf14a3db5572b8a85b0f2b179687a8f832",
+      "text": "Fix:",
+      "hash": "943df968a5021d330748f0790b2bf2724966a93a16202e196b3d3b4acdf1e5ac"
+    },
+    {
+      "id": "cec59d48b7d8d8308ea0d2b7fd08a29c5c526eb8c5b6ae002241b93d6fda71e7",
+      "text": "hide your preferences. Phrase prompts neutrally — \"review this code\" not \"is this code good?\".",
+      "hash": "c12dfa6c5a697e6859e9644d77133ca9920ec924b2b965cd7c98c3071a8c4a29"
+    },
+    {
+      "id": "8d5245ce1bef37b3198c44c735a3fa3ce0f04ccedd0cf7809732df0c5dec42b7",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "30e565675eb7e20766a88a50acb79140309936635840bd0789dbd529b3f7d137",
+      "text": "using \"sycophancy\" for any wrong answer that happens to please you. Without the diagnostic test, the term has no more value than \"wrong.\"",
+      "hash": "d4d28d7144934a006ae37e3783948bed026f2ade34ecaadb7c3734b1947df157"
+    },
+    {
+      "id": "b987c398b50479bc9e6674456bbb81b157d4c86d72088da8a572b50371bdb1a0",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "359f24193e7d361e400227527770dda65f990823873e1ffc6f2ce66dc69b829c",
+      "text": "\"It said my refactor plan looked great, then I asked 'are you sure?' and it walked the whole thing back.\"",
+      "hash": "7cbdb8c5e4b7f279f8e64b2db200ddcc32e52ca225e6e73f1760b3782e7ddcde"
+    },
+    {
+      "id": "55aa4589ee776a970e52f66e990fa37dde22ffa57c63d049bd1acbfcf4c620ff",
+      "text": "\"Classic sycophancy — it agreed first because you sounded confident, then caved because you sounded doubtful. The plan's quality didn't change, your tone did.",
+      "hash": "f6759af38b9e3f1cdaf177477043a34f0c1ac0e96eed795acced80f57719d286"
+    },
+    {
+      "id": "f1b50d09ee80be0245573b95c921864b2774f7dd26685d459aad338664da89e1",
+      "text": "Clear",
+      "hash": "83b12c2216efb4fdc924e1deb5182e905e4926ed0c1c324d467107f46d5a26a9"
+    },
+    {
+      "id": "90cac66cf8021d132277f00bde4a7b4e579ad50aaca56244b78d78207737b2e4",
+      "text": "and re-ask without signalling either way.\"",
+      "hash": "ec068795abf15000c597d8ec3af83a57b6e571838fb24852d8b1bb5419f3792a"
+    },
+    {
+      "id": "ddb64db01479b892765a1f0f64face0ed2a0b1cfc0132f44736d0632229240e3",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "f6310c2d1a9b51f26ab3e1cb430f3931df4fac7fd834e9e959456a58f244f9e0",
+      "text": "Sandbox",
+      "hash": "67fc62497e85d81bc54ea07aa87dca6868cd470e95d7281155a8eb532ce60009"
+    },
+    {
+      "id": "e76b90aded5ad225b944edbb0e06a332abed8861d6f6fbd46d50cfcfe3caffe9",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "2ebda1ae3a78d5ceed869acab40eb582d61dbdf9345d9bb4d5bf73e776ba41b5",
+      "text": "Hallucination",
+      "hash": "08cbd764e551fe9d33c8868ce7edae2ddad683fa405222f643580b0fd2a25e5a"
+    },
+    {
+      "id": "afc981a51b1b829e6523be5a5c53afb1efb0a7ecf3e0c8feacabf54d6db0aa21",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "08f2a072ce44006d18b87f1eed7ba261a8cbe0ab28839c573969531cc66313c8",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "ebf30f5040cd0478e48892f975b6de727caf7a998b9bbc90e114092c7532b9cb",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "34fad82ec6b7ea167f6be951d98312df54332982ed3918d0ccd8bce42db555c8",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "ce80745da1d590890c74b19472eb3d650c25e2f0884b5db7070ad5e25a931fd1",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "ee9b975ca2155786f09621ff994a49d04836f052bd41a931a43b8c3655ba490d",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "c7abc2ffa499b9e85359143901444c06b639855f8ba76f1dc23f3ac6be4e5a45",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "48b9cd9cffc4701ceb1745e73632b68730fbd6c5a030e2daae38ed6c2c78d8ce",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "8d24576ec7419109bc4789ab4abe63ad7fe3efd2a8e5150b298c5e070afbfdd4",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "ee117e937d8d95db3195adadedfb73b13b9c52549dc40c414e6462178c9b35ff",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "f6100d47b3dfdd3345a32addeb9f1401e746a0ba857242db3786cd63ade7dd2b",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "2a1ac57845c03f963c78ee5df76c954ae7a70212aeb0b00b0a29f9f8ee09d662",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "749c1b17cdf10adb2bd70eecd3221795a720d868ad321dda21f3ca100cc32178",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "c86bde22184015d831fe2862dc0da9ba4bc80278ee4430de6ca4a7fc6041311c",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "d9ee48bf0c1390d10c9b1fec2d4914c881b88b8c0eba6a6208fd1c77d3cef7e4",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "68543ece1f042f0791537a9dfa7a9eae8ed34055700f37df222aa2a21d065563",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "950b64a7db3c98308d5cdd653be44ab68a6064fb27397f23bbabf07e6a58da42",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "854b19a7ca84ee765bf52a7be7d24e3a6aaa30deeb9a6c30cc3dd415c229c87c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "6af60ff9c2520df49ad29ad3642b12724429d1dc8d62ba8b5b12187d4ab7bb4c",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "60d5138ba6a158c9924851b17733d1a5c34cd22825be91ba674739773a1ba32d",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "0676748490260ead84a66d45de45882a27c49966b7e5c9140bb55f6214ef9d81",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "fbe4bfd1edb83f4483bea048025c8a0b3af82e55e276141f0e567e5493f0a794",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f493f2b47590505293c6f3c6076d30bf2ec05e39a745d58fad3478b98924936e",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "0ecce11f2d3c336e5860ee6a6206421f3da5bf1bf6c5792225416b3229be7c05",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "57c941ddad2b79d9c4e0b9bdd7a24be35cb9376c988c42da25bcdf91df6a9458",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "34788fafc2c7f9ab1bea5891fc28dfed03c978b0e97c184a81d659b8f9992e66",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"hnx0audtzq4qha\"",
+  "lastModified": null
+}

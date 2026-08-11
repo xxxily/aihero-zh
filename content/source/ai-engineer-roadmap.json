@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-engineer-roadmap",
+  "pathname": "/ai-engineer-roadmap",
+  "fetchedAt": "2026-08-11T06:28:04.336Z",
+  "title": "The AI Engineer Roadmap",
+  "contentHash": "5502daac59d1dbc16eeef0d235b90597896082a6c329d9c6836c58e6ce103b67",
+  "textHash": "3c75b67b40013d8c15d25289079ff59f222d7e2c9129c45c513f02720664424d",
+  "strings": [
+    {
+      "id": "f2d25eb362a8beed77124b7c354c2cc4e6684b189a0ccdb5b4f13ad8af79462e",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "e1bff1d92a16eb3d88c323d5d84ea453bae780dbdf51ac277b19f49fada10574",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "8ec8b5b0d8af7eb820b5e01897eb24b34f79b439839c557105bdc6a044efa170",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "80799fae2714453e1bfa96a1fac9a4b7397781d7188f50cab2c0c0b89e2356f4",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "3bc04adc2b2d8c12043b1c5715d127bfe9b3d989cc0a82e6f9130829d5245370",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "76c51c4ead21d31e223ee6ca4cfc06222ae2ef4b42a108b65bafae55e2858414",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "5a4c4a05f0e60d75295f671c3af56140ed9a8fcaa5fa064da021928ed3796780",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "5683a4b43ad136d1ce646bcdc196c25bcfe301013b6c0e58f08739a13e41d0b0",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "80ef417ba2d2277ec740e702f787fc6d39d02d109c71a4999b897c8fb2c51805",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "67fedadb000897da0d543001ba478003598f279bfca0fb5fb4b6142bda048f63",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "c20ee199c7f26cbbb9e5f6f77cde3ad8546dee7d986ed2db8aea1584e68c2e7c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "2795e17658a946bf287b3db287a5f098b99c7fce1cf6c8ac55b9d7a1cf11d372",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "cc2d4e16572b3d52e699647e18dae06ba24491e6fcd8486cfbefae2afaa52dea",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "46de297807d6c226d3ad3f41fc34ab334c375a56bb4327f1a8271ca765844d8e",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "caa367bafbda2382c9b5cdfcfb5b218dba1640458e1d8c6e2056daabf28cb0c1",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "a0f170cbf57353a4934f708a5598930070ac784ed04c03e9b073dc0b96ff2dc7",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "6233f6a6cd39c7e9f533598721ce527927fb00001d1e94b7c8eac6bcc150366b",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "01ad24baf467a6d03b686f58a519da537dd1c30e03f447b501accb6ca8465cf1",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "5a6fca98e6adaf0044364cfd0dd2ae01d6a0b28a26e1f5d91303bf246bd9d1fc",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "926b51123a60fd9dfcc4e3e60c8e14799ee4eac717fff4b88cdf7ae1bd8cd341",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "7c0dfb126ac9c544c35d659fabbf404274560805e2bba6044556c7280e759a88",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "a03f310da11e74bfed1314ee2ee5bc047d01ecc5cd2dcd0a5d6b31559b9e6a25",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "1304a47c36f1e95d07ae8d4b33377a2275d65ffad00244bc3e0d6328e189d912",
+      "text": "Free",
+      "hash": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d"
+    },
+    {
+      "id": "42c1f3471f552758ef91a794c3034cb7d670cbd4989c5fbabf1c2ea6892be288",
+      "text": "Series · 7 lessons",
+      "hash": "dbfdf279384569022e3768036fedc868e8969c9cca67adfdae40d3d03c279af6"
+    },
+    {
+      "id": "41e56543fb9a9e04f6ab93ac079539fcd97698f54a0e015da3c5ead4975aa0be",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "e14267183b8c8f244038c2a0da728c4787eb26475e1c92a698ef41f3a17bb5bc",
+      "text": "Want to build AI-powered apps, but don't know where to start? You need a roadmap.",
+      "hash": "66e8b04809428e37d3eb084776b5ffcb0322381ed0a177c011e99dada67c1e69"
+    },
+    {
+      "id": "b0d874aecfae3b5e8bb1aa6be2e98195a3257d64e6a5ba1ac16f5c05018b5705",
+      "text": "Start lesson 1",
+      "hash": "4807b65f9294479053540a531b017e8fc8e9abafa633eff06fc9e6f29557bf05"
+    },
+    {
+      "id": "60b4db90ab721191d762c96a027ee730985d15f3998d99a4bbd145f8bf9c5304",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "9b6df24a23326a8efd3cc07b164a37aaf3e770b56b67754f134eabfd43ba9315",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "d55d334b4c1606fd317b294cbcf8b6e96ee263c47b09642f13040a51322afd78",
+      "text": "This tutorial is your roadmap to becoming an AI Engineer. We'll cover all the core concepts you need to know to build AI-powered apps.",
+      "hash": "bd206c4a9ac51c2634bc97e1e30c2fa4650abb79d56d1d2525140e41f1887072"
+    },
+    {
+      "id": "de2d47ebb1d9449991af00ab60179aba09ffa2504915e2aeeccd925f0c209b52",
+      "text": "When you're done, you'll be able to:",
+      "hash": "e34298c6c6e40b882fc3bc4635f575bd9613def1589946aba16edb07b7f5c634"
+    },
+    {
+      "id": "3df6806db4b641f1210ee4d0943c8f406372dac68d695782fc1a11b7f8c620cc",
+      "text": "Engage in meaningful technical discussions about AI engineering",
+      "hash": "3752f942b02572c753ee25a0a96fde944b369630795429651b1d713814e71829"
+    },
+    {
+      "id": "8d8f755fcbc8af1846b7f982d0fd8121ec8dc3d46eefa5e61ccf50786656b6b6",
+      "text": "Understand where new AI breakthroughs fit in the broader ecosystem",
+      "hash": "9ca85abd73b7c452d6976929d19b7790fba846e051a2689c0ef9f0b870eaa67b"
+    },
+    {
+      "id": "9d87a97baa33597a631953a8c2cdc852e8824d3e39ca342f63c7b2d4608956a8",
+      "text": "Make informed decisions about AI implementation strategies",
+      "hash": "85d4a0d9302b12e424f352d8d404e8b550c5fdc54f1b1a41fb62cfcf9f09233c"
+    },
+    {
+      "id": "c51955e5d561c486ce91d0325c5c3a3a8ecbe170682c959d771cc5a0bf18d7e4",
+      "text": "Then you'll be ready to get your hands dirty with my",
+      "hash": "09b1898fe3cbe03b1ebd90637f2d1d6dfeb915bdbf9c843be914aaf915c5c317"
+    },
+    {
+      "id": "d9fb0370bb15b66588fa8e2d842d26dbc4a4a73ab213b90d0b581426827891e5",
+      "text": "Vercel AI SDK",
+      "hash": "490c9cb0b3e768b12adbd0e81ae2f6fed2915bfe0410ad2c71f0e3d71d1e5c74"
+    },
+    {
+      "id": "15bca6478668ada0858cbe808678c98659fa72c14dee7aaba7775a7f73fe34d7",
+      "text": "tutorial, where you'll put your newfound knowledge to work.",
+      "hash": "423a99c60895080c4d78f8ea291b0f8b874673f55b307caf44b97eb512bab2ce"
+    },
+    {
+      "id": "55f90c1c2c4d8a69e224ef87057183d971ee96cc4652fa0470ebd4eaf5cf39e9",
+      "text": "Let's dive into the world of AI Engineering!",
+      "hash": "45694818deb39281381a8243594c2f4fdc5580120afd17f9b70acb96b5800d5e"
+    },
+    {
+      "id": "30dcb863169f5272cf2954d394bae073a8ff6f2ad89a722f18553fb0ec53b4ff",
+      "text": "Diagram Pack",
+      "hash": "06ec2b5a90542e0189ac4eed248c34c527b5d8a9d95721ec31ff29d56c0bbde3"
+    },
+    {
+      "id": "bc4fd9fa64d55ccdab778593330fc3b6044a7e52b1a4d0a5ab1834bfba711cc2",
+      "text": "Want to remember what we've covered? Here's a PDF of all the diagrams in the series.",
+      "hash": "4e08b4079db0e972ccd5249aee16fef8bc2141b63181289764ded1240f165bba"
+    },
+    {
+      "id": "a22d0f2736a7afc0aa62f2cda5bde998f52a80b1a05eb5b6d2b2fac429d954b5",
+      "text": "What you'll learn",
+      "hash": "1c1710e31c7cf7c4421ebf663e9209d95ec55b980e98f279320019664bbd157e"
+    },
+    {
+      "id": "f5d310cc04e0ea5812458b97afdc32f6b96c019fb44af8e5bc23b6c05da14f14",
+      "text": "Core AI Concepts: How AI models work under the hood",
+      "hash": "4634e62e882b0b9978c5f0362e920d01791722b2a5ce445d7a4524d2411e0166"
+    },
+    {
+      "id": "52d902de1be4e0a00cc9c4b54009f350a9a709d2ff2f3af07a3b2c81505b5558",
+      "text": "Model Selection: Choosing the right model for your specific use case",
+      "hash": "56b612f4b32888353d767d8c6924e1514f30b7da776e2e9166877ce8db55ead3"
+    },
+    {
+      "id": "ef3c34a90b0f675aa308597d1834989f8f3bd6a45b92d44f0c44e4536434da2d",
+      "text": "AI Engineering Mindset: The key principles that guide successful AI projects",
+      "hash": "c8f2ded68754f9ff03f7328f8251798aca4f8fbf9f13ede77f47efb4e1175e16"
+    },
+    {
+      "id": "2269fe58828dcc3fc940eabf1fe70b614a947a043114aac26825982be2bf7ba4",
+      "text": "AI Engineering Techniques: A directory of techniques for improving your app",
+      "hash": "518f58b1ea8d07829108a15616465954c7c4de3727f3560c2eb48c793c68cca4"
+    },
+    {
+      "id": "d14ddd4969c35563bda1b742a0863f7a893b812f60d251e211abafb2bfc9cecc",
+      "text": ", in order",
+      "hash": "68cba9003488304327954a8e8befa73118d6753600a5c8ba21d2b99194e0ee1e"
+    },
+    {
+      "id": "ce9f2b51adb676e9f94338690c4eb9cce0854d5824e7843e201ce73e9b9570d6",
+      "text": "Explore the role of an AI Engineer, learn the key skills needed, and discover how it differs from ML Engineering and AI-assisted Development.",
+      "hash": "f369d2a8d00b8817f21389fa642c2f31fa6db4cc06186279387064bd95d62072"
+    },
+    {
+      "id": "1766f8e6e4fa4263e018f350942a9e44b2544d535f026759d712eea315b46e32",
+      "text": "Discover when to use LLMs for data tasks like structuring and classification, and when to opt for deterministic systems.",
+      "hash": "cc535db479f82807922e33f68f7f1fe03f1062466deab59986be029bbedc8adf"
+    },
+    {
+      "id": "dd9500b5c5e657350d6b74980a2461eada7aaebe96ac21d801e8ff4bb11ab672",
+      "text": "Lesson",
+      "hash": "6e2b26d9de4033b952bd242f69b798420ee887151b937f394efc23252c78af74"
+    },
+    {
+      "id": "9a0161d46f1ab09ccb48e9c4079d1bac71dc9ffd2623bd25be14cfbd4e095194",
+      "text": "Discover the basics of Large Language Models (LLM), their structure, operation, and creation process. Perfect for beginners ready to dive into AI.",
+      "hash": "5b0896cb80221a50e2defa68fbcabda11e84f6af3ff49e4d7de3071fe7ab6929"
+    },
+    {
+      "id": "078b5d5897417290ddc790d33c18992ade4fc17af8631cc86d1467812327591a",
+      "text": "Discover the best way to choose the right LLM for your AI app. Learn about open vs closed models, cost, latency, and hosting options.",
+      "hash": "8310c5c45f15d1e6a78d96a1a6ae70d53216ddab07ce494db0bb800566992b7a"
+    },
+    {
+      "id": "f9b78c2d82ffa142a9b103a708f72d84fea9704dbfdf3b24920cbed5d5e1a45c",
+      "text": "Learn how to build successful LLM applications by defining clear success metrics, and creating a data-driven culture of continuous improvement.",
+      "hash": "02ecdd3a3757c036153f2cee64b1e2607642a9a7191df28163c403e926d02735"
+    },
+    {
+      "id": "794316d5ac00efa255037a60af0a2e18a1858f00be5f455faa3b08e4e28dd42c",
+      "text": "How do you know if your AI application is hallucinating? How do you ensure it's outputting what you want it to? Evals are the answer.",
+      "hash": "1f678e4c3ce147fc0ff2d8ffa1f7321ed744547d3d26009f89bd5ee66e54853d"
+    },
+    {
+      "id": "60460730804d6e2a3b69c0893b1fde9bf2ff3cf059cd47c718bc717805bf939e",
+      "text": "A directory of techniques for improving your LLM-powered app.",
+      "hash": "241b79fbd537ae1e4549e9dd02ab986063c0077b32967bbeb5875f59bbb5d800"
+    },
+    {
+      "id": "04c025014e96cf6df6021f90df44782a00a9ed2ecd3fef3ae38e12d604ff8179",
+      "text": "After this series",
+      "hash": "75f6cb80aa7bdad3183593378875eef704e6283a499b6ff6abbd23b39e102b7e"
+    },
+    {
+      "id": "1178a06db95574dd381d42e9ed6a79a853a51480a32a463f6294b303cdd6a856",
+      "text": "Put it to work with the skills",
+      "hash": "afafc559c8d1f99ee7bd9bd45410e1e6f25996b6cdf3f2aa2b79e4a49ed21789"
+    },
+    {
+      "id": "66649df0c6616441935f8a03e5d0f586d661845c17eff5f24488122107ca9414",
+      "text": "Free, open-source skills that turn these fundamentals into a real engineering workflow with your agent.",
+      "hash": "6fd3244b26a73522c328b991ada3b3cbbcdf48ce9e567250ed819b685d43664e"
+    },
+    {
+      "id": "15091b82a6410130e0bbc70d3429fe428432fbf54312114be9b8ae96a3422f76",
+      "text": "Browse the skills",
+      "hash": "ff3445acb23655f25884c073ab7ed242d2977509db6aad1bf39a651bd4c82db7"
+    },
+    {
+      "id": "2348b2ecefc57525d7c12c294522dbcebb7da9f938648be76b5815c7a7d63813",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "122abd8f9aa32430d5e8a609777d65e0caf8a0df69f67ec246af67c25a4d9fcc",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "d9507020c6b8ec2bdb7c3b501525abe7d9392a1b22b853e5209d9be79141e80e",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "1bfbcbfe76b813bdff4efdfd6f838c0859ed57dfdc64386cfa146d8549b412f0",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "b74f15ee67cbeb0d6e4d9f933eb0d1188201ec4e25119067dad20ca08869500b",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "daba993dad995d671f69c9a6a64b9d777a2e1c266379cd74d3e890012369ac4d",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "77bd8fd3ea367c6751aaf53017aafdb9748ae8b7942cddf52e6effee4aa58d98",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "139cdc148f8623e8e7835ba3c31606f7e3664a5d50ffc1ab663e82f9d5ac1290",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "fe0c60097351d25da3e0281514b873985ee76482fd4f53cb4da90fc8ff64b94c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "45dc6a217f21cc88853cedb322e2c8df7aa1077d6387ded1f43cfb420a85fb40",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "e721d05d6c49e28e799b2c91ce5a067674f9fe0565e38e60b03f9db75f968769",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "f675392b91c347fc8182ae94bac5a0ddfd8ed66a4767c813f9903c2971450c47",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "90a5b6bca799ca6faafa56e28fc364624bd66806b4de66e05298fdc067f05101",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f4dc396f13649dee341ce0d8183539f8b72a036450c1f4d31df80e67c13bc834",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "2799f3ade320ab664742da75b84ff5a45bee05930da41e57b48a8a988141e080",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "50226b42be2b7d87b6d5221ec4bedd1189322b88480fdaf23ae44b7d7793aeef",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "808aaeeb558402d3590efb1375130d91b947a7aa467df49ee7e23f833e0b3687",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "6935b776fe7ef843c9e06b572244dd3de7e0607d5f019037d9c7180d7f10ab5b",
+      "text": "Lessons",
+      "hash": "cb4ad503e340ebd1a921e3ed6dcbfc0a80660936d8bfc9d190f70694b9ccb51b"
+    }
+  ],
+  "etag": "W/\"8m2t0eq2g95hrw\"",
+  "lastModified": null
+}

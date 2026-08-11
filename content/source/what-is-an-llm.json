@@ -1,0 +1,648 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/what-is-an-llm",
+  "pathname": "/what-is-an-llm",
+  "fetchedAt": "2026-08-11T06:28:18.858Z",
+  "title": "What Is An LLM?",
+  "contentHash": "c90cc62b003bc1417b7a73ddb34ebfc405a84826c32e70e17a3ad83d42f465ce",
+  "textHash": "4dc2883ddf0fb221fb9b237c6c6381f9250d2f57396b557334a6853b9f7e4cee",
+  "strings": [
+    {
+      "id": "72969d28015691c4083790eb8ea4b7604c082f84f1856d15caecd5f547e66211",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "03b7967c6dcc5b9692fd103d22b615252384fecfb768a011cefbd7e068a0aad8",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "b97713450a39f37cda3c13cb0117df315f4ce17518149fef5e37ea3f9d1de360",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "429b06deb2b89d1a3115d19a52ac3f652408014f7a3218ebf201c578f2500a36",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "74228809b11118b35e4cc57a8afe64f5031269276a1c2649ee487bf96ae1bd98",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "818803c284074c15380366ea7c80ffa87c8b56b1cd67d95e497448dc82645320",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "fab88785acda76db691118fef79c351499521801bc438e3600d72d061cca0c2c",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "bd64ddf342c51a489f3eb2bd8822c0f248e0b0b144d86e1f25b6f550e89994ed",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "d596516b06cb6539529206311a5e814e7ada1ee4b352e360b6c1cd1ec968986a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "3574485f586b692d5001c8732a12cab7de2746ac18757b24cc306fdfd3b525d9",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "a14c4ed963c68310b1b4e5a4d238d62044d32dabf08e519bb99752399803c252",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "3be9e0a263585e12f19e232b40c1dc3cb05c8fd59bea0091955ea0998eccbf09",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "3b0530bf63dfdba9f37dcbcbfabb474f1c3a9b820811b325eb734dc627714804",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "b133a40e5647b4eea6944b31d8fcb751fced6c1f7e1b793f24ffea64476abab9",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "85f53f338ce001ffa1bddef9f9ca852856f6404cc212c0c7940d68fdd339cef7",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "b311dc3705e3e642c994bd5d5d705790bd7a6f41b7d86ca7f25816dc7b7411b1",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "01e495985f1e1ae6847639d9661439d2e42dc75c55d0f95645b759ecba0ed80e",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "2dca86885bd12eab54d863806d858f17ea711f072ae77ba02d29c289a80d9388",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "f7e0985c906d8133331562ed59ccc2908de534a10f794c2bb80b9c87b0a677fa",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "69e0726d6566340afd8a8421b794752c56a5817be839e2557fa56b984f91a574",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "1c2034066a43c7837f759cbeb1b9271031b0fe96a798f80919ba4fe86276c35c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "051235da4639cd6452ec7ee996524717dee44222c5f74050f03203dfbbc10197",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e1f0d165d092d21f132648124ee8b43a45182a44710c939b7f7a2a5e65a39e0e",
+      "text": "03 / 07",
+      "hash": "84407f13dfc6e67534b1752c05a1648ccf7be7ad577e42b8ceac6ffe353405e6"
+    },
+    {
+      "id": "7892d9f7266b36d279399c805d5ffdf5a8c435bc754ac07e1270dba525675bb9",
+      "text": "The AI Engineer Roadmap · 6 min read",
+      "hash": "ad3c8fa6a2db4aa45c5edca9d4e36e186bdf91ab8e37d19ed331276e28da6797"
+    },
+    {
+      "id": "650cde31044ad0e3d8b900d40365b65ae00367528706d7a32aac34419132b994",
+      "text": "Discover the basics of Large Language Models (LLM), their structure, operation, and creation process. Perfect for beginners ready to dive into AI.",
+      "hash": "5b0896cb80221a50e2defa68fbcabda11e84f6af3ff49e4d7de3071fe7ab6929"
+    },
+    {
+      "id": "c59064eb942416ea5624a135021e8bfea353d18eb0a45e16f95ad691f161c634",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "78803910c573a91b1f7e77a48b74f6c4a7814b5bbaed971f05d4cf4515c9a360",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "037c38f5f7b34ec1feb2d55fd6b667f3477b65bd649db77e4903fa4114d7288e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "552716f4db74c118fd4088d0c872b77496bc134ab859949c7e9ce44defd3e56e",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "698f7f694950ea3f95335417f96056f6bc615ca03df2f0df85739460d6395a33",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "02d90000a12165c47b8396acfbb96c991873d65d0d9731e03f3a0ed78b180700",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "6fe4fb357c65ad238959535f24d43886892d555b83d4af973cc04004fb2a7256",
+      "text": "What Is A Large Language Model?",
+      "hash": "a97a144c193e5bec25cb06e76085dca37e2517041ac6e9dc28d734ee65719101"
+    },
+    {
+      "id": "762f9f72d542a0e1c9e56d354134614021faabe1941aab08041defc6fd10db6d",
+      "text": "How Do You Run A Large Language Model?",
+      "hash": "727bdfc80b26be600dfb3b8b4f78e548d874660ca7be46cc8be51257c27b7310"
+    },
+    {
+      "id": "adb9f1cfc942d97d635ab63dca039c7eab18da02d4cdb6b9c1daa76781ca3fb5",
+      "text": "What Are Input Tokens?",
+      "hash": "aacb44b333d17ac43b5864f73d9a6ced400d68b87e7d1848541c215a8da7a128"
+    },
+    {
+      "id": "9067ea58c2a9448f003dc2408e0531346a7e255a41e36be712b4cf4c2f926b17",
+      "text": "How Do You Create A Model?",
+      "hash": "69bde88dd7337ab3c8be50f09f27298f8cbbd705e505876934eecd1828a0dcdf"
+    },
+    {
+      "id": "33dfd86f7f93191c4dd66e11dedf3cf92264673b0db4b63102a41a041306232a",
+      "text": "How Do You Introspect A Model?",
+      "hash": "801014cf1572e0715fcaa0c2a0d6b3118bb6efb224cde6dc2b4cb1af4adaf7e5"
+    },
+    {
+      "id": "71b9a66c6f9a7b4e75e5b1d4e3b84a26f84f816f83cdd73e6e71dbb1ae8a8689",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "bfdcd7ae677186a21664c8c9fe64967b5ca6f2ebba3c3328bec327f339be11ef",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "e881e8471a50fe221d476bc5aaee02d4585bae2db84acaa65b7cb9c6eac02ee5",
+      "text": "In this article, we'll cover the basics of large language models. We'll talk about what they are, how they work, and touch on the process of creating them.",
+      "hash": "138332f1d2e8cc4c32ad51fca51e6daec5e10b3cc9faf5afbc1a74d3b0651c24"
+    },
+    {
+      "id": "702b4e5707ea66db0e9861f39d0d47f90fc9b36ef82b3e623e860e815806d754",
+      "text": "Most of the resources out there go really deep into how LLMs work - we're not going to do that. Instead, I'll give you a brief overview of the most common concepts so you can go ahead and get building.",
+      "hash": "d45ec3a166303afaea874539f5596f75b4c123597078f295c78faa55cfbe1c87"
+    },
+    {
+      "id": "85f2876e41b37b2f1f92afec4ccc501999d9a191b84b5a62195a5191d098ef50",
+      "text": "A large language",
+      "hash": "eb020757205d70ac34058107d9d927cd2f643fc5bc58f13015af85c1525696df"
+    },
+    {
+      "id": "4e17559da403f9be6307b7d7651b283b7a4aa99c126e56edbbece11d341ed23c",
+      "text": "is essentially a massive compressed file - think of it like a 1TB zip file. This file contains a bunch of numbers, encoded as 16-bit floats. These numbers are the",
+      "hash": "95517be376600111ac74ba01ddd0b3d1c44817a57de038919877b5d6a9638e4b"
+    },
+    {
+      "id": "454f0a75d98651244ea6962d361d9967b1cadb71d92bca1089eaf36522d499e4",
+      "text": "of the model.",
+      "hash": "fd1d0d09ea9ce68667412059adf9018a44d33a51ba6e98ddce8dbce82313e588"
+    },
+    {
+      "id": "45bb2244586843735a8fa6d0a79f018d8ad77b5ee3260589ef964231ac3369ad",
+      "text": "These parameters represent the 'brain' of the model. They are the result of the model's",
+      "hash": "8f93adad43723cfdcb75157d3d14f2c9cc1c548c3b24f2ad0c5127f7869cfee9"
+    },
+    {
+      "id": "a9285c02c5225b55c7f21498713de211008645c313fdb65a2a5dd8ba29430b2c",
+      "text": ": a process that takes a huge amount of text data and 'compresses' it into these numbers. They represent the model's understanding of the world, and give it the ability to remember facts and make decisions.",
+      "hash": "af412f95b8ace3abffed6bb8a79dcbcf29d60d01e80e8a3cdc25aeabaa11ea96"
+    },
+    {
+      "id": "e6981f9d1b5c537177e6fc435eee09c42f5cc964056b43fe0657c1b4d1b6632c",
+      "text": "The number of these parameters represents the size of the model's brain. In general, models with larger brains perform better, but run slower. A model with",
+      "hash": "a23fd8106ee1413c9f9e7d7befb9daba203cd798f1c304d393d81c84772fcf05"
+    },
+    {
+      "id": "7f703073fc5a313175057e84d8c6b69bffc25d61bf2b5cbfa30c00be69501d16",
+      "text": "70B parameters will run ~10x slower than a model with 7B parameters",
+      "hash": "11f9749002a96b3c650c5217471e174a11d4f81448fb6ab0493630700dbada3f"
+    },
+    {
+      "id": "08bcde407048cb0a4980ed9cbf83da7dbb26ab0610fe456b7d755189a18d7914",
+      "text": "Already, we're looking at a size vs speed tradeoff - a common theme when choosing large language models.",
+      "hash": "402e3e74e87421d2a9e533a90df724c726b68de760532ab33897caaec1383b6b"
+    },
+    {
+      "id": "ef962bbaa359a5324ad012dd594186e50c0ddf9d1f4c5634451f15acc7e624e2",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "8d39fcc6cdbdf40fd51eefa72be0af2d2114300d3f24d5a743dbfb1c89e46997",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "169a685ec11a75839866a6fbe8c44d022868fd979c198829bad670dfd2c4a05b",
+      "text": "In order to get the model to do anything useful, you need to perform",
+      "hash": "6831fb3515aaa1282f5f0e8acaa454b416e87f9dbe5993de7a0b65fe843e4b4d"
+    },
+    {
+      "id": "f7142a72dbfa89a873f48225f0f75be5f08923b3f3233232f0c167077fb3c2cd",
+      "text": "on the model.",
+      "hash": "f042eb502b4e4eb57dde933b694dd76a2741179a51e0574e43daaefb9c6a8223"
+    },
+    {
+      "id": "138a39c0a8fbcbadf4dd93b28faeeefa56452337133dbd472240232b722b4489",
+      "text": "Inference is the process of sending text to the model and getting a response back. This is done using an",
+      "hash": "e660643ec90f60af4effb6dd7b8635dac066d3229c6e198d59dd272281418efe"
+    },
+    {
+      "id": "afc1564023a53022b8c5cd2d3d259716e0bb67ad33b5e3108df2cb9d101b5282",
+      "text": "inference function",
+      "hash": "47d68d9bd6cc91bfcdbf4b80cc8c34c4a19b20d6f30bafb507d504c62750a300"
+    },
+    {
+      "id": "f189494549e7866ed64b471ba7c3098b55ea1197cc3a1d881ccd2fbfca00a590",
+      "text": "- a piece of software that takes the parameters of the model and runs an algorithm on them to find the next word. This is far cheaper than pre-training the model, and can be done on your laptop.",
+      "hash": "672b45424017b013f04e80a71a2c4c9db1cae55d6d74c8cbdbd10da8843a81ff"
+    },
+    {
+      "id": "743576dd449c59880f19e44e1fa8585d45afb00ee633ad7f30da6d2e4f8411ee",
+      "text": "For a deep-dive into how inference works, check out",
+      "hash": "453cc2d0105989d6c012c2dd08e4239733ed8f3bf13e692f5b8bb809d9593eac"
+    },
+    {
+      "id": "1eda4daf6728103a02178474ca7f206b16712e93147c6d00d9a51f62977bd3b7",
+      "text": "this incredible interactive walkthrough",
+      "hash": "aea81f2a33405a56c8708027a0a5853fd8eb07aab4f7ae9507a7125ebf0f3ef8"
+    },
+    {
+      "id": "f10d7d5387345a58f3d98adabad663f3276c67aac0ede1256195c264eefaf356",
+      "text": "Sampling Strategy",
+      "hash": "338c8437a468982b28d9818ce630c28bfbf1a3458e6a0e72c8ce873265db2db6"
+    },
+    {
+      "id": "af73a1ba3d793a32e70ad7b822a6195eb4310cdb2f0f47034b636933ada59841",
+      "text": "To find the next word, the model looks at all the possible tokens it could choose, and picks one.",
+      "hash": "9163d027752512cd1613b469c80a1ab5b89a05aa98d9e9b7aa6e6b31f2b9250e"
+    },
+    {
+      "id": "e62c76d5ff680fc991f8f83607820365232988b0a7aa0b01dc9f2bc8f2b0d3fa",
+      "text": "To do so, it uses a",
+      "hash": "6888aecb07516aa04d330a0306d342d7e3b244bf19cfe15e06c6ff004d77094d"
+    },
+    {
+      "id": "4686522d013529b58bbba38772eb641f07a9845b735620659e3f2b248d4b7449",
+      "text": "sampling strategy",
+      "hash": "2881ac1b0a3eb7dce1b5f82d67119db44fcb5faf76e32d067285319c4981ab41"
+    },
+    {
+      "id": "30575d392e2567ef26ae4d038f4965dbf6143bffc4be7d0334e3d81a8755030b",
+      "text": "picked by the developer. This strategy determines how the model chooses the next word. The most common strategies are:",
+      "hash": "36eb97bcdd1e433aa72dcae4f36c5ff4098bb7f552b33b61b7da1ab4229be18d"
+    },
+    {
+      "id": "bc2af936882804c13b0a07ec8f623797b1d367d0d9dfb510e85dfb081178a7aa",
+      "text": "Greedy Sampling",
+      "hash": "e3f895e69eb4db8c7ef3be6abaa42967ba837d3fc9ca0fa4ccd42682c46c9cd8"
+    },
+    {
+      "id": "fd3754e55d947279e5e077bca55e8949b80590b27f5f1a67561681c391d5954d",
+      "text": ": The model always picks the most likely word.",
+      "hash": "fa269553e18617464587e2b5d5c108fcf3a033898a51ba14828cc86bc3003ca3"
+    },
+    {
+      "id": "bbd05c4191cd2683429e0ce0950bc7e274d4977d876ec4c0a30b6662047e69ca",
+      "text": "Top-K Sampling",
+      "hash": "69948bd7b4bf82f965a02331506b74e6c1d95de1271f2c5d9e55e3e4b0d64ed0"
+    },
+    {
+      "id": "982f7243650d612a999bccd12f0113498ecd0c813b760cd6ae6a9bb138e89268",
+      "text": ": The model picks from the top K most likely words.",
+      "hash": "563ea124c233b7df2af64b201610c544442a10a6ade6e5e69ffd4d8fc9897d72"
+    },
+    {
+      "id": "ccb840624570906c432b5e621f5dd10f353f7302e305b5577d6415e57681a516",
+      "text": "Top-P Sampling",
+      "hash": "82270c022543194ea768d83ea5cf332b8487b57e81d9a4f1a91dae79b42f66c7"
+    },
+    {
+      "id": "139e422eec6ec327fa1cb13a341cf75b02ae2e127d478947ffb252f28b6de775",
+      "text": ": The model picks from the words that make up P% of the probability mass.",
+      "hash": "18b89b20dcbc5d48f073c00196be4acfcd077a60b897d1491f0f9ca29ad2a195"
+    },
+    {
+      "id": "5c4dd021f4e1cb2e7abe0e0ca697a548b96cf2e4ef4f9fe5e2af745802936f79",
+      "text": "Temperature Sampling",
+      "hash": "f3dc11bb0c64ceac49096963e05056f07c4534291597ec408162a155c39f60fc"
+    },
+    {
+      "id": "427948188b9b793188e40a6e270cc3f222eed7d463488562364c1ea535a7b5f9",
+      "text": ": The model introduces randomness into the selection process, allowing for more diverse outputs.",
+      "hash": "a78c9fbd812c27241f8b28781f22b339d4b41f2beeb942d6f8102955d095ce29"
+    },
+    {
+      "id": "e035862a707036fd677c170174e966ae61ffa5d2050d8fcfe2f817dbc81c6707",
+      "text": "It's beyond the scope of this article to go into the details of these strategies. Usually, as an AI Engineer, you don't have the ability to change the sampling strategy of the model you're using. However, you can tweak variables, like the temperature, to get different results.",
+      "hash": "12f9525891f5514ef59b5b7fcf8b3210c7d80d17511861049d390f99109f68ba"
+    },
+    {
+      "id": "5f195f6f064d9336e837ccaebcc65f62a4cb4ffadcabbab79eacc408bb0f02f2",
+      "text": "When you send text to the model, it first needs to be",
+      "hash": "5415022b8ea1a88d3d9af7521bc37ff6da5f2f2b1ba84d0536d91a4f400b3eef"
+    },
+    {
+      "id": "3fd88b6e4ca52ff3d54b19189b190b6180fb0c96e5aa7dba94f5d43e4a07b95c",
+      "text": ". This is the process of breaking the text up into individual words, and then converting those words into numbers. These numbers are the",
+      "hash": "cf07ffc80fd22d27aa39ef357f7f42caf8a314dc91f0d6f86123594abb6aaa7c"
+    },
+    {
+      "id": "8bed3f09539dbf3c95839b5d388367691bf573700bc55bbc122f524585f41edc",
+      "text": "input tokens",
+      "hash": "f0c1cb4cda1985a408b12908c01227b01065a8cdfc2a03e2106ca60275f27d16"
+    },
+    {
+      "id": "72e6e74677029e584fecbe39ae361306058b3ba6e12151789ab83ce4d36bc1b0",
+      "text": ", which are passed to the inference engine.",
+      "hash": "8a1b26bf0093621403d9858d4a0bc6591e5e6804bfd25d60c2ac3faf49236ce3"
+    },
+    {
+      "id": "4656f1213b5d7508a7532ebd758e72d52863d6e3fdb8f9812b99ff374ffc97e3",
+      "text": "Each model has its own tokenizer.",
+      "hash": "ea9b181ba9b52383b1e8bf4c8d7bab532f78d3ba5a92820af230f995e5d8ceed"
+    },
+    {
+      "id": "c4f5077977b7ff42fc4e0b4a495a28a24bee87b1898cbc667dba105d4b6b6cb0",
+      "text": "Tiktokenizer",
+      "hash": "6e33e16f10ae21fbdd8841402ff1551a8b42ad8da46e12821177f2cea231cbbc"
+    },
+    {
+      "id": "0e5c882575444843db757234df15ad2a9fae5b5edcb506827642ea25a0bd4859",
+      "text": "is a great playground for exploring different tokenizers.",
+      "hash": "5a28ace305f9b46fae7ca9c3775f7bc46077af888d21c32d269b61b1a315663e"
+    },
+    {
+      "id": "8470298895a183506f8fa78adfc54adadec3d6a190330d0abc9f1513f6057ea0",
+      "text": "In order to acquire the parameters, you need to train the model. Training large language models is an extremely involved process that requires a lot of time, expertise, and money. Learning how to do it is outside the scope of this article.",
+      "hash": "cb5cc1458636444f7b641abc75747ceca40692271dc3969196cadac9032c85e0"
+    },
+    {
+      "id": "74da58d43337e77221a0952d4acc5367250cd3593587738523fcab669577e9f8",
+      "text": "A rough guide is to take a chunk of the internet, let's say 10TB of data. You use 6,000 GPU's for 12 days, at the cost of around $2M. And you end up with a ~140GB file with all the parameters of the model.",
+      "hash": "408ade631da30be937165766151dfecd56f05e670979c5d0ae4a591b6039f71b"
+    },
+    {
+      "id": "155b200ef4a86fea25167ac3bfd3f2f27dc636cfb6606ad3847b88d539c52ca3",
+      "text": "The training process has two main phases:",
+      "hash": "5fef0aa75c0a6dac8c5ec5e3b4d6326e3bea977e6129a299e5bebb578e8d6525"
+    },
+    {
+      "id": "6be4718165e7557bdae7b8eb19444f9bd3b50bfc3474be42ef1088c924c1f785",
+      "text": "Pre-training",
+      "hash": "2ef7340f829fb2266ab8b97fdf53cdbe9fa06713acea6d586ecd9d511d24ffd6"
+    },
+    {
+      "id": "1a0e3f46c84857abb577947997370b369ad1ecfde30c44ee8e9c576bd591d2c1",
+      "text": ": This gives the model its knowledge by compressing vast amounts of internet data into parameters",
+      "hash": "0b3c9137273297d91ccb9b35d090ec63aea8572a47a67be40ca3b5a93d9dc50c"
+    },
+    {
+      "id": "2c3dddcf3e98a560bf552125cd456485df2ab3c0d1831804a41e05cd21e42752",
+      "text": "Post-training",
+      "hash": "73401d2c9e1660e2c2acb8e2de29966f576acf1b866524d23169d51c07797182"
+    },
+    {
+      "id": "9bb0b87c809c86bda0d4c9176dad6a73bcac51aa71593b4f384c235913384318",
+      "text": ": This shapes the model's personality and behavior through careful instruction and example.",
+      "hash": "c80f685bdb069da77ef3ff33b7e23418c8fe42b9da0c145feb99190a0b3450fe"
+    },
+    {
+      "id": "265da689983f92b56958ad1b45dd97528e97a4e4d70a39a355638665022c1581",
+      "text": "You end up with a huge file of parameters - a kind of 'compressed' version of all of the data the model was trained on, with its personality shaped by post-training. Without post-training, the model would just be an inert blob of knowledge - it wouldn't know how to behave like a helpful assistant.",
+      "hash": "b5da013be08a73b1d585f6f253b792c8f9a716efd1cbde69511366a5db3e9f0d"
+    },
+    {
+      "id": "10eb040c64563d93f3e21b9c94c79026114d4687214c7b0a2a671270ee785dc4",
+      "text": "Resources",
+      "hash": "e89b30aa1dc30a6ad8c34610689bede83b3ef645a24c3a84a0990826687fb735"
+    },
+    {
+      "id": "b59dc27c2eb30ee580abd7ebf11d35a8d47d6fb8c0f0b1e849aa2db92ad835c9",
+      "text": "Intro To Large Language Models",
+      "hash": "438bd0d885239e917d3bcbddc0d868340ddbd69241352d97fdc6de4ff7602942"
+    },
+    {
+      "id": "9f4bf8542d72310510dee98b58fb335e412177f37e44a4114dd48128fecc0cd0",
+      "text": "by Andrej Karpathy",
+      "hash": "5327701e392898c2c67fb508eb6d7f4cfadbeb888ca0cca033a7f608278c79d0"
+    },
+    {
+      "id": "62222db750660b64ca1e69955addeaba780f1f9073c17a2ff5a891bdb0560a1f",
+      "text": "How I Use LLM's",
+      "hash": "2481079256e4090b816f3a347d41a21f35a849abb60e5a5471ffaa59136d9a32"
+    },
+    {
+      "id": "d864ad4dbf3c1aeed31983e46ace3d7b0a414cf1fdcfeee6b39c5cd788025522",
+      "text": "It's possible (though very difficult) to dive into the parameters of a model to work out which ones correspond to which real-world concepts. For instance, Anthropic found that models can:",
+      "hash": "01029d2bd1c07929aba9f46bcb3088f746f65abd17e1f6145f900617354ac9c6"
+    },
+    {
+      "id": "5897ee1532bce8f70f255dbf092e2c6304f8f0f0199da78d18c378c595a797c3",
+      "text": "Share concepts across languages, suggesting a kind of universal \"language of thought\"",
+      "hash": "924c1b026c770b55370616ee60a6cb48897ade6e4e6fe6d0e119353d84cf4b0d"
+    },
+    {
+      "id": "81333c899bada7e2bee52cab41f4276d8e83825894f3abba61107552c1406a41",
+      "text": "Plan ahead when writing (like planning rhymes in poetry)",
+      "hash": "3349abdec71e31de48c007d3f0785383b1933cc7b4b375a704346ebfddea6d78"
+    },
+    {
+      "id": "2243295db4fd137112363e5c0bb5e4d2d126bbae0bb0e5ba45543db6fb1a5b92",
+      "text": "Use multiple parallel pathways for tasks (like mental math)",
+      "hash": "e66c45a6e92bcffab80d89d3bd7109c48a4868753e971aa25ab24807fd685679"
+    },
+    {
+      "id": "7cc9a4ce9ec40ca1bc312372f503efcc10491b69c0c80c6dc3504a2d2f8c5278",
+      "text": "Sometimes fabricate plausible-sounding reasoning rather than showing their true thought process",
+      "hash": "ef098e1e22344fd584bec6a7234a7fff49fd9c0a44e35c86f771c500fa314e5c"
+    },
+    {
+      "id": "4d8e8b578c35f6bbb15f6127ddf7ade61a2f615de185857220f57ed34782058c",
+      "text": "By understanding how models think, we can better anticipate their behavior and potentially remove some of the \"magic\" that makes them hard to trust. This could lead to more controlled, deterministic AI systems in the future - but the research is still in its early stages.",
+      "hash": "c223b5c482bae2f6b2307da57d9f2706faaaa0fe6dd4d7b5ba626534b11985cb"
+    },
+    {
+      "id": "79474bffaf14cb96a88353f677c3990e53d6134d1b4900876f049a1accd79c6a",
+      "text": "Tracing the thoughts of a large language model",
+      "hash": "42d0a8d891c71102b797fc2faedbc3838a61328dae601fc4754d1ca43759adb6"
+    },
+    {
+      "id": "8ba10bc95cdcabd81f773fbbd86846075b2b406e2ef522d73383b66a187372fc",
+      "text": "by Anthropic",
+      "hash": "cb7a823c14453d6754f30b4f7e96e2a25376755420046824dc34efd26b258c95"
+    },
+    {
+      "id": "923f17f9763caac02ce99c21ee449e251f3532e0639935a086afa915514a6d28",
+      "text": "Golden Gate Claude",
+      "hash": "e7080e0fadb73222fa8957dd6f022db78aa1f3fd492bbd88704e9c37d81dfde2"
+    },
+    {
+      "id": "6f7aa1f87277bd4d7ef1afe1bd0e66094f0f8cc18c8a0ef1fdd99f7748b0e561",
+      "text": "Large language models compress vast amounts of knowledge into numerical parameters. While they're built on complex math, you don't need to understand their inner workings to use them effectively. Getting a basic lay of the land is enough to build smart intuitions about how they work.",
+      "hash": "11b2ea121054be2d9b1c8b8dd6606c6bacddbcccbd60dc6ebe5774e1f08daf4b"
+    },
+    {
+      "id": "79c4187787df2846386cb4ebc5190ebfdd556405faba80244ccb9968d5867468",
+      "text": "In the next article, we'll explore how to choose the right LLM for your specific needs.",
+      "hash": "76d7293be0f2764b9ca6c4eefc2606eb5b05e3522227c75746c4d8b9f30700bd"
+    },
+    {
+      "id": "ad33272c20c13919a5b360d7a521e9783ed8756d37e78802ae91e99389ebb03d",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "a7e53c83d7505ae1f9f7661437ed23e8502e05a81666e830c8e81e8543e69b74",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "ace8e359a9ac639325df18e94db9fbbea24dd8a968c7c1578b4e7dca93805572",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "f806f7a7d988d3a4662d5949a3191b861a782726175784ec4755fdb130fda86a",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "46ec68639a65f8a74a642d368b731f8c34a5c954fb40f8a3f07ef873c3f41fc7",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "82239f9e3e508e5fbea86d925d15f64f7bfd342f6c8cf0ee953591abcc14befb",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "410d9d8d1260da57e4986afa24564b24e94431951faa4d6152cc9c092558d219",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "d53414a2e8c0ab975dea715e3831873c26837ff609fd7be32a0449d555305f19",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "1830c4878d86f4ec4a58d5596a9d4c8793237e97f1464c08be4e07044b52c072",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "0e682bcfb6fc836043b755c4968f9b07296f983a0b25a3b9572543963660820d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "91974c782919c32e5cd3786b9fa36f718047c945dd25ac841b1f71d17225ace6",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "db42a45b5e7311ae3d3c52efd822f7d62a4155731906742a6165c96359f51b93",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c73ae3cc5502d1e9769947eb016d3fa8252a43c1b6e3a241e7eb22f748c6761b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "d3f27ddcbcda9de66259f46a5c15368011b110a9ad53f134bfcbebc58be5118d",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "9d63e1db54d9b4069fe085873f83da48580d078390e6de9ee821fc8ca2aa72fc",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "cd9ea2e586d65e5c8d3311984afddb9acf75785bd3016de121547f0ba8bd85b7",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7688e4f64a69266afa714ced2a1f437c8a8d5571270ccf1f85fb6fe7dad6dde7",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "46dec96edf4851cd0d1d8dee05e2999fc8cc86e0a23cf58ac73365222ca44453",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "5b8553c289b71fdecab6c94a46bab832c5fbca74d3edf7796ce2bad1213c70ad",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "670cfcfaaa9331456419de940d541afe37241edf591633d15c7c6e83e566c681",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "e292fef38e5f580d76769d6252a963bb6516b67a5ed4c4f8fee715cf647be711",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "d0fb3bc5c2f45e5c113ba23a5101dbfbdba2a9cec19edee243b50453a2c84b4b",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f51b0ad640f71d5dd5d9dd681dc890299970221bb45bf19a00323ceb0a582bea",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f9e99d16c30b5e9ebc4923de4a8c9ae074440582b8c5ef584cbc500f439c64f7",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "ca6101297d5bf1ef07e037fbd16c8ccaaffaa4d8c2ae8ea4f5176adfa7daea90",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "9273bd36de1cc85b6bd3fe0c45c1ae26fa6c7ec525be5b953289436d09eb1528",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"7qnqzs5p8m5w80\"",
+  "lastModified": null
+}

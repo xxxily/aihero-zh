@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/autocompact",
+  "pathname": "/ai-coding-dictionary/autocompact",
+  "fetchedAt": "2026-08-11T06:28:38.330Z",
+  "title": "Autocompact | AI Coding Dictionary",
+  "contentHash": "233cab49961b739caf6d530d344b276d09341c587a5e8e5150aa4a9dbc5be388",
+  "textHash": "758f20921ed092fa79da49f2a001eb6fb9c318f930f227a12ff3eb5630348fcd",
+  "strings": [
+    {
+      "id": "beb4ef45b2df050dc15a6736d7fcd2b67b74df906eb49d73074b0d2bcc2f1c14",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "dbb641b838161f14fa0419600ad92a3f06b180b01786f7dab9f9405ba543fafd",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "fc971b4ba295ffa5b0e1c52efcd03b6799e52103e8495011479831b63cc6111e",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "4f8b221cadda8e9aa8bc46e3407ac93b2656326429daef68720fd24c6e1d63b6",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "ffeb2d1f65a6915e0f2f68b948711d2f074a65faa996cf69d6beec2797b186d6",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "217439b814d312497cdba4f26185eb36b90dfcfd67eda34c9b127ce197eb94ee",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b041f3e6c8be348a91c617042dd0c57c703b4d228bb07ea919b73b91f281c59f",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e2b2162d6f6397d9c60682970717c706b2ddffd0e9b4cf5e3f96f9b4993d86fe",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "48641d008df421900c487d23bf1ef83787cda4ac9538868e4f18057aeec371a7",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "af71dddd15f5e9f52c604ef8bf087861ce728a0607929da1085dd04541940598",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "ac208e9bf0f020007a55f228f0b31ac26469c85169c1af5381d535180813f385",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "f05d97d1ef44054130d64c667d6cf59b699b95f5353ca43aa28ef96e92917202",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "5ebc9c3a286061001ac8b2afb48360397b5342d88dbefb07d0e15f9284678e0c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "6de71709b833a67db344bfcea7e4e1e4284a35489b930dd866ef3465eab61e1b",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "ede32b8675a3f057dc6ae605cc1ab3fa36627be62727e1e4c40e87db0b8bb924",
+      "text": "Handoffs",
+      "hash": "29f217d5d86062d687fceaed0f8ff7da2900d2b2b33d409e4abfd6ebe310c1b4"
+    },
+    {
+      "id": "65b4a604b5164ad248898a296158bbcb8725c9de3cb265621609a604e0e30787",
+      "text": "Autocompact",
+      "hash": "8a36ad552d898798dd978db0b1b2d4e568ae7f3c3b3295eedb4df69ab8604e0d"
+    },
+    {
+      "id": "10006fa21ddd973d3659e135992031a64a3b7c26e80c8768f3b8251cf8c0674a",
+      "text": "Compaction triggered automatically by the harness when the context window approaches full.",
+      "hash": "993ea624edea8b3d32c19d56e0694d3002f3285bad7a7605d0bf823626cab404"
+    },
+    {
+      "id": "176a6352924bacf8c1e8d8f521f29b85c9f471c53a12db115e2dc1c8a823c868",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "0b9d6b870fbf1ce31ba5d4fc743811ec339ab8f1332986feeba4a93e4fd2a625",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "15eef88fd1aef199f757cdebe7d071bb00606d248fb5a19b2785517f0a436e64",
+      "text": "Compaction",
+      "hash": "a0ade140bc8e408639e51492b949bc4d31641625ef070015b5d4a5e92ef0edb0"
+    },
+    {
+      "id": "7bdf346d7f47f4cbcf5586d0ade82a2fece6612dac8cf68eb3c15bf0a004e60d",
+      "text": "triggered automatically by the",
+      "hash": "33c48f9cea2c42e546ff2c8bd680e275eb59b240399bdd190c9bf1d32d574ce4"
+    },
+    {
+      "id": "ef4f93d3de071c2aabc40b69565248181dc27fce94f37e8cab71102c5e969c6f",
+      "text": "when the",
+      "hash": "7f65bf6e9b669d94ad19c344a432f67a0f4ebd3574c923572e66d58e6e55bbc1"
+    },
+    {
+      "id": "28354f18b8bbb95f04023945b6d75110e736559f5a9df934e4d42330416d3ae7",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "d772a3199738340a7bf75c37b0260a1106a9cec43a21c40d5f1210c696277f48",
+      "text": "approaches full.",
+      "hash": "5dcda08a1840c50ee639d1cd6fb2a811493e58c6cd8f18ee2bdc753ec7d0284b"
+    },
+    {
+      "id": "eba1d69576028a825d152c179e582b775fcd62781155eaffd0838391b9789281",
+      "text": "The harness watches how full the context window is. When it crosses a threshold — often around 80% — it pauses, asks the",
+      "hash": "81d9e6a925d103e13df01f35224c8406b8e641bbf4a7ee60112e70f3a37f94ea"
+    },
+    {
+      "id": "c176dbced11fbda2cce9dd06330d54e2859c154b3b91a61f998fa44333ee578a",
+      "text": "to summarise the",
+      "hash": "3f6ef69650102fbe03f27d90c857441881874b2033f1ea32e7241a5a9ebfd871"
+    },
+    {
+      "id": "af464e7bc357bd1e39f76e40394432645a6a580a36f30c576324dbaef3340bdc",
+      "text": "so far, and seeds a fresh session with the summary. Work then continues as if nothing happened.",
+      "hash": "8bad9e0f650e70c249ccb3226f0182839e0d04f6f9bdc79aca351c885fe2a7f0"
+    },
+    {
+      "id": "8939dcd9406720c4002a8f4b741bd75a906acdbd36320e949ab131b723b70a3c",
+      "text": "Except something did happen. Compaction is lossy, and autocompact is lossy at a moment you didn't choose. A manual compact happens at a phase boundary, when you can tell the model what to preserve. Autocompact fires mid-task, whenever the threshold is hit — possibly halfway through a refactor, with the summary deciding for itself which of your decisions were worth keeping. The classic symptom: the",
+      "hash": "6aacbce3f5979853bfe99fc177d34badce6a7a39abb3c9439cce5af3a97dd8da"
+    },
+    {
+      "id": "d2ecb94fbdb7ef4231f024808e588b94fe9af3a9a7248409aa55fea421f0bfc1",
+      "text": "carries on confidently but has quietly forgotten a constraint you established an hour ago, and you only notice when its work starts contradicting it.",
+      "hash": "71952b8cdce2623896faf8b3460523a17fe7765b0bae1456ff255401d60d8eb3"
+    },
+    {
+      "id": "294e8b052d839f1eb5c496f20c7fdf7080f423338905758243d30ffafe9e7ed8",
+      "text": "The defence is to not let it fire. Watch the context indicator and compact manually at a natural boundary, or write decisions into a plan doc or",
+      "hash": "23458bb69a5be04d0e24f22d03f35a09a7de4f7e1d46d5a71731b753bcea2a94"
+    },
+    {
+      "id": "0aabf3fa75bfd0d0ba6ef7812f4e3002da6b905ed20d2f99b8eddf911bd7844a",
+      "text": "handoff artifact",
+      "hash": "741619a26b388b5e1035994e6e7ce6c59c885ebd231ad21f8d9ff02438a0cbc9"
+    },
+    {
+      "id": "11e2e4a8c5c8a2ff0bf916cb17a6ea7a4f47da308a9fb96240a8bda7eff94971",
+      "text": "on disk, where no summary can lose them. Most harnesses also let you customise the buffer — moving the threshold earlier or later, or turning autocompact off entirely — so you can tune how much headroom you keep before it fires.",
+      "hash": "2c4d52e9f0ff7294cbe16e166085bf845de2afcdd4f8832a8c27a96207a0c44f"
+    },
+    {
+      "id": "0ede21aa10eb970abf7db67bb56a82b2c8148835ff30d14cdd85035e702489b1",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "c112a3cd2e45ca26f4d47db01b050e560acb4db5ffdd8e17f1ecd9769cea0f84",
+      "text": "\"It doesn't seem to remember what we decided about the schema earlier.\"",
+      "hash": "9dd5911c6605dd84148aecd13cca72afaa0c047f92d0330ed6c33c3971e47145"
+    },
+    {
+      "id": "eb999d3b1980fcd7bb679ceb9069bd48587775e10663f824d5a48ad74cf72198",
+      "text": "\"Autocompact fired between",
+      "hash": "4be6a110aad1eb1f0d3098a39bec28c912799f17053d29f1b9ad61da77b4b399"
+    },
+    {
+      "id": "29fac7fab4efb9d1f22ea10118b17607931434dcc5367c954622811cdc26b4b9",
+      "text": "— the early decisions got summarised and we must have lost something. Reload the plan doc, or compact manually next time so you control what gets kept.\"",
+      "hash": "926fde295040ca56a75503729631c7744cf541416de1d71b8d4a1d8dae482ac5"
+    },
+    {
+      "id": "9801b0e2ada19d86f545075c088bbcde1b4f1475c3886aff52e06ee4e4714eac",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "c20d3f29c14f6561be933c715c85e9f01337b4702a0c07b36a898986251e961b",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "2daec47c918a73cf5badaa52112f9d92458d8e9dc42d616bdb8b66e63f8382de",
+      "text": "Memory system",
+      "hash": "0262e82db5dfb849a70a2a6a94c1afd575205f2d24d5f001afa96f4d8dcb47d7"
+    },
+    {
+      "id": "760ed32fd06c8ea6ce2031c6edf80d3828e7d9eef6f918a0dc18d05da4aa23cf",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "3e32405f3002107a86aae20bdd689e4d7c1101674a5b46e38f8aecd58ef4d377",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "c28a2f10e0f14cfa95b170fd1bf03728b9cfe87f97af24a570f4fd8de5c53899",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "fa28dc4c20249bcee6f8cd5bbacb0e8b39129e30ceb22708869ac296f2de5996",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "74930e5a71679583e4a5b0dcada8f873d30654493b4c29b3db8e1e48a8480d20",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "707259e87c2413f0df11175213e2313e05df9c301e495d9af05fd12f81aefaf1",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "7737e9c47cfb35a0478c1894567255414978361e944b2c14a51945104f112bea",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "2cc8dcb5d1f30d60c39b6d0e190835542f10e601b1a7257cda5212f51e214c88",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "afce5c6f9839264c30c433129986a1b2975125f08f260dde80b0b9265bfb4509",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "a1d54bf4acb07284c7ed7eb0bc54d8e076093fa1b1e8fd1e2aca8f0d8b748c6c",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "bf6256896f743acf2d1dd1d719d257121fb59d46690d688583253436d2817f83",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "4708bb6dff554493869212c366444af660eeeb18b81b494f6c21a4215bb6d1ca",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "d2bb806bfbaa04bfed1d8e281ff7cc37e72c50c3d98a775db1048d2daf7c1f36",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "74c867c339132e9e46217488a20070cd5822e6f43102a76a59df8c2567016fdd",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "3e52d8b7cb58b383a5b89aaa96b249557cd369f475fb51af64cb9e68700427f7",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "4bd54c137257acb3ee350fe36acb2d71ce7b121f6ec5c5518807638d88bfcef7",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f47361dcad67093bc6ee1f1e18675a19cabcfad307fc6bdd1613cf492e4b2ea2",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "1ae2c634131eab0c0aea61e6ae3d60de226c5aa228720aa2ca68af3cd3ea174c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "741c1c4129244b5fb422aeff70fb5fb1d2a7ed57cb78913e79d68737bdba9308",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "6a4f9c68511e1e4ebcba8f43663dfaa6cb0d8a69b28333d0e065783c287664b9",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "e7cf5cb64bd4134096c3352dd418aaf6c0d64a38a8105d2f819bdf60fd9aab10",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "91d3c02aa0899b34164806a4cc645f74bea9f2c0ff7c2414bac5937c20f751e2",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "756216f4ae25baa485aafe6b9c24313e1ca5201e0bf613c66d6022bd7cf91095",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "aceffb289e3e1c0274cfb4f54fd6ac0e679118581a70257199f6ceebd5b18eef",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "85eae26b603cbc7a47c5b949f7ad67303cb8c00958362671755f6cf856d46f89",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "2ec17afcaed604b6fdf9e5d8be8f7b96ae88f1a47027678063f30b444fc027a9",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"283bb0a8479647f3064fa52d4b2880e3\"",
+  "lastModified": null
+}

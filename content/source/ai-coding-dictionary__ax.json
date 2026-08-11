@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/ax",
+  "pathname": "/ai-coding-dictionary/ax",
+  "fetchedAt": "2026-08-11T06:28:41.924Z",
+  "title": "AX | AI Coding Dictionary",
+  "contentHash": "b4bed20c45e933bf3d634badb943465409e0e5ca3c9c48e6e10444caa3566069",
+  "textHash": "c42ddc8606f1e0ec7413f139e34a0eb40050bbd01e51add9e29abe32fb04bc3e",
+  "strings": [
+    {
+      "id": "38cd4bfaba03c71d44290bc0beb79e97794ade49d3a0bb68674c2637245d7568",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "4324bb69532fdf27fd67ab58e26dce9dd7a8bb8ccda3b17d30b3ec96afaf823e",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "960ec0ed113d7613b1720dac890b39a2df9d7bc6ec6de5d7ad62b741fae37500",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "a75643e7a532ed368d10fcc4cb58e826511d33e46f8a7e771c660b1828f32df1",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "a26fb237b788e3f4c52d67398e97fa86c2dd77d167dea3928bcfafdc6da5427d",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "dd4b28ac9c101ff2c0c0e8a55e90ab8af3d679179cab7594b8c78617a494650f",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "f0374e0253a634587595ee7196509f7157f5c9de57b9e30166f930f2590b2cf1",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "18f809bae302f2ca6de7259ab40f129f76043feb9903c546626c334cc0c0cf3b",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "47ea00c487816982dddd7fcdbae704d27d0a08611e5b8352bf08bb6bf7d8b2f9",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "e295fe758870cd388b89fdc8140fa1b4ce99fc9f2b4ea75197c1b75d6b7671ba",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "7c58265f1ef57872601f65cff410121158751b97fed60325b8da454865807bb9",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "d102e8a0ec9519dadbf88e8a29f475e779221b720f860c0dc972e7b86f621e2a",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "a8e473efec971b319e78c2c246d4c4cec8dd922cf00a1c4d810d2d0748040edc",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "4a22834c6b2c25f5d40a2f6bd370381d2ade79e2cf2384d6f47f8df6fe0c3be8",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "13591774b3621ce658f76aca090e7ab284e1666974b42b553d633b2513354bd0",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "837170f1aba36e839fd29f3074d065691b6a6215dffeb160d90e753bcb81cd21",
+      "text": "AX",
+      "hash": "bbe96fa9f44ea0fcf38b0ec729822f37f5cc11e625753b2a250a90a3b59dd098"
+    },
+    {
+      "id": "3e825b95a77c469aa263e947a37f4b3163b37aa6eb0889118653b4e223485ae0",
+      "text": "Agent experience: how well the environment is set up for an agent to do good work — checks, architecture, and free context.",
+      "hash": "8fe54a3a55611541ac1ee930f4775d932f321d56db76fcf0764aa57ee42056f6"
+    },
+    {
+      "id": "508bc9b12c8634ff0a3e80feac3cafc4b6fc7234f15a70f97cc7f19de546d61a",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "a51b55c6599fedcd81d4da9e6204742ac8e0cd65337dc021e8a831c17cde7308",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "dfd1a7782b3d5621f4f8866bbfa23a81484883f9f4a49e082ba2bccedab38914",
+      "text": "Agent experience — how well the",
+      "hash": "e769d07a1aa8c36aae7831101887a29716d930d517a098ee32646045ce97151f"
+    },
+    {
+      "id": "9f4dfd1a0cad52800249f8558273d4857d5b6d0863759629e60651b9c06b4486",
+      "text": "is set up for an",
+      "hash": "26f03ded5cbfe461cc2083f4dafd643a9bb0ac20d8d9bbe11cf862b154d9feda"
+    },
+    {
+      "id": "0bf42dd79bbc9cadcdf50e77388a48113e12fe82f1653994b7fcbd850ca67237",
+      "text": "to do good work in a codebase. The agent-facing counterpart to",
+      "hash": "8754a9a95b50d215e392cb9491ef50b7219ace2847b9cd08ff080914fdaae6e5"
+    },
+    {
+      "id": "5bdd339efd75e2517ac1770e53ac4f4087d0792924d523d120dd7b841a24398c",
+      "text": "DX",
+      "hash": "48c95d370f0eae38ad2d9bf8368264da99f6a95b7b45d18ba8f14a932015ce13"
+    },
+    {
+      "id": "4ebe2e1946fb90694522bcfe8d0162ff5e712fa68b6895486b06cae8293ff729",
+      "text": ". When the same agent performs well in one repo and badly in another — same",
+      "hash": "247dd84977dcdba21c5654012950c08d04729f0eb85077919957a63d8a744161"
+    },
+    {
+      "id": "5897c2e67aec0e3119b635548b4790f6f11e5cd66bc2505e8e8aff67823a727f",
+      "text": ", same",
+      "hash": "8cd0e690b9495085fdfcb2e08e72b1bfe0e3257c2daf868c2ca49ee891f61fdd"
+    },
+    {
+      "id": "74f8ec7325e9030b45a30e1aa0e2709e5cd10c518a1a5c63fda10c9cb2ef2765",
+      "text": "— the difference is usually AX. The instinct is to blame the model or rewrite the prompt; the fix is more often in the repo.",
+      "hash": "3e9b1fe5b0189b27235afca6da4042697f410b8ecce34dd8abfefeda8521e34d"
+    },
+    {
+      "id": "c435e543b80600445cc12dfbd7486d12ceacddb9950662a8d4fa85710c965a41",
+      "text": "Good AX has three main dimensions:",
+      "hash": "9061861b87cd27036777288211c89ac62705d455ea14ef7135edf7c81096baa8"
+    },
+    {
+      "id": "d94c8ed58ab8b75ea9a016d24d915ad2e691281d75ee522a72a8e0a62f6e05c3",
+      "text": "Dimension",
+      "hash": "0bc70684cf306b3ed9ab68fd40654349b8fdf96b2e6cdce61edc53442d7f738f"
+    },
+    {
+      "id": "37ea0fbbb1b821837afd81f570f71c440cba08f5e9842ca68e1ac6c18d5feeb5",
+      "text": "What good AX looks like",
+      "hash": "148b045147677e360a8fd9363041bdf0e0728b7607832273ae114bf9b8755fc8"
+    },
+    {
+      "id": "a0c5805d77dc4c4a7018eb6d01fc970eecf8c01f11e018385206f104102c7b40",
+      "text": "Automated checks",
+      "hash": "ad388fff8307156c06378e27c636406888b9e933e6d9896949ea27a045f49e60"
+    },
+    {
+      "id": "a93ecbe410121ef01f5737f36212f33e82e63bf5bba1c712a6c9daf225ef2dd0",
+      "text": "Fast, deterministic",
+      "hash": "98cb4411ab5ef5610510beaf0ee915861e33de659689586d7a0cd135e8708a40"
+    },
+    {
+      "id": "87cb6a8c309b271d05a58a80e10904755b64defda029fdc56a312234ad3af7e1",
+      "text": "automated checks",
+      "hash": "f748d6acc6e10f9e80812a46b239b1d2f3f145075600d299b6e40632fb06622b"
+    },
+    {
+      "id": "d9132ca87dec289ec66ad4bfffd51ad9a04497298a41ebd4e3f43fe2b009bca4",
+      "text": "— types, tests, lints — that the agent can self-correct from without a human",
+      "hash": "0a00f11be15ed46f99d64b19cf2f397a9a40ddf92333526f70c1f617bd85efd2"
+    },
+    {
+      "id": "82f9557cbf957f5c34724a7a26543ee93eff0c59ddd623d153f2ffbf86f3e189",
+      "text": "Architecture",
+      "hash": "cd74053c54816e473883dede0ad3b152f38a41995409eade6b42704919bb1359"
+    },
+    {
+      "id": "f4cbd239ae6466a1c56534ba8aca1ccffebf318ee3ede73cb3164a4866037881",
+      "text": "A codebase the agent can navigate without reading everything: predictable structure, a lot of behaviour behind small interfaces, names that say what things do",
+      "hash": "92b58129ac1a808586d70b3ed5c738fd914c3d8eb268f812a12bf862881d26b4"
+    },
+    {
+      "id": "4d9cb2bb85f52520f3341f913e93c8275f8169c6f3b1824885c1db744ed434d7",
+      "text": "Free context",
+      "hash": "d201299e5494a11a61eb3af5b2d80c027e9d11743f49f8879646f545b16b952a"
+    },
+    {
+      "id": "0cff2549afc6a048c10611b23b9137a1c3cfed8b71f8e8b248e34b6dd0d95669",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "8a5e49fc458689aa8e789243fd3fbfc4d51fd9fa0ae1b66d933e03e5839dd73b",
+      "text": "kept lean, so most of the",
+      "hash": "9bd58164a57da4ba0c2f70cd106bfb818b650f37b4a6b2f468d9d1dcff48af5f"
+    },
+    {
+      "id": "9b267fd3a7022f481ff98217264d2e7e144b6e1ea88670ec910adc7a0db98285",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "accaf6e6544e547143e3d52906b8e638e33dc97bc667137571f87b1c15893fb3",
+      "text": "is available for the task and the agent stays in the",
+      "hash": "063a4e5584917baccccd3c76cec0417a2e9b33f463600d157ba05272b54fa837"
+    },
+    {
+      "id": "abfb5458c828a42353bde62527df09fca074059d4842ebb20e764124f4de22b5",
+      "text": "smart zone",
+      "hash": "bb3f6aa92ec029f636da2bd637e41c9e6c26586e54527ede34151e0cf892cdb8"
+    },
+    {
+      "id": "c45a17474098eef98768765108d91fa15ec28dbe3882b2dccef29f7ab20e6afe",
+      "text": "instead of drowning",
+      "hash": "b4571e2b47fb040744600ddf709cb56655270e4d8392f3205cff1b56c380b5b0"
+    },
+    {
+      "id": "39c2e322625f233ee9f754170295426365f8cb0e71ada210bb279f0bac2854a1",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "70aa153d3601e5d99b755c8745947704e1ebddd97fd5ce927b19a1790532fd1f",
+      "text": "AX and DX overlap — good checks and clean architecture help both audiences — but they diverge. Humans tolerate tribal knowledge, slow CI, and \"ask Sarah about the billing module\"; agents can't. Agents don't benefit from IDE tooltips or pretty dashboards; they need failures as text in a",
+      "hash": "5b7b430f9064c837ee85c0ccfaf63c084ee7a04ff5938da81d71e674de90fc07"
+    },
+    {
+      "id": "6bad5890fdd284222c4e7ed3677ab556923c607fa52bd0fafabc01a9ec16bbaf",
+      "text": "tool result",
+      "hash": "496514e28de40f2624fbc4fb01c89afaba32fde82d1e1d6c19ab43d702f7a230"
+    },
+    {
+      "id": "11a6c6dad2edf8c2553fa222bc9ff8f456db44de245bf7cbf2b9080b21e6053a",
+      "text": ". A codebase can have good DX and poor AX.",
+      "hash": "14a6b1e9ee8624917d900d5227c2d90c1e15cdf09351e121dbcfe54fdcf960bc"
+    },
+    {
+      "id": "56d6c4290d0d67ce3a9517035bab23044d1a838caab3c92001122052ef721962",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "ea2beeb2baee9825094fae3df7f49b53257e8ae48ec39bac2a00e416b108805b",
+      "text": "treating AX as a synonym for DX — the audiences need different investments.",
+      "hash": "9374e79b4d1da6dbf0f6a5c21d8d099720ea82c003d35a27c87cdc1e121f49e0"
+    },
+    {
+      "id": "0dc69f4bbf87c4a6cad31650745e5941d8960ca440ee1ef4433a007db46d5ba5",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "b9755c7fc79f274c06fbe194edd9c99ff180a833083971dacf99a161692f19c1",
+      "text": "\"The agent writes great code in the API repo and garbage in the frontend.\"",
+      "hash": "7444d4772b5f9166b81767393adf595eaf820a9d0df6d2e65e994267cf694826"
+    },
+    {
+      "id": "1847c9c73e2acdf3aef7711586678976db249fb2f8ede1f98e992083aa34fd1e",
+      "text": "\"The API repo has strict types and a fast test suite; the frontend has neither and forty always-loaded skills. That's an AX gap, not a model problem.\"",
+      "hash": "8fd86d7f6a923dd8063f07641664b981e67088364e8404ccc83d6733d4b2ba7a"
+    },
+    {
+      "id": "a4fa7e7ae529225a04b8aae667d5139e270e4d074e1f0a6975e4f8fefc7769e1",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "251bb72830a5f33ea951b8c589eea67e936aec9fe6c9d1ad0c920c07b9ba3240",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "136ae048043de9244d017c80c6d4872acaaf0a983d9f3fb8ddfef93e4614018a",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "9193ca7ceacd4d2f8169bdc0e45ec618559c1d3478ee215d9af67377ed32f098",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "99d7f923123ee8bc16d0ec0af1733f5adfff1629f8554c677ec8fa0b9b3169b4",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "5d57c40ede2efd49860d6d9b2144ebe358e11364a422c65908ef6b1458b686f4",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "30338e082b9a42da129727d0c17c2915cd2b40ac1c839ab45fb7790a00b39e19",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "c4a47ff7d0a0eb121d2e416af3ad820da71d9bd31645fb194e7c8617d3f6ded9",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "b6e75fef4d4ec9e6f70a3ee5779e5639e41283a9e1bbbf480e0696038d363dcc",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "fda931bc7f97381ca13f4c8b5d46c016e78ea6f60a3de5c35f58b3a0ff0d51f9",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "2c13e31f458ee92f1a45c0ade708da074c2ddfbf70baf1a48d84a5c435305286",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "df29c794632f4ecdb0704cc978458bd5dcd55ac96689d81d91888c54b00800e3",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "1dde815089f54e413e636e3e069055ef7295c0ed931d3b259658dd379cbfa00b",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "df18bc80f81814eef95841764c6f3fdbbe84dd46aa09a4c1e51234e1b3d61250",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "755d2eebc9f4e14a61bf5246b19635c8ecf80ac5e24d7d286e4be8cc3aeacc2f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "0fe9b593956359075a0a70db229321ccbec34f28c13d8168b01c1969276420a6",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "d568d4c9423cdb25108c2cc363d0d452837499f7d0517f847724939e8b8d9300",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "a23721de5c837a42dd8fbae8bf22faf2c69b35ce9ae3ef1e10672bcdd8009801",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "2ab9aecca639d9631aaff3e9b9736bfce793ee7e0ab2f46a7a09333583b7cb7e",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "d0444cd3d3a878fcb365dff26a5e8289c890b8a547e0a663ced2628c441c41d5",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "1f78c87e1dc23fd3c6036403948f1d88b31c8c22e15b997fc1b97c044582966c",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "308dd07d4d81d1b50aed0d9ac642f4f4a6354c34390cd6b226029b9f7d7048d7",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "b197587ff08b40b4a4b85cbad78a09ac1f473fab1c5a1d751238a713c0d6598b",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "c852399270a6caa8e6fd937063e8af64b3ccbbc640e560aa4f35e5b7bba4cb77",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "0bceff69045ce8be85ca8d1b0e9643f3ec7e0cfc022d1d591fb201bce6c1b838",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "1c688d6f7a82d180e3e6e7dcdb42d526d76a99c446714a21b12cc1a2d0ffdaea",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "f1bfccfe5cd6b3300d5d5bf44f9fb2be0fd04c7443b6efdcbd1579cca5689bd9",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"ue8hf1tlcj4uva\"",
+  "lastModified": null
+}

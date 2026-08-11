@@ -1,0 +1,443 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/building-effective-agents",
+  "pathname": "/building-effective-agents",
+  "fetchedAt": "2026-08-11T06:28:24.652Z",
+  "title": "Anthropic thinks you should build agents like this",
+  "contentHash": "6be2174f4e7fb53ce09257647e5e69d4f62dc1cebaed1fbabff00219ce8f7548",
+  "textHash": "af9d8375c1a0c05a5221370da4858e6989dd7e9c0aaad6878e7e2262e6192383",
+  "strings": [
+    {
+      "id": "9e26d85e7f95c17b864377762ef9f84b972bd8fab32af24dc953bcb5588a8b2e",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "7869e7db43e9dfbd7fd1f8c69b7c92dc967dace687ad0da4b8b967690d252317",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "5d1b1030bd7aae4905bf293f9b5126abbb21ab760e1b3b83f5897914f4f34f9f",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "543585b55cebfdf4fb48dff03078906e7a4907c4f539ad5f7b3822d163677b0a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "bb00d7ba2c28104aa059564b7fc562482c9e74ddcef9344cadbd2f6aa74d401f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "caf93d014f7d763382dec3d14ed102b9f42e6e94a782000bcfaf49e42b70d9ea",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "bd1f38eb247e55a022185247b35034859207417e56be00340f4211ff1375bb97",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "4dadb989d69d2ea08189a2e4ca3ca05db1b3dbf3103890f1767bbc4534b815eb",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "838eed088e44d7504bf95b3507b934bf921dd7deee153b7d304024f85df53c57",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "e070a49c8fa51a162b21584ffd52b761f037c2e6bdb69b14b576957b854955e2",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "237bff555a20e359361ddac91678093afa2cdd64b5b59574b76bc3fe7cdb794a",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "e601aa00d78ccf03fb7ec8b4217887c2e8dd2dc38fed4b640dd8f4a082506cf8",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "dc1eb52a716e52b4e7ee5b248b1974b09eb03093f99696b6a62f817269ec617a",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "000dddb1697086886d11812ccf2398aca2a3220604491e1c98bd910d78c58b50",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "91c3d521069883d1dc60bce117dcd07753a03897409f1a451f0688f0b404906e",
+      "text": "2 min read",
+      "hash": "57fa55d8639e7b457369a0a45c052a54cae2a4245f13103d07cc398757baccd2"
+    },
+    {
+      "id": "17e65d9620be5eb345043d1b399903b5e04ea42ba31c7379eeec280f986951b9",
+      "text": "Anthropic thinks you should build agents like this",
+      "hash": "dce9e27d2f9993b886f1f073a677ae4b6e91bb493d827c0cacbd9ad4162c37de"
+    },
+    {
+      "id": "63007390077b1e0845904185ebf907aecb089f302eb4743c68442ae6a45e0e4c",
+      "text": "Learn how agents differ from workflows and why to start AI projects with LLM APIs, not frameworks.",
+      "hash": "998993b3746d6f641679d00a6d3581773ccd7686cc6dfdf69de95bd74d85a61a"
+    },
+    {
+      "id": "77fb56eea400bee66292ae5804c9b18d09c71e68ff71c712d58b64798fdabe32",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "9ea27565f1ff820dd1c3102e34702f782a4693f2280b94ff4a31239f5094a620",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "4a7c1212464568e8555f21c4c30c8ab6aa6a366347d910acc8097a6ed30ad576",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "d22593a69bc210956db32e193b7882870e83d30f5c38af335035bd2d52777a04",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "55dc8e482e69cac29cb48ca0c83b1546186b8b2562e7cfab3b416606ae57731f",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "70a214a1820eb4173a2652e22c8f1fdba070069646d913a0182a0012157e6296",
+      "text": "Agents vs Workflows",
+      "hash": "f57b0de226b89b7495b2e5033cc5a800fa8b5a31994dca6835a94d5170851cbd"
+    },
+    {
+      "id": "b0aad40af5d69e85de235726c000851f589dbb30299b843370aa95dd96ae0205",
+      "text": "Don't Use Frameworks By Default",
+      "hash": "f5e7477391b67e2480c8031f5ecb0df6f907af32278957f5d75ec6b620b4c241"
+    },
+    {
+      "id": "3a91e27f546dc581fc197d95a9300c8551f0b43f1c6f5f909b37b8c1169141c2",
+      "text": "Many Workflow Patterns, One Agentic Pattern",
+      "hash": "9870d7de526bf1005d2e7663b435247dca71089e320f36c2ebaf57e4b6da297a"
+    },
+    {
+      "id": "a322f40bf3c3b603e0cb6b7b426f79373e28a29a3c02391da5a9260eecc54879",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "8cf9b45fecae4d2aeaf2d237cc50da1ae960ba5e34a005c324a2c8c0e24494d5",
+      "text": "In December 2024, Anthropic dropped an article on",
+      "hash": "a786864b4dd181e27cf5d106ca3395c385bc2d8652cdb0133935549956165908"
+    },
+    {
+      "id": "518a288fa05b86e2fe135a58e31d250911a2a526054d4a68a1ec13f4b7df6cc2",
+      "text": "Building Effective Agents",
+      "hash": "50fda3723f4b5fa2e1b62e94101c293e0453faf0db09bbb7e96ea5619a0cfff4"
+    },
+    {
+      "id": "1aca9d86fe8e70d1b4fff7a5043d184e3a12d2fb71c7218c420907145549af3f",
+      "text": ". It really clarified a few concepts for me. Here's my summary:",
+      "hash": "5a1491abea16ed223c29534b638de2634620c6490dc0c03c57adc8be69cf9557"
+    },
+    {
+      "id": "de983ed9f42e63d6231234fb228faa7eeb6b3ad1d2e726c81a068c03e153731b",
+      "text": "It defines",
+      "hash": "160a9089b1e679d99f00549e62ebf65d47bc76eb6c100650fa84815efd6ae3a8"
+    },
+    {
+      "id": "f13fe16296e0b8e7f615cf13d556d411711beffa7f7b1f2695d2f1a868170c1b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "49c7d55ce5d53592d75e31359baeadf503b485ea540f9045dd7e62f025ec4e58",
+      "text": "as different from",
+      "hash": "4095d64e20113b963f657ff2cd06e29694133355ed1ed283b0c6aaea433455b9"
+    },
+    {
+      "id": "bbc30cec670ba4552247ff54fb174e4c48a6508b96fcc41e0fee99e943f42d99",
+      "text": "Workflows",
+      "hash": "e2073645cb0dbbddb2464dacc4ed2a03923b8e4a4b680245c36c69763766fb40"
+    },
+    {
+      "id": "5951d24bb15a146217653a442a75e9d70dcff9af5aca186bc2a062d88f7f1b8a",
+      "text": "Workflows use \"predefined code paths\", whereas agents \"dynamically direct their own processes\". The difference between them, then, is the degree of autonomy. Agents have more autonomy, workflows run on pre-defined rails.",
+      "hash": "092fce13cab1cfdc32f38c4a90166d061ad84ee1a56954ef9a8e3ea0b851e2f0"
+    },
+    {
+      "id": "f9847e84301a8a2fd0d826d1820005a4175c352e240b0719afa302a75fb64481",
+      "text": "This still feels to me like a gradient - but having the scale be \"degree of autonomy\" is something I've not seen much before.",
+      "hash": "34e8f7f41538d98e82d89e1e0cf3095e008cc9b3e3e74b2c111edfe4ad2d0827"
+    },
+    {
+      "id": "9550ba200e3cebf273155decf4815aeb8755b72ad59770384abe915ad64861ae",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "7d216e1751a99d1cddea504de07f783b7aec3898baa9e04e8ce5679665a9711f",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "97580c1b7f41b5419875828353b01e253b87102d9f01760c40f59aac8933b7e8",
+      "text": "The article repeatedly warns against using frameworks as a first port of call. They \"often create extra layers of abstraction that can obscure the underling prompts and responses\".",
+      "hash": "d38fb3e1d9540db4942c46e80ca441579a112c9ef826d78821299795887139a9"
+    },
+    {
+      "id": "bc564c35aca97c779b122126abacecebcc12e2d41e5fba26e2efedd4c1dcfa92",
+      "text": "They mention",
+      "hash": "e4de850076fafd8e3b7319e24d9eb0779671f2cad8d2b5f8539da23f045777dd"
+    },
+    {
+      "id": "cdc39eec6f20ed2e5764dfbc017bec241d44da58041df737f4de865aff79b447",
+      "text": "LangGraph",
+      "hash": "845bbc27a312cec74a653a429222ceebf75ccce4e6f551ed536aafa2eeef5aa3"
+    },
+    {
+      "id": "07ff79711cea4ec5d453d6cbf271dd04b6fde653068f0a7feb24eb88f883cc1a",
+      "text": "Amazon Bedrock Agents",
+      "hash": "37320e6cf287a4480e559e1258bf20c8ecc1325c1d7f497f2b0e5253afbe7e50"
+    },
+    {
+      "id": "79cc0f85add9ca2d38bfca6adb6affa00442fea39f243c56670e1aad15db39b4",
+      "text": "Rivet",
+      "hash": "e3c96cfb53c6ed3e03eb5ccd1efc1531924e07458a31eb3ba5ecaea5e9787b54"
+    },
+    {
+      "id": "c2a5230a03f6ae1daf3e1629752a900ba18deafaa7fd525d472b536337163a5f",
+      "text": "Vellum",
+      "hash": "53db2e1eaa5780fcae55e8c5d17d9b2ca9ab413b66857c7e116823173a05f79f"
+    },
+    {
+      "id": "205bfae9e925a1b305c307a4536f5058c7c5d2ff3ee34d166d81a53491d80111",
+      "text": ". These frameworks \"make it tempting to add complexity when a simpler setup would suffice\".",
+      "hash": "23e63b5d42529e44ebcf396ab6f14a2f6c86fb9972f86383781cf1982a4aca80"
+    },
+    {
+      "id": "c3925ae4803d6ad6dd68575546c0baeecbfe5293ecbb0986818bfaec8c28ab7c",
+      "text": "Instead, using LLM API's directly is what they recommend to start with. You should only use a framework when \"you understand the underlying code\".",
+      "hash": "b468d1e5751ee48c4c36ea5fffc2fbe23c1fca86ae28895bdceb98a86f661b36"
+    },
+    {
+      "id": "9acb570ba04e711b237f2cdcebe68ffa6967d0a8f02e6a46c1769583e9c63edc",
+      "text": "This sounds right to me - the primitives of building good AI workflows don't sound that difficult to manage. Putting them in a framework prematurely feels odd. Note that I don't consider something like Vercel's",
+      "hash": "e7b406ead1fb7c3740bb39c52c04098d45877f4e8898a024cb932650a4bfb5d8"
+    },
+    {
+      "id": "cbb4cd18b5338db4ff94333bbb29e2c7f5ccfb22da694027864d3c3e482e2b13",
+      "text": "AI SDK",
+      "hash": "28be6635dba26975426f7abe9faee90ffec8618b6973180321ecfb664117fb4a"
+    },
+    {
+      "id": "a33f70b3fddd1b14a74c08e98dc0c713b15ab3caa29ed173dad361eeb191c1e1",
+      "text": "a framework - it's just a compatibility library.",
+      "hash": "2390a6eed7a570962a0217c8e361d2d90a1be6b30425cfbabb8f05f087b2090f"
+    },
+    {
+      "id": "65b8f2952c8e6468933d3065dd393461b64f067407532b21f8352a9a15290e2c",
+      "text": "The most wonderful part of this article is how it describes different workflows. Far from building effective agents, this article really describes how to build effective workflows. It describes:",
+      "hash": "7eb5dc1f51dea1878b71be3716a5394ef4a8dca9a6a27faf27781d3ab55b76f5"
+    },
+    {
+      "id": "2eedb17fa32c56356fe5a63b2b33015f346c610ab1a0ecfa576577b21df2eaed",
+      "text": "Prompt chaining, where \"each LLM call processes the output of the previous one\"",
+      "hash": "a162658e7a871cefa96cd531b9896424018d25dafafa570640e819b8e1635874"
+    },
+    {
+      "id": "9787980636428f6b932ec3f76f787b69a69ef481ae492163bed96d0523a30687",
+      "text": "Routing, where an LLM router \"classifies an input and directs it to a specialized followup task\"",
+      "hash": "adab87a80c54992634bc2d6e8d6b36878272e4f4dacbed3f1cdc9322d4eae8e6"
+    },
+    {
+      "id": "48cae8294b0533035ae838ee17f106fe9d5be022ec31e7734e377686b274ae52",
+      "text": "Parallelization, where LLM calls are run in parallel.",
+      "hash": "4964cf5d8cb1deb091a629991e72d81819eb0db386a41de10b371e29ed9c1fe9"
+    },
+    {
+      "id": "c72063edcd903bdaf43235adce0f441850544d73c1669cb09ca7b0ac5382cc2b",
+      "text": "Orchestrator-workers, where a \"central LLM dynamically breaks down tasks\" and \"delegates them to worker LLM's\".",
+      "hash": "7820ba845fc19a5601f3734665871128db921b322635c6928f2dedbe2c05655e"
+    },
+    {
+      "id": "ff779423464e3763e2572c6695925d1ab83fc73827e35930310b326e8a41a3f6",
+      "text": "Evaluator-optimizer, where \"one LLM call generates a response while another provides evaluation\" in a loop.",
+      "hash": "ef0fccc7b42b04ab6ff5b9d517c5d5893ded744f7726a903ff38859ee7655024"
+    },
+    {
+      "id": "cee08e470f498ab1ac0c0af1a3c80dc98888d4a5831e25385b19b377100d5d21",
+      "text": "Finally, it defines a single pattern it would define as agentic. Agents:",
+      "hash": "b108423787ae03c6abe9876e23bfda17c89535287edf78d667ed35001c036167"
+    },
+    {
+      "id": "da7cf2e191a1386169bb7806813176593c28a31ecbbcf2d52ae91356a72fb6ef",
+      "text": "\"Plan and operate independently, potentially returning to the human for further information or judgement\"",
+      "hash": "78f58a1657b18c41726503365c2966cb55b8ae676c7b1296f9ea24317297e325"
+    },
+    {
+      "id": "58b0eaf00d15d6262a693a0001a4bb3738b2f5e43683d73b695ae15bcfff839b",
+      "text": "\"Gain ground truth from the environment at each step\", using",
+      "hash": "622369588531ce831e20f0928d7cceca9fd8ec737307367319dd10fc8ac18bb5"
+    },
+    {
+      "id": "b237aa6ff59f68ec749a0709eb78f505609b4fcf407b36650b69f26a0154840b",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "305924074beb3ff6b5ce7a8063be6537965e763c32025be3c3e4ff2063403eea",
+      "text": "results or code execution",
+      "hash": "315ad2f922296f14fda7ff68d370c97250c49c5a3f49fce85fdaeffa3a4a5c15"
+    },
+    {
+      "id": "9fcff75f3ab6a00a57b9b35250e61d27355f45ffff418a6d9716bc8ed7759507",
+      "text": "Terminate upon completion, or using a \"stopping condition (such as a maximum number of iterations)\"",
+      "hash": "d55682a4e79ef07f0ca9f06f4f47f282fa4a6aad33a890fd3206a606fd815251"
+    },
+    {
+      "id": "3f3c72b4e8a9712cdeba0fcae232fc317300e501dbcfa433242d95ae8acdf5dd",
+      "text": "In summary, agents are \"typically just LLMs using tools based on environmental feedback in a loop\".",
+      "hash": "b4d49e552924392e9423952469677dd33d50c2f793b531d46cc4dd8a535ae83f"
+    },
+    {
+      "id": "5f7288f302694ec873a5096800d0f6ca62b8b4c82a36d4b39a04bb02e80ac89f",
+      "text": "I really dig this definition - it demystifies agents nicely.",
+      "hash": "c5928f8af5a3f3d35537d3e88d0c0a1677301ff29883a8549769aae4a41f515f"
+    },
+    {
+      "id": "7d5bb1a4a87c2f10b5189c9cff74262a0f5a507648834969f37183ba881b2668",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "b611420f32112530dbfadb7f3fae2bbacda7254a6e38f92ce01a211b228c0d54",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "7461b042f2a092e572f9c9981126a5ed34380adf26fc6faa5b89e1df3ffc1b0c",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "cfcd82c6865e3eebdf6529b98203d4202b46e26d65c899b8f9c709294d12c495",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "b10fe13a98d4b244fbe1cddfceef962068e2a0de636334f4d412ecdd099d2fdc",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "c3e008c6c1d6819a35247bbb7611bdbcdc0b21f0b76d5124be9c6463a1d6b3a4",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "ce4d970326e6afa3a9004a84a2adaf4b652a09d53aec2ae174eaef258f3cf841",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "2744b31b876416d454ae2ffe40bdd236feb6a240a60eb8f109ce4b27dbf258f4",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "3687c843b0098cd69edbf0ae128df77a692b6152411f9d2e3c27a07ab55ca7f8",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "e0dae7102c28f40164f0b70689e09ef140208ce7fdd35792a5a4c7b41e23d2a5",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "e87e9e31bd0be211c1501cb10fb98c7173cc9af054560ea22bdddce1189588b6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "e95ad55d93fd2618e575c268377bdff2b3119833b56bbec8f3e39735f8ead944",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "a38074c89afd89ca3537d19c4a1551b07f926cdd85907f2983afc61b736e9260",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "71c40cdb7448534d65e18b5cd2e9ca4b0cfef3913b31e172b8c906f3df91788a",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "fb0c076c804aed22be13a5c301b92611eaac1de80e06e3375ecc9810566cb025",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "2b1691377b88c8f87cf3db3cf6fb686b5a55dfc0dc783aeab3dfb60e0a6e0233",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "94ce7d5c0a46851e86ff19bd7b9820a019d3779aaea7732df539dacd3a6945c2",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "ea0da0f3ade66527ce64574d5a948fb4e5816843db743c426b49f9036118af7f",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "35715c76a9c631742464df7785087df3cc02f1d192df88bc7dd1c5db2d310f71",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "52fce64667976f1ad57b20a5ad47a2b9daa8bbb1e3903b10005993643538a281",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "2748062bf0ac136d807a1e057a6520922c75f86141dceeebff9ba79102c66e1e",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8b03d73fac93c689e0bced6658c5fb84bcfcb938d443fbc060217f0cae4bc324",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "c747db20e294a579125dd0d887ea0cb4b433fd744ee9fcad31a7195fbafe9521",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "2048b540dfdd880ab2a64a6a15084637c80365d31b379c0da0353bc0b47012bf",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"6tf7t33lo05byg\"",
+  "lastModified": null
+}

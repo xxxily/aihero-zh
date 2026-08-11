@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/human-in-the-loop",
+  "pathname": "/ai-coding-dictionary/human-in-the-loop",
+  "fetchedAt": "2026-08-11T06:28:39.711Z",
+  "title": "Human-in-the-loop | AI Coding Dictionary",
+  "contentHash": "bff3fefff308caca5be8148246aae44c23e8d09ac5c5f78ca4767a4890e61278",
+  "textHash": "e93084f90dab8455e66278ccdf9263fb0f1f47006208904c0772819b734896cf",
+  "strings": [
+    {
+      "id": "fc367f9641d2d34e23044c6cfec9266f38bef951bb5d393b6729db783f650a40",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "5a04749b9e77a20f10c815445edbb669d1f2ea10a46bbb39fd62753eb3647909",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "6df6492e2241eaf18dc35972933acbba74e28244ae0c23b150a7e891e03bfecd",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "000d91a808497ec6c5cbb29aad15d7edfc4aceb102c82c45798435d8c9568c0b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "95f769a076b1d80c550305eb18701c79e928c005765f5fb91333dbb541a93e53",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "e568e240aa1f6c080bb6f495d8bdf95ec36149abbef1cdd9d016c32c6a234369",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "30e3dda2a1a9817e01e138ba519b94a5ca084204d410c8aa29059c5c28790092",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "125fc52469a93d936348d27da576682977f7a5d22b7fd676b96ea44ca5e01844",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "7e299fc3ff7d2cb210923a66312d09fa1af716cecc0c0d66bc4e37755b7245db",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "808971fa00418486ed491d82dd207e6a56ebb5cfd6c09fd8ea09d682b1fceb72",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "8497e889bd10d2dfe439710cdc2c11afda617e06321caba7458fb9edb3ce565a",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ed6674ed2a06a4afc620ad6ced8a05aba572127e4c3c5da2252c400328b1fb84",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "982b560fef01c39211fe63e9adad30fa32a1dfc4f8e372398d530106a15a9f1c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "13ac7f21325a46c184eac11e68b0d6c148d86032f9e94707760dc36e83530baf",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "fa0802e6df0a8b8f0ca9453b0c3842b71d769b133f3a95834be2da1b6e7a2527",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "90d6607f99588859a0a91828ff1cb5f766ff9091112fcc6e4a4c6ae989a7ba97",
+      "text": "Human-in-the-loop",
+      "hash": "014893d767fb10c9f698bbc84894647de33135dacd220fcf7b22451b55c64e6f"
+    },
+    {
+      "id": "6b9ae735019be0fed4b1322757fcd53530f09d0489a715c32284bfbe86c9e482",
+      "text": "A working pattern where one or more humans pair with the agent during a session — reviewing, redirecting, or collaborating in real time.",
+      "hash": "593c90053375caa00c552ed91158b359f1f6e475990e0c1098b7d1c2418d65d0"
+    },
+    {
+      "id": "21cf2992fcb02d8a2a95684433d062050b37d904aa46c9213f790ca3216fcdc3",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "ac559cb7133b028d6809e20c6d1ea4a372faa0fe62f54e541b6dfa6abd263e0f",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "139fc8131d005a8e9b2e4335f304953dffb692a925e704398e0ea3209ad3c34f",
+      "text": "A working pattern where one or more humans pair with the",
+      "hash": "c56cb803c35efef0355dac67a074c91e52eebc71bbceea5cb88defa44e105e6a"
+    },
+    {
+      "id": "0be1f985931a40c86827b557ba038a04b2f77526fac0449d79af5d371c391335",
+      "text": "during a",
+      "hash": "fae795a2f55132feba60ef01e1af91453508aa5ecb34de455b31270e8a063cbd"
+    },
+    {
+      "id": "f35c13a91b62f7ac3c309ac0d1847236e7daab64c2019162b128b89dad3786b5",
+      "text": "— reviewing, redirecting, or collaborating in real time. The human is present and engaged, not just gating individual actions.",
+      "hash": "73db2db9df043327adb37a650c40f578c5ac60d925a60a2ec08ec3adf9c1f5d4"
+    },
+    {
+      "id": "b3401bd0588cdf1de72ef65a382a244def37985fbe9d366f5566ee25cd2d4a9b",
+      "text": "The contrast is with",
+      "hash": "e23bf039f6070e516ecfd68d15fd7c314ab863181f13e494a6d1f9f347cc7664"
+    },
+    {
+      "id": "d55340b999d9377245d28691381f08a1c4b0c9a131719f39e3854ca817797ac5",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "5bbdb496b0f86a639cd5975a94d0802de3960ba2f897bf9f2f723ef0f5f6f671",
+      "text": "work, where the agent runs unattended and you judge the result afterwards. Human-in-the-loop means catching problems while they're still cheap: you see the agent reach for the wrong file, misread the requirement, or start down a dead end, and you redirect it in one sentence — rather than discovering twenty minutes of confident work built on that mistake. Agents don't reliably know when they're off track; left alone, they tend to push forward rather than stop and ask.",
+      "hash": "c7d9e9928af1aa026a1380afd8751e947ec32b708fe130cb6307ce32ec719b90"
+    },
+    {
+      "id": "f9e1feff16ba45543cae32590735c38af7c9dbfec59ad2dfdd528396359b56b4",
+      "text": "Which pattern fits depends on the work. Well-specified, low-risk, easy-to-verify tasks suit AFK. Tasks that are ambiguous, irreversible, or where you'd struggle to review the finished result — a schema migration, a tricky design decision, anything touching production — suit staying in the loop. The judgement call is essentially: how expensive is a wrong turn, and how late would you catch it?",
+      "hash": "fb005cdb834c1728df1592d968035d5badc93c3952f0a998a645e1c32c18e18a"
+    },
+    {
+      "id": "0a201e859754d4dbcc00774e0e7ec011026eba54bb112132d7f9c7d86e795aaf",
+      "text": "Some work is in-the-loop by nature, because your reactions are the input.",
+      "hash": "b4cea2dc7075a632034839750070185fdd146e2081828b9980f37bb5fe24235a"
+    },
+    {
+      "id": "e9eafccd3a0df0b3e4b2eb6fbb98d3ea1ae4c133901a7fd742ab2842648b7c60",
+      "text": "Grilling",
+      "hash": "78318482b2ed0e5dd1aa46addef2c3b1c379b1f3b213eac3337b8fe2b40ab6aa"
+    },
+    {
+      "id": "63d31741aa163c67934bd1a5423f88da7575a99758e63e085538bd20786c70ce",
+      "text": "only works with you there to answer the questions;",
+      "hash": "878449ee465f040dabf68417e9a08e355451b97c02f607cd00f0a899163f40c5"
+    },
+    {
+      "id": "1df6219557ec587498085ed64cc3de2bb3ae0d5cac9c364023fc92bee88e8a50",
+      "text": "only works with you there to react to the artifact.",
+      "hash": "a5e95661ab827c4c8d76ba1100f84ba84a25f90cf36b91e390659b7d14ea93c5"
+    },
+    {
+      "id": "a29ae8ad6e4c526107b1dc77452ec091b50da52d1c2ea917e945d5b9c59c6eb2",
+      "text": "Staying in the loop costs your attention, which is the scarce resource. Part of getting better with agents is moving more work safely out of the loop — with plans,",
+      "hash": "a3891d6b57192858f681324dbf6ca1b531aaef5d931e05e24dd9d67f7ea86fb2"
+    },
+    {
+      "id": "0ad106a86fa79e27b703db07d33ef1cb0fd479646a9e4ff647cb857431b6be3e",
+      "text": "automated checks",
+      "hash": "f748d6acc6e10f9e80812a46b239b1d2f3f145075600d299b6e40632fb06622b"
+    },
+    {
+      "id": "4aacc09c7ce8076dfa3b4532362f926b776e37ae93ea7ca50fe0d8da906a9850",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "e94ffe14caa9cccb67328ba8b83e3c0398b9f331a1a6b0532101652f98f06e28",
+      "text": "human review",
+      "hash": "978a8b09ee5844e15ea0661d83702e00e6b4312de7dae44479adf0e8d7f5262b"
+    },
+    {
+      "id": "8c798ae07794828939840db837f26020a84d03442cfe96b9fc2b02340306e5d2",
+      "text": "at the end instead of supervision throughout.",
+      "hash": "87b8cdddd4fd18ef9a316f641b2fc1a26563bf8524acec4d8ea31c614390d342"
+    },
+    {
+      "id": "a3ee8093667c096ae03b9b3976cfe678953c79f7117daedb1381ba0af2e72f19",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "075a31bad87a67aef1445de99ce533a87f133355da91037773efe91a2b80d735",
+      "text": "\"Run this AFK overnight?\"",
+      "hash": "3568704901596efe6fe0c3c4c7a0bc50694df1780c3f83432a337a9fd8cbde88"
+    },
+    {
+      "id": "69e7389698080c6deb0419a596572012506150116b6c5f45c420d9971f8655ec",
+      "text": "\"No, schema migration — keep it human-in-the-loop. I want to see each step and steer if it picks the wrong column to backfill from.\"",
+      "hash": "18d3e332ca574cc93500c4e2df9c26dea703e532345794c13ab7df0662139c7f"
+    },
+    {
+      "id": "a6f6dd02a1350418426d1f0f4b68c48f13f1de87b655fc33993fa0cb9147911e",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "af38b01c6d20156591304f1291b8e7dfa8ac6749f1b6c94be580c316229db8c6",
+      "text": "Subagent",
+      "hash": "d6cb4188b8fa57aae3e4ca3a1210c9afe7ca995375c2fb36d90a1fa73529a44e"
+    },
+    {
+      "id": "025c535008c7c0184e8542e2082c64c08ee1784acc364dbfeca0004b581d2154",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "d36bf2fff58ecce440b32886a175f6963d9ffe6a79a5964944519771ce61fbf4",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "8f0b5027bd05d8283b0687f3ddd61373f65a94ca215cd7aa90e34d0df5790865",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "1e24a2d63fc1b2d0b631a47d26be1379b1c5c72baa5de32373a53926461794b0",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "978503ac2d1f206dc9f92d22ad7a3b45e9b59d8c83deb296d47f0201e1130d75",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "00665c796dc5661f6fa714eb8cb6183583ab41ce2cf1d562ce0eceee40dde4b7",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "650e0f93706cf579c39af97c6a98dc6cc967be94f4453933dd49d8f07c98b5e7",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "b59c5f1f0826cad7182a4f831fcee6dda98a96cdd1cd6e64567697bc60cace00",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a2954640ec05a6dbbeea3e8a95b447c49389959897c8b70eacfa8f07799caf37",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "5c9e471bcd4b3d103e2498cb42340ff442511c0f536c56899cdc5b6536ac0128",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "7477a884eb832fb40cb8762352eff9c5928ed42b535fd803e406bf5dd4a8c8e7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "8348f5d545106748f45bbf24503a4d6a92ac79876aa45f678f22816f0a1ab730",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3699bb36108c6e3000ff9ed005c76787cec526b5355f3068433eefb610c9bf80",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "dca103503d12b52a5a5b07fa164b0e49ac08c68dc3a00a1d5706f11f2a9a4704",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "f65b2b308e392046b3c1eef5b642742cc624d7a0887954c282acb8e5a7d98956",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "68a6b7e572491995ce61f31ace2d772d9152a531b6772d508405309acf292bbb",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "725dd97a090cd882360f1eb45643c04da36e53e11e5febb8ca781f0585a81fab",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "3d4aeda40b80045c5e30e1e70078570c618aaf166b43fd843bfa2ccca3d76058",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "dc3eeb0c8901ceb1dc73f4d01447101b36e06d927de8c46101cd1ce16678d6a7",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "aad00dffa11f4bbd8f1bc06749fd8403f8cc7677702ded650e7eab80f477d87e",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "805826df53a356e9f7df2944a4a96e2b27b8a14e890ccb9888c2d364b9fe64ea",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "d816b8460f1125ce3c10f34f0e2f8a0f633231311d1f8e186384201a05c5833a",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e601d0e3f182370c746acd294bf340c40c148fec9a9388e41b65d9fbccff4b8e",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "fd85caeea04980eb8ca1662ed1e44be9efa09619cc8d26902b173287a843c21f",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "a57de9b76e8dde8e2ecfe52ae4a64b80168b91d43555b7f16cb746b2b846b356",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "8f0ba4ed2de8421d4f8af9a483b8b73a05775272af292948798a8d3d182b5bd6",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "69687f4e6ea8ee24cb08bf84e3a494e574553d8bb9051a103ab380abaa2beaa5",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"hqrpqg7x5o4req\"",
+  "lastModified": null
+}

@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/progressive-disclosure",
+  "pathname": "/ai-coding-dictionary/progressive-disclosure",
+  "fetchedAt": "2026-08-11T06:28:38.053Z",
+  "title": "Progressive disclosure | AI Coding Dictionary",
+  "contentHash": "2092e590b1bc674d380018a02743c2dc2be4343ec3aa1ca094c38bb7a4970cae",
+  "textHash": "cc3bcd3626d808bbe83d40bae771c7a0cf38c6e816455c196244e1d19015b6d1",
+  "strings": [
+    {
+      "id": "3393642d4703036f4361066acdaa6f0865d0d411b654ead39af8e0490ac164ca",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "243834db29f3de38c52c025bde9afd07c9e0fe22714788ccac01a8d990f0bdbf",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "177ef977630b128429bf111ea1406aff0119beb6d7d133a9e33476904a074020",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "978f3a4275ac9a83b582cc7dd6ca1be0890223d72cf82db74635424a6c2a6a30",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "063a308b75f39a480087d2e1472b314eeb4240a44f72c6f8235a4810cc011090",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "80080dc8b72394b8b8ebbb5fc9b14bcd7765aac4c313cf7eaf600d6e39ca9988",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "0927b980daf213dc98b10f739c6fcf495009cd63d497022cc9cf6921ff3b073c",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "11f3ceaf990d3407af41785b200a9bd2391217355074d155b818b228cf735f3a",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "1036048f22a328a43153d8e4abdfef263d32992c6bccad81a2012c8e46274aa5",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "fde3878bbb9103afb87369b353aaf74564ae185d4772ab9f4702a53727f2159f",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "55b136df0476481bf4e11da618dd51e388fb59481355cbef5c2512086d288212",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a5fbd7408d96380d26d19041e35d238974e22d7f7eb1fdbf49fc4c5f8a1bfdad",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "1066cbf5f57ad82661a474f023c2ed3eb4507143d611c562b9049d7155988d46",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "90c763abad923475d489fcec246bb03d206461ca56f35ca76dce40645318e9d3",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "86970356deef17e0c6f0ad5228f43004ed931ec904a6c655fab9a2f502e4739a",
+      "text": "Memory and Steering",
+      "hash": "e9396c915a0fb1c9f188708920573d4a5b1ec0a09639049682989999ecbdf3de"
+    },
+    {
+      "id": "06359d69c19593321739dc56b6709ede1ecfde98b344755081479cd37cdf9dc2",
+      "text": "Progressive disclosure",
+      "hash": "cc1b70611c98675e8e42c8d6246c2f13f869540b48c6abd18713bd25ecc7611b"
+    },
+    {
+      "id": "64974a0dba49f833e6cc1390276fc8ee1fad369e804203d8b7b50ee52ff31eee",
+      "text": "Loading only the context an agent needs right now, with context pointers to the rest. Borrowed from UI design.",
+      "hash": "6d2b614348e39cae34b13b50817334d59406fe772318327ad72a8174d9eb7e38"
+    },
+    {
+      "id": "f3ee53a6d4809b5ce95ac9f3103925422f3e8953e325db7cd0f7b853b62faf7e",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "7d124ac6c1b0069c0f61c21844c5f758d7d67b1d01d25242351d8921fc97e4ee",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "898775fbba3d33316cc4bf3880ca690f977b78ac7360351d228bc594bd2a38f5",
+      "text": "Loading only the",
+      "hash": "07eea9cfcba26c5888af74211f8370cc434a8a37e74bb6e77a8e747b10dd38cb"
+    },
+    {
+      "id": "0c435a2500c87ddcbbd737fdbe56c3f746be3df3aae409545f7640c287dbbd16",
+      "text": "needs right now, with",
+      "hash": "2441130aac53fec1f7ad8018e3c120e8b467ab8d3fa8c49282eb034fb0c03e78"
+    },
+    {
+      "id": "6a82fdd6ca604bfb7d6930888ff5f3aa18a1e9b4376dd47d2874b5e7abcd3965",
+      "text": "context pointers",
+      "hash": "82528bbf7c9c348f2db59980c707a48c7c85c4ea3d7f7f63f107a209445930c8"
+    },
+    {
+      "id": "f1121c5eda33152bf100775250f9b623c5ec8869ec2d9c1178ac40d4621a8cb3",
+      "text": "to the rest. Borrowed from UI design, where it means showing users only the controls relevant to their current task and hiding the rest behind a click.",
+      "hash": "f60d2f6edff66ef3b7019e6680ce26ff567da10a61755739cacd7f678cbbdbae"
+    },
+    {
+      "id": "92f2f3a660acc20d7f3341b5fd13bba9e6771269430d388a13d72b14d575281f",
+      "text": "The technique exists because context is a cost twice over. Every",
+      "hash": "dc0a32922f377edbca2d90f7d7f0ac29be5f52a51397c5e1095bf299b10975fb"
+    },
+    {
+      "id": "5c63b348e402b4cdf5b501d64989db96d9d42a188fad52156316c2ec61a82cac",
+      "text": "loaded up front is billed as",
+      "hash": "5f77ceaa04ddf08d636bd82627e4bc021cd9d60ff730d6d1b6162a6a71bea2d2"
+    },
+    {
+      "id": "7b43cb1589985194805fa65047e1635e518c9a0cded4802d3427922ee4742a49",
+      "text": "input tokens",
+      "hash": "f0c1cb4cda1985a408b12908c01227b01065a8cdfc2a03e2106ca60275f27d16"
+    },
+    {
+      "id": "66598cc797b9e2c902d112856b0c98fb2ed5865429cc9bbd369025c1bb6f91ee",
+      "text": "on every",
+      "hash": "9c34ac1fbff22cab4932baa69eb90745f947cf422eff5ee836621fb87edec310"
+    },
+    {
+      "id": "3198f8096542d9fa4718761babbc55eea6dc941fbcb2892f866922377c7c1ba8",
+      "text": ", and every token spends",
+      "hash": "08c2bc0e10b42157840fd24865436b989f173a6440f55d1dc8ae5610c9f4354a"
+    },
+    {
+      "id": "33f40888184419014bb326e840744f28905ae67de2409932db93c3a5b167c8f9",
+      "text": "attention budget",
+      "hash": "4f0ecd6ea97f18771cbd4203a929018449d8dbd4c6cce6f90fd7511b5c34cc81"
+    },
+    {
+      "id": "b520e3fc1c9a0e534de73e8e9c34179628287b268455748d94e4aa836bdf7a9e",
+      "text": "whether the agent needs it or not. An",
+      "hash": "d1f158f9166577e6fcfbaf847f7e0b00b162ae5c3c67df82092b640da2c26c0a"
+    },
+    {
+      "id": "b0bcdf07d6ae529de66e0d5cb02206e41b19215ee8df29e063eb6f86e01d9b55",
+      "text": "stuffed with the full style guide, deployment runbook, and database conventions makes the agent worse at all of them — the instructions that matter for the current task are diluted by the ones that don't. The tell is an agent that ignores rules you know are in its context: they're in there, but buried.",
+      "hash": "191b3c2e1850874f53c6a78b0fc483ffdfefcde3faddf466f6ccc232cf1a07ad"
+    },
+    {
+      "id": "5cbb33a4f23f3e5e67eaa01155d203c43915551ba8b2f35a50e475d261810d43",
+      "text": "Progressive disclosure inverts this. Keep the always-loaded layer small — a sentence per topic and a pointer to where the detail lives. The agent reads the style guide when it's writing a component, the deployment runbook when it's deploying, and neither when it's fixing a test.",
+      "hash": "c4c63341d8c627ff0e5786326db8198d7dde1b6abd977fc2c6f617afddbc73f8"
+    },
+    {
+      "id": "f7045336026e50e8588ceb696c44977edac3275fb7ca59a4db5b4a2a20817ad9",
+      "text": "are the pattern built into the",
+      "hash": "7778deda0fae04c10785318e1451450d5c656524c13395a5866d2478f5ff21d0"
+    },
+    {
+      "id": "099195426485e767676074976aff98f1d6b2168ec7d640208f41151dcfc5720f",
+      "text": ": a short description loaded every",
+      "hash": "112a571baf8384ceb0fb4d89e465b39607fa56560acab0f9d22cee60edb66e57"
+    },
+    {
+      "id": "3bda4fba03a6ffcfe3cc7e355a752ab9374ab0a328480c33f548906148ed88bf",
+      "text": ", the full instructions only when triggered.",
+      "hash": "3ab815315808519936b23b1406d31a9c0efce9c592eb520495a0ea2135aab051"
+    },
+    {
+      "id": "b4a152d3408d4c3e2a228eae82e8498be8cb3e91413f831fde5e06b80f64c109",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "ad44520368ba76a13a72d7e94ac50ce401b89d3cc4552b1e1d67c9950fd44708",
+      "text": "\"Should I dump the entire style guide into AGENTS.md?\"",
+      "hash": "a7c5131c7f731904446d9e121f0b6be59fca1c93d8f70c984f0caddfdc90e4ec"
+    },
+    {
+      "id": "89b4d0e3ab3fa5176c2da37aa4f19322269ec3c11df76e65e7285e7b5491ccb9",
+      "text": "\"No — progressive disclosure. Reference the style guide as a skill the agent loads when it actually needs to write a component. AGENTS.md pays the token cost every turn.\"",
+      "hash": "feb855f61c13d4fbd35a8325bd16f6607603a4d8e24e60008a0a025f80516eba"
+    },
+    {
+      "id": "17bd401ed3ac3b5c8e6f3ebbcbc136764a5540b2c57dd981c116935603f9381b",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "c355642e1122af0b1eb34f37ac706d7a060f39748f37ff26db08a4b58b38cbd3",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "f8e712ac14ab02b55fa3531d3135652b102f0f9aa01a4947ee9fff8c4b5c1907",
+      "text": "Context pointer",
+      "hash": "d95bc371d100339c0ab85461467e2c00939ce2b4d26a5c74d8a927ccfab4b271"
+    },
+    {
+      "id": "4c3197229b850b3ab45adc7d4052202205326a44dccfab96c9df392f815be12c",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "1e3bfbc80db522a6212611ba89ef4d3567bb0dccc5fb97c5e270a376b73d1c11",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "835fc3abe4bc00d75c6c9b989ecc93ca61ab66ca82f398a7d225a395419a8cb4",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "2edade70ff734bd4d7b7841f059a34d20d7c7a8e95803cef9dd1a0f5fa857fa4",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "a8996c0cffb509703625b4b23299c19ea2d52cd5826a73a7f78b57c155abb1fd",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "ce8d6b0b22f1ea5395ed38a636ee8a0dbc4ce7aa976c8f986cef00d640ee7592",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "2d44bf852b88ab2d1c3183c72d6e277818857da56bc56bb84bd6d68377f2f94d",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "d9427a0570896ecc04d3cab0f9331d57782223c9a3daf99c5311fc16e0c0d62b",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "edda160f79bf1965f1b40532005b7ccc4a34acfcce32aeec638f27dfc48ecd73",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d494e2d1a074e7e99044e3dd9caaaf83318af5933c3d1f4c53391db3c68ddac1",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "3dba07297472a96f08c9bfbaa67e21363929c857213abc10d2045598d22c92a8",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "34f2cc2677d407ca65dffd953f7157d01fef884cb25f0c23754a4abe9ebcf98a",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "f646b2aba1f5553c4cf34b4535ceb9cbc1b5d86a1a568607cb009497ba1e5dcb",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "7f134aba3f14615a93913797be9e0fc8ff61a15fc753b2792d17abdbfd82da34",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "c31ec5523acf4c34dfad3be2d6d8e87091906a02b81d0606592eb7e861d694f6",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "6b1a523e70818f111ffa2aff638a801b4bafa802bcb85ea1fca4d8f7f9dd984a",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "fc7eb6152f378cc882503f7fb96abf74b84f459999a04a36c0a38a2745a49f83",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "160d64b1c8611b0e44cef33ea19686b8ca19b6ea29d043ac81da93f504758363",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "ec580159d0f06d8aa7b25782fd2bc73004651233207fe420b3bbb25576738635",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "be03843a8568ec420d720c099f2314cc5de2964808fdf07c4dea39f1b8403583",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "460e6c3163e4652f93c9e44f74ab7271993c7d331be438e207cb1f4dbf7240dd",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "7607f2ae77447d2f1274612160f32fcd41e4c8c1604cf05d6e3406be331dfe66",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "084035c6f37f8da0621cfb34125a4bed34c9162f31500a83101e2a1064ff1df6",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f7a61265edb492e860e8e1ca6d061ec1760b6a1e37148d1676daa96469bb9136",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "b96135d449431a19ab54191d5555b58fb3519ea51ab5add31e33e10aa8f319a1",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "08ebc0a8d0d12325c49f2f6d7bf865f38b409c04a200750419e5b374a6bb4144",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"l048ubk8ze4rfv\"",
+  "lastModified": null
+}

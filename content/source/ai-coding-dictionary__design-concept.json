@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/design-concept",
+  "pathname": "/ai-coding-dictionary/design-concept",
+  "fetchedAt": "2026-08-11T06:28:42.161Z",
+  "title": "Design concept | AI Coding Dictionary",
+  "contentHash": "8d06d7cad503d60932b5d8672ae6b153678176376638b6f0c28056956cbfd22a",
+  "textHash": "af9ed92588a3d289bb99a2ac81ef04fbef43f101968c29fcd11cc7a6564deece",
+  "strings": [
+    {
+      "id": "361de1fd7169c7709d1e3367497e4233bc35d7f1d119b47c85f04d9d4f4493a1",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "28547b04987e786c19a52971a17f06f84dbfc3714709f5599222078dcfba3f9b",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "2e29c88e756fe2a83c25aed0b980457f2a906a3cbb83fd1c8e2b77b44a4aa419",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0c3fc0872f3cb277eb31c9a39374d8e33ed1b424fa71469e0af895e7777ca3e0",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "025bf60dc3d3bd56c69f4d7429a7113690017b98788dacfa5d4c51d970a6d34a",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "525678980f5fb293ed19c3415c49eed950687c0a59b595cd34c6ed29c8eef19c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "e4a70dd96b7fe3e87c3c7296238edd32824bf6030461255e7a4c997ad2d887ce",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "074d599670caaa17547035de27991bdcf709f657f5a8778e2bcab0c0f59c3253",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "293767426df659ff8944e2aafb93f332383db7d7bb5b877acbe195caaaf4932f",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "669ec6c845a6487736b6856e017c63a15f5453d435a903f7feec49b8d8c5821b",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f195b0ce7786599e23a5530df8de472282eac8f6c549f4f772c8056ff497372a",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "c88bdc15fe83efbe71bab0df15fc86b4a17fdb442cbaae0ec03cc339ba8463fd",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "0dce9309fa3c5c71e5426060af95c90606ad2789970ff26d19bb70dc1a5d668e",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "ab21c67461042e4d21321c0b1e03e097a21fea38a087b9dd6ef12153e826b21a",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "2f6d90d888342b97c868a22ec732852f26073f974477c5962fb95dde0087d729",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "3b4cbab2ffd73bc9d4470c8f6622bbecb532039a12756b7423ce255df36166b2",
+      "text": "Design concept",
+      "hash": "82e016d461be61c25a0a6d1aea2feb29c33baca4c6a3af40367f9ad5b297dd6e"
+    },
+    {
+      "id": "249f004298f87bafe9a591649c153dceff7321c1e2f937a307cc229ee15006c3",
+      "text": "The shared understanding of what's being built, held in common between user and agent but separate from any asset.",
+      "hash": "6dc8f85f5964d8844bd75ac81c2672cbb7ed946b18cd602fae15a671c8168a49"
+    },
+    {
+      "id": "23cf4ffcb9dd576a7df08b57568cb357ab5947206840ad5b7c718566f963d141",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "b5d796e464883c24c46e160ffc2cd7a7fcd1b84a12ef3768d82d2c5b710a799a",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "189c4fe9a058dece92d0b19ff8a5b89a596860fc086897e0a62a01d5e399982f",
+      "text": "The shared understanding of what's being built, held in common between user and",
+      "hash": "ff0ec6c11e3e0c3e5274dd9ca4b2db840eb8a0ce18dd05bc2d7b44ad3744cf8c"
+    },
+    {
+      "id": "8cfc0d25f1bc9a2f64e5616f84497b1684503c8180abf6feb1611338b07a5838",
+      "text": "but separate from any asset. Brooks' term (",
+      "hash": "be731bbbe86f8d6b05bca575f5091712770db86dd03fb5661297fff46cbbbd7d"
+    },
+    {
+      "id": "5c762d5ecfc98a49c16110b36a9338b2ed8e84c40dd43d020919487327c1325b",
+      "text": "The Design of Design",
+      "hash": "1e326c6438548b1b949470919dca75040cacfff2bf78f3b11617278fb754ea64"
+    },
+    {
+      "id": "e86e4ec331623ab1f25ef80f72fffabbed7eb23ccf548d38cef0506208b132fb",
+      "text": "): the conversation,",
+      "hash": "ae0882edbd1b318d6a979039767738c747415f625c74dfb837f7c4f7b5a2261e"
+    },
+    {
+      "id": "a932681372e236913e79b09f4262ebd84bfdb4e6cbc54901f35e067d8f43ed9c",
+      "text": "handoff artifacts",
+      "hash": "78a3516549d7b8e8a934563d52ab8e83d5f2048f1c372864042ed720577ba58b"
+    },
+    {
+      "id": "450301f2753ae07187b0f870f93bead64afa69793db173f55d40b3f8644d26f7",
+      "text": ", and the code are all assets that try to capture or reach the design concept, but none of them",
+      "hash": "c075cba2ac9329eacf1eeb4dc8847b86e173121da3c01ed6bc260d4e2bf3923b"
+    },
+    {
+      "id": "fa5fe2b4e069b9f72e3ede446c3ee298836f89e044d4c943db87b85038ea8d21",
+      "text": "it. Quality of the design concept is felt through the quality of the conversation that built it.",
+      "hash": "9f5efac0b6b149f76ba68736b0d53ae1ff3bb2d72564be55c003ea1c96e013b4"
+    },
+    {
+      "id": "7c8de526d3583696f8c43a54c2dbce763b9613eda9c9111a9f5aa122498646c6",
+      "text": "The term names the gap behind a familiar frustration: the agent writes exactly what you asked for and it's still wrong. The usual cause is that you hadn't fully figured out what you wanted. The design concept wasn't finished in your own head — your prompt captured the parts you'd worked out, and was silent on the parts you hadn't. The agent filled those silences with its own assumptions, because there was nothing to align with. Nothing malfunctioned. There was no shared design concept, because there wasn't yet a whole one to share.",
+      "hash": "d96929cbcc8749351c8b65bd79c638b94014b2bbcb3d35ff3f2cf8219c089e39"
+    },
+    {
+      "id": "a5cd0841bd49eac103e96ba4cc4739987c63fd058e3e34758ca8ccf20284df71",
+      "text": "You can tell a design concept is shared the same way you can with a colleague: the other party starts answering questions you haven't asked yet the way you would. Until then, the work is conversation —",
+      "hash": "330f911440380134d14fc989b8be6dfcba118ac44628ddaee7bfb5af389130a1"
+    },
+    {
+      "id": "1cfedb1f7f1ea8cc9dbfb1edd242d7666ee254e57326a244d1f216d85a4907d4",
+      "text": "is the deliberate version — and writing a",
+      "hash": "678c58da68aa02a4bd309592a82b0feed8e1d519e16591d85539e6edd39adaba"
+    },
+    {
+      "id": "f1f6f9cb2c8086e7bd6637bbe7b1c7ae3532a7f24c70b6597ca70d477e9511aa",
+      "text": "too early just captures the misalignment in a more durable asset. The design concept also moves as you learn; assets lag it, which is why a spec faithful to last week's understanding can still mislead this week's session.",
+      "hash": "6484a398924f844d12ad97ee21ca07f698731adcebcb900cb58dc2a78e0cd2a4"
+    },
+    {
+      "id": "930a5453f07950c9ca2882ab584b1447e123813b98feff66cfc6a879b38a5066",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "8420ed88199c95dbc25370491916ce2ad159f513a4b54de7fb08a0992093d3df",
+      "text": "\"It's writing exactly what I asked for and it's still wrong.\"",
+      "hash": "e13165a4f246a907d123b763c03d4bfb8512f27d12f0d9d6b4ab8eed1b195718"
+    },
+    {
+      "id": "d7f12d5f295fa87a63406c4cf1686f6741846fa726eab027d66dc288aabc83a6",
+      "text": "\"You don't share a design concept yet — it's filling gaps with assumptions. Keep talking until cancellation, refunds, and partial fulfilment all line up between you before you let it write a spec.\"",
+      "hash": "7206e3fe03056475c26606aa70730d2b27cce484c8257bdd4870c1de1aa7b7a0"
+    },
+    {
+      "id": "40f61f5317a09a8423ca962297079e810a55673d6a0343f43b9efb9e3d1127d8",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "c703acf879d7e1d0ff73a588ba36dae8b635ac587f839631ce1c37dca8ca8730",
+      "text": "Vibe coding",
+      "hash": "043de4d164bd53f633b0d486ea898fddf3e3c3ca941f408349eeab6185ee8892"
+    },
+    {
+      "id": "3c5449454015ec7cdf72a415544f2d56bd7352bc7b9d3cad0ca1003272813161",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "ba149d78b47954430b4addabcd5a61c8e807f4cfbac739aaa76c0a4d52677eb9",
+      "text": "Grilling",
+      "hash": "78318482b2ed0e5dd1aa46addef2c3b1c379b1f3b213eac3337b8fe2b40ab6aa"
+    },
+    {
+      "id": "5db928f4ee77f6ab7d801a68c5cd1522e10fe383b10eca37f62785aab9f7f61e",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "091c319940fdf7771f5ab7d110fbcba9eb24f34d08bcf5f89f44c32c49c97829",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "b4c55682fc933daac35ada5c01705d3420c4d5b0f7c21869b9eb2a62ef4b3ba6",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "999397fe7cbbb0ca30517afd658b1dc9667204b961c7b5c0fed1a13dec3d46d8",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "4ef5b96003cc7425003c274ac5a81741d889650897be0901636c387417176a43",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "0702dcf59b17eb0d76163b801af1376627a9c9c9719911f05db89fc6e0039dc8",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "4859d46aea4f5ab682fb923cbecf107ae4411529ba82ff079214d641d87d9567",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "6c7ea59478a35ce53fae7e68a65d5ed879787771739cd79e522f948155bb4ef1",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "cd80dc9c168479b93b513a33921b379e91d2bc859ddc9bbc9aaef0f933217d98",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "84f40c5c14bfe141ac55844370271ae88304f62405f93439fc0fc1ddfaa730d6",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "ef47f3fc092dda5fb69f41601596b5e4ae992dc44f558dd6f7c2805f99e226cf",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "e952675e03bbd25985deae0ea85904b6938bf472d69ad20ef2239a6f921a36af",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "573d6ad5476bd78edcb4088023ff9ce53b2826d3835a2f37d5905f8b8d17d0a6",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "cd4809498f07799e67a2b2444466ff520f39d08953301ff84776820f4382bc07",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "1a0e7852895deaae041ea10c829fb8ce5f272502cbf1ef08eb731cdffe1938bc",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "2d67797fe24262406faacfad8cc082596d486d459625b0ec4e5b9e3e4f9462dd",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "dce0c8997f29158d270ee0e6b1326d281db0e9f9ba58bd670e3656cd4ec498ad",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "97808f5b46880931c3c4b8e16f7e1f1343cc7a6f8e2be207ed9c595b82e8028f",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "4ead6a4229f6a2e9841950ec410c88af41280ce17cb243945c9e89af9aab7cbb",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "9ecb6c33d61a4ce7566ac2a019e5e1bd9d2578c2b7ffadfd043cb0c343512e35",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "3afcf3d474a0b2919678c44fd12239327a317c88de171c9db0b6233ce036161f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "8e3d8bb21601c2377002d005b222657de0ad2df952cea39494b67069b5bd964a",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d6c7e54756e3e3744e703f0ebba677c6a1b5137ec01d25eecd03ad3c259b0c34",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "adfb2142cd25959e31134db8d915ad20e68300eda3aed3e91be9fb6d47a26647",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "d876e94b1ce683e7b44dd22a0b439d4c48a8e3ca1aef804030a82771e80381cb",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "53db653771025350f3482198b4d49acbafba696ead700c6c55307d77cff32636",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"h5egoidbhr4qha\"",
+  "lastModified": null
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "AI Coding Dictionary：Effort、Harness、Handoff、Sycophancy、Spec 人工富文本译文",
+  "exact": {
+    "Effort | AI Coding Dictionary": "推理强度｜AI 编码词典",
+    "Harness | AI Coding Dictionary": "运行框架｜AI 编码词典",
+    "Handoff | AI Coding Dictionary": "交接｜AI 编码词典",
+    "Sycophancy | AI Coding Dictionary": "迎合｜AI 编码词典",
+    "Spec | AI Coding Dictionary": "规格说明｜AI 编码词典"
+  },
+  "routes": {
+    "/ai-coding-dictionary/effort": {
+      "What it's for": "适用场景",
+      "Mechanical edits, lookups, well-specified changes with one clear path.": "机械性编辑、查询，以及路径明确的清晰改动。",
+      "Medium": "中",
+      "Everyday coding — the usual default.": "日常编码——通常的默认选择。",
+      "Tricky bugs, design decisions, multi-step plans.": "棘手缺陷、设计决策、多步骤规划。",
+      "Max": "最高",
+      "The hardest problems, where a wrong answer is expensive to unwind.": "最困难的问题——错误答案会带来高昂返工成本。"
+    },
+    "/ai-coding-dictionary/handoff": {
+      "Mechanism": "机制",
+      "Form": "形式",
+      "Properties": "特性",
+      "File in the": "位于以下位置的文件",
+      "You can read and correct it before anything depends on it; reusable across many sessions": "在任何后续工作依赖它之前，你可以先阅读并修正；可在多个会话间复用",
+      "Summary in the context window": "上下文窗口中的摘要",
+      "Automatic and cheap; harder to inspect; feeds one successor": "自动且成本低；不易检查；为一个后继会话提供输入"
+    }
+  },
+  "blocks": {
+    "/ai-coding-dictionary/effort": {
+      "Effort is a dial for how much reasoning a model does before it answers. Set per model provider request, it controls the length of the thinking the model works through before it starts writing the response you see. That thinking is generated at inference time like everything else; the harness often hides it, but it's real work the model is doing.": "推理强度（Effort）是调节<a href=\"/ai-coding-dictionary/model\">模型</a>在回答前进行多少推理的旋钮。它按每次<a href=\"/ai-coding-dictionary/model-provider-request\">模型提供商请求</a>设置，控制模型在开始写出可见回答之前要经历多长的思考过程。这些思考与其他输出一样，在<a href=\"/ai-coding-dictionary/inference\">推理</a>时生成；<a href=\"/ai-coding-dictionary/harness\">运行框架</a>通常会把它隐藏起来，但模型确实为此完成了实际计算。",
+      "Higher effort costs more and runs slower. The reasoning is emitted as tokens, billed as output tokens even when you never see them, and produced one token at a time — so turning effort up lengthens the wait before the answer arrives and adds to the bill. The trade is more deliberation against speed and cost.": "更高的推理强度意味着更高成本和更慢速度。推理过程同样以 <a href=\"/ai-coding-dictionary/token\">Token</a> 形式生成；即使你看不到，也会按<a href=\"/ai-coding-dictionary/output-tokens\">输出 Token</a> 计费，而且仍然逐个 Token 产生。因此，提高推理强度会延长答案到达前的等待时间，也会增加账单。这里的权衡是在更充分的思考与速度、成本之间作选择。",
+      "Most harnesses expose effort as a small ladder:": "大多数运行框架会把推理强度设置为少数几个等级：",
+      "The symptom of getting it wrong cuts both ways. Set effort too low on a hard problem and you get a confident, shallow answer that skipped the reasoning the problem needed — it reads fine and is wrong in a way that costs you later. Set it to max for a one-line rename and you sit through a long think that produces nothing the lowest setting wouldn't have.": "推理强度设置不当，在两个方向上都会出现明显症状。面对难题时设得过低，会得到一份自信但浅薄的回答：它跳过了问题真正需要的推理，文字读起来没有异常，却会在后续以错误形式让你付出代价。反过来，为一行重命名把强度设到最高，你会等待一段漫长思考，最终却得不到任何最低档无法给出的价值。",
+      "Match effort to the task, not the session. Turn it up for the part that's genuinely hard to reason about, and back down for the rote work around it.": "推理强度应与具体任务匹配，而不是与整场<a href=\"/ai-coding-dictionary/session\">会话</a>绑定。遇到真正需要复杂推理的部分时调高，处理其周围的机械性工作时再调低。",
+      "Usage:": "<em>用法：</em>",
+      "\"It keeps botching this concurrency fix — I've re-explained it three times.\"": "“它一直把这个并发修复做错——我已经重新解释三遍了。”",
+      "\"Bump the effort up. That's a reasoning-heavy bug, and on the default setting it's not thinking long enough before it commits to an approach.\"": "“把推理强度调高。这是一个高度依赖推理的缺陷，默认设置下，它还没思考充分就确定了处理方案。”"
+    },
+    "/ai-coding-dictionary/harness": {
+      "Everything around the model that turns it into an agent: tools, system prompt, context-window management, permissions, hooks. Claude.ai and Claude Code run on the same model but behave differently because their harnesses differ.": "运行框架是包围<a href=\"/ai-coding-dictionary/model\">模型</a>、把它变成<a href=\"/ai-coding-dictionary/agent\">智能体</a>的一切：<a href=\"/ai-coding-dictionary/tool\">工具</a>、<a href=\"/ai-coding-dictionary/system-prompt\">系统提示词</a>、<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>管理、权限和钩子。Claude.ai 与 Claude Code 使用相同模型，却表现不同，原因就在于运行框架不同。",
+      "The model itself only does one thing: take text in, produce text out. It can't read a file, run a command, or remember the last turn. The harness supplies all of that. It assembles the context for each model provider request, executes the tool calls the model asks for, feeds the tool results back in, stores the session history, asks you for permission before risky actions, and decides when to compact. The agent loop — model proposes, harness executes, repeat — is run by the harness.": "模型本身只做一件事：接收文本，再生成文本。它不能读取文件、运行命令，也无法记住上一个<a href=\"/ai-coding-dictionary/turn\">轮次</a>。这些能力全由运行框架提供。运行框架为每次<a href=\"/ai-coding-dictionary/model-provider-request\">模型提供商请求</a>组装<a href=\"/ai-coding-dictionary/context\">上下文</a>，执行模型提出的<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>，把<a href=\"/ai-coding-dictionary/tool-result\">工具结果</a>反馈回去，保存<a href=\"/ai-coding-dictionary/session\">会话</a>历史，在高风险操作前请求你的许可，并决定何时进行<a href=\"/ai-coding-dictionary/compaction\">压缩</a>。智能体循环——模型提出操作、运行框架执行、再次重复——也是由运行框架驱动的。",
+      "This matters for diagnosis. When behaviour differs between two products, or between yesterday and today, the model is often not the variable — the harness is. A different system prompt, a different set of tools, a changed permission default, or a new context-management strategy all change behaviour without any change to the model. It also means the harness is where most of your configuration lives: AGENTS.md files, permission settings, and hooks are all instructions to the harness, not the model.": "这一点对故障诊断十分重要。当两个产品之间，或昨天与今天之间的行为发生变化时，变量往往不是模型，而是运行框架。不同的系统提示词、不同的工具集、修改后的默认权限，或新的上下文管理策略，都能在模型完全不变的情况下改变行为。这也意味着，大部分配置其实属于运行框架：<a href=\"/ai-coding-dictionary/agents-md\">AGENTS.md</a> 文件、权限设置和钩子，都是给运行框架的指令，而不是给模型本体的指令。",
+      "Examples: Claude Code, Cursor, Codex CLI — and Claude.ai, which is a chat harness rather than a coding one.": "典型运行框架包括 Claude Code、Cursor、Codex CLI，以及面向聊天而非编码的 Claude.ai。",
+      "Usage:": "<em>用法：</em>",
+      "\"Same model, why is Claude Code editing files and Claude.ai just answering questions?\"": "“明明是同一个模型，为什么 Claude Code 会编辑文件，Claude.ai 却只回答问题？”",
+      "\"Different harnesses — Claude Code has filesystem tools, a different system prompt, and a permission layer. The model isn't the variable here.\"": "“因为运行框架不同——Claude Code 拥有<a href=\"/ai-coding-dictionary/filesystem\">文件系统</a>工具、不同的系统提示词和权限层。这里的变量不是模型。”"
+    },
+    "/ai-coding-dictionary/handoff": {
+      "Transferring agent context from one session to another. The carry mechanism varies — a written handoff artifact, an in-memory summary (compaction), and others. Distinct from clearing (no transfer at all). Reasons vary: switching roles (planner → implementer), kicking off an AFK run, fanning out to parallel sessions, or freeing up context window room.": "交接是把<a href=\"/ai-coding-dictionary/agent\">智能体</a>的<a href=\"/ai-coding-dictionary/context\">上下文</a>从一次<a href=\"/ai-coding-dictionary/session\">会话</a>转移到另一次会话。承载方式可以不同，例如写入<a href=\"/ai-coding-dictionary/handoff-artifact\">交接产物</a>、生成内存中的摘要（<a href=\"/ai-coding-dictionary/compaction\">压缩</a>）等。它不同于<a href=\"/ai-coding-dictionary/clearing\">清空</a>，后者完全不转移任何内容。进行交接的原因也很多：切换角色（规划者 → 实现者）、启动一次 <a href=\"/ai-coding-dictionary/afk\">AFK</a> 运行、展开多个并行会话，或释放<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>空间。",
+      "The receiving session starts with zero context — the model is stateless, and nothing from the old session is visible to the new one. Whatever the next session needs has to be carried explicitly; everything else is gone. \"No return path\" is the constraint that shapes the carry: the new session can't ask the old one what it meant, so the carried material has to stand on its own.": "接收方会话从零上下文开始——<a href=\"/ai-coding-dictionary/model\">模型</a>是<a href=\"/ai-coding-dictionary/stateless\">无状态</a>的，旧会话中的任何内容都不会自动出现在新会话里。下一次会话所需的一切都必须明确传递，其他内容都会消失。“没有返回路径”是塑造交接内容的核心约束：新会话无法回头询问旧会话“这句话是什么意思”，因此传递的材料必须能够独立成立。",
+      "The visible failure of a bad handoff is relitigation: the new session re-opens decisions the old one had settled, because the carry recorded what was decided but not why. Judge a handoff by what a session with zero context could do with it.": "糟糕交接最明显的失败表现是重新争论：新会话再次打开旧会话已经敲定的决策，因为交接材料只记录了决定是什么，却没有记录为什么这样决定。评价一次交接，应看一个零上下文会话仅凭这些材料能够做到什么。",
+      "Usage:": "<em>用法：</em>",
+      "\"Planning session is getting heavy — should I just keep going?\"": "“规划会话已经越来越臃肿了——还要继续在这里做吗？”",
+      "\"Do a handoff. Write the decisions to a doc, clear, start the implementation in a fresh session reading from it.\"": "“做一次交接。把决策写进文档，清空当前会话，再开一个新会话读取该文档并开始实现。”"
+    },
+    "/ai-coding-dictionary/sycophancy": {
+      "Confidently agreeable model output. Caused by training: the model was shaped to favor answers humans liked, and humans tend to like agreement more than they like being told they're wrong. So the model learned that agreeing is rewarded — even when the agreement is incorrect.": "迎合是模型以十分肯定的语气表示赞同，即使这种赞同并不正确。它源于<a href=\"/ai-coding-dictionary/training\">训练</a>：<a href=\"/ai-coding-dictionary/model\">模型</a>被塑造成更偏好人类喜欢的回答，而人通常更喜欢被认同，而不是被指出错误。于是模型学会了“赞同会得到奖励”，即使赞同的内容本身是错的。",
+      "Surfaces as:": "常见表现包括：",
+      "Caving under pushback — reverses a correct answer when you say \"are you sure?\".": "面对质疑时退缩——你只要问一句“确定吗？”，它就推翻原本正确的答案。",
+      "Praising bad input — agrees your broken plan is brilliant before analysing it.": "吹捧糟糕输入——还没分析，就先赞同你漏洞百出的计划非常出色。",
+      "Biased framing — review skews positive when you signal you wrote it; negative when you signal someone else did. Same artifact, different verdict.": "受叙述方式影响——当你暗示作品出自自己时，审查更偏正面；暗示出自他人时，则更偏负面。同一份产物，却得到不同结论。",
+      "Mimicry — repeats your mistakes back to you as confirmation.": "模仿——把你的错误原样复述回来，作为对你的确认。",
+      "Diagnostic test: would the model have said this without your steer? If the only thing that changed was your tone or framing, it's sycophancy, not a real shift in analysis.": "诊断方法是问：如果没有你的引导，模型还会说同样的话吗？如果唯一发生变化的是你的语气或叙述方式，那就是迎合，而不是分析结果真正改变。",
+      "Fix: hide your preferences. Phrase prompts neutrally — \"review this code\" not \"is this code good?\".": "解决办法是隐藏自己的偏好。用中性方式表达提示，例如说“审查这段代码”，而不是问“这段代码好吗？”。",
+      "Avoid: using \"sycophancy\" for any wrong answer that happens to please you. Without the diagnostic test, the term has no more value than \"wrong.\"": "<em>避免：</em>把任何恰好让你满意的错误回答都称为“迎合”。如果没有经过上述诊断，这个术语并不比“错误”更有价值。",
+      "Usage:": "<em>用法：</em>",
+      "\"It said my refactor plan looked great, then I asked 'are you sure?' and it walked the whole thing back.\"": "“它先说我的重构计划很好，我问了一句‘确定吗？’，它就把整套评价全部收回了。”",
+      "\"Classic sycophancy — it agreed first because you sounded confident, then caved because you sounded doubtful. The plan's quality didn't change, your tone did. Clear and re-ask without signalling either way.\"": "“典型的迎合——你听起来很自信时，它先表示赞同；你表现出怀疑时，它又立刻退缩。计划质量没有变化，变化的是你的语气。<a href=\"/ai-coding-dictionary/clearing\">清空</a>会话，用不暗示任何倾向的方式重新提问。”"
+    },
+    "/ai-coding-dictionary/spec": {
+      "A handoff artifact describing a multi-session piece of work — what's being built, not how each session does its share. Mutates as work progresses. Made of tickets.": "规格说明是一种<a href=\"/ai-coding-dictionary/handoff-artifact\">交接产物</a>，用于描述一项跨多个<a href=\"/ai-coding-dictionary/session\">会话</a>的工作：说明要构建什么，而不是每次会话具体怎样完成自己的部分。它会随着工作推进持续变化，并由多个<a href=\"/ai-coding-dictionary/ticket\">任务</a>组成。",
+      "The spec exists because sessions are disposable and big work isn't. Anything that takes more than one context window of effort needs a home outside the context — somewhere in the agent's environment that survives clearing, whether that's a file in the repo, a GitHub issue, or an issue tracker the agent can reach. The spec is that home: the goal, the constraints, the decisions made so far, and the list of tickets with their status. Any fresh session can read it and know where the work stands without inheriting the previous session's accumulated noise.": "规格说明之所以存在，是因为会话可以随时丢弃，大型工作却不能。凡是需要超过一个<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>才能完成的任务，都需要在<a href=\"/ai-coding-dictionary/context\">上下文</a>之外拥有一个长期载体——位于<a href=\"/ai-coding-dictionary/environment\">智能体环境</a>中，能够在<a href=\"/ai-coding-dictionary/clearing\">清空</a>后继续存在；它可以是仓库中的文件、GitHub issue，或智能体能够访问的任务跟踪器。规格说明就是这个载体：其中记录目标、约束、截至当前作出的决策，以及任务列表和各自状态。任何全新会话都能读取它，立即了解工作进展，而无需继承上一会话累积的噪声。",
+      "Specs come in recognisable styles, mostly inherited from how teams already write things down. A product requirements document (PRD) leans toward the user-facing what and why — features, behaviour, acceptance criteria. A design doc or RFC leans technical — the chosen approach, the alternatives rejected, the trade-offs. At the small end, a plain plan.md with a checklist of tickets does the same job for a multi-session feature. The style matters less than the role: for the agent, each of these is the same thing — the durable statement of intent it reads at the start of every session.": "规格说明有一些常见形式，大多沿用团队原有的记录方式。产品需求文档（PRD）更偏向用户视角的“做什么”和“为什么”——功能、行为和验收标准；设计文档或 RFC 更偏技术——选定的方案、被否决的备选方案以及其中权衡。规模较小时，一份带任务检查清单的普通 <code>plan.md</code>，也能为跨会话功能完成同样工作。形式不如角色重要：对<a href=\"/ai-coding-dictionary/agent\">智能体</a>而言，它们都是同一类东西——一份持久的意图声明，每次会话开始时都会读取。",
+      "Usage:": "<em>用法：</em>",
+      "\"Should this all be one session?\"": "“这些工作都应该放在一次会话里完成吗？”",
+      "\"No, write it up as a spec — break it into tickets, run each one in its own session. Trying to do the whole thing in a single context will hit the dumb zone before you're halfway.\"": "“不，把它写成规格说明——拆成多个任务，每个任务在自己的会话中执行。如果试图在单一上下文里完成全部工作，还没做到一半就会进入<a href=\"/ai-coding-dictionary/smart-zone\">迟钝区</a>。”"
+    }
+  }
+}

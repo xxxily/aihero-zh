@@ -1,0 +1,508 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/tracer-bullets",
+  "pathname": "/tracer-bullets",
+  "fetchedAt": "2026-08-11T06:28:13.903Z",
+  "title": "Tracer Bullets: Keeping AI Slop Under Control",
+  "contentHash": "f8dfd11c09e994b144c959beb836dcd1ffe0045cc55172dc474db1404d3f0150",
+  "textHash": "34df85d6143bbb0c8e8b24f403e1fd8f2d88eeddbd1ba25281ee498c407b62c3",
+  "strings": [
+    {
+      "id": "f67fb5d8af4d456c5fd8728f20bfe75f3516ef3445550e73f463eb05f6e35bcd",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d9d777c7d6db8ae2b5a35361dd9c92b7a030bd7036ab394d67a9c509b83f685f",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "5262a7e75c37e5f2db4bb1d5c44044f2a08dfa96765ad28a11bad202b77e5788",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "af87aa1b36309ef3d8859bde4db71e917bd7728c303bee65556f9645ad9b3da4",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "cfec21bff11c7030b28a053c5c5ff801c2033cb62d8b24a612ea83b5e77c1e9f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "cc82b0e0a33f467ce6633150c1c35fde1e084bce5bd4e537ed2c2773ffe55a8c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "d4c16c0f7fe0dc66a22ed202818a3eb11f6155ddfb799739156528f0def85b8e",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "585dc407f0efbeab22c4072d8ab658ab88c10e43866e138c042e117d27a3ccbf",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "8c0be4cd9ae94f0b6736196a5b7031698f434b0fa2a39050a2b65db16abd04e3",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "462ffd2b7c3e83c872ab56aa3de98f7a8435d76957b64010a3b9d3eabfa0a420",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "735013fac5ef7e6e5ceacb4cdd06f233eab10c75fd019da9b4f2e20aa2ab72e1",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "5e3552ca18066f0076079c764922247b7e54c705e62841db0e72d547f50383d2",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "18ecb6c5c255a30d96b5c61499f9c66226341dd04a2c7e1878bcf4b6049d7c67",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "4c993c57a9dfb05bebd9a566f8b81b3aa441287370957b3ee878fdf2eae3284e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "f835a73c5b224a73b35458872e0a117a728d6d5be31b5db0154432375ce6b242",
+      "text": "4 min read",
+      "hash": "4d9657762e6c77a0b993256206c8bed21d2fb2cf6f39d987bd7ff233fe4349e7"
+    },
+    {
+      "id": "fd919178a5de630571fd528182ce6eae6ce80e239773ae51c3e23077c437ccf5",
+      "text": "Tracer Bullets: Keeping AI Slop Under Control",
+      "hash": "101bb0727324d9d69bceb21e311f6c1a249476cd67d543aa61741f8dea277187"
+    },
+    {
+      "id": "2a83d490f4185e87c30dc27299016da038ad7b4e6a457c837ba1e3ae1d10c053",
+      "text": "Learn how tracer bullets can help you control AI code quality by building small, end-to-end features and getting feedback early instead of bloated solutions.",
+      "hash": "d6461f405d60c3273eb973e4474d7a7016d89fe1c5f7409e70a7765dc87d1d1b"
+    },
+    {
+      "id": "99e7924bb367fd07d704e81647545a031445dd17f46d1818556973c391993107",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "fdd48b92364f14a84a6b0d84d7760784a9a9e525038ae26c7d2185ae4f2522b7",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "75e4455d87ac7d7b6c55191d7e82ca92f490e23176ea828c34e103871b23b629",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "6deb4e4e75c4e762a1d4cb80a2e00a26657edf59537ea5ef4bf0530b247c4a0f",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "69a9fdaf54d56f3bc52a2ef8889949f11637bdce4ed7fb3a73f5b8f06570aeba",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "1930f04edc290566892deb348e2e38a9f604a0d54d290bcdc11a25693af5d90e",
+      "text": "The Problem: Too Much Slop",
+      "hash": "ab25582d48a0a5c2270a1fd35bfd7c61e7838137c28d1ec66790e9bde8013095"
+    },
+    {
+      "id": "4cc655a91142d9f1f636a64d7d647c83479acabb2471c3eca40fa92d57314235",
+      "text": "The Solution: Tracer Bullets",
+      "hash": "e1e6723b6356473d4b8697450984d04198f4361fef612567f001ed824e653047"
+    },
+    {
+      "id": "000df58fc3e8c5ad4a8de18503485c33a2385ac45b5342c8ea4e8e601a0141ff",
+      "text": "My Results With This Prompt",
+      "hash": "7d76c452e6e88d6d64073099decfbeef55e6432593bed3015f73dde6771b0cae"
+    },
+    {
+      "id": "698a12ccbf583a4113f9ed870338f030361de9d5cdf98a809edf7c89ee523282",
+      "text": "The Classics Have the Answers",
+      "hash": "6b3ce0d7d4fe2a7cee5666af212dcde49cc0e6deb503368cfbeff8ed0e4516c7"
+    },
+    {
+      "id": "d2294888f7c3dfe6185897e90237d7c8683c4aec344b83841913979f31509b4e",
+      "text": "Bottom Line",
+      "hash": "227c881d432aa27dad38621113a2b22a53b511c78c7cb42d2cceda6afa9ccf39"
+    },
+    {
+      "id": "db3828b638b48aee620cdd596b1815eb7bd72be6d6e86a748d7945ebe01d083f",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "588e940029b23e2701335769dffeeb2c25b5ab93938dd02d78396f16fc28c9c1",
+      "text": "In this article, I'm going to help you solve the slop problem by encouraging your AI agent to think in",
+      "hash": "2229786a4c192ceecfe2afaa4804846750e60c60e3e814f4043a914c5da768bd"
+    },
+    {
+      "id": "cd7c173bb893a968ce1f0d481d432854f21122b798e306f7560e884e1c977b95",
+      "text": "tracer bullets",
+      "hash": "af06b70314ad62f3d3aed494afc13ebac859b17b14eeead1b28ea011aa962b4b"
+    },
+    {
+      "id": "9adbf71debc0ce3c806edede869bcdccb8afc2b1c94eb5fc429e2441b3231346",
+      "text": ", small pieces of functionality that get built end-to-end.",
+      "hash": "400d43b629b56b0c5efd08878dbb5e6488e8c4c3dd06eec7cfe1b011c654b7b8"
+    },
+    {
+      "id": "c417b5adf60c4218d33af46b8b3a2fdd055ca6df19da7972a19df8b908757282",
+      "text": "It's a classic software technique that works incredibly well with AI.",
+      "hash": "182cd6b0b1ee6e5d5a3917820e5d155d98e2bf8e7dfc8c1b83f6da4a20d7e97d"
+    },
+    {
+      "id": "40b2ef9401e2e530709a71b995c5ef2cf97feb8673e1fad5a066cb5e9ecc3c6f",
+      "text": "AI has a natural inclination to",
+      "hash": "ffa8c9069552ad1856258e2fa20ae4d0d1a5fd58482abdd9197e36ee9be284d8"
+    },
+    {
+      "id": "4de895637881ffb2d9b052b51682080c59e58bc5377fe88b8cf497af10cef772",
+      "text": ". It aims to please, in all aspects of its behavior. \"You're absolutely right!\".",
+      "hash": "af59678ba953971cb117d467c4ba31488dcc94d5162de99c4b3168dc8cf93d05"
+    },
+    {
+      "id": "d4beaa2995d1d6a18df661f6f0dbc6be3f2495578066d2023e39f16665ac2adf",
+      "text": "In code, this means it wants to produce complete solutions all at once. It has in mind the idea for a finished file, or a finished feature, and it produces all of the code needed in one leap.",
+      "hash": "79d8d9744d621d6f0479071c3e016199a290e2eb37b886bd61dfa9780db6859a"
+    },
+    {
+      "id": "64537b7a9d0317a40ac25a4792dc7932c3cd490d5f94fa01011b0189b37efd3e",
+      "text": "It doesn't stop to validate assumptions or get feedback. It just keeps going, building entire layers in isolation, without ever testing whether the critical path actually works.",
+      "hash": "b49bf8293c94199514496b72425d59b1d4b1715317b2be18dc4fe105be696bae"
+    },
+    {
+      "id": "fb90fe8c587d4b3c12af96a5d252645b9808775cb3092ef60aaa707807841efb",
+      "text": "The result? You end up with enormous chunks of code that need reworking. Slop. And there is a huge review burden on the developer to check all this crap.",
+      "hash": "a021b781eaf271850044e85dabf2468b55bf9775946a45202b3e44450204232e"
+    },
+    {
+      "id": "d5aad878015753ae5d7f411b7262e5526e463a647172929b5108344d825bd856",
+      "text": "What This Looks Like in Practice",
+      "hash": "de2cdedadb159c85ad9b6c03270bf8ed4155cb44c12308b07c26b654b918d9d2"
+    },
+    {
+      "id": "61df105c96476de4b39e3c93d05129b659e25dac150bcd1dc7aa5fa51fb7413b",
+      "text": "For example, you ask the AI to build a database service with an API that connects to it.",
+      "hash": "79ad840a2633fbc4cb859f02402a26fc06d862a2aa9f7521b48582684217fad1"
+    },
+    {
+      "id": "0172d75158c796a3cd1cfb8e765cbeb199a64ae0e3068b15fcda0308df6038b9",
+      "text": "The AI builds:",
+      "hash": "95b1ac29d5172d48787ba060031e64fad7629ba1c671962f1a89ddf166cd1dbf"
+    },
+    {
+      "id": "1b835404fa481ec7be3d0998c9cbea58dbc6923d615ac645162c91287a679909",
+      "text": "All the API endpoints (",
+      "hash": "2556b451185f1482797e76d7b2d08931dcbd271b5928b5b569bd7eb105ab0e4f"
+    },
+    {
+      "id": "c6f3be9b0cd28cac41efa5eced99545ce0c2975f2f04f5d94164184adfef5fb0",
+      "text": "Complete request/response models",
+      "hash": "6290a1cb1e79fff6da61b606fa0d8056c345b342ff8d9c4a3d2ffef4e59056b6"
+    },
+    {
+      "id": "4523a95253d8a58210a6111205931bcb6c8e4fbf8fcb8746e776b07ec273fd3e",
+      "text": "Error handling middleware",
+      "hash": "f492d1c4ca29a27afd44b826b06b859384c6eda7b5013cffa43b80027d41a2a1"
+    },
+    {
+      "id": "f4418dedee1521a81660e39ceb6db5c29e111951a4a9303f466998d4ca1fbc98",
+      "text": "Authentication logic",
+      "hash": "41a25ace48180938849e6c4a87edd9f028bb026365fae310ce46759ce2e10aff"
+    },
+    {
+      "id": "72e60fad11af9a866c8074c4ce8f6a436ec26da91606ecb29075b24b39d4d175",
+      "text": "Rate limiting",
+      "hash": "4bb7832a35a278bda243650bdccee06b16e24109b82c53d7fffdff46a79fb838"
+    },
+    {
+      "id": "3fb109b40ea7f777c417ff3a4e0426b6fc2b0ba039812a64bbf318732aedf3c9",
+      "text": "Logging infrastructure",
+      "hash": "1967e1301681fd0426da173f3298258d4e34c570c7db808097e980789579dcf2"
+    },
+    {
+      "id": "ecf606bae6e8ab65e188a5381a867687f9803348f5f36bc8f00dc558428c5707",
+      "text": "Only after all that does it try to connect to the database. And surprise, the connection string format is wrong. Or it's using an incorrect column type. Or the tests don't actually hit the database.",
+      "hash": "66aa2c290d7114cde82de7c326a54a5377d549589f9d7c7751a9cde34d20797b"
+    },
+    {
+      "id": "187a99e5f06e4f614f2c64ee7341db2bed54baf97a00572f69030d8ecc3b66f4",
+      "text": "The pragmatic programmer calls this \"outrunning your headlights.\". The AI is building too much in the dark, without feedback loops to validate assumptions early. And you, the developer, end up with a huge mess to clean up.",
+      "hash": "ebfef161fa2ddf1f43fdac27969e394449f32962c5acb93b535f9984fb4b4c34"
+    },
+    {
+      "id": "a4a8492d539e8bd5d1f4dd30ebbc02851a75fdde7269766ea2d9be32b016793a",
+      "text": "The concept of a",
+      "hash": "564da8d32a74507f46ffe4e640880b50edde482fd06814443528304c8cf442b1"
+    },
+    {
+      "id": "9c5461f73ed37fd97f37d66e8b6d5d92d6ab7801a28c5a78d5caede36828c4a3",
+      "text": "tracer bullet",
+      "hash": "393b6f6cdab8e06443785e4d4fbf204c578903ead2aa26ebb26d7d2707ed25d7"
+    },
+    {
+      "id": "dc1e9fb2247c2bcc1b27426375d87ae00cb23d00441512fe523470ae1b330bbf",
+      "text": "comes from",
+      "hash": "ee2be776b777c155ca784e41acea66bcd9058c7ea8378d2ee5c6f2782ce64fce"
+    },
+    {
+      "id": "b9f013a5665d823ce9f168c89b773cb119b5940715e7e9d582a53cedc557b43a",
+      "text": "The Pragmatic Programmer",
+      "hash": "14d740e5c2f9d24616cde373a5c80245778e53b9d0e9aca05a9f3c7c328d3d38"
+    },
+    {
+      "id": "e0c940eb194b67649b3f69620a480f051b2f9fd19396f6bae3d28f3a87eaa7d8",
+      "text": ". It's a small, end-to-end slice of functionality that touches all the layers of your system at once.",
+      "hash": "8f2c301b78eadd4763ec60d666cc41e1343d4df355f8dc6b16459aea27e50bcc"
+    },
+    {
+      "id": "68a4253fdfc2fa7162323a828e48ffdb0894fda50e36413f46ccff1a22ec1850",
+      "text": "Instead of building horizontal layers in isolation, you build one tiny vertical slice:",
+      "hash": "6eb36305c9e3e11dce780e5444f78f69e32bec5ed6e08dc4fb5f44e496ba562a"
+    },
+    {
+      "id": "a78037f868320d78b0f6e183f2be4bf31a9cbc5fc89197b2fc88bc09c5d1f773",
+      "text": "Build a small feature end-to-end",
+      "hash": "d09c9b6b64ffe3cf33356b5de6834605091a034b8952d93b5b8270240c072125"
+    },
+    {
+      "id": "af648bba4d5aeaa55fc43fc77d35cb6d816ad74266ffe0f69a50604800dbfafd",
+      "text": "Test it immediately",
+      "hash": "ac64c4dc109fb2cdd1c5d082000619b27aa22cf71e37dada9159ebe2df0bcb1c"
+    },
+    {
+      "id": "2eeb04b008054a97c55f1c1c22effc8a7dabe3f3eaaa566d6f16e1e47469b164",
+      "text": "Get feedback",
+      "hash": "e79fb8a4142d2fada6e2aef0b4b50e4da7e9a3969f93cc0ff6491ebe1f9b30b0"
+    },
+    {
+      "id": "e7e3399822e0f020c1ae9b098b98775e0db0a2cde2d0c8c702ed47e0c668ea00",
+      "text": "Move to the next slice in a fresh",
+      "hash": "cc09e2fc37f370a740b4397c642fefbf3c8111ae57d731200857b6b553a0af9c"
+    },
+    {
+      "id": "082895fa275244be1105183ea0ba916ac0f0bb3b9c29f7194e3bd268e4c399e8",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "aaf274852796cdc4eaec2b5296be1b8d49e8ff1c348e3cca7c627e95c38fc27a",
+      "text": "Repeat",
+      "hash": "b6b7a0065808a62e7d5781b356c5ddba4e000433c34b5d561d200158a4443eb1"
+    },
+    {
+      "id": "f28b73f7e60445509512759256263ea3bd982f73be3ee62c57d29a874dcd2bf7",
+      "text": "This approach solves the \"outruns its headlights\" problem directly. You get feedback loops built into the process instead of churning out features blindly.",
+      "hash": "f3804e1aa4f668cf73e0084acc45c7d9564db2257b82886d4597bbe05e619edf"
+    },
+    {
+      "id": "660ae9a198dd4511b3a59b6afb186d598610518684f9629918ce24ec3441e5be",
+      "text": "And once you've tested that small slice, you can feel confident shipping features that work, rather than hoping the big layers all fit together.",
+      "hash": "1bc5de56438baa585b583fb0dcc1d15d4e866f09ae337381d5ed0802d31586d2"
+    },
+    {
+      "id": "d1454e4b476fcef59a041b7b0e143d8f70a292c2363779e94ae2102531f3a4be",
+      "text": "Forcing the AI to Think Small",
+      "hash": "3eef687af5a012d5d90907a555a1f4b666b48c602556f370c5906c974f7533bd"
+    },
+    {
+      "id": "e7300a30713595e00acd3a767ee63bfc60dcedae5c47cd7218a897ce0d4fb128",
+      "text": "You have to be extremely explicit with your prompt. AI's natural inclination is to build big layers in isolation. You need to make it do an end-to-end slice across all the vertical layers.",
+      "hash": "29b6e31a6b3215430a13ca458da794e7ff4984e80347b91833ae0d3277e78e7a"
+    },
+    {
+      "id": "b8260fea2d97010f1e23dea07983b06561f827a6f3e704a9846c63e9d7d405cf",
+      "text": "Here's a prompt you can add to your Ralph loop or a 'build-feature' skill to force the AI to think in tracer bullets:",
+      "hash": "7f0ad8ae5dfcf866fee3e64249d5545ef79351b81306759787e90f4578fcefaa"
+    },
+    {
+      "id": "df8e714f5f71f7c1454dca4c30682a10543af5ff0303ec83b258a03254bf4c15",
+      "text": "Here's a recent issue I worked on using tracer bullets with an AI agent:",
+      "hash": "c4265cfd4f3ffc2e916e4f2c3be15a3b01b435cacfd118fbdd01e033e5e088a5"
+    },
+    {
+      "id": "f414699f1bf48043fddd8fd3b718dded903852289623d0ccb71ce8998b86533d",
+      "text": "Rather than building all four UI locations at once, I focused the AI on building just one end-to-end slice: the backend endpoint connected to a single UI location. This allowed me to validate that the core functionality worked before expanding it out.",
+      "hash": "bf600b3c2a01661c893728d393e0a3ad878012f2b428ae4e7b0059ed4a7222f1"
+    },
+    {
+      "id": "b50013507b9c436a905b564868d21757a3a7b99d45aeaa90c1fabe1ec5805d97",
+      "text": "Tracer bullets aren't new. Test-driven development isn't new. These are old concepts from old books, foundational ideas that have been formulating best practices for decades.",
+      "hash": "97934f576378c05f8b745f65874c6348cda22c9a623d47fe950080d06045f3ea"
+    },
+    {
+      "id": "bbae300f616ba27b8969118137b66b38c4dbf9f662863e4809edbe93a535d31f",
+      "text": "The problem? When new technology emerges, people get excited and forget to go back to the classics. They chase what's shiny instead of what's proven.",
+      "hash": "9538df4ff75e66e10a25118ad56a86fbecf8fc3f7a41c176216cc996116eeedb"
+    },
+    {
+      "id": "f13ee60b222c6a8fa9e4db6d8a90a109c49cdb0f08488f3d306c215047b6fa48",
+      "text": "But the principles apply harder to AI than they ever did to humans. Context window constraints make the discipline non-negotiable. You can't ignore tracer bullets with an AI agent the way you might with a human developer. The consequences are immediate and visible.",
+      "hash": "7fa38a0f57c1d39c22a8c78bf3677943c315186b3fb8a0d8b6ebdc3182598449"
+    },
+    {
+      "id": "355506339216ef2453724322b3f4f7164beda7b751988422a1ff0a0f9ef31a09",
+      "text": "Tracer bullets are what",
+      "hash": "8d48052caa0713c0ea0e1ac5a61a169e3eceb19d84a31cf9832656a96c0f00a6"
+    },
+    {
+      "id": "dfe6b3709fd13abdcf26c18d82b5b335862ee069fabddf974461f44c8983c59d",
+      "text": "automates — answer questions with throwaway code.",
+      "hash": "9cdc254d470d5ffaf26119dfadb14e6b10487c55e1e259d192cb963b4cc10ac4"
+    },
+    {
+      "id": "d6356c5ab381642b1a1c5ed2bfbbcc66df866a09d25f1ec77643c2fcf84f3b05",
+      "text": "The next time you're working with an AI agent, ask yourself: Am I letting it outrun its headlights? Am I getting it to validate assumptions early, or is it building in the dark?",
+      "hash": "4c4d70f3f3187e144e2a3ea934038f4cb84fb4e2e35a4de350eab5536bc8023c"
+    },
+    {
+      "id": "f5d8d688d9c7dfddee80a7a38367c814db55dcade95993afa633aef08107bd1f",
+      "text": "Use tracer bullets. Force the agent to think small, build end-to-end, get feedback, and move forward with confidence.",
+      "hash": "4ea59506c2790da9cd48dac2bd574d6c194a80a5fad232afe3d74a1e48e4e3c2"
+    },
+    {
+      "id": "f6c886ce2a13f33893c4f60ed6362cd92c1d0de63d315db07d913bfe4147a721",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "cf643a4fe616b873982ec867cc7dceb90ad542f75e40edda631efa37fc7f0f67",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "64dd39b866f9d47ca57a822036808721693b24d8037df5d5e9d71d34ee8c6321",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "dbfaa728812a6a4447b15cbd8fd5849290e1eada918ee9dde9fc006522c38d43",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "bc295a6262e57c313ea49ae74bbdd34b6bbd4700914653041717f6ebe76279ef",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "a95dba774948268069ad23800214557b3ee98570149f704d38ba95d2394bb725",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "dacb0e8b73daae59ffb044c59b575e0bcb2028a2e82e066a1345b0053da6c704",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "d9202db7e34fcb585bc756d543a1c3856ac50e70824a09436258f88e43b528fb",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "14dca637e02e7278896315741129a0d53fa74ad4565f9943ce929f7997b3477d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "289d88e370591dbda10dcbf307a5e2ab42f141d00d1e1af78a563f3e3bcf6259",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "ed206fe43f633effc6417dfc682d8c48c726a15d69cb7c47ac4d04debbcc47a3",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "673dc4937b682000f90281d11ac6ea0563f9524615ef529b19b08a6d2f9f2c73",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0fb4438c34851eab94d4b72cd2e825b34076dd59351020c3a5549a33772ed617",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "31250c208155e1b642bb15192a22fbcb3466415022ecab4758984041b963c137",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "73d0e153dcaba776198a0a5be244a2ee807effc7846bdd99c9be1165e8854e0c",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "623c57f79d742a50eece51507c54c52f174b5b1893b2904654672206cb376fa3",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "d502d3121bd262c20c55ede6f56daa55d6b1bd7d784f7ad5f0e27df730312206",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "e68dd59ca5e24c0169270099bed38631d22b6aa9b51a76918fc9c762553770ab",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "61be45d7b85ab375a3be66a68d474c63f67bdd4cd3240cf25a2de25b997198e0",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "2b9db00d1d58fdf9a17fae6482bc97b05544921540918a909b22627eb736c6bd",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "67c8ca34a3b338a800d2d482a868414cc0f9f521f5a5d972f012acc6cbe4654c",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "456c2b7ec2feb9d570d0c96f2b7e350158e86ce917f6db2060ccca626562af23",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8a48bc3e8e818ad315c32d0b8c6b2d6588212cfe98c92e8815ca6c957c989e43",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "49bb7534c963d8943874e2bfbb20d2306833da1b534e29ebe77495e30d32781e",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "54631c4ed7efb11b6909b9c5bfeae8575cca7bfaf53b7027724239df837c489f",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"11r7qnuyfas5qtp\"",
+  "lastModified": null
+}

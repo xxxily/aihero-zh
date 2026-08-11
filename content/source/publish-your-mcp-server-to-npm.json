@@ -1,0 +1,658 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/publish-your-mcp-server-to-npm",
+  "pathname": "/publish-your-mcp-server-to-npm",
+  "fetchedAt": "2026-08-11T06:28:19.984Z",
+  "title": "Publish Your MCP Server To NPM",
+  "contentHash": "ab0d933826385c338118b2c0020e2dc34063f7b179ec046cefbae12cd1fcb5d8",
+  "textHash": "5bb9c6bda8c0e4146e701c64149633f1abda52c45a957e20360628c6c1de3b28",
+  "strings": [
+    {
+      "id": "3e2619e23e24b92b36578b05c446b1819032f04285f2c67a79e43b24540dad2b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "13d38f8bdb71c6961e8ee3e6b7e3fb3a8e577b683b613a055209f21247c2acd4",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "38700965dfc9c060b7f753e6b41811193acfc31e5c0b58bb53b04c3cff5d0241",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "a24a5b27f110522a23b206ea5a87a4441b0d9b9a7b4570a5d571211daa5f59b6",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "c5a61e65539d1b79bce24fd5fffc9bb782fcd23fecc81c7dbce4b38c0e640b4c",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "ebf3ee1f7b75615e79b5a85fd975c8bd8b2b1bd6de1eb8ef9f64318869d69c2c",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "5f37ff84ec0cfafa349755aff75d72915394e96248352d8b156af2f1889c5504",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "4ec17395011548bfdbcf1692048be330460a3e5207c11b704041682395979f95",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "c7e55a42a3459930cd1b9dc3fabdf1531dca9f8e5373c0ae38b8f3780ac5f415",
+      "text": "Serving MCP Servers Over stdout",
+      "hash": "25fd77f0ed62722c9ebc1bea2143243eca855a07217ce8cdf9fe14f317658187"
+    },
+    {
+      "id": "6bea6175395af960fb303c8e7882d071d9c42c5ae95dca609dbd983e2fc7dacf",
+      "text": "Using MCP Prompts",
+      "hash": "7c27287a9bb5f13bc627cbb86ce2480b2564ada25cbf34e9030283a66b8a0388"
+    },
+    {
+      "id": "c31017d30dd0f6a9e11a0c8f722734e204b55e01c77fd4599b23757d82a4a6b6",
+      "text": "Logging: A Huge MCP Footgun",
+      "hash": "ed10f197b09f511d16fedb38fb5e1f9c6bd89bbbebe5b9b34c2eb69534042bac"
+    },
+    {
+      "id": "3aa045ad50f5a4351d8ef47fd869e2ee2abfd5c433c26f608f038eb39cbf804b",
+      "text": "The Problem With MCP: Stateful Servers",
+      "hash": "06a1a0242df637f6bf20ceeb13ed3c8117a8ce1204c5cbf69948f94c862109b7"
+    },
+    {
+      "id": "c90d3a7aede89ead865e37beb83712d42e320b95af21b54d3c8e4fadff422bd0",
+      "text": "Publish Your MCP Server To NPM",
+      "hash": "8ed49330be235e3c82d55ffcfa048a51b21cba0ab8c181ae74b7bfd44e246847"
+    },
+    {
+      "id": "e30a76b0e341599484ae189a17fcc53c7c65bf2a799b6e4662d8c6a4ff04ca95",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "4588f4347b6a66358634160321f0852a7424ee564a610efc978c9dff56f206b4",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "d2c3041bfd687dcec81d5211317e2b5f83814722eedf2fd977a28d565cfc889f",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "59117bf032334985ab417f96bb9aeab5265f4138cd7c5efc388d3c40403f22d6",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "33dee98acfa47a4407960fb382588a3639b52dab368395a4d2246b48a25d77bc",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "1aadca1ac7a4944d40b68d797b37f05d8b00c523aac839b38dd795bdbb25c007",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "d9bc585636fb06f27539c410d7f9a15542530579b7bfbb3432891037e4985e9f",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "4b2bbadfaf020d9b007c215555a53daa6b6c86a2bc9ccf183365c6f3998389cb",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "5cc03d6aa0697941c3b77cab339b86922e89c64032f7f111590392c7da874fcd",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "80a8865c63fd683eac44d3df95d524f52037ad0f2386f1fd67f000cdd57e3fca",
+      "text": "06 / 06",
+      "hash": "cd42b5e615724679e3c8ca5820f3d1abd8084dd6c8e267938ab17a2b82dd0016"
+    },
+    {
+      "id": "6c1b781f0584994ee4f989fb53117870637e53c80ced7efa1b1b6fdce30ec1a3",
+      "text": "Model Context Protocol Tutorial · 4 min read",
+      "hash": "e16634ec0170978594681975208b190bd278249f9634ba2cc967f6be110e0c07"
+    },
+    {
+      "id": "6cdd742d675027115541743e80743dda2ebdcaf54cfadb7d4e4800054e4a233e",
+      "text": "Easily publish your MCP server to NPM using Node.js. Share updates globally with simple commands. Distribute effortlessly with our step-by-step guide.",
+      "hash": "f73a1a773d93f97282a6215742f408aea8cf6aeece99f2766df9e05f51b6f7c8"
+    },
+    {
+      "id": "676d92d6a15508870571419c87dfc28582f4ec7cb25fcc945772b4e1022bcca1",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "0e6bf5df17a09e0869e5cb28dd26024c97ccbd4e6943464f2d3064d217b2a152",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "266f05772106cc9d634b5f95cefa150dc3ce22209e0fe11d9b403124d609fcb7",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "e82ba790000dbe1dd6224878ada9c10047d9328fe08f11c43196ba8373a7361d",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "810e9139f0212e57b808b6994a557f5691ba31ed5861b4bc7f3669a6caccaf0d",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "721d2426f218c1349df5b9ff7632b1b9ab45100c9002539f55c872391549f5f6",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "ffc8286f90cca1a5459a410b039dadaca2522c7444c95b9c972c58f66ebaff20",
+      "text": "The Basics",
+      "hash": "a5e729fb76c8c30039cbdb4c1a1f631f73d7ab50ff8ef6020e05dd5700f104f7"
+    },
+    {
+      "id": "becce52415432ff87bc8884dc9c155af773663d0b38590df33265da6193d5cfc",
+      "text": "Setting Up The Server",
+      "hash": "46165c28e146f559d045c9ec9c2525f88e954f42128d6eda1538c58f2b36878a"
+    },
+    {
+      "id": "8454f8bd9e10d32ec779cd1dcc045c84c17f0600e067041a4c08a4af1c5b8494",
+      "text": "TypeScript",
+      "hash": "ed0504f70a48ffe9ed17e7ddee02a72a9c8af602aee1f7ce11853975ce911733"
+    },
+    {
+      "id": "84aad6f4eb3a21c0ebc6ced036a57a8e91ca649edcd3c2daf3f85fe0e3836c17",
+      "text": "Publishing Our Package",
+      "hash": "6e6588d29496d880d61ef94b6a2836d446cd81f77e617373056e5e9b9ebe193b"
+    },
+    {
+      "id": "cf2de32576fcbeae68a06a191fc922ef908704006a0e8db317c9d73309fd02c6",
+      "text": "Testing It Out",
+      "hash": "2c95651ce531e8c126a55f31a4fe307bef2629804bb3b968416f03ececc549b4"
+    },
+    {
+      "id": "d582c1016f590410340a27c19af167f8762b2049165304de7478ae3ea3b3b460",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "cd506b22f046370c648029dd0a063c762ca34f417e191a28a30593478b8e38c7",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "28cef8eb36fecd9765b6228968eab33702c3e39011045911406ab8c9ce0c5757",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "dd39a1a4c6093e327947da1a826c683f1ef95278a406ee54235fceab14a9c493",
+      "text": "A huge benefit of MCP's design is that you can very easily distribute MCP servers using freely available tools.",
+      "hash": "20635b79894dbdf6aa78f71d8b115bae89338d2f2da7b4092d689b891f9288d6"
+    },
+    {
+      "id": "d14d5235cf7110bb6367f672a16e63f7b05912d98fca899f20391cf3df32c4bb",
+      "text": "In this example, we're going to take",
+      "hash": "aa73635c3038cef7a16b595cfee2e73096c59cc6edfecb8d76dd6201fad12874"
+    },
+    {
+      "id": "4096e94cf46071fcb1f0cf6455ad65c0ca98964758097b851cf83316577bf3c1",
+      "text": "our simple MCP server",
+      "hash": "7fe060e8f6252292dbfa794d0b8c428d39418cefab3397fac91ff218d7142522"
+    },
+    {
+      "id": "15c730ea6759ac2beb4c9c7cac2e9594cd6881703f8460a8174e43c4d57b4033",
+      "text": "and publish it to NPM.",
+      "hash": "a5607766b7349a3d51187a6806931834fe09bdc1a92335e9766085dcb47b6c51"
+    },
+    {
+      "id": "88c0504f4fe018dad9d2f5e2697660c05defc95d0cf4cd47c96217316c6c5d3f",
+      "text": "Once we've done that, anyone with",
+      "hash": "c8204cd1e4e67c6aea541688b97e4393aac842f0ca577441e624d264672e96e3"
+    },
+    {
+      "id": "d6597ca369f5106f5d0a630bec09b2ff001f6e27f851c8e4404db88a2b0da92c",
+      "text": "Node",
+      "hash": "e93372533f323b2f12783aa3a586135cf421486439c2cdcde47411b78f9839ec"
+    },
+    {
+      "id": "0e51db4b61df738768778d03d628178c36800be949f6457eb355391624e582ff",
+      "text": "installed will immediately be able to run our MCP server via",
+      "hash": "0e382b9332d8eaef2e7796afc772f1a3c8f5f9762ce2ecf6af443a3072548a78"
+    },
+    {
+      "id": "e204ca922a18011e569ff2815e09eb20aa19a523548d9160b947069cf4aa9acd",
+      "text": ". We'll be able to push updates to it, and users will get those updates automatically.",
+      "hash": "3e1d9847eea50eac3a028b407e12863bf2d746d40b6d2a1ff5002cf19bd73b7a"
+    },
+    {
+      "id": "f9d645e6d3762585a606e328b6e7e1579e50248f5898097993cadc15e1826e88",
+      "text": "We're going to be following recommendations from my previous article on Total TypeScript on",
+      "hash": "8fc57658b9becd47f3ef8c662b4426f4422166ee35e263f1ab1ca437beddd38c"
+    },
+    {
+      "id": "504c60b5cc1f0381e2ed0d72a27f88c0c02689048088856e443441f8c7c48081",
+      "text": "how to create an NPM package",
+      "hash": "cf853625a7c879ac1f2c5a2d9c31a4f58bdeebddb5f3503bc37ed35f624239dd"
+    },
+    {
+      "id": "4ffeec57b7cd60e8ddad47ae838dd13fefe27cd959ec5b6b68f7c36c73192ea4",
+      "text": "The way users are going to run our MCP server is by using",
+      "hash": "a2659cc3cd6fb6e2b52e7fd574f43bc4531a4d0f3d9b3a086b7ca3fab83a19ce"
+    },
+    {
+      "id": "fccce8be59336f43816dad1e9d84a3e59db84fccd1293e9a082ab262758e27ab",
+      "text": ". This is a tool that comes with Node.js that lets users run any package on NPM.",
+      "hash": "a3c43486076052812fc441854a67dce712307ade2bfaf0667b95d27880a2d2a5"
+    },
+    {
+      "id": "438c51d03343bc502db5f63b152d5cad0f9087d35986e2e39f72cf6b9a0003c3",
+      "text": "They'll be running this command:",
+      "hash": "481baad2d520dd996edd40cfbc64652346b18638ba0aef624de841ef980665af"
+    },
+    {
+      "id": "94e01f868bd5f71e003f35d7157a33cf8a9d6c7928803dcdff9bd9e5146cba6b",
+      "text": "This will:",
+      "hash": "3f2cfbc950d5bec695c7f0e719d65abba8f2d9b6d876b6385ec5222731ac34f3"
+    },
+    {
+      "id": "2d8d5ad59116f04d103abb656ff05fbca05786999d04b3b455750025b386bd19",
+      "text": "Download the latest version of our package to a global cache (using the",
+      "hash": "0c5c2351c57ff3b128e7a680806c7adfbc5efc2c9cf908a7ad06d27932de2c89"
+    },
+    {
+      "id": "eee3132d5cd3e4c0735f70a884f59756ec8692bf4492f377fbe62993639abb3d",
+      "text": "tag)",
+      "hash": "ec8e232f92ac4ddf9e41ef6c19ecb39bec57eb20c04e151c973d2d5a54e2a083"
+    },
+    {
+      "id": "afe768d70bb0614c791b2090393d19fc8a832c68316e4bf1252a485cbfd95cb4",
+      "text": "Ignore the confirmation message that usually appears when running a package for the first time (using the",
+      "hash": "ca6d5981f9e9234a1c8871ab84bf137802aaefd088ff4bb8fc5acf68860b01ca"
+    },
+    {
+      "id": "71bd9c5e4a446572c499ff01b5d51af93a2f207fc1196e8fd8f5128369167ad3",
+      "text": "flag).",
+      "hash": "e23be3049f7aa6c0e5a87da38715a57605112cfa8886eb510a80cf631d3c84b0"
+    },
+    {
+      "id": "3fe2cf1e081079e27300fb27de19d9391d88a656506e86b920e5fb5efd3de509",
+      "text": "Run a file referenced inside that package's",
+      "hash": "4fcb641d0a1ad630fbd75a078f7782de7a51762a15b7d0e12df3f235ef94f140"
+    },
+    {
+      "id": "e5b073e9c7a158936f8b3780fcd03e3ad777dc076e3fb117e436e27ee52c2249",
+      "text": "So, it's a way of running a package without having to install it.",
+      "hash": "a4cd021ec0e77b00f47e9f75655e387ee621db4c371f47e0ff85778a208b8953"
+    },
+    {
+      "id": "f96d94ad38948ba4b88b26ad4d9eb198fbacb5071ee049246dd0afaa7cbc4212",
+      "text": "It's worth noting that this is not without its dangers. If you're running a package from an untrusted source, you should always check the source code first.",
+      "hash": "42e6ee362f46f3185e8c7bd00e45c18c42fee46e2b38e54d803cacf42895e4b4"
+    },
+    {
+      "id": "2c2c11a1404ade7a8e2df20a144007f1b031033ca553bb9c467bfdb45eb7ce26",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "f74a8faf330c3a3c2cd0a29a05a4504525ef0fcdf0391c27aa501841f3f46f04",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "faa7587fbea474f569ed2aa1d27772b6b21f5297b9d86ce6e4dcbb92b5cad489",
+      "text": "The server and the transport will sit in a single file called",
+      "hash": "54be82ef19a05a51399c50fe9a629b5014d6c4d06310251969f55b2d1a43afc8"
+    },
+    {
+      "id": "c1be6ffd42fb22297f3d997dab850bebbbb7c7a51d5a53419c493087425dfeeb",
+      "text": ". This is the file that will be executed when the user runs our server.",
+      "hash": "d30846c1872a02128f66bded816d7b25dc28704dc3137e551bc1c400ef6436c4"
+    },
+    {
+      "id": "f3fa170b37a9bfad1ee5b6c9d8888ed7fd1431e045c6a50e2fc1db2c4123e00d",
+      "text": "We're going to add a single line to the top of this file: a shebang.",
+      "hash": "9b4f7a930e3f39f565454c8af05221e281929b55e28d3a0cba2cb2043c1bcda9"
+    },
+    {
+      "id": "be0e8b7034624fe37532ea342cf8f1d045334408fbbcf9250fafb1f4c3b507d2",
+      "text": "This is a special line that tells the operating system how to run the file. In this case, we're telling it to run the file using Node.js.",
+      "hash": "fb4b52b3b11cdd2013a1ebbf492c22c3f2cf165c9ae877e47dc7b676c2b9f61f"
+    },
+    {
+      "id": "724810c396c65b84b13ea5bd9459db263db78f200b5a77fe92fcb5db5009d073",
+      "text": "We'll need a",
+      "hash": "bad689c65b5af5846c5ab5626ea472e78d45bcbcf82b1c359f93b01672c332ed"
+    },
+    {
+      "id": "dfdcc2494698c1f44960d967def41c915fe4f8108380afc876e38b85fbd8d044",
+      "text": "file to describe our package. Here's what it looks like:",
+      "hash": "fb09c2fd63e83246470a32305bef887d681b57d1bec824c3d94c7cee27a1d369"
+    },
+    {
+      "id": "60b7dc4d1dfe40f804d6d380521e83b795f68072a23e5a2af209456f897b0930",
+      "text": "Note that the comments will need to be deleted if you copy/paste this into your own",
+      "hash": "80166f5cd68eb0c92a30a5d6b58eca7f552e56ee39b0aa271969119fc6716020"
+    },
+    {
+      "id": "c1bc7c6fcb71e9bd07292cd2573b5c2f66a7b523a8571be588c5364b94ff6278",
+      "text": "The most important part of this file is the",
+      "hash": "f7a17452ff8c119ff63055d51e9d93f9faf9b872cac9ecec3cefa4d737406119"
+    },
+    {
+      "id": "6ce977f77040a8b7264e995023f714a91a73b111c0140a798670de01b2857e16",
+      "text": "field. This tells",
+      "hash": "06b834de63b8971527528183ac6d7fe5fd60d863b13b3a354a02d7563f05c431"
+    },
+    {
+      "id": "22fa83df37cfceb494dcb67cc2aaa387ea5609f9163de99ec4f3c788dc72e97c",
+      "text": "which file to run when executing your MCP server. The details for how this logic works is described",
+      "hash": "1721f15650baae96c75d7965cfeba9273ca1925e52d6ae0bdde1e42eac3d2136"
+    },
+    {
+      "id": "a8f06771b77b008af62d27c5f2451d0b9f1bf2378ff31d77e2b1d9093171738c",
+      "text": ". The important quote is:",
+      "hash": "b8048d93bc626cc62ec30d7d3cb45abf5205e7bbe74ce3703c008a9b30eec00c"
+    },
+    {
+      "id": "7c80e474ec86353999d5b1c04ac724e5265a883d6f40c0a056591f189b155242",
+      "text": "If the package has a single entry in its",
+      "hash": "28f28ec73ff19fa15733d7d57606881fcd22d7122722c658a0d7c00c49d28fdd"
+    },
+    {
+      "id": "ed8b9709c322141d18472ba187bee420003c682ee8d361cb250842f62d0b94ea",
+      "text": "field in",
+      "hash": "71732a2c2f014c3b7a6f677155f79a4626593e987978a18de2c1133f357d5935"
+    },
+    {
+      "id": "169163a648f3fadd2ae728b744c675b4432756b20e934cf70ec558f890c05da9",
+      "text": "[...] then that command will be used.",
+      "hash": "6110b177077749fa1bd896ef65ccad59915b3e115d5004bd91b291faf09ae29a"
+    },
+    {
+      "id": "0ba369f4312b733f99ccc7ddaccc4484b028eb28dfc2e3e96a145f8536fd30ac",
+      "text": "So, having a single entry in the",
+      "hash": "f6442b80dcd55dc6dda86cbf78fcba5aa693a54d883fc0c6832be1435e3cc381"
+    },
+    {
+      "id": "7f92b1acff2e40630df7841e7791b208e2b897f7d5befe117fba8cadc73257ca",
+      "text": "field, no matter what its name is, means that",
+      "hash": "f91d3d18b68703c906fbe32ca74ace21254ba9c58ff68d451f1c1397f67f640e"
+    },
+    {
+      "id": "b792755793bc8405b5748ba55671bc404a5431c334d57e70a4aa17e6a6ae9e25",
+      "text": "will run that file. In our case, that will be",
+      "hash": "253c4ab257fcf7cdeba8954a613f4092af7d14c6927283fc453f5495c88e7b64"
+    },
+    {
+      "id": "52c7847c49b7a9dd00ba29919a1dd95ef5cadcd49792a80c19e6581172d49fff",
+      "text": "The file we're going to run is",
+      "hash": "f88036d497f20b969a26c4674d386f4d4889b0c347824dd4081caa483fbb4995"
+    },
+    {
+      "id": "78cdd5fcce181634252eff411bb7257e453c38cdcbc8d6e41880b611400d022e",
+      "text": ". This is the file that will be built by TypeScript.",
+      "hash": "40509adca00c4a4055c3aef3c16c2e94b84b8b9a8e3ef2cb9e92146ac82959ab"
+    },
+    {
+      "id": "8337688cefb6f7ada78d804ba9118467bea0094585c1350317ea9ff3f03479ae",
+      "text": "TypeScript is going to be responsible for turning our",
+      "hash": "575ffc5ffd53a811d207f416b21bc976d6a0d80d2008921d5c09518b95d32140"
+    },
+    {
+      "id": "dce12b745cb6a870f54b57bc30a827f6fae7f4a09d737a926ccf7b5bb468f3bd",
+      "text": "file into a file that Node can run - a",
+      "hash": "d2b472d90a50a245f88f0ff653980bf4323a7d88311953fd6fc329f7744dc5f4"
+    },
+    {
+      "id": "6e4b7893a7a9176d8c77a6b1d11799a184fed997406db32bc88623d90fd9c385",
+      "text": "file.",
+      "hash": "eb36be6c06717c3b88700bdc0678576b33b6b4ef76de644a43b56023e9e77cb0"
+    },
+    {
+      "id": "20444d3fc18b8f5c9184e7b16899d9638ea6dbb4a6e76736eb0f7b630246be0f",
+      "text": "We'll start by adding a",
+      "hash": "8e170beffd09d71a040489809e56a6b797fee2e8789de52a8c773319f3beef93"
+    },
+    {
+      "id": "4673a8f2a6a901e9952e0eb6b67213fb77d5fdd01b96f142f6877ecb72943b3f",
+      "text": "file:",
+      "hash": "430473329df5ca205e93d09d202c021d973044142fe20fc4abf555135c405c44"
+    },
+    {
+      "id": "a27b0d5afb21bf62a2ee95423c9845049f6340f10a2b5cfcfd4acbe1ec4451f2",
+      "text": "This will tell typescript how to build our project. The most important part is the",
+      "hash": "d5f70c3b7d4d1902359c4a998c137d6e56742f05f2156a29ae0a87c38ae91b9d"
+    },
+    {
+      "id": "e819584232e698c0c0aeb70dea6c01e57fa1da67e119a14bea8842c7e3fb45b1",
+      "text": "field. This tells TypeScript where to put the built files. It means that",
+      "hash": "d9a58bd3d2c7d0c9f33beebc6ea07241282afd8be741b0ce21663aa241b94305"
+    },
+    {
+      "id": "6806c1b4be87c1df1254b6a29b4c8aaa5237c319aac3cf944e6bef619409f4fc",
+      "text": "will turn into",
+      "hash": "745304d0ed342bb6bae9e5cf745cbc90712d5304c54c2619d9a1fa8ac732c276"
+    },
+    {
+      "id": "1c36d8290571e36b52e5aa4a67f1cc3664264beddf18953a80afe9f902c57224",
+      "text": "To publish our package, we'll need to run the following command:",
+      "hash": "3ca42bcc2be22ae6f32b9f3aded5df68e80a23b96236a2664b4db9bf93083ac4"
+    },
+    {
+      "id": "edf915d68a93ed49e2ff04b64e1edf5cf277d78fdfbeaf886c7cea8a040bccfb",
+      "text": "This will publish our package to NPM. The",
+      "hash": "7bba3e91463b81bf3ea002181c2d9b0ade098f5c2878f7354a6af0fafcd6abdc"
+    },
+    {
+      "id": "4a67802a3dcecbb3d6893f23aadee4cc55d46f3d4580cf8a8cbcdc3a2af701f2",
+      "text": "flag means that anyone can install it.",
+      "hash": "e63a90226223968d5419a1e7a5fe372b461c4bc93d14d4c50ba6c650a036ef0f"
+    },
+    {
+      "id": "e82d347b1ec3fd515ac181c0b2959128b9615fae752bee49bd81afb17dee8780",
+      "text": "You may get one of several errors:",
+      "hash": "59dce68156485ca228e9d3bcc3f98b1da97cb0432c7877f7a6226b30e3225ea4"
+    },
+    {
+      "id": "3990b4ae18b2fa741674db0180e01b274971e5f67d50d25baae5b64250f71433",
+      "text": "If you haven't logged in, you'll need to run",
+      "hash": "dadfa21ee5dfda0a25502ab6b5f07be718c9c142f0e2ce02df4086d7cc506120"
+    },
+    {
+      "id": "446c3ea8871bfe89a090de3641eba6a9cbb9cfe790aae1b08366ba49ab19e82a",
+      "text": "first.",
+      "hash": "0eac7d776c9029669c4164ab8063f8ffee803f453c0cf2743d36726d8288dc8c"
+    },
+    {
+      "id": "2bd19183d1d1de493fb725055a404d18343d3938aa95d9de2fa62d3e11a314b4",
+      "text": "If your package name is already taken, you'll need to change it.",
+      "hash": "8db7994a5440ac272bd9f0a931087ec877ab0f37ff62e64c7351173341c30d4e"
+    },
+    {
+      "id": "3ec1a96ca4685636d0845e4bedb68c8fa71ca6d0d9a047606489c82caa5842f7",
+      "text": "But once you've worked through them, your package will be published!",
+      "hash": "808fb098d43c006fb82fa3db0057033512582c7faf019b18927c7b7c16de40f4"
+    },
+    {
+      "id": "76fd7fb100d9452b6ff2569d3886c9a8d6828c808844d5247dbe72786801f29a",
+      "text": "You can test it out by running the following command:",
+      "hash": "4f0ffbd7e32a27cb14e3f42c8e497b8d65e27a35f66af54f78d344bed25b8ee3"
+    },
+    {
+      "id": "c9429cc7746a3a5aa971b89730ebc99e05a2cdc923cfe4cd6c98f9965b7b5f59",
+      "text": "This will run the latest version of your package. You can also run a specific version by changing",
+      "hash": "b3ca64bdc50a4aa6dc179b3625db9e2be96723255d786cc0ffa1cd7d605166dc"
+    },
+    {
+      "id": "96d532ea80149712d15ec3f6c9e3b389f4e4bc0d4a67d98bdbe49ca3a2c7aa75",
+      "text": "or whatever version you want to run.",
+      "hash": "9d7613b4163145cc682e2923a7225e62ad966208c8d4f101db65d1ba0d8ec828"
+    },
+    {
+      "id": "4a5dc7fdfcf6eb19a5ed7b842c2a14849f45c35c4812637ad83530a228fa00a2",
+      "text": "Oddly, you won't see anything in the terminal. This is because the server is monitoring stdin for commands.",
+      "hash": "343833585f9e0bd3d310661d29177d6d9de6aef03db341382fbce661df96ed3e"
+    },
+    {
+      "id": "52772d63e86ab68d25136aab255d8577da248ee186930ec37fd2cd70bb1bc18b",
+      "text": "You can try connecting it to a MCP server like Cursor, and asking it for the weather in your city.",
+      "hash": "4027eb05633e098960ce279d52ab8b69399000fbbd10d7c60fff409b65a17e4e"
+    },
+    {
+      "id": "4ed46edb8e6e47d03251855c051644b354a9d46cae430c74b131192bba471e84",
+      "text": "In this article, we've seen how easy it is to publish an MCP server to NPM. This means that anyone with Node.js installed can run your server with a single command.",
+      "hash": "870522dcc7008ed7f4ee1c56788f66e0eb0cbc7335b713fb4d01ad033e120f01"
+    },
+    {
+      "id": "ccfa0662ed106462441c9c4861ad367496004ea3d4b1b3361b45fcfd5d23b05e",
+      "text": "This is a really powerful way of distributing your MCP servers to anyone who wants to use them.",
+      "hash": "b2e23c97039b90eeecf1d1d1561d06b48538aaff6eba7b3f7b97681445e06d35"
+    },
+    {
+      "id": "0350dfdb73254ae4c01bfbf713094616338a0a008af3f67379bda967c466a587",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "f0d12631dcc9d63c52ad36901fb0699460362f71ca0ac2ef8e8f4b0870a28a2e",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "ee0427eace911e3231f15d2fbedf412f2f13ee25dedc6b316287ed6c49075cbc",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "8a9f9f3d943477b4de051db5da34f4a9300697855664e28cfd15fff48231657c",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "84bdaddd4c5a77cd4b7984b05a0d48cb77ef7e901f96fb271a8fa0b463ac0128",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "99b149714b30da3021bf9cb0d2fc527b1fc17d55aa9197cdce97be59b97fdcd3",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "14c933a3070f31b831a40616b1c3774f57fd42e21f68b0d8c54ed9bffb97a89f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "61c4f43659af9437d9090c9b287241743c16e97ab8d9273221e828f4811fafc1",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "b44fddd13b8388d05844a867903519374fa01a60f9cb9f9384ad0f61e2f34afc",
+      "text": "Essential AI Coding Feedback Loops For TypeScript Projects",
+      "hash": "606584f682a76facf52e9e7bbb00b984668114bddf50a0f12d7ad046133e8c44"
+    },
+    {
+      "id": "e39c54448abcac25a7c2b5bda3dc159e1260c0363e23e0b85a09bb1aab236849",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "095085bc4eef6ffcaedc2db48aadff5b1a1a54210f8130262e541618fc1c9897",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "ffbeb3f672a6b6d25d23b57121eabb8d2373f2bc679e2f6678aad3e4262aa8e0",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "6b139ccb31fd25d31879a8c0665c35feab5349a5fb4c067b94ed16d48777d49d",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "4fe948d0714d15fd6d1262b36f35de75cd6be3b1912184736c4293cabadd08d4",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "3fa78cc8872c4a60bf141d9f804c7d4614af645b52920bed5668ceb65fc8da22",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "16f2472f89a6fe31b179b36f6d125057bb919b7340d8deeecb2f5c740d9f0880",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "cf6f84df5e1b4e42bf49efb45c8302efbeeca3323fd309b3f419b2763fcbbf04",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "b53f2363bfba5d4fc8d8ef6c5ae5c24dd0335ead9d7fe71ccc6b6f2f7fbc8abf",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "20ed1c5df718cb95a7b39e633c072a77d7a2da5712f8c1d3aea6dc9c09abaf11",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "08d98de8dfb8f8b56371187ce7b98f974b2c51a8cdf9e96879dc156728b67a54",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e04efda5b063f0a90b461ec7ebfd10a4fa9f5f4d011a5d5420bc1b96b67e29be",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "3093acc2aeb78530be8d9153f3c9f8a5982f12fe0eeb78915c3253366f8bfaa6",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "71c71e5a2ff545079008b43729304fcb30637fdf9a09761e389a1f2d17f223f8",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "33772cbbce1c6fed3167527cd5831d47dfbea9855449d869997d55923ef1ea71",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "13110b777638146b6e418ce5f4a640c8c8edbe14b03d995037caa856f9e9b662",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"7tihrihtq87im9\"",
+  "lastModified": null
+}

@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/cache-tokens",
+  "pathname": "/ai-coding-dictionary/cache-tokens",
+  "fetchedAt": "2026-08-11T06:28:32.203Z",
+  "title": "Cache tokens | AI Coding Dictionary",
+  "contentHash": "86eba168b0701acf7c2b6fc537c4f8c8b618a41287dbeff5ed21c4505927dcb9",
+  "textHash": "ff0b7af0fbbd7f844eed8ba4b8b97562eb6ae7e1521221b1203cada24d772254",
+  "strings": [
+    {
+      "id": "84dcbb8f16dba404e5322eee4b15df33d938e93927a06fb16a4ba457b4bed88c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "fb92f0f54488c70e20f8b6e24cd106c98018f8308fe023929b62e395dd9fc523",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "8e5d73b52d891ed553cb110982c4af456db7266f5f4c615fdc3d434f3fb94320",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "65ea2800d7711efd81a88be3401b7b8caf24290899e3995b330a39e0d9fd7ced",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "3b2fe2b1760ae068290dc6d80784a220564ea76a7e7ed87bae048cbb40fd4e95",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "34e879620fd084efb2c347a38bb3f49efba8b16d9bfbd871c24ada047fc52737",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "605d530364f86ab001bf68d57482a149755d5360aee24095502742c4d3b4abcd",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e4e0e6f2fee3d46a26006ace9647322ade70211cd728694ac24707221d47df29",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "c40c09453d7e5af55869fca2a504c1f02932a153cb3e87f314b69a807a2b3b0d",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "139cb527b9a2134cd2c3a83fdf6effaa6d06aaab0b88b9642ae591555345801b",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "846155230c7524b835dcf5214d2cb64ee40c62331f7b4b0b7d44c531cc172eeb",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ce4008fe155e6d3207da6c031af5dfc88d3d98be1184f87a28c8a8d3afbea2af",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e0ed606e07876a8a47cfb5cf6ceb10ff0293bcd2f6041c4c14f9d82a3d90af09",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "89ce2f36ec72296de27b5a55bf85ee2ddeb482dbb6b94358ab189ceb4aeede6c",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "db34222c22906893e69832eaa0e8ccefaf01724db36baa7fdbc6eeae823f6a11",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "9efe75b9186abdfe3f056833605c8f9dedcb08f553a985a159dc88adc0aa2412",
+      "text": "Cache tokens",
+      "hash": "cce47e61662627e3233cc32f7d9c15df14bdb29e105265edb1add04660d4dc43"
+    },
+    {
+      "id": "d1f13c004c8379015004aab867f2a5edfc17ce14303e48ea0b29ef9b57c2992c",
+      "text": "Input tokens the provider has cached from a previous request via its prefix cache, billed at a much lower rate.",
+      "hash": "aab171121a71715bf9cbd1a080afb6dd7bbc8b2b7088d883d346674fa2b0d321"
+    },
+    {
+      "id": "c61d31719037dae66d7745ff60b4b671264273168c43aed5d5f5ef3188815c56",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "518c3c68d4167d70c1a6440acee6dbc326676f87f2a9c0ceaa58fa447e80f291",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "43b3643d443199f4e613cb24f58e29a3067b490b440ca004645a42efa6c4c317",
+      "text": "Input tokens",
+      "hash": "dd856eeb50463bae46757d871d833fcb63d29a39356e7db40fea337f6462c947"
+    },
+    {
+      "id": "437f4c5068ca880848a8312107da4b588504bc0d2b88b9640ecbc1f58615e04d",
+      "text": "has cached from a previous",
+      "hash": "49788aad52c88df99cbcc5b9550e2ae7501ba0ae817b51661258dd733523e475"
+    },
+    {
+      "id": "8e170abb00c0c35d467907de3ce7d2c57ea9efe1fec45783de2fa12e3904a2f0",
+      "text": "model provider request",
+      "hash": "3004d539f1f0ae7a40070d95ba4a1323d874684827edf4d55b29a1056f8da7a9"
+    },
+    {
+      "id": "01f04ddd590f59765c46a652ee897944e2da482e546c8a38dc2d7288712874c0",
+      "text": "so it doesn't have to re-process them. When consecutive requests share a prefix, the provider reuses the work via its",
+      "hash": "8cc70f44146605b4a6dc41e5496e4a4571a7a9f224758c2f944ee401a599498d"
+    },
+    {
+      "id": "bb1a9971351f987c3f01c33c0237223d1cdfdd2d122e5cc6e999e18c2232c6d6",
+      "text": "prefix cache",
+      "hash": "2cdfb6c2d97e750050af7ef5f0ed3c788737a1776e6c1f740f856462592ba13a"
+    },
+    {
+      "id": "a4a66f44951bd06a95547f3fdd95d62a87cbc8ba9e5b0abf1c1c7fafa817f839",
+      "text": "and bills the cached portion at a much lower rate. The lever that makes long",
+      "hash": "d36091ae9526c17ab62e5f19cbc4ff03dd1229438ede8a52dee1f6218d052a40"
+    },
+    {
+      "id": "6bde7a812be56d85e0307322a69d27568b34b5ac59638e11efb2570a0a23bb8e",
+      "text": "affordable — without it, every",
+      "hash": "95a490790488d956b85a9419cbd2f4eb3555de80e3b94ab5e78e545cdf111dbc"
+    },
+    {
+      "id": "4bc2645da7b1f3323984316662adc65e2b9c4a961ce272169ea8b99cb554fa84",
+      "text": "re-pays for the whole history.",
+      "hash": "5e99149fed2731d99f344a937c36a38ec8bb046991d2b8c665becbd64f4edc73"
+    },
+    {
+      "id": "07233d879f875323020c2aa3ebf56a2ccb2a72bfdc0c317d45aefcd67874daeb",
+      "text": "The reason this matters is how sessions are billed. The",
+      "hash": "392b544e20f665435efb4d04c1e90bf711f5b95202343893b1cb289dcf7227ec"
+    },
+    {
+      "id": "658c03162442845a824be89e6ef428f7bbb98dd6a12f6d6c55e0afa63419079d",
+      "text": ", so every request resends the entire conversation —",
+      "hash": "645ffe2c1620df786c85f1556feb208e10775ba087b725f05c58e81ef09a225d"
+    },
+    {
+      "id": "7f75fbc7652e4fb4f8b1f7e28cb53cfde036178ca05d18356f39f37072d2ea0f",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "ae058e5a0240e7a9a10ce2055eefc07adf2ebc5092ca8a21f77ed0c5b44b0a6f",
+      "text": ", every message, every",
+      "hash": "9e041e8072b4a17f7d7ef7ab7a89aa133d8bf1f231d716ce07c3f230ed991eda"
+    },
+    {
+      "id": "8d4c760dedaec6fa3a644a65ade1a7ef67f285e70d5720dc63a0e7e77b68646c",
+      "text": "tool result",
+      "hash": "496514e28de40f2624fbc4fb01c89afaba32fde82d1e1d6c19ab43d702f7a230"
+    },
+    {
+      "id": "aefbf60a4540cad2fb726f62f1656b1bd12726790a4ae3cb1b87e5f3c8203792",
+      "text": "— as input tokens. By turn fifty, each request carries fifty turns of history, and you'd pay full rate on all of it, every time. The cache changes the maths: tokens the provider has already processed in an identical prefix are billed as cache tokens, often at a tenth of the input rate or less. On a long session, most of what you send is cache tokens, and the bill stays sane.",
+      "hash": "407d5ab25114a30f6ef9d219ba538eba138fc47e57285738ee63d06f2b25c71b"
+    },
+    {
+      "id": "da83efb50362177adbcad451ab707322fff4785d10b187acbf57cc3e8260ad7a",
+      "text": "An example shows when tokens are cached and when they're not. Each letter stands for a block of conversation content; each request sends the conversation so far:",
+      "hash": "0012b2a44fb128eebc23622b9cbce0674a8f199a11a23408a71811288193e091"
+    },
+    {
+      "id": "bb315c23461e4feeb96ff41e123860dd13ec78c79bb6dd48ec212c5a0e15a4b1",
+      "text": "Request sends",
+      "hash": "1ef634d1a71830c96fbcfe906f6c51c4396143287607c9a27c5e387eef32db31"
+    },
+    {
+      "id": "403cac2420dad37f661353f942c20735174f4714d9030885a66548d84d3bd188",
+      "text": "Cached",
+      "hash": "a251c18205f10e5ce440c6c940270de4b8ca2bfd19ad8d9a15e28590a9fa7a13"
+    },
+    {
+      "id": "c62728751e6ab7eb833adc8729927e0b9d934a1e0a17ab426c6c31ad949beeb4",
+      "text": "Billed at full rate",
+      "hash": "5eabc7adcfbfebc7b46f1dcd6461355ab006f17894511afd806b8ef04b1953a2"
+    },
+    {
+      "id": "10f1a86ec039f635f03fa50b2633a69521c5c39a31aaa6b03e80ce91bc9e924f",
+      "text": "Why",
+      "hash": "d3ae14a50bfe463f804c73c9fd16e88c36bf5a0bf4a56f98ae696a91eb2de149"
+    },
+    {
+      "id": "b2da9fb3774bde639be7a98281cbf905623431eaceaeaa7c28702f6b7ab4f661",
+      "text": "First request — nothing to match against",
+      "hash": "88459ab6cdcb34a3a546d4be1868742b9aa42b62846a6e2687b10c120a5f9030"
+    },
+    {
+      "id": "8d429a905458c02bddc51404c533fc558fa67e4b86ca3deb1f44c84e556c3a6f",
+      "text": "is an exact prefix of the previous request",
+      "hash": "b4326df4d608d125ea0f1c87d6d6f46675915f9a26c642d47d3ff0ad9920384c"
+    },
+    {
+      "id": "db3b887223f365c1a9fd99984c135fb82f3647bedbc045a85867df83124ce792",
+      "text": "Prefix still intact",
+      "hash": "5a3426df6203dc3e20c41760e0d35da92bf093999c308a8647bc1c10a0d5dd59"
+    },
+    {
+      "id": "562d8bb9461ae64de832e4b43ceacf016b60c686bba0194b32932e378b6623dd",
+      "text": "An edit changed",
+      "hash": "92f5412fe8af37dc4969002a5ddaf08c9dd2b441ca19873b8667c58b7b9521f7"
+    },
+    {
+      "id": "63e0079db3950ef99f54b785336363b080882fdd22923eae05321319f3e05735",
+      "text": "; the match fails there",
+      "hash": "1d6723a71bd71718a489baaa5895bc1a216a3e8ab4d629cf5181e4f33f17cdb3"
+    },
+    {
+      "id": "084baa41440080048848aa0c7ea2e9a07bcd656d9f9bfecc97ca5da4d2a694dc",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "e6d13e925498f207a8a1dcf422c9208ac395afd2d0c9652bffe19c73002ac92d",
+      "text": "The cache is fragile in a specific way: it matches exact prefixes. If anything changes earlier in the conversation — the",
+      "hash": "0537e9a0c79bbd9ba583823fd3bd730dcfa26dbf360cee9cbd2945721c415157"
+    },
+    {
+      "id": "bcf388d2d3e3c43e4b6dca5d9eb9179f8d52c07b716cbffef8dff34150da4ddf",
+      "text": "reorders content, a timestamp updates, a file's representation shifts — the cache misses from that point onward and everything after it is billed at full input rate. Caches also expire after a few minutes of inactivity, so a session resumed after a long pause re-pays its history once. When a session's cost jumps without an obvious cause, compare cache tokens to input tokens in the usage report — a broken cache shows up there first.",
+      "hash": "67947f1b3c0381797b8fd63ebc082c1f0381cdf34a990031122011fa31ecb69f"
+    },
+    {
+      "id": "c037809688cb48f9335cba097d51cb51d843c650034e2750bd8a60ca02fbbaad",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "ea9f764f18302a55e70c2835f1a621cfc81d1372cbbfe668c81796f3494a684b",
+      "text": "\"Cost on long sessions is brutal — eight bucks for a refactor.\"",
+      "hash": "c9138e26dca89e56118289fe119abd106d9ac631f3edd195c74618c124353bc3"
+    },
+    {
+      "id": "ca31175adb3dc36447339dbc2f61b448d03bf708bf4f68de9be01bba243397c1",
+      "text": "\"Check the cache tokens. If the harness is reordering the system prompt or files between turns, the prefix breaks and you re-pay full input rate every request.\"",
+      "hash": "5b2f9de3e27532230ca48d043d84a8b64ac8e9292f4f19ed0a76530bb2a8c308"
+    },
+    {
+      "id": "1f78f9a31545d2255136c156eab1739b4498790e4cd82ee917e1139138cdf779",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "068c1d6f67db3d74e3f058e0877b096ce665a93f457045e6731dff08aabd3d72",
+      "text": "Prefix cache",
+      "hash": "6d2f1e1fefb634a9d9c07247312a3bd2471f20af5deb07dff137143ede4f3810"
+    },
+    {
+      "id": "1e32ac6af61a445526854272a53c2f71040ac78c56845a2caa1aa8d4b2ffa4d8",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "ff4a7511a4d950a26617dba58b4a1bce54fd703fa1886ae14066f7c3c02daf5b",
+      "text": "Stateless",
+      "hash": "f0916a93b0a1776f11d26f8ea012555868465f41131bb6037f712455ac330788"
+    },
+    {
+      "id": "89e1d1a74633efc76a51815d7d0f32ba3e4e31c9286b31e35ef4d2c9d4b826e9",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "2f309cd9092909b0bea9489cf84a32ce3aed7e4d77690c1f275854ab3c749a7a",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "4c59b04cb40164283bca5963d54591a2a3fd67d78c63914baf6b95887cf73de5",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "c49364cc14be61e07cbdf0fb88810b061d5638601c540d6d1e8dd864cff42473",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "e615c4012ac2615ee4ff8f8c5b9bb03d79d11e9e7976fe252949a0ccda0ee9e0",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "e9c0d22180c053f995b3bdd7dc09156c94c3ba97ff7f35d457fcae9f67beb0e2",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "430d277b872a1be196deec204c59ebe056d141ac9e735dfe3f8b624fb68fd0e0",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "811c26d7ba6168e60b89a4e9538326b756896550d316e27269395d70276d2f4c",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "9707a0faad5cbbebc283c6e59b0595d2b71f68468c7298ea1b3f4d73f75e351d",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "edcf2face117483c21b24c7cf8cc35f8fdc0e5120e697a8188022b33bcf7025d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "86f72b38296868d41200c6b54284f4f769fc9072e7dc8fe462fe5fe191f22d86",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3654a4cbcb0945befea2bf3472bdc11732da297b8b19f722c3f3750656b8144f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "d8b9af9c83443d0b93d63958758fd21cae7f6348e912d20bfa600456eb19d289",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "e9fc5cfe3baeadc8961dbd779da761d67df2615fec6229b8711db4406aa0f34e",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "3a1e34313885012401e9203bc6b68318425f474ca804828ee8ae7dd81937881c",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "259ab651b50612eddb01a10143e53d20f47099aa90167210763597a036f10ebe",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "cdde113260b3d5cfb4faf5c916b8adfc31ca4a549db2d7e2f778cbf0c3752b9d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "767f31283387b6bfdaeb5c751dc3effbf0ab2b137fafa23870b38fb00774ecf6",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "8e586cdfda638972fe101b68e760665c74e7ea4b092ce89e83f770c86738b07b",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "3e6a10842a23df34537fb538f313bd5e811ff7b61552f4746b78e43da277dc36",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "e57aa29cbfc2c9f61c313587fc74759eb630af99f547b33bbc085a63eb824b70",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "abe3b5a315f1537ae79f25008ddc0add3f2f7f379efa8a44ff8660775f069d2a",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f6ec4a0ae4ed933f4257d1ddf91bc5bf36ff1fc4c6d53454c24577c05ddc50f7",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "85a45a9a4f093b4a5e9fd1c2951fee134338d7b92a3a409f5421378db5ca8c14",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "bc901451ed0bca28b528836acff81de1cd94ee5cfe153efe981b0cffcfc23a8a",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "f309226a0b2212999fa7d6447c58b53b88fa560594d304cecc7eead78b2247ad",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"537dd19t7n4zr8\"",
+  "lastModified": null
+}

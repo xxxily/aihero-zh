@@ -1,0 +1,443 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/how-to-use-claude-code-hooks-to-enforce-the-right-cli",
+  "pathname": "/how-to-use-claude-code-hooks-to-enforce-the-right-cli",
+  "fetchedAt": "2026-08-11T06:28:13.796Z",
+  "title": "How To Use Claude Code Hooks To Enforce The Right CLI",
+  "contentHash": "f912811fe234a65c98251671387480bbc275aba20ea3a080e7523d139f74a12e",
+  "textHash": "a30edabc47d2d413db9840fcbeb5abe2f0faa0046feacfaab16e53899dc7d2f6",
+  "strings": [
+    {
+      "id": "b04a266c057a99fa1ab48bc9c95550b3ae2f78f5cd7846f16a8169cf055e9a62",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "5e0386463f28ca1a89d502c99b04d23925c626caeb68fdc48b1e61b32f84fcc6",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "5f38c181d6b06f40a946272262f3e3951018f6bd8827590464383868ce854d12",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "32b87d0c193c29123c3f5c8e4ddc07ada3517381aee90c3725e8a8f514a16aa1",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "2ec85981e9ea3850ea7911c05ce8cfe5d67a6f7a15f9d177b1f16bc96ad95a5e",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "75fb22e508a3f72078e0a9401f8fb236ef5be06fc7357195b70f25c2652e59c3",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "9ff8b2a7c0f92a0605b9e7aa75779381d20b865bd8e418bc290802f155fdb0b9",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "021a38b60b7ccdedea87c784c0b7a93dde0f63d150ebf099528fa21b217314e5",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "3e4b10aa4df87cde652db3304a3a377bddb7d5e90ab0b53616c46ad48136ad52",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "476d7bcc057ad71ca81c0d65564e4afa7e080858b2e46fbbd2e145c0b90d74d8",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "65c65985708e424a41f6720b79bdada778c148a63d1cbed66c64595057268e17",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "486904daa02ca20445dcb1cfe4b3a150aca634c857b7145ae765fea8a8855e98",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "d67040d634f680a8d71526ccb5ae45af061c9c0226bb20cf24e41fe5f3722241",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "ffe3c43df30a21110463d45f80feec032a8c568f8f18139292465230a7894f49",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e1b45df552f697d96833d1b86fa3bf1606855698fc3d5f74dbe2b1b169d8b6d6",
+      "text": "How To Use Claude Code Hooks To Enforce The Right CLI",
+      "hash": "5572493237be23c97fa34a15a2252d791fa744c0866e12b5672f3cf7da797594"
+    },
+    {
+      "id": "b03cab68eb57715af7225f00381d3744f4c45a406d7e49f335f1eab8c3213b87",
+      "text": "Learn how to use Claude Code hooks to prevent unwanted CLI commands and guide your AI coding agent to use the right tools instead of CLAUDE.md.",
+      "hash": "2f4b913d8e98d3501072124db7724be91930424037762db03590a2cdadbc8bf9"
+    },
+    {
+      "id": "4444461ebe0824252155d0173d6c8dded4e7c0e070c9ebac7b86a249dd4dbc98",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "3cf8764bb91f1e70f0dddd2e19efd3117f7488bfb0843dc5979ad3e37da5d7b4",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "50c8fc91def7f10e5ffa8e02beda50bfea3fc36a07e988bf4c4215b047351c29",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "c25c38097eb48442942d76124b84dc5269c593f00a08e4a83cd1ea4f7ee4aac7",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "651f2f58a40568e58ba4c28c939f8ecc223f1b63dc282ad93abba46c7216bf82",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "3ea13babac9606de498c8f169b8a3422e449a4a82449394086bf952a480d0366",
+      "text": "Claude Code Hooks: A Deterministic Solution",
+      "hash": "50c7e4e521f2b8e8017318f0a14f5f57e56b4ae7d445de9d9ae07226a69c35e8"
+    },
+    {
+      "id": "871231edd785a7deea1e7abc9560af10fb857d66f0bc54fa736ed0ef8aee1786",
+      "text": "The Prompt",
+      "hash": "038956745e11c5db795719153cdafdc238517adb74eeeda50004c79268b6ce92"
+    },
+    {
+      "id": "d8ca53acfc00321934ddbee0d9dd1a730ca04f1c8634e39487b2294ef60aada6",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "f19a9db4749bb731281e628890aa925747abe9c930ac5417635acf50a29de943",
+      "text": "One of the most common questions I get about Claude Code is: how do I force it to use the right CLI command?",
+      "hash": "e8798e5f25a4954b9109717fe68892308eb663672d38dfe908c3b25cf6ec8664"
+    },
+    {
+      "id": "7bb26b622d124cdcd4fb06ffd62ddc29b16a1ee92bb74a2d84652df3000830a4",
+      "text": "How do I get it to use",
+      "hash": "7460490e6f8cfc44c4610cbaf34fdac2ca12a9f4c7942a0c7bd7f8aa5e8ef455"
+    },
+    {
+      "id": "121a9d9161b062af7104cc886c5845c46c76091d31c86ebe8308795ae3dee11f",
+      "text": "instead of",
+      "hash": "a2c8bc5a8e53f4350716cdbdcf4e9e366aa1ff5392ca146428c932d6216fd653"
+    },
+    {
+      "id": "428c6947660fd3d5b6b4b9a83b66b4268b62077c8c45320e910ae33dbaa9e334",
+      "text": "? How do I get it to call my wrapper script instead of using",
+      "hash": "bafe3084a08ed9a29d7cbb5b1ac27dd8b0208a71620899833daf75ccf0e4df72"
+    },
+    {
+      "id": "9c586a007d6fcf429cdf0419c62f77fb1db772ebf42b3cd01958b9f4a76e1a24",
+      "text": "directly? How do I block it from running certain commands entirely?",
+      "hash": "c86f2206d80337399444bd2befbbe19d85a4e4619a8b85545a76c89c545ff4b9"
+    },
+    {
+      "id": "f39e46b6f3f26bf3eb2687050005078c5c34689fd512e04af9a1324c306c750b",
+      "text": "The obvious answer is to put an instruction in your",
+      "hash": "e42a55318231c79754fc0d6444b5b70dcad9750597e7c48e39b686efe3d65097"
+    },
+    {
+      "id": "b9c9a5ad595e40a63cd05a6ca3af34f4c7f479358c41b224c17719aca3489470",
+      "text": "file:",
+      "hash": "430473329df5ca205e93d09d202c021d973044142fe20fc4abf555135c405c44"
+    },
+    {
+      "id": "d803a3452f1458c06e6e826391f873aec10ed061bf44c94d414dae4ddb5d28b6",
+      "text": "This works most of the time. But there are two problems.",
+      "hash": "02200fc5bf4dc28c3794a7a7b33b00f1826ef2cff1cad0e2469cc55a11f92460"
+    },
+    {
+      "id": "85863b3268139a64afd04fece93e60fa8e8baadd3b5fd33120696219a68d37e9",
+      "text": "It wastes instruction budget.",
+      "hash": "8bb7259eae625fda47fa24a82a21a2b26ab3e9b7cbcfaa8a2f3c998ed454494c"
+    },
+    {
+      "id": "11712d53f7ce6156e980453cb0bd1861f91ebae505ed3ca8e4a4ee99e6ada6bb",
+      "text": "This instruction is only relevant when Claude runs a package manager command. Putting it in",
+      "hash": "3a8ceddc285d479af0937d4f98dca5a41e25f02dcb6340bd0f053a00d3acaaaa"
+    },
+    {
+      "id": "9c39be3fdb8520b6410d555a1f3fd47a96dd4733149e3ff5934e4b53d46f2f1a",
+      "text": "makes it global context for every task in the repo. LLMs have a limited instruction budget—around 500 instructions before they start getting confused. You want that budget spent on the hard stuff: planning, implementation, architecture. Not reminders about which package manager to use.",
+      "hash": "616369b629df29df88d7e8cc9fcbe83a3c437b04481c438c466aa311ba76e126"
+    },
+    {
+      "id": "48b7e1bfda39020f4a075f5af2ec64c14e87df7f7dcfc6bd27f9741fb1706c32",
+      "text": "It's not deterministic.",
+      "hash": "93be7ea254096531ba6468b5b7c81f5e5c0c9b42eba069957ca4df9b2a3847c9"
+    },
+    {
+      "id": "1102555c95c8cfb2f18cb6e8d63d3a81ddfdef06a8601bc97356d065aa155065",
+      "text": "Adding \"don't use",
+      "hash": "3e50261178509d78d5fca420d83e2ff193a62cd8d9c8d1d89cfd3ca041d3db49"
+    },
+    {
+      "id": "95b7f3d8a349dbb2261ad3453509eb6a5131ce7fe872ff45443ea61ac7cd0767",
+      "text": "\" to your",
+      "hash": "93035f9d8b68e7d9e8b4f1c53f41707732a587a6cae2e2af36a078ba320c4cf1"
+    },
+    {
+      "id": "edfb8a83b86a419d268185cc232277c59b39d1c51d39857791b00f85fb730704",
+      "text": "the chance of a force push. It doesn't",
+      "hash": "e4cfbed06544d3ff517a5669cef55ba9555cf357cfa2fea71c1378018e4f8249"
+    },
+    {
+      "id": "d5d6c3282e49450167d647ef3f355b8344cf1473a8de7c0828d271d21ba05670",
+      "text": "it. You're burning instruction budget on something that still isn't guaranteed.",
+      "hash": "ac6d84fae1c5a4e5e12260eec0e643ee6bcf17e8af3cb6f230bf6617cb2d47e1"
+    },
+    {
+      "id": "f1116237c1b0baae8c6596e1c97fa38a9da28ebfa2af4145855571efcd2e9ec3",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "6b91d0c72e1f335ac1f0ab3a240db6bb97010e5b71cad9b46900a64a400b89bd",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "4802cbc8369ece935a916e1510da0c63ef22fb03b49030458bd31b787011797d",
+      "text": "Hooks let you run deterministic code at specific points during Claude Code's execution cycle. They're configured in your",
+      "hash": "bd2bd356b7161191bf0f4ffdbd3ce8621ad57382a9e1978a2cc72d25eeb7006d"
+    },
+    {
+      "id": "10bc8152a39bb66036598d1f3606905d230144b24fa925d7f850ad6029060ccf",
+      "text": "file.",
+      "hash": "eb36be6c06717c3b88700bdc0678576b33b6b4ef76de644a43b56023e9e77cb0"
+    },
+    {
+      "id": "b08e82fe3df07dbe492d00f0d39d4bbb24e64ed4b575a2e889c87b0de8907543",
+      "text": "The hook we care about is",
+      "hash": "4170807046395d1b0e05255356758f2a216ff68a2d12da7f5dfea239cfd360c1"
+    },
+    {
+      "id": "3b0171fc1970b35ab5b843655eab4a0dc9ba67578570fa316b074db247c833cd",
+      "text": ". It fires before a",
+      "hash": "8ecbde5efa0d33096f046ac52edc324969ee9bdc4a3a702a03a4c267b01bf116"
+    },
+    {
+      "id": "5ec9a3835bd7973085ab0b983834a88c350d12bb761c995259763a9965beb6f9",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "041d39c5a9bd24f19c9be358426796aa49a7228de9c431e60b64f2d1223ae12b",
+      "text": "executes and can block it. If the hook exits with code",
+      "hash": "b3dad9e00e65c3bdc6cb677fee3e7d91470d455428ddcd131f88ef226c4c4475"
+    },
+    {
+      "id": "a57a35c15a60c635ad06379da72407ab10f07e4b3b75e9a5a646d270951fbd0b",
+      "text": ", the action is blocked and the error message is fed back to Claude so it can adjust.",
+      "hash": "92fde174f29b874203bd2a2d61cd2748abddf72e371a70023e252b6e0ba46129"
+    },
+    {
+      "id": "321f671059552aae7bf12a63cbec0e639033377aedc6353ab284edf76290699f",
+      "text": "Here's the structure of a",
+      "hash": "d573f63f7a56c9e318f72ce6f8d9e7a503def41dfe0fbd3cb23f0cc7674c99c6"
+    },
+    {
+      "id": "d9268ca184617d9ade8cf0ed6dcc65a9e9875233b717f037a3bcfcd490b544c7",
+      "text": "hook that blocks a Bash command:",
+      "hash": "7f62c6ec3541954681e4f6f02eec63a4cc6fefc08e8a4613ab624e137069cb49"
+    },
+    {
+      "id": "be7e64d0baef4b999ddb7b1c0ade8dafd2100a39ffb9890183fdd06e5fad6950",
+      "text": "The hook script receives JSON on stdin with the tool name and arguments. It checks the command, and either exits",
+      "hash": "cfda417f27993b49e2546b6d71e4dc1aadf2af1c6d2689e3c3d9d575aad7ba48"
+    },
+    {
+      "id": "d2ecb060facb763058636b122824a91340813b0cd7f7dbefb8114f92f6ca0c78",
+      "text": "to allow it or exits",
+      "hash": "6554eb6548f132ceab1cd7950cb88843af6cb59b80833e042f3329a2fdbefeff"
+    },
+    {
+      "id": "31ac7ad7d11c8265f25f9f86d4105bf9ef490f8c7232038f0043196bc0948c10",
+      "text": "to block it:",
+      "hash": "c8b36a1c9a48d8498f5e579116827d94e3eaec556667e6c0a4abc106b8d24494"
+    },
+    {
+      "id": "d6aee043fbeaadd4d12cd11a79196bacab731a8ae19c7c94fb781cf4cf204064",
+      "text": "Claude sees the \"use pnpm instead of npm\" message and retries with the correct command. No instruction budget wasted, and the wrong command is impossible to run.",
+      "hash": "a2000fc651092ffd3629f4022a446489030231853344aed8451ff1d40bba0390"
+    },
+    {
+      "id": "a356937d8525d25e518ae07e7762b4d747c1f0d0d050ed659ca2d1a24d97a8ef",
+      "text": "You don't need to write these hooks by hand. Claude Code already knows how to create them. Here's a prompt you can paste directly into Claude Code that converts your",
+      "hash": "a7394cb3d3afbeec9dbca9231ec19a1194758deea52b975e1c216b3d4277daa2"
+    },
+    {
+      "id": "2affabbc472de25b38f2529319b1617204f1543e9ed8e8fa00a8e042c27de29d",
+      "text": "instructions into deterministic hooks:",
+      "hash": "77f1ff1f683e84ea2f1e516332bc7dd62d17c64d833166369301ae6478866ca9"
+    },
+    {
+      "id": "e9744ba89bd11d4cf7a5a56b3f197f85d4fb918aff032199057db81e5b618c44",
+      "text": "The prompt tells Claude to read your existing",
+      "hash": "981cb955b54c9534e5d39ed89a51eaa36809ca72a1174872e9eff129456c37e9"
+    },
+    {
+      "id": "5f34baee2de029e64c42c2f23937f93f8de160a60c3ad3b25dd4a72a8b999027",
+      "text": ", identify which instructions can be enforced deterministically, and convert them into",
+      "hash": "4a1e0a9d4c72facab2fe4b159bd9273fe8a8a48f0d820d0aeefbb9959ef8e2f2"
+    },
+    {
+      "id": "ae131b6bcc21cfe13ffef33f5bae431c3d2b92af123792b61b6c1dedf881d98e",
+      "text": "hook scripts. It asks for confirmation before creating anything, then walks you through testing.",
+      "hash": "81f614747ce0021827aba681d8f6e11bc53091422f0dce3edad95b145c5debfa"
+    },
+    {
+      "id": "d5bae9d79772c3f19e7562d2091ea25fd85b29ac1ae3ecac77dce8a609fc30b0",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "c0cebf2e0391f492e668cf8b1f5f16bbfd24782bf31fc68073df6ff6b72dc41e",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "8ac48302457d8367208c7053bcc51bcedfb92851eeb396d2866d08d52d080129",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "76cbeabaa652157cbe1924c1f843f56730be0d56d31c98d4d23dcd6b03559c09",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "67dbabf40f12fd53881331e5c092fc45e5b05c95372f1e214ecd905be34def28",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "e44c6703bd77debf8a0a171945d2b38a64b173e94b6554a8860c82f7919e99fe",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "b1929f5e67659e2bf0d84966cc2b3c339383a92899cea8f0659ff047eafb6244",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "2d67a653cad3de890176922666ff70c73cdaec965eaba9724c6202e75b8a2ae6",
+      "text": "Learn Anything With My /teach Skill",
+      "hash": "087e41020c045ab0508ad79621c0751b424f5d9af028b7d4f3dc64d9a8e0bd63"
+    },
+    {
+      "id": "f1486622dac89c3db29b4e41d6847843bd29fd43fccc0730013e32e22cdb63c0",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "9dded096778739b142696d199046695f267b7fe5870bad4820072dca81ae64ee",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "24ba6d6ec1f4486f3ed7a28ea92e9404c69ed2aa88f2a45d6ce8e2275b221417",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "ac55ecb073e949ca154f7781184e964d6e5e9d8367207c21660fc02deb5a449c",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "b8cde54f3e2f0cd6431aa1f7f0810ff7dfce5deec6e9ea08378afb6d767c7e34",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "9a3d74890958c9a0c9da20941cbc9774bc0bf814b1d05959b5d3892be7caa86f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "93492a75810e0e5be3be77c16a454103ba74dacf7121c6a8bbeec001e8e3842b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "c56daf81490b7222a6c665e0bfad4b72e4c6097c8742ba0879b25c9346537ee4",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "ee0a0a45148c26375a0d3c520b3124db529cd6957e2c8ae4ab93bb801e4f8246",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "17cc9c738dda9e1715b30e5ac71b9a574d06d972384697d6b75cffe2b95d04f4",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "2ec3fae8a2a07c99c0af21a006749ec427fd7f69ecf4daf11ba21fd6c6fe294d",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "06166cc00b1216e86924177bfe6775cc835b4855ad0515570ee01c9457c9697b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "f5be1971c22aa914a7b6872b4e918b203f997a18ade75bfeeea37250bb34f1ec",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "7317e33c0c353037908bdb60f3e4d1faffea085d9673641c1d45bffad612fdc5",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "378c60ea3886e7b60277e200494ffddf33247dbefb75ef564478b6cff06e676a",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "b3850794d5d2d42235f6e8243f2e7f56be87885ae812de09b0d90eb6b0a50bd0",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "eec7a1181912c88e311df38cac4aaa0c6573d9a9156dc71e95f5c24d8834ccf4",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "4ad7f024582ba7522b25fb18938bfb5b364263aafe84d4df1999f50b1ed40f2e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"10hm63jztqc6v7j\"",
+  "lastModified": null
+}

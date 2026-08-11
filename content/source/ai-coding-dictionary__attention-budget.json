@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/attention-budget",
+  "pathname": "/ai-coding-dictionary/attention-budget",
+  "fetchedAt": "2026-08-11T06:28:36.701Z",
+  "title": "Attention budget | AI Coding Dictionary",
+  "contentHash": "2bd53278f21ea7754725835d328656d83472d557689b1436f49c1ee4a9c11100",
+  "textHash": "291ea35b3fd87a3417ea95558fafd79613adc40637bd01150bb4628ce796327f",
+  "strings": [
+    {
+      "id": "ad016838bbb77a9be3117177f37f2c49b56f4eddce803104546b27d4165a2738",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "0de974b4ca539bb277268274567d731fa866aac45a3a5adc42b130af2edc1eb1",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "7c22f0eda7ca30cf954e20c6a599785a646b09b6c615f4f3237a4fafd9109554",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "1d2ea7bd9bdfa9950413eb9b9b2bd3b1ecfbcfd45281cca4f91954111856e8d3",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "e139156d9b1652164042784dd04b3cd1143a7fff1148cd2dc1dc558591370946",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "57f7aac1099f85d870c13e4ed12a126728a8057ebc571d5e32c40f770a124c39",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "53a174fa1986223831741323a917c22f9f1ddcf64fd916fb26d806207a17a5a9",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "1dcf42ca595c4900b0acf5c14bde977638f37bb38c4f49a63c2bbfef779ffab2",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "f5e985d6a2c6eee2fc92f5c31478006133cfb7027907e8246ca700b282bf7d7b",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "2cf14742b40a98344cc4a166b4f4465716e2dbb099733fea6c02aa25143b955a",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "3205a8da0380e387469bc6549fbdb9c95134201de70d0dce2c6ee0e5c6778557",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "cbc53a65aae0d1ed5145a3324e425be7fac2cf8957cb2fb18c955a0054ade589",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "155f6f3adbbefd16dde23c98990608f88cbcdad27fbf547d02582d3bb4f3223b",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "ba612bc2c3e1f77546a7298e7fac7d2d6321f39aab71f76ea5864a8881c24a24",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "97d8511c603c229f7367e3bcdc190d3402af7d59710f69f299ed05475fab1a09",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "ba3453ef4794e395a5c7295a61eb6d7c112262f9763663e0cfc9bb2d48dd62ca",
+      "text": "Attention budget",
+      "hash": "3050c3ed0aa7f513c8d6d6891433e8d97ad0fbe382486b1f5b52a1129c834ab1"
+    },
+    {
+      "id": "5dfb8a5ed69e316d854546ff7593ac242b66e3a5a9fe66c84b28326b1816f8f1",
+      "text": "Each token has a finite amount of influence to distribute across the rest of the context. Per-token, doesn't grow when context does.",
+      "hash": "062efecad3133d1776bbc810917fb38cc6128b3fd57eeeae7e63c8a00db57f99"
+    },
+    {
+      "id": "1d01b800213dc97b67f5c3ed989a7c5c0b00a1a038adb685d9d26bbe17b9c1c4",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "f03603968c68d47df846247da8fece6e67b2ffaea0188ea3ea9dc7cff9b4b5be",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "94bdfa5153ebe61154778205fdbdb102b13095a7f467dfdc260f39ebb2ec2432",
+      "text": "Each",
+      "hash": "a9531f64027967a038d348e7a9cd626d4938661f425667f88c1b7cc9d1b69b15"
+    },
+    {
+      "id": "e9ee6929cdd7b86fcc4bf67cc0d29134fb29f69a3976837c403d6d139556dbaf",
+      "text": "has a finite amount of influence to distribute across the rest of the",
+      "hash": "91836b849531c26b66088b10e495ef3546912190561f7aad34f5664c9d27b7e5"
+    },
+    {
+      "id": "7a6d65d9bbbc4d474394b39571c95e614f80bc517e4f81104c0c9ed55ad7f647",
+      "text": ". Heavy influence on",
+      "hash": "4ccceb30e3dedf33a09d2485b229870a61ddd416f96af40c206244117109f5c4"
+    },
+    {
+      "id": "ac4ffdc51a38d31453cbe9dab5917ccc7fdf8d58586e6baf144162cc6cbf9de2",
+      "text": "one relationship",
+      "hash": "35028263ab8a3b8e8e7114d191189aab53520eb09c182a6cca3cd45189b59b70"
+    },
+    {
+      "id": "be05d85994ee417a93474c2e252cdc7fcba462f5ca6d0cd946d4480a11a2d3af",
+      "text": "leaves less for others. The budget is per-token and doesn't grow when the context does, which is why long",
+      "hash": "031a22c2296de208b0cd99900bcc86951eb56e8269c276cae78362e38041c16e"
+    },
+    {
+      "id": "a239705036f44f16fa89110fcd18a0704d03e6b85a089b517bf9a0ce53774c30",
+      "text": "dilute.",
+      "hash": "63ac25442684eaa73bbaf7b74334462dfe0f7ad3464d9a68d9f8300c35d4672c"
+    },
+    {
+      "id": "98dc14e2308f3fafb823dc4557e12116351ec41a1f00d65cc610b1d32065bde9",
+      "text": "Think of it as signal and noise. Your instruction is a signal at fixed volume; every other token in the",
+      "hash": "6f5cb75cc99706eedb93241e32d13734d5335d48f8705e7ece3a7c95761a1520"
+    },
+    {
+      "id": "af15b09efd534fd20139e19e8478aa373645162887fa80d9134d648d89fd1113",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "d0ed500b1f326f6d82dea5f76d658b664398834cba3f6d99393b9eef8a6fdc91",
+      "text": "is competing sound. The instruction never gets quieter — it's still there, character for character — but as the context grows, the room gets louder around it, and the signal-to-noise ratio drops. An instruction that was the loudest thing at 10k tokens of context is background hum at 150k. This is the mechanism behind",
+      "hash": "cf6db3029bba9621259b86e3bd46cf16832ad53d32ac3c4ce88aad62793b0879"
+    },
+    {
+      "id": "c07c95d7d0797c1bfe6a770fcc957dc2ba2e92d1898de06877c3b2faf658379d",
+      "text": "attention degradation",
+      "hash": "79e5ddec1498a24115fe8cb565695632f5d9c71beafb43cd0a04d319ef44230f"
+    },
+    {
+      "id": "ba01230fe8cda39284cae4166442c075465e8847fa8a87ed1554f5196e876d43",
+      "text": ": the model doesn't forget; the signal gets lost in the noise.",
+      "hash": "05532d6236564bec21054b6a1b54838dee2d5c357334841f56883a41e5a467d9"
+    },
+    {
+      "id": "86a3de1cb1d929385f25af3c47a81a2fec94a0e6e3b2cf6cf72e80849d75dcd2",
+      "text": "The symptom reads as disobedience — the agent agreed to a constraint early on and then drifts from it, and re-pasting the constraint helps only briefly. The cause isn't the instruction; it's everything else in the window competing with it.",
+      "hash": "1cdd3dc40a5a978331b47071565b5255fb405dd87788249173d2a34971a2083e"
+    },
+    {
+      "id": "b893a6e98357677d495db49765fd6cd1811d9a8fc8d0cbb6273a9c43ed20479c",
+      "text": "What you can control is what goes into the context. Content that doesn't serve the task isn't neutral — it's noise over everything that does. Keep the window small,",
+      "hash": "0d3ee92e026bb3b0921318278bb4ad288a54448fe4756a733a2b7cefecb8f31c"
+    },
+    {
+      "id": "aba66755cf4faf6239f138d1d157ee43d3e6af7ab4e777d34294eda73ec73e0f",
+      "text": "when the accumulated context stops paying for itself, and restate the constraints that matter instead of trusting their early mention to hold.",
+      "hash": "1b55da0baac38f7a84a1bec7b87d37bb7496196ff1bf2ecd9cb8abe8b6182b3b"
+    },
+    {
+      "id": "88bde2d5cae36e529d5b3aa3b194cbd4b047bd51c93a1eed914aaa54d0ae9de8",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "521b70132a5792db14ee2fdb3b1e39030478a2246a509101617cc252a86577ec",
+      "text": "\"Why does it keep ignoring the schema I pasted at the top?\"",
+      "hash": "b8abe1483cbeeebd31e3246b3b3b70a1dcde6e8e916c254d7196988b4a082ced"
+    },
+    {
+      "id": "cc74ed218f65ebca783148f74c548a55560b91c1592f1dd2eb23691b609b295b",
+      "text": "\"We're well into the",
+      "hash": "4aacb8ff1e88d80d501f7c011de09cdad67c175b0e9560ba0edd77ee45fd733c"
+    },
+    {
+      "id": "5f7dc9f67d0e808748ee4f21053bb2d03fc4925d30d0cab565720ef7ddb2480a",
+      "text": "dumb zone",
+      "hash": "d1f4ef2612da4453aa6dc92c0023b63f3efd20345f0715a9e437d9a08a5dbb8d"
+    },
+    {
+      "id": "6872ed8ee44371f4d50660bedf4fd19201adf907b1968d667404badae4796531",
+      "text": "— every token's attention budget is fixed, but the context kept growing. The signal on the schema is now competing with thousands of newer tokens.\"",
+      "hash": "e681a01e37cab85fd84e551012bf7d6ae2f380f528006f80427f3310c08a02a8"
+    },
+    {
+      "id": "1f541b4c91a7c66fd19400c18ac5e63a8c9209e5dab1502da430465958c2595d",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "4a6908ff5569db50a20e6cb8c2f9c7b063c4a0fa2540ee234053feddb50b48eb",
+      "text": "Attention relationship",
+      "hash": "3326352af9343a5dd603549ddc399a87efaec24216defa5bbbf745688a6eb302"
+    },
+    {
+      "id": "4729251f2d9250dba234b3ec2485efdef5658aaabd90b4c3491a2cec4aa82b65",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "b8aeffb8ce3a314273763883d933ba09f26dc0b2778a7202c2074a6feff18c63",
+      "text": "Attention degradation",
+      "hash": "892a19ca52d75c31194b0b4d50bdbdc67fcce95b1420c662633dbdda562252f7"
+    },
+    {
+      "id": "b0bd905ea64e4b1ec6c60ad7de46acae6d0ca98a8ed24035f0114ec3772d178f",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "71156f3ed2e59cd0d32c086e14d25350f1566be4762e116c915e06109c874d16",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "08009a9b59aa3b8339f49113e4588789617fdb906540dadc38163da40e0a1556",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "bc7dfed9118edfc9ead5a09ff763caa5c72546c2df9cf070e62344f438c87d02",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "497777da8c18a3e6ec9dab9d620a8bbd0d6a4097eb6d8b3c07b39520963a1165",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "93dce12577156233ff2dcc198e45b4d9ce8a20dca9032c4219689a3e77c4188a",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "48d6224fbc00668696772bfeb42602fd91f98e30cf4a9c705470d7e3d94a83cc",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "213dc5f3aebadd572fd44ba69018a4d419e221accff40b94915ac923e406feaf",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "52fef62a9699c0aaaeb61715ac97bf5dc7fd1fd6e6bb12b18a9576da63e81fd4",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "29f9640822f40633f9235e7e969752a5caac0d9964add183eacf5f9aa4bdecdd",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "74f9f374f3e88cfff0ae523b4e23b59eaa488fa913e8a698121ce8721ff66679",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "6d3a78658b1b826de8160ea15ebff4e55129697a7bed1d38358e4b2ca875d290",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "b56357ab0a78c2ff8ba8fbbcb7bff1f9ce96d75c8959237fd1685f93940583ae",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "d8589821e677cff3aa3def238f5d5b783194503553dbbd80f0e2ae3844a99202",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "fbf2dddff9a8545370736d6e13e32910985191dfb52eced9a508f892785900f0",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "fdb2bf51e44de95e194f91932232b514bdbca2ea02bd5bc2d03d10d0d995e9c1",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f9166db3ff2b42c32c3c77b706c5761f48c8b3340316597f417ce3dc4272f061",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "c31e30563478a3aa575a5da8bc2da94e4ddea58d652b16e3692ceded009c42bc",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "0499ccdfedce5c7269e51b2f72e42ebb5f1f2d5f85ef1e4cf69133305b2801bf",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "7d235db64feb77ebecec6b4be8045af8d1950941cf9cc343e817cc98af681d1e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "d12e640de88786fd5fdbd02889f34b9263ca42af0db6c983dce80a4f11715b34",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "96c260dec916847c3cb45a69aa86e78903fa3d9203266cfd1bfe527072376b94",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "133b38e65e48a603f0e89dd35b9ac762641182b774c54c47bc3410a588cebbb4",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "db737d99c2862bf7ffbfc561eb30387ebaae8181291ba41c973284679f65d194",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "7fc133cf8a1cfd9b7e7901ffdefed5b4ca3aab5ca3b02ab435f2232124b40eb5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "04f5b3bdc74550c82990a42f22f6974ae011a04edfc059a65b5b7b9f413fdaed",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"oeitewdx264r9s\"",
+  "lastModified": null
+}

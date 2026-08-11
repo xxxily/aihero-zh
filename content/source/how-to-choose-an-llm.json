@@ -1,0 +1,803 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/how-to-choose-an-llm",
+  "pathname": "/how-to-choose-an-llm",
+  "fetchedAt": "2026-08-11T06:28:18.350Z",
+  "title": "5 Questions To Ask Before Choosing An LLM",
+  "contentHash": "4183f2613bec15daeef68d5e4801cde16c3f73cb07ced05f71d3bc877a55a83c",
+  "textHash": "b46b2d0f5569249f977b8b73b4486c36dc4d159f1e874d5856270779105f5381",
+  "strings": [
+    {
+      "id": "3fe6fc1a0e6cd1736f9f1e65f246570e121cecd70a67859f0532478c2556482e",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "965cddf708e62a3621459f668d0a7fda7050330f34a6975614e5f01bb06acb7a",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "38b360071657ca1b2343d76315e5b2878432ebb46011bd2527df5cedb6b43681",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "4804c84a03bc354e9ebe45ad7af7221b29e1f514c5b5bf520a51905377eac37a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "a59cf2984f731d155af7cc493e2d8256ca9a0fded89feed6e8395c70672a891b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "3d79b2a3ad9bac9c87002fed86c28c9d29054258567a112cd755c2e27aad2b6f",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "5fdbc3487f6fc0c71c4772cc7bcb7ae04c061a07c6b9ff3b6cd2b2980da64977",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "48fe65f5a6f44364dab43eb0f11d8c35e5ee5f8e36ce8f52b672140917f5b674",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "5b47595ff0287c71b08fcececab9741e49096a9e9962d3cb5919a0cfea344445",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "9ee1f36bc0f33c96fd40df42bbdb27a9e34c5fb59368f7df04238e5488f2c68e",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "b44b50386657ae729b1a5ebbce610d91c85c23ecf8db39549363a43208761ccf",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a7401957601d0f34cbde6ad51e40af9df0678634615fb46f63c33ae9d731e0af",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "c5c6e5c882aeab95c07160dd8e941d73e0e03470802534aa62987fbad8263c6d",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "de657c97b5b7a68358a3a62661b22ae94cdf069f2b3deb1bc019b09cd85f1006",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "16e529bedf363753ac7c1e9a5d4a7d55883e8d02b62de2244e6e388199627b18",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "0c70a3857c719bb32964878b9e4063aabb13b95cf997601a4ec5cfb4512d8e9b",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "6c6368ad68925b2f5cb533475480b38fc8254de10f0cb7bb3c9372677f4f29f5",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "96ff998f8fa035176eb612226e83d17ab73c54b021153ad0513fd705280629db",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "007a578580261f33feafb4a9cce6741bc4c2f290a38123e178de890231ddbd23",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "ed2403a5dca86cdfd712a032a6e6925f9014df0edc8de11688bfe9355b940411",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "5d6b105eea658ebe8d1856de226f78aec29025584ed98716bc37e19b86824f37",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "238e5884717a28f8f14fe0b116c917877b5bbbc2135b186dff968330291dc1a2",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "2e01cd399201509c3f0f34cc66362af79131fd5dabe9d4cec168d080042a9135",
+      "text": "04 / 07",
+      "hash": "7d169003abe32343627e5d150a4b05db09fb71bf6108e1c31c97b04e1083b670"
+    },
+    {
+      "id": "b388a1d29698083f99e2a644747071dd9a771c311ea54d4c0b6795bd60053edb",
+      "text": "The AI Engineer Roadmap · 7 min read",
+      "hash": "a0cea4f942008c0ef2afff3329786e30506d3badd92c14858bac164012552b0c"
+    },
+    {
+      "id": "adcb12c844d15c610f3e6962a814e75621228861d4398aa8f4e46ff3cef2fc75",
+      "text": "Discover the best way to choose the right LLM for your AI app. Learn about open vs closed models, cost, latency, and hosting options.",
+      "hash": "8310c5c45f15d1e6a78d96a1a6ae70d53216ddab07ce494db0bb800566992b7a"
+    },
+    {
+      "id": "721484188e0d9ac7dc9ae4f22452c3744d96eb8f153d3cbc2da14ff068c99987",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "1b3fe5140308b67af6b98d0ebcec5f3a0a7a5b9875bd07c7dad8c1f6001c914a",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "6a16a41f67d3d52b024b35aefcc9af8d36b2d769ad2d7fb5241c680612b34347",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "6616a191a59d22e754cf513c67f7468890c2cd3859c217b19a8a55cd93af0cbd",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "62762700955d19184a6974a2c1de4f9db689c5dec66470b22c8d7951d4649147",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "e2e026670945d90d6f78d2cf7682e23fcda89c15a94a30a410edcf6e443d4007",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "1c71b8667645b9834a26355ad22774148f5180f781a1fa1697c9f00205bc5f0e",
+      "text": "Should I Use An Open Or Closed Model?",
+      "hash": "fcd408878452d61d1bcae0d82f8edaa29f918293597d2ab7c4699eb884514f47"
+    },
+    {
+      "id": "b8a3e20d31982b2c3e62c6932c7af3dd0ff5f274be736550c914e1483c6d5b58",
+      "text": "How Much Will It Cost?",
+      "hash": "a3443b3a2e4962e01e008c06c65298a6661b7b1b6a96a3a0c9814dc8781421c6"
+    },
+    {
+      "id": "03665c7b61a9b3affc7b36549708b0a1eedc91ef49b85a2dda636631c98a2bad",
+      "text": "How Important Is Latency?",
+      "hash": "5c498d9072132bf963d293b71380b4ed467ac1f552e39e55706a9e8733f44ded"
+    },
+    {
+      "id": "fab9e3c5286472dcadf75030ed4d6664f866853c348d43eb1eb7ec38bfa603ad",
+      "text": "How Do I Assess Model Performance?",
+      "hash": "c3ec975ebf42e61416696d6b2f8bf27c5107237e8654c31880c913706a82eedf"
+    },
+    {
+      "id": "c13f838e9265a3010c2acd54957f6a4b2f8d7fa7998025196c489e937a269433",
+      "text": "How Big A Context Window Do I Need?",
+      "hash": "5d7aede51bdefeac0c947c7d2d2678f2161d21a7b051ca82782ab3ec5bd0bf5a"
+    },
+    {
+      "id": "097520df55475005a83b97df3adafe15b7869d5c6ac657bbf3b738a9267c6287",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "f84c39c528025cd90b093a1957838b24169108616717732a855dea44bd288caa",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "679f33fd429c62f0ecab4d956a73a664ddfe207499b7bad5b228ced1503a1fd4",
+      "text": "Choosing the right model is crucial to the success of your AI-powered app. But it's not an easy call.",
+      "hash": "16ee39586a6a12966a02c7f9109fddba150c1d611a95b6626a32781d069f7484"
+    },
+    {
+      "id": "f42cfd13835793261580d4a112884ae83879a74afa6e152655679ddefce4c94f",
+      "text": "It's a tough, many-layered decision that you don't only make once. You'll have to make it",
+      "hash": "b4543018b14e79c2213dfc3e706e25e00cb82478ef20c5a4eb4b0d2889079dc4"
+    },
+    {
+      "id": "f93a1b6616464995418c565e35fece166d0a99ef7d7a0e80094fd4ae8cd6f90e",
+      "text": "over and over again",
+      "hash": "ae6aca1141c2cdfdfe33aab116c31c21f8536c0c9d195e41111cf279e4214faa"
+    },
+    {
+      "id": "bc62fae4d90fb560cd135dec1ef76de8f75553d7db9b174408564303a4045940",
+      "text": "as new models emerge and your app evolves.",
+      "hash": "879a105a9bf0a0f644fc7ade5195fc648fdfbdfd16c97678753406a10ffe1561"
+    },
+    {
+      "id": "8bb883b48f9f1e51f10062291fdaa913efffd5669470f7c9d933e1c201fee98b",
+      "text": "I've split this decision down into several key questions you'll need to ask yourself when choosing a model.",
+      "hash": "e6600aa6f68f5e482391c9755963b278699c1e51a4baf3b08d9b88668f037878"
+    },
+    {
+      "id": "72c0fcf2f3f1940bcc5097d36c09c9a0ec56804b23793ec50877f748ebec0bc1",
+      "text": "1. Should I Use An Open Or Closed Model?",
+      "hash": "7bcd1bd4bfce3e782945cb8e5ff5c5752ca542a8ebb9fceb9ca473ba46062b53"
+    },
+    {
+      "id": "defa307af9320a770b26e5fee63098654dc5366bc9af3cf9d4ce84980b85ffe6",
+      "text": "There are two main types of models you'll need to choose from:",
+      "hash": "1291d9953181809958d2db9a044c1574036e21aacbb73c2e6820343a078cef6e"
+    },
+    {
+      "id": "b282caa765d292f648e019851320dc066498ac23221b4af09b268d9d8e47edce",
+      "text": "Open Models",
+      "hash": "48f19eda6304813bd1f7b78779c2802e7f0631f87386f6c66f4e96f724cea6da"
+    },
+    {
+      "id": "c4be872c0c54115a4ad386b8aea99c1ac4331be12d4eae978baa1b1fd2a6e009",
+      "text": "Open source models are models that are free to download and use. However, you'll need to host and run them yourself if you want to build an app with them.",
+      "hash": "0ebd4474041eb82962c10c11cb0a46d1ac3d6d2b339f23d45a19523817d0378a"
+    },
+    {
+      "id": "964360466b86c445e9182843a5222375a50cdfec3d824586d90b80cafff2f321",
+      "text": "Open models can be run on your own hardware, or on a cloud provider like AWS or Azure.",
+      "hash": "a5bb570a8fea3341a51223609ca79ab6d52264137a1e1c554ff7271d6cf00939"
+    },
+    {
+      "id": "d17bb59d7489c752aeea7fcbc23a243ce22525c3221f2b57b21f21cec25c48e2",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "5c909df5e9b975fe4a765c7b4c00d93854aae9b72604ba128ad0decd8b7f1894",
+      "text": "Open LLM Leaderboard",
+      "hash": "1db6b82b94f9e0587332b597b06ef897b6620165c93c18df9e9374ef71974615"
+    },
+    {
+      "id": "34a12b78eb2958b693151dabb042223a5c469832740707bf313f293d5064ec54",
+      "text": "is a great place to look for open models.",
+      "hash": "f8ed3d7318c8cd655f1c59396c075a4b62cd71cbaca691b2652bbcbce3e2af3c"
+    },
+    {
+      "id": "db5899e2cfdda32a9e1fa639f5e246225b2316b2f90a0cd382b5b45079308a61",
+      "text": "Closed Models",
+      "hash": "7c6aa7f11d7af4c34c9345bc590421e669a53d400c0580029bd5165417357c54"
+    },
+    {
+      "id": "de9b405063dfe62d2875da0e321527b88e17a0740674aa28c39d9ef9c141bd02",
+      "text": "Closed-source models are ones controlled by companies. You need to pay to use them, but they are hosted by the company, so you don't need to worry about running them yourself.",
+      "hash": "030140d34a76fd10e1af5a6a45c623b763b7551d06cf1e3cfe1fa0343d1038c5"
+    },
+    {
+      "id": "65e00651454614a61bfa4b799df9154088cefe62447bb48e1ca7bd100191f304",
+      "text": "The most powerful models in the world are currently closed-source. But open models are improving all the time.",
+      "hash": "7a4246cd1867509cf1d748b03c2e68da8ed6de8ba05ebbd9c8a91decc69dd79e"
+    },
+    {
+      "id": "9955c09e775b9f78af59d4f943889e27e4220cf3cf8a1ae3ddbb45dea725bf20",
+      "text": "Chatbot Arena",
+      "hash": "9356b49b96d8a2a40b2b903e87f3354edb7cc61f678c528ca8a833af0531dc35"
+    },
+    {
+      "id": "683b09f5da68436ba2bda5b62523df079c6d7887a9f1d8880635b52739bf85fb",
+      "text": "is a good place to compare closed-source against open-source models.",
+      "hash": "567d797cdbc6f3c55d037dd696daab195a156b89cd15a0ddc2a8ca59ffbdea6c"
+    },
+    {
+      "id": "d35f7d297574d52480b2f1f79f395bde7c87703414c79d85dbe2cd9beb1e8663",
+      "text": "Model Providers, API Providers, and Hosting Your Own Model",
+      "hash": "e760751d5f35ca10556e8d4c54f4bbb8ba765f5e71499f3d85a5aae47b345858"
+    },
+    {
+      "id": "41254aa33cc6629640f9d5e921aea61adebffa5125ac923ea17cd066cdc30ec5",
+      "text": "There are two types of companies who host models for you to use:",
+      "hash": "3529d77c3c6e734f8b1e34271f2eb91a55f480c226dee386f3b44348c95b0b0f"
+    },
+    {
+      "id": "c186469ee2ae4d4d38e6776d833741af179fe7dd61e6b21f6e5630c8bbf390d5",
+      "text": "Model providers",
+      "hash": "fbdc457db2188277572ebe37cb288af1d0737e4f61d7180a2c0de75c5ca9e428"
+    },
+    {
+      "id": "9c042ec9c25fee7ccc459ec5e1bbd44960e507983c7cf1ea64c10a8b9e0bd221",
+      "text": "use closed-source models. You pay to use their models, but they're hosted by the company. These include OpenAI, Google, Anthropic, Deepseek, and many more.",
+      "hash": "6cfb9a42e5c27a3dc75f79567333afbafb5a315e657e5f2053627f58d8f7818c"
+    },
+    {
+      "id": "61ca3f35dbe39cbed15865a9466f0580649dc7d106137b53635ded441f48f05d",
+      "text": "API providers",
+      "hash": "3c00859c5f265da0ff220eee119a573cb4b1d563fb1dca8c55e323409c444c90"
+    },
+    {
+      "id": "b342d3aa3075bfff671531b3122a07f83dd284bf0b738a020ee62efe723de6c7",
+      "text": "host open source models, and charge you a fee for using them. They include Hugging Face, Groq, and others.",
+      "hash": "0d682f14c35c3c7bee4e2aaa1a3d5d0eb311a5ecea786ce673a39b57e874743f"
+    },
+    {
+      "id": "55429b3a5ec761aeab91663a78b2b3b0778750fff9c30bf04a53e02b41855424",
+      "text": "You can also host your own model. This is the most flexible option, but also the most expensive. You'll need to pay for the hardware to run the model, and you'll be responsible for keeping it up and running.",
+      "hash": "7fda86ddf9989c2001090dac8d4a4da6798bb51dc79a637d79c2c89447dcd87d"
+    },
+    {
+      "id": "8a80e47c29f8bce445df67c4f07e70bede5e394e9fedbbf844a1820ba86ec9af",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "1ef18549f98e68249befdfd2d44abc9d29bb9cfdbef8866d9f2cff27a8f2bfcd",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "5c666fd779e37e691063450c7b52c4646f7e6c527315f260bbab44b30a11eabb",
+      "text": "2. How Much Will It Cost?",
+      "hash": "8c3c15613c8a3edd5af50f68a60bd419ed158cf57718c3d048160c7a05050183"
+    },
+    {
+      "id": "0be82e024cb2ef882e5a3b79ebf52ed4d61b3a995ae7b5d093e72dfc2b35b215",
+      "text": "The way you'll pay for your LLM usage changes depending on whether you're hosting your model or not.",
+      "hash": "8360bb2d3ba2afebf50800e1a30426ded17b196530484cea1b0242fe0320efa2"
+    },
+    {
+      "id": "587c499fa909a23c67cef737649d553d06a297c823e10e76421fc6f3a7688c5e",
+      "text": "Cost Per Token",
+      "hash": "08cb37ccc02c6be8c7daf2fd05dc99b6efddf62600f7cc46656b4d2651fc135a"
+    },
+    {
+      "id": "9ba3cc7214388ecf586b164e07edc78c3af087df561e389f5e25a86cff9baa6b",
+      "text": "Most model providers charge by token. The more tokens you use, the more you pay. The most common way this is expressed is \"cost per 1m tokens\".",
+      "hash": "ddaded1705d7a69a2f577e1dcb744a7acf14566d7207f98dc91174bf0b2e53a2"
+    },
+    {
+      "id": "804b45499ba4f8e28af9e7c06603e5911ea82ce3c7387695a6a886a05af9c1b3",
+      "text": "You don't just get charged for",
+      "hash": "4d7b6c23b65498760078642c518ce76e140c39b2f5d47f18d0a49807da1b5a1b"
+    },
+    {
+      "id": "1131b6b20e19a6d52ff446b27fd76feb806447cf2094993c8875853f106367ef",
+      "text": "input tokens",
+      "hash": "f0c1cb4cda1985a408b12908c01227b01065a8cdfc2a03e2106ca60275f27d16"
+    },
+    {
+      "id": "6096d679b3f27cfa70b7780668c71da7cf7a10417416e49e0da6021a7c5c0409",
+      "text": "(what you say to the model), but also for completion tokens (how the model replies).",
+      "hash": "8a5fab784cd7d6ff9c694e29d8dcc41ede2db1cbf8aee06288f21101648d8d3b"
+    },
+    {
+      "id": "98a5f9c11792ae55cc1a37ba4120cc55001dd6356543851b6460cdebb9082578",
+      "text": "This is a traditional 'pay per usage' model - just like serverless platforms charging you for compute time. Tokens are a decent metric for how much you're using the model.",
+      "hash": "024801fc91ff0443c1b55d2992ef3c4f3da52d687447a0167520d2b2df49b0bf"
+    },
+    {
+      "id": "96e071f5932e8114f48a79833a05a0db645bc853819ecc04880b5e6e7ffb1f23",
+      "text": "There is a worldwide race-to-the-bottom on token prices, as companies compete for market share. Price comparison websites like",
+      "hash": "982e6fe006f2f97ef1ae2cd92987e3c04e618c2a341011c6b25bfdec6780d750"
+    },
+    {
+      "id": "fd8d3eb775f62027c45c227327870bebed79df1593d3e77378951aa9fd5853a8",
+      "text": "Helicone's",
+      "hash": "afa8a010459088d88bdf3c673d58d13d9d35c15796680557b260176a0df33aac"
+    },
+    {
+      "id": "e9956068d2d803471e247ca35745905ab30e9b150177ce304b1130d5f3354aaf",
+      "text": "are useful for comparing prices.",
+      "hash": "7ed530f27708f080cda10a701beeea9b6c7e4a44b54ebcf5a359419aa7cfa730"
+    },
+    {
+      "id": "1e1742a2ab8499a974b3c4f22106f81c387a079d53df6644d5a8c6546ad09913",
+      "text": "Hosting Open-Source Models",
+      "hash": "9664e33ae60870a78d54ce6631942fab3f9cc62a6c3d311c19d283ba8d987ef4"
+    },
+    {
+      "id": "e64095fe94675d9a1e30529b27bb7f6e36009d6c2e1db1392c2e13fac12b32fc",
+      "text": "Hosting open-source models can be a more cost-effective option. Instead of paying per token, you now pay a fixed fee to host the model.",
+      "hash": "50093c66d2e5872b38b49efb9240955893ef8309361a962d06b8c17b72545ae8"
+    },
+    {
+      "id": "409e5473416ca903c7ff92a5862969887e060a6c2dd470f38c745b5262587b6b",
+      "text": "This also has the benefit of keeping you entirely in control of your own data. This can be important for data residency and privacy reasons.",
+      "hash": "5443f52961b4ef2a79e9b327dd72fabd7239e51bd7b825d31c2becff8bc4a6ba"
+    },
+    {
+      "id": "d3b9e92709fd42762861b3edf8298acfed1faeb99312239e4208115d62b9b16f",
+      "text": "However, models need to be hosted on powerful hardware, which can be expensive. You'll need to balance the cost of hosting the model with the cost of using a",
+      "hash": "9cad2c699c5795691da068e0ba8d5e868faf85dad1eed64ea2c7a1308d891508"
+    },
+    {
+      "id": "2861ef4da61abf5621891555ef79848cfcb8c38c50a4ef9ab63d37c44ad0620e",
+      "text": "model provider",
+      "hash": "246b63adac7f39ba5bb454147f02345525eb942a929d0640282e7d17d229e313"
+    },
+    {
+      "id": "1c29e19cff54622d31d9249f36c58083ce23883ccadbdea1ae474af2978a6f99",
+      "text": "My general suggestion is to start with third-party APIs. They give you the most flexibility and are reasonably cost-effective. Later, you can move to hosting your own models if you need to.",
+      "hash": "fa11af50f906f20141608143a7484d4c6f0eac17a1b24148dba7cf4b0e1f8131"
+    },
+    {
+      "id": "da7805cccb72c88eaecc4ce8932e774267d460ec836a529ed19c17b06348b919",
+      "text": "3. How Important Is Latency?",
+      "hash": "d164b4881174068a6d6b03b8946f91455ec0b216882376b4f4d2b8f2cfc7a150"
+    },
+    {
+      "id": "ca314a671fad4cb81de1a3b8c700924190417dc45773184cb49072a4ed5b0d90",
+      "text": "Another important feature to consider is",
+      "hash": "437dd0cecc1250745da310bea1a84fa0b98a9026db9fc87010ef7f294d7b2886"
+    },
+    {
+      "id": "23d1d625e80dbd91da669a0d1be55ed25e459f497d336764d54e0a7f22f31f1f",
+      "text": ". Latency is the approximate time it takes for the model to respond to a query. Fast responses can be crucial for many use cases, and can make your application more useful to users.",
+      "hash": "cd92638832140f3fae9512f24b621d0653fbc3cbf060bcee90b2c3ef1b03575c"
+    },
+    {
+      "id": "7b756424310b8ea6d603062c8ba5b40c7c9670dcf8e5176fcdd89c7dfe3d2923",
+      "text": "Latency is affected by the",
+      "hash": "157aeb03aa6b2ad05f86666b604b0c517fbccd8db41ec853149659d7133aac47"
+    },
+    {
+      "id": "44543c6ee0ff7829baf2c6a8b9f184b0beac1117ab406025a3bf2a3be3ab4560",
+      "text": "size of the model",
+      "hash": "43fb0b6a83642387e56480e20f2c86c8dd8394c344ce99251956edccddf57c6a"
+    },
+    {
+      "id": "f938f6367e49c84c5f31e950e025fe846c56fdba15a6f54b533d7f1b4fa985e1",
+      "text": "- smaller models are faster to run, but often less accurate.",
+      "hash": "6f7bf8e3d3dbd9392daf8747c7356d925f3f46a9c01683c214ffc4e1ccb6813b"
+    },
+    {
+      "id": "a6fd0a4e4259cae8126408d08b70d7885ab275e5c0b3ea1a84b366042d48acbc",
+      "text": "Latency is also affected by the",
+      "hash": "08b228e376a41e12417918f927e2f6c69d00ff8d481516736516c5b75dd3af10"
+    },
+    {
+      "id": "0ddad08145b475c107dde6dcc25da37a3da58c070bc81f52e6bcddf2c6943c3f",
+      "text": "the model is running on. More powerful hardware can run models faster.",
+      "hash": "6c957d951d7aa59add02618bb71d14d7064f78eeb1916060e0a5920229e35638"
+    },
+    {
+      "id": "2f63c2eaad8916ba42861e8cd2acd910114f033fd7da57973fd0e0d4e8be1ac8",
+      "text": "And finally, it's affected by any",
+      "hash": "ec5d5e291cf76ac88b2ef32df8648644c1a35f122ddd925ba9aee1b9ff5d102b"
+    },
+    {
+      "id": "ebfb8bacbd4f28d6c87fc2a2355b3c2dff5dddea547e47e9b54d253a95c07bad",
+      "text": "inference optimizations",
+      "hash": "2cbac4eb8b83e5ef8a6a579279b08650371478c138658d29576ed42845533f78"
+    },
+    {
+      "id": "c9435493bdd5cec9ae2c7bd470bd42a6504b3dbe5d901e842bc754cc144ddc79",
+      "text": "made to the model. This helps speed up the inference function of the model. They include quantization, distillation and parallelism - and are somewhat outside the bounds of this article.",
+      "hash": "f618fd3152313b38a22ee29593cc650ed408923c0083c6feaacc1f43a5232623"
+    },
+    {
+      "id": "7a211fc1f903f716e2fd2f7ba8b4ce8ba5af42e5b4be64ba18724f0086a449f3",
+      "text": "Measuring Latency",
+      "hash": "3e1790518f42944d540516bed8fcf3a551939f1cc40d5b8c78dcdf520e0f54fd"
+    },
+    {
+      "id": "ca4115e99cf75ed7c89f4e124f6f0d05ee9c597a3a5cbfc69e0ab5ed06c93493",
+      "text": "There are two main metrics to consider when measuring latency:",
+      "hash": "7c4d15ce1c5032e5a8b9671c13e623b532fcd96cd9ab8f8774d815522c1c40b0"
+    },
+    {
+      "id": "feb7642d56e28d1d2b2d58f76db41537e9db69e45552267cfd0b467b06824e5e",
+      "text": "TTFT: Time to first token",
+      "hash": "39094f961a2ba73d35b7c94c21e51a96b4b3ad6ad2e19bfb7c1f69f61faca19e"
+    },
+    {
+      "id": "3e638fdec1dab65f0e949f4711f825bd41dabe6c58e9f0901b3f20b8d6381d51",
+      "text": ": how long it takes for the model to start generating a response",
+      "hash": "fea122a275ab6b86e18e7f8004f429e3b7ba84c166a2921004b1731ce5b06435"
+    },
+    {
+      "id": "1041c82baabb07d15423ff0f925c86175e6b6e0b25586a74420ed172fffaae79",
+      "text": "TPOT: Time per output token",
+      "hash": "740e6c476c0fbab6c1767832b26365e5fb50dbed80c74f7d4a687163b4e75592"
+    },
+    {
+      "id": "711c1d3b9bc1102adbc71b2c8fdab31516e71766e923c4252a1f4df042224f85",
+      "text": ": how long it takes for the model to generate each token",
+      "hash": "bea3346ec5cab1172b6b4a44c4a3f791ffd7d1d5bd781fa741a23db3bb5e5101"
+    },
+    {
+      "id": "bdb1777ebe204d366d815f75e7ad6cbc1a235360fdf588c4dc98acadba057dc4",
+      "text": "4. How Do I Assess Model Performance?",
+      "hash": "ff949f11b1c7ec644d0c1c2c29cc95d4a85e064523630d6b511f2a512cb26410"
+    },
+    {
+      "id": "1ad83cc8c6952c1af8ec096fdd4167ca9edcc6164430edc785d716bb821910f5",
+      "text": "Cost and latency are important, but a model is useless if it cannot perform the task required.",
+      "hash": "8a3f348aaa060dbe44e1757e2167935d59083fd2cc75debccbe2e87082736683"
+    },
+    {
+      "id": "057c0eda2a26c74697b05c22fdb6270c6ae9ea904d61129b5918b3ced87f9465",
+      "text": "As a general rule, smaller models will perform worse. A smaller model will have fewer parameters - and so a smaller space in which to store information.",
+      "hash": "ac11ad7fd5ffae763e504c1fba1a5804e8f2e818af906e50e646b08f6b837123"
+    },
+    {
+      "id": "a863ea5d07ca5a6eecaa338659ae4bf1cb39eed248a843456a03222d962c06d7",
+      "text": "Public Benchmarks",
+      "hash": "84843575c58b3c9f508a400376011750e32cc0d9a9d312504b52f093f0f3cf64"
+    },
+    {
+      "id": "4faed4a3f24dacd67db4cd547b777f058cebe6db134085e180cf9fc58f79bc38",
+      "text": "The performance of a model is an extremely slippery metric. It's extremely difficult to look at two models and say which one is better.",
+      "hash": "63eaefb15682f0bbc5733e9b35bb8e790bf4697408f0b59a92f8a544bd219852"
+    },
+    {
+      "id": "ca23916b191778e804ba0beea0f51c74a4fdd0bf778e993fbfa438628b703532",
+      "text": "A common approach that model providers (and open-source projects) take is to use benchmarks. These are standardized tests that measure the performance of a model on a specific task. These benchmarks can grade the model at certain tasks, such as translation, summarization, question-answering, or coding.",
+      "hash": "1e44889b944d1cf041fb1f68b11367fff035faeb1e23289bdd5d9c02a08d7d75"
+    },
+    {
+      "id": "dee2d02873684485fc7282cf936940834ec657a44f6f4eaaf700c6bebf6cf85f",
+      "text": "Benchmarks are a decent early indicator for a model's performance. However, there is a constant danger of model providers overfitting their models to these benchmarks. This can either happen by the model accidentally consuming the benchmark data during pre-training, or organizational pressure to improve benchmark scores.",
+      "hash": "98e06a0d8f7a26c133fba22ec1fa80f98dacddd46bb8edbd8e302f017eb2b484"
+    },
+    {
+      "id": "5e6471eb5a45daa1b5db0d7bebf6bc3bd576a31eda696f11016f8a4282a42fa2",
+      "text": "In some benchmarks, models are compared against each other - with humans grading which model produces the better output.",
+      "hash": "a69ece2da403b18ee1b9e71bc76644ac5932e318716664dbb7b86fd575697e42"
+    },
+    {
+      "id": "3006ac39cb91270b00e292cfb8933e49665b6dea15ad564473c509fc04e1b7a2",
+      "text": "is a good example of this - and worth checking out for an early indicator of model performance.",
+      "hash": "b8ffa3d1d88baf18462de841217addd032af26d8936d3546c5f6d095ba8bd4f4"
+    },
+    {
+      "id": "075e12bfd63db5ed033e8acd316c8cea9d96cb871c92bac58591a9b38ba79ea2",
+      "text": "Specialized Models",
+      "hash": "326bfb316bfbb17741e9ce337194152d259c00ea720fe101092e0e8cc796c1a2"
+    },
+    {
+      "id": "a9604aa6e0448ab1bd14dbdd61a713c55afb4630c0611a6da858d8fca3f3535e",
+      "text": "Some models will perform better at certain tasks. This often depends on the model's training data - if it has been trained on large amounts of code examples, it will be better at coding tasks. The same is true for many disciplines: translation, classification, summarization, etc.",
+      "hash": "492d0045de97a95530b499aad3a2b490cad108d0bc7e52a87183248f4d6d12e9"
+    },
+    {
+      "id": "593812a69c0f14c0c9384950e2e22be15f3fce2d356d00e1643d10e6dcd12508",
+      "text": "If you have a specialized task, it's worth looking for models which are specialized for that task. These models will usually outperform general-purpose models. They are also often smaller - so, faster and more efficient.",
+      "hash": "d0e1a3489ccd7ce00cd8ab775655675acf080316386dd3976de789e5fcd5f9d2"
+    },
+    {
+      "id": "833ea6206a4ef70d4bff8ed5ac1bb49a80636aab9305e01075c46af8de84d753",
+      "text": "Reasoning Models",
+      "hash": "fc69905e085e7bee10c76c1d71248670efdad6fb4f28b6083efdcd04d84db385"
+    },
+    {
+      "id": "d9f46e072e4d20f16e8036c21ea2904a8fe1dcaee3fc230ab44f7a6ed7382dd6",
+      "text": "Some models have been specifically designed to pause before providing a response. These are the",
+      "hash": "2d986d56c49d8ff4e028ab3951b8fce7e993256d83e5aca4d9faadc5a686b46a"
+    },
+    {
+      "id": "2746963e0e6e788c5fb2a59ef3289046a9f5bee0e3a80a5ffe65325ad1bf82ac",
+      "text": "class of models, a trend initiated by OpenAI's o1.",
+      "hash": "860f30002259d4227ec0da38df129dee946ae5e3fef898528c34048b99b1d3de"
+    },
+    {
+      "id": "255e3fba75870d888c14cc13646fa35aa9b54fcfd472c3ce7281a3c407ecac3c",
+      "text": "These models often perform better at tasks requiring forward planning and critical thinking, like coding and math problems. They also output their planning process with reasoning tokens, which can be useful to stream to the user in real-time.",
+      "hash": "12b2a54b67141085461ea8d0dc23c6b9cec38e0cfdaa1a05bdf3ae9cbfa172c0"
+    },
+    {
+      "id": "a554d2fe4b11a8099dae1633057e454c36a30e2be761185cfa037e84bb0a6cf3",
+      "text": "However, they are often more expensive than regular models, and take longer to respond. It's a performance/latency tradeoff.",
+      "hash": "a24d34726c6cf0680f3fc4d2e9c4d2ae8a25298faeedfa3b2513b00649c810a5"
+    },
+    {
+      "id": "6f2b4d5ee8c7015303db602cbfb0b129763693c269749e48de708722e6460c41",
+      "text": "Evals",
+      "hash": "fff553f218c706a60a576218f987e844b20dc46585a30badca578d0ed42fd80b"
+    },
+    {
+      "id": "59407fd1cee8d1aa0d4fcb13bd2289c01cd926ad7385f87ebed9a68fc0afc65d",
+      "text": "The only way a model can truly be evaluated is by testing it in the context of your application. This is why building evals for your system is so crucial.",
+      "hash": "469df2969a7daac19719b86065c687a456157e5d2fb3b7cd313c94ffe549e63c"
+    },
+    {
+      "id": "b2f062bb0a89df6871a594474900f64f18cc6b23bd8c867a9891dd38ac89a6cd",
+      "text": "are a set of benchmarks you run on your own system. They let you see whether your system is improving or degrading over time. We'll cover them in more depth later.",
+      "hash": "24bea71298d25114b5c1e95aac9a9093efd02f810098f17f9cfca5fff0cf03b9"
+    },
+    {
+      "id": "e082baf5f8abed1cbb51404c477e4f75b6135091ff411c150cfaefe460719518",
+      "text": "5. How Big A Context Window Do I Need?",
+      "hash": "2a43c5c967e319338d3c6d7c1b86c874c40f33a43420b681e9f3707c8fced9b4"
+    },
+    {
+      "id": "8a7a5b4299206739caa1cfbbf1cd142fcbc705e5bb30cd88b4b5b9bf6969662d",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "07094838676089f24d2161f65db07fa90060b365b3fac195cd571eeccf8c6f51",
+      "text": "is the number of tokens the model can see at a time. The larger the context window, the more information the model can use to generate its next word.",
+      "hash": "b7b3bb1b8aea82515f5bb07af644b4ad99b1e5573ea4f29bdfcd09512b7c743e"
+    },
+    {
+      "id": "679c6aad542df9359cb22378a3e5542848c3e54672c3cbdd19d2dddf5d1cedba",
+      "text": "This limit is counted in tokens, and counts both input and completion tokens. Passing too long an input to a model (or forcing it to generate too long a response) can cause an API error, or prevent it from generating a response.",
+      "hash": "56690ef6da38d10d3104a9681cc8409b1e6e55ee3003ef147ba2c08874bd1762"
+    },
+    {
+      "id": "9fd4eab1971422c8391dc8614868246f2cc9f25563f415a747444a28a7ec9cc9",
+      "text": "The context window size is related to the mechanism the model uses to generate text - so is tied to the design of the model itself. Context window sizes are growing all the time. Currently, Gemini models have the largest context windows.",
+      "hash": "90e66408d9b699d8378c60691a13bc88b2ec5ea5c269aa38323efc8ee69805ae"
+    },
+    {
+      "id": "ed61b86b4cb034f314d0eca802febdaefa317c616edb15b214e2f1b46463c919",
+      "text": "Since the context window is limited on all models, managing it is a constant battle for AI engineers. Patterns like chunking in RAG are designed to squeeze more information into the context window.",
+      "hash": "181ca62b9307fa769f156866605175ddd9c1a52fbaf6021ebef8c9b2f14afe25"
+    },
+    {
+      "id": "ecb590a477b155286b46f4041bb5b1f763b51a5eea3c2abb4988f66332bda051",
+      "text": "These five factors are important for choosing your model:",
+      "hash": "5a3a503af7a8877ca3797d3d78c2d1d3e01d2e6af020d9707f106ad214a89f66"
+    },
+    {
+      "id": "b2159538057de99257506df46f8e0870920b3c5a7068b2be9fb5f206a040e2b8",
+      "text": "Open or Closed",
+      "hash": "679fa57cc1d0b6861bbdccb0c1601a270e586603677cebd7093e57ccdba8192d"
+    },
+    {
+      "id": "b8c80f3b8d46431db1c3d2add3fb5ab473ad3798d749be5b5638bb89b33987c6",
+      "text": "Cost",
+      "hash": "204a5eb2cd28bcfdf3be9f8c765948e9e831609e3c57048cdbd6b8a94cf49126"
+    },
+    {
+      "id": "6375021da4aff99ff0db34aa699c07c8e5b4ac33d1d1002dce500cdf4dd9a223",
+      "text": "Latency",
+      "hash": "e0e7d293043c8cf606a531a927363d5bc80aee9f4da6eaeaecc3787e6ed9eebe"
+    },
+    {
+      "id": "81191ff2536137a282e6246b18bc6e2d0828019c69f8f5f057589dbed3b77cdc",
+      "text": "Performance",
+      "hash": "442aded87a55aa8c8f7d5ff0c30228150d4b1cb8756e4be138d615ca4708fc26"
+    },
+    {
+      "id": "33aeab5276d6c6dce1c5bc6fd85135440cb35ac871847128f05df22f64ad1e9e",
+      "text": "Context Window",
+      "hash": "3cb25e88bb2f00fa14f564e4914f2108c01f076ba9a998e76ed2abb467b13f11"
+    },
+    {
+      "id": "d2f2f4312cf0a8e243e7166e82ce65d0a0621bf74814429be47058e0d0dca77a",
+      "text": "Leaderboards and benchmarks are a good place to start. However, the only way to truly assess a model's suitability is to test it in your application via experimentation with your own evals.",
+      "hash": "5a095ba1c36a62116d37e68ecf318b614422e9c57f0d53825825a92d640a6da8"
+    },
+    {
+      "id": "8ac879d35cd031dae01927cd15c34f40f749204239078fa9c2f81709d627aa80",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "307c062860ff615e0803f95b16b69a2616d1468baaa4e3e7a43110e7693da5d2",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "9a9bf45758e30fd2c5eeebf1b4eb1d32cb397836f1d9570852f78ea5907bed88",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "ffe1e4dda5008c6bad05d16a2573be2c2b7bafa67a185e3f9beb298f40bca8c0",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "2e23331dc84d885219763d3311290bc9d3090b90b59ce80fcf54e43fd447cd6a",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "29e04c583872e459255310def3fff9f8f1eec33592a7e8c0004340d6230956da",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "bc42eed67339b1f625613afb8daaec82d6ad75cbbabbc2740f52f401d860229f",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "1cce2f4ae58ab539039700b185e2e407dace5dd1a8cdb54b3a4c51f347ca8ad7",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "4817721dc8dd8ea3d08fb20cb0ddc1b6d7eaa09cbeac981177a8d28bb981eaa5",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "195f5b454c817e31066d2c23436871c75290b51b5d574d281fce68da23603f5b",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "760c9088a3cc727e280fb3efb986730af2b0cc8adf1cfb33c67d1fb1fd27aa60",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "01dbb60e0c490624cd94b4ffdc27f9607e534202a4c4e4c772e8757651dd0f07",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "823a8682a202e79d6b929991be31928bc7ee1ef74e28a420ff68fe1d046a1440",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "64da7bcad1f9116561352848845e61d269184b8e26399027170560b6f14e8499",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "f1792c722cc69aff5e522c63ff308dff2f80dc90dca090f55baa52f376a188a5",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "a1a4dddbc6e148ccd6a93eceed12c7012eb1a5742eaa348543de865bf4e3a2ac",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "2462e200aa59b0b7218bd22c05bfff0d0cff092739ff10e87d361427e5904de2",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "d04da9c507af8677231e79e7552f5b9034282ae46d954628a7d37810f65c0714",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "29e900f1786f98c027b7b6859fc98219414dd51c2e2dd582d25c3adf20d3d283",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "aa925121120132bd036eb5f7105a69cff66f3cf4a9d5ec9a2977c53522e8bdd5",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "4819fb17459f055ce977a38add6ca2f2128e2feb6a16a5efb89c3059ff909108",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "dc803971743d598c7f31a9fbea5970a905b986534c8a3e37f9cf0267a4bfc209",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "ad771f46ba70bb9dfce672173b6dd31c5d563eb4d33d0611ad4e2b47cdca7e94",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "bc7e1bed5ae8b0c279eec51840bc605d87f51a95d738ca635c56a0a51751bc41",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "f971c22b5c00f979a1f225a225d0c525e343b90f71fda9e347e0d66ddd5b358b",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "29b8562a0e9b894ca982299130d3983c4219b0dec8ee7424c1174b3dc0c70cdf",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"q9wohjwe9u5vgt\"",
+  "lastModified": null
+}

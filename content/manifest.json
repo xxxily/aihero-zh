@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "origin": "https://www.aihero.dev",
+  "routes": {
+    "/": { "scope": "首页人工审校译文", "status": "active" },
+    "/skills": { "scope": "Skills 社区译文覆盖", "status": "active" },
+    "/skills-*": { "scope": "Skills 详情页社区译文覆盖", "status": "active" }
+  },
+  "vendor": {
+    "name": "cfy2015/aihero-skills-zh",
+    "license": "MIT",
+    "source": "https://github.com/cfy2015/aihero-skills-zh"
+  }
+}

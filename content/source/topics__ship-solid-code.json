@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/topics/ship-solid-code",
+  "pathname": "/topics/ship-solid-code",
+  "fetchedAt": "2026-08-11T06:28:46.578Z",
+  "title": "Ship Solid Code | AI Hero",
+  "contentHash": "9b7bef88eb0a2bd64bbbd82f0665ad090e7cd82e62e87ebbe79c17834f29d1b7",
+  "textHash": "ecb2f7565ab19734209e74851939dfbeb9d0b651aac37babc544f4851cd576a1",
+  "strings": [
+    {
+      "id": "2afd295e864b70b48b1172af17d981beaf0a8c4bc9c36eb6598361eb46e54423",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "8e3e3a9cac982a24ad10ef367a102ff289b4d070b92b50e3bc52797902c1a75c",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "fbc618a237fe2e107f6fbbad817ea9da3b2a987538e30791a35d00827abafb34",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0fcc98d963696850f49ea5322eff5ebb0bbfaa1c2dfc40a74b1654eb15a9d51d",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "4040d845315052f275baebb766154c2f7e7dc6eff0ca1f7dda52311e89736f45",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "d601c10781d83a5dd96919275ced8199ef841b7876eaf4f5639eb24f0953e569",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "9f5e327e842edaf9f867e543e3bb29ce285733f189cd89def36de7a107d90144",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "58688774b85b97957d1d56b5a72f86eff639a390e89285ab073679e7d3e3e37f",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "64fec8232dfffd282effd628c7b97376311a825c6ee015739a6716623a559c69",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "e2a13959ae96ddf2cc001b8bcbf89439be5a458b09c7c8ccbdc811e99444d916",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "0589bc51d8b1afd496e994c83c0c8a32fecd3d404f900a7b48019236e7b79e60",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "9e6e9d950ee38ec1ffa040cb9547824e6cbfed37c7575e1571c5b2ac5d0fbb7c",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "630c7293d4fe6e76c59b034bd04b315b9f87f01bad8809439a8250956eeaba52",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "87da01ac7b953258ed3d20c44f6bd7cc239bd0b4320a322e18e308fd3616c3af",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "c971d02ca3ffa2fb21ebf7b81bf2c604eb1ce916330998b13073b602165e9ca3",
+      "text": "Topic",
+      "hash": "7e61847d61d65d9e3ac15c6281f7bfe0d80b8d79d3b53125e9fc2bfc25bb81e8"
+    },
+    {
+      "id": "577dfad003e21a9e6871ab7fbde1d3de33c264c5d85c4d31632ba6bdcf510863",
+      "text": "Ship Solid Code",
+      "hash": "8ed3c25507fabf4ea1fbc7bb4830ff9aca0ca0086c89f048cbfa7acd285be7f0"
+    },
+    {
+      "id": "4da28616f01f3034f6310c2221bc41090c960c07a24081ddf5ec3e8c60b042cb",
+      "text": "Article · 3 min read",
+      "hash": "9a559e56b103401e5a162120da917171aa78913e233fb28169988580696ea61b"
+    },
+    {
+      "id": "1427c36bd569900aec466e7a7cf22a94437b2b56a8987891ddb005c3bbb314a8",
+      "text": "The /improve-codebase-architecture Skill",
+      "hash": "1d2feca177f8d2a2229e95a3f013777630bd379b24ca132a89d1c87623d2d722"
+    },
+    {
+      "id": "143ce492858e85f94a3d023631fc1acc19c7231957d4f0096f83bde1c8f2036f",
+      "text": "Find the modules worth refactoring, as a visual report.",
+      "hash": "e68f7f37b834194faceb91a5decd54e183228e21ce907c7fc6f4f1957d2b0885"
+    },
+    {
+      "id": "9e74e9446841bb41ea54ad9019130250d085d063f2c7ba02dfe599fcf015304b",
+      "text": "Article · 8 min read",
+      "hash": "7ed659a57e73c0b79d355e027243422ade398c8a5c07027fc4d37d8357ff6dec"
+    },
+    {
+      "id": "76be9aa27cfa8fd84619269162c35fcb16206316f6db76e15a3251a10b9e8a70",
+      "text": "The /tdd Skill",
+      "hash": "c37d71d36e49748d5850616b6cddf4ce32b9eb909f487b9e1b5fcddc163ac66e"
+    },
+    {
+      "id": "3218e7f05918a796a57f506b9da7698dabc4fdf13b1d18d3ecdab7f80dca9d06",
+      "text": "The rules of the red-green-refactor loop.",
+      "hash": "e330493b0b0172bcafe6be11a239cd9bef43b052271271314ef0e35d8585af60"
+    },
+    {
+      "id": "1f9bfd603ea8c66e9e0a2db1ceb0699508aa9969f7eb791be4c718f47160efbe",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "501f440798b19626ea16ae4b8548061dec5586b70a6167569daf56e222c146b5",
+      "text": "My Skill Makes Claude Code GREAT At TDD",
+      "hash": "11975d24aa6419408b2c63b9b0a6903e90fc4f990cb95c7ed247b915710b27e9"
+    },
+    {
+      "id": "d32f4b108e6551a8550fbe4629b715ad70ec13d39e8f499b3eb7346db224097a",
+      "text": "Here's my TDD skill for getting Claude to write honest tests and real implementations using red-green-refactor and vertical slicing.",
+      "hash": "a264d00a69ad9f018bddbef38cb47a383a25062a4a5b26f70cd8a3169106902b"
+    },
+    {
+      "id": "f6977181d2b2b3a8bf1afd93b3eeaa0f6909ff0f2044f004fdfb0fad412bf92e",
+      "text": "Article",
+      "hash": "29d94922512b93e8d81ffb4c721e52afd32e80d952ebe753ea2b739159219dab"
+    },
+    {
+      "id": "e85c79668a049f4720e01e5254933f9d2760773c3fd8c668407fd5ea244446ca",
+      "text": "Tracer Bullets: Keeping AI Slop Under Control",
+      "hash": "101bb0727324d9d69bceb21e311f6c1a249476cd67d543aa61741f8dea277187"
+    },
+    {
+      "id": "b2e3282a2a41c9d8be4fb7272669b01cb30a8f0f49a4c0fbe57b62eb87566172",
+      "text": "Learn how tracer bullets can help you control AI code quality by building small, end-to-end features and getting feedback early instead of bloated solutions.",
+      "hash": "d6461f405d60c3273eb973e4474d7a7016d89fe1c5f7409e70a7765dc87d1d1b"
+    },
+    {
+      "id": "7e30d85d06f03648c5009cf2d073fe268ed31f9f86c0b0d5bb11e4b4c3304eb0",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d5da0aadedb09a637d6d5185fbf1775fb3189ccc7d73e5905b26b09b1577f558",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "301b9736835dd1b87305411d730a10afc5af6fd717ef6b804ffe5399608d9057",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "66bead4f7b0db8bb7ebaa8405fd567927067419712a913e6137214ea7afada11",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "5780e996180ec6c9b139181db714a47bf7f0a37fe1a39ed5901f45913b245b46",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "1f949c2fad402ff066308bcfc3e3c1b3ab6c6ed104ef49213a388dd87b793918",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "bb8c818994d26faf11c2afb6a287793a6934cdb228b15ef080d40f22f57700bc",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "374aea3c71ae308cba8d3f0fdd83eb51c2594aae8e099492d3bdd4e8d3756417",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7f60721310a7e06866d9f1ed211426d58fc82f335964539931e352cb19ba6c74",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "44539885c7087da7984b3002178e34f3382aff4fc86ed125dcc3ef441974278c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "cafc9b0b30203dc108345fb0731208f06f8b09850eb5901c92fa4759bddf5a5e",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "6148feed3ee76dcbaa14ffe2ada9abaa8fd4506736cc351cbf03e0ab4324433e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "c1aac8c16db491c4637909a5da102137fd8d2f4218c00e0f0202a9c8cd624e0f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "61f8e297ee4c0d496a8851ad35524749b996b8c49c79496f6553abf93058d219",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "328c5583437560edb6d5e4852c1d2e0ecc97d6d96923d9ad826f06fdcdba5dfb",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "d370ac4d459d3d8a90b1ee0867298be844b6d5ff53b385c0d0f3621962621859",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "cfa471a4bc6f93fb643679bcb846f10df51334112f394afdda61552b6e10c201",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "c0508bf49af0b68566afcf1bcb8cf822894391ecbf394fb00c63e420ef6f2c66",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"2ttylfjy6642qd\"",
+  "lastModified": null
+}

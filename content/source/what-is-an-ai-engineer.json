@@ -1,0 +1,688 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/what-is-an-ai-engineer",
+  "pathname": "/what-is-an-ai-engineer",
+  "fetchedAt": "2026-08-11T06:28:18.084Z",
+  "title": "What Is An AI Engineer?",
+  "contentHash": "f7728bda32bd79d8ebe80e796c821dcdb1434e329f71478abb01a71facdd8807",
+  "textHash": "7e048de09ccb485273d0020a604f686d170fcce22285d7c3b0ec1fbf71c7f17a",
+  "strings": [
+    {
+      "id": "14e1b6f29eb6edd15dd2b5ec544a01a5b9d1441aea83c50fe0b34344b155ed47",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "c8f645f3879f1e57d5917cb8057c3438bf956ce6f6270b3c7c07e21038587872",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "4644ab21cf6b480938c67a3d07a4d91e3595b453c89b9421c5c352d4f2bba63d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "248593c71532b69e564029f32ff16d7bc49b8dfeb5f224baef27dec0c2a4a78b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "2ac45fe189bcfc4759dd720c5dfd2ff9a008537c3e4c84269eb5bcccf696482b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "50a6bab9f2a6a4c64730fc3ea5e5369f620e50a0abdfcc44e625e23a085fc1f3",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "4218086cd8d06d8ef88865fe44a2a545a446429e13f6237060ce382c9910124e",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "f9c61adb422321438d29e20edd3bf1e4431c46a211ddfe516e887ff279134098",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "e17fd1b14529dc06f3269f922f52c8d5c1e570e568605d51aee02a66d71dba9a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "3cbfb61853493b6628b6c717d43f33aedd5abff17fb1e7c70830a16c338be542",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "8c80c4440107689406f946f4fbbfd4f89671e594780052a56af265fc72015783",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "cc0316ca4c5ee6dfc50012db62e31567707bfac86bbceac9a6b3bab7d6921d31",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "7ebf82aa1a3569c5208edf8a17e142874bc7e7c0353b70752f1f0fbb616c08ea",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "30eb053b8ce835ffc92d5943587e6e36f5274f44b8b9646e1f56398d8778c397",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "2d461f09e7178b4f8771dbab46e1184715de5ee56da45e3ae83e39be222109d2",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "36cf55158a98961547412598ea6a873203ea9364b7341d5a744a8e61cbd3dfd9",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "8e2bfa197c1bc2be7c4f5c7b8d4b4ff825418fd801799110b1e59da6ae38d758",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "1172a01eb8546237c1de71f47f6e3df45ba16bec6884547e8398a43c17f7a20a",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "1b4e610992cce879a6527e2c3f7f0fd5b11781c57422c4a92c7d511da05351f4",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "320359cfed3453260afb0bedd07408fef52d256fab37b200429f7993b6f5c47d",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "c02ad6a14ba1c5a602c1d14882eb7338a1e309c555ad7af4bf9bc3b85b8239da",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "9caf46952f98eb97cbb7c69c6ec8e3c93f5856b0e7547cc8044c9fff4aac34a7",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "034e451114dba95b6a065fe2855365340cb83bf7a5b01b6a4587e258d6762089",
+      "text": "01 / 07",
+      "hash": "8e0516d4b7239f5a7e219e8e5fb27b26ffbceaf3bc87a2c0fd3397be85307474"
+    },
+    {
+      "id": "ecd7bff9404ac42d457e6d9a81abafdb1f2da7e83e937566a380fc5c4a479286",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3c2d25dc217b63c8fefe4189410e7df2dd3119ec7d336145422afa1912974ce4",
+      "text": "Explore the role of an AI Engineer, learn the key skills needed, and discover how it differs from ML Engineering and AI-assisted Development.",
+      "hash": "f369d2a8d00b8817f21389fa642c2f31fa6db4cc06186279387064bd95d62072"
+    },
+    {
+      "id": "abf4cc5f03183ba9a7e2baff529d62c73bae0fd6d90007c32b9d8c58ca3ee8ff",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "da1618e4c8f8a37e86902bbb26f912e6f8d21e563c7ad82ad313ffe43db82388",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "fb6158a646c4922b708a4211836396c5e571e81e9631ee925096bb93c80350f6",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "8313ad2a9bd6b655e4de39a2fe5f0f15f749d2fd33f0ca32c9d8e3961dcd6ed7",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "22b3e062ab0a5c7c07581162a37e48e0087c2d34d773a8606a67f449fd0e11db",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "e50df1a28fb01d8147f56a065b18f2d19ea2ced8c5abb9eb43aa193782c6f3fa",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "5580e80dcb462e18b6c34adc308b79fe016db9c61ab58fafcf2a8d159ba6bfb4",
+      "text": "What is an AI Engineer?",
+      "hash": "e907692a6d646c181edb0d4fdcb1d92e4512fca517cdaa450b09595939621b40"
+    },
+    {
+      "id": "692011e7c9488dba509be8ee63e91058eb86dec1c2191c4f3d3e6569c8fc617b",
+      "text": "AI Engineering vs ML Engineering",
+      "hash": "99da812184240cb8ce1bb803797a17c35fa2af6d2b93607187077ae2d0cc641b"
+    },
+    {
+      "id": "04699a0a7ce27debd138e046bfe8aea37ff618d42082906567b46627757738d4",
+      "text": "Isn't This Just Prompt Engineering?",
+      "hash": "9f6a7b1edf7290ff7e80452b7a84781493def547305a8739c9fbd71bc0cc2c95"
+    },
+    {
+      "id": "7605dcc124a45977a646fbe0c467c4a12e88cca91b97fd12500a092de3bfc844",
+      "text": "AI Engineers vs AI-assisted Developers",
+      "hash": "3cda96f732d1201c4834f97ea66093c5af8a1151db7659364e234fe6bf70c0a6"
+    },
+    {
+      "id": "eb14a164931267b93c885228368090027ac92e8a461d9a1008aab23e119938a0",
+      "text": "Can A Web Developer Become An AI Engineer?",
+      "hash": "b105faad320a7e62fd528ad31a7e67e06f4b97cce0b93f1cf5f3ac22d323859d"
+    },
+    {
+      "id": "5c30dc05c431d47efaa20bceb1c3c91669c7ca59eca2b48865ae4888ab65ea35",
+      "text": "What's Next",
+      "hash": "22cf4040e2249bde237b49e6e3a1da37f9e1747e025192756c2ae70e83ddf309"
+    },
+    {
+      "id": "56bfa0d31769bad004bbf73fd463222eb380e5eccfba4fc83b084a21a9aed89c",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "bb07db5bfe0ea8e6184fd05e29cb696eeed7bf5ce06a21460d9a8b08cfd6bb1b",
+      "text": "The software engineering landscape is changing. With the availability of AI APIs and open-source models, a new role has emerged: the",
+      "hash": "0f78a1127344fe77c1a39f39adcfabddb8fe263600d2eab1c814792f8df69d0f"
+    },
+    {
+      "id": "834dd0b9aa7047d00164a1befa935be17fa54c26ef084c4dd917d34ba28fec3d",
+      "text": "AI Engineer",
+      "hash": "ace51a8119a50e6fa611d0b75566f4b69ecf7f64b06ac2c04f85f6f9ebc7f5a2"
+    },
+    {
+      "id": "f82b1adf68071119cd4a33b1a3ac345063812c4dc2d4d016985133396e35e344",
+      "text": ". These developers focus on building applications that leverage AI capabilities.",
+      "hash": "f34addbea832d6f3b8f141834843588453f7046bfed4670fd0e7968aa897e915"
+    },
+    {
+      "id": "592c1c746376d2a48afd184370444ce6a3861d9a8bb016d370154d30173ef4e7",
+      "text": "This post is based on the seminal article",
+      "hash": "884c7365bc29a649eb6bffa6d10b55b5de02095393b16953fdeefd507a38c1c8"
+    },
+    {
+      "id": "8f9a2b90f54d2a6684bb31ae9dc26a2787f423f334316c4d596f4aee98f8c7e0",
+      "text": "\"The Rise of the AI Engineer\"",
+      "hash": "67e9386faa3dc870d0631613309ebfa69c4e6d408eb656b03c9740125735a326"
+    },
+    {
+      "id": "5cfd1d460f79701a3c0ddb41838e92e6e4bef8686e1f1b216f63ebb494d983ee",
+      "text": "from Latent Space. All job titles are flawed, but some are useful. They make a highly compelling case for why the AI Engineer matches a growing need in the market. I recommend reading it in full.",
+      "hash": "ea5e554b1c1c21cd2580e30c39812923f9356d744d9754c913721bede13b91c5"
+    },
+    {
+      "id": "9beee285951461432ec8ceac36e038c372e75c8ffed2c47f619a51cb049320e6",
+      "text": "An AI Engineer is a software developer who builds applications powered by AI. This can feel intimidating, but it's not as scary as it sounds:",
+      "hash": "c0908e52136f9a6532495941c227417cd879cf03326eea24e80177827922cd65"
+    },
+    {
+      "id": "0b08e7226314e878d2b38df4c84b04b297fbd161c022053c30e9ddba31ca2cf0",
+      "text": "You don't need to understand linear algebra or advanced mathematics",
+      "hash": "62b80bdffd5ce0db0527c98aaddbd34ff6838ff347929e4d2dc784706a3001a9"
+    },
+    {
+      "id": "399484cc013b46636f73489fddea97b1ef490a71b0ef94751fef1f3a90afb42c",
+      "text": "You don't need to know how to build foundation models from scratch",
+      "hash": "f87c07ad36dd7af653bd3a358b0f7595797527422cc4581e4e1bdfbd2adf3146"
+    },
+    {
+      "id": "6fa83aa57a0188304c2483da6c916c9fe46150a15802562c9a8578c7cb3fb340",
+      "text": "You don't need to have read \"Attention is All You Need\"",
+      "hash": "8a47a54067b9eb1bd1b0bbaa70123902b2c4fa14d9c05d5282e422363e369987"
+    },
+    {
+      "id": "fbd42608c187b848a23f9bf741e24557a4f0cc9edc496d7f48a199e2601b00e8",
+      "text": "Here's what you do need:",
+      "hash": "f61ebe59eb6675e3d00efd9d8285c23251b8c414f510fd0a1a62ddef823b0611"
+    },
+    {
+      "id": "9f386f0a4ceda211ed069dc4fc4526014b5e92f142cd4bceaa5bccd5df336410",
+      "text": "Strong software engineering fundamentals",
+      "hash": "33181975d964d20de95b214b6c5d4272c3f088a43efa171559e4dc41871748c0"
+    },
+    {
+      "id": "fe99d8288b01b5e3d62b5b6f71886727b6969fa110af868b159ddc85bd8ad7df",
+      "text": "Ability to build reliable, scalable applications",
+      "hash": "47faefc7fba4ebfb540a2586df6fcc937134ef79844bdec21d5f2b36b39300fb"
+    },
+    {
+      "id": "4df1a2a88fe8f8f6f923b8becec5efb79120238ac85213aef1d3ad0b8384d851",
+      "text": "Knowledge of modern AI tools and frameworks",
+      "hash": "b0a70e675e804d155adb5141efb2ae227b1484ef4888b19a3ceb96302002a5e7"
+    },
+    {
+      "id": "e53923128d74250cd6926aa12005ece116dc32fb2d4dbaf98fe28dd187f1d0c7",
+      "text": "A focus on user experience and practical applications",
+      "hash": "76075cd5f60b912e2a0d7c154676dc2d0a16e963c4f9346ad5b90f4cc184dcd3"
+    },
+    {
+      "id": "330147c97789f14473100306d77c8abe6f4a66d1ce6dcdfe49f8a16e3a2a6030",
+      "text": "AI Engineers bridge the gap between traditional software engineering and artificial intelligence. They spend their days orchestrating AI APIs, implementing RAG systems, and building robust evaluation systems to ensure their applications perform reliably.",
+      "hash": "ba728712f484f47894d74b65a20dd819ff6feda999431b2eee8c669f652edb8a"
+    },
+    {
+      "id": "a465a127d8247a30794a146d09e260c014c1f6eff119308d8c216231dba3b4ba",
+      "text": "And they write a lot of code in the hottest new programming language:",
+      "hash": "46d7f8a531c884c21188b618ca648bcf03f381cd6bdab592ae7b1697811b20ae"
+    },
+    {
+      "id": "07244b589582ea87d17238eb925d93b4a224478f8edb1c1fd5ebb394cac394ee",
+      "text": "English",
+      "hash": "ba118bf7fc9c1aedc1edb28a0aa86e0b43b681f222af6616e13c43be87815b06"
+    },
+    {
+      "id": "9366bdece86fca6604db6fc1a2482d85686c3c145ac6507b3656266b6edd19f8",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "ac410bbb5e213c05b8c5beac79cab0cba60560cad77b250c40f48e03d16c33cd",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "67c873ad482738da58aa8fdb03d33320a8e400be3e7a31ca35ec3509c6e848ee",
+      "text": "AI Engineering is NOT ML Engineering. They're distinct roles, with different focuses and requirements.",
+      "hash": "f0846b3a47842b4f4955d942cbd13f031494cd2b904a16f8b41b3e7adf6de3cf"
+    },
+    {
+      "id": "a59fd06ae5683bce26d44ab01e6867e1f36c8759cd6b0a7af82a6ded3a58ed35",
+      "text": "A useful way to think about the difference is to consider the API boundary:",
+      "hash": "042ffa2d7aff886ce8971c65e34d680e709d1a93fa7d51d4cb62468e7425ad90"
+    },
+    {
+      "id": "f3107915916c1e1a14555f453aff594d11de149a70cedf1be7076845f08c48a8",
+      "text": "AI Engineers",
+      "hash": "34d80c393262ab1bc43a88cfbfdfce1e4fc11feca3c10a795e36b7b690c5dde2"
+    },
+    {
+      "id": "8059174a14c295bf04672dcacb5ad964b426c805b741d1642d38d1bc32dd867e",
+      "text": "build applications that use AI models via APIs.",
+      "hash": "66bbc8d6302ed5abcb640a1b8ae253416cce17f42e989c9b688fcc967418faeb"
+    },
+    {
+      "id": "d4c5ea9538809f4d119ec4b50f75cf54bbd188024c45cd66ea37dd7bdc9cb085",
+      "text": "ML Engineers",
+      "hash": "ae8f496595cd0a5294633de30eb173f7b5126eef984b7b00b217d653616c5ee4"
+    },
+    {
+      "id": "7b3f603ca414b17901a1f8bf12193f422703c358e82074e65efc7fa7983fc1c5",
+      "text": "build the AI APIs themselves.",
+      "hash": "9034fe609ef8b1226ce4993ed481ce70cb9a1609ba415d3c358da85e5011da32"
+    },
+    {
+      "id": "f3ae6638025f356d4c61e6428842ac8b43a4ac0eeb8d51435c9f60c5311af681",
+      "text": "Here's a quick comparison of the two roles:",
+      "hash": "5ed573d66c3978563ebc49267f650c721320d17c1d0715fd057203550f14faa7"
+    },
+    {
+      "id": "b772b23bd075e2f54b325f6d2e6d92798fe4b45388eb7ca612b067797517c446",
+      "text": "Main Focus",
+      "hash": "5a5d64cc807db873d6569d446cf07bdb71c19d94c42b42abe9b7897397b41af8"
+    },
+    {
+      "id": "cff6d4db8547096eb2f32e5a125c387998c73a855f54d36ce89f59a626560c10",
+      "text": "Model training and optimization",
+      "hash": "7f20388d7cce6f27120c622a5221c8f6449cc89bcb512766c3e28532d2c9db12"
+    },
+    {
+      "id": "e3c7d87d4991de2b5aca5cbfe60dbfe9e26c485d9843a3d84b0b396ffffeb27f",
+      "text": "Building applications with those models",
+      "hash": "694a4abc52de991544d80dad2e047cebf8030f77b87d73e8bdaff7d3b23d1fc7"
+    },
+    {
+      "id": "95d7853c34a4e830850f22ed343f0d92b8f7ee56b2531137c7e8a43fa74ec1df",
+      "text": "Expertise",
+      "hash": "2159c8978fc873b9f79e83f226705d97ef098094cbc98675b85882c6b6d5a4a0"
+    },
+    {
+      "id": "c90a5bf8c2fec8949fb8af34f5a634e3ebe10c7c2f53ebe4a25f2c7f213cdd56",
+      "text": "Deep knowledge of mathematics, statistics, and model architecture",
+      "hash": "93a925759f402ad6f2296e7c8423115683c777a702e85c9b44d07ecd99eae98b"
+    },
+    {
+      "id": "157bea7226d5da5b9df342347aa3453ae5078036708d54c32d5e8201a9cbbeaf",
+      "text": "Languages",
+      "hash": "318655cea4bd2096fbfad433d7c019bac40750d1a456fc34d366df41fcc77197"
+    },
+    {
+      "id": "4b2c6d39249c1ad5adf12099593fc36e22e5fe8ad82cc7ce8f516cab6cf857ee",
+      "text": "Python only",
+      "hash": "34fe788a720814bf6c1da5b9034cbb81967e0bf17002d7e65c50d246553fad5c"
+    },
+    {
+      "id": "9662b7e9824dbda76cec3fb83e58595a57380b32dcb299d380bcd0746c04299e",
+      "text": "Python and TypeScript",
+      "hash": "9895f1283dff74d7a30fda1345576a9eb16b55140368fcf014ae770ca5206854"
+    },
+    {
+      "id": "eb4d73f9fcb250c24975dca401ef0ea3f72d122fe7073c0e0644d9da0f6617e5",
+      "text": "Education",
+      "hash": "512ab3c6b9869577bd4474c56b88f9e3f1c40c54d18e8e5a2329821254d362d2"
+    },
+    {
+      "id": "f681707cbee1bebaf64d652cdeacff6b79ead4638499cf54dd209e86ee025b4c",
+      "text": "Often requires advanced education",
+      "hash": "22f67586571d07761269142ae50ed3a0f9656e70c48efbc8c073f814e2247d39"
+    },
+    {
+      "id": "4ad2051d44802ee5384aa3da1f6747b4bed31b173eccdd23a3d1a3e4a0f3e9c5",
+      "text": "Software engineering background",
+      "hash": "37ce1d30a87cc67bd1784b94b5539ab73a69e74c4c2ae6e58ef1b6c10d5dbdc2"
+    },
+    {
+      "id": "67a59ea81b9dc220bf3cc2bd599cf729ca16c0f247ef54f2c8a035f0ed9b2931",
+      "text": "Market",
+      "hash": "5238d9bd03d543e62fff76cbea6a2392a95f42110e36c282e4c919991f607daf"
+    },
+    {
+      "id": "29e2f3b72320075e41eaa2d62f4ad32d5eb4c757c5e6671958dc63fc21e172f9",
+      "text": "Highly specialized, high demand",
+      "hash": "b871e4a4da43c2e4d7f0e233febb32a4eb29ec9b93e1fbe0d0fabf44f9379fdf"
+    },
+    {
+      "id": "bd0d005cb6f43255482ddeb2fcde9ce45826c247b1e42c713fd171e8d4733461",
+      "text": "Rapidly growing, easier to learn",
+      "hash": "fd1f3ed4d5470179369df2f90aaa20dbc84123d0a4ae02278d47a9aec3455d52"
+    },
+    {
+      "id": "35e661914cb105384605839196b37b1f46ca40083a178b855794033f8873ee65",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "dddc6b5beeaf614fa0699f8e8a805a54898bf37a7f3ba187f7896bd211ab3cb5",
+      "text": "ML Engineering is a specialized path requiring advanced education and offering higher compensation. There are very few ML Engineers, and they are in high demand.",
+      "hash": "f018e1411d8c7c9437475671c2a8acbde2330083ccbc49d283926f1e885af0cf"
+    },
+    {
+      "id": "2fbdbed3aff4bc74b4594d2338e4d049a3d5b16ccee39623802c84af550f2164",
+      "text": "AI Engineering is more accessible to learn, and demand is growing. It represents one of the fastest-growing segments in software development. With the democratization of AI tools and APIs, software engineers can transition into AI Engineering with relative ease.",
+      "hash": "30d807e8c6fc9951e4d1d6bc2653eb8973bf123651ea357edfcdd9771be5279c"
+    },
+    {
+      "id": "3acb3ca897741b6c10550508574c6451a5b2c6aaf5c5e68d348314aa8bccf4cd",
+      "text": "But aren't AI Engineers just glorified prompt engineers? How much depth is there to this role?",
+      "hash": "2f1fdb47a8911bbf2e68831af5d2966f10cecad80c86df5922511a7355a040fc"
+    },
+    {
+      "id": "15cb1a32823f3071aac59b0f08de349699d12dd8e688023f3df2e048da3570b3",
+      "text": "This is a common misconception. AI Engineers face complex challenges that go far beyond writing prompts:",
+      "hash": "30270b508e89bcf71ee118c95c24ab1c5e79f69cadb78dd3c694d165425ef286"
+    },
+    {
+      "id": "213fc5130e2f7748747dea75a8cd938fb4d8cd89b0041cb7e461a0a937614644",
+      "text": "Building production-grade systems that handle AI's inherent unpredictability",
+      "hash": "06c66b373a11866c6e887ee0b9c0ac9236e4478353ca29bdcba8bebeba9d9da5"
+    },
+    {
+      "id": "9dafa2811409f065665e058ec226f93ce2b3d6b0d483713b5ce6ac62801c6c48",
+      "text": "Designing evaluation frameworks to measure and improve system performance",
+      "hash": "93e62a5b4d5d5391b29f14eb746d51643899ad02a8b01099d6616e6d74d9d3fe"
+    },
+    {
+      "id": "8eee95e32631f56533e28aea15947c104faddd4cf47aaf5ecb4d0e054013a286",
+      "text": "Creating feedback loops that help systems learn from user interactions",
+      "hash": "075f152cd4d3aeaf29e49909ae6810647da972c3d6d54716e342d998e67bc656"
+    },
+    {
+      "id": "31d416ea56c406f7cba6f9b92baa4bd485beb8d051915af2c71c0b5ceff28379",
+      "text": "Managing complex AI architectures with multiple models and APIs",
+      "hash": "69b073491d6dbd59cd6f78c17ce1fe7bcceebddba12a89c7ff37dbbe44858c81"
+    },
+    {
+      "id": "f44b573e2d5ca9958d083bd0e4e2336e0c8a377b4a8179ed89036eb6070c3392",
+      "text": "Ensuring systems remain secure and compliant with privacy regulations",
+      "hash": "76d2843220bba8501d0442466d74a4d701767eef6ab0014f7f50c82398d50d84"
+    },
+    {
+      "id": "e859634ae3f10ed84114f35d395821d6e798d6c5e873da2d36069a4c6698bdfe",
+      "text": "Optimizing costs and performance across the entire application stack",
+      "hash": "e862930c287f19391f0416eff00bdf3ef9dc37a759f91c8c17becdc8a6f01973"
+    },
+    {
+      "id": "1f2ed8afb705932d9291305612f92aeaf17f206bf5dc517f28b0755170c4e496",
+      "text": "The real challenge isn't writing prompts - it's building reliable, scalable applications that effectively leverage AI capabilities while adhering to software engineering best practices.",
+      "hash": "0a60b3061b00b791325fffc92ba326c0fb989cf23499f1104f9fb69ced364696"
+    },
+    {
+      "id": "7177e7766bd48907320d097d9294e617507dd52641bd318eb1aef2bf9664d23a",
+      "text": "Let's clear up a common confusion:",
+      "hash": "a8796069795fd4f39c411b76aa4ef00abe698d26d48a850f14a82956d161c3b0"
+    },
+    {
+      "id": "218c0154fbab2c1583a36e468a51188b07d8932a5b13933ce5316062c0d4c460",
+      "text": "An",
+      "hash": "9f98b7c7f071714517d9a5e67c135b41fa3e91f20bac108158b33b073396f6e5"
+    },
+    {
+      "id": "517398123a32b1c7dfc93babb3559ba85ad2bb79ee5dcb9f9631c0483dbce9f2",
+      "text": "builds applications that use AI (like ChatGPT wrappers or RAG systems).",
+      "hash": "128cde95b48ac619cbb4afd7141029329116fc2b53f7817dd96c8030649cb270"
+    },
+    {
+      "id": "964c1f6443d1ebedad83a8798f1304ee7af0d8450d0ee2c453411fc281a8b773",
+      "text": "AI-assisted Developer",
+      "hash": "792ebd906c8a15dcdebbfadc94d79d886970fc3b429b7f157fad9031ff0f2246"
+    },
+    {
+      "id": "2b52e7ad7b070a61bb7dc515e38a347d738f0be56e5b72a1e780be3ecd2e2156",
+      "text": "uses AI tools (like Cursor or GitHub Copilot) to write code faster.",
+      "hash": "f83bb77bf96cf52fbc628c821446c463eed6e7f63618d06eccfb2d0c9f6f166d"
+    },
+    {
+      "id": "739895054221784e8ce2a38ca996571ea40627fa11920c3341a08a6480f918bf",
+      "text": "While both roles use AI, they serve different purposes: AI Engineers create AI-powered apps, while AI-assisted Developers use AI to enhance their development workflow.",
+      "hash": "b82ebf73a4624157f3580cb255022312d917fb115b35f0ce67f44755b7afe8d0"
+    },
+    {
+      "id": "75a179f4906858443507c4a68aa1cf4984dca8a85195d2f7e3928c428c8d8c4f",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "e88d0867887cb05a124ccba01fdf6566b65d8e00afcb1ea6188ec4848147db9a",
+      "text": "AI-assisted developer? Here's the kit.",
+      "hash": "3c70f8a951a848994201360d10347f5d9c5735e240bace849023b49d796c5203"
+    },
+    {
+      "id": "e50ccd234cb5e07e29dfbf549b738e8fddf60c97eccff4bb8a9a259fd140e16f",
+      "text": "The slash commands, hooks, and structures I actually run with Claude Code to ship work — not just write code.",
+      "hash": "66d02de0578ac14900b0a9092039646239264d706d30cfe125c5076333dd7a73"
+    },
+    {
+      "id": "0dd055d3f979fb2d9fa0d2949d7863dda25f27fc7b7e9d29f0a5e8c40f652d25",
+      "text": "See the skill set",
+      "hash": "dd46869b69c9555abcf3fefb4c764ae30e64692df2ec9a3359dea8d9ddef9b37"
+    },
+    {
+      "id": "ca5ae9442002e516cafddf4c805c7a8588efdc66647b22ffbb4cb9858c2ecb30",
+      "text": "Yes! Web developers are well-suited to become AI Engineers. The best web developers share a laser focus on practical delivery and user needs - qualities that are just as crucial in AI engineering.",
+      "hash": "8e98796560a9431b69b9ab21a6e9cc82a12daad912d1596ea0e0eafc4e5dd5fb"
+    },
+    {
+      "id": "686a5b6b09b4abe00eec1806f6a95feb7215c288435fcacd7d9d2aa17ea646cb",
+      "text": "Your existing instincts for creating applications translate directly to building effective AI systems. UX is just as important in AI engineering as it is in web development.",
+      "hash": "073fdc214f7486a34469607f234f2f81eb00e5c914ffd571f7679d664d90ddb9"
+    },
+    {
+      "id": "3d91042778a0d181ed024d3bbe548f9de2cd48a7e4886859e4867a01a4ad6801",
+      "text": "While knowing some Python is useful, the TypeScript ecosystem is growing fast and makes for a great fit for AI engineering.",
+      "hash": "fe01604c41146f0d679f7b4e830fbfa075b7c5eed710d8088040b4a8cfcc073f"
+    },
+    {
+      "id": "88120307c86057521c4f0e0918207c5090af4de659a031035a171a4693032d95",
+      "text": "In this roadmap, we'll walk through the skills and tools you'll need to become an AI Engineer.",
+      "hash": "c863b7d2ab52c23c7096c89bae06e946fce9a0b0a95e3643732866b254356fe3"
+    },
+    {
+      "id": "ee531f4cd24562d6e0962d21604243fd71aa7d61790b29c8d4d15b9ff8455e55",
+      "text": "We'll start by understanding what you can build, then dive into the skills and tools you'll need to build it.",
+      "hash": "2b1c4229601498677457a39ac25d101649be015dcdada2fd4aa6fe0ea175134a"
+    },
+    {
+      "id": "09de22d7400c35832e9bf997935382c58267a8ffdc0945b94aba9bcc431c2eab",
+      "text": "Let's get started!",
+      "hash": "9aad22f274a733b13d8b6bbb1418a41473fea4ce036941b125b058622fa4c52d"
+    },
+    {
+      "id": "3d25c3c44a2cbf72a7afbd789ab4dae90d03b43b0defeb31961edb9bdc9153ae",
+      "text": "Next step",
+      "hash": "298a9207a732a11d42bba41239147e22ace14e6cbddb5bb022abd814e3e47472"
+    },
+    {
+      "id": "d82b10459f9e0ea5531967848c27173c95126e17da7016f483ac41326dec27c6",
+      "text": "Move from AI concepts to production habits",
+      "hash": "1a3395fa647e694a97456d3902c351aa35b6a1c045c364159086373f1d5039a7"
+    },
+    {
+      "id": "06bbefcd706a12faa2e0d285a1239addb038d3303135010de98a86ac373e5324",
+      "text": "Get practical notes on real engineering workflows for AI-assisted coding, shipped as short Skills updates.",
+      "hash": "ab928f8012aae57b1e565eff9d9030fdc01c04b2301be0ece5b4447d5de99632"
+    },
+    {
+      "id": "1d515cbdbfa7208884852f7ad9d34151a2e8b18b3488279e9f64813e35607e1a",
+      "text": "Get AI coding workflow notes",
+      "hash": "16a54c7a83b2d1285300140a2268609981272e8416541c681781ed64d5f92fa2"
+    },
+    {
+      "id": "a27777e3653260dfec8d6d66544497f74a3a818942b96bb3775e5b5ea30d9e81",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "6dcf00c22bdeaf5cfdba6bad64182d94c9081b35dde94e5722ca5455a4e55ddb",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "65799d02f6b65633b311af90a1665750239add492750b56f71c90ebcc19cb920",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "1e43e83ddc49eaf881883343b5e24335e13281486cbdd74968f5619c0141a87a",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "3321ee6554ee53db0191e75723c135dc7bc34cbc1a7f3ac71a165f1e3d4a3a55",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "1eb92ad2713b186d49b9af03a3cb77f3916193c4e51348bb73eac94fea9fdeae",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "d649b4321fb8172e946bff82930da0f7efdea9ed0c56f63260cd6ae154456292",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "391bb5066489a0d81f27efef6b1cb7fa8096e8deea2cb0c3b98eea1e77826205",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "fbec2e74e9f8d50bc4bfa15c9e89741208d7cd04019e9ff47e2ad7fb75dc46b8",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "4adc771b9f8920408086d982099baf8932c0b340784cacbaa30a28a45b2731a6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "f0e1de4860824eb7de6f536067b028e65b40f2bfe3b2fe0e973ca7411c52aa5d",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "4245550014e0a5da55a3f9e77b1322feb39325ba76240fae9a69a265c900bd61",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "9837b08389fc582db855d73ed1612b0cb088399e84afad3ab6069d9e987a34d1",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "8da0eb71eba2a53ec56293a6738020574e22b7af8728577d0d332fe53d687dca",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "bcd55d78cfc36f51805c16ea7f2550873a0efc198c0db5a648f5eaa345392584",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "352b83a3fa658024576f5b04c493ecec033fcce49dbc4e1ed51d9c856ab0cb2b",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "81f2f850cb2669e90bda7ee72b93a3680894802c248f1eeb886d55e08fd3ce57",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "0b0da1e37960765d1593d713366d347b4e2e11337847ba3be22c1b8ba5df8376",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "2563fa7ad5026fa27ea6c082179eb14dde42d7ef74036918d56235866fe3b6f8",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "eb47f9c01c51080ac87a2bbf6c237582d47cb7b85517b50240b09f1852e2a051",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "79f3134c74918527440600b1119ee5d02003c52c06252e99609fd4645c1836e8",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "d861b0cd44ceeec5b95b1f092245072f934301216078650054d950a01c9c1282",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "a51f7079fe6092bdb79da48b5d39048047daf958269d7775e2b2c5e8328052ae",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "bb7b93e4a5562edb3a427f9d11f6a9c49a60f62859250ff134b7e59996534eb8",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"ohjs3o130i5zly\"",
+  "lastModified": null
+}

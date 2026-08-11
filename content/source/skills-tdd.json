@@ -1,0 +1,983 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-tdd",
+  "pathname": "/skills-tdd",
+  "fetchedAt": "2026-08-11T06:28:09.330Z",
+  "title": "The /tdd Skill",
+  "contentHash": "3e17642a71b2bef4de927ae58b8b3cde924c2f0b9f0df86e505165eecd08c876",
+  "textHash": "2e759af5eaeb4d45516e42fc224861ef355ad71d28022a7cc7842290260045b2",
+  "strings": [
+    {
+      "id": "6e95ac37821f5a318d1d2098db68751ae48416ac26f4cf8c4c6a5fb5b15f2410",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "fb0a62098de20eae23be9381500806fbe8a7df086620bcc650464742e1eb3dda",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "297a8d7d6620328a05f855f81062b43b07a3a30b4905673b666ba04df3ef84ff",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "2e2a88dcfe4311fa58321093046887a376abea6d7ffce9b1de7bdc45dd30413d",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "49320e80e39ed89134b2a8458bc6fee992b5937db270a7fee1c25a237bd29205",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "8f3c05bae87bb34ea2adae9bf0d2ed9715f01363023ff8cd26e4cc8583a90ff5",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "cdfaa662bdd054416a49a7f10c4bfeb25d61ffeec591559ac3e34c8a9d3c21e7",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "fbc9d58ec7c154d9160408d0bb70cc2ac3964d32d1690adc50a76afce88cf83a",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "b470ca3db50fd5ffd4c75180a3c9269366921748ea22802757158b2149e4ee43",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "8a68e3fed5ea86ec200e9c290c1de4b9e8678ed01706097112b47a924d49afc1",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "3407b2a20021ccafa5e80a2e73d1a496b3a3d9bafe298754ba1ee71372c81e59",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "b97cda266c380263bb8d3a900da14531048b6e92c21351b7afc853285f179f18",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "e2e00d2d25c48e0b65f3db19e1b9b2c89e28aa7a448a49293917044b5ea5b877",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "82532b8234e077c8f788aa2fb968fc37047f83024324e33776d7cde44a0142b4",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "08c30f59d3249917783620bede46f1db30fad5e64715789d46a43fbc9821563b",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "a582d8dabf33ca5d0d78b782f4ab0970a9922469bf8b43cee75060ce0ee314da",
+      "text": "The /codebase-design Skill",
+      "hash": "51bb7c310f0738596f89fd052f1aad809c7bf9022eda80f5040c899abf348c99"
+    },
+    {
+      "id": "93fd94b7804526e7b18f545bad9594a8808ddf398645faf298361ab3dfd7f555",
+      "text": "The /domain-modeling Skill",
+      "hash": "f616ad2f4b341b188201e3bffd4995711ab6ed10305f53e7830d2ca72690ed70"
+    },
+    {
+      "id": "48e23f1271f468d06477ecf2fcbf79f6263f1ce2cda01fd6cb0044c2669eb34d",
+      "text": "The /grilling Skill",
+      "hash": "c50755e0e84e83e16e02220d20cbb10f02ac6375a744957c5480bf0b0ae7afbb"
+    },
+    {
+      "id": "d72383d11f92db1f70cdb9dab99c3fb9579736867cdf1077826dcb0bb626c316",
+      "text": "The /tdd Skill",
+      "hash": "c37d71d36e49748d5850616b6cddf4ce32b9eb909f487b9e1b5fcddc163ac66e"
+    },
+    {
+      "id": "9362880ece472bbe8cb6b62b626155d68c8d54ac5722e539bdf644c8f751248a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "967241303b9833a4eae10ae8f3037bdd1fb07a9c6630088a2ff19bee26d90efa",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "fe250ebbbc5e7926aa2ff5da88c69183e0e0ffcd1baea57c77bee568018f2a85",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "3a67d08da5dabba6bc37ec7f25a2810ea7911491cfda16c7e102ab1e65283ba7",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "8c2ba8af943e2b413427887a59705d713e2413ee5d6ebbfe169f902b9748cef1",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "6875d8d37dc49fc858a96745096b4f10f8cc6ccecb15f6830179a22578d24c96",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "750dac4d57e9aaa8e5b2d57cc29d74d0f7f65ae81b4f9f75f29e126b87848e86",
+      "text": "25 / 25",
+      "hash": "f45c7bd26fd28b22f9332c48becb66ca0650eff312a79070fb37f4ed9f95c1e9"
+    },
+    {
+      "id": "d0ffa5765466b43158d7e55e0a67ffe0d546affdcb6622ccac2c664b7863a7d8",
+      "text": "AI Skills for Real Engineers · 8 min read",
+      "hash": "09f2e9dd39c5c3b4d7e20076529d7e233953ea4a213d7df649a0aea48b37d128"
+    },
+    {
+      "id": "c7c2ea91a7bf1f7b445c4acd2a2476dbd03a561129ddd2cd40f7964bed619d23",
+      "text": "The rules of the red-green-refactor loop.",
+      "hash": "e330493b0b0172bcafe6be11a239cd9bef43b052271271314ef0e35d8585af60"
+    },
+    {
+      "id": "35a5403bfac7c83583d23fc255c1b18f61688668e953cd5f342f8c33bd2d5e8f",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "f55100926114dea717987b425aa16b6e9fe65c393e12b40f2bd4518bb0fb1812",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "1372753281739273a076c9645cb996746087cfa10e4bbee49eb58ea4a8dbe20d",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "023d531946a7c220298734787ae19a1ab2e8c14219432972028d58c2eacfecd6",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "beb5fd39a6d3e63f132e362d9aec0b9837b6c3554c7324f9d244cba74546d164",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "d85b06173862cc5cd792b8697c5aafb9483321c0d6f30089524ee4a493420518",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "e8a108c594afc16c7139eb6ded151626c9cc18fc7377574df1ffb92c9b0feeb8",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "34e768ec7449910229588ce37769440e164b421927dfb3f2fd4efa5af3c5c248",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "b8a41cacc60bb8f84818881623a74b4fbca049ddf6f3e19fa53fde34d871c944",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "4124d84c6a32de8ad7c4b97799103c1029021e7e5c0217ad40159b02ae5dbd94",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "c224aa52ed954a70661ad389c5b73b5eac303f4ca291553167bacdf09634ec6c",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "c123c0b132fb2070673ba1262eae82b27aa2a7ab6d5da56e014aa44cf4324f76",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "7d8ef86bd4981628bcd431ea369059c89327d807fef401bf697139d023c9f297",
+      "text": "The loop, and the seam it runs at",
+      "hash": "b4f9132c8665cdb84e4f67a486121fb0fd6ab1c0dc137c1658764fbe9439bab0"
+    },
+    {
+      "id": "526f17581bac35274cd9dacbb7a60669e14c7aced699ee21f1ea98691d94e4ef",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "4da9567fd6349f387578fbcde244b3345c364fee7784a206bcc59cdb0c8fa904",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "60308bfccdc7763ef507521a716008df42f88e36ade41b5b61ae583a9f3bcf91",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "d5843272a71c4abb3109e22c73de77628a0ce2a4934f8bb8d8eff1372d013536",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "b57b8051199efb7ff79c7f4e993bae04ff994d2460f05347433faac793a93a7e",
+      "text": "builds a feature or fixes a bug test-first: one failing test, then just enough code to pass it, then the next behaviour. It carries the standards that make that loop produce tests worth keeping — what a good test is, where tests go, what mocks are for, and the three anti-patterns that quietly ruin a suite.",
+      "hash": "e16616d3e659268ff96b94daf11f23c005c01d23ff3d4a95b45770a86257a621"
+    },
+    {
+      "id": "06bcdac4c3d5ee90a2a773ad24bfe2a1ad075335d2682becfdf38e1d42818d64",
+      "text": "It writes no test at a seam you have not agreed to first. Before any test exists, it names the public boundaries it intends to test at and stops for your confirmation, because testing effort is finite and this is where you spend it on the critical paths instead of on every edge case. The other thing to know is that",
+      "hash": "4489dc627e86a2af9d056a2174f7eb50d596cd69177a2c504ce0d4fcdc21c904"
+    },
+    {
+      "id": "7404de2bb04dbfc1f75097ba9d35e9286ee963fd72e6452c761b427039af8a97",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "64f8821d38d90d250c76faf3ef6b634689130f8adf543759b119effec168bc18",
+      "text": ", not a driver. It holds the rules of the loop, and something else (you, or",
+      "hash": "bd5a8f03851807724ccc7861a2b2fe78bf44c05cb998bb666d49300d7d3f9c2a"
+    },
+    {
+      "id": "781e598c49d7137c279c41a0a46e5530ff7f7d4b3547165f6b6b680d155888fa",
+      "text": ") runs the",
+      "hash": "86cbda34efef8a4de8a5b52f7d559a05d6ff1450980e731e9129ecf8a8052eee"
+    },
+    {
+      "id": "0500a74b8f407e5be5c46625a7865bca3cec4aa53ceafcdfde23b6f774bd5cab",
+      "text": "that applies them.",
+      "hash": "44a811deb6a3a489784a3f19890ef21d7ca1a39936147cdbe79b78879b12a846"
+    },
+    {
+      "id": "ef90fa21cadf50846a562f1d9ce789f44452b389afcd676038bd42a9eb340a83",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "7741ff9d020ad14f80518c06cecd00797737735cd2f9950bc458fecc8e5120a1",
+      "text": ", or the",
+      "hash": "d7803b9e27c4ba4e9bc3fa5bccb50a060fc421b5f16fb9525cba2a46e0529dea"
+    },
+    {
+      "id": "d71ad9f2bca038665c180fa717368ea8b95bd31ebacd1077f7a9920ee8757bc8",
+      "text": "reaches for it automatically when a task fits — building a feature or fixing a bug test-first, or when you say \"red-green-refactor\".",
+      "hash": "ef467e3775245df21a837ee7fb524ad4308f2dc9f2aa26b4ba138d6f44096808"
+    },
+    {
+      "id": "30c44f10f992ddea823c589b1c5ad3ed6b3a10c2f5540e5b8c227f577ee70c24",
+      "text": "Reach for it when there is a concrete behaviour to build, with an input and an observable output, and you want tests that survive a refactor.",
+      "hash": "d00b9dc2fe8f0a6c57d3ea1b173c69d09ac322093651909af38ac1fb40c84e58"
+    },
+    {
+      "id": "5520048529fec4b1a99f33bd260cc41b50e2edf52f05b87dd29dfc33ef24ec26",
+      "text": "Your situation",
+      "hash": "07b3fd94bd3286875133769f9375728ce5f18adbe4bf0e864e0bd16633b6e6a5"
+    },
+    {
+      "id": "7f7741349358abb8642ea7c35c51191709e8eafaebe8942fb50b03eca2f960cf",
+      "text": "Where to go",
+      "hash": "29b4cebb3351903a61a83e2075694925185df75188939c5ec084cfe05ab7b719"
+    },
+    {
+      "id": "1ef7140d17494c2b4d43f03743f2aba0bc15c3103f20818767386bcbcd90b3ec",
+      "text": "A behaviour with defined inputs and outputs — business logic, a request/response contract, a transformation, validation",
+      "hash": "d56aa182f774d85064b859b406daa95932ac103a46d88bce2cc7c282ba39f905"
+    },
+    {
+      "id": "c52e89a6df3536660ce08ac2db0973406ab75287332d2d1f11d2963239c58314",
+      "text": "The behaviour isn't pinned down yet",
+      "hash": "43c2825caf62b0acc81018567b03f1bfde3c5cd5fd8293923202ef9c48d43b7c"
+    },
+    {
+      "id": "c502f26eb4a7027f9c5f5507ba7ac16efa7cf4f4960153c6f5d33d11c6c39dd7",
+      "text": ", which also agrees the test seams before any code is written",
+      "hash": "39acc363bb840913a7eb1f0632eefea9a60f1e611ac14176b25216d794cb109c"
+    },
+    {
+      "id": "8f3dc5f92f5ed52515414acb9a3075be2908f3e5edeeb5e62b77ad48fcdc5010",
+      "text": "The question is really the shape of the interface, not the tests",
+      "hash": "88d4ff9cd27de1a82e518c5aaa8373bcbaf005167e1cc49c50a15101613c7443"
+    },
+    {
+      "id": "409adf9ab0de095ddac146c97dda323be7d3d0ffb20cf8bef48843e87b4183cc",
+      "text": "You have a",
+      "hash": "0b05a9d4f63f981924c74b9824dd682efec8960db1f1d7642092ba117f62eecc"
+    },
+    {
+      "id": "d5e2d57d0eb300d823b5d513aa18c32d7aeef6d3437fc01d6d19595fcdb8db55",
+      "text": "and want the whole build run for you",
+      "hash": "e5687b62a797a39d31e274aba20e2e98008a6ca915e16dcc84ebf1fd87a91a91"
+    },
+    {
+      "id": "d7921665756c29cdc4d36f2b5308a051c27844b42f00068cd9ce86522b89d333",
+      "text": ", which drives",
+      "hash": "28fbdb3cf03d153e9cec6f239c770c5b4a14cc726ef24801a43a2edb7f7f23c6"
+    },
+    {
+      "id": "9c6611519c41b438a9fc8a8aee754a4e65ed1d6b9b2eaebc58bb72427a30b6d7",
+      "text": "per ticket",
+      "hash": "83eae88d375d5bce1a19307d26bb4b280b72c77bfb796f2b4fb415ef89c808a4"
+    },
+    {
+      "id": "951a8c2c2a40b4bd8c215be12f32a9e5dae73831e209b83a1ca9d5b975bd7442",
+      "text": "Config, wiring, glue, type annotations, straight CRUD delegation",
+      "hash": "3f4cca70c94634a4dc99bf7e27bf85fbbee70a0105ea71de105fdca66ea79072"
+    },
+    {
+      "id": "6275b7238713559297d29955b6b99ac62face2ea30211d3358363b92c412cbf0",
+      "text": "Nothing here fits well — see the open gap below",
+      "hash": "f85c7c43d201ceab13f1abaa357819609aac87f3acf62f6c791114610560bca6"
+    },
+    {
+      "id": "4b63149e0cba0d763ccbcf41e9eead4aba08bd7fc3e329e617b579e74b8795b2",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "687f4dbf8da7b72dd8962e02a894425480dbe90d37522bde2518c684fe43dcca",
+      "text": "That last row is a real hole, not a stylistic preference. The skill decides",
+      "hash": "eceda9008dbb48d57ce71f2aa58302bbcc8463858c6d3d1942051f767e04070c"
+    },
+    {
+      "id": "99d1e55d9ad11795ef54a4d8d906ab9995dc04f28fcf616adbfff1e4d9a51ce0",
+      "text": "the seams go; nothing in it decides",
+      "hash": "50ff99b953352abc33957fef3659f76f8adb0fd82318911c7049092043d852e0"
+    },
+    {
+      "id": "2291cca4b81309306fee20ff919cde5554725935fd07e90ab0e022e988dacab9",
+      "text": "a change is worth the loop at all. Run it on a change with no independent source of truth to assert against and you get a test that restates the implementation — the tautological anti-pattern the skill itself warns about, arrived at from the other direction. It is",
+      "hash": "df7224bc560e45e40b60872513bc54696e37e772047b1be24e39de9d68962cbe"
+    },
+    {
+      "id": "76022b7c8597dadad2a081d5caf09b28aaf2db9cf5ce811fc1a2baa81f424e97",
+      "text": "issue #746",
+      "hash": "734f404524bd67e94586cc2f8a2dbcefb67ba6a6f303336cf1ff3dae482b098d"
+    },
+    {
+      "id": "957f0bcfccfd36d5deda4dca11f887180e18e55d7ccf0827c2b6ef650ff6d755",
+      "text": "and it is open. Until it closes, that judgement is yours or your",
+      "hash": "766eb8aadc986921caed36bb4be00a208509dcfd82146fe277538e8d33f593e0"
+    },
+    {
+      "id": "66b804dde07320626c9838870179e3af36cf7b090ea82bb6f901902e7e40bdb5",
+      "text": "'s.",
+      "hash": "b087c45c095f66dff113e89af5eae289f6affff1292ed28de0738dd8ed518732"
+    },
+    {
+      "id": "f7f4c85d8fbbd5fe0900db0b64955e35c8a996c801dbd4d84d6356435169f067",
+      "text": "needs to be installed.",
+      "hash": "a713d058520e942bd298c75c7aec04e7bda6745732e160fd5727d397884d70af"
+    },
+    {
+      "id": "5912b4464ed2538290b1e1429f403d8555d72dfee0d59681a0169ddb1fa2af23",
+      "text": "used to carry its own deep-module and interface-design notes; in v1.0 those were deleted in favour of the shared skill, and",
+      "hash": "701ba3b927fe9610a1b6671e7a0f3cba8f1ae34228079b9e3c0a6ab8ee73d4db"
+    },
+    {
+      "id": "76d0dc1db7f833e9dca10737c9b91932564bea6c55d8e7b911b0be9cad84943d",
+      "text": "now leans on it for interface-design vocabulary. Nothing else — the skill is",
+      "hash": "f1f1a1f9177db6be03a734500fbfee2366ddb7fd56f5af4205bbcbebe49235d9"
+    },
+    {
+      "id": "ae95b5afd730527355d2df3a5d1fc151156472b44174c9215e1a815e81affac9",
+      "text": "and writes no files of its own.",
+      "hash": "0f0c410b7dfc41fb2663c6ed1f0745a27bb6d31218a29978354e971d71bc7a31"
+    },
+    {
+      "id": "6ce1cb30be94f771cd902e14e009fa621154fb36ce9641aa1e8a7da43654040c",
+      "text": "Three words carry this skill.",
+      "hash": "05c3a4290994fa655f4ce847bc9f558b72e47bad3a5c6b7486f6eb85bbe9d376"
+    },
+    {
+      "id": "922aae3932dbe5360bcdd10214d05a2897de867d3e2186e3f3375fbbe022e858",
+      "text": "Red-green.",
+      "hash": "09a6cf196ff6439efe30442b682242060fa772de1cf2bb487b154aa57c725eff"
+    },
+    {
+      "id": "0aa8a23023abc49cd1bd6abb0793369495704c65cec5c7de8c2a435bbeb36c03",
+      "text": "Write the failing test, then only enough code to pass it. No anticipating the test after next. There is no refactor phase: it was dropped in June 2026 because agents essentially never performed it, and because review and implementation work better as separate sessions. Refactoring belongs to",
+      "hash": "7a12c523e280d808c19f0cd6fe1464bf52afebd7cf708dafe371807adee90b62"
+    },
+    {
+      "id": "1be2f7be386b293e963571c953e708d60182aed5409a51da839e48ea17de5424",
+      "text": "Vertical slice.",
+      "hash": "c1e1ac399d81f967a58fdfb4beecb1fc15e6335f98f8c851bafbdf141e5d8050"
+    },
+    {
+      "id": "f4846e406e25c704f516605630c8680b348df93b710229b6da1aa0f34d87a14e",
+      "text": "One seam, one test, one minimal implementation, then repeat — the first cycle being a",
+      "hash": "ae043f5373eaade9f7dd1e221437d3f448f5a6cd95feb595e5c9ef4c0583db6f"
+    },
+    {
+      "id": "862c219a731824cfbeb06a2bed500c0d9d50364a7dcc147c5b6d1c523cf99f52",
+      "text": "tracer bullet",
+      "hash": "393b6f6cdab8e06443785e4d4fbf204c578903ead2aa26ebb26d7d2707ed25d7"
+    },
+    {
+      "id": "42318d020f8738b6a61b8538d93d9d9d168e837bf01471e7add7926a426dc68f",
+      "text": "that proves a single path end to end. The opposite is horizontal slicing: all the tests first, then all the code. Bulk tests verify",
+      "hash": "f9e3fb5aac1bbd132548aa425bccf977a5972033d0cbb94d8c3e018f9c3b6af1"
+    },
+    {
+      "id": "d771a36d59909622633ea3901116677147a6d465e2ce3dc15d8b9403283eb395",
+      "text": "behaviour, they check the shape of things rather than what a user does, and they commit you to a test structure before you understand the implementation.",
+      "hash": "4e2f94ea588d409a3f019562ccea5e51e97676d9726195e031f3bac8ff914cb6"
+    },
+    {
+      "id": "0352d796306ef1746ef91063ca37de6d7429af78a4819ede92b527687902eb36",
+      "text": "Pre-agreed seam.",
+      "hash": "f95e973225086b293de8fca6327724745fa467001a127d5a952bcabb74c59f73"
+    },
+    {
+      "id": "81cf7d64b6e490d94801ce8e3754adc24f1f59adc41f53af71877a60d598baa3",
+      "text": "A seam is the public boundary you observe behaviour at without reaching inside. The rule is absolute: no test at an unconfirmed seam. In the full chain the seams are agreed earlier, during",
+      "hash": "35c2914ed8d35cbea32fe56e3d7c42b9bdd48af25672083a57fe425496ede0a5"
+    },
+    {
+      "id": "d97a32a04aec18e80be22da02b85d73ee638a72ade3ee0c12ab15df788f03634",
+      "text": "— \"",
+      "hash": "55c5241a78b42d0b358d4de69143db3558af901a1fa295b16b470ee1aa2599ee"
+    },
+    {
+      "id": "ef9988a0adf036075e7f18f8026a0c4b1ca7ab2a0ef9eb273a10887d0a62000e",
+      "text": "is told to only work at pre-agreed test seams,",
+      "hash": "adb9705a4d159f620eb2b02696ade17022e6dce277bc7dad82eb82593611a298"
+    },
+    {
+      "id": "3f011a8a34a925344b6d8d6268868eb60d7657e7945b8389728d7d3a3a128c58",
+      "text": "checks that only agreed-upon test seams were used.\" Invoked on its own,",
+      "hash": "c86695888fffa7143b3cb2df64c73daf7c56434cd2ba058e9cd3636348aa11df"
+    },
+    {
+      "id": "25fe85d56919e5c87812f8e75c7295ba6037ba4b286b1081f34cc95c5964fa49",
+      "text": "asks you directly.",
+      "hash": "208d5bad96e4ab9e05428b6ae054e9245123c96f673f0aa2b62e5c2be7d11b45"
+    },
+    {
+      "id": "cd9a04cc8f4cb5fef6551e70e619a35c4daf82dc62f83bf747df18ae472126a9",
+      "text": "The three anti-patterns it is written to prevent:",
+      "hash": "0a649309802075ec71475f7ebb9d3e06f618eae92b3883f2067f883c4e00fb17"
+    },
+    {
+      "id": "28de7b1156be99bc88b0e4eaf2ff8f0f5788e48a271413b2befaa894048ab9fe",
+      "text": "Anti-pattern",
+      "hash": "82d69070a5d1dc99b4d5052e7423e6988905eaa0355db2254e2e23ef4299a332"
+    },
+    {
+      "id": "48bc41fe34a8f4326f29a51b342f8428ae9ca2a6972622425879f3667c862416",
+      "text": "The tell",
+      "hash": "726e54584f3b157325b3430920241d776953dee0af7134d039c5096dbdf3460a"
+    },
+    {
+      "id": "fbb8b6774977a56e020e03ebdd044fe471148ee29a7be3559c78488cf2b81979",
+      "text": "Implementation-coupled",
+      "hash": "ed22d2231f7e9f48bfacf2b3088221b0b1318f28a7e670d688bb47b8969131a1"
+    },
+    {
+      "id": "fa8bebefe6b658f8863105a61cc33ffcf6a2ef8145258e8323bf677dd9435961",
+      "text": "The test breaks when you rename an internal function, though behaviour did not change. Mocked internal collaborators, asserted call counts, database queries used to verify instead of the interface.",
+      "hash": "f1b2cb1f535d6306e74c6bbea0c96bcd45fa5f9cb765b6f72fe1373f9c5f9392"
+    },
+    {
+      "id": "f97f84ff607fa63f8a7d0aaa05acc8b7dc74831d8b4ced495c4ff758d0f1f2df",
+      "text": "Tautological",
+      "hash": "c0f9280fe0300b0c3ed08f61bdc8558673b565e6b813be51be71e04fc23b288d"
+    },
+    {
+      "id": "f70a49219a7f03d548d25bf440a792c074cfc5c6f295bf4f66cac8304d08c177",
+      "text": "The expected value is computed the way the code computes it, so the test passes by construction. Expected values have to come from somewhere else — a known-good literal, a worked example, the spec.",
+      "hash": "6bea0ced8be426c5064d99f482f1938d9d402cb0514c2471e685e643dc491548"
+    },
+    {
+      "id": "bb9548db057b19093e9813a8e56e770faaca886fbd3f71bda90e4c21293e4ad0",
+      "text": "Horizontal slicing",
+      "hash": "f509cb74c73abf9b6c6712b9221ee75df9a3f73d4660287909f06961a72cad31"
+    },
+    {
+      "id": "896fb52d039ef40e7b8302a33aaeddb4587f1b01c55852595d13305004d5c87d",
+      "text": "A batch of tests landed before any implementation.",
+      "hash": "0e63ae17ba232467300fc62b7e09c7bc697819194cda0f29bac658b991471374"
+    },
+    {
+      "id": "3f38f999c1d8c69790b257175208f31670f83a95a4f59adfdfeb17c432a72ba5",
+      "text": "Mocks are for system boundaries only — external APIs, time, randomness, sometimes the filesystem or the database. Not your own modules.",
+      "hash": "c33c799fcbc42083a0643858603f99eb921667fc7be5019d408694ac1ce2f4f5"
+    },
+    {
+      "id": "a38866ff592adae701ebe006bcf8a1dc3739d6e24c974840ff7b610ef6048278",
+      "text": "Why doesn't it refactor? The description says \"red-green-refactor\".",
+      "hash": "e01bd48af5dc32c942caa8ae608059740096927a1e1fc1e05547fdffc4bc756d"
+    },
+    {
+      "id": "a253ffcdd1f2c092acd02c38b64576a951677ea590c34f73085b7b55c6117e94",
+      "text": "Because the refactor step was removed and the description was not. The removal was deliberate: agents essentially never did it, and keeping implementation and review in separate sessions works better. Whether the result still counts as TDD by the book matters less than whether the loop produces better code. The mismatch between the trigger phrase and the body is filed as",
+      "hash": "3e8b3aa2c16d7665a49ef02664d17f66fe04d22e5a39ad37fc1a2c3621ebbe71"
+    },
+    {
+      "id": "7052687f39ebc226db829a1ec528a15ef2e2aa35294e67e14bff17a2c9382a04",
+      "text": "issue #589",
+      "hash": "885b92f2096d33f8de291d587c5ebaaebca76aee3ab2a34278b27a2d34f52873"
+    },
+    {
+      "id": "c13705725f361b12adde13183ae150ff7c3d31fa919d4463416fe399711fd997",
+      "text": "and is still open, so \"red-green-refactor\" continues to work as a phrase that fires the skill. What you get is red → green, and refactoring in",
+      "hash": "a5f50b94a0f6d066c6b4a1f591957ec353c6dbe34fb822d0eef3ee715e35f5e9"
+    },
+    {
+      "id": "0da2343646f01f9e5b88a8800a3e7f7d1ad14155bc9ca6681d8f9937a427a037",
+      "text": "It asked me to choose a test seam and I had no idea which to pick.",
+      "hash": "56afccfb399278dd62fd764aca1f31b563f9384f2aba1d6ce69280d671442500"
+    },
+    {
+      "id": "0c27816903f0aaa4e7d9701da58c33aa84e0e83255234956717819fd30d0f066",
+      "text": "This is the most-reported friction with the skill (",
+      "hash": "0b22e02d37a6b19c0d9157e558c1872778353ff817a39f13379ed81f262a5d7e"
+    },
+    {
+      "id": "01c4c8fa47466ff7d460a4edd5b1fccbd417ce7f225d293b039b6a29a9b93cb9",
+      "text": "issue #607",
+      "hash": "0aa8ab830ba20acac4e5c3c1711ee78c9d31629c1bd0a57d30054e5d0a2f6414"
+    },
+    {
+      "id": "d408bc96bdb79accc12ac6781b0a8f838abce38c9e7e96c991aef30e889a9edb",
+      "text": "). The prompt lists candidate seams by name only, with nothing about what each one catches or misses, so you are choosing between labels. There is no fix shipped yet. The practical workaround is to ask the agent for the trade-offs before answering — what does the component-level seam miss that the integration seam catches, and how much slower is it. It is also why the chain agrees seams up front in",
+      "hash": "a482cc905762b88443400cb6ea3b4a0daabcd8145fb382baa8b9c0dbc74a893f"
+    },
+    {
+      "id": "b7849529c23fb2384984ce88bc801c363b0a9b71a8677538badb35849c190d13",
+      "text": ", where you have the whole feature in view rather than one prompt.",
+      "hash": "82453ebcbd8b0c7344ecedf5f65a6d7e1830f61994139c8140f7f7208cec79e5"
+    },
+    {
+      "id": "8097b31f35acfa6d6ad91c56e2957ea053365745ed303c6944e619d613b289a7",
+      "text": "It wrote the implementation before the test, even though the skill says red first.",
+      "hash": "7b2a2a0e796c4f3362d1854ee01eb1f5bd5f5f272644c4335d52a996f7f58c4a"
+    },
+    {
+      "id": "92c323014e0915f047222999598a835eb181c05844a410d99146687dec6a5842",
+      "text": "It happens. One user pushed the",
+      "hash": "d83a71748bbed0bfebb3a7a8802d15ea26d8eebf3b4f49fe1d7339f357cbcb5f"
+    },
+    {
+      "id": "352b45eaac4b732ed1091c40076ae64bba914c3d7971945f0ce76c04e0397ec1",
+      "text": "on it and got an unusually honest answer: \"I knew the skill said 'one test at a time, watch it fail for the right reason' — I read it. I just defaulted to my normal habit.\" The skill is written to live with this. No instruction makes an agent comply 100% of the time, and forcing the point harder restricts the agent's creativity for little gain — the loop is worth running even when it is not followed strictly, because the results are still better overall. If strict adherence matters for a particular slice, watch the run rather than trusting the skill to enforce it.",
+      "hash": "d6c4fa4492b5fa6b0e104f4ecbbe76071c17acb82f7131deafd43f38b75aeb23"
+    },
+    {
+      "id": "381ee1c5b53274ada525696a84215b681c4c939fad86c729b9eed280774b503f",
+      "text": "Should it write browser or end-to-end tests first?",
+      "hash": "3bedc5bacae0ac3952e66f17f8b7703f8b62081d96c47846a6d4c07d10cfd0ab"
+    },
+    {
+      "id": "a55a7c7d7784767155b660a3b678ac5ebc9de035269b4ceb5d3f1637e920d6bb",
+      "text": "Usually not, and the skill will not stop it. A user reported the agent writing a Playwright test first, then burning a long loop re-running it and concluding the",
+      "hash": "90a52ddceff2a05219b32b95bbd41d5f8b73dad8329ee39672e14db8ade8d549"
+    },
+    {
+      "id": "191a5faad8847c7753c67318c8c0475cf307d8446d5b10224da33073a2e365f4",
+      "text": "was broken for a feature that did not exist yet. Configure this in your",
+      "hash": "bcbbfab6e272e8a181aeffa1b4f2065aa796253d87775cd6f3f7e58e66a0b608"
+    },
+    {
+      "id": "bbf3becdeff9981b3d0c4ee5bf990ca09217ad5e70b4333f9b691ee16d9533bb",
+      "text": ". Browser tests are slow enough that the red-green feedback loop stops paying for itself; declare in your repo's",
+      "hash": "0782e82b29edae5839c43db64a2eb274e6692c3c9aa9879aba31920b047992fd"
+    },
+    {
+      "id": "81f56da050b3016562eb1933cafe03ed82ed9a915aacaab27171f8565917165b",
+      "text": "that they are written after the behaviour works.",
+      "hash": "e7ef4b230df166def08e666a43cddb7fbb2ce5d4e8587927b141370e82d7e42b"
+    },
+    {
+      "id": "80ef38d89e50b6ee6a2682b6ac4965c9d1e5943ad23f086f7fd77fabf6071aeb",
+      "text": "Does",
+      "hash": "c3c25857485f013571610fea4359a139f334e1e84ebb3c827e466fc4eeca6931"
+    },
+    {
+      "id": "e1bec5432fae43948095c5fbc0e976e01affb64f2d7670dbb0945375356153de",
+      "text": ", or the course's",
+      "hash": "e3a56db7eb512c21b8f49695c491e66a4eabacbd0f396c955f31b0d5854a9800"
+    },
+    {
+      "id": "b064044ff6a631e0ffe04d2b3831cfe848d267802b89a1ce44caef22a1cc4fbb",
+      "text": "No.",
+      "hash": "38178a20b470cfd18299fb1593dd4ba706f1a83321dac051d01086efd8b7a96f"
+    },
+    {
+      "id": "0b86dfd5cfe9aac3e18de6e818f182e7d2899ba75a6805ea6126297f68312fa5",
+      "text": "documents the methodology;",
+      "hash": "7126752c4c5419aa40ff8d217e060c54db3d19312f1a8ce41f22538eda086fb0"
+    },
+    {
+      "id": "734a6695d643485a8e6773656f679b11ec4f4821f40dc5bb32316f1009d7eb74",
+      "text": "is a very simple work→feedback→commit loop and is the direct stand-in for",
+      "hash": "d8ad42f7207c912967a480cf7f45533153b7360a5d0ea91541bf688c51863226"
+    },
+    {
+      "id": "6ab062ec90aa6f893da836e6017600be0674ce0a762ad0081308fd33ab11a498",
+      "text": ". The course's single",
+      "hash": "065e3194e46c80c8820a4349b46ff4a8f6ae1f5c2f6d7f2e5f1c5b22310aa6ca"
+    },
+    {
+      "id": "74b92b70c582303902adb7062b3685f708dc91ff9a4da33b3df8307f2a6f089c",
+      "text": "step is now split across",
+      "hash": "2ca4bf9c23ca87ecc46af3a3cc90abc348d19f210a6087223280aa335f5122bb"
+    },
+    {
+      "id": "1c5ff800a3286fe13d24642ca11a6fa42b531b8af8e73532c2a800fed2988cf9",
+      "text": ". If you are asking which one to run against a ticket, the answer is almost always",
+      "hash": "815c96b662d7002f9959d7c259d13ae52fa5025b689a6d223fceae7463d083c1"
+    },
+    {
+      "id": "ef5cad62d46fc88666976097cdc63394f77d4847573096edc237d4f4c3a6e2c4",
+      "text": "Where did the deep-modules and interface-design guidance go?",
+      "hash": "ad378ecd4e23a78511d429730b65515974f1eaecf3988baaded010c08bb5b02b"
+    },
+    {
+      "id": "fdfddff23364ba1b4483ad06badd55000defc8ecfeca3e7e88627e439f3d5d44",
+      "text": "Into",
+      "hash": "ae8252daa297bbaca3cc4725455c73fca514a9f61e7180c90c047ec700cc674f"
+    },
+    {
+      "id": "a9b16bee979f5167dac6390c12614a278884755d2a7cc7264e5f1aa56fef8939",
+      "text": "in v1.0, generalised so several skills share one vocabulary.",
+      "hash": "25221ce5f591a97eb2d9642070945a03f779e523d0fa691aab44656a2dc3ca7a"
+    },
+    {
+      "id": "dfabec3beb3413435d51c85677e62c7043b565348f875474110794260bf4614a",
+      "text": "left at the same time; refactoring is now",
+      "hash": "9273956d297d194e447c67c452d51452f4578973e599a5bfc406ad707d82848a"
+    },
+    {
+      "id": "635c14d1ca8d4af6ac6c3797c8e47638db95ba86bde2942572f7c74dccb5cfff",
+      "text": "'s job, and that skill carries the Fowler smell baseline.",
+      "hash": "3514308f5a594b5fac92d6e5af37e14686694de329662fbcea01d919742d0860"
+    },
+    {
+      "id": "21eba699b487ce32e9dc276653fc53ed6a7e86dae8d3d384888db38bc6389584",
+      "text": "Does it know about my other tickets?",
+      "hash": "1a9392e2d15259afa6954c5218535557197e24205aebdec03e245ad8c52bbfec"
+    },
+    {
+      "id": "f1bba44648489bc43e4b2ed717ea1ed93166b426e44a25c61926253d1df72620",
+      "text": "No. Run against one ticket, it will happily propose work that belongs to a sibling ticket, because it has no view of the rest of the issue graph (",
+      "hash": "a20137ce020a35c24289366b3a8d65968e507055729dcccdfbdebe4c711b37da"
+    },
+    {
+      "id": "76c17230cf7f20461f8c43996aa35edb82e2bb4ad9ba29e553d5eae67ca39d73",
+      "text": "issue #129",
+      "hash": "b2b31f32bce7c55243dcec5b308e6f505ed6daca47f587811fe70e57cf218fe9"
+    },
+    {
+      "id": "190c0e2a19f72e6a4b0816b3cbaf8aa71972881c913a27c817b0031d20083a26",
+      "text": "). Matt's position is that this is not",
+      "hash": "a7998068b433bfd30770e96d982795ec6389ab4eab9b50c3df16772fd0315d29"
+    },
+    {
+      "id": "7ccdb30f08e5a9659885cd39795d301059ed8c4058c4ad3337e755cc2380366b",
+      "text": "'s job. Passing the spec alongside the ticket helps; right-sizing the tickets in the first place helps more.",
+      "hash": "54a9a6c2a78b931ae4b50fb06ee42cd88b60ef8cc1d30aa5cb38fca8aec5b4e1"
+    },
+    {
+      "id": "66a487908e5ff29cc8a1f3befcd88ca1b056c9a7b453d6664d0ab55afc51e1ce",
+      "text": "It stops and names the seams it intends to test at, and waits, before any test file exists.",
+      "hash": "c8652a9490eb7c8ff662ff4dcd74dffd845339734f7082f963b1a17a23207ea6"
+    },
+    {
+      "id": "035f84a44a7a3d093ccb2831dd9aec59ffcf6e4ff0b342ba5914c8e886faf381",
+      "text": "One test appears, goes red, gets just enough code to pass, and only then does the next test appear — not a batch of tests followed by a batch of code.",
+      "hash": "874950533ba1709e786fe3f7fbc0b9a41c62d6b91f0279087efcdaacd162add8"
+    },
+    {
+      "id": "20bb0bb40cef0c54152cde0efb76a4538c5d248ef30e2d046018ad26d656eb7b",
+      "text": "Test names read as capabilities (\"user can checkout with valid cart\"), not as internals (\"checkout calls paymentService.process\").",
+      "hash": "8ad5b673510bfc12a985ec5b5624ebb7c1d9fb579f1e6ebb1fa4f596258972c0"
+    },
+    {
+      "id": "95a4ccb8236ef245b0cec669ff9868541039e2aa47e07a823b3c55f286e44e45",
+      "text": "Expected values in assertions are literals you can trace to the spec, not values recomputed the way the code computes them.",
+      "hash": "95e7bfdfe9a07b035f4db85eec7065f2710a2ec272841917f6469ec31b417f91"
+    },
+    {
+      "id": "a2b8fd072142862c675567dd44445aba2109a91bdff4a207896f002546d27bcc",
+      "text": "Renaming an internal function breaks nothing in the suite.",
+      "hash": "f933a6dbaf0086194452d08759404d29ebcda2a9478902593232cf0e81381996"
+    },
+    {
+      "id": "33d9e757dea3b8ddf3b25bab7f7cd12f59f39090746188e7903f66c65253d34f",
+      "text": "Mocks appear only at external boundaries — the payment API, the clock — and never around your own modules.",
+      "hash": "e07a1fa05cd4fb2cb64101d0d711e6e3bee1e47aeb5981a884acb63ea455802d"
+    },
+    {
+      "id": "b670ee50b0ad0c2cb9b8b1bbc9287994ebbdd82fee7a554fbf39ced5f6b57778",
+      "text": "is the engine inside the build step of the main chain, rather than a step of its own:",
+      "hash": "044a57a6615dc25e9211f67715310d8bc7286510e1b66e487a3fa1a422ac9d14"
+    },
+    {
+      "id": "032cc74f910375cf85ce4e9b797ee630959afaa1f58a92693bb8921847eda1ae",
+      "text": "agrees the test seams up front,",
+      "hash": "7aea4afd07ea8b4ae5401fe8b42b103380d48add7b3f600a53eba982a798b7db"
+    },
+    {
+      "id": "f259c628c70fa28aa2d6437e080969489d5ce8ada0503fc649fa0a14f59e01fd",
+      "text": "per ticket, and",
+      "hash": "b1f9960cbfe3794a6f2325cf7d3aecbb53a403ea4cb4126c097908da0ec5dc3f"
+    },
+    {
+      "id": "5979641571f5fc9278216f5ae8f01d6354ce9c3107f7eebcfede0ebe48cd18be",
+      "text": "checks afterwards that only the agreed seams were used — and owns the refactoring",
+      "hash": "b67960d213ef7d3bc1d0bd82276d4caf82e90594d3c2b90c83e5593019d218da"
+    },
+    {
+      "id": "cf96159cc61e5e578368092f7ea9cc7c5b24f56e2ea19c3896ac50617b6c60d0",
+      "text": "no longer does. Its other neighbour is",
+      "hash": "ff641f949196d306275a23e5f157d7bdaa4b024df4000795ba1d3f12585af189"
+    },
+    {
+      "id": "23bfeba2616646fc39984f3498f1df607422b7c935b76ce3e93434e8f476fc13",
+      "text": ", the shared source of the seam and deep-module vocabulary",
+      "hash": "c3af7e272e6cb33491097116b7aef3b8852adb3b6ce6bc212e2b0072aab86117"
+    },
+    {
+      "id": "51679ac726b5d7b5f4ed2efeaec57ddaaa07edd108bdf5f59a624b2f31dc3550",
+      "text": "speaks. You can also reach for it on its own, whenever there is a concrete behaviour to build and no full spec in play. When you are unsure which skill fits your situation,",
+      "hash": "6bde6309c571fd5e26b764943d5c365905e75b90eecfbc74bc38de04a4cec4b0"
+    },
+    {
+      "id": "fb88af9b3d6a20b22492197630b5a84f59aefde276bf3434d96cb01148a8cc71",
+      "text": "routes you.",
+      "hash": "7ab0ed124c45755dcf8314c61ea1bf3f8c9926f3cf622e8d67e880128523bfad"
+    },
+    {
+      "id": "fa0ef0f1d13018cd310af8cebdb3fa9bb22e711e9b32b66580381c99e55112ee",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "6714ab14b94b696028ffcf0e3e597d6128167b14f1eac0ac8936c636f4f45dca",
+      "text": "A red-green loop can still start with a vague task and end with an unchecked diff.",
+      "hash": "9be8e32f180982a5f8690bf961a35065456af5c7edd2102276aed2ce9bcb56b7"
+    },
+    {
+      "id": "8f1605a156fc26a022796cf30d60c87f72f0eedc65c2d70f2617471b78467a05",
+      "text": "Keep the test-first method from this page. One command installs all 22 skills, and seven free lessons order the work around it, from a clear task to a checked diff.",
+      "hash": "e657f2d628632ab5b186bcbfbfa920991b0fcc5d51e206395b0bd238b1285e9b"
+    },
+    {
+      "id": "b7bdb80f019a444ab95af4d4be1f6d1001337685ca9727833b8ddd25a0caec58",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "74d4824c00f0ac4a0f11fdfc51e3fa53d57ce4b8c51711b22e3867563b4812de",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "4cdb9d01d7839bd829e69532d0f3acb50644cbf9fa172cb7495c1c7e9bf7719b",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "5547cf9723c19aa51adbac87a036777db44948e08cbc4832b5bc03138e1d2cfb",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "e830736cb3153931e88c64af62e5524773983af90ac205fac71fc1d96e4079d2",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "ed4479d3543b341c78b2e8da6f50404c59d23afbb012982541c1e11304f64a3b",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "61c39822d19e550e3c3fe9f05b965ca6adede2c4ae65aabdf916f2f732f6285e",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "bf8b200dddb2bc50f86967f54368ad35903b52095693ac1cdb32a04d80699538",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "538f8a202f0690014cb4ff07f2d690526518aedbd5613afa96edec40893381bf",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "89287f8ff00c20154960d583d4b437860893088787100b7e49d57fd31fa55125",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "6f8ec72afba361e2d84b15d10fee5d596fbae7aafc4404051bbe55b7537d8068",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "97daae0ee22aebfc6fccc5d62d3bb6bfc6c1011dd948b4a284341738b3cbab22",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "ef78cb8af193d1f1c8845fa2533ab328db015ea3b8d7873bc0110dda76aba3d0",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "1a17a70625c9f996721ee21688d519919aab3bf738f7d2b4cc0c0c70f8933cdb",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "f9e3e85d8220b9e185555a83de8d21fe535d1d9457bf597a356b394e8fd8b0f2",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "74ff20d74c31c7b5aedafac31c25d620a8b35f071f0bc105552987887cda0f8b",
+      "text": "The /setup-matt-pocock-skills Skill",
+      "hash": "0674a6df3e473a2f50336ebb738940e032a1a9c5a21617f3a639eccd99c69b49"
+    },
+    {
+      "id": "4fd12c4fb7d77dd4375fb7f63d0580786b5feed515cc22b9fe965a92c4c7f44d",
+      "text": "Article · 4 min read",
+      "hash": "8d437eb414a7fa8f57889d78f05cd08f83482d4f93356ba481096cf36d5469de"
+    },
+    {
+      "id": "92298b69c1be3a1067d45b83d92328b7bbeb1a89447a6986593ee7ab1d681d5c",
+      "text": "Evalite v1 Preview: Fast Evals, Built-in Scorers",
+      "hash": "5093959d3eb29dfc46a14ba429e032b913556f99343fc6ed4e5242859c498f9b"
+    },
+    {
+      "id": "522830899ee599cccce713bea35414b0d3f94558803bb64170df8f6bafbfb4ae",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "ce418ee0523bb422e0687266d7b1df5c149004d7a5b6426ca428db56ec5ebe75",
+      "text": "The Three Types Of Evals",
+      "hash": "b9ba2c6b9d4ca4819cb17d0220a690bd440da3c53378ea0bdcf54f44ce5eccbe"
+    },
+    {
+      "id": "7ad73499000451f9bca7ef5c3e60c84e44746bd5c0ce96df6726acb99ced623e",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "2f8179053e77bdbb8946fb12f57d801eee333d1655baae83d6a4b38766806039",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "f98486df57eda9dee0a9d473e82906a3067f0680208c391141541adee0ae47d1",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "4a05dc19efeaf54a7c43d1a8d87521625a81b5945659824ee514c43cc554c1d8",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "c0663b24a48b17c9a5ce7c075767a448d9c7d62c9fa967f37d368830f553f3d4",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "b8c62f7241690d885b8b0152db0a78ad6aae0d643b1291818f3197dc2329edfb",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ae9af695dbf2fa7599996226598b4df44931a2d2dbc8676f3f8272cace49246f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "2bdb7cdf513d2e92bb3d70441449ea8a6a932f4844119b41ff964c2fef25a770",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "80f27fce9b06881912b886ff6c247539af7e31799cc5d431528ce7bde6c5cdf9",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "6d23111fc53ae60d90546924616af2d0c468df3067a27da9aad1faa506b8c3e5",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "2f0d2146db69d8ba96e674dab0f0501c1ec068a07185039abc38d9f9048c26fb",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "8676f6d04894c818b309f83d8367a05e976c2423c5abd6798233404f612c94ca",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "72214e34bee44c32668660d282a18394df45571566ce34cfac721b5b1a5d6ac4",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "4ac0beb8692da2faa4db51ee16fe861d106583291f7f91c89a2d6025d9ed3f53",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "83778073936a9ea3ca5bc18b0848d038a1e42e74de7d0acae217f4609f3f5c1d",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d0c5b866bb05ec4b09cb6e03c7d7abd263249e4935d007013a8ae7691a6a96ab",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "de821c80f07b3a3dee8afa56850f96c837b6adc4c53fbb1aea77fc9a127f917d",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "2ca6bf546f8dbaa8027d9127909ece1365169ca6206725b40709d587de323cd0",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "8b8946a27657f3fdb4daabd7112fde2380917f9ea6dc78703e8ae3490302921e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "97606f72497b01cd7a2e2b3e13a5b3f5b9415d663d9040ba6d41af940942ace3",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"r98ea1dqpj7hfd\"",
+  "lastModified": null
+}

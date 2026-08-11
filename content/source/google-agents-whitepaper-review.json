@@ -1,0 +1,503 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/google-agents-whitepaper-review",
+  "pathname": "/google-agents-whitepaper-review",
+  "fetchedAt": "2026-08-11T06:28:19.993Z",
+  "title": "Google's Introduction To Agents Is GREAT",
+  "contentHash": "3fe097eddd413bc86870229c7b29080e7644592186363a888c35be25e3ca843a",
+  "textHash": "616d61a4a83e065d5847f9a30fb841e2f7e953e487b0de6cb8b010c0f34c1ebd",
+  "strings": [
+    {
+      "id": "bdb16f4745c269ab3678d5e668487cdd1049e0959e626973daa684dd77a01639",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "a96cc7514d5b11ba495c2f20007631348d05f80b8cda6b488f20ef4d2b2c5642",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ce3357f0148b6587bd9920a0db1fa77a2d37b4e8ee352f65e60aa2a62480a477",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "102f87a8c080c73c493958e571eb98e4c54b0fc6d4fee4101113eceeae0fe200",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "0f3eb4e60f26737a9dfd5a4a3a6306291da66c7d72524f2787c2c172683810c5",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "f7738ec14c1354ef0c05b26bb1299dcb62cc9dcb5bcca1ec36dd6e11a699f57c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "72e7afeccf79ea70f02474694ffdf5cba4382ccecf64a18507e8b01d6d4ac266",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "6bd9d8c0f9f5f9c473c39f126b4028c48e50cb3c19a485e5976ee07e9f32b2a0",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "f2f420059448f0036c467b6a00bc5d5418b1781c45f4d5e16c5ff07222b720d8",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "9ed745b3d6000aaface6b6f3954d92e9262279546f528807d5e6e2bd37d13c6d",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "e21df53cf061f4c513a9fa4b4706dfd192e4eed6b6ba3de25d2d8cfe7676140f",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "321037ea4f1091124ac71b72a59172515336b9b37b0cbcc1f8db8f81e6c83e62",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "c6f393ede1013b75ef52420ece4bf5b1dc5c3e8925465d5a964b069122656ec9",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "5023cd18b48964d6cada92d4c0e5e705a3817b9988ab041ad242bc845f3c00aa",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "6f6b6ded1bd62c56019b482bb970c0e51cf19bbb761ee66b28603106133139ca",
+      "text": "Google's Introduction To Agents Is GREAT",
+      "hash": "79ac59db055ea8efcac007ec0b0ab94886f83516769b88445a4530a3d05fbfdd"
+    },
+    {
+      "id": "e22f1e75d4b97e3ace3d60cdc1da49039d2b2ff5dbc7ae82d8a9f60dbefa900f",
+      "text": "Explore Google's AI agents whitepaper, defining agents, tools, orchestration layers, and more.",
+      "hash": "0bb8306c8de164008d016d4289a532ea7fca159373274432cdd3d485abed9de5"
+    },
+    {
+      "id": "3f34432f7297d9b60a6c26e8704ae3d363adb4680d4931fb26d560dc2038f464",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2a0ad2722b861da931aeafb4d9feac27039b1eba5ac3385c21d71e6867580f9c",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "5d7b9ec3eabf46ae7bf3c2c3bdca9c37b62e6bdc5966eeea8c3605c9706d8bc7",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "d2c1c8dbf244d4f2e15eff3805ad589aceb90ac748837c548afabc51f9f0c2dd",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "c9d6d81968090af41cbf9386967b9ae901e11d6901e2395d60daa280c256381f",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "b05ad178fa06479074cf2dec1b7e5f217e88a098832827c31ef4f65755ae622a",
+      "text": "Definition Of 'Agent'",
+      "hash": "be0c1c1971aebe4a358941bc43f4029b85b8ce9e1eef74c1df1474279f4bee42"
+    },
+    {
+      "id": "8b09334583a7c46e1fbf15fcdbf76b197062d0802a28e9ecc9f6694aa81bc010",
+      "text": "Orchestration Layer",
+      "hash": "ebfbf7b5c841ad5f7f737f78bb8dc9ea19a9bcee85eccfb9b989ca3f13e9404b"
+    },
+    {
+      "id": "ab78e198a529ec1fb474bd50b2da5a1a2d675565301ad0bd661eac2a51689090",
+      "text": "Definition Of 'Tools'",
+      "hash": "68c2437380478d892da803152433df36a286994319cd63ed9fe1a8e328a51339"
+    },
+    {
+      "id": "fd4253ad495caffc9622f93dc2d967e01ddeef0dfa23d67e17c867382c778744",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "4ae842dfbe2d7d14dbedf967b22e4af223167b3d7b0885ff9b5ce5f5034f3dd4",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "46f46822b6b982c478b88c19dd74132ead15eba46cb74b36500091f16608ec79",
+      "text": "In September 2024, a group of folks at Google published a",
+      "hash": "750e57eed4c7772b30f31944ca351fa3b5117374c2be70c7ca4e439cc4853684"
+    },
+    {
+      "id": "5624e25482d9b89d761a0b68a970336ae121fbab49d8b2544eab567aefad0bcb",
+      "text": "whitepaper on agents",
+      "hash": "5176b2a80e8124ba362627de0f93fa81b1d128a1d5775c5181679ac61d29835a"
+    },
+    {
+      "id": "466b0f1b13f02e69524ca596e1a25e078d5755ccfd8a78ef0fa3decb65bde90e",
+      "text": "There's nothing particularly controversial or new in this paper.",
+      "hash": "b821f496792add57fca733bbb4995c0c0f480a820c8f030b47019ea7b7a7ea7a"
+    },
+    {
+      "id": "2ed395b6d2114888cc2496739d654f5ab73f21cf933e8607e8fc5d0d1ccaa200",
+      "text": "But it's a really good set of definitions for some terminology around agents.",
+      "hash": "39a2d7cafa50661cf20fd8760618ac4eb971ca855830197045a1a160547cc0cb"
+    },
+    {
+      "id": "d5f0002ab669fa955b43e570a324a6cc053c53fbfc02fa7fab6b9582fe5e57c4",
+      "text": "It defines what an agent is, what a tool is, and has a couple of extra interesting definitions which we'll get into.",
+      "hash": "fe33fbb4c0b06b1213dc89c52868895e08d655a0b6e376824945e7111e289c98"
+    },
+    {
+      "id": "73e3a55872eec58e1333b896f7b01ead4dc0ffceb1593afce9128bc9fc59e6eb",
+      "text": "I think it's a great introduction to the field and that's why we're covering it.",
+      "hash": "f60b3416e2e024fcf6d8212131204c7f71288a39f68eb6dce7e288cb4e38d5c4"
+    },
+    {
+      "id": "882615da1d56a5d6be1c8d01916861fe154c3201f618accd96e4d5cf9ddc29a4",
+      "text": "So let's start with the juicy stuff - the definition:",
+      "hash": "7f5992bc87036bbc69483d5537e230bb748d2e2844a7d4fed0a5bc7a0c9fa11a"
+    },
+    {
+      "id": "2a2f4399b6eb341922aef317897742b8b195a4fc9dc9b593155f8819d411ab39",
+      "text": "An agent is \"an application that attempts to achieve a goal by observing the world and acting upon it using the tools that it has at its disposal.\"",
+      "hash": "8b6f9c1c18029658d63ec5ccec3939a8011b5715eace7a084e10c2e27f46ea08"
+    },
+    {
+      "id": "05eaefc26a84d19e2eb59d80fa2cfba67b193d2458fd94e75688194818c6a054",
+      "text": "This sounds about right, but of course a thermostat would also be an agent under this definition.",
+      "hash": "60a05c36027e0c883b2707fcc3bf595f2207653fa46f46c9f9502e2f356dbfef"
+    },
+    {
+      "id": "c2280692ed23fca75871ffd958cdf3fe34dc2cb487cbbe5d1c10bd2ce18bf34c",
+      "text": "Helpfully the paper also draws a line between agents versus models.",
+      "hash": "78abfd740050d5840e892895ba92ef7432cc92bad7667346a179298abdb81233"
+    },
+    {
+      "id": "05d613414e1330b981fd2a0456b4dd3a5d737a3eaa9a44584832e6ac44079301",
+      "text": "There's a nice table here for us:",
+      "hash": "2285f09a40b80c322afa598f7fca1b476a1b3bf501f2b5e0b4c5fca5d5636198"
+    },
+    {
+      "id": "847a8a70e2b1a3c99f8974f6c5065404bd866aaf91b367b68c5c3d34b03db8a8",
+      "text": "Models are limited to what is available in their training data, whereas agents have access to external systems.",
+      "hash": "d57728764b5c6042381b2209c66b97466637afbc90cba2cd7e076542bde162ca"
+    },
+    {
+      "id": "79de7057d2c256fc79dca3e1e1b02271d93018a179f653384c6384cf6132f0cc",
+      "text": "Agents have access to chat history, which lets them add additional information to their context over time.",
+      "hash": "bfbdc5562ff4d4ca588a2111613f191bc3f1747dc5b4107b8ffcb4e8d57795f4"
+    },
+    {
+      "id": "b3f9dafbc17565396410b66a42c73fffa3cd5b72c1185685c1f1434b1c061f9a",
+      "text": "In other words, a model by itself cannot be an agent. An agent is a system containing memory, reasoning, planning, and tool calling.",
+      "hash": "7b2dea95e329912709ddd48664ae59e31727f3d5c3e8831c0b2cb38394ef49b4"
+    },
+    {
+      "id": "414fee6a633cafd4d88a651a61fe4ac280a355de33433220dae478ca26ff57fc",
+      "text": "But they also shy away from defining agents strictly. There's a funny turn of phrase in the introduction where they say this combination of factors \"invokes the concept of an agent.\"",
+      "hash": "fb2a612de7feb07913117f6aaeecb4aa6a62b4695767ce8882152676652188ce"
+    },
+    {
+      "id": "c0d1c04a14d3f15ed9220e10fa5f6d4ff37aaa6feaf21b4fc2d4bfc9203f3b10",
+      "text": "Basically if it smells",
+      "hash": "1e27000af6540df74b1f436d99a5d1b82e9806ae6cc17a0d2103a39ce3ecf0b3"
+    },
+    {
+      "id": "be0498b6fa244b2abc4da39083f9b437dcd4cd6825a8053a4b464fe7e01ae37e",
+      "text": "it's probably an agent.",
+      "hash": "909db00af5b30890992f982210180355da329ef17eea518ea902d600922fc19e"
+    },
+    {
+      "id": "31573b0ae1bda56a5df2b6562b2bc7e128d68b5f003f8edcf5308abe5e75b29b",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "bda92a834802b62b0638e022647561c1ed41f839806d33a2508d98b7b6bdc0de",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "38fe85d6da5afc5dd0ad1798f6cc80e7b4e59ba9ece5fc4a427a855339777ad0",
+      "text": "The paper also talks about orchestration layers as being important for agents.",
+      "hash": "43d9e6a37c5d00cb6d4ab7b801f48a8532cc6ffbae90c4c188ff920fc2a56607"
+    },
+    {
+      "id": "da33262bef7099729f7c51f38f7b8ea0f4e70e4b6938c7d6953b0a33131885f5",
+      "text": "The orchestration layer governs how the agent \"takes in information, performs some internal reasoning, and uses that reasoning to inform its next decision or action.\"",
+      "hash": "a22ddcdc39f5bf466fbb1d2e4df342cdb6d1605335d0d70e99b0c65902e71416"
+    },
+    {
+      "id": "3f901a0c3c98e6771013d685ce5282208745edee4ea2467bc014ea3f820b178a",
+      "text": "In other words it's the feedback loop that I've covered elsewhere in my",
+      "hash": "ba1d1ae20e5a6f548cfb867d85e13405c6bb734cbe7b472b8ef915cdaa0b526f"
+    },
+    {
+      "id": "0c6bc04f2477d417b0922d5e82214fa1752e4a5349a6bd15d58e95c254a0127f",
+      "text": "Vercel AI SDK tutorial",
+      "hash": "d1774fa401ff98fe726950dcf0ac57923e083b1ac69a80d0970d13d7cad04437"
+    },
+    {
+      "id": "284365298b7d2d3c8e7d9a31c805af8594c0eb24db5c2b504e5e701130bad5cb",
+      "text": "Pretty much everyone agrees though that for a system to be",
+      "hash": "ebd1a949059467a33c359d8be749606a31cf9943c71e24bd12d1803eab40ab4c"
+    },
+    {
+      "id": "9a840eb99de4e4e5dd657ba14e3438f37afc2401fbc9318f82d09bcdbff30663",
+      "text": "it needs access to tools.",
+      "hash": "cbe2ef2e0634efa110d5e1105efc5e6af7b725a12fb129371e07cba380e541d6"
+    },
+    {
+      "id": "1a514d2e950b8fd1968e7e3f1e467c0ddbbd9a255c4e28d76ec3d0c9b45b967b",
+      "text": "The whitepaper defines tools as \"bridging the gap between the agent's internal capabilities and the external world.\"",
+      "hash": "ebce96af6101587a5c454bae0ea0c80ca52c8fe8aae1432a974776b1aa2c850c"
+    },
+    {
+      "id": "d0c4ceab07e8fe2036199cbc65b9027e1a593109932189e7e4ef53184f212e19",
+      "text": "But it goes further than most tool definitions. It actually defines different types of tools: extensions and functions.",
+      "hash": "e4c8162cd0a799c529d3ca3bba9a325ec2d35dd2d9d632a49f63de8c18e56941"
+    },
+    {
+      "id": "67f3c81ca2be4e8f52c6d9c7c956736d11294bb4e262fbc9fd949da46ccfa8dd",
+      "text": "Extensions",
+      "hash": "fe3436af86b47d22f22d93da68119fcb749dbed0335b4dc99f254e02db236156"
+    },
+    {
+      "id": "b25658a5cf017400596d9db145b7e1eb7c406c265dea142fb7281d101ad4afef",
+      "text": "Extensions are ways to extend the capability of the agent. They show the example of calling APIs, for instance to fetch the weather or fetch directions between two places.",
+      "hash": "d083724829c1aadd2b4f816a13f57a41b579ad2e88ccb9eb97c98419d7886fa1"
+    },
+    {
+      "id": "7b6f42d4ba56ee72946af62e588e85809f643992a35323b8eff0e5dd27aa0d35",
+      "text": "You can think of extensions as things the agent can do without asking.",
+      "hash": "a3a65b23f256808cbf864499c2735bb8acf1771a41ca5e53bfc1c71746ed1a9f"
+    },
+    {
+      "id": "223d53ef96ec1ac2c88f1e7df553b08ffbdc7ee37c5d2feabea1e5db04441a30",
+      "text": "These are like typical tool definitions. We tell it how to use each tool using examples and tell the agent what arguments are needed to successfully call the tool.",
+      "hash": "02eafd48742ded07496c6795582facc726b4571adc23b6fdfc0e34edf4e8cdc5"
+    },
+    {
+      "id": "f392be848601c8dd77b1b619e5b87aa766f16d71a62dbbbdbcbc4a4842645332",
+      "text": "Functions",
+      "hash": "75e942e5b366227eccb9def7fcea18422c7c5e164812c112c921461b2c587727"
+    },
+    {
+      "id": "cbd1d46cd956ab5a633649cd4ea0a92c5f3af4c9b71250b0bb58282b88b818a8",
+      "text": "Functions are different to extensions. You teach the LLM how to use them in exactly the same way. But instead of the agent having control over calling the tool, instead the user has control.",
+      "hash": "04b094e4bfe5d78f536c3cc4c8b0b954c6aa7543f4beb0961fc7eec757c79327"
+    },
+    {
+      "id": "d383e34b95f9785f267e1d5af985f2d7ba039bbe163e566ea49d06d1f2364606",
+      "text": "Let's take the example of deleting a post in a database. The system the agent is deployed on may not actually have the rights to delete that post. And for various reasons you may not want to give it access to that.",
+      "hash": "3067bc2c05d8b0f4357c86e5f670b2bd8dda19c62be2a457383bd37cb5113bb4"
+    },
+    {
+      "id": "65c2106831773bdbccef6bfd7e2b5bcf6a948dfde412c90638ef6f7977d138ec",
+      "text": "So instead of deleting the post itself, the agent tells the user \"delete this post.\"",
+      "hash": "b115cc293b7b6ab614c59c63e0c4976d2ec4777a1788bda1203b56558dd4055f"
+    },
+    {
+      "id": "960f5c018d9ee104240cd48a501e5c72e3aea3fc4d35759dc1cd2591767659fe",
+      "text": "This is what it defines as functions: \"the logic and execution of calling the actual API endpoint is offloaded away from the agent and back to the client-side application.\"",
+      "hash": "efe38f58debbb1f2995f43dcfb0418a198ee3fd7ecf03f058eb03e9fdd151238"
+    },
+    {
+      "id": "7205b6a3c32551bf9f08cddb4b2f666f56e8ae8d96e5d91a376db7b2fdd59958",
+      "text": "There are several reasons you might do this:",
+      "hash": "8d49f085a1f2407dede95e237fa0a70e043dc87e2071e3b68127767368c48f84"
+    },
+    {
+      "id": "6ec4a865c1adda7e0d7aaf0dd3b972943c5c28ffbf7bfd87df1e432a8b33bea7",
+      "text": "As we described before, you don't want to give the agent permission to perform those actions",
+      "hash": "7316c381e45aec75adbde2828d2222427417618fb296cb6202ebf0b1e1195848"
+    },
+    {
+      "id": "eeefc9b64213cc3c08595a293e788a670325e92e61ec3c6114655233a03bc46b",
+      "text": "You want to do some human-in-the-loop review",
+      "hash": "f3cd512dc23761b4f8860ff9f1d968ba79ac3365c7be17be4dfe340dca97c859"
+    },
+    {
+      "id": "2db8b156220b9d7729ed91c71bdc9bd65c38f19a7dab86203b3cde11b510e2d8",
+      "text": "Or you want to build the agent while reusing existing API endpoints",
+      "hash": "4ae83a059bb2eca8365340e51f3220bcfa9316008aa0652452a74dc2bc982fe2"
+    },
+    {
+      "id": "c8733484e54ddea9803e761c5eba4d60a7233b98b9facabd979eb658a2daaaf8",
+      "text": "So to sum up: with extensions the agent handles the tool execution; with functions the client handles the tool execution.",
+      "hash": "08063d6967004acfc532607fb9571fc2a3d43c504defdbd3dda3af0dac20106b"
+    },
+    {
+      "id": "f8c6c689b26e255576e71eb314451f9627b5400b3a66b28e5554c5aa6e2f2886",
+      "text": "My Thoughts",
+      "hash": "d156892bc2051a6cd6a03f9580c2860c51a3943c1aed6e81402f094a8f188b8c"
+    },
+    {
+      "id": "9f68909717fd83f8eab904a2e1ae88c0884e7ace089d9c8f4890d76873ffa288",
+      "text": "This definition is a bit funky. I always have a bit of an issue with hanging concepts on such commonly used words. If you're a developer you already know what a function is. And the definition of function versus extension is kind of unclear.",
+      "hash": "e7723430477f0711be0962305fab1f9d7fdd0ed8561c83818cbdfc794edb940e"
+    },
+    {
+      "id": "93223549d75bcc9568dc56834b5d62249fe9720a0c5ab4a7fd083af0465ddbae",
+      "text": "The whitepaper goes on to mention Google's Vertex AI platform. So it's possible that functions versus extensions is a key concept there.",
+      "hash": "b72111c6d7d0f716f94e78c309a8a959fa7a5bd316e72a7a0b2126dcc451f003"
+    },
+    {
+      "id": "26c2ba7586a1c4be37014e700c38beaf782cd3eb85dad2cd8f91952e86ebcb83",
+      "text": "I do like it as a teaching device but I'm not sure if I'm going to be using that definition myself.",
+      "hash": "010dea8378fcbce71bbba895ca6b520547787410280e73a3c8b38445bf3a5252"
+    },
+    {
+      "id": "98417161af86c1678c49fc8522252e761f120f405a177dc9e2c86474b8ab1c7a",
+      "text": "Overall Google's whitepaper is a pretty nice introduction to the field, and adds a couple of interesting definitions to the discussion.",
+      "hash": "c2044d0b06e072f56ef3a41eb07cc8110abe81b2d55d706d51d6ac8907d9848a"
+    },
+    {
+      "id": "834a8a0f12e4db25ab9ed5d2d1a56bf8fa4c254237874dee85e2f402577b0f5b",
+      "text": "There's more stuff in there like examples using LangChain and Python, so it's worth checking out yourself.",
+      "hash": "bdc3b1ae5d97462906fca802b9e27bbd94d95855dfd787aa57f3c3195614c2ab"
+    },
+    {
+      "id": "ca8d7bb9ba63cd88419e7bf3a135b5803c9c1e0be1fe37770f6b97c3efc955a4",
+      "text": "But I hope you enjoyed that summary and I will see you for the next one.",
+      "hash": "b36ab1ee00217732bb375e4910e30e29544563fe2160cddbb7c1b0d4fda06736"
+    },
+    {
+      "id": "70b8ec94d475a4185e07ac911485246919f0f4be32dfdca4c8553b5b63b79f19",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "0143a0dfa63b7455d39f78f7a8e98ff1f0399e92f63220b3b98ed68b873597df",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "0496e5601f14ac4ae0124cb77d1664a1d277d62e62a58c2e51995d44c427659d",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "a7bfbe8d5ed86ae96ae85f4a6224f61a08e6569998a58b68574bf0fbe56723d6",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "a39782653f5c29d946450e0ef0ad50a477a9aaef66853dbed6b3aabce09b9437",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "c097613314a6ae16ad01275a43de5cd67ef54a51290716d56ab8a48bb630bbeb",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "9f00fc724850ac526775686ca4565c1343e2245975f76368c400cb1b4fe45537",
+      "text": "Article · 8 min read",
+      "hash": "7ed659a57e73c0b79d355e027243422ade398c8a5c07027fc4d37d8357ff6dec"
+    },
+    {
+      "id": "00bcbd17dbb755f492be8a3c618b99e498e31165dec67000a6cf2474485ded27",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "cdaa913a7cd151b5854f4a024a741a0ed32323936282c24300503fa2de78a9ef",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "3aa5113eaa53bdf12c8958bb65364744ef29dc544ee9732d902cc8971eb4b158",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c44034749af1487a5891829656d97374327c23e5565fa5866bb2dc9a0f1dda9e",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "af78565894f69a2acfcd9f5fec79c328e756aa946bb78d92cb62e75540089363",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "031a59b51ae6d20caf5bb786fdad327e94a81f2bf512137288eff9fec51d82e6",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "a389b11f70835dcafa6c5e11e6d09b51663f4c142d57fbed52d5e9292eea3777",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "24c1845bf7023ed7f5e944479f82722ad4d249f08ac53cf00bb3e6f00baa40ab",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "5de9bf9079a63027f0ecba62758972ec66f4b62b90a061f032394baadf261c7e",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "f2fc8bb09f89d34e8b5946f8ca35ed6e1b64e29cea424e568fd5ed025157b56e",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "bd698ab2d85c8826ae55125fc1d3b48127c6cefd3f6d16f4b0b1a02b6f573b53",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "1cd2b34f255d8136de72573f4306444dd121abd9f622e5063d5f52ed83018045",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a5718a82c224b740e30f0ab390db89b660152d37c524f5cf2baa3fdeba6b6a7f",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "5f09b169f35424193aa66909dde6403e1fa466be9fdb18d24cb9e62a1873aa8b",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "3d25f278b3853ee830e73253c36cd056dabc56b59664b2ac20ed4df1753e19da",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "8de0fea14a149719f3a71d7a8ac82f20ca468dac51f24e43a898266cf722a7b8",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "fe87ae87a8320a9230320acd9dcfa5b15eeed6a3ba8110aad9282952b43f8dbc",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"yvnaqc3huy5nyu\"",
+  "lastModified": null
+}

@@ -1,0 +1,433 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/my-grill-me-skill-has-gone-viral",
+  "pathname": "/my-grill-me-skill-has-gone-viral",
+  "fetchedAt": "2026-08-11T06:28:11.870Z",
+  "title": "My 'Grill Me' Skill Went Viral",
+  "contentHash": "9257bc0e0d2bdabfad86aff5fea66170afdd7399f282804e5a0d6fef76f915fe",
+  "textHash": "59cb8a7778f207b18902fe9bc85e9dcd3e9ebdf30829a43684a2432d5031a499",
+  "strings": [
+    {
+      "id": "f7b84511762f7ebd8e8eff06651b60adc11c0ebdf5424c5eb70ba41aac8419d0",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "e638d6667b34e6663c31d82ce7fcebeafa1e9ea366670a39b0cd1aae2f6b96a9",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "0eee03677123587078287c00f9c91e895de24516aab5c9cc3d81766511d7ea2c",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "6a6d976dedfd4b2b46d4d4e691f772248cb776af719430552df71dd8c5da166d",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "652192271ccbc8fffd433afca78d3b11b5010021783143012c8963f8acd21177",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "fc7a48f421c1d4ddf717f1cb351537bfcbea1a5873e4245051b5432631f3092a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "28103c8f8d99837bc6a4c12a9f1c10f744ce15a97b67171ddee561e641ae2d0e",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "98717b55e6dd34be6e39e22121ab79ddd31f0cd4ee9a6d0e11680ad26f0e9d9c",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "1aef54100590560e2415d3ab055cbd19f41b655c1315f8eae03fbecec4db0277",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "ff20f2c8fb19b3d9c865a3ad374cc32f411aefd4886449ee6d80d26d171e65bc",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "d51c2812a95eab64f3acd2b9ca03551ac7154f8e9e30c35528513213b3272cf7",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ae071921725e6f18f12b1899dcebe14b7336c3798da55087fa245c4d9689f0a5",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "4b3842defb2c0ebe83c40fa92e31ca0deb1f5c56b92a38556fb293e37afd5d50",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "ed58285a358a33a5e44822fbc887d956e5948e42a6889cd2880600fb5fe9752f",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "8bdca5bd6edfdfb55930d953b48497ff1b11be5e8ea10a8799bb505512bc6d5b",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "e1d0fd6444f582cb6b5c0def8e933a31e3116e8ad942a7b891ac42e83dd54b40",
+      "text": "Learn the \"Grill Me\" AI skill—a powerful technique to deeply explore coding plans, requirements, and ideas through structured AI conversations.",
+      "hash": "7897eab685f5c04d9e4639d4d8df700dc0cbf9a833b1801292f83ea34dce7116"
+    },
+    {
+      "id": "59d8d6fd4163cc6164e9de804af67d472ac62c3308ed59373a2a0ca4c59a8893",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "4ffd68003713fe17cedecab50d4cc6f6aa34cb52da305b0a55ff835691ab9bb1",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "cd089819e74ee221a17c43135cc068163404d9c7c9fad8c2fd4dce929fe94f55",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "26410fd133eb56abcacd30d064dc5fd0c205a05dd881c4ae1bc0a87e5e7908d8",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "59d4cefc9e45f1e476a977ecc4ba96699003fdb4df574205df39a9a3ecc4a47e",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "dfbe7b0014774d90750f73e3b1797e812e6ddd84dd423db76945128ac3ea9929",
+      "text": "The Skill",
+      "hash": "dcff2ea477fafb48adc3328074243ec482070bb45ae93c6af08b87168f3cdfb6"
+    },
+    {
+      "id": "ff728678eb25d0dae5e2ccb30301b8fee9ba6f7f2bd30f30f57cd54e5ceaf56c",
+      "text": "What It Does",
+      "hash": "dae0d007aae197e3eaa934901cc3c3e418d4bfb5987ab9f77408cdc101e76537"
+    },
+    {
+      "id": "ee5985a92780e0833950eb65ef1c3262d25604caae29a7dc565b2b36c39acd56",
+      "text": "The Results",
+      "hash": "40da8dbc0744689d52d45336b3671820936d59db2af6b091832eb4289b7a4239"
+    },
+    {
+      "id": "2390b76bb9eeb1dbabf27f3f0f61aa71f7caece5f0270769d240d64990c9fbe0",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "2cc6503a8e8c99d6d88f87b4fd774bd31832e1258305b01a5a2f94065d363d4e",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "c83b36e38c4cff978804f1f1cc1a509e77ebee02dfdbd1ccbd219bd4d1f1b9e3",
+      "text": "This is an intro to the",
+      "hash": "3acb0341fd697df7faa23bdf2a7d96fe62ec517c58dec93ce1f8ae138c009032"
+    },
+    {
+      "id": "94d8c7a9f9efe21715bb2492841246118c2c18ed877a98372315e13d61837726",
+      "text": "skill, separate from my video on",
+      "hash": "1ec995abb1b45d628acf458da5165952e0707f4d4bd0036f298743e8ce296834"
+    },
+    {
+      "id": "5e5b577c1f4c354b741322adeb64bef2f0a415070e089f8c3442d8124ab5a5ff",
+      "text": "my top 5 skills",
+      "hash": "1c970f02482d03ac0413b7bfa6aa76fa8701e571b561b4e4cc9fe60260b3a559"
+    },
+    {
+      "id": "86569f33b0ef4c0b56f5da6840dd4b36f0ef05b224cae5b1d98a86361eff01ae",
+      "text": ". It's the most flexible skill I've ever created, and one I use outside of coding too.",
+      "hash": "72da3376490cef19fe24a4689487975cf0bdd46ed4722fe244a47446fd63cfda"
+    },
+    {
+      "id": "c0bcb9e868038ad35cad6b8c4bd8bbacc24eed2cddaa30463f08bcb81c5da5fb",
+      "text": "Here is the skill in all its glory:",
+      "hash": "c5b6d530c8ef0723052b088db0e9047c8f080dfb69ee27b722cc67e901ae2ad0"
+    },
+    {
+      "id": "c760514a8e3bacf14873fba7135ef70a41ca0c24331441a277476b81097f4c22",
+      "text": "This skill is incredibly short - just a few lines that pack a powerful punch.",
+      "hash": "a0950cbd7000a0bd9ee2f77ea2a1fa610abe5cb2fa79ef0d3c191f6247764edf"
+    },
+    {
+      "id": "cc267a71b4ca0435ef9bd22348be9e3ff504d2e0590d7c49768e1c1986af51c3",
+      "text": "I recently added the \"provide your recommended answer\" line. When the AI asks a question with an obviously good answer, it now recommends that answer.",
+      "hash": "27ee50af4ddfb38bf9bbb4a406f59ace14b491c0e1ed48a1a2671d6f0bfdae32"
+    },
+    {
+      "id": "56d0dd5f272e74f53ef4e3589626605a0080b0967fecf4cf31714c3ffe0d7cd7",
+      "text": "This speeds up the conversation significantly - instead of explaining everything, you can just say \"yes\" to the recommendation.",
+      "hash": "dbffe0deb31b6b69edee256fcf0c2bde71b2fa4e2be1c08acbfcf45e67730a40"
+    },
+    {
+      "id": "9c19965388b39230526ecec2b12a5d2550df756d264e60432d0dccf0b9c2d72d",
+      "text": "The AI asks you question after question until you reach a shared understanding, then provides a summary of what you've covered.",
+      "hash": "7f48bed4788a94799b9f79ed0f449b3914de345498871d871facb4425102ff20"
+    },
+    {
+      "id": "6509107d45b9789505fe0d5b5a0d485a4ae8aee4d19ea3db4864e610a6dec279",
+      "text": "This is fantastic in the early phase of coding, because you need to discover all of the requirements by talking them through.",
+      "hash": "baadec9393b5affdc31077af2142495a9e21a99c4dc02f7c365cac346eaa8374"
+    },
+    {
+      "id": "aaac3d7d5f0931614060791de47abe98ab68ce11cd8e8a9ff7934e9d8dc77955",
+      "text": "Before AI came along, devs called this",
+      "hash": "6305b567da0ba46b2b500d984497fccc14cc381ad695a242b343697fc3755671"
+    },
+    {
+      "id": "9dbe508dc731f94efab5f660ef6d920149b3604a2b01386502a9cffe4c5ba404",
+      "text": "rubber ducking",
+      "hash": "dac9bf00ff18d6aa10c654915d054a6164bc3fd3b7994379a9768ad252fdbfd0"
+    },
+    {
+      "id": "488e46da708a36c8ef7829be7622c9c585a6ca79fd6223d058385426502aaf30",
+      "text": "- talking through your idea until you figured out all the permutations.",
+      "hash": "2e11e5a3a2e4c73cc86a0db7b425be2dbedb7e152a15f104895a5d66165ad9f9"
+    },
+    {
+      "id": "61c77d934947d255f3b7e44ed9e4299fad3664760cb21f72fb882e42097d7ec0",
+      "text": "It's also great for non-coding use cases. I've used it for figuring out what course to build next, generating interesting discussions where the AI interviews me.",
+      "hash": "1ef2bdb8c5bdf25c3733819cf7b3dbfddb2860eed94c864fff7b7dac7b6e6148"
+    },
+    {
+      "id": "913ba3b880ab64c26fbf7e023a5fdfbdca1f8494ad081c54c23bc81ed0f0839d",
+      "text": "For non-coding, I slightly modify the skill:",
+      "hash": "5b56a87829b6a2a574a206645ad589927e16e102cab66f16b548247d25cb2afd"
+    },
+    {
+      "id": "9b0f7119d2cc0dc851ad6aed5379c5b3a4ed47df416e65c9e67a28fe602bd4f0",
+      "text": "This setup is usually enough to have a detailed, in-depth conversation with the AI.",
+      "hash": "0f4084a56b47b7446c20cae26f7dc9257e2837b85bf456e0af353e63043102e5"
+    },
+    {
+      "id": "c693a728da3dcb9bb40c59553c57e77d129a1c4df8a0742f623e19da4236593f",
+      "text": "These",
+      "hash": "91273d498d36840939198a595c15be1749ad54bf693637c602695124e97a2565"
+    },
+    {
+      "id": "d723837645ce904703dc3f4ff65fb94130037e6771eb012f2252f0816068a115",
+      "text": "sessions often last about 45 minutes. By the end, you have a rich conversation full of context, your actual ideas, and answers to difficult questions.",
+      "hash": "401633f1841c51e4952ab5c31d04de890e115ca1a8ca37c212bdb5f65d60e72a"
+    },
+    {
+      "id": "8411d8bb4014f9d20b54f9a020e4d305ab1a33fdea6d63516b051839e4851693",
+      "text": "That's why",
+      "hash": "ac3de6b982bb0d02d31a14a0794a2dcb62b47546545f61a3ca357bca2015656d"
+    },
+    {
+      "id": "36b8a6b864da44fd7f70dff34b540e65a67e718ddbb699eb670530abfc5fc6d2",
+      "text": "is so powerful - it's a universal tool you need in many different situations.",
+      "hash": "cc4f0b77233cc3209f1b4ab455512aea83c6fc52ce4df3e59605f1c3af0468d7"
+    },
+    {
+      "id": "af9541e531f1dd6289a9aceadf369adeff8777254ec90ceeaca0ff63c40f0753",
+      "text": "You can start with a fully fleshed out idea, or just a vague couple of sentences about what you want to build or figure out.",
+      "hash": "8081a7d6d49fb094a641133e0e603d3262827bb54916ed6df108b9c98c47b8b3"
+    },
+    {
+      "id": "c6e7dbeabea6170001d00e88e3088fd715a383508d23e5c75211e452a32cdc87",
+      "text": "Related Skill",
+      "hash": "db8be882272175e40acfd7c7b6496c7a74af12e65b4232e53d7803ab40f9d69c"
+    },
+    {
+      "id": "e4070bf926f7b5b55beb03b05aee2395cdefd96cbdfb21136c160c6394f466ec",
+      "text": "2 min setup",
+      "hash": "09d4faca105a1c766b9760934df0d63cde34e3b9c55c4a8710461bc6b024a50f"
+    },
+    {
+      "id": "fbc18b03adfd33f6932e07011173a1545afac79517fcae921527673c84696c82",
+      "text": "Install /grill-me",
+      "hash": "357556df29b7e19aca9bab7da66cd7de23d7278fb8e33e74cca410caa2ba2450"
+    },
+    {
+      "id": "0d68319e0d967f58b79e1e85b32345f67dff8afd875c41ddc9fc4b46f283b688",
+      "text": "Stress-test your plan before you build. One command to install — and the skill page tracks every update.",
+      "hash": "abe51bbc2855cfba8f8fed09fbb800659df9717c242e9e04b2024e234e7bbb69"
+    },
+    {
+      "id": "2fa9ebc11e5ea95904739d974b8d4da0918e124759adac4bc478fc92ca12c864",
+      "text": "View the skill",
+      "hash": "c4e8a2dff2d3ed9ec7001778f84b7136f55a75d60e7d8b7fa143e6ec652fbd09"
+    },
+    {
+      "id": "7410923448f9de1664406e8bfdd691908c53aa786483b4fa6eb5d9db0980ddee",
+      "text": "Install it using:",
+      "hash": "6c265b73155089553814d38556554f5a9a43002a7e19168223959d08d7f805d0"
+    },
+    {
+      "id": "ce5f8840cf81ef4253f8c68c00ac8610f58f3e5b8a96a453f0763edc371017b7",
+      "text": "Or visit",
+      "hash": "67570c408d8c8ac3b377ec69db54725cfea11f86778d62ec5f8d1d65f52905c6"
+    },
+    {
+      "id": "2c9d05b54da144d19c30bbfefc4b5efc9ad3ce3b7101c1b469831a957289f5e9",
+      "text": "the skills repo on GitHub",
+      "hash": "706eb9baf686f8b460e64581420cd0b15c3b08cb9b688a5e80f5b85fa36292df"
+    },
+    {
+      "id": "6b30824fe70e9a44cf13fb133c2a774a326dba1a941b964a7bc1db5d3573965e",
+      "text": "to get started.",
+      "hash": "305f69df00e9d42491d67600941295e4fcadb16ef7c759ae772ae1f95fef6e69"
+    },
+    {
+      "id": "2dea219649d5f6002a1f56766af7bd188e4e314dbc7ee174253ac90f6dd01f46",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "f1a655d04f21574baca5ad1554efc07fc7d688e3f6be8e1f993e8dbef156d7da",
+      "text": "A rich grilling session is only useful if the decisions reach the build.",
+      "hash": "6234cdaa43d94307356c726be2cc398314e9dfa5d54501abb6dbcb699c6c6f5f"
+    },
+    {
+      "id": "235ec54e075a4663a3fd46c50d2f44f5e4126f9e78665a36ff8a4b15228ca591",
+      "text": "One command installs all 22 skills. The free course is the order to use them in: seven lessons from settling the work to a reviewed diff, as fast as you want to go.",
+      "hash": "72b87fce2732b8a2513ac27c2d66be6b42e5c2c624cc04eefdfa789601f739f6"
+    },
+    {
+      "id": "569a71ea1b0cfe492dc821d28a37e6f864c2c3b654d17b09f5edcd3d7d755853",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "de717d3d0b9f82b09a44310a640b9dce230e81dc3d3132591575acf06fec9b08",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "6b2f2ab0f6ffeeb180f0fe33f14eaace64472129b071c6a9fdbd651ae84aefe0",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "2fb65fab560d814acaf1f05260c65a3506617e42f0ec0b1e5e926b344dea53b9",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "6e5ee57e162451a9a04b754e91b734840f9d4a2fd46a9d7c2a62f2ee0f73b132",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "e2b22cd626b15b4bc204daf9fc4b38bf92aec0b449c5ec4ce1e5ceeb53764f76",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "c390c1c583242a06bdd379ce4e8ee50e606f5c1a366dfc30676c416c43904ad5",
+      "text": "Learn Anything With My /teach Skill",
+      "hash": "087e41020c045ab0508ad79621c0751b424f5d9af028b7d4f3dc64d9a8e0bd63"
+    },
+    {
+      "id": "4640076e3048e8a836232cd2657ae87fb8a955fc50cd3a07b0c4bf00bd2e020a",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "250a9bbef2137f0b6fd042e34281bd1e172009a9578d7ae27e07fc2c95dad317",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "af8546f6b11e7d89f36f0ddd79f7faadfd7e376ad0a14f6835c56966c2acd3b1",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "80dcd3e80f2a250eec698265ae9d0a2336f67c9b6ffb8d496e76f03ac19e3615",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "25d757d86c7ea15eb65e2442a9c4febfca1a4cfe9b03f8dbef65f735d8178d67",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "1ad7c92275cbe3bf518117a1a91201678e0583e26b559374ab90a79d7ea052e0",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "070ad96e886a2573ae36ba12c3f1f44c15c8430535fdb9a89b80b1d943cd2edd",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "47b7416838bff0b5c4624b9f2cfeda494ecfd138c813c4235a0e7641e3a99df3",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "c05ae8a9bc3b63ad867863ba94706b5aa67f1d36b6bb188b26c6266edc09562b",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "f00917d8708761ea73737257ee62d89c72923aececcfcb319a293f3bd013f6b4",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "76b7aa305ae0428a922d174fcc859dd66f6930fe70e8a54141a3789b521345d2",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "bc945cccc7469900ebfc53370a2962172be42bd663e4befd4cd8996f433d3802",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "b69e29caae09905f0f80f5d12f9a2002c76f5b430c253abddfa6eff392a970a7",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "4dda0a4943c744427eca159dffbf81d0fb1ef67beec5a78d7836776b0a463c34",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "2adf5b8e3856dfe985d8e6953ddbd406a3cd9ebc4faa41e9638bc4caaeb6cc82",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "9da253053dbb17df8f206705b9b4f6e5956611fdc7de9f645608cbd4d15541e5",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "22ee0aacd2e043bfb9075b78c91ae685770d9f0514af4338cf4a5509712d9bd9",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "422e73ebbc4610d68de67f6ed51c12802f734d3a18b8a757abbb8ce11670838b",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"7ew85fz1u65voz\"",
+  "lastModified": null
+}

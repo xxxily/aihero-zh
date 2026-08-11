@@ -1,0 +1,948 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-grilling",
+  "pathname": "/skills-grilling",
+  "fetchedAt": "2026-08-11T06:28:05.693Z",
+  "title": "The /grilling Skill",
+  "contentHash": "446871f5f36564064544abfc538a62b5757a5d1cc21644c9ead26269c696cce0",
+  "textHash": "40f04a80222cd57037c35ef05c8a5467cbcf3d27fc5a9d765a516b3138b14ea1",
+  "strings": [
+    {
+      "id": "5b5ad790101ceb1b6ca54083c2da4432f10c7edd0217b7c56faee5bf13bf0fed",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "14f3a0decb9abc70c320c0be15c857cd0107917d683132a58df6952955292530",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "339e487c4713aaca893f63326ce42975de173302972709c79b533b07e1309931",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "eac215437732cb6879998083459cc359d4a3313952a8694cd17449acbaa27caf",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "3394d300618f53e0b69e63bead49f44c82eacb8e364ef42de3e17b76825dd1e4",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "b049711b7d15cb696dbd1a8a8b2cbcd10dffcf59dc7b07013f7bf91e55725232",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "026e406f20c7740b25e713d951d80a4f0e2bfdd4006562a77054f8d12e8e8d53",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "128ba89ebd3909e73417d8b630db3b37acdca2bb17be36a63c4431a92d0f12c1",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "34a85736ab879c01d979ab2e55b88145c647ebfe6c5333c77ba8dd249c5f5da1",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "678542129aaa5bf719e8d1a17fc589eff38dd4e3c13d9f7402a8e118cff61d48",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "7fc5776ed9f3a06bf6bc1e60c8fe0ba23f4ea15b276525ee5d3fb6c7c8ee700f",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "abf0b55e9314d96448cc85adb3e19e1cb99e810c86967745b73f12080d6ffa68",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "f15650f74d20e823406433f51e209290ff3f8e557746d0a37d1bbbe77f5a3782",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "bd5ad76f032d20c31eed1d5ffc62598f85e241e489bc5e4662b71b00b5028bca",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "17c8c793e61a9993dddd606e0fcacf502e3039eddb6420173c71d46f170a4b67",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "fad01e35f33aba3d79e518954b58bd9f4d26f2c3617e4e796426290dc5edf07b",
+      "text": "The /codebase-design Skill",
+      "hash": "51bb7c310f0738596f89fd052f1aad809c7bf9022eda80f5040c899abf348c99"
+    },
+    {
+      "id": "c140bf4df616315ddf6461d63575f2c33c84de4cc45ba40c5acdb8083042b5be",
+      "text": "The /domain-modeling Skill",
+      "hash": "f616ad2f4b341b188201e3bffd4995711ab6ed10305f53e7830d2ca72690ed70"
+    },
+    {
+      "id": "f3ec82e9f96dc21cb51fd8f5b0117860ce328972b04f56fb0c7f7d2c15ba3dc5",
+      "text": "The /grilling Skill",
+      "hash": "c50755e0e84e83e16e02220d20cbb10f02ac6375a744957c5480bf0b0ae7afbb"
+    },
+    {
+      "id": "8306e3bd7c19eb44b14530e48abd1d1d192cdd71d382d2e28625142972daf054",
+      "text": "The /tdd Skill",
+      "hash": "c37d71d36e49748d5850616b6cddf4ce32b9eb909f487b9e1b5fcddc163ac66e"
+    },
+    {
+      "id": "d7100afac0703a048a4e52d8f3a80694281446c8e2b34620ef5c721d3c3023b2",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "b24af3f9c72b0ffac36f0531562558a9ee20c4be78464dc76c2252b702e84928",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "3e5c91eff8b6e73e9ab480673a9adaf51687c43cdfcf6e432edaf4fab2a86fe0",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "23950599db6c6fff8c1193277e14600fd492114c16c5ddb73c9d4cbfc71adbfb",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "209ea5c9622b30774c66bf75f2a08dc24bbbbaba08ea8dda3c951ee7bfdb229d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "458eb385cca817943150aaad110c515c95a6fbac290361b5cd1d37b7b444dfb4",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "2d6d0b3577d1e80ae81d8166450ba912582c80c607e9f17679d6cb78cb603dce",
+      "text": "24 / 25",
+      "hash": "c3b9e3ba13bbe47f9302588f50fca01ea4d47b384a2cd6e6a0590a61e4f24508"
+    },
+    {
+      "id": "aecf35b64a264aba8876bcc40efdc3843a899976ad9673f2da09e64140cdedd8",
+      "text": "AI Skills for Real Engineers · 8 min read",
+      "hash": "09f2e9dd39c5c3b4d7e20076529d7e233953ea4a213d7df649a0aea48b37d128"
+    },
+    {
+      "id": "ac0a79f99d35b07b8a70131c57f01e67afc5bee68f20b1827d42c5e3a577f11e",
+      "text": "The interview other skills run to stress-test a plan.",
+      "hash": "95e3e7298316f4eb765ab4036f6b3feb4d47ab9b50ea518cda56e42f6a046b24"
+    },
+    {
+      "id": "0819a2dcd1b4dfea37c9b3b283ec209c42c7106c14715aec01a9b9388394f912",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "b535a3e7b75a08141c9010b6515573610c460cc4b9d1e09346a2bc796cec3374",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "b075f0bdaf97266531943f903922f4afb9b7ea4406e68f2d273b33df6476b9c8",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "fb948f4af3ba83d989a5fe749ebfc157d9088119cf488aba11bf2ef5655d6612",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "e6a158dbf44f15a109ff13f36188f4920192bdc6dfc9c053321ee57a11522a0d",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "420ef5159942638eaf77a9c93b35cf07aabf69122675677c3f1f2fabaa9e44fa",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "6b93d17d7a2e304d0835478e3c4aeb594851d868b698acd5c8d387ffac273ebc",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "962d7bdc8cbfa983a7f758434941316730cd36609b4cc6702bb8feb1cdb51a67",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "88738991c8642eb95b1640da032b21ae9f3fca3ed22b03ed7e1adb40724de008",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "53778646d535c5ec4b732e8fd8f468bfebcbf8cb547608b4ea24ee11872d5f21",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "3f4522828bad2d550015da5439a353a099c1c8bd8e22e7c64e7c093f9c7e830e",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "d93e89825dd50e5a37af4541a8523664ae5b3d5d54b79d270e706a91a6323a8f",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "4348091c57818dfc6515c77cc14207766b0b34b7ace45622fd9e3ba37649dc8b",
+      "text": "The round, the frontier, and who decides",
+      "hash": "5932b4a3dc425ce1c53e597cd9ae9edb4340fb992f95af6c9a73d9708643c7f2"
+    },
+    {
+      "id": "1aaea89f36302928cb5122d7b1b8d6720fa22ad734f755e264162c8c90671cb8",
+      "text": "What lives here and what lives in the wrappers",
+      "hash": "c2a6a755a46c67b1ccf08229562cec3b6d0ca1fc7240e0d24a18657f89ca8e12"
+    },
+    {
+      "id": "723a9c262b2d5e9abd44f9a43928e30a8c5ced368325d3de00490dff214f82bb",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "f11f75a6ed11981acf0b1686a4d6f1faac0f61444017ef1296d28e78fd1151ed",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "558eb4f841c269dc138432611b4fc233bd3dd879b78b06f3649f4d748a8f8127",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "510a9b37a1b346e5d077d1295731c0fd3ccadb273b4593821674234a77e8800b",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "5950dd06a411349281570fbb1de343c73e69b797f7804be1d6ec2ac78737f0b2",
+      "text": "is the interview loop that stress-tests a plan, a decision, or an idea before anyone acts on it. It maps the subject as a",
+      "hash": "23a1651f30c10080a01a92f91c3ae5400c6180939a885ba22a8303b4af29c1a8"
+    },
+    {
+      "id": "8afd95b8d62d5c8cd5e2f813ca1738aad94985ac05d7136af3dd6b28be2533e6",
+      "text": "design tree",
+      "hash": "4a59f53031151ca2b7a6b5d71635766d7c322e6520d1efa1848b2e61cd4999cf"
+    },
+    {
+      "id": "ee962c49fe81550e51dcca9bb220994049d0218481b08567146205b5846fb45e",
+      "text": "— every decision branches into the decisions that hang off it — and interviews you branch by branch until nothing is left silently assumed.",
+      "hash": "7a2e781947f712e9f816c0ac77fbbb0a87cf28e57b7a0e7f5cb0a752de5f5678"
+    },
+    {
+      "id": "07f0df5aac5e86cc4802b0766af0c27a6de47f0ce32f10af1a871fb8e5d0466d",
+      "text": "It does not ask one question at a time, and it does not ask everything at once. Each",
+      "hash": "de04efec4426c0842daf224c90a22d03c13f83288dfdf652c4d95c91f85e174e"
+    },
+    {
+      "id": "dd7ebd94001a123f51c60dcf94044647591c1575298acd845e1cb4c382ec0a78",
+      "text": "asks the whole",
+      "hash": "49c0106d8857a482dc22255b0233cf96c2730722f3268affc9e4f453ddcb6376"
+    },
+    {
+      "id": "ea8ab9d54c7ea3926721cb22e4e6dd2d686717128a346d12a61cac5915330204",
+      "text": ": every decision whose prerequisites are already settled, and nothing else. Two questions never share a round if one depends on the other — a question that hinges on an answer still open belongs to a later round. Your answers settle decisions, the frontier moves outward, and the next round asks what that unblocked. Thirteen questions typically land in about three rounds rather than thirteen.",
+      "hash": "d9b07682f64a998ac335080236964bc5141a8fa953055b84f199be450d2bc29c"
+    },
+    {
+      "id": "b88627bc553ccf920925f7ed8cfa25d72c9ca315f7c8e6d743709553c6b3b30d",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "fad4dcef411d4e4a947a6a4e91a7d52bb0aac80527c1371a72ff2570b810f455",
+      "text": ", or the",
+      "hash": "d7803b9e27c4ba4e9bc3fa5bccb50a060fc421b5f16fb9525cba2a46e0529dea"
+    },
+    {
+      "id": "f85133e9d565312206e3fe71dba1fe12018613ae43a40059337618eded1e8367",
+      "text": "reaches for it on its own when a task fits. It is the only",
+      "hash": "a91232d7c94dcc23a3f4f062aad6b9650f614925f18a3acab96ac8aa52717712"
+    },
+    {
+      "id": "a649b296da1219d4209127e3bb749030762f6dfaeaf2e5a36d6d12fb416ddf33",
+      "text": "in the",
+      "hash": "866ab23f02991a070ef7b06fc39ab77a0e9e840db9d0dabb204735b109d4a52c"
+    },
+    {
+      "id": "b4e2881f09a4e0728817bb7b272a3d29e0a7386db95babd0e034d85e4c68159d",
+      "text": "family that is model-invoked, which is why you rarely type it: usually a skill you",
+      "hash": "132a7e4e9adeee0917b0f50df0a3f6ac6eae14b97617aa8f9322df8e0e4575e8"
+    },
+    {
+      "id": "f6d433a149277c2b2b337e40622307917ef0f79942f0f286a4442e4669cc5fcb",
+      "text": "type is running it for you.",
+      "hash": "d0d6aafa349916627daf3a204299a7764cb5181b7205e02befcc7c44df8780ba"
+    },
+    {
+      "id": "482272d8d69a236c640e30fcc2625924d7ad32da4f2cc8477893b2086359c7a2",
+      "text": "Typing",
+      "hash": "25dfb9b4b32f9ad69a774528dc4882517639b481f2173934c373adfab41b1376"
+    },
+    {
+      "id": "5710b87a578cc21f6437e71e6105c53635a9a7305cd4c430086e67633a033531",
+      "text": "directly gets you the plain interview and nothing else. Where you want something more than that:",
+      "hash": "e1408bc4fd1af205d5c6332575ffacec27344ac27ed573ab8b572fefd68edc0d"
+    },
+    {
+      "id": "81d698ce6340001972906277a0b1aecf10db5c4d58f47e6aed6da62ec2e95b75",
+      "text": "What you have",
+      "hash": "0e5b8bdda06950ae58e0b45e2ca2756a9f85d2d324331cbfb1c6b07cacb16b1f"
+    },
+    {
+      "id": "6548da97aaa7726435f47d68ddbf5dceab0b3ec0a082df3589f6af8f9df8f197",
+      "text": "Reach for",
+      "hash": "119d18af97589b5b0b3d6644e84055cf59088549958ecc3e7c0b7bc727f3160e"
+    },
+    {
+      "id": "acee7c819dcd5cbfb3cbd88f9333246de72dd6935a4766f25a41dd46aa4fca78",
+      "text": "You aren't working in a working directory",
+      "hash": "ccb92fdce50d15aa61136c1473d6487cca1069be81d1f2508b102ade742d5c15"
+    },
+    {
+      "id": "0ca3e1423fad998ea6fa990197783f77a75ab247ad20d084f23c9daf75ee0559",
+      "text": "— the same",
+      "hash": "07478a4e59297b1bc0da27ad002b2d35f42b3cdd060a60224240db45a9b63e81"
+    },
+    {
+      "id": "1197af84dcd9834cf7aec53cb9387b6cde22acc6c96d683574b6c991c0de16c4",
+      "text": ", under a name the agent will never fire by itself",
+      "hash": "2f1016b845d0068b3921218348fbc623fe8102fd3d08811ef3b106a60f3fe2f0"
+    },
+    {
+      "id": "f22316a77770ecb3bcb26b29ade56102f82f611bbb632d86694806ed990f945a",
+      "text": "You are in a working directory",
+      "hash": "6928c2a4c352a1dd43a2cccaba20a64f65f53cbee6b6ab55d94cde5155942f6b"
+    },
+    {
+      "id": "2bdfef07be5c5399ea89e7aa7e0d7f68221f581f186a65c6337205f436940d9e",
+      "text": "— the same session, and it writes",
+      "hash": "1e67990bc549b9b83a37b8fcfb556ef65071888004690ab6492c5e78eea95861"
+    },
+    {
+      "id": "ea5d322f69d53483c498c255972c1142377ef51b0cb9d2fe55dd7f0df2c51878",
+      "text": "and ADRs as it goes",
+      "hash": "ba1b9c3df9bb0d6bf3e4c4f56994152eb91a129a99deae733c1751b267653b3b"
+    },
+    {
+      "id": "8b423a10d7c57041b7bcf292547b5119d3ad482b53d472b128ac124dfb859681",
+      "text": "An effort too big to hold in one session",
+      "hash": "32379c58417c224bef9dd7df56482ad85e7170d8e6918640df9fb32c62dbc3ab"
+    },
+    {
+      "id": "239b7af5b57f0236c0f9890f02eff37806a8d166d86a26304fad64af23fc9bca",
+      "text": "— it charts a map and runs grilling inside the decision tickets",
+      "hash": "34aac889df61a98fa0406b302e2a3ad09149dad52571c06011811654d10bfdc5"
+    },
+    {
+      "id": "fcfcdb2f3680887a6667d4b6fb8f6dca55d2ca502d1e37d282f1212ba3d35f02",
+      "text": "A question that talking cannot settle — how something should look or feel",
+      "hash": "87d9bee6ab96b3a58ac29762329225b551476ff77b4afe1c4bf8e937ebbe627f"
+    },
+    {
+      "id": "d730cf7d6e6862dadd57c00427668daa4264cc2d7eaa421c127c4ddd20e2091a",
+      "text": "— build the throwaway version, then come back",
+      "hash": "9a412b949824e1c99320b8cc873b7f2a444f1c5726a362d66d8fbc30dcf6bcdd"
+    },
+    {
+      "id": "d43270e8f6b3c447e9f7005eaff1058f7c1680f0d7dd063e6cb7c0eb38ed954a",
+      "text": "A skill of your own that needs an interview",
+      "hash": "db5219f5764f32c60c5a4173f4209af1c3f50e44ca5c76cbc0fde80c877ef838"
+    },
+    {
+      "id": "49571543c7a9f5d5a28b99b070e0867c1b40ddc2d0a6e6ff7b78836209521d47",
+      "text": "Invoke",
+      "hash": "90092e5fb861dd4ff34fa20f4b31ca44ebbb3bc367a8d7a35b89a7f89c793fa9"
+    },
+    {
+      "id": "5d6bd623e1962e92d562febb218050771659b67cdc68c549c42fa886f26ad18d",
+      "text": "from it, rather than writing another interview",
+      "hash": "ea0874497c9dba970db7fe4ec7d2a7bbc45323bdfe936937b7d19f17986f59db"
+    },
+    {
+      "id": "1f2c2a3e9852a8fca7724105666534b8e6812faa2adbbcd62d640586ca79f4eb",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "95651455d8f4d34a0171e8d8ed3c3162610d60b5b504954eb66ceca25bbb6bc3",
+      "text": "Three ideas carry the whole skill.",
+      "hash": "469876a64eced6061a6752dbd3b9a8d962f24fc78cbaed3a2ab88a4a1d67db86"
+    },
+    {
+      "id": "19b05e2512e8b15f1dab0d847be9bfed18d058b4e738bc31c7adc4123df3741f",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "4dfe22f0d8360469b1febcbb36092043a927a21823f492bb24b877fdf773aa9b",
+      "text": "is the model of the subject: decisions with decisions hanging off them. The",
+      "hash": "0f0b54f906ada35713dfa742662e83ab48200d4a832197b01dcda76b9ecf4a70"
+    },
+    {
+      "id": "44eedc5ad390d27feed9f7123be7ddfe2d956641be968614c44a17d583587024",
+      "text": "is the set of decisions whose prerequisites are all settled — the only questions that can honestly be asked yet. A",
+      "hash": "6b56676453fc6026489f0d43ee378ec2c45f0669b524fcb5826938fcafa8918d"
+    },
+    {
+      "id": "2c70689f3dd4e9ed68bc1d92cbcfdfc07b792b42ad2c5bcd6279cf7b66da1b5c",
+      "text": "is one frontier, asked in full and answered in full.",
+      "hash": "dd2e9d0931c27f9a6454b6f3e70dc4dcabb7d57dc63d5fea15118543c7ef783c"
+    },
+    {
+      "id": "bdd3f43b03d2145d9c35e67bd142ae398b123411d90c614fd429c6672b557497",
+      "text": "Inside a round every question arrives in a fixed shape: numbered and titled behind a",
+      "hash": "0b7c9df2be6162c7277d2b7e97828200c9ea466ad520f64e7d483d883c97943f"
+    },
+    {
+      "id": "fa12650d2ba8de415fe28beeaae149352a8cf1fd402cef0187a7fff2f3972420",
+      "text": ", then the body, then the agent's recommended answer alone on a",
+      "hash": "f9507b166181bfe4cbb77a8e69ec25ccdfe1eecdd4cba32e48f3e403dcd2566f"
+    },
+    {
+      "id": "75e995ed954159686f1d10946efa81f1bac8b8ce1da1dd7bced49ec747503fa0",
+      "text": "line. That is what makes a round answerable by number — \"1 yes, 2 the second option, 3 no, here's why\" — instead of by quoting questions back. The format has one known rough edge: the recommendation sometimes argues",
+      "hash": "08d062f59b54130d03d6236b387047b871688e5384973c4e21c1483350064754"
+    },
+    {
+      "id": "dbeb407e8c96faa0b30a4e691e42ddb40b141ff556e9bfe89919b3c062bdca68",
+      "text": "the question as it was worded, so agreeing with the recommendation means answering \"no\" to the question. When that happens, answer the recommendation and say so.",
+      "hash": "266aca9a59c5a32df5a604c13c6cba9aca759426214606756d1473d46328bf09"
+    },
+    {
+      "id": "45b63caf0411f5882c4db66bfad7fb0e7dcad5b3613691a80b19c81da70f443f",
+      "text": "The other half of the design is the split between facts and decisions. Facts are the skill's own job: when a frontier question needs something the",
+      "hash": "88daadfa79f77dad656cd597537f50ecfa40d78a3e22f95526c40363596f06fc"
+    },
+    {
+      "id": "ab306f209144247a9cf2780c059d14338031d92c41102406a839fcbe1e278aa1",
+      "text": "can settle, it dispatches a",
+      "hash": "78e8b902c719b2c694610b5e6e4ab7624cafdaaba46e14a267a4d3137dddab75"
+    },
+    {
+      "id": "16c6cf82b8bbd49311bd0279117d610298f32ee4a1a9f1f7ad57e87b025f4217",
+      "text": "to go and find out rather than asking you. It does not block on that — only the questions downstream of a running exploration wait. Decisions are yours, and it must wait for them. An agent running",
+      "hash": "a105bb2e88b7e9e37bec72bb3a872b029c93700f94476ac4a9d961dec3bc9cd2"
+    },
+    {
+      "id": "fe227450e97325da47065321dca0cd7be5767b2faa40b75a16a91b76bea08d62",
+      "text": "that answers its own decisions has broken the skill, not interpreted it liberally. The session ends when the frontier is empty, and it will not act on what you agreed until you confirm you have reached a shared understanding.",
+      "hash": "9dbe3c9a2b0ee948184722c40462083c97a626cc2d04f7ac259e75839c5e83f3"
+    },
+    {
+      "id": "1c8a676109376457147edff833f606234591f89ccdf50c2ccd2438ec1c059ce8",
+      "text": "The honest limit: the frontier is the agent's judgement, not a computed graph. It can put two questions in one round and only afterwards discover that one answer should have changed the other. There is no guard against that beyond telling it, which reopens the affected branch in the next round.",
+      "hash": "1ac225c9be81f6295baa269b9c76a8e216edfdfb11eb1aa96ac35589c18e3698"
+    },
+    {
+      "id": "24f485cbbb3df583a758c6ce85156559f75acdb77355d57393ae82d6f49215d0",
+      "text": "This page covers the mechanism. The things people most often want are documented one level up.",
+      "hash": "68de5a6e7f054b7f717880a587fc2aee7f8bda6e382eebe2202170a344f65a76"
+    },
+    {
+      "id": "3ab6b9c575fa57e814064e4aa6b54f1cb72a16766d93b6e68079d8f6f6971d95",
+      "text": "Question",
+      "hash": "289aff12b04274cb04b8f7dbf486ba8b3528c6fd16b60b9a31d31ce23b339236"
+    },
+    {
+      "id": "a9dc7aaaaebc6ac613b0bce06bb860f5ea78634c9e3983faf219fafe4b5f4f79",
+      "text": "Where it is answered",
+      "hash": "10253afabdfa7b200720bacbb048fe136475c1c24d6d5ebd712872cf64bd5a3c"
+    },
+    {
+      "id": "b5248e70dcf5755ac7d116028413649ab1f4271eccaedc89dc99ea7c32b1b3d7",
+      "text": "The tree, the frontier, rounds, the question format, facts vs decisions",
+      "hash": "7dcae0a374cb65dd70b80f49336ae8b5d1942f9493ba16f98f503e43696468b5"
+    },
+    {
+      "id": "292491051d2e1d5923e42f837ba93ca289e9ce6ca433a9547f09c4a0b6cabcf7",
+      "text": "Here",
+      "hash": "aa3b17600d88d3161605db8389b5bf03d4e94debcc8eeb74dca27aed95a154ab"
+    },
+    {
+      "id": "6fbae1b27e2e9d57d560e4fae079117dd4d91dd2515e19c11da88b1c3c0af5ca",
+      "text": "How long a session should run, what to do with a question you can't answer by talking, how to avoid nodding along",
+      "hash": "1ae9bed8d774d939f9829fe8e64ddf2d0a4beb8d18d66c52496d501cc17b3008"
+    },
+    {
+      "id": "585f1210485f04fd60e79dbc5fa3aba37f510bf8ac78e1c671818cac4f1677d3",
+      "text": "What gets written to",
+      "hash": "cf73e162f581d9ef2beb89a9e7857a91eec76173b64881901cf7636a07656c4b"
+    },
+    {
+      "id": "4a86d7fc90073581ab2b7cc55dd0b6ec3780d31533adf9dffd56698c36448f06",
+      "text": ", what becomes an ADR",
+      "hash": "655ebde54850127d8d909e1b63804af371eef746d24a6dbb3d76e749739489c2"
+    },
+    {
+      "id": "92bc7a0bb77c3a75a0bce38a050cea003fa04a412c28de086402383fa25f285f",
+      "text": "Can I go back to one question at a time?",
+      "hash": "e06d26effd789c34f98e4d7563f1d3756d389249c80ddaebfd44368fbe99ac4c"
+    },
+    {
+      "id": "40bb2e6a5c93f0f3778b97ecd6ebbfb2063ae488faac90c3bf8d3f17db504414",
+      "text": "Yes, and a large part of the audience does. Add this to your global",
+      "hash": "7444dfeb6a91a839103e6052e1fa92448190e21c3b9c2c6a9203bc57c90259f2"
+    },
+    {
+      "id": "894824a9b054a098ef032c76a62764c0d00d7db5e7ad677013c5282cbaa60f81",
+      "text": "The round-based default is genuinely contested. Practitioners who read slowly, who work in a second language, or who use the sequential format as focus scaffolding all report the one-at-a-time rhythm is better for them, and the opt-out is supported rather than tolerated.",
+      "hash": "ade5eca213573d878d894e24fe8c72887a1df6e526fa8bc4769896e7c8e42326"
+    },
+    {
+      "id": "1f99fc0eccccf7bc3c7c83c70c98a2a5498bbafd64ab6083b7ae6d9d077b37d2",
+      "text": "Where did",
+      "hash": "0cb2ce3ee597de967c6f15abd2b6cf1742a261775ebd1bad8e58977c9690b5d8"
+    },
+    {
+      "id": "4d570ee29aeae9cc1c4c888cfd0c670f66dc610a8ec14eb1c913cc8e8fed4eb1",
+      "text": "go?",
+      "hash": "a8074eba17565ade3d3787352b3e64ce5b3445d3610ca952afaff2557e593dbd"
+    },
+    {
+      "id": "5f90bce95acc088147d116895504a6640417af135a89c8938b594355633c726e",
+      "text": "Into this skill. Round-based questioning shipped briefly as a separate skill, then moved into",
+      "hash": "8766945ccda83e0e5235abba69d80d3188e300b024e119f15d4ce589c3e5a441"
+    },
+    {
+      "id": "4e4c5dec1951f541c81f2eaa7d8192eed9d20804a3929659b6e4851a7d82c4f6",
+      "text": "itself, so everything built on the primitive —",
+      "hash": "532cecc28f48aec805ae3a1da18426bf6effe7cdf31270cafd87227c23bbae68"
+    },
+    {
+      "id": "46f5f6b73d9721b6337beec631355ed5dd3cc31ee332896bb7ef664ff4faf85c",
+      "text": "— got it at once. There is no",
+      "hash": "71592f3578b6502b6b58e966b70935e676c7b1d31b283cc644d411e75d539dff"
+    },
+    {
+      "id": "e4906eb75e6976f3e79e2e13f2fdbf1448c517868e02d466e630c3886b515e8e",
+      "text": "to install, and no separate sequential skill either; the",
+      "hash": "89afdefcbca84ea6dfe474d5b4cd33a7a85d0dc86006f42609253cdc68afc295"
+    },
+    {
+      "id": "718dd178998193d37bbe592016270032f1b136bfa868b5aff51ce3eb8cd607c9",
+      "text": "line above is the way back to one-at-a-time.",
+      "hash": "19a09ffcc06dc7d81a5e9e41dfa740b15934908a3d15f53aee03716c223f9520"
+    },
+    {
+      "id": "3dfee868dd7507f16ab4720b83f34c1f1191ce7d4a9e1bfba1f686e6b378e1d4",
+      "text": "Asking a whole round at once must lose the questions my earlier answers would have raised. Doesn't it?",
+      "hash": "1133f0f94a462e5f17f65af4c7f5163fee3de13615064eeed9e6fe859c82bf5a"
+    },
+    {
+      "id": "a50614558d290beaf4b7ec2f5effc70fc5fe5bcecab54fb8e0eafb83de2f32e8",
+      "text": "This is the most common objection to the round design, and the frontier is the answer to it: a round only ever contains questions that do not depend on each other, so no answer in a round can invalidate another question in that round. Answers still reshape everything downstream — the next round is recomputed, not pre-written. What you lose is smaller than \"all questions at once\" implies, and larger than nothing: see the frontier's limit above.",
+      "hash": "4222cd1e60cb2c5c2e6f4488aec028de6a8f8eb5f9f829f1d6cb53306fc5fc8c"
+    },
+    {
+      "id": "da9fd24fd1701a266a12698eafd70eea2b0e4a0e36179814ed5d0881d81050be",
+      "text": "It ran out of questions and started building.",
+      "hash": "31a800e41af739531c6879434f3f96b16e1ff433c579525d37a2300334543364"
+    },
+    {
+      "id": "2f4f73e052e47072e72413e084bca204ac14eff9f879b4eefd7c2ad17fea430b",
+      "text": "A confirmation gate exists precisely for this: the skill is not finished when the frontier empties, it is finished when you say the understanding is shared. Weaker and faster",
+      "hash": "43d9cb8a553947f15d7461bc38aa73507d3943fb7f761eaf01b6a0031a241d4e"
+    },
+    {
+      "id": "63519afa84ed9ff1f3f9211c8d3a57b408b239ffd1fb2ec3b6b7f2c038cd99f0",
+      "text": "still break it — this is reported most often on lower-effort or non-frontier models, which collapse \"interview until shared understanding\" into a couple of questions and an outline. If yours does it, the reliable fix is a line in your own",
+      "hash": "b53ade569460df83bef4139218fd457f262d83b6b8add2d028bcd05e2f384cb5"
+    },
+    {
+      "id": "c766295e7d905212a535c2f5ef90cf46eed837fe45e75c585fdfa6159c93bbe0",
+      "text": "telling the agent not to implement without permission.",
+      "hash": "ecff4eb6c7eeded08cb4b2626e4ac0c3a4b645bce569453a99628c4e0abcc652"
+    },
+    {
+      "id": "45fe085b8232a8796a2df1ca01d59ef54f65a23373cf5e11c72883dca7f0d69a",
+      "text": "It answered its own questions instead of asking me.",
+      "hash": "4210a3e81b4469dedc103a25b7d761f890fde67cb95344df63586b809edcce48"
+    },
+    {
+      "id": "49e34921706c567b0c882152dc8eed1540c922546f1e38a0405563e0487b4644",
+      "text": "That is a bug in the run, not the intended behaviour, and it was the reason facts and decisions were separated in the skill's text. It shows up most when another skill runs",
+      "hash": "decbb49201e59857b7f31c2660681fbb1007a3b63f1efa066825dc55e7fc2a7f"
+    },
+    {
+      "id": "7a77f9e22de66e8b0d6d7edcf2acb8360991593010c94c943a7576ed9b152536",
+      "text": "inside a resolve-this-ticket frame, where the surrounding task reads as licence to keep moving. The same constraint is why there is no async mode: people have asked for a variant that reads a GitHub issue and posts one consolidated decision memo, and that is a different skill, because a grilling session that nobody answers has produced the agent's opinion rather than yours.",
+      "hash": "a4d3e7e22d8a2c56cebba8f6554445be137a254333c5978dd030160b51a26b93"
+    },
+    {
+      "id": "6cfe2e38d0388acbc2bffc4ca9a4ad0fe237e350547e6bb841fa1ec46f08fd4a",
+      "text": "Can I cap the number of questions?",
+      "hash": "5748bb04b633d67050d59f378c30dd58a101b2bede1781bb98e6c3fa166a90f5"
+    },
+    {
+      "id": "87a502a22f2c339a43ba55af361a6811dea65ad88d9d687c42c51ea67d6d0657",
+      "text": "No, and a cap is deliberately out of scope. Some plans need three questions and some need fifty; a fixed ceiling either truncates the hard case or feels arbitrary on the easy one. Steering in plain language is the intended control — tell it to wrap up, or stop and accept the plan where it stands. If a session is running very long, the cause is usually that the scope was too big; break the work up and grill the pieces.",
+      "hash": "a8cc8f8ad3ad3d0dec7639b87d56c05bdeafb8c920b4eaa997206c6b0b06e25a"
+    },
+    {
+      "id": "7f04c537cbb197b5c20e64b19b5812ae41b2da9297cf5006738acdaf25778170",
+      "text": "I installed",
+      "hash": "36e74b7e6b5034256b205a9422e83ce2206a69d7c92f3b0505a926fed423882c"
+    },
+    {
+      "id": "ca91587000c3723e3932d56e0d4cdf64ecebac2ba2bf75a7c8e065efd13b32e9",
+      "text": "on its own and nothing happens.",
+      "hash": "7d6facac1305d2a783aad33e0c27b972ba09885224731235805ba195bdead227"
+    },
+    {
+      "id": "2e738ecae0bef9cc85ff8278a8844c5daf61b77f512d74c4cb8a153aa29cfd57",
+      "text": "is a one-line skill whose whole body is \"run a",
+      "hash": "e6a8ca68e2c37796fc7dc2232967908e5bc1d1a71280023f1619afa8e9094110"
+    },
+    {
+      "id": "acbffa329a3da0aecf08f4165c338a3ed5c0710012a1dbf70aeceb8d053c82ce",
+      "text": "session\", so it needs this skill installed too. The same is true of",
+      "hash": "4a925b48f31a79b344039dd15e3c0e31bf17a8af4fce20233e21dccdfc330816"
+    },
+    {
+      "id": "d28fbe39ec5a756ff56f61f99045548866304f1ac5fa433fdaa9b454d6697f61",
+      "text": ", which additionally needs",
+      "hash": "36828894011834237dcb495e977e625c80d85413ba78dccc85a63ee45c0f37e0"
+    },
+    {
+      "id": "7df9a47bd18c9a60e57eb1c246947b748c7bef57bc28735e22832f1b3058c2ab",
+      "text": ". Installing the whole set avoids the problem; installing selectively means installing the primitives as well.",
+      "hash": "0da22e3cdcf558dea1bcee0a3560c39795d2b9c2d251b3ced702854bdff39b3c"
+    },
+    {
+      "id": "4ab6e6ed8abb55f6487b834aa9e81c075b267f602c41e0c141d1628706ae8941",
+      "text": "ran, but it never loaded",
+      "hash": "f11975f5cdbb525d5da28acdc8b8259e12ffb13fdcc19bc552bc1a8260fee751"
+    },
+    {
+      "id": "2b79f85c917be9cdbd98f226d0dce91a599de0d420658e1089b0705ca7f0e990",
+      "text": "A real and unfixed rough edge, reported across",
+      "hash": "756314bb0adc951cbbb27e58a91b55411abf515e406cd49a30287542712b84fb"
+    },
+    {
+      "id": "d8f424da4ded056412128f4de6ae5f5849d73d7dd0999b7efdd2b8c0831075a7",
+      "text": "and models: a skill that names another skill does not reliably cause that skill to load, and",
+      "hash": "6b1cc578d459c8e2fc29558b6aa1871f7d12e2fb65c3524ab852394f5d98beba"
+    },
+    {
+      "id": "e76f9579dc9b3b3b0dbe93643ddbc80434a24df0426157f30ceda9780c1750e5",
+      "text": "names two. The tell is a session that asks everything at once with no recommendations attached — that is the model improvising an interview rather than running this one. Asking the agent directly whether it loaded",
+      "hash": "49fcf606a0d8b6e64cfa9bfe76552ccee459b0df9576f5f47392cc5fb5915003"
+    },
+    {
+      "id": "d084937b0ff0434c0c8500ac275ffccbe1f9bc907f3a28d226303800fdaaca8c",
+      "text": "usually recovers it.",
+      "hash": "5d7be9c7f39f39e678601cfbe5d803d0f307f17fb24c66af34c040ff7a694a24"
+    },
+    {
+      "id": "0d37bba437ed4655998d4aec9e2d3d13d0836f77300b461d49ee8cda4f5547c3",
+      "text": "A round arrives as a numbered list, each question with its recommendation on a separate",
+      "hash": "a450a3317e14d22068a915f25567d1b3ed339b992be1d4234620b960cc9e01a3"
+    },
+    {
+      "id": "8933e4312b2c0a3959b17528d0319213f57e0ff41354c8c93923e4722fb430a0",
+      "text": "line, and you can answer the whole round by number.",
+      "hash": "e90a2ef939bda2e36521b43acc680056d65245bd6dba1ec4876e8fc7f39241a4"
+    },
+    {
+      "id": "84416d113c56205cd36845fde94ddadda32432dc437e72753991602e944ade42",
+      "text": "Nothing in a round needs another question in the same round answered first.",
+      "hash": "01cf16277505ad9503defcf6191aa054d8783f4b48bec73fbff38458b029496a"
+    },
+    {
+      "id": "d6e5214d8bbe46e3a0e5d7f10f2eb23aa8b640b223d1a6ed51853f486117c32a",
+      "text": "Later rounds ask things the first round could not have asked.",
+      "hash": "807300d630851e78756242586fa1066e16f80e650b5ceb9766d9d4e55b145495"
+    },
+    {
+      "id": "b20ea1fae991a83fffc219ed8637dd4a6416409e51e35968f3e70fba5d0809e3",
+      "text": "It goes and looks facts up — reading files, dispatching a sub-agent — rather than asking you something it could have found out.",
+      "hash": "2b02f1a0b2c65cd28823de555c3bfd6a0b676233ad805b56c75c5593485b4c6f"
+    },
+    {
+      "id": "80a84ed68d0f4bc17106073a5400d3657cc3d12048c3579ef2895dd7c321d037",
+      "text": "Research running in the background does not stall the round; only the questions that depend on it wait.",
+      "hash": "b4f309a7e406a143fe24a22dd50ecb66dfae07039ca999c4e1ec74a6adb7957c"
+    },
+    {
+      "id": "14d24dea45eff9f7fbf0128e0904bdeb52f28e53829282e8c43d85335be6d630",
+      "text": "It stops at the end and asks you to confirm the understanding is shared, instead of starting work.",
+      "hash": "23ddce15d780fa2f9f3a4b82831d3f9818ae9e3a2ad7fdc95134fc36ad265d41"
+    },
+    {
+      "id": "eb72d9e0a3e1f2bd8838369400c2f9dc85a8794a74cb2d445c76d013f166e66c",
+      "text": "Question count stays high while round count stays low.",
+      "hash": "5bba79b08855beb0c915deed68ad8bcfc935411a9288607c5b6f1a298c39a202"
+    },
+    {
+      "id": "804ec85f1081b73ac0a7a4613fc2552ccc140226da57318e33617223c5333dae",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "007d4a69cb64a8d93dab9ea6f2f7877423ceaf294d7823df7eb595a47b3e352a",
+      "text": ", not a step you schedule: the single source of truth for the interview technique, kept in one place so every skill that needs an interview reaches for it instead of inventing one.",
+      "hash": "68db276fa118bf7e7b9aff3eaa2552b0250174b8e6c1c502baee64e982983eac"
+    },
+    {
+      "id": "d46f4d9b6a79f042173c01586c258582d87adb2a1667cb3de40ac911b0f01c70",
+      "text": "are its two user-invoked front doors, and",
+      "hash": "99e958360fcbd5511eeb36332e274b9d3ae81929d786de9c888b6f0fef88ce7f"
+    },
+    {
+      "id": "c8e1cc6a7875f9e7a77cd87d07b8e6e6a79b6472b12b9d6b702f86e73143db8d",
+      "text": "is where the main build chain begins, ahead of",
+      "hash": "a18c233d01b1d592e5324b590aa9a7a9ebbcd2d1f70eb58643cd03f7a4769350"
+    },
+    {
+      "id": "d09fe69452bb56fe4cb80a331bd828bf6329444119bf364521688e35b6289086",
+      "text": "runs it to resolve decision tickets,",
+      "hash": "5f538e868dfd55405462aaedd9ec83c31f9d304b49426760257acdccb9a46ed3"
+    },
+    {
+      "id": "bc01cc4b008ed55f129a63a109e2bf85f4220d87f2f37008c4b58afefdb4e7cf",
+      "text": "to grill a vague report into a workable one, and",
+      "hash": "22f8731029e385c7fd9de03c5d42b927987380cd3dc445cc7559c61bba7f4ce3"
+    },
+    {
+      "id": "7908ea6d5a046bf10a18a3f8bd45e240aa076ecb97cabc6edcc6a96a4c9a0d1c",
+      "text": "to walk the tree once you have picked a candidate to deepen. When you are unsure which entry point fits,",
+      "hash": "e8add0d7d586187aab9ffc40525b143a490f052dd77ec56fba4506f4baee9ec6"
+    },
+    {
+      "id": "73f3edcf4be99315e775882de961c1a327ca40c33600fb209bf34d5815243048",
+      "text": "routes you.",
+      "hash": "7ab0ed124c45755dcf8314c61ea1bf3f8c9926f3cf622e8d67e880128523bfad"
+    },
+    {
+      "id": "595a30cd3a92a3b073eb8b3e056811595e31768a47dcfe879ef4a7dffc5ba17b",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "21fec77ad704567e16574888f388e89f3215aae13933e8b8305183ecbf2e4705",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "c5f44468b5c1782cc7a512329cff3008c01eb00889aff41554eb207dbfcc2345",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "d6b5dd951535d0fbdf90297527897835452c461b5905dce8ed5f06772675d28f",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "90961aeaacfb502b64c91aa52dde006903520deda05852fcadb1ecd198fe78ca",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "4dff579d785621b374246983a8a6b9829332f8d860de55ecf6989bdf42559329",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "02f49343b3ff47db2975682820c9741225380d5b92f0399673741cb17dd464b9",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "71f3862d1319f93301115e18a2e3bb43dc6e7ae5bbf65977d1b335ca714825dc",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "a79815a53e48d6b6f4219798ae16934a0341054773f8a064227ed0db50a9f196",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "8067c51c1fa4053b632337d611d118ead5f338656115c5bd474891be72a14b6a",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "32d0cd4c0be208076124b066a5b6afd68b2c89c45295a9d8ba89b699f9800ddb",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "55d0530956acc6153e66ac9c764cc48a9dd4f3899dfb2c49f695e1af22ef6c2f",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "e7aeb0e329d1bab2c074c620b4eb2c775650f532bf60dc2b944432f33e617586",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "ab90d1a6cc932a6f9ed2d207b2ddf947c120cac69c0660d877491b77f5b2b7a8",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "3e8e8a3c59b3360d65bcdc8f4e1d926f3a62e12d6896975eaecc2dc93d017584",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "5df9d09a4f89059168653cc2b78d4e322d56513e57f988c4d1631510e76a2722",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "6a2646bceccff50cc02875bb2542aea76f5dd354b7a96ba4a5f8be133d5e632d",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "06d15a4adf9447fd73c01e662c5c35d1b0cf668643427ecaa4ae8ed825f192a0",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "490406f8d25a5c3a48c0db00dd02f7a1b02f2e85b864f73af0fe4f4478827701",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "206a7ce4177890f80b38d267a9ba2c3f79aea2f840838e306641a8cdb3298f81",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "403a5e8504102f384e4e64d94d2374bf8cb928396e836268663848b88f05a30c",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "c1fc6684f8c2a6a7ef461ec88426b4eb64fc41db009d93bf0970b873b41ab13b",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "9aa016c583e98f2cccf50215394c5261f743bf1024b21f1009aa008b6b48651a",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "1c86a5cd64c235dee33aef71afc6eaf21c260844807e8cbd246cc04c00d0075b",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "24b2d1ecda727858aedd529555f90ac2d3aa65ca6f52f37d50d74dcbd3fdd18b",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "9275a8cd650e3a1a4a8b8a17049b31d013325a9b43f7128946c381b748d78461",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "b5fd6aabe96acbab02c844ec432c9e582a402714dfcd707d2a9a1f2f7630fab6",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0acfdb0ed09a87d309a8333ea85c0826618869f04689353c11387e5ee121b977",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "87ab9e6cb7b5084f312025d122c7c89b4ad8c2213459c3ad073b411a23aa23f7",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "1c574dcfcc1ed65837b2e2794ca2b26b8e619e943eb2b807a157a587307f771f",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "cc7b6a6a5eb82ef3f396740d21ca7d7d91ce586881217a90ee67d21f93f667dd",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "be89fbc92dbc3e9a6f6d81905199d3e899882676655834f234ce3e072e9c908b",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "0a643b0b8509282ea380aa25cb639c7d4e34d136fc2dcd48404b1b4a723e0305",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "53800e9dc1cd3f914f62f21f27662041f04c3109b58056612a1c3b25513db60c",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "eb026643d2fa2e0f634e46dae1fea657fd470c0055545f86d43f512028c647c0",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "f6700efd821b0438b6ed7f49c9ebfbe63b483f8a6f6f24e9a17b00df74e6ec3f",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f9196f5e6248538dcbca499633524b0550e03c9d8c419aa1db9b402ad460f079",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "c32e84790a60e86348396e2152d20dd925e9a9f5f98f8cf9a88aed65efb33c53",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "b24067f6d98396a8acd3596dbcc025bdffe1d3ff5127754adbabc0f33754850b",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "50c8c5180e2ac23eb3e6fd0326ccebc8ea7c6b0c44c3177193421c50252ad58d",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "1b1200c65d50e6fd181aa6a41cd0eefcff386ffd8c5b5dcd14b695a0d3eabb1c",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"37iudc71ix7i4w\"",
+  "lastModified": null
+}

@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "origin": "https://www.aihero.dev",
+  "fetchedAt": "2026-08-07T15:51:14.711Z",
+  "scope": "tracked",
+  "urls": [
+    "/",
+    "/skills",
+    "/skills-catalog",
+    "/skills-wizard",
+    "/skills-to-questionnaire",
+    "/skills-wait-what",
+    "/skills-writing-for-agents",
+    "/skills-teach",
+    "/skills-grilling",
+    "/skills-wayfinder",
+    "/skills-triage",
+    "/skills-setup-matt-pocock-skills",
+    "/skills-resolving-merge-conflicts",
+    "/skills-implement",
+    "/skills-grill-with-docs",
+    "/skills-domain-modeling",
+    "/skills-diagnosing-bugs",
+    "/skills-codebase-design",
+    "/skills-code-review",
+    "/skills-ask-matt",
+    "/skills-research",
+    "/skills-improve-codebase-architecture",
+    "/skills-handoff",
+    "/skills-prototype",
+    "/skills-changelog-ubiquitous-language-grill-with-docs",
+    "/skills-tdd",
+    "/skills-to-tickets",
+    "/skills-to-spec",
+    "/skills-grill-me"
+  ],
+  "results": [
+    {
+      "pathname": "/",
+      "status": "ok",
+      "strings": 121,
+      "textHash": "ebe9c25d5e52fed8ab7a397a2a7464bcb302fae9ba49c1ecff76494d29e912a0"
+    },
+    {
+      "pathname": "/skills",
+      "status": "ok",
+      "strings": 156,
+      "textHash": "049b5d97178ca78c96402b0b724e4c79967233008a656b5ad405d7d8cfaa73f5"
+    },
+    {
+      "pathname": "/skills-catalog",
+      "status": "ok",
+      "strings": 120,
+      "textHash": "6aa2fa4b5c38748657aeef0c376583197ed653e9939fb88934fb00682cd05fb4"
+    },
+    {
+      "pathname": "/skills-wizard",
+      "status": "ok",
+      "strings": 188,
+      "textHash": "225c0500c54a3c8c6ca214edb8540caa70172fed2761910daa108c8d95bfa30d"
+    },
+    {
+      "pathname": "/skills-to-questionnaire",
+      "status": "ok",
+      "strings": 156,
+      "textHash": "3063b2c2174869afc40d215dc99badc5e0dcdf88381f8b2bd61475e299a81274"
+    },
+    {
+      "pathname": "/skills-wait-what",
+      "status": "ok",
+      "strings": 128,
+      "textHash": "1c1569e6da4bd47ca7aeaed2f3c0afd65e3b8db1c8bb3f1993da61e899238b35"
+    },
+    {
+      "pathname": "/skills-writing-for-agents",
+      "status": "ok",
+      "strings": 166,
+      "textHash": "6e592ca6ed40732f993cf7b51559a768e68f7ab511e2cdce93e865080665fec2"
+    },
+    {
+      "pathname": "/skills-teach",
+      "status": "ok",
+      "strings": 208,
+      "textHash": "4946f454233e772fe5d70a038e9358b695c68455fac2b58de7211bbeb9634c8e"
+    },
+    {
+      "pathname": "/skills-grilling",
+      "status": "ok",
+      "strings": 187,
+      "textHash": "40f04a80222cd57037c35ef05c8a5467cbcf3d27fc5a9d765a516b3138b14ea1"
+    },
+    {
+      "pathname": "/skills-wayfinder",
+      "status": "ok",
+      "strings": 230,
+      "textHash": "cb83f7b40565481a17c2d22b26ede7fb871bcf5899eb58cce506cb11667fa4cb"
+    },
+    {
+      "pathname": "/skills-triage",
+      "status": "ok",
+      "strings": 234,
+      "textHash": "cfa2efbd14587bb1807e9e1616be44e6d8cb0541edf47457a62bd301b4dfb10a"
+    },
+    {
+      "pathname": "/skills-setup-matt-pocock-skills",
+      "status": "ok",
+      "strings": 206,
+      "textHash": "259bde4df95c0781991c72975171e813a9e230738bbd1c0178aea3813a8a9a4a"
+    },
+    {
+      "pathname": "/skills-resolving-merge-conflicts",
+      "status": "ok",
+      "strings": 129,
+      "textHash": "307b1c05e05ed2708a51cd9e927e4e3b44d295965c0640f2af99743f4b0ccf08"
+    },
+    {
+      "pathname": "/skills-implement",
+      "status": "ok",
+      "strings": 189,
+      "textHash": "8043578d845e17f3f4593bd01595e03eda1da654b0b2ed0ea53d56253cb134cf"
+    },
+    {
+      "pathname": "/skills-grill-with-docs",
+      "status": "ok",
+      "strings": 185,
+      "textHash": "f80512b59af4dc6aef1e982655d4c466b65e7d31fbc9cf5d03e78bb308638f4b"
+    },
+    {
+      "pathname": "/skills-domain-modeling",
+      "status": "ok",
+      "strings": 210,
+      "textHash": "f2f15f60580cede631579df493061f575e09e823c3c96bfc435fdcbb1463620b"
+    },
+    {
+      "pathname": "/skills-diagnosing-bugs",
+      "status": "ok",
+      "strings": 189,
+      "textHash": "07ad126ce94a69bdcd8ef2b00c8a9bdbaf84e3e6bd300f8f98235b2097c41de9"
+    },
+    {
+      "pathname": "/skills-codebase-design",
+      "status": "ok",
+      "strings": 211,
+      "textHash": "2f1fc592b88fc6a3d7328adaedae22157972bc5c4d75f9deea420af1b350d5d8"
+    },
+    {
+      "pathname": "/skills-code-review",
+      "status": "ok",
+      "strings": 196,
+      "textHash": "f43c2cf8e75bf3d19116da9c264a9bcc9b4791c4b52c7b969eb5b44cbffd72e9"
+    },
+    {
+      "pathname": "/skills-ask-matt",
+      "status": "ok",
+      "strings": 197,
+      "textHash": "f3eece654307410c26e4b3b23fc6e82b3388ec2d439bbb3840f76b1e30da8cd1"
+    },
+    {
+      "pathname": "/skills-research",
+      "status": "ok",
+      "strings": 165,
+      "textHash": "1ae37ad54f85fc646fc25e3e6d13198b07ea37e509b599fae862b5f758207ecb"
+    },
+    {
+      "pathname": "/skills-improve-codebase-architecture",
+      "status": "ok",
+      "strings": 194,
+      "textHash": "a9daefd53c6ad6cc518db7a71bf0e15d904072290fc8aa96ac0bfdfa76508332"
+    },
+    {
+      "pathname": "/skills-handoff",
+      "status": "ok",
+      "strings": 184,
+      "textHash": "42d40e3caf50890f4aff18929063798c320ab649d513f150d86c407da1560baa"
+    },
+    {
+      "pathname": "/skills-prototype",
+      "status": "ok",
+      "strings": 165,
+      "textHash": "58585e8ecefa83c42cf06b2883922e902478e7e4fb28cf50afdfe86b0d63f546"
+    },
+    {
+      "pathname": "/skills-changelog-ubiquitous-language-grill-with-docs",
+      "status": "ok",
+      "strings": 158,
+      "textHash": "359f25b4724bb8bb2cae8fef1a2377c8d4af8a625b8013e4876c788ad67466b3"
+    },
+    {
+      "pathname": "/skills-tdd",
+      "status": "ok",
+      "strings": 194,
+      "textHash": "2e759af5eaeb4d45516e42fc224861ef355ad71d28022a7cc7842290260045b2"
+    },
+    {
+      "pathname": "/skills-to-tickets",
+      "status": "ok",
+      "strings": 204,
+      "textHash": "52aa2b9219bcc948ecba5a8cf5d4d49b703cae92170e3653eead8f93234507e9"
+    },
+    {
+      "pathname": "/skills-to-spec",
+      "status": "ok",
+      "strings": 171,
+      "textHash": "a553ae6d44f69c66561cb6e6dd29d8b6ef4c877390db067758e4d4c9d4f82e01"
+    },
+    {
+      "pathname": "/skills-grill-me",
+      "status": "ok",
+      "strings": 163,
+      "textHash": "ae130a9723cfb30e9acdaed158c7d3634a3eebbd2266765e1c1d3945bc5d29d1"
+    }
+  ]
+}

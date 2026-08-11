@@ -1,0 +1,653 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-wait-what",
+  "pathname": "/skills-wait-what",
+  "fetchedAt": "2026-08-11T06:28:04.361Z",
+  "title": "The /wait-what Skill",
+  "contentHash": "aa3846d18e19838b42c3a6cf6b2bbc83ffd496839283c4f41f9e933ede6492aa",
+  "textHash": "1c1569e6da4bd47ca7aeaed2f3c0afd65e3b8db1c8bb3f1993da61e899238b35",
+  "strings": [
+    {
+      "id": "449a89ce7f411526092dfa8fa0bed5e4dc99dd82996d9d3c12076a7244bca532",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "62cd7053b44aa0150a70ed207fec93b270837b460a0dc987f3b47a8868660b12",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "949408c9c49f4d6b619a174a882746b38675526c74cf7381ecf4360f39fa5eb1",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "dfaae9dea0845113500273d303d3171ce106c7655dfc203521704a0dfa92b7bd",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "f72599c1e656e3e565d14552fcb59ae26d1fe779e325645bf57c1cb5bd1ee385",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "8055057088bb365d5939396e4cbe324b1a6facd86d9b52aa17a092134e268397",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "839cffa04370fea8c49d7d3988448f28c56f0c870afe5241bac948d63e17be4a",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "8e2f548d42efac6129672347c870e740685c25af0d719b3d985141f4ac884476",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "383e25762f7a8fdfeadd8e5d2b1d400168f975906aef2cf4a259db0b627fbf5c",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "2857053bf327253e497c23b4a82b236a7c206be2a0594da03f0a93abdafe8df2",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "b4b22e27704da69d2ab5457a6dc4b0e91c287c4fd95fa670633ce331b7763aee",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "be21d3ed0567377f67aa40c27350db6263b1bd707b03af6c62a6008619cc76bc",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "24940bf2ef9842de7d767b6ffd3d78cf54f45045635e863be7ced37fe2b81404",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "3334d81db396dd02cf509bf95c915e174fb2f7ab96d52d2eda36d3d1cc00ed8b",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "1685ab13dd153c66191840dbe9dd9daaf1f0beae2a03b016148e279915505c78",
+      "text": "The /grill-me Skill",
+      "hash": "5edb548fff722d99ccd268e52fbe25045b7b033143d6caa73359a81daebd7539"
+    },
+    {
+      "id": "6719ebe211b873d666c04aaedda8360fa7900d04b0a66eeff042b55daacf31f1",
+      "text": "The /handoff Skill",
+      "hash": "aa9ef09fd6306628ff648bd617767047dad198c95193321344b3959b78d08f43"
+    },
+    {
+      "id": "7abe6b77a9233ab62641105481fbbf550605860152392b978689dce3818de61c",
+      "text": "The /to-questionnaire Skill",
+      "hash": "3830a182a5231fe3723288a956ef6fc920624202c591cb8eccfc4631443da29d"
+    },
+    {
+      "id": "409fc2f75255f890360f371d61c94774bda8030ad600ce3cfb59cf4e4ca28d04",
+      "text": "The /teach Skill",
+      "hash": "3eb25da61522976d76351eb1e464adf19c3c6b07956a325549bd111789da85c1"
+    },
+    {
+      "id": "adb861668c815d285be50c604fcc919afffaa2db00603d2060d990477f8339e0",
+      "text": "The /wait-what Skill",
+      "hash": "e6bdcc6683fd9e297ee57882e5d2370d26e6fff3b9b03bd528804cfa7ad01fcf"
+    },
+    {
+      "id": "55c4f2f230524586e015e8bf11fb808efc683a884d50886838c531d808664247",
+      "text": "The /writing-for-agents Skill",
+      "hash": "f022e2398dea44aec218f90928e961973c7eaa03026792434aebd61ba6c18cfb"
+    },
+    {
+      "id": "fa6751ef1551cc8214f1aefa09734aca011ae3e111910a9f97e978080d5db7ba",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "407d17ae0119d0efe0709b846542f4bb81c3c8c845849c19e86c1359a3513e7e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "1fa2494461888f547f1de1e5210fda34e0714bea50fa93edc679ba6c52199284",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "52d1b70d2fc9bc3b5c86af6f1cfe31091fcccd2011510b04b2e0d64de2f41083",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "8041ce6ada56c0d235a799668a97f373e0dea72a5072e223f1e351847f7f3a47",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "a09f74defb3692cd382c4c6dc7285c413a4da8573ef1fb798fe9474cb1d19a01",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "fc69d1a4a09a140754335a0e5004cb6252b104c90baff6d13eab6327bddaba98",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "b7803b0e976d94681b6ea6278edfe3bdaf7ab915f338901301c9e13a4d0df99d",
+      "text": "20 / 25",
+      "hash": "d9dac96e77be5af16a8c86439f427089ca3145523cfcddc554833c9427812f7d"
+    },
+    {
+      "id": "f38d592375d962b656a8fab24f02dc1802b14dd05a0bcf4371add58b21fcd687",
+      "text": "AI Skills for Real Engineers · 3 min read",
+      "hash": "a5f14afae9e74fd646bb5b49c3d7fe2d7ca23954af2845899f8faf10f3503d22"
+    },
+    {
+      "id": "1d1759ba0406871f3df72f47474bf967e9ad0ecab10ec6080087f87b99be8148",
+      "text": "Ask the agent to say that again, in plain English.",
+      "hash": "f97ef98c98295b553e6307da02b88fd340d206924528abab09a08aa495568032"
+    },
+    {
+      "id": "73bcf1c7b604cda08606f2021dd45d7743edeb4d93896a0ddbe906e36d1e98a7",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "73692033984b26af089845d7f23a91dedead7abd68368b15ee5221959ee9f235",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "e5d64a486c613c52c5debec71ce555f2c93c7de064ed42a92d615e6c59ecf2a5",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "44aad95cdd1315f40ea5d28c2058ab3e79026f59835ac186d0bbfd10a8b434a7",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "8f3f00b04128663a74e1e8221063667eb64550de0cd1ff20eded246a67d9cba4",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "8d0c79fb34c8f1630c87e86bf100ca0a564aadf2e678f0eb1d4172025f3861c2",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "324a5cdc26135f9d76b933f708758281664fd2df5435ac98ed8ffd26ef89c8d4",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "23824e1717f2389b9336e785bbf083fd3c1d1a912e2e7e802c237770192cbb94",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "c533f06d6080d559049a14dc1dfc6c88bec07eb092c10a09cbf5a481526ac0d1",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "2545516c692cb5fc0bc035ed475dcdfb961442dadd60bd5be090db91d87f0c73",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "d5a182f8f678c6b9c90eb52ada6c77be71a66fdbd854adf6d33a284d4bdfe9b5",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "08b87bfcf2edafda59d48cfa2755649e152558be5e5b49b69e17cc96ade753af",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "1b306a98ec93502b92b908ad4ca37e606b19eccf3c0c69622f40531c40227485",
+      "text": "The name is the mechanism",
+      "hash": "7a56ff1a05806ff6335b0c17662ef3a8b4560feff1be0bb86a1a153aed74c571"
+    },
+    {
+      "id": "79f80c38e9f71952fa217b42625d3816a2bb5c6b757fc4b1ede7e38d1488c2f6",
+      "text": "It plugs into the language you already have",
+      "hash": "ca1287f4c5f2a9c043f232fd76eb4db6279a4f258db0414d191e839c094c2495"
+    },
+    {
+      "id": "432f48bff64eb3232367b1ba683bdfa22e82e0c5d7bb63cf75b602db2f6e0c0c",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "2328f05cfcf3f5eef3a2d7cab93d1d016b83662cc53f83a4c35b23409a9c68ad",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "5929e594c6778b1c6f9d6e45c0a20d071a91316d3ea6b560a61eec0516d51485",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "c7ab568a524f5d297df1ccb51854e9c7a65d5f73b962c6322a43509972b7d804",
+      "text": "is what you type when a message didn't land. The",
+      "hash": "09b61e30c80b6650f7cb221593b276f33826c7458b92a3be598834066eaba5f7"
+    },
+    {
+      "id": "7b1dcdc36d967e9f47dec940d23a8ace488ac9e468f6bcc7820e40d9e2b35655",
+      "text": "then re-pitches what it just said. It adds the context you were missing, writes in plain English, and uses the vocabulary from your project's",
+      "hash": "96d362dcd21fa89c81428b41ef896ca59062df1ff76b51ce50f2e33742c48863"
+    },
+    {
+      "id": "996ee45a3d4f9756532bffe508ad1ee5d17696da29d7f2dcff86be76589e89a5",
+      "text": "The skill is three lines long. That is the design, not an unfinished draft. Skills that fight verbosity fail by growing: a four-hundred-line concision skill still leaves the",
+      "hash": "ade0316ca7c7ae2c16e74131947bdc72d882e0c7355d67a7e7fdfb8df51f67e1"
+    },
+    {
+      "id": "a355b26c6d47c5d4fcce80bc280d0976dd88f2ea03da52ba00496d7e152370d5",
+      "text": "verbose, because the model reads the volume, not the plea. This one carries a single precise leading word and nothing else.",
+      "hash": "aa8632dac6d689fd3cbd3cbca4fa0f343d0292896ad4681529a598000c34a410"
+    },
+    {
+      "id": "c9db8704c3fc60b6dd41faf4282134187402f166129dcb64def39d1b0a918adb",
+      "text": "You invoke it by typing",
+      "hash": "50d2ccb3219e2ec8fcd3d2b8b1903c730023cb118d50c24971f6a7fbe3b6f099"
+    },
+    {
+      "id": "60300d3e9e603c8b7ccfbef0d4f84005ce8363524cce372d169d8738e17321e9",
+      "text": ". The agent will not reach for it on its own, and it shouldn't. Only you know when you stopped following.",
+      "hash": "a47d48d226ee472e78a4ba181ede960b145985a3190d38274f068dbdce553a30"
+    },
+    {
+      "id": "5386d377a10dfe63c7d47039dd8192179b18b5a7709e2fe1267d856d66a7344c",
+      "text": "Use it the second you notice you're skimming. The agent has drifted into jargon it invented, stacked five acronyms, or explained a decision whose premise you never saw. It fixes the conversation you're already in. To stop the jargon arriving at all, use",
+      "hash": "5ebb2d432823ef6f9bb3dc9b3e8947a5dc0984ce27d638b38b4ec0d1479602de"
+    },
+    {
+      "id": "79ecbde3f45c450b56b939eed8e1f0d0843730683892bbc0794fd877555c1417",
+      "text": ", which builds the shared language upfront.",
+      "hash": "4cd7927b156cd0ddfcbd705c97bc2f05a87e91c64abc51c3666fe53efd482d1a"
+    },
+    {
+      "id": "ff3740a351d2543dc4b2c7954811f4d7f26778ce1926b1231552e39ce39ed59d",
+      "text": "The leading word is",
+      "hash": "43acea7c189950a419d4021be1a05f369723f871e968ab6b290256de870cf1eb"
+    },
+    {
+      "id": "be3cf0a796b3a81f7fe1dace59421148b866645a589cba83ee7221e0af9c3dfb",
+      "text": ". \"Be concise\" is an instruction about the agent's output, and the model obeys it by clipping words and losing you further.",
+      "hash": "0f20e79082475e10076a3509879e1620ee65042e069089ae9203945bc49e0afd"
+    },
+    {
+      "id": "3bd5ab9316b3256244b54e295f8e25028cd3f2fbf9d69caa13edc5cc94c633dd",
+      "text": "Wait",
+      "hash": "26b83994dca8b4b483edc45464ba07a5bde05cb7e6c5c61bb2e66da9d1e15fc7"
+    },
+    {
+      "id": "d05281c902f058599dfd99f49f20ed12cf6a0aef7eb24224af73462e2cd28604",
+      "text": "is about",
+      "hash": "d6d2c3442fa0541a0d1ad29dbcb149d2f3e1c9acde0c01493806a94174659637"
+    },
+    {
+      "id": "03ac8bf9c92fe0dab85178535fe1d13bc7aa5e51ed10325b9b4b898f3fec6ed2",
+      "text": "state. It says comprehension failed here. An agent that hears \"be brief\" writes telegrams. An agent that hears \"wait, you lost me\" backs up and explains.",
+      "hash": "a35b1e07d8fb782eeba88be17f6fc77c64aedede130febe1e36ca4880a7af1a0"
+    },
+    {
+      "id": "a4e5c6e6c4a14b664511b1c2fed86ed2ab5aae31058b3f30311124cd4d1687d6",
+      "text": "That difference is the whole skill. Every popular fix for verbosity names the",
+      "hash": "660918da31faa8767af4f2e1ec4e35da8197f30fa1003bade97b0b32d4036aea"
+    },
+    {
+      "id": "6833bb39a4db1674be39dfdc2798ae3efcf7048977ef24e1f4dd4b89e62ccb25",
+      "text": ". The model over-corrects into a caveman register that is shorter and no clearer. Naming the",
+      "hash": "47d779e1864d1c2d345ce2f4eea38d1c4d2e0c29af3f3253265a7155ff032146"
+    },
+    {
+      "id": "981a49e8bc060891341e8f092b966881ccec03150fbf63bb4cd27408d756912c",
+      "text": "asks for both halves at once: fewer words",
+      "hash": "3aebb7974a30b518eb6542c50e2c37da251282d66f6a9d2a2584dfe6cca98499"
+    },
+    {
+      "id": "f40af3842b36bcf29f34ef899f328651284d0ab03ab4690669b7bbe011699814",
+      "text": "the context you were missing.",
+      "hash": "329b8cc5f86f11cd5fb83cfefc5a6baafe24e8f9548927e82561c430e5927978"
+    },
+    {
+      "id": "45c0d88555254c278108cbf91c18abc7dae658fa31394e80a6fafc060d337612",
+      "text": "The skill says re-pitch",
+      "hash": "749b7f03e2a12d136cc4a9cce1a4120b9ee6719458cbb69f620da012fc1d5508"
+    },
+    {
+      "id": "73f1243a19eabdd19fb87c651fbe0f82666b5195bee00109e5b051fa7a3f6645",
+      "text": ", not \"that last message\". What lost you is usually bigger than one paragraph, so the agent decides how far back to go.",
+      "hash": "733475903a55a1170809be020fc504b2a04c488929e335389e7b47baeb6a2f94"
+    },
+    {
+      "id": "d7c5b81cfc958711d396e71c74ecc8dd064db8bd88ae0b8590accf8ee53454f9",
+      "text": "The body reuses the leading words already in your global",
+      "hash": "c0cba67719093c704ce2b6b6e7bde0e7937b2733da9ac38d6c4ac997d1c6d516"
+    },
+    {
+      "id": "ac3e13372a0ce3b66b92a3f60d7969c3453c314b99c0c23d14dd5138b2b6f33d",
+      "text": "and your project's",
+      "hash": "eeca683d6a50b3bb2087f628520f42e9f6622c06e6a732a9176aa6c16dc19ace"
+    },
+    {
+      "id": "d23acb7b70c9ff6cc623680263d1b1b546ec0e67134f977030e489f56358994c",
+      "text": ". ASD-STE100 Simplified Technical English sets the register. The ubiquitous language supplies the nouns. The skill,",
+      "hash": "e947df10ec10134bb4dde2836a8b76597a23ae65006ce09d5e25a27e9865b02d"
+    },
+    {
+      "id": "dcb083824fe7ebc30d93c3c570d2b7c5896d53231465fdba06bfc50c5fee84c6",
+      "text": "reach for the same",
+      "hash": "8647b8dac765dec2c0886e4dee7545d435d44d270caf678f2acd51d0da4ca6f9"
+    },
+    {
+      "id": "34218a6947692992892ddc2e5898e870a9001909dbbcc157f7827f9760be65d3",
+      "text": ", so invoking it is not a new instruction. It is a reminder of one the agent already agreed to.",
+      "hash": "cedf1c54896c1a771c6d8a5a2f44a238a64a76e049fecc6aadd472a5a6f9c587"
+    },
+    {
+      "id": "4aa1dc60a194970346691d84731bf3a608fd5796db6e75e2b22d43c119652322",
+      "text": "If you have no",
+      "hash": "624c40e98a7138d13fa5d8904d42b6ecd6f224fbe64a2e5f53b4ada4ee3a7f52"
+    },
+    {
+      "id": "873d3c1a63b07f6fd1df92def890f2242b4a33feb6efc907173700c352a24f48",
+      "text": ", the skill still works. You lose only the domain-vocabulary half.",
+      "hash": "41823d067ce4fd6c631576fea0f95137d1f6dc518290d0f67d73b942d7672ee0"
+    },
+    {
+      "id": "f680b09e3b9c5f26a77d56caff6bbf325eb1e0e310227d877bfb9ea0e59bbd4c",
+      "text": "The re-pitch is",
+      "hash": "a491d033ea3cd287d065fc1e01523a2b7743f1a37f17f18500b19b6a5f701944"
+    },
+    {
+      "id": "7eb397ac0a2e57d56cc02a37ae69facf4a609b3882bfa681e4c58b63b41de2cc",
+      "text": "shorter and clearer",
+      "hash": "701a57b36b807c295a0b4a778318e6abd8158c8dab41bbf9055b8be9129db77b"
+    },
+    {
+      "id": "16f53fb735e77293d77837f7b938c5472acd8d9037c897b76fd396c27c08bba7",
+      "text": ", not shorter and blunter.",
+      "hash": "3fceadd049343c40efb4b4b3672d11c9831b466a865845945139406fcfdf5d0b"
+    },
+    {
+      "id": "1500ff7e85b56574c590e04cdcd45d170121221588da9db32818bdbe73e9d787",
+      "text": "It adds the premise you were missing, instead of only deleting words.",
+      "hash": "3d866ee041d5f6cdf54297231105ec6005d7ce5d8eb20d5f568bd26d08817b7a"
+    },
+    {
+      "id": "751fd3c65dbad016805d0259c5c15de5affb6b60b7ef8bd2d79421b40afa23c4",
+      "text": "Project nouns replace invented ones. The terms in your",
+      "hash": "9017f511c76b71acd4fed371f92032409356de774236065b62a0e21379cfdc69"
+    },
+    {
+      "id": "ef4efc9a9c99509eacd6a89ac6ff4afbc649baf259a6e881b303cf11c4b04660",
+      "text": "come back.",
+      "hash": "6acaf4d672eed52ce8636fbd2cdab6b082831dab5b253d658b5b1803e0dca987"
+    },
+    {
+      "id": "5dc53f3cba4a9928ad37ef9a17b7bef9c5ee0a41f411f2cd81aacfe3e3601ad6",
+      "text": "You can use it twice in a row, and it does not degrade into terseness.",
+      "hash": "907cc25254319bb71840130a2d988ce0b6898478a64b00e4d33ed70779f02f87"
+    },
+    {
+      "id": "1ea96ff698ab8825dbbf379cfcdf5641350988e25fb51e4a30d0d6048aaabb7a",
+      "text": "You can use",
+      "hash": "7e7d2669195bc241a4bc2a2365c28de574d6beab8d4c1febc5561ac354f0e8f6"
+    },
+    {
+      "id": "bb34265f3f574847f3df7b45ec97cc28684fecbc98253fef45c3c036e765c9e9",
+      "text": "at any point, in any conversation, inside any other skill. It repairs one message after the fact. The real cure is a shared language agreed upfront, and that is",
+      "hash": "64c37efc08b5bdf3fa553aacc546714245d53515b1b75b4e7e27b6eb58aa049c"
+    },
+    {
+      "id": "09b603259b838d2ef2e42aba2e717b991ece17f90f4a9c28e836ec2b16fb0e29",
+      "text": ": a",
+      "hash": "2704eb3a3de68aa5b8165158d19ccd99dbb86c0d46672793fc30b9b5836f5357"
+    },
+    {
+      "id": "28c2cd1d5ac63b3a93591e8fdca78a2a79057cc74511cb2f0a8ab8e47be34443",
+      "text": "session that runs",
+      "hash": "6c2d7573aaa53f8c59f06b1b218938df31d0841a314941e1e61feaa02baebfb9"
+    },
+    {
+      "id": "6e4e39d4402009adbb8fb0a82c7c7062984e01b6c069eeab9292d4d619224ca1",
+      "text": "as it goes, so the words you both use land in your",
+      "hash": "9f1b6f01eea369f9e921612b0287d559cbf5e58fbdaaeeb00fd4d495bca50ca3"
+    },
+    {
+      "id": "91d33631b8e4a3bf0152479c6f1a9d77a8853658405f23d81630837770912a37",
+      "text": ". If you're unsure which skill fits the moment,",
+      "hash": "eb211ccf9c0a645e239a9b9fbdcfbd52974a3ba0ccdc9266a4a7830594abb7a6"
+    },
+    {
+      "id": "7930fe2676116c8db658763c63dbbded86aca7e029289ec0823b685cb662ebb0",
+      "text": "routes you.",
+      "hash": "7ab0ed124c45755dcf8314c61ea1bf3f8c9926f3cf622e8d67e880128523bfad"
+    },
+    {
+      "id": "541d28a3af8e7eefcee0bb622cc651869743a1897c3364d639b0163f05e45365",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "97b3b21549181ad29936a417ff8992c32bd4bc93c2e39800c7e67f51b710f5a7",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "156b69222e144c568869b615d6f71d4858c191952a0595fb52ebac35d5f4d192",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "d7c91f786a15c2d44d4c157fa5b37c5a36d347f61d0e748b367b29254644109e",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "b1b3e0bdb26f90c08db995214675853b2bbd0a2b3f5217a0ab16c0a7ad0d6e21",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "0fd1d8c071e6c908ecab95b13db7457a1519e7139055178d0425ad6542dee894",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "24e8d4bf6088f002c79d89f693d64e1c8f8acac5daaa43c09bf256773cc1b847",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "2fdc614af7da9903aec64d5d2aaae1dab2732c2cad3b9c6c00a04142440d0d25",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "3c4f66ade13dbcf254fa1f77d0935e8ab099ca378418e3965724147f679e31a3",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "8fcae4a819ad089d357dfe1c52bc093a2eb10c643b4cf9f9fe095ea2eb4636a6",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "8138b82659ad54288046ffc800a3baa52a4784210661785ca1868de0b76215fe",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "e975c34750b940008dc4f6f7f3e5ada4e0752e356c223ad442e3a2c7ade7082c",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "66c67437bc6f8cc71fac7e8ea5c1ac38d0b609a5c2b658f9e7f1db0d42e1e5a1",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "caf10a6372e9b7ca6d83223b4bc5cb2bba9b56d587035480b3330f796fd69667",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "1eeb73669f33885b2499f855595797095dd046ebf1bdf0f91acd69588a7324f2",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "67d1d143210066902f3d8262b3765a37712e297834ae8ff41480a06e93c4e273",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "fd5a806b746d5a51cb07631d22dfa5cfc94c6f44387aaef19d94905b099869a8",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "c0656d8e11c3ee6f025cbe8caf61f8f8f2bb685b504131cea5ea5d8f4b7a60ee",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "d2d8db1d696e3e78b7c24d63a3b58a1e59a781e15d8fdadf6e7aefd965bf120b",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "8a26860d2b446a1ed5ab27c25a328d20549dd7dd425e0ac5042118ef30b7d14f",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "033aac875a05a1ae38b8d7eac0420d1c65c4f8312282e025af8872ec38dd1968",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "3114f24227f7c4a1121747179344c62aa45f9bb1e7f9c7e1b636f34d6eb84404",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "d270aa176bf31e42cf60819dbbe35b4b04524c8ba8ff1b5c0f8cc38e9d887aa9",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "c1081139ff5ba3aa92b3caf169a9b5318d6b84f64a17b96207111795d4547842",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "c949d09b03f939b8779d451b320cb22e1f1ae99350cccd250f4808c99b6e3690",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "d34ff50accd9edd0a0095fb84e4692bf8c9334c1d80ee46f66bc7a5d2fffd28e",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "fb6eb4846721296932a97dc29be4b1106807defa6e16c7751feee62570f848f7",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "a9c8db79df1a541b754f8b3bdfd28a84b584d0f658b5dd67bf31997204a0a9dc",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "373959bf7d43c62d7fad439590d0cae8cd28b92398b21e9458f31dd06042e542",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "7505d22b85760754c3287f0f12016749ab33dddeb12060859d8ea32930b2434a",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7b9c64e616d595c71fda06f1b4604c471092a9306c37bf28d15bdcd8a4371c85",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "0674de6a688930ca211e0e98310bdbec79b779e2c599872856538c3cb7cf44f9",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "a02ab3910ed309b29af297aa78b3f2ac118002f0eb2065da0cc833ba797c0455",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "7993d4e86d7d3c14c650ca2a059e318f331757c2e8dcd9fb0db0eaeff00f1637",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "77f2fc4f3450f90b23672888f0231ac6a13accfdb214431d8fe7362c118038ff",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "0189b42d773eb5d3d417307805cd5e124cfa40b6be0dfb4c81f9756fa6536b01",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "6309f48146bb26dd0664dbc257f3b9bb5e1556c6328446adcad60d7d25cca901",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "051a0046819e176eba77e7d64cb60b682aaffba2b95d9774a5c997dc9ae80285",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "1f097dae7e619599d9a7fec8639e751635da63509fad0ae735710377b6eb5045",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "9c549fb320651ef74c053f2dad3c2adefe46dc8f389f8c3d65cb8af45cf508e0",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "de11a5ec411480a859904ccf2af3ac5d92fc896661e14626871136f30e282386",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"3v719h32o76tdm\"",
+  "lastModified": null
+}

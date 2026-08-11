@@ -1,0 +1,558 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/how-does-the-model-context-protocol-work",
+  "pathname": "/how-does-the-model-context-protocol-work",
+  "fetchedAt": "2026-08-11T06:28:19.875Z",
+  "title": "How Does The Model Context Protocol Work?",
+  "contentHash": "0612420af151d44e1b69028e742c0a1284c72c7a2b7559b9c937a24baccebf94",
+  "textHash": "994315bf1dd010ebf2f50bb25e36af19f6f730a85eb23e9a5a94dc94b6d6c14f",
+  "strings": [
+    {
+      "id": "8086cc8a98bb860258235ea78a9dc449e129b4d6eba1b04f5b2d2cd13d0597b8",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "0f0cb1e214116394557d0ff06d673691805f0c82c03498b0bee44a2c5680e2de",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "766bc6176047681b18ef491106e710a6b98db7b8af2d9281ca2952c12cf4b657",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "b19da24900881452d7dbf3ef8faf0801adbfebe6bb629e729c23e700f390caab",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "c6f895fdb026fa128bec601b9bfded21763134caebf559b843b5ad3ae8ba4822",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "f558eaf8c0e6fd6ffc0f8ba41dbfae803b824d8089be4bb596a9d27373e32893",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "9c40b0db93505e2fc81eb21031bca6d1fde74e43b2a5b4c83feae1ce5dca822b",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "4bf54858207b3d6d81a87cc2f016f211d33cd994c48f41f0a21dffa20f004886",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "a4841fbe958de6244466a1058e66d8c35e0f365564d9d318a42c323e18bd2d20",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "30ebbf61d993b001a57cb082efa5ebf7bc1b80d1c80861fc73eeb41ad912f3e2",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "d8709f2f1b4b31eec455af3e0b1df101037c86b1f68a41e9863f680ba93239fd",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "40243dbbdaedfb654d6644ecc3dfba0da49568148139b500d39f291883215183",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "265ffc69230f3a52669c2100c7123bc92915ad64eab3d3934a7393b5830bb404",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "49e9392ef2dfaaca8b4b382d81d4116dc9b8234880e747794428912b7963fb62",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "0fd06e58b6a5d0b28b00b1a28f57fba210b2becf0078809eb3bbf605597806fe",
+      "text": "How Does The Model Context Protocol Work?",
+      "hash": "2dd49cb1abd64e4a44c9640d043f31be4b1c70547a389ddb93a40fa756d1485f"
+    },
+    {
+      "id": "3ce7d5bdcc3a78555a1c30f736d6651110dbaeb6b98aa8ecb6dbc2661e176a41",
+      "text": "Discover how the Model Context Protocol (MCP) functions, linking hosts and servers with seamless client-server communication and JSON-RPC 2.0 protocol.",
+      "hash": "05ed11b3558642b989a010aa2c222e07a6b5a228c33a6275569287e79fe4d30e"
+    },
+    {
+      "id": "f7094d26bcfa8581aba11db70e3d6324b3ce39f4ca205c049ec254e4ae427146",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "1ed69c958c6a8011df8e2bf1f0da4dae2eff30b53602e5ad23126ccbfa9f1bec",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "319f47522b3a9898f76134a77650624ef9bc2d53b940b27009ce1e244842d18f",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "ce44e50a6ba6866b57379a5d85e6196f9764de6ed6708148340635e954132c36",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "188e3933e2018cbe2e74cd60e2b0e8400f7650af960aa0ac302cc2a0499909a8",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "8ffcc39d2e4a12a1b2155ea4939e8c54b2ec0d58bc31ee98116e03a508f3a534",
+      "text": "MCP Hosts and Clients",
+      "hash": "b6b14d12c6bf8db416c1ccb6413c96222e244f05945cc479abdaa213258bc11f"
+    },
+    {
+      "id": "b40284cda36ed98a0d49f8fe31eeedbad0dc1eea8b533b2b7d7dfc5517c4011d",
+      "text": "The MCP Server",
+      "hash": "d348752bed648cd3a938227d37fc56ef97d6c73c231f026dcf30f6088e9f743a"
+    },
+    {
+      "id": "810700fe6603cb7680808b24c184c7a9560475ed212102044f4a9e673a4e6e6d",
+      "text": "The Transport and the Protocol",
+      "hash": "1305cf8203b485ff2003e1d4ffad9af042c5998b4ce6b9d89b39d80ad1e83a31"
+    },
+    {
+      "id": "dd4b61141a0d0866f72edde01b0000ed9901a7d54af670e4cddc9189a97728f0",
+      "text": "An Example Communication",
+      "hash": "ac0faf3c3107c80de4895dbb9e0be64fac2b1031d23adc4f7cfe3068ef7567dd"
+    },
+    {
+      "id": "28dea7ee0b1fafbfed20f9214073420645d16d4ca2d249e4c3c8ddbc61cdb000",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "cd4a6bd550d66ba024a3ba224abe0bc7c2542fb7c4c89f2bdbf28b214bad1c13",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "91126de12e2db34e76f8fe112bbb41b47d575664460a62b400c333625cc2375f",
+      "text": "Now we understand a little bit about what MCP might be used for, and why it's interesting, let's actually look at how it works.",
+      "hash": "bdf05e1999f0485404ea9aa657fea2ddd641e8c78d217786915e6dca7ceadee6"
+    },
+    {
+      "id": "c19e8ab553a00a2275192b850b472776e738198dde0841943698db028b76dc55",
+      "text": "To understand how it works we're going to have to understand a diagram that",
+      "hash": "5a40175f0facff2c58044180ae054386205e1cb0152c3c1573074e253fde1aa1"
+    },
+    {
+      "id": "1d547f442a331cc6373df986a74847a0838acaabe34c67cedb55a6e071052314",
+      "text": "Anthropic posted",
+      "hash": "43b456ae6edfbfb61a31f46c44fb3654dd88f4deb5b014eb18e4cd36af438c16"
+    },
+    {
+      "id": "446ccfc617f4031df234b75a809c4bc074140dd3e1cce2e5fc4f5b0e4fd02d9c",
+      "text": ", which shows the architecture of MCP:",
+      "hash": "17e1771235efb9b4eb2eed128e90141fc869105d58e2b3bfd7911259752583ab"
+    },
+    {
+      "id": "22816d5b11421ae8754aabb7fabf40f0c7b4189122fbf86b2edda31ffca6902f",
+      "text": "Let's explain it step by step.",
+      "hash": "915541af3aaa8b261eef2217ba68cfd5b596a98f2afbbf478201b6e12e4b8051"
+    },
+    {
+      "id": "a08b846592ee834be6984a4f46950cd12b66221cf34b5698850a93a80ed8b558",
+      "text": "The MCP host is the program that's going to access the MCP servers. This might be",
+      "hash": "dad84baf73cd75421e0f242968900eeabca84ad3573eea41d432f262c0428725"
+    },
+    {
+      "id": "27c01863a13bf5419e87e2869c9038d8eeef9a9b34132a519e7f7ce0fe6688e3",
+      "text": "Claude Desktop",
+      "hash": "6a7fb1177a81f4cfd7d8dabf994bf878e1538b33566b4f87633fc39a3c56478b"
+    },
+    {
+      "id": "b6cd5129744320675ef11206aee4b640fd9ee41b9d0468d138248ac455667b67",
+      "text": "Cursor",
+      "hash": "2c014f8f8986f1b274dbfa182498444da048b8caa48e5335d5cdf778352d7e6b"
+    },
+    {
+      "id": "2b4c06c98c37283d624d85bf7c8f739fc04988b9e5038619231ae52fa7e9137e",
+      "text": "Windsurf",
+      "hash": "da30d04dca8e2ba17952d7f50a72ea5cfe7926dbd9c68ee9ae41bce921f9f0f0"
+    },
+    {
+      "id": "061fed3c0c2a4a7c71e5d2d75c7dd32f02821ee8f22e10d26a7cb27386febefa",
+      "text": ", or any other application that supports MCP.",
+      "hash": "2e38cfe4352529d00e0496be0a613043002df0d20ee8baadafd87e212fa1319e"
+    },
+    {
+      "id": "dfe20a35aacacdeb1b402b6f982e4ab31ee65fc6d04e487a5926ba7fe60a3208",
+      "text": "This host probably uses an LLM of some kind. That LLM will be able to call tools that are defined in the MCP server.",
+      "hash": "8ca6760a8eb7e571fa35120d10846f73664b2895733779ec62ca28972eaf9f27"
+    },
+    {
+      "id": "76b32fd487ca3dae4e2439ea04ca7b5d5b898def202f53284cc8bcef5ed113aa",
+      "text": "On this host, you're going to run multiple clients - each client will maintain a relationship to a single MCP server. When the host starts up - i.e. when you start Cursor - each client will connect to an MCP server.",
+      "hash": "cfebcc5f1b34993fe4f034250b72375316b034ef909527b13a3c9e6e6516eb7b"
+    },
+    {
+      "id": "dff382566f517a63421dc10d0c9eca933d910c24e295463d5b99d11ba5e764cd",
+      "text": "So, you can have one host with multiple clients, each interacting with a different server.",
+      "hash": "3eb8541b920eabc7182b43f1746f5a3d77c2c51577e29916397d1ccfbe32d75a"
+    },
+    {
+      "id": "b865ecfa6a1c428a9a0eb9e146184f3f2eb586d756850c40b430cebf5ede082a",
+      "text": "You can also build your own clients - and we may get to that in a future video. For now, check out",
+      "hash": "154b118954b195fc78a500808d33523551902349544eb25a2a71e08411151015"
+    },
+    {
+      "id": "26afa905ce934eb2afc89ec3a429f4d48ec7744915b95ab2540384a66b8e975f",
+      "text": "MCP's documentation",
+      "hash": "c69ba7d6272b78bb56f2f8b0f403e9a02bb10db476335eb2842768e56662d1f1"
+    },
+    {
+      "id": "adf54b51d718a976cb8fdd86cfaa430ec3bfa754665fcf106094f94969e7e11c",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "52d418e6483df2c346c249e53b5d62732434beb1ac451593bf363d9eb28fcb00",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "30ac0398557aa344c0ab3a05fca0ace8950c6e9080de18d2eb230f83d96624ce",
+      "text": "The MCP server is the server that's going to be running the tools that the host wants to call.",
+      "hash": "ad9e6e8676e2c6e2177c29c8276f5209a06c4cb7b84f1d159e759c710c225bb0"
+    },
+    {
+      "id": "4b28074667fc975b640a95abc54eb87f3c9fdca5a66900a94221baac8ae6bebd",
+      "text": "This server could be running locally, or it could be running on a remote server.",
+      "hash": "e0942ea228e9c5c65b2919d6b1a55d2d8a45eaa1aaf86ae908eb40040cc7811f"
+    },
+    {
+      "id": "4833ee8eead7d843a6149b04bb2952ee2b9e6fa8a2d712aafe5d4f071aa4d074",
+      "text": "One thing to note is that the server could be a completely different language to the host. Just like the front end and back end of an application can be in different languages, the host and server can too.",
+      "hash": "3b7f2d3cc52a9b789ccdf34071435f85529434377bfdd5d6e90a7c73437317b0"
+    },
+    {
+      "id": "1b28a1cf0fbfdadcb58a765cef09f652c2db942bc885af1a07120bd154f0e5af",
+      "text": "The client connects to its server using a transport. This transport is responsible for sending messages between the client and the server.",
+      "hash": "35753c5a1918f8f682605694fd6361d88b09726db4b4338005eac75967c61b54"
+    },
+    {
+      "id": "42d8af4e6cf6cf34aa1f84fca4889218800e7e23936aeb70ada87305a2c1beac",
+      "text": "There are currently two supported transports. You can communicate via",
+      "hash": "08dd44d24ecd0d640fdba95f2a97625026e7354270b78a22d6bc4d8dd70352e2"
+    },
+    {
+      "id": "50d8578d67ca0ec938a64338fef6a3feb6dedc51a89e2dbcfb00c233bd40d024",
+      "text": "- in other words, via the terminal. Or you can communicate through HTTP via server-sent events. This is useful if you want to run your server on a remote machine. We'll cover both of these later.",
+      "hash": "0688daceaef9440d2a3b64564fa8f460465a5b1b6b051216bb2e10449c22a337"
+    },
+    {
+      "id": "8082674890008b77e4420bae892fd57c6ffde17bf785f8e0f27383be391378a7",
+      "text": "But what do the messages sent across this transport actually look like? Well, this is the protocol.",
+      "hash": "e361b4b87509e52e07cb194994d5ac6053baa8400a553517a79459b7bbd73f4a"
+    },
+    {
+      "id": "c3c41b3844afdfa830451dc403dab64a8fd74e4aebf34419445ef697d9a2eb60",
+      "text": "It's a set of JSON shapes that the client and server can send to each other, based on JSON-RPC 2.0. They look like this:",
+      "hash": "b3da3955d7b92a9eeaeb42e73176c4876fc145b1877639cfb2b16c1522bd675c"
+    },
+    {
+      "id": "2e002ba35a8ce6939bb53f6c9e34baaeb3172f8b3a36708b223d3e8cd553d377",
+      "text": "Requests contain a",
+      "hash": "4ec0707cf8fe8f2a77616dd582ebf4b5261bec507dc2a3ac3becd3c0c52810b4"
+    },
+    {
+      "id": "ccd01593be44aac61f98a303111c1836a716f723ce36688d1f56f9c17cafe2ab",
+      "text": "that the server should perform, and the",
+      "hash": "875b25f1cf8bf8eb40c3b985ac8ee07c07dac1b21af28a50b4166f9fcf463473"
+    },
+    {
+      "id": "a7bdb1d0c01456bcca07947e0be4dafa9b6bd76e7c59b0fe40ea5c1b86b8d05c",
+      "text": "that should be passed to that method.",
+      "hash": "7a6c358ba5c8f6b30999bc002d6b64fdc2472d1c4aa445fcbf63a37e59a9d294"
+    },
+    {
+      "id": "cf165880c384f7c769cf2dc32b99d077cbf7b737c1f591eb9952a67c944d65aa",
+      "text": "Responses contain a",
+      "hash": "38cb6af14a09f10c64be3a3e89527bd78265f11f8e4170ad9a8a903102ad0ce3"
+    },
+    {
+      "id": "629b0c5f98d09663cf0d3f4613bfba567c58ba6d08a2c47c32af514e2fd71748",
+      "text": "if the method was successful, or an",
+      "hash": "abdc9cf375feb94fe66b942470bdd3ff4f338c6c1a19405cf2ec5af6e4e5850b"
+    },
+    {
+      "id": "b3774cbfcab79ad2a34208838f317079af0e42d2bbe00122a0e67186703cb5c5",
+      "text": "if it wasn't.",
+      "hash": "6c9eeae03032bbf611fd2b725963d2b9c0773971b19354402f5cd40da365d35b"
+    },
+    {
+      "id": "13b8b8119aa76e0e83e94f6f922b0c985da605dcb9e2e9942cbb1fa299fb0af2",
+      "text": "They each have an",
+      "hash": "d057be14fe85b9294055a6b9fcaaca406ff1a597e3b452b12a75789d6c0dd095"
+    },
+    {
+      "id": "da7c33d32ccd50ea19718de8849ff9f9e5df6aef158b121df05e3bedfbbd6aad",
+      "text": "which is used to match up the request with the response, and a",
+      "hash": "c908c36c2e19c07d548c557380b528938dc486e1b4fff521722a831f48c975f5"
+    },
+    {
+      "id": "f6027a56a27faa047e201f7971d8bbba4419513fe6dbc2b53cf361be9c3592ff",
+      "text": "field which tracks the version of the underlying",
+      "hash": "23d7eeb38370b34de6d70d93fbec8f779992eeaf67d727f1c0c6016231694eb0"
+    },
+    {
+      "id": "53cd5f4ee0b70048d752b70daa6d2f4cc4664abab30dff8f3853cf6fae32bc50",
+      "text": "protocol.",
+      "hash": "f67ca10ffaadc15ed3e25b9bde6590ace17ef2d588213716e7e5e8134c04a9b4"
+    },
+    {
+      "id": "4aa9400fd0774ea84de0b6691b0b71ce7a4b568cca6986b04b4e37cb849f577e",
+      "text": "To drill this in, let's look at an example. Let's imagine we have a tool called",
+      "hash": "18c6ac906a28a3ef29221f27af8ca2aaaf751c92a1f4976dfe760cc223e3ba20"
+    },
+    {
+      "id": "dc9c6e89f071f8b3d27fa4728cc4bf0870637512e4bf784286d0e352b6f72f08",
+      "text": "which creates an issue on GitHub.",
+      "hash": "0aabca63a66505896940c0d4419151089126a58bb8e2687546b3dcbcee0ac7d1"
+    },
+    {
+      "id": "296cc57bfd34ea266758348d67060ae6968bf9123374b8cee3669621cec5ac12",
+      "text": "We'll skip over some of the preliminary steps - the MCP client initializing the connection - and start with the client sending a request to the server.",
+      "hash": "77a9b01a3f8c2a3911d225ee38169ca3d259b44cb4260314afec0e77531e402f"
+    },
+    {
+      "id": "02e5457ab586f9eac5ab87e8cbcc030a987a2d96cd51ac9a9f6c02b752e0cafd",
+      "text": "1. List The Tools",
+      "hash": "609cb1e06e42b0478f38ee58c50e23a18d14ecf12ea5c419fae7c90174f70bad"
+    },
+    {
+      "id": "68ee9ac402c0d684ef2d2793c72f197ca6f82df5ef7546eccd2702eea5ed1569",
+      "text": "This is a request to list all of the tools that are available on the server. The server will respond with a list of tools:",
+      "hash": "e75283d979a6cd0b23a6e8aedecff8cd7a4fdadd3914223f652451e8e3b2616a"
+    },
+    {
+      "id": "0d632625c3ef973b34ddc64a27502503ac92a354be2590ab728d1c697f8af907",
+      "text": "Note how the server responds with the name of the tool, a description, and the required inputs for the tool. The input is a JSON schema describing a title, body and labels.",
+      "hash": "76b5d5073382238f0396a29746e6e9aacb50b45f0c06457c030c5a390497f94b"
+    },
+    {
+      "id": "dc1fbd7b6f40c475f2a6876fa9fe538ceb57154a9168566506bde02724e84609",
+      "text": "2. Call The Tool",
+      "hash": "b07f8b90aba6ae419e25d8cdda3948d267445385383b4e92650db18855bc82b0"
+    },
+    {
+      "id": "e8914d5fbe2c9df9d61f3c7fdf58ffb3bdcbb3d53b50d2c55d8adee42fc3d1b6",
+      "text": "The client decides to call the tool, and sends a request:",
+      "hash": "e3a7905f09ffc75514426b231cdcc3ede5f914707eda5d20e2b173d70fd36d33"
+    },
+    {
+      "id": "f7a550b523e75ab33e3e660a4443ea63f421a18cd970a03eeafb681bcc8c810a",
+      "text": "This describes the",
+      "hash": "7e253cec79c55a8bdf0e59fba0c52954ee9cb668b5d89ffa53683751ef82ed80"
+    },
+    {
+      "id": "8949fdf8aba5231149b9408aeb6a385a19e11407eae688588ce41e95ab0a93e4",
+      "text": "of the tool to be called, and the",
+      "hash": "6aef85d305aca3c6fb5f71c4765e8a068f16a7158848b229cdac4bc1ba4ac3e8"
+    },
+    {
+      "id": "15c6b6f81f80ee53c370d514e3b14286f6e28a1dc63c78dc02aebf9bfd3edcbf",
+      "text": "it should be passed.",
+      "hash": "a527ed1819fe784291cf1fdc73761ea0cdc35c97861e4de35524b7a21a940794"
+    },
+    {
+      "id": "4b04ed5a47e992d7b6dc4035efa612d89bc6537b6bfc1d96985e53803db0859b",
+      "text": "The server responds with the result of the tool:",
+      "hash": "dc6fa433dc343ccf88747e946335665d1ed19fbae7a8e19b1a2414c8e70610f8"
+    },
+    {
+      "id": "54cd6e3cf95c1968d604ecba53dd86fbc0855fac47547ed97ebf602faee7aa58",
+      "text": "It returns an array of content parts. These content parts can be",
+      "hash": "11133634c4c5c590973f866d4aae8290a191cd2476d5850c97c191ede2d1023d"
+    },
+    {
+      "id": "6e8f480861fa8a8c7f046f2673b7e88024ef2db8bacfa1f8844c8fc0c38b05e2",
+      "text": "- as shown above - or",
+      "hash": "1086b91e0466cde1234c8d172e82cac01e17c41c6c0194fddd5cae94905a1195"
+    },
+    {
+      "id": "838238f12acbdd4218e159f36cfe9ff13d317017b6648fe2c69bfce071d72879",
+      "text": "(for images) and",
+      "hash": "cfeb6c78a86507f22cfaecb23d363b213f4dfa501e80b5c15e75f76d49e9688f"
+    },
+    {
+      "id": "21d4bb095e3a76b08e5dfcc7f344f191c1a8dc44aaf5184135b4ce72c01e295a",
+      "text": "for binary data. It also returns an optional",
+      "hash": "405ac3e3f11abf0cdebbac4588456783618e74dde635e31d35ccbd1072e75d20"
+    },
+    {
+      "id": "d06df4e32a084f786bb6ca34d862ac7267134800f64b8c009e58c27de9addb4f",
+      "text": "flag.",
+      "hash": "0d1f586542022b98a5eca12e207144cd08285aa37fee6c09c6e202ba93c233b4"
+    },
+    {
+      "id": "2ee1a236c206510ddd496d03e3881152016a45918f7f6866b624c173f4aa2f89",
+      "text": "If the",
+      "hash": "8a86cf4a9810ec60037c53ad06babdaee7ea2a3a02b96357a2d86cf519d2894f"
+    },
+    {
+      "id": "5ea9c8ba9f5f980b413ad1f0a107facef7d938f5e605bdd92edd5aa8a5f38733",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "9f78e5170956bba60a21768544e4f0edc7fd1b8ed3176fc4944ec2f6f4b78dab",
+      "text": "had errored, the returned object would look slightly different:",
+      "hash": "707af078a4914a3193490765196df9baa2cd243873b0214fcd306bc9b3855e4d"
+    },
+    {
+      "id": "8f5feb605c717e8dd3c7a05d3dd8696b815dd9060057b7eb02580870bbe60bd9",
+      "text": "This tells the client that the tool call was unsuccessful.",
+      "hash": "1a10e9254c790958075bc4f468ba5d0b6bfdc6b1c1cb99909209fbce6b47435e"
+    },
+    {
+      "id": "a3ac430b170029c0b009104bbc3cdb761f918ae5e41671f9cd68dad5e04acc36",
+      "text": "This is the basic structure of how MCP works. We have a host that runs clients, which connect to servers. The clients and servers communicate using a transport and a protocol.",
+      "hash": "41cfa67db7ee60197bf2970ad925cda50172ece87cd91c35157dedc14586b682"
+    },
+    {
+      "id": "33437e8683f129e6274dd307eee733468e85fc395a4082a535fca539aa814c9f",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "5de80435d07059a47ac1dcbae59fd325ef48255c654671e8491ca8d9d14ac970",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "9720f5fdc4786370e268b14c2017f859afba90da4cb61e63abb0226b49c9a9f6",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "4fbbb6bf75d87e41135a5bbfa3185a86c0c99f4de64726762e1e40453e35485a",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "4903b5ae26b488efc449fa0cf325bb06bd19b7de9e2ffde915b2c2bb26687abc",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "c12ba6bd9e386fc0c6b8734b2ffc49a82a44273deb0682ee7188dd72fd977d84",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0cc4e1972d6f5c7544d97b25db47df661965f7aa6cc3d85c893f24b37731b694",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "db5ab95fe19ca2ee2fd42ff74ba8cafcb018ded994a81dc6a26d52d898abf904",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "ea401976a3fceb433a738ab7d509886e4d65ff741da23d228cf3e8d4024a9bd7",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "82a53c7184822905f3588ed4eefd4212f3e0449aa864d5bf181dd3164fda80c7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "9869e950f49300a3c0eb2cd6841992f9da93c2c4762b132b7c1e2072e07a977c",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "6c5bf7868b66020fa4505421ca3f9582d8530a790cbad5c8d69de3deb96347a3",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "5a031b7e727385553b583e12b39a7feb2a15bf2c405e3d3066d794a4f6b61b49",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "c75564c34f3fddcee2f7c5172e0254c0d04319edd1ba95297fe48671d627acfb",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "7e06674ceeb36347edf7c07803521b5e8c89364305cb07b1934b96ae8985132b",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "ded0dba6fe80877be0f027085333fdac63848eedfa013a309b020f71598983ac",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "67aef74a6063827ffbaa982fac66268c3824772a5066d10dacae8aee7cb43ee5",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "81e492e139ced13cb064f92e546101d267238f5638a30f5b07b88476b5a55c84",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "b291a35e527178c8b914fb0a1d8d9a9de495b7575d4356a0b1c5ff67310e112e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "8425222fd05a8473a7cec2ffcb8fa0c631983d2f709f64943391e7a57130af50",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "0b2f2980a9f152534f1ebe548c12a55dbd955a6286ce98f0fcf935aacedf856d",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f19ee281e9c35ac01e2d61b93447197accc2d8c9f1ee5269b320b6b03cf1f7b2",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "7a97932bc943611c0b0f4aead4a109153f5224260892a47560ae795960e00706",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "f95324cab9686424615664d092ab5eec313c5baae8c1a15be5602c3b7c119d86",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "27d292c82b88c7227b38214ce188078d6ee059aadf280dd59bdf327ae672f8eb",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"17913weoid37dxo\"",
+  "lastModified": null
+}

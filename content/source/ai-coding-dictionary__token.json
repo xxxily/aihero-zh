@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/token",
+  "pathname": "/ai-coding-dictionary/token",
+  "fetchedAt": "2026-08-11T06:28:25.829Z",
+  "title": "Token | AI Coding Dictionary",
+  "contentHash": "f73134fcc7ae98689c20a161f68b8e70c70f8ab07019566322f12f2b89d291f5",
+  "textHash": "b2aab3931edc03017d71d2602442636d7592080a8d655bebfb8c2159c34a97a6",
+  "strings": [
+    {
+      "id": "23ce6acb3b9dab19e8a1beaa7c33c8ff3f80c23b503454084871d65176e8f128",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "18dae4ed051994cdcbc98cadc9a25dd54301f7840b76451cc2ec15c3728b04fa",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ecc2d693470dd67db8d775fa1aa99847c49beef9ff62357d4d85b2e8d1197b17",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "5d00ae64f40bff259a5378afffaeafe78c2436378467ec44f14475ac70ece20d",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "7abfc60a74bdaa413f41668b2b117dd6a0c9d55f1151c58a55d1ef2a66671351",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "b2c9abf89dedf731cca178f9f2f2a80d20b6183afaf3dc8af933d7bce7d0e846",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "c5961ed1d0e8354002cbfaf1c011326e2c8688df1bd93feb6e2e21e651ed3785",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "1abe8b2d900adf5c408fbdfd0e1184050c573c1a3488f356b836a7d5d8fda75b",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "d5960316c1818f6b8fab674a1647657bdbaec3fc760c8cf797f4ff01d5d43249",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "70265237c6512b0af461d2a6d8c10b7155ea9e1c515791edb81fcc854d2f050d",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "1326f8de0d16169887fcf0f37ae553b4acf2e2319f02f6835aaea176eaaa679b",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "06fe142d00fbde094705277a09181d494142df1a74d34181f6b2e27da5aa092c",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "a9319a89116ff9c75cad3d3eabff90d711ebc5272e4f89044b2a03cab65e33a0",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "1d6d9944ed907c37111e0b098a427d7e15c9b0db087260f963165118741c5cea",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "ca04696a0d103c72eeb659328b66c6f91663bd90cf68599f09591ad7b9d6d722",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "726c742c94f5a2807c503cfb024c6bf6d8af6866561d38c8187b7e1f19ab9f95",
+      "text": "Token",
+      "hash": "d2089be672953d1136faa84079af1b6f3967fed8932dabffba3032d30e3c0618"
+    },
+    {
+      "id": "748f97953f33f1ed2f5a738e5cdabea57b841bdb1c6bb87ca11011eb2ed034da",
+      "text": "The atomic unit a model reads and writes. Roughly word-sized but not exactly. Context window size, cost, and latency all count tokens.",
+      "hash": "31bce3c71e1acd9ea3fc77b80a3a9ad805591a2b7af267f6e002849ad08d7fc3"
+    },
+    {
+      "id": "96989869e835648c4b1bca9c5168ba48de2dd59abc8d8fadfeac3b10855086ec",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "0fad7cff8293e8c7ee1bfaf7bfc79a7c627fa76579dd251ebf388d3e1a56ff2e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "781310915b2f5da1594c19d307130e3f4020b61baaf4991193b400b5d5e03280",
+      "text": "The atomic unit a",
+      "hash": "b18f52b56a62f3c99d9aa9c039a4d94c121ebebce9d126d14a398b8ee8e06730"
+    },
+    {
+      "id": "dcd05df6c24ef60531e94d94cec7d204e7d838342e7593da9979235536bcd6c7",
+      "text": "reads and writes. Roughly word-sized but not exactly — common words are one token, rare or long ones split into several.",
+      "hash": "b0eeadc68bb93b174c233dd08d071d4cc028d66ccffc20932c97f7cc4571605d"
+    },
+    {
+      "id": "c7c35bd10f664676f55f03064351021add44748a3b8d4b652cf457e0278e9549",
+      "text": "Context window",
+      "hash": "7696d0855331622dc12438057f5509348f9d6f0ec2eb3580e18a99d31eba86db"
+    },
+    {
+      "id": "ffda2c44c06fa82e284433b53359da6b1712b8c55e2ee5a770fe2d432d3eb2ee",
+      "text": "size, cost, and latency are all counted in tokens.",
+      "hash": "221860974a4c19d9acd91e4f0d76d5024dd83bafcb903b19e071ee35b27ecc25"
+    },
+    {
+      "id": "abce5705a66c3f25f88dd3aa4a1ceaf79e3ea7c8954187cf58381087294b127c",
+      "text": "Text becomes tokens via a tokenizer: a fixed vocabulary of tens of thousands of fragments, learned before",
+      "hash": "bbe4a24072cdd9efcae70a9ce2b5805be2c307106dd2532d38213f9f15732b02"
+    },
+    {
+      "id": "6c6c11f41cd1fa287a4d7306c2b8cc82dd15d0c34807903b37b25b1051c29958",
+      "text": ", that splits any input into a sequence of vocabulary entries. The model never sees characters or words — every piece of text is converted to tokens on the way in, and",
+      "hash": "11919a12161814f78be8db182afd70a5d35c050369f3f3e9149cdf88a08f2515"
+    },
+    {
+      "id": "2deaa9d832bc237ce34e9273acf282a12cfbbfe541268eea1a7477382503622f",
+      "text": "next-token prediction",
+      "hash": "8203f57feb66cc8742e92d9fe92000a0898a09207548cb184413f5f2607f0f54"
+    },
+    {
+      "id": "2280ed1d7b6bcaa97d50cbceffc22b5cb486c91244375f33dbd5c914990e89f9",
+      "text": "produces output one token at a time on the way out.",
+      "hash": "bdffdbf542dcbf0eed8abc071fca9846d2d90ba59f52e11a50015f4216f558be"
+    },
+    {
+      "id": "83df96ced233ccc71139018cf787d5972071d9256c6e96999729181f66cc9837",
+      "text": "As a rule of thumb, a token is about three-quarters of an English word, so a thousand tokens is roughly 750 words. Code is less predictable: common keywords and idioms tokenize compactly, while generated identifiers, hashes, base64 blobs, and minified output split into many tokens per \"word\". The pattern: text that appeared often in the tokenizer's source material gets short, efficient encodings; text that didn't gets chopped into many small pieces. A hash like",
+      "hash": "9128682bdbc4b07f804cd67603d96df4490896edf71e847f20ff34c03ba70a21"
+    },
+    {
+      "id": "a5a7cc2ac7abf296a678ab044e169b05d28f57da9a02bd7d427483d71500ca96",
+      "text": "never appeared anywhere, so it splits into many tokens, while",
+      "hash": "9ca609c88b19f125fda7ec55643b1a5977b77f515b3f60eef9195273686ddb9a"
+    },
+    {
+      "id": "3453bc7607bec71702963bd3d67bfbf232546bdfcc66f6832afe999188e568a7",
+      "text": "is one. This is why a small-looking file full of unusual strings can occupy a surprising share of the context window.",
+      "hash": "9374efb1250859e24eac193f03d68e6899d5a0cabd930edfa679accb8e1d2cba"
+    },
+    {
+      "id": "cbfa0606fe9b73fb46f33b26c67eaac17acdb4a4f3dbd3fc72d305681fc727f1",
+      "text": "Tokens are the unit everything else is measured in. Cost is per token — providers bill",
+      "hash": "cf8c373506320d1dba323f0673eb4e681758e0fe8950459b68453da26292700e"
+    },
+    {
+      "id": "81889d6b0ecddccf59133a4ac066b1cfbf6dbb09b62dfaf353397f46f4e1b951",
+      "text": "input tokens",
+      "hash": "f0c1cb4cda1985a408b12908c01227b01065a8cdfc2a03e2106ca60275f27d16"
+    },
+    {
+      "id": "307ac692e4a60aacc079438204ad31eac1721667130deb0ad9ffa95b2a842fec",
+      "text": "output tokens",
+      "hash": "b6798bcee84a53a994de8822f2954fb739ce9a8eb119121f36b363fe86182357"
+    },
+    {
+      "id": "ce647cbbd3d40fd3df1f4a53acddae9d0187ee4d6cf83da72bf168474a01c389",
+      "text": "separately. Speed is tokens per second, since output is generated one token at a time. And the context window is a fixed number of tokens, so the token count of your files decides how much fits.",
+      "hash": "df9827cb7902c1ac173910f9b51a053aa68caba53cae0891b385eff92adf631e"
+    },
+    {
+      "id": "88cb35966491fba245f468f2177f0e1df65049fee3ab5896d4c6320569ec9f73",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "3d4d553ff8ccbc6e1c228b28819499bcc8ac8c99ed1666563a7e4dfca628e0fb",
+      "text": "\"word\" — token boundaries don't match word boundaries, and tokens-per-second / tokens-per-dollar are the units that actually matter.",
+      "hash": "b5de3509b448e397ef5c475c1bae12ab4520e5dca417d20bb694e4aa1ad91e22"
+    },
+    {
+      "id": "c5b3f7a60e242cc4035b9919b25b5bf531ec55320c84f2985451ae2c5487e656",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "6a2f4d063ba92c72691293f2ec78f0c8e62544b17081df4548391691f46c2dd2",
+      "text": "\"How big is this prompt going to be?\"",
+      "hash": "38e9f4c22072038a0962262c27025403ac7ea4b2e7d16aede65cd2ddd72633fc"
+    },
+    {
+      "id": "b2e32c42d4cffc6affa70940a585750b289173fa0314f60471be543e4f97d0ee",
+      "text": "\"Run it through the tokenizer — the schema's compact but the JSON keys are weird, so they'll split into more tokens than you think.\"",
+      "hash": "a03e4e54b10dc61bfa6e473b1f6e00aa89e1729f9c1838ba66ab6c9f3cc7653f"
+    },
+    {
+      "id": "fde2b6c1f59d1932da73c3fe7fbf10bf59ed81db1ad779bbbbd236ba6e544957",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "a887f17b2a6feb1ac2b157f40e0a9885e6928f154c744b6c97cf3c31335df34e",
+      "text": "Effort",
+      "hash": "4387e5d3966fc436532792769763cd1ab7cccd6464d4c01c2b91261894e96b77"
+    },
+    {
+      "id": "a445c1528750a9dde500835ad9e5027c8ce8d743749c3316c434f442ab2dd7dd",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "9fe0ea81c835e4511bed14d96802e16a7a93aba25db15dc3f843035dbbb69efd",
+      "text": "Next-token prediction",
+      "hash": "db2e13aa671f566f6c582c8ff074e0b702a81659695c239d0634c86b0e328583"
+    },
+    {
+      "id": "a532e4c84f8543dbc1c1fed1f7f16c420e647b4b7788c692933676210e117417",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "b2174bf903405f8d343da3738e2ad481a994e7edc6b44b56f979136e89394c40",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "f43fa2672a628584c6c48152acc8ddbcd27804f78a595c4ab1216d6329b331d0",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "999d913a70e0cbfbc35815ccb909f31658069e76e77cb5cf33e934c691740503",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "c88b3c4fac7297c672a8884f786c5e185db2f2ff297f345a9add94651a398faa",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "7b1af7347294ee600c6fb674425c973938c43dc139888cca07c9b5f9b3760ffb",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "dab56c0c87a3f8bbb45edc66a107e62329304d64812f992b0d2e2c9c19d64022",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "f9232bca6a700174f00b252c2aadf805457aed4eb341cdd23aa1a7389a28d48d",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "bf5aa2a70115888ec62de742a15f5464b7beeb648ff9e50593f2ad01bb44bb43",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "7dd70fd0d640e6140750e00f4eb3a93ed870f2db97af445f0f57167471980b15",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "c9f267bfa7c6d0580f9556722bc1a3c14d23f3abe112f79ade065c8dcc6b2a87",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "1b8e6c190b08a033cc4f32f931f30f654e28def7ab64bfe8129707e0f91740ba",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "36bfbfb3e06fd0d7badb32ab418b4330c461507ef346a2d31cdf6301d1783ad7",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "509866349a191e434cf5da463c5a508ba335a1f75b3e7917dacf19cf25589b52",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "f484adbc3dae370e0fe37d4190c6126743f8540c4f2c51b9786fd35d185e8285",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "67411b67608f2e00ae148f105fa69dd49bfcf25feb35183d4de830473e955914",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "5d1ab781c4c0a3fca939bb7c1992131733a3fbe29630c21a8c3e4c8efcb4b2c5",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "8aeac04facd982cd82f6b8c89ef18d63dbbeed0218e07f85cf96c8abb676f475",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "c27a8e69d110930883357e2de45ba97825d8e0c427f80bfdfd0041cba8e2151c",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d58f14dce4bd4c51a2cf082cfe6962f6bf3f37ba11377e525f2a417b28ed1e3f",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "631d454459f730019d2653ff6f7b2c07de1f34b4a50c2692e77dfcb8d60e845a",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "6f7b25e57c012870e9d31d25c7443d6a064753d7701fc970310f457bf3b3f052",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "eeff0a47ee5df46468f591ae41744e3943f769ab91cb32d1f740aafa887e4645",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "b7c82b43c5b06a9fd383dbc0047031cbf13bf1adbfc374192826594c015e0aa4",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "136388af1d75c97f8453e5fbfcafbb9af1752e24389e46bbeb190c06f6e842db",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "bc222b03efbb29dabda76bb91a30f5e66807ba193751fb5c3f3c2d64474ba9ca",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"8axhvr0yye4rek\"",
+  "lastModified": null
+}

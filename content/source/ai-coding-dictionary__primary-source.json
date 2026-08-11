@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/primary-source",
+  "pathname": "/ai-coding-dictionary/primary-source",
+  "fetchedAt": "2026-08-11T06:28:37.195Z",
+  "title": "Primary source | AI Coding Dictionary",
+  "contentHash": "8ce0d876dfb1fd9ccc859e955056f8d2d1ba9791b2f1d3c40296e3023021cf68",
+  "textHash": "bdb3b115cc19ee58014c767d82f10bae79de6bf4970795d4dc2e6eeda19b645d",
+  "strings": [
+    {
+      "id": "758640d986f15a5b12c473d9022b8351216ef23ca8b61711adc334a2d8fc9ec6",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "81d43211e714f8895447a922dc6d8f1a40ac286d3832fbed7ee603eee04752e2",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "abfef62578a663dda559ead8aa3cd0d59644d905b1e13948dd169c4b0cdbf020",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0ec2f0f182752460214654abdf998c55480e9bdefb8300e55420b413e472fb5f",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "6a0cdf3a6532b46f44ffb3603929717d1e53820e41f1c43bfae61ed7db28b1ea",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "6c3989dd3c69102659b2b92fcc85dc65a7636192aadfea4d569b42e7dcfeba50",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8da6ded619c0c1c96063e86571e3d92dd56ce748e519f4c741926a43db983c13",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b03b1076ae07914979e7b71863db0ffb515ac8916662fcca27041dcee3c2e179",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "e7e66a767fa885b3ba6d59128956bd0b33f11e48398c777c5aa67030d31bfa8a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "199de8257035f31b37bfac99caf5353377181f992f8315f61f690a4424480926",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "291eec0ad824bcb6549a6e148f16ee838ec3471f7a51d9cc85e03d8a0fd305ce",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "8690a4de6a54884c55672c88c9e3f49161e8a3fb36b3a52e9b03f97fad6a7d00",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "c292a26bae29cb6a3b74548ba3d456c20eb0092b195d3a0eff98ecf425404d72",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "110c7e17f89d3987c30db1fd88f153f90fadd1f31bee48b44fce88dc5c15b58e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "baecf0d27b87bdbc1bca97054b3f66e38868fa26731221a759533fc09eb068f8",
+      "text": "Handoffs",
+      "hash": "29f217d5d86062d687fceaed0f8ff7da2900d2b2b33d409e4abfd6ebe310c1b4"
+    },
+    {
+      "id": "7a838fa6b588c603c820b2931e936545a76992c8456ba741853abde8a8bce448",
+      "text": "Primary source",
+      "hash": "a518c683cac9ab4d00390db41fe8a1fb150258d23d103dec32e0017ff94a0b5d"
+    },
+    {
+      "id": "f35bf8e688f25f6b4ba15c84edc78cd57aee1cc9d05a2f5b92ec392f4b233b76",
+      "text": "The thing itself — code, transcripts, raw data. Complete and authoritative, but expensive to load into context.",
+      "hash": "1c7b05f219ea3b3f1d9ebf4ec8d1b1767dedd0ba7cdefb7d72ed7f538ae8ef58"
+    },
+    {
+      "id": "77bfd6751a71a04958cb5dbb62b6bae3faa9a1c59f4851d6dac68e6f6e142337",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "9d19d57b7e65981d11de183c8ca89038301c2baa02e93133a90c93c4bc92eed8",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "2de028dcaa1e9102a8e8a589043b3ab61be09020f787e7447f8d80b3259b8012",
+      "text": "A source of truth in its original form — the code, the conversation transcript, the raw log, the actual API response. Not an account of the thing; the thing. Counterpart to",
+      "hash": "518215eae3106dca4526a14910d94b956fbbe6628c6b74a6f8d52a30c6656fa0"
+    },
+    {
+      "id": "597b933f1fcf806550975e0983062b7de692c89bbbc7b4b1335fd6c5c7b3ed20",
+      "text": "secondary source",
+      "hash": "130ab3f910dec4f94436851c6b9a50abec9e6cb96e7aadf7c47be2e57da1c894"
+    },
+    {
+      "id": "ae2e6b84d317008d547e4dd40a473e81702361cd2730d7e922ece863b61b0f5a",
+      "text": "If you want to know what your codebase does, the code is the primary source. The docs, the architecture diagram, and the README are all descriptions of it — accurate when written, on their own schedule ever since. When an",
+      "hash": "6bb79b3c92b1206b1a14a10be302ffc1b20eff9006ba8e8b51cb158dcfb54a03"
+    },
+    {
+      "id": "43f53b7582b12258916708144dfc389d1acf2e2e419001dd49de73bd8a30dee3",
+      "text": "confidently asserts something wrong about your project, the question to ask is which source it was working from: an agent that read a doc inherits the doc's staleness; an agent that read the code is reading the current truth.",
+      "hash": "46bf6d9ece8eb4f3aac10d1ed2c90242dd5025e976e082930832c33289ebfd51"
+    },
+    {
+      "id": "3d586505c756a2668bf597546f2d2ffd4e6734e2785813faf5916065766c3975",
+      "text": "The cost is what keeps primary sources from being the default. Loading one into the",
+      "hash": "848c5bc375e15f7fe7f02cdb2cdcadd8dc39a9cfd6b2b1f2715daba48060b957"
+    },
+    {
+      "id": "50eb29756736d8a9d3439b4af2e3d9fe5966e380052f7bb3089e0d04417ed54b",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "8a3b44a00d6262025193f35e8b4b9f8fc1513059aa90caeae7d4a41919ba6789",
+      "text": "is expensive — the full file, the full transcript, every",
+      "hash": "6a22ee51a779b5daa2815af05c7221f4c60724591c663a53354d340ef2bc8625"
+    },
+    {
+      "id": "e331e4869a132c2c67ad0a5c2aa94385e96999dfa9d1fa500ef2039b086f060b",
+      "text": "billed as",
+      "hash": "3aee4c1f0ab9a97639e64d534322cf21ef705a499bbbcaa5bca4936ca63a76b9"
+    },
+    {
+      "id": "7e54c5557d2c43443b608fa83ad82fef6c09dd0434213c808a0c652d44b500bf",
+      "text": "and competing for",
+      "hash": "c7d58538ae74d97c2e8dd05a175773f4d8ffc4b1c4212a62116628891df1b004"
+    },
+    {
+      "id": "6683e74881632aead1fcb6a7ca3c64296d68af625d41e7e638a14ceb4a2e290b",
+      "text": "attention budget",
+      "hash": "4f0ecd6ea97f18771cbd4203a929018449d8dbd4c6cce6f90fd7511b5c34cc81"
+    },
+    {
+      "id": "7e0b4133a9d40165337d8a8f1e1b095ae7b0c5da91cfaa98f2a67e4b929e7206",
+      "text": ". What you get for the cost is completeness: nothing has been pre-filtered by someone else's judgement about what mattered. A summary written last month can't contain the detail that turned out to matter today; the primary source still does.",
+      "hash": "a201600677c66268a699ff79cefa30c65c7ff4110bd696b563c6852e20fea09b"
+    },
+    {
+      "id": "8414023d6710636d4ab417c6359969a22dd282a3e77d5a608e1391872d80518b",
+      "text": "Reach for the primary source when precision matters — the exact signature, the actual error, the line that throws. Much of managing",
+      "hash": "3c24561d94d78ec340ce772e3dcb6093ce3b366ca0b473c731cbf836303d6fbf"
+    },
+    {
+      "id": "4bf57d22a7c0363eb4f812df0dba0c74cf8df8d07085c6fc773732674ce0e35b",
+      "text": "is deciding when to pay for the primary source and when a secondary source is good enough.",
+      "hash": "292fd52546613a67920f8edbb345cbcce01e356c208e4a8131aa45b2067785d1"
+    },
+    {
+      "id": "ea94673f287b5cd97f5424a215e1d037b1617d880669cb56e177c7541a125a8d",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "f8e2eb18ba0bd5df82ea974e5013b0a171b16839656803cf7799d3906f772727",
+      "text": "\"The agent says the retry logic backs off exponentially, but I'm watching it hammer the endpoint.\"",
+      "hash": "0d54d83adc8155e75c324ac7c47a1e9f48c3dece21323921036dfd0893d657fa"
+    },
+    {
+      "id": "dc3f5e7a5804bffc8c1db1d54fb00bbe2021af513444628285e0bdb38adb4150",
+      "text": "\"It read that out of the design doc. Point it at the actual retry module — work from the primary source when the behaviour matters.\"",
+      "hash": "8fae8dedf77725eee885117923e50da943ba721af286210235e5be5d304227a7"
+    },
+    {
+      "id": "64aaa201c832d34ed62c9ac91e9b9764de4235407de515a70c433d91ac86f81a",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "bc1a7a423c91820fbf11830e1ff25dbfd358c2b4dcbf18fe80b3bfa3e00364d4",
+      "text": "Handoff",
+      "hash": "f89e2d72da00888b27c938fff1eff1d138fd49fb664d0269527a69e746ced479"
+    },
+    {
+      "id": "8ceca9b5a831bc1c6aad9cd7018ea2b3ce701ecfecfd9e2dbf55eae11343f4b7",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "cc464f3522cfeee50a4a09c939573030e5439ab9abcd2b2419af45b0cfaadf1e",
+      "text": "Secondary source",
+      "hash": "bfb4e03af539fffd1e5f2d37e16646bad9d6d8ed76c5e690a4111372b24e93df"
+    },
+    {
+      "id": "56886297106eb71f9a3c3fc3cbafea61b17946edfda7ec911e6daf2db3ab7f67",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "6fc4c0fce14753db2d0396327958327ba85ee2ed1e6f45d6fbc3e3ed3ef78941",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "f07fa7216e969771ecf3060002c6f0ed5193f0e3bf27272ddd424c73c63d1234",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "91a43741b51b35bfb1ae1dc264207c88e7d99e4e23b8a57b0e67b0886ed0c77b",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "1955682ca38a0b621e206798b925c5173c8f6bdb27833599ef819acca9d5ac2a",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "f9ca3fc1b694e343bf665f6b50925d3b097e3921f6d6c38e9db2b291005f67f9",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "893935487a6e48cd25c3065c0deb72afac2ca45cab10cbe45a367151778ab7f0",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "022258eb8551375ba8b987879bdfa60afa4b359ccf3fe473013ca6a34cba5825",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "ac619a8b24b0b2e5be63f67272f0e5e76443c3decb3e8734f556838de99016c9",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "cb24b4f128d021fa011cf144e41ce2973fded24ca844b0035c4cfd7d5b01cd17",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "56882cc99a51ed62c9f1446af189d144689d99f26c9ac3317552696282211554",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "33e7ead4bfa2573477d8744019a9d70b5a76dcf11ca32c9acd0863e5a569a4e7",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "e110ab74fd92d05bbb8cf29fb52f3eb4d1d569b2bc70dcdf86b6e76d1ee4b0c3",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "bc90d7b0082968641693340c92f19d322883764cac684ebddb134497a0a7ee0c",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "59c3a3eba202e541d8768543e19e4c266580e334b2cf5582678359d29cd65e12",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "8d7b8c4e26d204889e68d1e50ec96a228a0c1433f150e98341592f203d52934b",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "d2e7b4029410d273a1818b2cde133634520b48ff73283bd8c3aefd5555397635",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e0f42d96556150f5cd32763a4c03cb22ffc7704b8bcfef345a9ef61273a41238",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "33a3c4fb6448cb77ade90359ef1a2d6e59a297fd0aba81e73f0261409b91f337",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "881c1a2d4e5f7d11781f0b23835a80cfb301914d77396d1c77725b6b080a3c4b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "88b3b9c9d425353b858e66abdf450173be4f26e445eb07ff4fa7682760de244a",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "2e0cd9fd741866ab4ad2700c393f8f5036187ae18272b1354987f710fc338c45",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "83af82bde8827166a089c393f7bce39365ec679f60900a0c13e925538da7c535",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "de63a91663d8a1c1e853734e58bb5e0b425d4c5e693ca883616635297ce2ec9d",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "62513c0d514fd147c4bb45c20c152d7a43468a0d6723c69bc0757ac7f5b380a8",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "7928bde323023593a6e272df3bca25b62b7d1f41b77504e449714d074c472ba3",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"ctt4c3np194qlu\"",
+  "lastModified": null
+}

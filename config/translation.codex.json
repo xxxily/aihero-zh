@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "locale": "zh-CN",
+  "sourceLocale": "en",
+  "enabled": false,
+  "provider": "codex-cli",
+  "model": "default",
+  "temperature": 0.2,
+  "batchSize": 20,
+  "concurrency": 1,
+  "timeoutMs": 300000,
+  "reviewPasses": 1,
+  "preserveTerms": ["AI Hero", "Matt Pocock", "Claude Code", "Codex", "Cursor", "Copilot", "GitHub", "TypeScript", "Next.js", "LLM", "MCP", "TDD"],
+  "style": "准确、自然、简洁的简体中文技术内容。保留命令、代码、路径、产品名和品牌名。"
+}

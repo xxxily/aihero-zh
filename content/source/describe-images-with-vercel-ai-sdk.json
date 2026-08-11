@@ -1,0 +1,558 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/describe-images-with-vercel-ai-sdk",
+  "pathname": "/describe-images-with-vercel-ai-sdk",
+  "fetchedAt": "2026-08-11T06:28:21.804Z",
+  "title": "Build an Alt Text Generator With Vercel's AI SDK",
+  "contentHash": "639bec24beab0fe412468739052ed6f3352cf13fec23b48a460cc1261675b849",
+  "textHash": "fbfc71bacc8ac05e03940666805e5edb6c068ef701f463ee1f353b4ef8bf7ade",
+  "strings": [
+    {
+      "id": "88703b952944c4614ebc6a8820fc5afcf7be06b27a3532d42cd953d39c4b147c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "73774f8d615265750df331393af6411da0a6f615c21de8136b321c0926906370",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "9915833aee68904a52d60818149963d1f16332f85bff224566c04eb641a65055",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "5248e5457e510c7dea2a08edeb76bf85d7e3e4f2aa69ec53e6988db3c0131194",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "9815280f6de6022c39eb63ba6ca7d3780300889031d25895cd3bf6bbdaa54ef3",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "7c084a2a8eaaa6a174ecb2404255622197d5415ffd3a12879fe598d09914136f",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "d3a0f374fd9f08ee086611d0ffc64919511c7f510badc0ac770b007944e1178f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "de50b4cc8f12f046da964edba60ac6e9f8686875bfd407972abab54660ff0269",
+      "text": "What Is Vercel's AI SDK?",
+      "hash": "1f210434178eaa98b25c4c6b455fa5973f854a1181e1fab9d10a8ce725bed88d"
+    },
+    {
+      "id": "d444e9efe9d88cadb22b8e5d49231ae93fe588a10dc300c2dff2260da01d7542",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "98fe0786eb0493a838fa8644305eb9de4c82eb2360aa0374a938014649f9891a",
+      "text": "Streaming Text With Vercel's AI SDK",
+      "hash": "c8834e359f3b28f367c74e589c38e2bf98f323e4f89d4e707b88ecc0e812b58c"
+    },
+    {
+      "id": "70818f37fbc819f04e1f4b2420a851ab514642902af654f5518f8445e424abf2",
+      "text": "Adding System Prompts With Vercel's AI SDK",
+      "hash": "c1856791eb8a9cefc3c85784d7e7865a4fbe03b8e4ce9097e30b44c8382bc0b5"
+    },
+    {
+      "id": "8947fe8ac3571c76e823607f0416cbb73208f737fabc634f7f11e1638234f6f3",
+      "text": "Hot-Swap AI Models With Vercel's AI SDK",
+      "hash": "a2e60e88e6b98f280400b6a6e1ae57cc56e04a4487923179fafbc1691daeaf88"
+    },
+    {
+      "id": "5c26a872d7c6789ead772ca92cd4f3475af21b9948b30f9920823d700fb97a04",
+      "text": "Working With Message Histories In Vercel's AI SDK",
+      "hash": "6836bf9b5242f2374260cc952dcfc713c5b9049e92673765730b88183fcca9b5"
+    },
+    {
+      "id": "843f9eaa202d4244b903bb8339f12b221352c95c3a0b7a1acec75383f4650dbc",
+      "text": "Use Local Models With Vercel's AI SDK",
+      "hash": "2f23462b857b3e2c9ff00eb7cc7ee290ae7b503bf5da369108fbf7f208a2ffee"
+    },
+    {
+      "id": "2dda94ed9030b09bf8cec3408f75e2c393f0a77e447d6d8440c74397ef0c4e55",
+      "text": "Structured Outputs with Vercel's AI SDK",
+      "hash": "ee7eb24d53c4be13cfa8480df0adaba3c76bfea676d6937956456cfe1938156a"
+    },
+    {
+      "id": "d305f1df4c5613387992146c83fdc1e5e2c5dbb04ec46dc4521a68d93d0d0e24",
+      "text": "Streaming Objects With Vercel's AI SDK",
+      "hash": "dbfc1631aa468169f64909580711d47efe5fbd6c1a8dc7f96f24d8f312775b76"
+    },
+    {
+      "id": "83f1b2e88ee89f4ecf91b7e972c0fecde056c013f32540cd28b8e32ba3940575",
+      "text": "Generate Enums With Vercel's AI SDK",
+      "hash": "0c0888498e8f0728d68d768a855caaaf0407c72679e31a43781b058c580bfd30"
+    },
+    {
+      "id": "542039cd93dd39c2955787e1732d477979b3f755169c594b08bd45b0d1bf30f6",
+      "text": "Generate Arrays With Vercel's AI SDK",
+      "hash": "966b534831ed3ab632d0d4d6fdbac9f5574b7b021619463331f1a040103c3434"
+    },
+    {
+      "id": "8f71aca8d52edf861f716ecd9997292c15a2eae92c43f07c890fc330e5ef35e4",
+      "text": "Build an Alt Text Generator With Vercel's AI SDK",
+      "hash": "e469cbd9ec4e26ff6b524e07b410ae85b176eee38375c531752024cbdb92388e"
+    },
+    {
+      "id": "9198cc770eb310371b1f6af71015455113b65a03a79dd95867058200cd595cf5",
+      "text": "Extract Structured Data From PDF's With Vercel's AI SDK",
+      "hash": "270c0886bdbd409901a9bb1d21cbe52e0e4e6504f3b17a0def44e8e729d3846d"
+    },
+    {
+      "id": "67f8f367b4c5580328eb3f5fd533b769839aab321bda39bbef5f42ced646deac",
+      "text": "Create Embeddings With Vercel's AI SDK",
+      "hash": "204fae433156e6ac042fc80217c5e8a91fd4e1501d92da5949fad8c62334d1e9"
+    },
+    {
+      "id": "86c4369f6a8588712ae072f021877aab3bba8eeaa28d02a037cd87c1125fec6c",
+      "text": "Tool Calling With Vercel's AI SDK",
+      "hash": "90485e2aae316ee7132e932b405c5b1a63f0786e824e08689a3f78e4846c2d13"
+    },
+    {
+      "id": "1b46dea8b2dcd19b5ed1d614f93ff1a56ab66335b6bc4e45c8c5fba553f74801",
+      "text": "Build Your First Agent With Vercel's AI SDK",
+      "hash": "52e11d029211f26b4245ca878765b7530ded3b5475536900eefe472e424a5f44"
+    },
+    {
+      "id": "47bea0f4c964027ab5f7db13472c117511ab7322eec971a2a6d33e049e01040a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "7aead250c7b7012289711b5d4c182694a38a5777bc620ea085f86a4d16eb4494",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e1427a1557ec1747be51a960ac53a87a542445b6ca9e2bdda1aabef67a7a00d0",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "1266b4f4217f71cddf48aab9025ecc1c364e53788b4540dda87b5013c6c5e2bf",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "e0de128a6aeefdca928977c21be729bc5faa7c1fd1b29e35262333da44a1b0f1",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "10bb664add3c45f60ad501c4e3cedd96b8b1e18cb438d4514e9d1d5db15659b8",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "c462b8912ed15a595aebadbb1a11ac185ee432278e2bcba90bf2081d089278de",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "2e65c28448a7bcb79c8d41a18c270c7a92c19c7bb96e17bef9d414d27a01d26b",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "e25ca7ab25bf588f8e7246ac5498c740c222ec42a8f1f8e01c0560a096cda86c",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "89dccf6c8bc8bdd7c6fa62718b1e7f08d6b0b088f148e05db574bade95ab9110",
+      "text": "12 / 16",
+      "hash": "53d27817bdddb0f04b115493e94f43e743eeafcff121478c08d975103373c6b3"
+    },
+    {
+      "id": "8f49047fc4a7af6cf9ed296a585bd3da6d75e7f243494e094d074eea557d8086",
+      "text": "Learn how to use Vercel's AI SDK to generate alt text for images using both local files and URLs with a simple guide.",
+      "hash": "218ee27f3fdbbb75f716b42c511ff98012fdbfc42f4488a6f71321a359abfb2a"
+    },
+    {
+      "id": "41027ed2f5c75dadfd284ebdd58a9dc4e2f9824f07631417abd91513641400b0",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "58098d9aeb06d0daa4f0d01976df282bda6c8c2a6eb9c2976fd343b67f95640c",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "88ba1d8f6b981be8b461434a5e1eef58f869008763b8e98f1a836ce059a3b71d",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "d6a5443d827fe94c6b2c5f8a96236b50ba36a5fae08418e8377733976dc6dc0e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "6cf24c5fecb0aef3a44ffed20ef5ca443e1c3d481f1a704038e2ab21a3af1210",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a26a696ceebeb9bf2b1b8c9d0ded14c752c712f11edd5ed1ac0c725ec8af64e9",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "60b713f1f922df6a152f283f64119b4625eee79c2eb806fe1cb1706d7cb9c7b1",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "9660e72e57500bd84d7b3729d9baa6eaf5f68979640ba1414e27406b9f1aa17d",
+      "text": "Reading From A URL",
+      "hash": "019248710831e04efa175c5db64f45e5638864416e03d47d550a79544fb406fb"
+    },
+    {
+      "id": "77490e28cf3bb0bc5cf6df7dd1c2c80fc46e3712b1e785d058d1422f1b06c17d",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "080e0d380ce18c7487060b0f92610bda4f5276adc4501ecbd42254e5a34b6e9f",
+      "text": "Another thing that the AI SDK handles out of the box is passing images and files to LLMs.",
+      "hash": "ae6254c65e41359aa0040058f3a63a793c9a38c42b1ce19ccc98417eb3b1b57f"
+    },
+    {
+      "id": "93dae1e93a8a8798019a612b0120d228c997d7bba09c94dffa7d0b5862e03146",
+      "text": "LLMs can then look at the file or the image and do things with it. It's an extremely powerful feature.",
+      "hash": "dcf311320ff59dd5182b48ff3035a834b6611f400aee93c54094158cc0428674"
+    },
+    {
+      "id": "72ce14fb7a967891eb8fd358173a43c737f45be685b9706ec64511e16983c55e",
+      "text": "Not all LLMs support this, but for the ones that do, AI SDK also lets you do it.",
+      "hash": "c6ab5e4f3a284ade2a5681af3a46eb1dadfdbefb877b9992fd8fb9c54bb0dc59"
+    },
+    {
+      "id": "75948292790da4d907f74588477b3546622c697dfadf9797f1f6c25be571ea50",
+      "text": "In this case, we want the LLM to generate some alt text for the image that we pass it.",
+      "hash": "01df6daa6a190432dc74e4673e158fbce002cd861a0a813a16313e6c4c1b7e9b"
+    },
+    {
+      "id": "5132818cf09e84dec875ede2336af110400b6e577344508716fe2da64399dd00",
+      "text": "We might use this alt text on a website or something to help folks who can't actually see the image understand what's in it.",
+      "hash": "654ce8b91501588dc888da0bb9f1ab1ffb1ec364db32e4e78b8e8736c43a84a4"
+    },
+    {
+      "id": "18ced621f1e4012fb70e216920f20c8e2154e8ad7539af5b4df46676ee4428ab",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "f35f1625f4a0c20c2cab488f4cee19fb5a444661e8df18758f0d49215fb13cd0",
+      "text": "We're going to use a pretty simple system prompt:",
+      "hash": "6b80e5b91433fe2606682ffc78af207424c56671615731622425b85a12469f6b"
+    },
+    {
+      "id": "0bcbf76208cde6d7e103fc37532c8ec8fdb18f2b3e6a1f9c10737b3e7a49088b",
+      "text": "Then we're going to create a function called",
+      "hash": "54b7bcc8edb4dfa773f547e82bf48a73fc86e3225859ab255cb7a17cbbb374cd"
+    },
+    {
+      "id": "086f58b250f3734caa56044e5865f13f2caebee9991eac55ac221ee4d5ea8492",
+      "text": "which is going to receive a path to an image on our local file system.",
+      "hash": "5c30e65e7f197ecc0bee3f70801ebd113a352275b5005a3542fc4abb8c66fef0"
+    },
+    {
+      "id": "bb637584250815df3eda4b3dc7dd161bba61a49ffb169a55aa6502806e797c1e",
+      "text": "This looks fine, but we're not yet using the",
+      "hash": "4e7e6336adbe208ccd25731b50d9e316adc8bf00a4975488f02813f086907df6"
+    },
+    {
+      "id": "fa83c8b4406a9dd41405cbdf7b3d58dfd2e53b3e8520078bc0c1a3bbba035956",
+      "text": "inside our function.",
+      "hash": "4ca18a7a844c7213b4f740d259cef6fc5581afe9cebcd3177e00c3b10cdad376"
+    },
+    {
+      "id": "70ce74ace7d26c0e5b6c1e0a80b3de95ca7c26f7249170fedb16afd83fed4242",
+      "text": "We can't pass the image path directly as a prompt; we first need to actually load the image into memory and then pass that into the",
+      "hash": "51c30e448865cdbc5ac6d32ee9c8359dd91422489b1924f38228b0c15adaaa55"
+    },
+    {
+      "id": "e4b30732cf73bfd5894e77418d1da2b957cbd73bc5737a6d0d1495d51af04d06",
+      "text": "function.",
+      "hash": "78655d4d73de012287e630a648d3bc75193043eb45bfd031f8cd041012119e1d"
+    },
+    {
+      "id": "1262711f4eca6e26c69021dfbb45ad56ba57df52d456a8ce1eee5e3a9cde7859",
+      "text": "To load it into memory, we're going to use",
+      "hash": "0d7a3cb77afe33529b5b457b80f8c73e3e9e5f058f185ed43a2f8c03f803585f"
+    },
+    {
+      "id": "a941d9d29b6ec4613216f4e8f6ba1189eee269c9c7e16b91095d7e72e0b91161",
+      "text": "from Node.js.",
+      "hash": "190beca1aadf48f87098edaa7567d46139aa173bf41c6c2b2c1bc8fc98670fd5"
+    },
+    {
+      "id": "f27d49b28c2f3b65c48a8be929b3529a1f154fd7fc0139017735ac045f97eaa6",
+      "text": "This stores the image in memory as a",
+      "hash": "4dfcdbc2bcd658e11087208165ff1d3c9a3c5e22942978ccca6d8551242ce2ad"
+    },
+    {
+      "id": "db5d38fcba164243181ab489470c9ed40d9ad9cf640508f20a22ad207dd98ea3",
+      "text": ", essentially a raw representation of the bytes that make up the image.",
+      "hash": "c8c9580b08a3a176b746d0f0d376d9234ad6db57590aeb988f9638f5423d0527"
+    },
+    {
+      "id": "384fe62f4e8df408f5a489c9fee00d460a41c65c15cb34ac970b9041d29aafdf",
+      "text": "We could, of course, use",
+      "hash": "8a36b8869156bbf0f6e2514a085a3f2291dc9e18c89c68272f91d78b523e6004"
+    },
+    {
+      "id": "eebcc5bbceb83e64b278ecd298284ec075cd4e68a48348038ecac0ac4b483129",
+      "text": "if we wanted non-blocking I/O. But",
+      "hash": "ac2c5523c5d8d0087feb23f034f1d06a840e93407bade85122d76deb1d021fd2"
+    },
+    {
+      "id": "2deee2c31b3e5116bb6b1f3a8a96e24b7bf29a86cc05bf47a940117430cf33cb",
+      "text": "is fine for our purposes.",
+      "hash": "fb56adc6422de6b6a812b3f2891ead4c134386d81dc5d61ed5717ef446237cd0"
+    },
+    {
+      "id": "fc5cf3dfc7c4b5a098d6afcf3102cc29f52befe1fd91adcffedfe6aac1416d6f",
+      "text": "Now we can pass this",
+      "hash": "0ce041d1e14a7a3623c10d5f3d585102a90307ba07ee743e498343cd67ae6c5f"
+    },
+    {
+      "id": "0ebef24b6208a303786cccae3dfce53645c300fa53e2c719ba287b9850669073",
+      "text": "into the",
+      "hash": "3674fb6960c6fdbd3fdaeff18b1d910f236f90e4268c01f0ca94fd4993d3c987"
+    },
+    {
+      "id": "d1e97391595f65443f6d09614bafaeea25ede63870810b647629497d23fdda25",
+      "text": "function. But we can't just pass it in as a prompt; we need to pass it in as a",
+      "hash": "b6248706e2281ca16e647279fd3473950f326aa565e7414cf85b7509b2a07f4b"
+    },
+    {
+      "id": "36dc2240f20f72d3c464020829f9f43af966515b35aa82c481521f87ff5cb828",
+      "text": "array:",
+      "hash": "5402a0ec5f7d82744ad7d26531800fdada8156f8730b582bf42ee359b7110855"
+    },
+    {
+      "id": "53ce00e12f7f9e38f9af26dcec188876c3a284bdc4f4b82e644091316295bb93",
+      "text": "This is in the same format as the chat history we saw before, but this time we have",
+      "hash": "f2abfe9e312734c23a4d31ec84c95c72861a42804c9c122b171fe97b58367250"
+    },
+    {
+      "id": "adb1dfd66371912269bab4281ca2cc9e84173f2cd7cc4e200292b766f1b1aa54",
+      "text": "which is an array of different message parts.",
+      "hash": "57ac8f5ec43aa598695e7991ceb7756cdbe74bf89f184e726d9f6f45b60c4a3b"
+    },
+    {
+      "id": "c318752e1e0592bf7be3e0c1fdda95ba0ead7f62d3e332a710c7a5dc8e40754d",
+      "text": "The message part that we're passing is of type",
+      "hash": "3a0d2a80ab4164112566157194c3070a2d13e24935af968b54a0aab262f95087"
+    },
+    {
+      "id": "b81652f6d43f40b58b1ac3308eee1e0c95d67cd3ab0209b24750d3229c59ae9f",
+      "text": ", and then we're passing the",
+      "hash": "f96e74ff0a6094227363c30d718dfec96f1662b059b2cb4d7e107a56518c9e9d"
+    },
+    {
+      "id": "f50fffd3f30657a4139ab98837980ec186e3582543b5541e63bfd0e9d785dc8c",
+      "text": "property.",
+      "hash": "7175742fec0f0c94cd846ee7acdbca87716ab60ff1bb6e12b208623d7d84d1a3"
+    },
+    {
+      "id": "22cbbfc78db60ef02e22f3472cc406c2a919d7e389a74977a5953419967594b0",
+      "text": "Let's try running this. I've got an image of some fireworks. Let's pass it in and see what happens.",
+      "hash": "6e0e689b44387310602283c3c1c30920e28612c6e97c182c4d3318fecd22506b"
+    },
+    {
+      "id": "f7764923ad3bf5a2a482b4fa8ab3710f887c8a180cecbc486a195b3d2e563231",
+      "text": "We get back our beautiful description:",
+      "hash": "7c0231c5c8f2050a97842353ad0fbfc5b71d39ae1a0c957c6e06cc119b574141"
+    },
+    {
+      "id": "e9a8f5e094c2bb4794bf4b8078720b997e3e7fe44699c5e8c130d3e6112c9287",
+      "text": "To sum up, we read an image into memory, passed it directly into",
+      "hash": "4265a6a6b4396091de96cdb6de91b572a2451ea37ff7da1079098ae117189476"
+    },
+    {
+      "id": "054257268fc50949b6c3e081925c8dedeb5c65668b5960807738cf19172d8df6",
+      "text": "via the",
+      "hash": "71b9bf2bd61285bebe0ceb9fd33f37ac30eb1c718b6cb5c7da2eea3b368e3f1b"
+    },
+    {
+      "id": "b814aa1d114a3fb154a94e72ec7737aeae2d3e45c082214cf19353f6c2becb71",
+      "text": "array, and got back a description of that image. Pretty sweet.",
+      "hash": "3da8b3e42dbd91f350f4e104fa11be3796e9f51c333072a0f43fa9defb526944"
+    },
+    {
+      "id": "143cbcf3b7a93bca701281ebf463893bc6ccf106186f6c5f49df91d1c96bd14d",
+      "text": "Our current approach works if you have the file in memory. But what if you only have a URL to the file?",
+      "hash": "8dc505fe3a863528ed1b66aff366318cdd42bf7cf2018d615fc9b2f90d953ee8"
+    },
+    {
+      "id": "573b842e71fc6df9cd58ab4c275d4975176167daa9e3a470ff74d71bf7dbb360",
+      "text": "Well, there's a really nice shortcut - You can pass the URL directly to the AI SDK.",
+      "hash": "fa86f72039393cfdea802a55cbefdbd0c690234e0183d14dbd1047c3932acdbb"
+    },
+    {
+      "id": "67b4e0bdc19e46d7e4e107f02c6b5d8ad2a30c52cf4bb64a5c002e8680c553e2",
+      "text": "We're wrapping the URL with",
+      "hash": "625034a683d2ee5ba6543493b2cbe3cb8c5b8a0df85e93e16b884b28c49b630d"
+    },
+    {
+      "id": "6364372963a4cf09dbe0e81edee78ccf12fc5ea947b255d3dff4f19b275629ab",
+      "text": "to indicate to the AI SDK that this is a URL on the web that we want to send along to the LLM.",
+      "hash": "28af3ecf14ab3c9ca9785497b5eba2897d1c81022573d2784dfb7e298b66c4b2"
+    },
+    {
+      "id": "e9e23901ee156acc9dad3b4532dff675b7a27520a014aed52a335da5d149edce",
+      "text": "Let's test it out. We've got an image of a church that we wanted to describe, that I've hosted on GitHub:",
+      "hash": "45471338d1e54f89b676a63882fb75808ae2f0e736a8526745694bbe8b6ab5bd"
+    },
+    {
+      "id": "4c7d082d85dec9c6cf8ab1097d8683606befbbbc0a1f937922e49546bc751127",
+      "text": "When we run this, it's going to pass the URL to the LLM. The LLM will then download the image and have a look at it. And then we get back our description.",
+      "hash": "eb3720b9a58f74c6272f3ab653a68715388f6c15cb0d2ae6c6dd458afb404899"
+    },
+    {
+      "id": "02f8a06c150ebabf0897d619c7ce6c4c513a62dcbcff85349b75d21f4ccf0980",
+      "text": "This is a really great way to take a shortcut when you're working with images hosted on the web.",
+      "hash": "7ff3f6298187516e156365759311e8992fcbf874f22f4fdd8a0b73b54daa5cb2"
+    },
+    {
+      "id": "309fe4fa8c2c0af6bc39dbe06c28db6941e662ef54d8caddfa57922afd9c2b0b",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "f92bda2f4e1680512bd5d1a09047005f21ef59aac4802da534f64442d542f6c1",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "28f6f4bd39a351a02aaf320a62d223bb49989d74e637a0950f22c986ae125a46",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "1aba61ccc1e9f8d4761ae46304dc7cb9ca4d28bd368fd38272251a4d54c14b73",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "21cd5ea9dec83f02d2b822e9f417f9aacf1f580de5228d4122866ddc4b5a656e",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "f4a2cc7867693cd8edf168da72a620afaee8923769624f6d2ab2ab6ac1a3bf3f",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "5c3b3c391cd9455e564f53210151e5584013f848f14799316c88282268854849",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "423e850129b40767a7e2db06bc9ebcbb9b8dc9c53fca473f99fe89e275977039",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "0a25db922f995bf376065677832ed4d81c0b7c84025850fb16b84a4eb709d54e",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "1c639b257c3b82299d9a5837e318d5a657bf3906693bf892cb1d8ca7e2d10f18",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "bbac755d2ccb82d2aa225bd98b9c656288b55d93b364f2b1236bd4fe8abda65d",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3123dd8ff0ce8059bcc56a4099a7de260679e066950f5851a9631751fa7bc85d",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0e8f5b1adb6fc380ebd3f66d811f160a1ea37f2097f19643eac223637d259ef9",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "f616dc72fad6679929773613e18cf65aeb3bb6bf80a845a6f06077826c3fb011",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "045419f680340d2bdd0cb42b5d7c622aa035cf37592fe8f653cd225f22dc00f3",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "2be2abd1177ed66641bf383e3e5695fc00ed2843f09298af78e52ebf5859d861",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "09b5a8e7d920b4e235c49f1cf6e973dcab81545585ab5ddcd4068a9b8a72e2d8",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "4f0f7558ac5ede48de6a34303a0008e0efe4eacc011a25b2a6c9b2647c607116",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "063067494ae69b1841f8d4d01e1d95ac05ad9330b3272e824ba7407bae07634e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "aa4a648e8e80e022a2df39b491c3ba2e4e1b414ed04835fc8dfb309cb7002032",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "29cc7b2c3e7033b93bc5fc5e629c6b7d2759a75dc13f0b8bb8191d0370078020",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "c12205882f7a5852535d1c9629a48b8bf1ebfb21d0a8721605aa7e9650390c1c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "bb479e5d25125c624349f1bf37b264d9a2a3b080f094813e8ec2739d4a73837c",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "eb00bc60e67627613b4a72e4b159272ed8e51046904770630baae4bb9fbedc52",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "3c67b46d123818d1729c1c40e7ebc26a4a5160e7298e0358b64c13d3857ee688",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"rvhc0b0hom8abz\"",
+  "lastModified": null
+}

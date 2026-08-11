@@ -1,0 +1,773 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/getting-started-with-ralph",
+  "pathname": "/getting-started-with-ralph",
+  "fetchedAt": "2026-08-11T06:28:15.598Z",
+  "title": "Getting Started With Ralph",
+  "contentHash": "e6347bff66b0b2f4451843e209e6407ce7064e68cd9a2ea2e28d218c4bd2ee88",
+  "textHash": "6e1b3bdcdcae835f10d555c5e309791cdd9bdd5d380d91805d0c2ea88f31c2df",
+  "strings": [
+    {
+      "id": "e33c8b7952ed06d189c43db78b5e2f798e855bce529b57818f9255c6bfda7826",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "92702ebea5cbe84f59b32dee46d07a77ae27fb435e80b244909e922fe4c019cb",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "b9e4be66dcf9690f2190597e86539e18875cce1d4a721e99dcb2bb1cc31dac4f",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c8354fc8cff60ea919b2fadedf0e6348c038addb7291436f2d6a71049c1df0e7",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "e518c7695b7f585cdb61e929cd1192ca30405b6107b8c99b7fae52d00c7914cb",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "0f19e6110aa535b413951d7ca8dde31d550bdb4d70ad258e6d3d38da616e3e57",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "017496d921f2461644eec437eed51dc2c90c0ce470fa910a5f34b3363ebbb98c",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "21614041645a6a93de5aa17860485217d05f62c876d2d556f636014a09500906",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "9c50d3ea02b03069bcb1276bdb74ae28acb11a460e5e3dcb5647caaf7f5d8999",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "1d84aa35f0cfeb195bddbf5c7ecd14ba21dec71d85731ac1a2f68a22414639ef",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f6c32542531a000f0fdb678c2d4e2f679b69e0e127c1b114b063d5e7e61e25ab",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "3652381f90fadeb235e166d43f35c220732597387f022dacab7be933d63a581b",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "eb3db33f21419945514290c83a3920156a365f2a7ac7a3cdfb400190bbff8c2d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "f55e66a4331c3ad602ab75a35dcd2d34194e0f95ea77783a4b9a87ea65158536",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e168b5794a14bbf750fa44fea93c4e64d880d5f7470b69e45aed7ae11ea52697",
+      "text": "5 min read",
+      "hash": "79eb99034dd919ead99e6856bef926db21d51ed0466dbf1300fa75c8ea995a57"
+    },
+    {
+      "id": "3a5921bb7f0d17f62cf3cccf7d95d532916a003d30251ab85a161f16f29eaa37",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "4b6071584d5f0735e4b39019ca0774ff430695d85ed9e2bcb182717cf19e7642",
+      "text": "Learn to run AI coding agents in a loop. Set up Claude Code, create a PRD, and let the AI ship features while you're AFK. Step-by-step guide included.",
+      "hash": "0e51f29a70e066ba64658c068d41eca4417e148b7516ba57e0400542a003f82b"
+    },
+    {
+      "id": "1bf55ffbf96a432eaeb72b87bdaed447f574592b09095aee850b26d72e38dcbb",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "c0840d8af1152031560fad4a26e3fa70c19ba347a1f6096b974dd81175b6b7c4",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "7610adf8d973f70a05164d1ca7e1a05215260194519ee7d3dbc8bf350c4b3711",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "5298a1a8082797ac09ad8a800466a09036b6ce635b7d97be7b168222d8db00e1",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "661f0924330a6c763fd83a63b00e0201f63b9b5c5ebc0498851ce328af3c0c61",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "49b7ce53659828d5fcfef291735e61b280f9b128845dfb54917d499dd62108ff",
+      "text": "Install Claude Code",
+      "hash": "5e841af205109f51cc7671d0c1012ff9de4a5595df7c92a59bff35dcacfea795"
+    },
+    {
+      "id": "56ed50680b5d40e0c88ef8b6841ad0f5ca54ebb296210863a0128626eb62643f",
+      "text": "Install Docker Desktop",
+      "hash": "cd8fb866766bd6ceeb41c4b3967bca8e63b1b24cbc5c689cfd943b437bc4f8ce"
+    },
+    {
+      "id": "cd41f656edf1c62ac947153ea7f78c1992a965ffdea3c12697f8b5e568afecb5",
+      "text": "Create your Plan File",
+      "hash": "c902ee132118603b1ebf5fd20b95110d8b288f36872f7d881a0786a0f1194f9f"
+    },
+    {
+      "id": "96a5265326d9e1811f4dad0a2140f043c7157d2fafb2c06c69b8401a81637dd2",
+      "text": "Create Your",
+      "hash": "374fa0dbd0323024328b3cf81f48a2c43d03980e2bc366c18c60b2001c8cedb3"
+    },
+    {
+      "id": "b58c43bef23ef503c5cdc6552983db282045f092a26bc45124490d1975775623",
+      "text": "Script",
+      "hash": "102acc10e67a297d79f7a0440d9fb96e2bfe8b1830676ae1d524cde6203212e0"
+    },
+    {
+      "id": "9546137467f16a45a843a59063ab6c8dbc6691b247fe268ddfe399361f0ea32a",
+      "text": "Create your",
+      "hash": "ee030bf13f0b94cc067d887d346cc01e53c4b8880d235f81fc93a837fe10e688"
+    },
+    {
+      "id": "03fad73d5076188f07e5875a72781fe606ce76c982fe8451b0f95572a27add44",
+      "text": "Make It Your Own",
+      "hash": "df8d9bd8a700171b6968be0861d6027d233f3c01c095c38138817eb22b5d3c55"
+    },
+    {
+      "id": "72930f3b589e0bde716aadf0bf57d66b2dac114a94b7ac1cc39fabec13d19de0",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "feba525c1387ee693f76590efe187797757d4aead33bb5b61bb846ce5246354c",
+      "text": "Ralph",
+      "hash": "b808b3be2949a354337eed5302ef81dad57948f1ed7478d92b8bbd1b20ccb9cc"
+    },
+    {
+      "id": "2bf811e2f7298dbf7e08b6f8089229c8cdf8a34860a7b281ddb26431259904da",
+      "text": "is a technique for running AI coding agents in a loop. You run the same prompt repeatedly. The AI picks its own tasks from a PRD. It commits after each feature. You come back later to working code.",
+      "hash": "93eeaf2c1f76cfee76476cb24b1a09dec605c06c5cace7d61680103b6a22665c"
+    },
+    {
+      "id": "628b7ee585fdd80f4dffe7965c4a2a6eba471843769e794285f6647cc7f097c0",
+      "text": "This guide walks you through building your first Ralph loop. We'll use",
+      "hash": "bd421532edc16c89d88ad48058594a8d044f3e11d3b974b949e893aa989c1ea8"
+    },
+    {
+      "id": "4302ea20f82f4900b4ff572418e059949154b5475d0166f62cba8cef09222791",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "e2a1ee82f1f72fd263a0e305c09e49651e6ffb0b558255522669757fa23dba8d",
+      "text": "Docker Desktop",
+      "hash": "c8beae897ee0f07e4f929cfc5a5584932a7d07e2754f7c6b53ff44d351c2245c"
+    },
+    {
+      "id": "73c6f582e40383efe79b4ac1663e423e82daead6b8c9b5d0e00e096a1436299c",
+      "text": "I'm assuming Linux, but you can point an AI at this article and have it translate for your OS or AI Coding CLI.",
+      "hash": "ec0616563297c84477cd52dbd0770b3dfa2fa1201a0d089112d8c81653440709"
+    },
+    {
+      "id": "82549b01a2628e714c245e9c2ac96e65827de3d566538cf828b68665b90cf581",
+      "text": "For more tips on getting the most out of Ralph, check out my",
+      "hash": "ae09c13738520bf90a6fee96e5fb87552fec1cc698dadae3be08c36780cf6ffa"
+    },
+    {
+      "id": "09765698ce11f637378fbe5cdf1445b5b4519248c45ee223e358009f92cbc99f",
+      "text": "11 tips for AI coding with Ralph",
+      "hash": "388660ee150ed62844cac04680f83b8a48d57596179e0fb2c0dfe5fc5c12bf79"
+    },
+    {
+      "id": "78f1924e5aba695d476eb6f0681de675ea5a78fda2ed5e0810f8b33b03361f08",
+      "text": "1. Install Claude Code",
+      "hash": "94d18684b4d1a75ddc218c40965967474653aff0a3cacffbfbb72ebd41b38c29"
+    },
+    {
+      "id": "7cc76a79739ee843e90c65a1ae3ded8e1ce2ea35be0a4d93cf11a7d1d4ad38cf",
+      "text": "is Anthropic's CLI for agentic coding. Install it with the native binary:",
+      "hash": "c08aeedab62d5b7e1d2648f5cbc688633b56116bbd6a8b95cd8b318f0ab09fff"
+    },
+    {
+      "id": "e4a3062a498c85011ea38859d8b38a0ed8423fc95540d20828a858689d1439d7",
+      "text": "If you get \"command not found: claude\" after installing, add the install location to your PATH:",
+      "hash": "710d40448807dbf8b4307cad2a6dfd474a6af461361836e80a6830b45d4e37e9"
+    },
+    {
+      "id": "712a5478710a37797a5be37c1c4d6cc8fcc68ce06a03c42ea9a8575eded1ee26",
+      "text": "Alternatively, install via",
+      "hash": "0780b8a14347e61e64a8f026fb066350bc55ca1d677416524d823265c3523b4e"
+    },
+    {
+      "id": "abba627759904fad5224285acf4a24671c98c73ea085c213279e32478c2e6c5d",
+      "text": "Run",
+      "hash": "00d60e31a4e6b8344d4201f25a6a7dee770713107f6d097abb01559d32b17f26"
+    },
+    {
+      "id": "065ae202cee8adf1542fdc327ddacba70d46838941c60894e549456a08f3e71e",
+      "text": "to authenticate with your Anthropic account.",
+      "hash": "f9531d1ea05a602b07ff82c48073d9af3e8117f6711d68e240d66714adf42d8e"
+    },
+    {
+      "id": "c1a4c797677c182cb58fa11ec76e2d9cf21c8a513f643367b567bb9226921ce3",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "501a18ddd34c437e1464747f6d5d5f0d1ecf9f054fb3e6ce2201982701578260",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "fc9be738334ddc93694ea9342584095756ce0c0f870c770c51688ec7ac6b3728",
+      "text": "2. Install Docker Desktop",
+      "hash": "51813a962688de24cd13ffb8f9575a69b60a789753d69411eee0ddbf27915d9f"
+    },
+    {
+      "id": "c010f0da55c94836e808fcd5fe1c8ac6083694f667a99b6228c2ef6863eee3d0",
+      "text": "lets you run Claude Code in an isolated",
+      "hash": "e49fe6c8d9e419f6bb195d57659766e9a6904720ed724d43f07eb09906d9a215"
+    },
+    {
+      "id": "83a312f14d85cbd4b8b7fe24f85a3ef615b2dadaa85f003e65ae84f040b4a20a",
+      "text": ". The AI can execute commands, install packages, and modify files without touching your local machine.",
+      "hash": "50a7f1dea3236a5de463046d071599f2c8cd8397ed5450979321fd766efc8316"
+    },
+    {
+      "id": "e5c621bb5dd8920cfa0d51eefba6aa98496682857546677d1a212241dd566756",
+      "text": "Install",
+      "hash": "569ca49f4aaf7846e952c1d4aeca72febd0b79fa1c4f9db08fd3127551218572"
+    },
+    {
+      "id": "65f8495a56cdd1d36e3644ee70d040ca90a9cac0c5078de241cfc28397e2394c",
+      "text": "Docker Desktop 4.50+",
+      "hash": "41b9934fcc3da536f2ef8ea1575684989f1238e31a1521a5590f005643b4de4c"
+    },
+    {
+      "id": "ba25800cc8956baa27b137d585f0e303409e18b41b6df26634278cabef3af90f",
+      "text": ", then run:",
+      "hash": "dc6777b403e4120efb3a0aa3f2040fa23d0afd9ff8b4e006eb1e5d81913ee3be"
+    },
+    {
+      "id": "8dba2bf551ee865d8eecfa107161ab2e3201db2c82e8b77056e115a97c7ab721",
+      "text": "On first run, you'll authenticate with Anthropic. Your credentials are stored in a Docker volume.",
+      "hash": "0a1337b43e078a43295631f57a8c400bfa7baaba029050ccaef93cb917fced3e"
+    },
+    {
+      "id": "65b5e394c4bdcf08e63805792d65724efc057f01f42b56c2e3b84f0215fec6a4",
+      "text": "Key benefits of sandboxes:",
+      "hash": "e5183b9ecd3fb02acff7a6b783c1b21ffa8357309f901133b6917b21d8b85007"
+    },
+    {
+      "id": "159c14a291e867435d49f7e9794b2e99bcabaddacc0328824165192842f22acc",
+      "text": "Your working directory mounts at the same path inside the container",
+      "hash": "5cce0fbab524d8763dc2c08c6977357129beaef52843e6a51613c509a459d6e7"
+    },
+    {
+      "id": "ec9232dea0ef724ee0516394893b66184962f8079b1b0c10f196afa92b03b77e",
+      "text": "Git config is auto-injected for proper commit attribution",
+      "hash": "1525f020129435958e9e45b47879a46b55f40b5ab8aa2f2e7d612c8c350811d7"
+    },
+    {
+      "id": "74f01bc7f965d96227484fcd5b6eccfe142e7e5de2d49a5a5fc30764a2d51d73",
+      "text": "One sandbox per workspace - state persists between runs",
+      "hash": "9915037ed52a20ff670a5bd3fc09cd078eceb9429ebb3b5ebc22909646ace337"
+    },
+    {
+      "id": "d119e87cb8180c4b24f0516f8d2b4bed1b2f0675edba13b3f9d50326f458b528",
+      "text": "See the",
+      "hash": "23c70433345d24b0b7271b2e2a31f9542241c544057fd7fbe2c8a90582725d8b"
+    },
+    {
+      "id": "9c3f1ce68afba8c80fd10d1c9245f472dc6df4ff6c9e22df78fafb888d5f8c78",
+      "text": "Docker Sandboxes docs",
+      "hash": "d38c526a9e2aee5f77512cf27ed67e85130ede49589ff75313473c5e269f5516"
+    },
+    {
+      "id": "fe3db044aedc70102a34ebeb8f374082c4d44c3eef1a39092e9e55de3eaee1e3",
+      "text": "for more.",
+      "hash": "a1b83b34bfdac31b955bcf43943050bc2e176799eced6a62e961e7bb849d6a64"
+    },
+    {
+      "id": "95b49cd80cadaada1ae093cd1acf7fe98c87af69bc77e690c6fb5dcb649c70fd",
+      "text": "3. Create your Plan File",
+      "hash": "8712913c13c1bd30e1fc8844d09eefad88b78c80d766ab46dd85b1bc33c712af"
+    },
+    {
+      "id": "a97c3909d93d4356c0938fc86240cc43f7c98a90634918144a759f608d79fa65",
+      "text": "Ralph needs a PRD (Product Requirements Document) to pick tasks from. You could write one manually, but it's faster to use Claude's",
+      "hash": "f6410107197d2edad29e0511d789ba9a4295a0b948ed36fdd35ff6eceaf22e63"
+    },
+    {
+      "id": "fac5b4a67d0dcd9736ebdc6c8121a2c63b2699499a5b692d2516cdd3133ef418",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "b3c13e04d057b1d85c93cf089c5ec7d9ecd4aa4160e1c3c2e5de321cacd4d9b8",
+      "text": "Run Claude:",
+      "hash": "abc02d8ca1c04f3f46a5c2a8dd68407b50179f63df4b85769bd446051a0d4e18"
+    },
+    {
+      "id": "3af49619fb47404eacb527129f42acdeb853531d7f199dacffe0e73e8e237430",
+      "text": "And press",
+      "hash": "10810bcc8c46753a3209d7d490cf427d6f3f7987daa7f36cc6852142b3c8d8b9"
+    },
+    {
+      "id": "0c38211e8e90a6fd1ecc90ce6e64759c05f910c7e9d3242ec23201418049acc2",
+      "text": "to enter",
+      "hash": "2b8a2901e08e41aedd9a8f41c5b224caada089534a9c47b19b4db47e2ba118ce"
+    },
+    {
+      "id": "e5d823ef1d2bdd76f7b808b92032139b0645bd8239fb74bb51999ec539fc26e9",
+      "text": ". You'll be able to iterate on a plan until you're happy with it.",
+      "hash": "8a12d8cd90634994aa72f2cb4ee9a4847941b34b45ab3b01288a893982caffbb"
+    },
+    {
+      "id": "a7ec5fb2252aadffd399453d0cb1461763b988da2462d1ad804ea85a0158c40c",
+      "text": "When you're happy with the plan, tell Claude to save it to",
+      "hash": "6ac182d1e4875e999c662c130e65cab4e96559986849b12f044cf889dedc4da8"
+    },
+    {
+      "id": "9cd917951bd3715aed1b71b9699cfbd8bf70971afddbe3ccdddc9c9a02878749",
+      "text": "Also create an empty progress file:",
+      "hash": "465db3e74711b3c24e790024187895e83900039d4093661ab3a3a1c2790c4668"
+    },
+    {
+      "id": "048e472a7d96723ced4b58423a9acfa5a8aa81fdcbd4a37e8dc8664567bb4222",
+      "text": "The PRD defines the end state. The progress file tracks what's done. Claude reads both on each loop iteration, finds the next unchecked item, implements it, and updates progress.",
+      "hash": "fe8b98d94893217f973bf56dd8de90c7055925ebdc8a066f638edb46e3f3bbee"
+    },
+    {
+      "id": "4fc7be4c09b01c0caaa93de1a034918371dcaf69f798b841b0ace0756b6ee772",
+      "text": "The PRD can be in any format - markdown checklist, JSON, plain prose. What matters is that the scope is clear and the agent can pull out individual tasks. For more tips on writing good PRDs, see my",
+      "hash": "44ef88a2641d9183395fb340ccfabfbb69ed761ff9d40ee5086641c9805199b5"
+    },
+    {
+      "id": "fc0bf7ab5043066058101a929d4937b5f16ebecdf4d45d0e936f1a18d3aaf32a",
+      "text": "4. Create Your",
+      "hash": "e86300729f6dc516827cbabc25e7986ce06337951857884288e1f6a4722b29d9"
+    },
+    {
+      "id": "619a6241e6691e45db7e8dc83fd1f22ca249eaf1fe274bd76d476e218b99e50f",
+      "text": "Before going fully",
+      "hash": "68154a79dc5343ab2c25d2f3fc03f655868fd490ebdfe187d2ecec1507f83f7c"
+    },
+    {
+      "id": "c79fa7181bdbef7dedfd2f55078fa138c86b47aa32817fd004940f6dac5069e9",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "8b0ac48543b8b5a3193e8aaf94777af3ea6498225350bce543192314266fff61",
+      "text": ", start with a human-in-the-loop Ralph. You run the script, watch what it does, then run it again. This builds intuition for how the loop works.",
+      "hash": "eb85026deb897f96939ba7b34022e30bbb836e58e10c5f081ede49d275e7a43b"
+    },
+    {
+      "id": "eee900bb09b3c194ee6ff6e775b8631ac814dd2e1773ee9fb4787addc02a0c05",
+      "text": "Create",
+      "hash": "4759498ac2a719c619e2c8cf8ee60af2d2407425e95d308eb208425b2a6d427a"
+    },
+    {
+      "id": "fa36716051c98aa49454e5d62e357c473c05d712600baabc9f8fac6e2d5f0e6d",
+      "text": "Key elements:",
+      "hash": "2b5cf321ccebb2621bbce8d3c1e0c4f046dd05478b0fc4914fc995fcf7cd7540"
+    },
+    {
+      "id": "425bd281c7797b5483264cba6ebff819ed244e2aa8a77b1a182dc45718fe5a64",
+      "text": "Element",
+      "hash": "4e5b548d6d61f0006840aca106f7464a4b59e5a854317d5b57861b8423901bf6"
+    },
+    {
+      "id": "f7b4e36edfded99e8f53fdb649f8c55f376713406ecf0b39dace93a5a4b892b0",
+      "text": "Purpose",
+      "hash": "d4e8830a71c73edffe0115b8abad16b0b5cb2e121047c64cd01995203cfad062"
+    },
+    {
+      "id": "f6c395c5eedc1d8b71f6657b7e5d556d7424155dbde172b9e9a004865a3eb622",
+      "text": "Auto-accepts file edits so the loop doesn't stall",
+      "hash": "f7df5a5547213ce56feff9d8a1ea4eb92ef914627b5b96f3e5f7cf144abc3cdd"
+    },
+    {
+      "id": "6dad03075f7b677ad49c6abbe535fc8c3a0f08b3daecec0b402dc2cd37de7b14",
+      "text": "Points Claude at your requirements doc",
+      "hash": "24a478b2bdf621c36b79989cbb58940a72f7a2847d35b0b19276aa1aa39c88b2"
+    },
+    {
+      "id": "612a466539e64122178cc61b210e624d4c2ae8faac42d5afda3db4a49040a47e",
+      "text": "Tracks completed work between runs",
+      "hash": "e9636fa0ea27a0147e80af6d169c51db1b75d8107e36345fbb4997d6917b37c4"
+    },
+    {
+      "id": "c7fa19719addaae775b2d5bbbeca3692ca62a8d52780a33034bbe0eb3e8354df",
+      "text": "Forces small, incremental commits",
+      "hash": "14185bdad7199c5f28114fd679a88f83cacf729993fcc31b3a95d0be2f18c1c9"
+    },
+    {
+      "id": "d8938aa4d5d1381643ac91fae815c33be2d5bb6f88acf8fda5389fc1438ae51c",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "2d1c82896973261196d1cd86683060c6c0cb103404a7efb37e99ba9a19a91f9e",
+      "text": "Make it executable:",
+      "hash": "523e4ed8bc448cb9544202668f731b27bf9688584d012fd234046c748f8a2115"
+    },
+    {
+      "id": "c8776b561d2d61b4db4f9ac876573c6f95c1468328452039983e10063b2d37b1",
+      "text": "Run it with",
+      "hash": "de12edf654e25de48c48cc19a7eda8c5e97760a2be27a0047c40430c6a482da6"
+    },
+    {
+      "id": "96356928dda7631062975e3d0bbc724918465c0e334cc5be088da007d4b63d51",
+      "text": ". Watch what Claude does. Check the commit. Run it again.",
+      "hash": "38d8297720812baea9debce7b2e760187bcba8327d6a00ca1eb37889215be27d"
+    },
+    {
+      "id": "787d49d8dffe9b4c0e2b0ae4ad54fa563ac2891b8014ce5ea038a36996f37bfa",
+      "text": "5. Create your",
+      "hash": "98023f7998a3080cd7eab3f9b6f1fdd18c005e4e698e158823f63942417c383f"
+    },
+    {
+      "id": "20ae32096f2d81c4f7d01a475c4aee57f10ffa2109395e4aea3808706bbea654",
+      "text": "Once you're comfortable with human-in-the-loop Ralph, wrap it in a loop:",
+      "hash": "134469417b1073612dd42224e49a62124ba6ab76dbc90c132af9f5b6eea53b0b"
+    },
+    {
+      "id": "953339063d1903788caa4138986f2394adbd08e78c6cb6c8c2661b96ab518733",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "6f496472e0e0d75adcd97a2168ad09430f90ec36841d0fdabd87657e74d9c782",
+      "text": "flag runs Claude in print mode - non-interactive, outputs to stdout. This lets us capture the result and check for the completion sigil.",
+      "hash": "9bb9ca21a7676bb874b16f0ae95fe3634752192e0a09f0507b55ca712be84124"
+    },
+    {
+      "id": "182150d3be7e4f485b690f17b23a21b51148d0fda42e4485a356abf3070a8347",
+      "text": "Go make coffee. Come back to commits.",
+      "hash": "3799ba628cf047baa0fcf9184a71a0c22bb61bcd9bde0f4f63cb8414a50cb052"
+    },
+    {
+      "id": "16bdb5827bc78097e2bbf7f40a0edea47d6708eb8719d9a238d53befc1b23231",
+      "text": "Exit on any error",
+      "hash": "ed2e447a47b78d7f4d8f53c0971b08c6eea4494259c0e539425eb7c009e92745"
+    },
+    {
+      "id": "ee52a7099d4fb95387a393dc9456d5f5d5e064cf7afe46e481bbbb1f181e6684",
+      "text": "(iterations)",
+      "hash": "3e7d3f7bbc53fd31632873e6595cc3e4e45c672186beb8d5c6689f137f7b180f"
+    },
+    {
+      "id": "f9de1507ab0e509cb4bfaafd617c1c03d99d7de2251c0928c914711c8f0f966e",
+      "text": "Caps the loop to prevent runaway costs",
+      "hash": "43bc2b3a52748e53fce945e894d567db6f6fa6dbb3e3fdf8157d6e53f3cc755c"
+    },
+    {
+      "id": "52ccba82bb776542d9aab5607dd836da3908e2b0582430db873b7d4f1dc54c51",
+      "text": "Print mode - non-interactive output",
+      "hash": "25976c7c32d314b33bbcc66a0a4a35a0428ca8088d18d728bc3f5e67abed0baf"
+    },
+    {
+      "id": "4350cd33052d5afc672e2bc64dc55870cac4c845b8375d6973b87f7662ab8863",
+      "text": "Completion sigil Claude outputs when done",
+      "hash": "f2e06e28a0c3b347402d56d95718fdcf505768fa4cbdc8e4c4ee08d9bff2f55e"
+    },
+    {
+      "id": "8706d9ff270e732bb87886853e2b71216bdda96f01a836dcd7d0adc3c5de502b",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "2100506a4d6472af2741789668aaf7a8ada87758468d8b3785b634b191b0c400",
+      "text": "Ralph is the loop. Skills are what's inside.",
+      "hash": "aed6bab6c4a7180a75203288ee84443b3f013b38a4df13b4f6532c293f2bb777"
+    },
+    {
+      "id": "51e32806ad780b9bf34744f051d87917d17af8e8d2d6fa8741851ca4d29813aa",
+      "text": "The slash commands and hooks I run inside every Ralph loop I start.",
+      "hash": "b69bf60c06fadf8959dde3a98c3dca764d83154e13c6cf71c68a5c94b0494e17"
+    },
+    {
+      "id": "45b4e09c2c69219656fe2756804e09d7139d15a3ff41e9768ed1803dcf372883",
+      "text": "See the skill set",
+      "hash": "dd46869b69c9555abcf3fefb4c764ae30e64692df2ec9a3359dea8d9ddef9b37"
+    },
+    {
+      "id": "a2303555fbebec2ac979bfae874646cce71df15a842c28f20a5ac15db911f3df",
+      "text": "6. Make It Your Own",
+      "hash": "f750b44fafc7edf1b2517de97721caed38572c6601fb88bb42d40e4afd4d5b6e"
+    },
+    {
+      "id": "73fc58b66028aa77a01afe8f6a8ddf4915763d0686d4933301eba661ca34951d",
+      "text": "Ralph is just a loop. That simplicity makes it infinitely customizable.",
+      "hash": "36b271b3bcdd637a22d4740f49b62ffb6a2f521c285d1297c4e973acec3bbbd6"
+    },
+    {
+      "id": "312624c32ad620c3da4bff5f540eb55eae959adb4e5be84652b9d553090fa774",
+      "text": "You can swap the task source. Instead of a local PRD, pull tasks from GitHub Issues,",
+      "hash": "731a0a165e2e6646eb93ba495ddc1007316869438c7c876b31026168b24f9995"
+    },
+    {
+      "id": "dc467427190e4b5b4420d01591c691aa6163f230b793a38928a4fa8c6d7eabf2",
+      "text": "Linear",
+      "hash": "e6950b45d25c2027b1ecae90490570d89bb0285e606df6ea24c16377fb0f2cf1"
+    },
+    {
+      "id": "e61cf17329f08a1c532310e4e463d8e68f2eb078a381f0dab50a3cf1298c3d9b",
+      "text": ", or",
+      "hash": "3d30020b1863441a64e786bdc72745e998a1e3abd32100e1b043bfa7a01b9095"
+    },
+    {
+      "id": "013d747dd27921809bbad14d27dddc8a4b71a9e14bc6fce20c7457e71fbab038",
+      "text": ". The agent still chooses what to work on - you just change where the list lives.",
+      "hash": "4e5e81eccff2fda68123a099cbc500ab2be79f054ceef01a0a04d10d2196405c"
+    },
+    {
+      "id": "c991cb014324d150e71bf3ba929da55ca62d394e460d9a9d114200d17fdb8857",
+      "text": "You can change the output. Instead of committing to main, each iteration could create a branch and open a PR. Useful for triaging a backlog of issues.",
+      "hash": "d9df0a6d1de00d2281f73569a155897f68f2d0000210409a38356c1657e48d34"
+    },
+    {
+      "id": "84eaed5d147cf3d55c3b26b8df3ee164f733df78b6187bd201fdce96ee404205",
+      "text": "You can run different loop types entirely:",
+      "hash": "1f40d34a0603a9b9e0059ae9e9d40fadac7b802b8681a8c0adfac8dd45cae1e6"
+    },
+    {
+      "id": "5a8ebca8014f75bfb237aaab8fdd23943c810ee7a8328cc1452f0207a72ac106",
+      "text": "Loop Type",
+      "hash": "8bbee11624afd505bbeba4229b8b6047f789561db23bd21c0de1324a4892f8b7"
+    },
+    {
+      "id": "0d079f60bcd231fd74a6fdc43607260bc58ab439d459da8efdb1bb06d2af98cb",
+      "text": "What It Does",
+      "hash": "dae0d007aae197e3eaa934901cc3c3e418d4bfb5987ab9f77408cdc101e76537"
+    },
+    {
+      "id": "3c174949d8fcfa07fc96aa096942892acbc9fb1f49085570e8eea63341471be4",
+      "text": "Test Coverage",
+      "hash": "aa1f376553c7c448a7444d70dd438cee6ba4e8baf18b720fec3313b516b410da"
+    },
+    {
+      "id": "3b2e39de5dd3104b581322ff6bf83d58e6a61be81a28411732cfc75a0c0b9f39",
+      "text": "Finds uncovered lines, writes tests until coverage hits target",
+      "hash": "0bc646b330d0b3b9f13e9c3014a2449e688a7487c852f4b5a4d34635b8218c1e"
+    },
+    {
+      "id": "ca7cacde39c5f506d714a4249c0f92526298420f7569c7197e006f456e8dc5df",
+      "text": "Linting",
+      "hash": "8e2da8b11857a4fff37488b1ebdb83cc02a7c9bad85839c6bdfba5442b30c5e9"
+    },
+    {
+      "id": "b8637d18a7ed6da71e7b42193efb2a22347086099fe6078178a979e31789a5ec",
+      "text": "Fixes lint errors one by one",
+      "hash": "492a67d33d17d882ee0881f17a314b138641c370a782abc0e30de4be0dc90847"
+    },
+    {
+      "id": "27f83c3076ea2fd826c98ccf2c7dc27551c9513f6ea85cd1ec3cabaefdbe327b",
+      "text": "Duplication",
+      "hash": "6648ceb8fe7345c9da004ffecab6c237fd48290e1f2003fbea51353e6c201792"
+    },
+    {
+      "id": "3e2075fb3e923a1c9a0822399a02c21b3208e26b937110cc10961c37a1de174b",
+      "text": "Hooks into",
+      "hash": "f2649c4bc807939c53d8d40b7957ee53f6027d45ff003136b5a5120ab3713f28"
+    },
+    {
+      "id": "a6e40cc29ecaa25785dc7b296d02c6c4cc30592f7d7edd88c8ae7e57617f1eac",
+      "text": ", refactors clones into shared utilities",
+      "hash": "77baf4a177b39a9e5c681e3561501faa3ccec98be22d97b7ca0422eb4e78e784"
+    },
+    {
+      "id": "812e99afb6be2eec45ecdf63987ae8aef598127e194bf63235e5cf581f4d2a54",
+      "text": "Entropy",
+      "hash": "bb846881f6a5075c967bbb8f21d724b7deb626e0e04fd38fcaae3e6ed1026446"
+    },
+    {
+      "id": "7831faa1dc2fe8bd215d04fac3d890ff4c912572c5064d3ae1d3c3d56f8e07d8",
+      "text": "Scans for code smells, cleans them up",
+      "hash": "9027850c266c47111cb86693d707acd5ced1a6fc36688ad3c768beeb4b9f5096"
+    },
+    {
+      "id": "3e3a298f76b2388fab5b5690d06b8fbf47f5d3aa60fa34ed2317bab691333e00",
+      "text": "Any task that fits \"look at repo, improve something, commit\" works with Ralph.",
+      "hash": "3d95029c002e36161f89ab809a466f4fd1cf7234e9e75375b24eb9c2911d22c8"
+    },
+    {
+      "id": "140b660109bda05701b4e6ff12ba482e683abe6c1f27ed3f89d0464bb738caa1",
+      "text": "For deeper guidance on feedback loops, task sizing, prioritization, and more, read my",
+      "hash": "06ed5a56b5f0c4b29aa511bf7d1e0f6708fd8a8fe4c541ddf47c79cdcc419d6e"
+    },
+    {
+      "id": "35801cd577aa686864799f1f4cdb6bd76fa9d11f37105c14624cf0ac3ae04f55",
+      "text": "Want more on autonomous AI coding? Join my",
+      "hash": "2ea65d47b326808c39e3ccf9298af2e7c31f626019af808db4af2d6cea335d99"
+    },
+    {
+      "id": "8c863cc3559e0936ee6fb68ccb89a44e71821a9c69972b3f35c1cc4dffcc8b29",
+      "text": "to get notified when new articles drop.",
+      "hash": "93d1296863c856455b85dac73b35862a599323650673082b59b32b80c2cd46dd"
+    },
+    {
+      "id": "8ea688950e6c4c5abb7e44038b25310e88ec285cf1ea5a33c63e6490794327dc",
+      "text": "Ralph evolves. So does the kit.",
+      "hash": "f6520b0628894f771ea979ba9ba504c1e5b3c0f1b8fe2dfd5278b095f2a0cd48"
+    },
+    {
+      "id": "6d8deac42c09ff88b12eb58c4c61046daccc5e87a0c5a23604ee73fe7f7348ef",
+      "text": "Get the next skill or hook in your inbox the moment Matt ships it.",
+      "hash": "2a08426a314cfa5be3e444c0a82e68bfe415034c767bc4be073df2922c391a67"
+    },
+    {
+      "id": "2fbd950299deba899396945ae0fa701a338bf49df41f3a1591094c66b459b403",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "3a21e472b77be73e824ce34e487fc2579d76e0ce2d640c776d1ada07389d1ca1",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "243874dc49817bf0cd2c1a5c4e436d363d5ed6bb9fd70b6fc9f95301f6ba7362",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "8b6c882e68ca98a78720d036f0b2c848b402c6c15bdd199473c40e24e00d2bf7",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "19d5cae7c3685316035b9b31c6eb67a4a01f9c822090f65f3a146cc03190f20d",
+      "text": "Article · 20 min read",
+      "hash": "e9c3d63753a037bdaac540f3fa2056699022f1b6029d92cc9bc69b1e4f863a18"
+    },
+    {
+      "id": "ffe524f5477b19f88042c5ef86e81a2b33401f13a39cf1e4d926d8df14f1aa1c",
+      "text": "11 Tips For AI Coding With Ralph Wiggum",
+      "hash": "59a78eefe41a098856366e524a8d5b33baab13286f03e8fba9106fea52bbe4ae"
+    },
+    {
+      "id": "f5149c8e5dc2ae3c5bf9c6ab84b62dcfcc2a9939f286b4c2f2ab485446749c84",
+      "text": "Article · 3 min read",
+      "hash": "9a559e56b103401e5a162120da917171aa78913e233fb28169988580696ea61b"
+    },
+    {
+      "id": "bafb228200573bc50220700021e29925cd4da969fa91a7296631716d12350d9e",
+      "text": "Here's How To Stream Claude Code With AFK Ralph",
+      "hash": "13d20351103a1be931bc9a4d65e749799cfdc30f585bd3c2052c112ccc4e2095"
+    },
+    {
+      "id": "684d4b7e295fce935c80b5159ce2c2185e40d6f27788290e4e587797a16553f2",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d23afe1b2a04403915f0b21c473c9b3595de32a550e2768bc66d2a6089e98a4d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "952944bc5eda1151c4fbafb5ff48387862dc0c2e20074a1193abdf925a0fe0fc",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "937ea8c6f8e7d91e9fc0acafe0fac9d66ac8437b9b57ff0417568226fb46aa37",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "60ff8454e4f9368c43281612f321e5c8de6762850072a41f91b23ed83da18c2f",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "a8471610f4119bf349ddc402e5c9064c7fa808f310bf4071624edf1d04aed0ef",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "2e4d0bc0cb0c964f9656a536905dcdd428dd028ab4b8d15ee3e82bd0ec9c235f",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "d85011668650bbb645f4698f55bd5e395dfca3ee86ecaf89bd07211cd3452814",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "237ce49ab319636cdf56c584ba0880011dc90a9ab1bd0166240f570dd5656524",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6c798f14ea4b709e99654b8d41afb118c1cdc43783e5c0432555c5a12d147c2f",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "1043522cc3cf5989a40694e1f7573a213b55153626ddc0cee2edd925b19b3db0",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "a351b3fe95f1d8acf1a63f4eb2d64c1519e64e4c1b3b66d35856a7879392b54a",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "7545cb107b9253c03db2a9096225a1cabe53dd8e19a4095a91e71a953260566f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "5191da40dca8fff55b79312f3a2d8406dfe201f8a13b28663c6c7ff3956bc921",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "2da0ea05bea9de13773d897748d7217128ad30f647d6adfbeecdb0711e42757c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "971550eed15c2f9f78edfdd91e8fd30e44846e1b11d274b19f3da57675ea3fde",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "8f5162687a0387f491c841e0aa2682634f12555fcf86b2d8d8dc0c4cc1777d51",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "4993675c51b6f971ff9fb5c171972d10ec9414e6b58bd29bca1c5d4d9e3e9987",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"62lvwrw2867i2a\"",
+  "lastModified": null
+}

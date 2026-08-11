@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/mcp-server-from-a-single-typescript-file",
+  "pathname": "/mcp-server-from-a-single-typescript-file",
+  "fetchedAt": "2026-08-11T06:28:20.007Z",
+  "title": "Serving MCP Servers Over stdout",
+  "contentHash": "6e8e799feac8df0c40d35de30c6b64aa6e551b949b8fc67ccb6e44c32d4bd481",
+  "textHash": "3c2d369cce1d338888a0eec496d340ad4b33f6829760c6c0a2c86a607a8b87c8",
+  "strings": [
+    {
+      "id": "c8bb4700a894808927e269cf3d6da1d4dbd2980d1329bb1b2a04292fbd9a254c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d4472dbdbeae2f4c466185e63c08cdbfed74bebe8625dcfbb0fea5040a18fa99",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "6fe6880370dc5bc420a9cc953de66b7381eff428a167c8b7cc379bd513d5bbab",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "58a46b2a725d1b5579ec7b1ea88a19041152361b5085af2f84b5a4e8561f3d6d",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "9f8ad15e57a996403ab3987730d585b28fdb6db893047e0750d6289f685f3779",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "5ad85eb613b2bf5a23052d8205a59b240dae2a1a1b1f4b0c69228e9a8d6ef4f8",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "772cf8d8bb79c2ccd79d1d6b8a3bfb8d4e07ff0efbf0102a1d503bb20db31269",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "221560115794169140423c43787e5b5cb76649b373e583688eeea4622c445460",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "916cbaac3180c44b48b6d6ecacccdbf9c4a8e5b3b16765b7c6235d69ccb78fed",
+      "text": "Serving MCP Servers Over stdout",
+      "hash": "25fd77f0ed62722c9ebc1bea2143243eca855a07217ce8cdf9fe14f317658187"
+    },
+    {
+      "id": "cf1507b6a0b9bf664cd19bc660eb9ebb216a01a0cf1b400db4b0f2646008f456",
+      "text": "Using MCP Prompts",
+      "hash": "7c27287a9bb5f13bc627cbb86ce2480b2564ada25cbf34e9030283a66b8a0388"
+    },
+    {
+      "id": "a5b590b1e4cc42050ea89052140c6e7ebd37d2114f9d0b04a2eecba3230cd693",
+      "text": "Logging: A Huge MCP Footgun",
+      "hash": "ed10f197b09f511d16fedb38fb5e1f9c6bd89bbbebe5b9b34c2eb69534042bac"
+    },
+    {
+      "id": "0fdbba8bb66aff8805fe2f149169ff946fb64dc9c7fccd895454426b3157d216",
+      "text": "The Problem With MCP: Stateful Servers",
+      "hash": "06a1a0242df637f6bf20ceeb13ed3c8117a8ce1204c5cbf69948f94c862109b7"
+    },
+    {
+      "id": "aae5684f7cc23f0c1171af97f2d04fc4f440b18efb27d75a3dd3176eed138c7e",
+      "text": "Publish Your MCP Server To NPM",
+      "hash": "8ed49330be235e3c82d55ffcfa048a51b21cba0ab8c181ae74b7bfd44e246847"
+    },
+    {
+      "id": "276856c381ecb4de51b57a39c7bed67f05e2e748d745896d333f3b5cfc79f89b",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "02522361252fabd70d8cc349746593eb40762009226ab9542aee56d7326e02d7",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "37776d139dfb23ac0e2178dd2bdbce75572c492b153684315198ade4f5f3ff75",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "5cc88ca8253858828559e87cc388825d8ce78e1b4d00b2310c1bcab8a92a7113",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "466ea55f3581f5c04c74fa51cba2d6424f155b43d42374aa38b9328e03003834",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "102d34ef5110e25efc7defbb429b472177d182f560fa9cf8d15ae0010f05c031",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ca15e95ab0c5fe966fe68f87944ebf92153e08d60096bf7f2e1c930a89bb3e57",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "5ad8077c724481dce23875f6893a0087cf4c25a2c1250d70b371ff5fb7344836",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "1cbb21939799a811c60704cf0f179bf9ba23b99a19a48b8c2663b427578ddf7a",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "d1ceea959e0e82bf2e1767060b470ce63967723ef85fd293ebf4995240616fb7",
+      "text": "02 / 06",
+      "hash": "2576c38f0785c5af691a8220363baf977e96a88190a5713035ccc541fae49f53"
+    },
+    {
+      "id": "e4a73203962bf7a2d9c049c45248e56a82e7449f3bccf08b16f4e27297ea5aa0",
+      "text": "Set up an MCP server with a single TypeScript file; connect to Claude Code & run scripts seamlessly.",
+      "hash": "fe2d273c78759b015be95f55ee0d5d78a4f29a83776dee3119eb32d46465af82"
+    },
+    {
+      "id": "e414098e27c9bd7ac210dce3b6518ccc3b3e391f47dbf63018ba0b22eff74e16",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "757a42ded09c20f030788566f4c268bc8ab885a6f75da606a44d8b384a56f957",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "0f9629dd16c8679f0e08672219a47374ad29686fcbc2a33842e19d46eabf95aa",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "4af98ee05729bddf87bc93d094d86af17eb602d206cb09557ba46bf540de5ba5",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "4af64fa0245f2ae0e2b07bc045332548a5d53b9779c57097aab616a5504f0c86",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "1fcd397d7d0420c60e1a280dba957ae88478daaa14bbbceead3098a1f3ffa36a",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "b4be4c3a206270653c9800e1814a362b7f8f38984e8bbd3bc65593e161b2eaf7",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "1321df287d19b053bdf59ebae540e965dcc4fca567ba36ea3bfe30be72d29f0f",
+      "text": "The Server",
+      "hash": "72d8f3786ce72306f120bd28e84a353628c5dbf01c6491ab149053a11ac83319"
+    },
+    {
+      "id": "e6b64b7d4c9ec4322a3f1e693edb9783a3154ead45cd679fa8447ae6703f5e2a",
+      "text": "Connecting to Claude Code",
+      "hash": "3cb86d0026cdd2360e07e3b467b2d3035b3ffbab8671131fe593e714f0c1eea0"
+    },
+    {
+      "id": "966de575c0f3eef7f8f958ec12590913d275a5ef395a463885c9775a73cd220f",
+      "text": "Why Is This Cool?",
+      "hash": "e60b15fad19f790cd68092e9fa8b7a64c62f3a9f02b03a54bae46794f4204d3b"
+    },
+    {
+      "id": "4a044dc7c537048692653c746dfee7f394bcfb0aa6731413afc7218fa17799b2",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "d9e73209893c11495a2ab8e45edc4a57222422bf77caf670395d97fdfe0c537c",
+      "text": "I'm going to show you the simplest way you can set up an MCP server.",
+      "hash": "4c3c273689d3206d8f885ce7583b90b1a1462b103011471589fadcf07671e8f5"
+    },
+    {
+      "id": "fd7451bb82b8b9a51ae23358d5bb0fcd2b3a15a06ef78015e2497053ec59135a",
+      "text": "We're going to create an MCP server, connect it to Claude Code, and then use it to run any script we want.",
+      "hash": "9de9e5d8b88a41aff4722509f4aeac0c860930b5affa88d2047542dcdb399173"
+    },
+    {
+      "id": "e53fc42b29ed9f470668a2a969f9da3544451866003ec20dc52a1a1b704c0e4e",
+      "text": "And we're going to do this all with a single TypeScript file and no build step.",
+      "hash": "3129f398755762b21453927b15b3fc438d9a1a2592e0e7ecd45555e0757650c7"
+    },
+    {
+      "id": "f564a737b439a748d2d7e3e414b0b8c2ea681a05ae76d15674965a6bd85a5077",
+      "text": "Let's go.",
+      "hash": "d35083c931ac17bcaf2bbc3a9bb6107b3214142cae3f9e25914ceabfbf2ef912"
+    },
+    {
+      "id": "f18596a11c1fe07c0a98d94e1b1399d9688745df5b1ce5d6bf1cbd56004f10e9",
+      "text": "We're going to start by creating a",
+      "hash": "32e86357c32b208d0f6da54e0f7f6d2fb1f9d3302b2755eac2bf66766f7644be"
+    },
+    {
+      "id": "c45e1665bc451622adbbe738ffa8d594e984ebb56c8fed1d17d1df388bb80364",
+      "text": "file.",
+      "hash": "eb36be6c06717c3b88700bdc0678576b33b6b4ef76de644a43b56023e9e77cb0"
+    },
+    {
+      "id": "c841dcfe2eb9dcb361029e87452cf5e7ed66600a36e08961816e59552e4325c9",
+      "text": "We're going to initialize an",
+      "hash": "1cf9d0b7df5d8262161455b7b47ae2151d4e0152ad6b168a3638003d97e86add"
+    },
+    {
+      "id": "dfb145aa1c312e9515119cac60342cc701632e7693619574920b899b1e5102bb",
+      "text": "We're getting this MCP server from the",
+      "hash": "700afde60725ac837b314d9665b285a6cbdb55fcd1bff1f63b11b189dbd51e68"
+    },
+    {
+      "id": "f959fb3a3dd2676cab4fd639efe8bf69b0f476a297ef49f980a34a3f9610c2d1",
+      "text": "package.",
+      "hash": "563ee58f7605a8a7b83697d0277d640d7d5bc33eddfab1962eaa686eb1faa7d6"
+    },
+    {
+      "id": "2304c93dc8cd9cb5513547680b4e12e27cdb0390f5a48f37bbf2ad9e79f0bf09",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "9bd741767818fa72d6d03b06ef0c2eb9e7ce46f993d46f65bf42a807881c6d63",
+      "text": "We can then add a tool to this server. We first define the name of the tool,",
+      "hash": "d9d8cebef0d5cfbabd6193b63b6eb3b45bdd771c5bc68535334a015eda082193"
+    },
+    {
+      "id": "d4f2245c52621711d8b3a4f73007d0daf1726997d712101027963d621af45820",
+      "text": "Then we define what arguments the tool needs to receive in order to run. In this case, we only need the city, which is a string. And we specify this using Zod.",
+      "hash": "89082d04d9fe8706d087e56756f5761fcb6b9440af0bafb0e8ac6fe5f542ee0e"
+    },
+    {
+      "id": "ff7caf0d35b28d3098d60c30e319c3b0a65e86d8dc9125f3696101e54f7fcab4",
+      "text": "Finally, we add a callback function that only runs when the tool is called. We return an array of content objects, where in this case, we're returning text. And we say that the weather in that place is sunny.",
+      "hash": "cc87d49cf127951ddc80b2c4e3cbe5d45db8368fd073aa880577796fe1a9a1b9"
+    },
+    {
+      "id": "d109a4d5a702815fa820bf8dfe222c453b7811781903e9025dde3fb6451f35a0",
+      "text": "This is the function where you'd actually go and call the weather API if we were implementing this for real.",
+      "hash": "40962240c7298ebdbedebdd55f17a042df5f8bd57d22b44999062d680bd2a1ee"
+    },
+    {
+      "id": "427eb7cad1e8a0873f550bc8f80de5f8f89a94004b638a525a1f8340cbd8e2e3",
+      "text": "Our server is actually complete. But we need some way for Claude Code to communicate with our server.",
+      "hash": "192f86284a8a85d3515922c3ee84a651949441f9b58d1e17bd9e4d84cb5ba024"
+    },
+    {
+      "id": "3677d4729b5d6793c5a78465de4923389101bfeed44d009ee0444393809ebf81",
+      "text": "It's going to do this by running this file and communicating with it via stdin.",
+      "hash": "67a514b84a55c3847e2197253acd74922aa23526a716d99820eb5eedd6448708"
+    },
+    {
+      "id": "67ce365838787faac0971f604f521ae7c62bdd7eb29bdd5e20f06ee7b899201b",
+      "text": "To get this working, we can use a",
+      "hash": "75bd899e25d330a650cfe09dd0dab8942b2730875f710222ea77c31c36832141"
+    },
+    {
+      "id": "1f0bd990a0b42cc29f7022edec9d278ecc67a5cc32ae7c2d2a62ef6ba49597c5",
+      "text": "We first define the transport, then connect the server to it.",
+      "hash": "b871a26c9140387cdde51c3f74c6b0a4630d99752d69258a844c9d4a4d683814"
+    },
+    {
+      "id": "cc9701608f4bb2bb5125b64e364ceb0eb40e085541379c7a2d896951f7cabf1c",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "e225fa6d2df858dd67d2715636f1cafdd83daab3542db4dd285d09d90efb4faf",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "8258a6e288c6df795e4c5afe3982de4f02fbe5934188e8a2aa59348028a165bc",
+      "text": "Now in Claude Code, we can run",
+      "hash": "e238769cae94b8c1329f5f058eff820225f493fa543f79b805c6e971ddc2ed6f"
+    },
+    {
+      "id": "bb0bcbe4e5444a454cbc3c8b1d3b182d9639b9a49d1919de86c0cc07a6912dff",
+      "text": ". This starts an interactive dialogue where you can choose the server you want to connect to.",
+      "hash": "ea24a09e1213d8b1dc78bbedd9450f0a5eda568abe9ec5bf977bc8f7f2a86e80"
+    },
+    {
+      "id": "c9720d0b6e2d4f0dec7347f6438b9a23756da0285abcbe4e7d99e8d0c910b1c6",
+      "text": "Right now Claude Code only supports",
+      "hash": "07a4714a810c607a2ccac7696a3f79a3f19bb678f4602bff5010d8c0698cd992"
+    },
+    {
+      "id": "5974957bc78ab1f48da4c66cea57373598beafab8521f681918c1aa4a74631c6",
+      "text": "transport - which is what we're using.",
+      "hash": "e7bc0e367227973eef1fbbe2fac44568f6dc1062486f0b12e1778f3ee180fb03"
+    },
+    {
+      "id": "228988264a4b5f194f2cc2886ff9e33cacc9317488b13ab46a277834516adf82",
+      "text": "In the video above, I walk through the interactive steps, but you can run this with a single command:",
+      "hash": "4f77153a5b8c06ce57f340d45bb42c9d8621611eea8207bb9b83dd81f858122f"
+    },
+    {
+      "id": "aa85bb39791a60dcac9c187c8f806cbad21aa11f76edafad2a500da8f78ff347",
+      "text": "This tells Claude that in order to run the file, it should call",
+      "hash": "f010eb214a49c802cd570b44dcb7c303f536cf2a344ac6a2960cc8c6dc953257"
+    },
+    {
+      "id": "954f89657702fccd99bab7317d7e1c75a95f8a97d31d131a494ebb38238a9d13",
+      "text": "lets us run any script from",
+      "hash": "0741affa8c8de99a52c5afc5a8f0c22719a3430e08fb2dbd2b1dcf369bffc3c3"
+    },
+    {
+      "id": "54322d69f08f3c40a510d410f50182a54d0f65b002d951bd92fdc230020db27f",
+      "text": "is a fabulous way to run TypeScript files without a build step. And then we pass in the path to our file.",
+      "hash": "aa7acdc53c7321b29f32d9dcdffffb48e1f58eec7de9e7bcdb4c0ea734fd7e0e"
+    },
+    {
+      "id": "cfcbc22c1021fe1e8ec3040e85748ca22517d54eac65f8bd00fed0893ff58682",
+      "text": "And just like that we should be able to run",
+      "hash": "85d0e18fa1c2ba20705725e545563d2a4f20310bb82404e4c85968a2ef81a7ca"
+    },
+    {
+      "id": "2de1d3732431fedd6f81c2980a74675209a9d26e54ee72efd39380d838c57111",
+      "text": "and have it communicate with our MCP server. Check out the video above for a demonstration.",
+      "hash": "abdd970327e4e1873700f655e3819ce1ffa61df0ba2b5d4d60b5cd1ff5de30a2"
+    },
+    {
+      "id": "1e76d3735a67b4e802482e2e664b7c119243a38c9c30242567b1ee47fb313d9a",
+      "text": "This is awesome because it allows us to connect arbitrary TypeScript functions to Claude Code without needing to set up a build step or a server.",
+      "hash": "2631fe0870ae4f56ae6bc26a8541afcb26ef07ed76f4a1a0351ae9b0e10f2a4d"
+    },
+    {
+      "id": "c65fefe0e56a40d2bda6e71aaa3e636c20bc33094c0855841b9fd8fbb172bba9",
+      "text": "This is a really powerful way to customize your own Claude Code instance, or other MCP hosts like Cursor and Windsurf.",
+      "hash": "f7d72237d598c29494234fad4f4c1c20ab6031fae341be4ebc9a2a1c49a11f79"
+    },
+    {
+      "id": "325e83f724b94c31eb18062f56dfd570787ee1ae0fc74a544800a2af15b48725",
+      "text": "As more desktop apps start integrating MCPs, this is going to be a really powerful way to extend them with custom capabilities.",
+      "hash": "7e09d42c74375c08e9fafa08073e37606692a7d6e000a418829a0c820ae6a9a9"
+    },
+    {
+      "id": "6d59fe085881f812c12f756102a4696659f1d200f4c2371f9368d214f6ee9912",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "1875801572746049a2984062ebaa0589de30c9cf82d5f66f2c9f7bae98656dcd",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "0f4a056eea2219c293947c176726a5f89dcea04f63004ebb9b10d432f68d5b26",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "10e1482dd5b87dafbe49164fdb0e9ef7a7f05d3b8bf773343c5180c27a5e3238",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "91247b0560f0af691b637ff4a2d83618530cacda7d2e8e07ea7d73fbd520471e",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "de2a0e327bcda3704b9f0d0c654cbaa0d7ab8f9b3339762d1d7b1a122326d70d",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "0925d9a440fa23b6c37b27d91a6c3ac367b0f4119b242670e33d040972fe804a",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "5208d27dce63eddb5eaa25568fc596fd9cd8ffeb1a0fcc724c41e64bbf3ca65e",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "c4beccb1d025dab9e94fe4ae037432f2363a73f6fb3531fa197b2dc9eb69bd52",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "4cacb827c0824c1ac14694a550157b3579b44846f0b09d04a406a26710c54fe1",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "aedbd620143ad28dde9b6d19062531a8ee9f5d2bc1c7a950f9b63ee5483d3bc8",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "01cf525ae5c5dc48adee8ccbca41d73fbdf81b8828646605ce27958531525b73",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c49e57d06eaea508a4eb23b5a3f4b2f742ebe7146d78f74bef9abe4d96ca5cd3",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "6ae457285c3001c185a5aaf66cb140a0860b9f167d5771c05f6dd616221a2d52",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "1078e04e47d95b0b9cf47355ab6440109a5aec0444c5cde09ee39fb273ee6690",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "3dee73b91880ba9608889ca801537f99cd1d5b429aebe1092d05ebc406d3e481",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "9102530309eb60f2efb318f35407ac0fd91530c687169954c883fe725b30c96b",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "1bbd58181326ed6c9ff7c2e5d700f56dd296305f07baf52cffed3f1690e417ad",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "c692bac4452ce5a1d6a6b22dcd1066e0fee363dcf6f2f1d9ef3722f8f298a106",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "f07f1c66b96ea7a39b6f03e12f2bb568954d92ef3a6bbf39e9d41bdff2b1ed7d",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "f5b9aa1596fecfe9350a773430e84bb32b63bbf34c7b4f0b5e3f32b208ffb232",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d8134e04b78d224efe7391e1504cca9470535276dd5b01973879e446eb172ee1",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "fe50417d36b8798fe22a2d8cbe36662ed3dcca543305bcc611b594eb0c46587c",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "2e5f4f3e10c7fbbabd981dad2801912f73b95226b4a7a729b7973ebc2e3eb0fa",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "a83a8ef48f543b99c34d2dca7461e2d1cc4b7ee309029b3b5d9486be5e248cd8",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"hzjwnw34vy6kq9\"",
+  "lastModified": null
+}

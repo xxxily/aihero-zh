@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/ai",
+  "pathname": "/ai-coding-dictionary/ai",
+  "fetchedAt": "2026-08-11T06:28:26.657Z",
+  "title": "AI | AI Coding Dictionary",
+  "contentHash": "c0b49908adf7924c093b5361dd9ca75755fa42ac800cfcc37f2fb162d6becb47",
+  "textHash": "893c34df1d6a37384124b5be44315fd4948e4f21ea5365a67fde49538ed0536f",
+  "strings": [
+    {
+      "id": "6f2b1290bb56898fb5a4dfc27d40da0275893beb22475ae7783e87ce07faa45b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "a08f5fff4a171f4f6cf7309331d5bece5b090af752966a388b012be183256d12",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "e7e4b83575a41b9e3213443d21729967e8fe08a0acf48da1b3e088979258fc91",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "9b990e39b63374572f2d950180752079a992ce6c75d42b3c869b44c9a75c3f00",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b4a803ca759e66a3b1f728eeae2747f9e84f51c96cf2ce26727a80c673d228a0",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "7b9df19aab53dbb549bd99d78c84816f06319ca3f74435f4c3b2c6b2359d47d4",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b76d22ba2dd31a0256e3305cea89c1cfedaacc2a64b7bbe04bd68a495581fb44",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "1a2338964dc73be1eb33598e0ba523f3383a0dcec812e6ce6bf992ccedca2242",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "41806909e91e11dd96ce1ced28f52b5b96bc89929ef34a749fbec378e42ab2bc",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "b4f87efdf0bcd029b24f3fdb4732fee57edd08334bfd8ea296dbaa3ab4caaffa",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "8fce39644c36243c00fe3219bcc4f5105398849341fd6b3ed1700e6f65f84b88",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "099c02a9dbcca7fc88ca993733f34012641777636202412d8286bc7bb4928530",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ed20a04eb06e68a8eef259f7563b56b2a7798f06554574e7add660e3cb423e1c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "093139eff62ca347f27b0f26b5c25d8c7b9611f5ae2d6ca772b3bd3056f0cc6a",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "1433ab0af8cc2521ac2d3f1d2102d0645fb9aca016b86c0420037972dc10338e",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "9fe2fb3eee9382bfe64b278c449899465e16dd3e8eb2eb90ffc64d346433dacc",
+      "text": "A moving label, not a technology. Points at whatever computers can newly, impressively do — right now, large language models.",
+      "hash": "ae5d29315873870b0fc18dfc2e6ecd51b5a5be1653332ca424c6e168f9cd94a9"
+    },
+    {
+      "id": "f5219ec79e5ddbf5bae8edee889fc21e0eef1e28923e69476f84a905755a47ce",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "398dafd564a3efa818d39be34db6682ff3906fcdbf62db2839e242699d8055a3",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "20f93b233edb3243822bd9ae4c29260e8862b8bec94ca8f33ef4a46fcdd052c2",
+      "text": "A moving label, not a technology. \"AI\" doesn't name a fixed thing the way",
+      "hash": "878b4b38ca1b2a775fe14d1e3bac0de973fb5f406a9e7605b21eed32f1507716"
+    },
+    {
+      "id": "f9953c36e245b1d0dfffbfaa6e8c001f7463a44e3ab785df77407857af5448f4",
+      "text": "does — it points at whatever computers can newly, impressively do. Right now it points at large language models. It has pointed at very different things before:",
+      "hash": "a98839b4fd2dfba564c2be27e54d51855242069760fbc5f3d5a6b274bfe6085b"
+    },
+    {
+      "id": "23c211769ccbc726fff44f1f3744de5c92e6a164eb5aeb4aad11690cadd6cf66",
+      "text": "Era",
+      "hash": "60c87e4af6d35736397482f8e47d6d480213fd37d2caca8d7952fa79e1f35fc0"
+    },
+    {
+      "id": "26b0bf7eea00c896601158a8766bacfaee92dddccc4eb196ce00410b820238e1",
+      "text": "What \"AI\" meant",
+      "hash": "bc504b66b4709728d962b451a02ccc726bfd963d6ef25169159e7c6b7aa0ddc1"
+    },
+    {
+      "id": "20a8e50ffdfc62a69350bfb67c6d0571d19a282319b35128f1b2d2c8c863f644",
+      "text": "Symbolic reasoning — theorem provers, checkers programs.",
+      "hash": "0ec1fcde6e5742222f6775bbce7ab1c0469f4f3f89f68f951dab2c747317c9eb"
+    },
+    {
+      "id": "83de96c5915399f75e52290e610f6ac5c0f38200b61ff74afc8b260644e6a00d",
+      "text": "1960s–70s",
+      "hash": "3e3eaed8e056395536ebc5e20f1673ae6ec60b457c7b9be303fa00050ddd2fa3"
+    },
+    {
+      "id": "112f555553e7ef1702fba9d21bd29847ab336d2a89244d9a2869d5a7740843bd",
+      "text": "Rule-based symbolic programs — ELIZA, SHRDLU.",
+      "hash": "24cfbc4fb459a4848f395aedfaa4e85460d8073563e58094fd922d40865b42f3"
+    },
+    {
+      "id": "a4c87a914a645a732f2b9623e7c47df1a56e3860812b7991b78b48ddb75b37a1",
+      "text": "Expert systems — thousands of hand-written if-then rules encoding human expertise.",
+      "hash": "4fb7ca9ac5045cd30e56846fe9f563dcfc4412f6c49f47dc59c30ba591929b96"
+    },
+    {
+      "id": "dc1ad9ba0879b2a335a55b29956e82b7847b1e6f730ebe4d7117491f6a48a675",
+      "text": "Game-tree search — Deep Blue beating Kasparov (1997). Researchers avoided the word \"AI\" entirely",
+      "hash": "97526f7bc295682519124757569c461bd7dfe870614f22034f2d1a1cb7df9135"
+    },
+    {
+      "id": "4e34aa326b198fe8c4ee2344e73532c9dd09c088baa42e1152755ea76ebab647",
+      "text": "Statistical machine learning — spam filters, recommenders. Still sold as \"machine learning\", not \"AI\"",
+      "hash": "6a8b2b6e112114d3d3921d9317faf117d3135981d70c4db0455e698fe9acf47c"
+    },
+    {
+      "id": "06d1cf3cb979c4a731291ce4f0f2f1a6cd984bac813a96cf6a432b0b8e9e5176",
+      "text": "Deep learning — image recognition (AlexNet, 2012), AlphaGo (2016).",
+      "hash": "562b19f465ffee5b6403c697246502e59d56dd1a549c2635e2da782d4da41804"
+    },
+    {
+      "id": "d907715be5b04bc1644f0cb07c8dd3584898b5ca9d616aec60e30698b5afa099",
+      "text": "Large language models — ChatGPT (2022) made \"AI\" mean chatbots",
+      "hash": "7d79407058b1db4a56f9afc48bc88a152398c5e65a0f8fe10af4414719837f47"
+    },
+    {
+      "id": "ad5b918d576a343ec0dc0825b87df0c296ef5b1529b9a16382257f6f1995f2e7",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "f277beffa0ea1909977b0eedeb001426c4bda7a8afcfafaf3594e2594b924dff",
+      "text": "The pointer moves by a known mechanism, sometimes called the AI effect: once a technique works reliably, it gets renamed — it's \"just\" search, \"just\" statistics — and \"AI\" slides forward to the next unsolved thing. The observation is old. Bertram Raphael put it this way in 1971: \"AI is a collective name for problems which we do not yet know how to solve properly by computer.\" Larry Tesler's version, from around 1979: \"Intelligence is whatever machines haven't done yet.\"",
+      "hash": "9d5b089d5db1b73c41aa5f6b5bf7fa9960cc93a15f432b6ade405c5d03368c94"
+    },
+    {
+      "id": "9c0d486693f3df7a1170195e0ecb3de894f12ef95fdc9156525c5fc848bae60d",
+      "text": "This is why conversations about AI so often talk past each other. A claim like \"AI can't reason\" or \"AI is overhyped\" carries a hidden timestamp — it may be about expert systems, about 2010s image classifiers, or about last month's LLM, and each reference supports a different conclusion. When a discussion about AI stalls, the fix is usually to swap the word for whichever precise term is actually meant: the model, the",
+      "hash": "4abdc88209b7fe3141ad722926fd6e1ceb4c17abfc63d92fc1d1a14b26ee458a"
+    },
+    {
+      "id": "b1f37a8b7205ebfb19ac174a7a7b2150b3d270087bb465a5d149a1f45e9901a7",
+      "text": ", the",
+      "hash": "3538a0b69856ece9aeb2961477bc2a6bbded4578906bc2df63533cdfa17b2bc4"
+    },
+    {
+      "id": "ce6cfd6134a05c2a51a512a22dc978fa1aa12952d9fc17211d3cef89efb5845a",
+      "text": "it was given.",
+      "hash": "8619fd1b9f0f716445cbc38a1f962b57c4650d70cb6917332e53b62694f038a0"
+    },
+    {
+      "id": "8a8b40f6d63a266a2fe3edc6a7f59e58f722d2e201cdc0a8fc4174d4f75f95f4",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "c234b03eb7ac746c4b0b192fa238c8184f5785c5c5ec449cc1ba26907b5bc4a5",
+      "text": "\"AI\" in any technical claim — name the part you mean instead. \"AI coding\" as a label for the practice is fine; \"the AI is hallucinating\" is not.",
+      "hash": "4835bdafc67f205cf474cae021ef7203d12001cc316356a68e2d230e9d67240f"
+    },
+    {
+      "id": "d5fe2fcb3665219e299e013aedc3dfd3ff3917a54e8d1553280fa4c70378c4b1",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "aa3cc6be0ad7802f478479c0c886d5217c535b2ec944279764d1c2a7b8eee3eb",
+      "text": "\"The CTO wants to know whether AI could handle the triage queue.\"",
+      "hash": "630a9c1d35a3b29d002a528f4122dce590c4a4583611ebd9d65781d2d70b8295"
+    },
+    {
+      "id": "28315275c7fa15f4ed4f625258870b86966f4f50fd4a6abb8d8df7f1d986a3b0",
+      "text": "\"Translate that before scoping it — she means an LLM in a harness with access to the ticket system. 'AI' on its own isn't a spec.\"",
+      "hash": "5870a606cede13043977606765e70192368f6cdb203f48737ba7e989dc6743c7"
+    },
+    {
+      "id": "31f24489025eb2b662015e4d0bda19bd8a1752e0cf8e00e5ebed06f9bc0e17ff",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "fff8bac065c06abb2b059f89b285627a51ba78f1b0d4d7d42131829f04bda8ec",
+      "text": "Model",
+      "hash": "5e2c614c23f02239bc03c6c04fcb681950f9e72bf8fdff6be79c79841cbb10c0"
+    },
+    {
+      "id": "32b53d7fa267ab5738090f58a643fffddf2975ccc2c987bb1f831510dc71f98c",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "79b58a62f48ddf41f48517e7cdb40de808b3d9550de085fea839c1c3c3702b62",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "cb5839b0848d90e4c27ce71b7cd0a947e104cf7c61142a4a17dfe0b4ada276b3",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "bd458132b3c7caef97e01d4604697825d4b6fa6465aac9b5cdae1acb1ea612ca",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "b864d2cec35ac31551e2cea1efeaba01558bb79be84d7f3479a82a2d29ae13fc",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "16b1b793607f958da8e2a30a5411f50b4d2bb9cc7b2e1762920c0ebb0a0d8ca8",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "5dc21b0f1d9180be8fcfee6c572b20d8034acaeed39b64425845b08ba96e7b20",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "dcf69963da1800d5e7f39da247ac0f2208d529dbb4857ccb9ab3340b0edf63cd",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "1b61cb2a7a69346ab422b6d035352a4f1ecc75a76b9f626f024441c08328fbb2",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "75ef6739f4ba7e7836ca98c0cb1d7564bde159e6792a60669fb90f278b096b3f",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "cdea5dbd5df65e47bb7f1cbd71721917179619b674c16058814d29424d45e003",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "e630e34a14708a22de06cdcfbd38be1c64bcc346908c90da12fcece184149be2",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "98c91282edf1800bdc74fe8eac37979222c7d3f3ee417353cd160b530db1f73a",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "a29d2ce5e91ddd58a96f45d6e54201df6ce52aae262421fc161670a2c336bc68",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "94099afc2dfabf5362e5a75bdcb2254284961db53194d91035ebff5a34e5b124",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "8b9206f03899c204ae2d187de77e79eae3868b61d0b39c4aad0f75d910cbea45",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "dc9ceeeb2d89c1ed01a2f14fc18048e2cd0a22d9ed498e3ec7fd2032b922b131",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "853f7bae5cbb720c60f439b5175e930c3b91d7bd25a8ed5146db1da330896b00",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "c9bbc93cb4a45bea55fdaade30ad67acf35d18b2dd68f5d196c3dd6acb12188e",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "45865632a7787ecd2ce6475f10ebb8d679e416c67389e0e9320a01ecec405082",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "129a59bccb1f722e5ec19029f248d4de044abb028397c1e953d049a8a70bc143",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "9a1c66f87c336f7a7cc9076b05fc81e0b255d976032736c9f4ffaa23d4572eb1",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "bf0352aea0dbbab7352e9fc7e71326021721b9f4406393109c8ce0cbc30b8985",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "9cb88c11d604589f61e09eda8035968fb4f3d71e74364131a8d52cd11285ed2c",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "8a12665ea47d27f57a7bf0ede904e72e0510e1180ae9053bf5c41c0cb0161a97",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "244f01d5e92bc64be1fc46c63d7a97af4af989321ba21e9b92720b2a12b61bd1",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"sbbt0gtoe74vhp\"",
+  "lastModified": null
+}

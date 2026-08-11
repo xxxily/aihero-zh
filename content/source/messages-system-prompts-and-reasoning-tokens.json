@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/messages-system-prompts-and-reasoning-tokens",
+  "pathname": "/messages-system-prompts-and-reasoning-tokens",
+  "fetchedAt": "2026-08-11T06:28:16.971Z",
+  "title": "Messages, System Prompts and Reasoning Tokens",
+  "contentHash": "2af88ca6658d28d419fad299274a834d1adf0ff622c711b5dbf3dcfd26e05569",
+  "textHash": "00259e66b3b029adc81c57993d08fad95776a54610997a6a35762bc4d3fb7b0b",
+  "strings": [
+    {
+      "id": "636af1f6d852672ed5c03373c1f3ce6973e68dd9de87c4f1a55e22ed388bca2b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "0c237fc56563bab54b92924b43c8b6523167b0759f8da22ef0d416fa37aca6a2",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "6930962d8dddd675c35bd4d11e6a735b959f272fb195e888f83d2a9642eb936c",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "a7d398ccdb78fb88bb8e8b18abb3b72a0608679c53b648d8d2fa697d050b6c42",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "6fd5477d3ce06b9d36ef2e341681b8589c7a47d0bf1a829f4b0994924b15303b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "4ae95b6895249485558ba0b04881e4e03bb1dc81ec91ce97de0d52e30f35d7df",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "2404cbf05daaf406e130f72a72289c611844ca286c65b11741da4df13d5df275",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b3f24ce57e19dbb5fbf0af749bd806ca7c7a1e2e5e863de975c6821e0b0f4401",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "66917cb3747ae02c8147383621ac9ff2eaa8cb5cbf540554e92b91138f8b524b",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "f1ea4a3227887ce559dde7313fa5a54675ef618e3e5cf1e77d0e16ac2a94983a",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "06d9e98df1c2314ef3864d0f388c85bfb258988731c9326331c38c6c6974852a",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "fa6f332fc7bda7a3a11e5f3e4f8167908ba0b13312d1f4a50f13bb877c3729e3",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "75c496219a5fda7e1c248f6c2dae6ea87f206d6fd935bb27011eda8825e808f8",
+      "text": "Messages, System Prompts and Reasoning Tokens",
+      "hash": "3f4abbe2463908b00f5b0843833ac83f093b45c95c2e5ac1c4395162a9512645"
+    },
+    {
+      "id": "7d2161028bcd8eaa26c8287b7568eafcbe33283f049c17395c5dad55a523f5e1",
+      "text": "What Are Tokens?",
+      "hash": "ee46b60e4092cbeeb7436395b0ac00e00c45ebfd441d53a6c0ad998bad67a625"
+    },
+    {
+      "id": "1a62901622bfbec2162cd7f1b4425009f078df823c248f46f048b712bebb8982",
+      "text": "What Is The Context Window?",
+      "hash": "424d3b1d346af8ee28ad019515ce974d4455ac38aabd1de0c6f85c80ad006a35"
+    },
+    {
+      "id": "f65b9d7d45eb648c426615fb4be2d834dffb35aa215bcc9c17f412bc45a214a8",
+      "text": "What Are Tools?",
+      "hash": "916742818672edbd799c05eb316ebe7f4750efec5d416b1db6d6348acb761caa"
+    },
+    {
+      "id": "c3723e139acb42605e1d740fd1218d58eac71fbb3fa8749f40b1b2c22444a824",
+      "text": "What Is An Agent?",
+      "hash": "4363a0eaad32a30e59832dae65d5ce46e94404b308512b2a6a68c13044d2919e"
+    },
+    {
+      "id": "eaf28ea509ce11fba55292e6c8ebf0ed26ab22157de84817e75dad93ae15c619",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "7c32f26ec122e4301344b9c10cca87f680325d22f378334ff7afadaea79da67b",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "9447ebe64ded4296a161c57c5432946acee1548c42579b8d9922a4c381f552eb",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "0fc3232a4d89f089975eda045d44966fb375e88ed4d3132657172b5c61bb9688",
+      "text": "01 / 05",
+      "hash": "a180046a8e5d29f5cb2b63fc8fce639ede11a5a3b61c942c3eceffaada81c1b6"
+    },
+    {
+      "id": "bd763f4e95ea059652589581c2744961a3ccf80f0840489c2b2c6ad135dc8da1",
+      "text": "Learn how conversations with AI work under the hood. Explore user messages, system prompts, reasoning tokens, and tool calls.",
+      "hash": "fafebf76674069c00c19bcead849960fe783fe1c66b8b25de950c9c2b2741469"
+    },
+    {
+      "id": "b24a15c9fc87342deb94085e501fbd19a7dee9061b4c2782f9d4c860bb73ad4d",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "7d6822310c25f8bc6f7620c851d8fc631fcaca56e4686f0ee2180eb96e125908",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "9ba5233d80a760bd2cc58aa5e705352d0b285e26ac89a717031dd8e42386c8f6",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "4cdbf2150af1921f038bed0c99c8c6c8ff2d647fb2204ad671e2adcb096ff060",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "f7247bf21844e13f1e0dda16270b810be6b7e98154660c111fdb7748ad5fd4d4",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "5bfb9b37c3e0af8c935f8c68f384f6ab48790ea84a8d34f75a790707762aaab5",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "3d6feccc4afcf151218403ad8690a95dfedebe344e932e59d9734e8997b252ad",
+      "text": "User And Assistant Messages",
+      "hash": "7b8edd415449f4f8f4e7ad7f138d7b2e2a03d55619369c6be707240d7dfd80cb"
+    },
+    {
+      "id": "7c3f2157071ee7979574f47ef2398085b6025aa122f9b24141f9ac90d6f46d7c",
+      "text": "System Prompts",
+      "hash": "4e524d37084f7dcc226a88f1e0d227cffc3d79ff0195f6b7b62b04d9bd4c0910"
+    },
+    {
+      "id": "dca398b757ca4570b55fba9bd10e78ab0bcccab66fa1d6f82f1d4511c555486a",
+      "text": "Reasoning Tokens",
+      "hash": "78a4ef8bf500cfdb6485e747abb39283c4174a23baa0d789052f95723ef6ceb6"
+    },
+    {
+      "id": "20f5521ff49c9687738a17c9ced07ad2ce1fa203f1fe4354e6332cbb5c560945",
+      "text": "Tools",
+      "hash": "ea93d6a262ecb87a9fa4d09edbd7654c046597936a8e235fc3949eb01775ff99"
+    },
+    {
+      "id": "a568dac4fcf05b71cd4b9199bd319c5b63da6518d9c3d9f8ce33d614a23d84d5",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "ecdcd66c27ed5c9726ba7056dc153683338b2c6e241a5d2553a5322d1df05890",
+      "text": "The first part of understanding LLMs is understanding the protocol for talking to them - the messages that make up the conversation.",
+      "hash": "dfee8c5c424fc6351ea7d3253a2db9de77c488f24c00631d72faa537394d6bdf"
+    },
+    {
+      "id": "e13ced158e4279fa9fdb9dedc5512f41da9fba0600880722478baeef23ad30c2",
+      "text": "What is a user message? What is a",
+      "hash": "ca0b2a16ddfa065d2cf9bce2776d1bfc2f5772b969d7e2bf40a72305f3a9c0c2"
+    },
+    {
+      "id": "72203d5448602a13ea4577b0330f0089341980b2a60977fba3788d82243c1fb6",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "82724900a4f21945a73eccb4d1929fecfd8cf63bd307d58c9e80f3b53e06e572",
+      "text": "? What are tool calls? What are reasoning tokens? Let's break it down now.",
+      "hash": "2ab0ea533762a702058332abc57a4334ada52c729137a4dde57ebf7f79593712"
+    },
+    {
+      "id": "0672b3d8e134f347f11fdfbe5baaad92cf474a112e90f24b682369a0d9116f52",
+      "text": "A simple conversation with an LLM might look like this. You have user messages, which are messages from you, the user. LLM messages are called assistant messages.",
+      "hash": "6eda6ada09f133baae92db86f5073684941e8754db13c7a2229032d098d0d634"
+    },
+    {
+      "id": "67f61e67d1e30803231ca73850f1257bd5aeec79f79621dc3753a933156b83c7",
+      "text": "In this situation we're just talking to the bare model that the",
+      "hash": "5efd5da62ff6e8d1ad04734d0cc567894ffefd3f06101942483ec65aaf4353eb"
+    },
+    {
+      "id": "09ff505d9547ed54e2aaa97271a20cdcc3a6a3fb9d553168dc5a3625a88da692",
+      "text": "model provider",
+      "hash": "246b63adac7f39ba5bb454147f02345525eb942a929d0640282e7d17d229e313"
+    },
+    {
+      "id": "8f9adbc47e4d2761f632611475d4c88c7d015de6676e1fd4b331f485f71488ef",
+      "text": "gives us. But if we want to customize the LLM's behavior, then we can use a system prompt.",
+      "hash": "ad8a99671ba6d09797d51bd7f5c507109e1a4c957aa28df4d17e446669bc1a33"
+    },
+    {
+      "id": "f89fd7b7328f7cfe41673519eeac5e7cc01e147d2223596175cf11d75c821d94",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "1805a60e188c6fc2f1f817a70ea6745d5cb4e32a6d30df5c4de425a900dd54b3",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "45e7b41da4f646e5a3e038f3c02ca16f568bfe804835dd51606df3d21970a0f9",
+      "text": "System prompts are messages at the very start of the history, which are visible to the LLM, but usually not to the user.",
+      "hash": "69dc1eb8270d90b83b7fc0b090903ad5663706718104ff2eb63d9082e2004771"
+    },
+    {
+      "id": "b8d47c6013dbb0fe29f3cc936853050c93b1f8cb0ad295f2b01ffe410538f394",
+      "text": "They're powerful, too. The LLM, if there's a conflict between the user and the system prompt, will usually obey the system prompt. For instance, we can tell it to respond in Morse code, and then even if we say stop doing Morse code, it will reply in Morse code.",
+      "hash": "52776d65f437d9f9088066cfbc2ac7ddb59cc455128f64814f54af9ec04677d2"
+    },
+    {
+      "id": "68ce658e8ace21ce7f5b79c03d4c20a5affb6871520ecfa988cda0a5f0d646aa",
+      "text": "Of course, this doesn't always work and there's plenty of examples of people jailbreaking the system prompt, but this is at least the theory.",
+      "hash": "9fc9e2533a5b761df52e02f6325ac18a4bf132dbae88754791a7954f5c5d6567"
+    },
+    {
+      "id": "2da2b73e85cd366f68f5875854ff8cec722284c1874f20c95d344cafa1aa8352",
+      "text": "Lots of models can send back reasoning tokens, where the model appears to think through its output before it responds. These reasoning tokens are just another part of the assistant message.",
+      "hash": "cc245d5bcbddd56a17959d1afdcc5a75875be34294655f892889c1ed5f6f94d8"
+    },
+    {
+      "id": "ed727f67bb69f10957f0f6071265dc3adafe7f6b923fa0363c41e0edfe708542",
+      "text": "This is an important concept here that messages can contain multiple parts. This is useful for file parts too, where you can send files to LLMs or get files back from them in image generation use cases.",
+      "hash": "ee34160d30b0e88e23ae9d61f70420d6206e3a7170b0c8c13010b86eb5471694"
+    },
+    {
+      "id": "1d97157a2da4f7c4cde637d0fdc75923dd000a2fc3f4cfc861613a64d6d50ab3",
+      "text": "For instance here, we're sending a file to an LLM saying summarize this PDF, and it replies with a summary.",
+      "hash": "632e164532616d941ceee4c263a28a8c59f302906934111d084dc569cfd9e232"
+    },
+    {
+      "id": "101abb92e7c9a9af852b0b25adcd79045f6c25f9179a185371a14c68d871476b",
+      "text": "With tools you have the ability to say you have access to a write file tool to the LLM. This might write a file to our file system or something.",
+      "hash": "527f0291c6a3917972388ec440fabb5be7ad2f133d04ee7e820c8c212cf57025"
+    },
+    {
+      "id": "94a346fc0d49b2b4cf1316043e7aab64743e0829c49ee2728d7f881f1b62ea91",
+      "text": "Then the user is going to say, write a",
+      "hash": "004fec7f010ad5261547c66090c78c68ad777f28075126bbf76f02567b26030f"
+    },
+    {
+      "id": "adce17fc042f0a347400205b16863d536659f95e1730d0f7823270741c97b9a0",
+      "text": "file. The assistant then produces a",
+      "hash": "08d670022b091582a729c7f4c2d2f32478f298ba4ef430e6cba70366a1dc06ff"
+    },
+    {
+      "id": "d9cebce2e31e94c340dd85e03536f0ebb73f9b6fb43553fb63eab887c00cfcb6",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "17dfd1472e9b9c6f018720c4b4f24895ee25df5bd4da874816483062b4959ab9",
+      "text": "message. That tool call has an",
+      "hash": "747b0e4812016911a74196f78d27a736322ed0fc9312b5f368c62f4f3bc20fea"
+    },
+    {
+      "id": "4449fd5336f57a7cb4e2b03ad2655f125ad95fe7c840c3c7a2de974f6e6babbf",
+      "text": "on it. And it also has an instruction to write a file",
+      "hash": "ff099748851db0fbfcb33194e3b784ed51831d0e1db0099070f3934a628ecc61"
+    },
+    {
+      "id": "9fcf11e3004749b7786a1d095092bd4a618524e5a1b90060a3bdcb98f059977c",
+      "text": "with empty contents.",
+      "hash": "f2189af8fcc9881d1b2c4ecb1dfdb5c32f733ac4ee7044dbb6db6e51732dc3ec"
+    },
+    {
+      "id": "ccb54288965615c46a0b348ffa8f2dfbfa1ba34286c0b786f076346c564d885e",
+      "text": "Now we, in our applications, take that tool call and execute it, and we send back to the LLM a tool result with the same",
+      "hash": "a88d288421b5933f9f895ae6e5396b6e29e6edc4c35528f53237d8edbbbc1ef3"
+    },
+    {
+      "id": "1b19edfbc72ea3508ed8becbf25d9ecb8ef5c500c5746972a99ea9c23a31f7ff",
+      "text": "as the tool call and the result of what happened, usually as a string.",
+      "hash": "ab84dc2808888fa7dea6042a0ef91a89efb5c19e8713147a2b51740f99a28840"
+    },
+    {
+      "id": "fb7575d1c20bd575f4f9e33d81bbae1382171eab6b5570ae6d11f001025195f8",
+      "text": "We get back from the assistant a summary of what happened, \"wrote a todo.md file successfully\".",
+      "hash": "0989c101248e9bc1ba72845568e1f82ee78ed46483640accf4476a8bacafb539"
+    },
+    {
+      "id": "17a0abcd32c0bc777e2add7c14d42836b6033e888465aadae5cfc673c386ca75",
+      "text": "So tools are kind of like a conversation between the LLM and our system, where:",
+      "hash": "df8c5be283fc520b8af0f23178f697e209fd0ed22d75c6bf5d043d135ad6b5ed"
+    },
+    {
+      "id": "af56a1eec922a5d500bf5182ba85f7cb74afde2e77ffd503228e0812c5f567f0",
+      "text": "The tool call is the LLM asking us for something",
+      "hash": "3cda4bb1971317c114503ef3f9a62c01990087ed988454888bdb5f44b85bdd0e"
+    },
+    {
+      "id": "5861f7f5b4600d64ddea6965fe2a26f774b193b4a082ef650bf8785818b435cb",
+      "text": "The tool result is us giving it the information it needs",
+      "hash": "41903710792447709a50cc19feed921351d3f22887aaf93004582dc88cc76f7c"
+    },
+    {
+      "id": "836381b5ba87cc47ad7143972ff73b3c08be19be63067d410e11ddf6c03a2b65",
+      "text": "That's how AI-powered apps like Claude Code and Cursor can do things on your system. We'll dig deeper into tools later.",
+      "hash": "803073fa8c6614dd8da8861cceee66b259fd8869122bff5444d0551009ba0a78"
+    },
+    {
+      "id": "ed4de1c167b4c4115cfa2574e496d8852296f2ab3fdacfff04f0828476d0185e",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "662d956d7ae27037ca8739445b3fca169d0d14ef5d515e504b70680c0d3f1ef8",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "23810a0e75aa798529bdc793814a7464b43c1c4803cf6c6f2bd23dc1e28e6ed5",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "421e5504bbe9d8f0220b0f39080592720e8b9474814637101e49fdb50128bae7",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "98802ce2facb58f725176f9172651bb7d424253d6162bf887f6ef190ad9534d4",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "7693dc19879920036070fa71a2ec46114cd09b6938617855271b16b7b88042ab",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "499274c1a31de6eb449114495552ae88c45006306d7e142237ea8f2279475da5",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "bef1adcceabd4ada7860467925073e63d27774c3d294cd5e540851953bdd9570",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "22e10a1ce6fc12ac963ce57c4d71e83c56e63b0894c864e2e73446d6400c48a4",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "a9704c548e7d74f7e4a76948b554a515aa30e880be68476e081a63b88c11d9ba",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "6a773b91befd4185d9dab5e6fe6146e9ae9c70a22cf658619124bed2e7f4e2a9",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "2e534d2b95a3ddf565958c6a8631eae4b73c84af8b5413bf64543998a1ea0511",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ddd346322938e07a3c9fed6e5d0106fd797f896542a9fb34cca06eb6f23f3417",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "46410527700ef972a258aed68ea05bbb61705665eee2c3a83731de3b57e6c7ab",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "9ce3003d0df92cadedc749f0f70407b1836c6f8483decf438d9c638748b485b7",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "262484609e2788b8cbe97ca9f074a088cb4b46d822cc9c381517566d3de52b8d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "babbe7875463ba31d852ab59d2757e4370e076b09d13992842a28f5d99867c68",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "c2ad3b6f9e09035b3a370cce03a4e39cd56ce482485ab9ddf144fb2af47feb3f",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "75791e6c944bf22a1f225d50dd1f229e59fce7b020f5537ac2a1b76737512c9b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "d365611f77e278fd6b0279d0c8f8851b749929c95940bc340b09977404312e9f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "9706124a50bf438c2dfaef7e23706490d3801a0aaa6f3c860d90336d76db71a9",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "c83e0c8c87ad6db094eb001a12dd0b9f6aa0346721fd654f8b369e1adfe366b8",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "4e27a82c847a8acc9fce1f6f88c35db252c61a2d6b3bd928a5a2bc9534a70c5d",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "315486df2456838124aee1937ae5e535149c7aff202ff19253c2b91750ff7d05",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "1b3b5f89e8c8fef1284d3a17f0c40727b803b26bb78b0733d556cd4c86a826a3",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"11bzc8zcuk55tvh\"",
+  "lastModified": null
+}

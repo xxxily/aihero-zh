@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/real-world-feature-build-with-claude-code",
+  "pathname": "/real-world-feature-build-with-claude-code",
+  "fetchedAt": "2026-08-11T06:28:11.788Z",
+  "title": "Real-world feature build with Claude Code: every step explained",
+  "contentHash": "5d8be7f1b8b88fc4bd16df2334e86174ffe150259eb6a2249adb683030c43bc9",
+  "textHash": "e681e97e0ce448d6556a52496e37541b9b6857ec6a97d4156230a7b3f81e63ba",
+  "strings": [
+    {
+      "id": "4dbf108dfc2e43c0d2e46262f8dd48dd74e5a99051c77a9d4f2f1e4eb22ecf5a",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d64bdaf92c8734de074611637ba80497243545f137c12eee37699762328b9ac4",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ef3244e897f9df0e3c679796ab44c14c0af32b19c382505ad3505f8ef1a99ba8",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "890bb1db81730e93ddca1ba628db19b4afd5e403a6c6eb241bb750c01803d968",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b2034496afae4a87b033a0627f281c183aff1ced0f5fb436bec976500bf5aaa2",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "dbeeb3896d24b937d0f8647da24207d5ea09b9e4c740c3b3f7cc952206ee1c84",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "2e7569bc36cc9e899a9f19bb7f0f0a4918b47f38fcf271d2af37ec1efd71c918",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "3c61054a1dedd4744618177a4ec729fdc3a081ff3d8aa198bbae17a8808c4664",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "0c9f4ff0ea471a35ff1b3f2b32caabff9f011da0f3aace4ea7e4fa96c3ac5727",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "42a538edb0899898e4126084672eb39568ab5d1d7a67e38b9de8859898e8a065",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "e0528f74bccacb3eda911576c99ec5947e3336ba5b10d15cd87334e883d9af1f",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "d42ca41b7deb6e9a49c88dd26592b6ea42049ca6c2d34896e558b65d9f344288",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "f4dbfaa73050131237aabb3f9ac13801ffb8756a1f3cb6556efc4ba54d85e504",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "1637ade04eee31ff94d5c2c5731b02303bb36e56acf11498f147ba421d019b2f",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "47f1b4bbc05275d965d19da412e36c77692fcfa38833e8e7583295415b82acad",
+      "text": "Real-world feature build with Claude Code: every step explained",
+      "hash": "0fe30f840117b4520c0ce377e3c153c186e0fa94332a946033ab45b08f76a1fe"
+    },
+    {
+      "id": "24283c002f7b182bff05dea375db931c4cc62386aee1822dba91ee9f1b86979a",
+      "text": "Learn Claude Code workflow: grill sessions, PRDs, GitHub issues, AFK agents, and QA loops for building features efficiently with AI.",
+      "hash": "aa9389345ab2b17958a021bf6039499c20bb276e549c95ecfd637ca250431c6b"
+    },
+    {
+      "id": "743b6eb42c40c34f694120436ebb5dd6fe860e2b1cb370f50e4da8e0c39a4166",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "5fe3993ac27b8144a3ae7c29e824a8b093fc98cde9b366bb5cb7c42fcaf2c4be",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "4b912e70d3d4de725e09351de6e1c098f0900bd347dfb7164314cd22bc99a2d0",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "b0de3e0f560f65dac0b0d9f845cade1557b6302e0283c88abd2147a55f2ab951",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "1fba39c6cb687c44adf1819546203826d06bdd0f850371dbf56badcd90e9b39f",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "1e6b9fb42d545ade82e5b6c95198a274759c2d250f2b9b3cd6c570cb114567a6",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "6455d87f81145b550de5d365f5e6368e8bf81a2c185d477da297985ad77eb7f8",
+      "text": "In this video, I walk through a real-world example of using Claude Code with my course video manager, a React Router application I use daily for creating content, organizing courses, and managing videos.",
+      "hash": "211df2797071a49d0a594bba5f581ce4ebd174190a4c61356d84817716332afe"
+    },
+    {
+      "id": "c243f597a858ebb8b19cb13c496b1f611408b4c660b5c0f3d9c34601231c58d8",
+      "text": "I'll show you my entire workflow: from initial feature brainstorming with the \"grill me\" skill, through creating PRDs and breaking them into issues, to running autonomous Ralph loops that implement features while I'm away from my desk.",
+      "hash": "0b63bfecbe5d9e0f83e4f3b11be1c9fa1ea0501577d7df734f512d1ce3b747a4"
+    },
+    {
+      "id": "d6e952f7a6571ad964a9d6ad7b8958a19584cdc09e2a7a2b69718b9c16890a27",
+      "text": "This isn't a polished tutorial. It's a raw, unscripted look at how I actually work with AI agents on a real codebase with over 1,200 commits and 637 closed issues. You'll see the messy parts, the QA loops, and the decisions I make along the way.",
+      "hash": "3e33e6d9b3b0f607a1f1b9145d8f645dfd50d68624d4aecc7e44a46f593985c9"
+    },
+    {
+      "id": "564490e493e80fa96fe2130c2750c8d5bca4f32ce2c6cf0942ea96a91a5ec1ea",
+      "text": "The feature I'm building involves improving how \"ghost\" and \"real\" lessons work in my app. Ghost lessons exist only in the database, while real lessons have actual files on disk. The current workflow is clunky, requiring multiple steps to create or delete lessons. By the end of this session, I'll have streamlined the entire process and added support for \"ghost courses\" too.",
+      "hash": "577a8a7b6580668b9b9f4fe09717bd180fa7c87eea48eea3b03a558a47407f51"
+    },
+    {
+      "id": "9c1f379634b724f88d41865f240ee0212c1e3a56e337ef31f6533db91cc686f0",
+      "text": "If you want to learn these skills from the ground up, check out",
+      "hash": "4cd8eef3b4873ad1bf42be5a9323e8df0f9fa90cfb983829ee782d90f8d904fa"
+    },
+    {
+      "id": "b6b3bcb331c000b830e1ef0150b70fade8bb18df3bfc1ea96eb175740e16dc75",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "d00e1b31eb2f40c2bc6c42385255311818f66a5a6dee0486f7d32a1e89761b0d",
+      "text": ", my cohort that teaches you how to apply real engineering practices to AI-assisted development.",
+      "hash": "9f231150112579b98b7315baf0ad99d1ff4c12101d96a9d58a2ead6f734db9b3"
+    },
+    {
+      "id": "655b6f8ad92bf5b31576d0f233b76ee7641e8025140572f587c7ca8a9efea5bb",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "7d5fa2f4a19fe0d01f61157f27565b60be498aa9a90bb6e32ddee641b0d4974d",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "2dd59a6e75fcfa67c73c9f1202c2896b26194be6a30faf67ff7be61a98230154",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "3adf9d924fef0f7c5d81fa6198b534e231bfbc838094c8868910751740ef9bc6",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "43df4123d2f92ce010441ec409f6fb1f7881e3a94dd18af569916b08b1740a78",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "ee8f14081423069d8214e38f9829216cbc6fe594d8259c2d0c0b2f21ef25ff33",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "6dc559d1dfb4f65b124caa38a4e7a819c68925c31443588fba117c6a0c021d66",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "d727557fdb4ceb57aa10b03256d452f5442b66c18f1ec22e92952a725e212824",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "eee60dabd46e1761ec03e5192ea5f71164790e97b476782b95284561ea7b1ee1",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "e5cfc7ac307de0bc9ebb7971f859c046fb03be6330c99c3a1b1e06660de28320",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "077587304510d4472f6c9cf74c67b2e72520409864bd0ef3fe72a37993240b5e",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "82d0d7513cefc7e207bfd737b4d865bceefa6ecf14c4f6f9bc5b0d141e5238d4",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "e6accc997de0174d2e6ca7d4584669458a953b3918807ad486452f677847cd23",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "3c8cb94ce403ebaea4885d20b6ed7c5247c75a0699df7b68645fa0b6021dceee",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "72ee6967f9d14e02a55d50ceab252572752588473ebb6b07b238e04b3393980f",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "6d9abd61df9e70f68007f30070aa63933b120dda08404e30e44628f260ffa853",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "482158e007174a0c1748ac6227f92061484fe014f68a2c2a0e615668d0e88016",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "409329f030994f4fd9f28a4bf263ada4578c5eeb27c5bdde6f2287dae65f403f",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "4648c3140b048f9e12b0e0870541ebf5070c0d2e80d9c29da72dd70a5afde87d",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "cf1f490bec0dc90ca75a807ec671dcf63fbc05a02aa92d011b26bdd06ef8f972",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "ce97e2674029c0705cf6c8cb61f78184e88c1922622db74369eed57513b9b05f",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "a709c587dbc421e93d56560670679581bfbd3af6ba096cb7bb5ac5c71021a53e",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "e2d23378c39dac966d10236808c1edf75abc1eebfd900e26ef7ac244120273ee",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "a562950f7ec68cb64bedf94101f7c00d99d98f886f790cdf30c07d728732ecc4",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "57cb696fdbd1378fe66e0c28e0e104e49b956dd93fd13145c934bc1eadcd928a",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"hk8d3m26w9641h\"",
+  "lastModified": null
+}

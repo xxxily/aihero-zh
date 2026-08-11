@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/securing-your-ai-app-with-guardrails",
+  "pathname": "/securing-your-ai-app-with-guardrails",
+  "fetchedAt": "2026-08-11T06:28:16.657Z",
+  "title": "Securing your AI App with Guardrails",
+  "contentHash": "d0250fa9c41d5090bc254b9772df51cb695b83da41104246902c6eb3c133262f",
+  "textHash": "afd9d37ab3a9680619eca4bf4014c50be6c32983f12b125c4cd749dff7d0c35b",
+  "strings": [
+    {
+      "id": "f195673ae8978b8fae2d6fc98319ed3ef160f82e67691e5583ac6d73429bcd52",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d93d5b094622ea5998551680c580d902e7a374554a6e573b32da98dcdbff011c",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "d332afdc6e551f62a0c76e1ed407c808266801211b0660842b9ac190aec99123",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "57ed2311ceb89d92569088bf4415344807ed0a709d606aa4eed1da3bd37944fd",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "358ee6c3d98dafb9c17f34c5de305b3cc9305cc2837be60ab9c15533565befdf",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "d4c419e7f62105307d1e8fe4d7367737fee4d3b5dece0ab36e267643e7b26dae",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "6d41515a10651a1cd23daa896d4b5c1d813f9b09b21234db46194c8196dcf971",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "9b2b318f0e4a67a2ec486cee07d70359db78e482f15412c6804d0cc5b489ec7e",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "cd95ae71ce356341b224f92184d6adeaa19544dc5f5706284c507c8ef82d2b2a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "188a7ed76b28f03ca0f7b6f0422cc62d8cf8a165034fede9bcbfcfb93d18c4e4",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "de6b6bd072c442e9438b194d286aa2209bce377164f68b00041fdc5ba22a362b",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "f6ea050b718b7b39c2037a5eff3f5550fe650ab4fc017a98032e84de7f0d09a7",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e8a3895a3e3c606a77969758e911b4bfc1c3bc2208ffc3dea92fc487431c036e",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "f818ef8344b5f270a822e2b1dba927a8813a8a0800edcb4e72f242ccbd186c90",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "a36cd1f2189d3043868385ea728dfabad2104384a6eb3d3060a4f51068fa7cb4",
+      "text": "Securing your AI App with Guardrails",
+      "hash": "97ec88b00d11ff56915ce008278a649936da3baae99bfec86379c3cb21048d0d"
+    },
+    {
+      "id": "76229e37cff5eb105777163b2310a4da92e3ea17148ff4a1115573eea92d0909",
+      "text": "Secure your AI app with fast LLM validation using TypeScript and AI SDK.",
+      "hash": "db702513c54a87a82bfa4cc7d2ff5ece755945371376143ce55faa68314fc5bc"
+    },
+    {
+      "id": "7b59abf685a8f3b293068c11ae78ff98d3da749d7e9058a46c39a3a066b12c2b",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "1d7dc3844793c7c59daac58fbd2e51bc0b406bc95a7d83aa04045c91590d6d62",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "4a97f083bed17ec7a3f7ac798940118bebae87ddbc70e47fca398b916eb7ca62",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "a7cb2ad6cd3501ea852471f9ce2652f8165dc32ef7c6af9a1b05a5fc2cca12ed",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "9b96cc191e3dc77ab2e6645b12be3ace015c615a2f5f6342dcc97b01492f8d69",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "4cae4131fd27f2d069d7ab0c52a8dfbada8dcadb9db72d4648215bef4b5170d5",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "1c995e5758b67a445faca93b0cff3e65f4cab519419116c82b922f9bcfff349d",
+      "text": "The Fast Model Approach",
+      "hash": "60df551c7f47b3d215b6bf991f3f3c25cbc44c1c90d500340b215764d7635d27"
+    },
+    {
+      "id": "b159949ecb1da3925bc868f220f9d86fd80e28a3b05e4ec8a9485dca47538894",
+      "text": "Alternative Approaches",
+      "hash": "176117b86397b37ade446207420a017164ebd50e30d16c0ca96ea802069a6c79"
+    },
+    {
+      "id": "6401c3171d9ddbb59e132b0a2f4294a28fde9d7ddcd2fe9a89fba2e58093444b",
+      "text": "Streaming Text to the Frontend",
+      "hash": "40e51828b49af1f78cb149ee0799989996c9bded8070a20309c3af932fbc9106"
+    },
+    {
+      "id": "238f78c36a310a7e7c13aaf99033a1c70018d1ded26a98fcf2b373d71266a30e",
+      "text": "Continuing with Normal Streaming",
+      "hash": "420aa1de7801ba9e5d3a500c821f061f8a5189da09c1f8848faff17c2914d55e"
+    },
+    {
+      "id": "aca74c4155aeb4353824d179cbee1aa6997dbab0efcfcb38141466970d5ba4e6",
+      "text": "Applications of Fast LLM Responses",
+      "hash": "0d74b2b8ab0b46e07c0c934b7180f8233d5a27d569c1cf1973f743ad158a63eb"
+    },
+    {
+      "id": "c77ae64cbfe41b98e210ab3d57a22438004e0b0e4e462dabff16c244c186f627",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "22e9f4c78a5e19dc7269c91cc8f1dd25ed90a630ab12ada031d001892be2df2f",
+      "text": "Here's a pattern for validating incoming requests to your LLM application to make sure that they're safe. We're in TypeScript and we're using the AI SDK.",
+      "hash": "97e34cf37fe10cecbaf0b835acd1fbd34316dfa17e6bdaf305b65936b9502052"
+    },
+    {
+      "id": "dc347fa10c4b1f0523c02762ce5fb34100f30c42cd3cbf2611c31681a5601d4a",
+      "text": "The juiciest nugget is inside the",
+      "hash": "60de98c69cf57e005dca531fb0c4e8fd8d3c48aba9c9154f6059881c8dd39ba0"
+    },
+    {
+      "id": "7475ff5aad045a2dadf39826b1bd9dbc008ca58783a80ed8b352bddb9c02e5cc",
+      "text": "function. The idea here is that we use a very, very fast model, in this case Gemini 2.0 Flash Lite.",
+      "hash": "b47a1f1389813e4f325b6083b13c6bf4c5d5332d03cf62c40f0ee533777b743b"
+    },
+    {
+      "id": "987c00f77429f7e472e5ce9e8ba3a21524b2c8c72c806eec1168c091b9b2871e",
+      "text": "We pass it all of the messages in the conversation history so far, and we get it to run extremely quickly by only returning a single token. This is done inside the guardrail",
+      "hash": "0f60eac3070274a7526e4df3d048af53123efcbb10f993a9869381d2897af884"
+    },
+    {
+      "id": "db32df6f12f2630b86e58a71b9f5d2b51d9288e26d3bf324c0ec34dbac83ee76",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "1754837312542a78cc80f1bfdef4705091b8e0f3caaccf8f3d186cce06481471",
+      "text": "Because it's just returning a single token, this will run very, very quickly. And it means that we can do some imperative logic here, saying if the text is exactly",
+      "hash": "de178f01856adadb2dbd3342b3dd2350d3c87cc41b93b133005fb74337b75685"
+    },
+    {
+      "id": "abb059291db7bfbc96b0637fc4f1c7c8e597b13ac0f175a1eb0bda68e1de46a3",
+      "text": ", then the request is safe, so we can return",
+      "hash": "f1e47dc3f5c67da23913fc02f80352d3db0ec3b98d2d4b78b8079a666191d40c"
+    },
+    {
+      "id": "399519786d5e5d440fa2d04ebaeb01ac2df0a4884c20af64334d6f6b5560c244",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "27a255a9181a36d6d67905c9743cdd0a37f23662669d5d9e0a6ec1be405cc0a9",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "57d82a30ed596cfa88aa74840332e51ae7c9f33e6a78882d8cb273099e156474",
+      "text": "Lots of folks pointed out in the comments it doesn't have to be",
+      "hash": "a0dc80854ccced162ad67b8d1c821122a35e7c7a730b9b0df81e3610c7a54bd1"
+    },
+    {
+      "id": "709fb9a1c74d8e33039127cfbb1a2bafcec309921562ef6d858f017cf86a7e9e",
+      "text": ", you can use a single word. Since for the LLM it's actually generating tokens under the hood, numbers.",
+      "hash": "d9a345e055778872d7d2280a34ab81b21ffef3be16ca3918d76e526e4a8cd400"
+    },
+    {
+      "id": "adf968dd08769bb9067e0d42ec12c396970a90c14ea3793286ccf06e07ee5713",
+      "text": "So it would take exactly the same amount of time for it to generate the word \"safe\" as it would to generate the word \"one\", but this is the implementation I landed on and it works pretty well.",
+      "hash": "5ed1373bd21e4bf64b4a5421d9e62ac9576057845e87dc54237259fa45619629"
+    },
+    {
+      "id": "9713b85b4350f62043560e5b124ad2e3c9079f2acad3ee6e834b9e0641e3e412",
+      "text": "Next we should look at this",
+      "hash": "5bd4f448e7f3d8485f1dccfa633675375d71f4d25294e8f1703ad978cde1b19c"
+    },
+    {
+      "id": "451c5253e7c0d46667bbb758e4063398e57d8b16bc0c3cc9e7ecf068a4ca0d6e",
+      "text": "function. It's useful any time that you need to stream any arbitrary text to the front end.",
+      "hash": "ced251745d0d0f2d64754da6fedf24fb720e96a908b47a3eaf11fd65ace18e5c"
+    },
+    {
+      "id": "fe16f4581bd36f21d9b2c2e55bb1d6184ab436695244ae66f335b5044aba1e4d",
+      "text": "Here we're streaming three parts,",
+      "hash": "d16ce8d8c0c7978a41d69b494d6f35c8dccb174233e5179b113cacc7417595de"
+    },
+    {
+      "id": "b525e38b18bff28f51a4c452641f5d6fc52f6f0cde6f52bf280c3f91007966f0",
+      "text": ", all with the same",
+      "hash": "92eb9c5108ae49e722940bbb372be7c245b81a66f30df64f64db44f1ed5b8a2e"
+    },
+    {
+      "id": "239f136b65b1d9e75ff4be9effdfbb9bed7da81896a82ee78011cbecc104449f",
+      "text": ". To be honest it's pretty verbose and I wish the AI SDK would make this a little bit easier, since all we need to do is really stream this message to the frontend.",
+      "hash": "4aab8c473b339ccb953c5b50899882caa94228bc38ab51e320b5e16c775aa3af"
+    },
+    {
+      "id": "679691505da785c1bec22ec7760166e1adfa2713135f9c894cef0bb51518f4d9",
+      "text": "Finally then we continue streaming with the writer and with the model messages.",
+      "hash": "db14ce42bd350cce3780229f095891e4da9aeb60a9b4f7462434904e01b312ad"
+    },
+    {
+      "id": "4e837ca7f16b46458d539818861325a32f51dfd1844f116660f214debe848963",
+      "text": "This is a normal",
+      "hash": "9fde852a20926ff02463ebb433d165231a898e88cbddc58afc1d4e6bdab41cf0"
+    },
+    {
+      "id": "67ced975f5c8506a4bee11e82047fde96f8989d38f33db62a72a8639b375ba74",
+      "text": "call where we're merging it into the writer.",
+      "hash": "9364280935850071bae05ccfe30f4ad51a2efee6bd1320bc122928c1f4f4c1bf"
+    },
+    {
+      "id": "1e7b70aedae491272f7fa364c26f4da1c51fcbd7cd1cdb3597b799d02621a782",
+      "text": "This logic of a very, very fast LLM response for the rest of your logic is something that we can map into lots of different use cases:",
+      "hash": "89147acb334a06ea58a5ddaf9fafb16857aa143103714e511bc06f01312a1219"
+    },
+    {
+      "id": "2ed6a84862240838f9ae391080957bb4c0b372910a6dee6f3d97c3264ef4a68c",
+      "text": "We could use this as a router to route certain requests through a smarter LLM",
+      "hash": "bcdcef797723b80dc8a88ccb916061cc714de141256e645d744028a6d602d25e"
+    },
+    {
+      "id": "04802d8587eec3babddb7d337bb9e24b53e164f2df7568d1bec693163f05d948",
+      "text": "Or route simple ones to a stupid fast LLM, which would be an amazingly cost-saving measure",
+      "hash": "8f63e83ff274a6b786a1c4a9b115efea69687c6ba6e94503d8500d6682e89f86"
+    },
+    {
+      "id": "a910b1fce28bdf0d042b8d3897709b782849bcf53949ffe86d0008fadbd8993e",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "e7c3939f37016bff8e214c2ef8b1c48d8af0cce16c14fbca31b3982bfeaa1f64",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "a994fbe5e8c44965b93d3dfa9a0d30c424ed82978abba6dd2697c3f90e129f9d",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "dfb6d6f2ad03ba3751d1aeff72225c863767959efbfdc91501c56b67b89348a2",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "b4154cb8d7b4a8595cf509b35aa44768d64b4c96bbf8ea689bfe8a3d438a4f45",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "9cc68027ffe20ab5ea36ed293b00578befd1652d51f20365c5b90d5123939de5",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "f6a8c6704edaebbc95e8d3b89d890069d08a79bcae3595597d00eebe3eadf965",
+      "text": "Article · 19 min read",
+      "hash": "c04cee9189899b5c05e6c2a85bc179840bd49e565bed37b8e9f787b9c0eececc"
+    },
+    {
+      "id": "f0e373bb3e370457c75f764bd2bc685b3b144c2fc380d1cd75de4970c318ee2c",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "21d5d1ef543a87c18a44e83512850a1791affe5be077900d36905e744a15b340",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "0a862f37580c82834960c7a6477d3b6c087f5f25aeed600ff22bee5af8ce399d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "913b3e7959ff1cf87e049e02baaa51d632ff8ffa3048f926e74e60a5c7f5927f",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "7d028be4a460d36d78c4e56046b5b8e029b1a4a8e1654c5e4cc3b36d53b91d02",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "5c3383885c5c89a52904bc8a6fe29b7a57ad806b5fd4513caaab18985505da3b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "f5beee8c32dddad2dbfde90a2ced68b8f31ebddc13e1e5bd18235647f205cdb7",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "58c63b2505dc2b0c8cfce55f2968f07fca27e12a15aed420b0763a0a8c76f659",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "37da2a44eabbdd5791a9f62cda38d2b5125a4db53c85b00e0f94b01e4ef2954f",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "84ab9a07399963424011bf4e5437c0c880843b42c4320940bc3afab4086728fe",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "799dd1584dde47a436e4248a541e1f702d3046db33fa5acba8610d3a6f5acc64",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "d2d438d1b6f33900bc53bbf647ba4bcfdbc1573f6317ca22c872200f79cd04f0",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "4901454474319984bce553ac7f83791b814ec8a27d791639bd45b13281379b52",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "db945c4f8b5caedd0bc582e667859271645a4521da14fb59e20029e3b4924e6d",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "0306ba6667e0993261863489a3eba81be4acf9f3f55b3ab4c229ceea366a7b59",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "10bad09216614e30f25e24aeebe36f30e8761346a25ff8a9a4d2120b7f9f6c5e",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "eb310065e129bc6ea6f8c876073d33b07e0574a5463bc1fda8e9cbac0eb76eb9",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "4ada3c7252618d1a5e6a342b7967b142fdfca807d754e750773a1f3bcf5f904e",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "412b83d46bdea74a9b2eef3cf09dfb08fcdbf9b8ce9fbcda78eff3d91134ec92",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"3qra7rwuet6jc3\"",
+  "lastModified": null
+}

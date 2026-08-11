@@ -1,0 +1,1043 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/a-complete-guide-to-agents-md",
+  "pathname": "/a-complete-guide-to-agents-md",
+  "fetchedAt": "2026-08-11T06:28:15.319Z",
+  "title": "A Complete Guide To AGENTS.md",
+  "contentHash": "39219981c225101217a44804f65095eb0b8017879aab53e9bf97a73bae07e6ad",
+  "textHash": "1f75bf946021dec436ee1816028f735cba5a6fe67ebd70093454a4cb5c3bdaad",
+  "strings": [
+    {
+      "id": "279cea8c518a8cc9d6d89d31c2d4b9c5f42a396e04a85355cd2b5f08be7399be",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "96c2bf4d1cf4f593d2dff2508115ef8dd3f8a06131551691660b3d390d660656",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ed6d28171aabec52a565d33679e7f2eaf6b10c9a3c9105fc66c5fc93997dfae5",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "7d54f808f4cf43f1a67a77f75c75d9a229e289bd3766d8b6f10f574d3fbe3a70",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "6b3652ad891ade3754796da6eade9e8b8dd79fadefadd08c9a654552b58114ee",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "5735a2ff4f8c3f3018efb81551d81dededaa2e8443bdda40a0d3155ea5e35c13",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "f494cb32009c1d8ec1786cd238c015b84fb4517f241f2809f0b34c557747ad77",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "a3ab42c0ffdd15785cc00f18d009086d79b415396cd3a050b309052e0ff5ca4e",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "2a72f11b1a8573024e3f0b4e1f5b8123da114a8807e4284723a45f73223c6ba8",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "643cf611de4869abbdea7a6f5b099b762097d615cafdd1cd78adec48bbff7b27",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "7b45fb48ee3f45354f84e94f23ce1733d852d7e440b6e59e90338feff29e1bbc",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "f410785481c4113f8c37fae3a6b5371e22ae7385904be3686b54b9995f4975bf",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "aa993921ab1048cf5125df1f4f743cc64169e9a24e2f14ae6e77d24e9b32afe7",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b4e339338e8f8d4b0a7acdc413c0293ea1e411a815acc848ff9109efe1613ed4",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "f034982d6438cba847ecf3c3d965caa2260526180e0fdaebd1f066b1165fb5ec",
+      "text": "8 min read",
+      "hash": "6e6ac5bd417366f34ca54b0178d391db0ddf43f03a7e1d922a139f2f188b2040"
+    },
+    {
+      "id": "12fc4683ca910dadc6414abe60bd3e3d1490c8223e3932ee8aa5286be33c1e4f",
+      "text": "Learn how to optimize your AGENTS.md file for AI coding agents. Master progressive disclosure, keep instructions focused, and maximize agent performance.",
+      "hash": "64911cacef4fc5519600ebcdf7234d51c541c208299e1e40c575f0bb1e76212b"
+    },
+    {
+      "id": "e6de4222514aefcb385b6f5b400f884262169e5246702e6a5fe2cb9a30f374a6",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "89b660fd8316ba548eddc8dc641c160fb0c5ccf6159c09f50d58a5049cdbb0e2",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "e55a72f39b91010d4e10f013edf9861368db51933bd72e44d607e85dbe51a92e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "a7350697806d5aaab9e63b8fc55c2b4f184654daf5f7f12bbeb1b57f299d4cb4",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "f47bef39ff587f009e64715bd1fdb8ce1359ffbd1a7731249cde08f269a63ef9",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "8ff3e28ad2dead16096a8fc5f3d80c5156b9432969ad3d433dffb5706c52e69e",
+      "text": "What is AGENTS.md?",
+      "hash": "2328e1db6829a9c40c594583631250665ba84aca4388c063088e1bc5ba840d0a"
+    },
+    {
+      "id": "a519f1000275d751d1eeb0fb16728fbda225cdeac48446ff767a52f2ad9bf6ce",
+      "text": "Why Massive",
+      "hash": "bc87481b88fe811f2ae066e9b733a526a7adfe5fdd6dbd2e7923994bf2b9daba"
+    },
+    {
+      "id": "7f354358fc80af56f1bcc721b0369ae8253b086434ba462346d3eb0072eae509",
+      "text": "Files are a Problem",
+      "hash": "9b48d432092a12daeab437a2c81ed26e11826a3d9584f3fe520c4b58bb6f3338"
+    },
+    {
+      "id": "741c2983ac71b4213f542f1bec3ae84379f09901f730531d3578d814f32480a7",
+      "text": "Cutting Down Large",
+      "hash": "a280b172fb0ab51f3808a7eda6ead77a09c9661f4b2e3ab0299bf0a5ae401d6b"
+    },
+    {
+      "id": "988ec70b6d748214075ff3bc8e8dba08f63fdb0e17ffec3615dfe68da02f3017",
+      "text": "Files",
+      "hash": "abc7e9892806b047b4d4786b3685285543f76ca314c4c76246d5f6544c7856c9"
+    },
+    {
+      "id": "f496a8b3cd1fd4e1abd5efab1f3d5c44e6f43046758e3ea0f3945169bbfe69d1",
+      "text": "in Monorepos",
+      "hash": "b5340700137e6111c77e309780e1e8bcaaefb1fbeaee2cb6a47ac395129cafdf"
+    },
+    {
+      "id": "1c056bb13c0607741b6d3431b9ef3436efd8651197b427b5e98eae26b8b34538",
+      "text": "Fix A Broken",
+      "hash": "85ce80940148d7b412346acd4233f2385a13fd19e27295f3b0a94515c050075f"
+    },
+    {
+      "id": "c6f88e198bd7bd9ef2233e3c7cd8b9f928fead074816522bd91ce92f93763461",
+      "text": "With This Prompt",
+      "hash": "5d27f84e1b9d74da421567480d96afe2490a80e6f7c578f42ae058bf901e9af4"
+    },
+    {
+      "id": "d029f029121955eb2608869010692339283c5bf8b165f4636722e35e47b6c719",
+      "text": "Don't Build A Ball Of Mud",
+      "hash": "bcdb3c37da9c16bb81a7f082dffa24c8e63ba33350fe548c61f6150e0ab9849d"
+    },
+    {
+      "id": "a960d5c9b616464d2ce085c83e216fca03ad56db2996eb2fe9a7148662d9b75c",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "2cd852f29529662323ccac6bbe3aa868ae56cad4b036829405d512eafac6f691",
+      "text": "Have you ever felt concerned about the size of your",
+      "hash": "3616c9c71c425f22e5eda66899e02c29ee366b952149dccc2b50ebe4fa77bbf1"
+    },
+    {
+      "id": "5c021b64bea269a29fe94932f54e5fcccaeb748d6f1892d628ee7bf069b4aeae",
+      "text": "file?",
+      "hash": "4d1fe553787c3b6d3efd287bb468bcef65797736ee8a4b6b135ef777d7591591"
+    },
+    {
+      "id": "c904f514c6cbe3687c256557d8ea62396202b694141e0e1d67eac5628485ac17",
+      "text": "Maybe you should be. A bad",
+      "hash": "d6655bf655aeeeafaf9ab1afb0a54d0545e08ada80afe36e6939c65376707103"
+    },
+    {
+      "id": "1d120ad2fa08757763720944c8994abccfb157dcdc9f519825adc6697c18048e",
+      "text": "file can confuse your agent, become a maintenance nightmare, and cost you tokens on every request.",
+      "hash": "ab51bc6a9c413d84fb9e171c903f3fd50ffd55950219f5b002f36be5a008df6b"
+    },
+    {
+      "id": "95057817910ae8b65cfedd209731fab8a2a0f5066d9f5e0b73bef9d47823a14e",
+      "text": "So you'd better know how to fix it.",
+      "hash": "2308245b883d435dd90ba580d96110831520a1233295aab2422832b1c9c2db74"
+    },
+    {
+      "id": "ef1f0394d69c474601158a4346f5a70c15ef741e517e4786b0ce26c9d2cc590f",
+      "text": "An",
+      "hash": "9f98b7c7f071714517d9a5e67c135b41fa3e91f20bac108158b33b073396f6e5"
+    },
+    {
+      "id": "5940c876e3c1c07b212de0bc8ef44a448e0f24d585aaaa8f11abc9b94ae0971c",
+      "text": "file is a markdown file you check into Git that customizes how AI coding agents behave in your repository. It sits at the top of the conversation history, right below the",
+      "hash": "3f1a51187f3e8f9bafc1b047721f52b35282e4fe9ec7c842edd3950c8e6d2482"
+    },
+    {
+      "id": "c9fc465b241cf0fc8895ae5a02839103a97836f97498f49a3806452805b96248",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "c62eead20e1b8938175f8be2dbd008ea08d7890860a934c2fce13dbfc225dc03",
+      "text": "Think of it as a configuration layer between the agent's base instructions and your actual codebase. The file can contain two types of guidance:",
+      "hash": "0196197520fcdc5e602ff2d399cbcc357a817e48e1c3faa567ce22c3dbf39f45"
+    },
+    {
+      "id": "53aff30fdd5d4293cccd97acbba9a21baecba19dd6f2aa64a16bf7bd3cdce04d",
+      "text": "Personal scope",
+      "hash": "7c08a0344534f7cc0fcc6b2a6848bdd57928f74fec176d7c449b1d82eeb575ea"
+    },
+    {
+      "id": "fe457c40d1112ada934280e380b15b5b5ac790a62c8403d5de528c35f0f8400f",
+      "text": ": Your commit style preferences, coding patterns you prefer",
+      "hash": "a54c053bbbd0f51accfdc9d792cd4dbd41aef64b02f2d564709f6cbdc8a47a9a"
+    },
+    {
+      "id": "18f3b6bf01d2fb5b568bc3ba73f1883edd472d554d26da60084b8b2ec906289f",
+      "text": "Project scope",
+      "hash": "64a01bdd27ee7285edbc3d53b771d78b00f01236577661a5a143895059801b9f"
+    },
+    {
+      "id": "52a227ae690baed5e8d14260c85e9503db633152dd36ae70f76167e440fcab37",
+      "text": ": What the project does, which package manager you use, your architecture decisions",
+      "hash": "efe831d405477cc469794307b7a7b5a8b813b12c179f1170bd9dad01ac014079"
+    },
+    {
+      "id": "57e5b9e7beaeef4035711dcfbd1f022435a723c9700d42378ac867eac8734f45",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "2b4938152f30679b51921ba35c24214622ad205057f9a7552ab902776e329837",
+      "text": "file is an open standard supported by many - though not all - tools.",
+      "hash": "6bcee4944bb1ab100875b1ead427792555055b9c4f1b817d490fd55d91429b02"
+    },
+    {
+      "id": "307330f37add536e0f2d0701d9899a0d62d90da5bbdf6cbff3975b8a7c65f6a8",
+      "text": "Notably, Claude Code doesn't use",
+      "hash": "3db67fc78a9a1c4dfb69bdebef3d8fa91201261b8168eda162784888f6c22e8c"
+    },
+    {
+      "id": "c045caf110540401743aa5f5e174410d52ccc5481b452cb447365f67bdd3145d",
+      "text": "- it uses",
+      "hash": "c7759e47d407929e6bbf4119fa1eb8e6f1ae346a9ad665e555bfd5fc9bd32784"
+    },
+    {
+      "id": "a31c44d2611902601688f4924924c3a70b9543a8b523b8256d0932d9367df522",
+      "text": "instead. You can symlink between them to keep all your tools working the same way:",
+      "hash": "b54f1f2523ccc53718e89ce3e0230edc918bacafc7ec4cb468c5b1d586852e52"
+    },
+    {
+      "id": "3655d2b8d1cb952adc0c1507da8e58b4fbed5d4254ade8aa471aef6993a1a03e",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "0fb6f55fb4ab8ddb263df58b7b7e928e3a0c4c90208111257e3ffa602c69ec73",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "4c907480daa26013058172761e5f6c47a9cc08ea637f38346aad1059257ad23b",
+      "text": "There's a natural feedback loop that causes",
+      "hash": "7fe9ab0a210b09cf8ca73fefe309afb8e56cbeecd054956a25259bf16b1ce2b6"
+    },
+    {
+      "id": "a4fa00cd22f9df1ac4b0f3a9af780084fa4109b18ab9edf872273088e414fb77",
+      "text": "files to grow dangerously large:",
+      "hash": "a3c5dd834110770a7cb263a6127102caef858eeb56b98494d05ea38a1e5123b3"
+    },
+    {
+      "id": "f9566569eca9cc0d42780b3c28249b8534fd5d071d0a889243734f92cce9bfdd",
+      "text": "The agent does something you don't like",
+      "hash": "d929374bb41eaf90c53cd3f3ee9af80c4d1a4c98faaaf7bd5df5e6883a71bac1"
+    },
+    {
+      "id": "c336747b23650d08eb9a6314085e310900662f62c6d0f67acc66c3a231e31aab",
+      "text": "You add a rule to prevent it",
+      "hash": "d7af8921a30d96e9173286c38a7ee989480573ac706bb20fbda4a302cd53d03c"
+    },
+    {
+      "id": "4dd7db4c42051e77836edbda5a4372e02c64b6c37d1bab0d42e6ac983ff64908",
+      "text": "Repeat hundreds of times over months",
+      "hash": "e55d45af9524f492fca416bf612220efe1b4e5f12b7a2635195f989071ebea71"
+    },
+    {
+      "id": "17271bf64e51495d7d72179afc8bc721cc47436f7864fa8e97193b4ffbb695bb",
+      "text": "File becomes a \"ball of mud\"",
+      "hash": "cabd2d644c60ae55121966d50656c1c76dc459ec3b3c69f5a6157d969b643945"
+    },
+    {
+      "id": "bf981178504fc7c3fbefbf2e1560cf8ec04fbd9c94e4118f0e3089911cf8ce8c",
+      "text": "Different developers add conflicting opinions. Nobody does a full style pass. The result? An unmaintainable mess that actually hurts agent performance.",
+      "hash": "0ce33ec4a60af9d4cf9e5b2eac0dce3c2fd3eaef1d4b10fd0d6fae42f2481bbf"
+    },
+    {
+      "id": "d47df05ed34ca291f7f765b1bf80832c7f6703c7f625e79bfaf350d9b8eab772",
+      "text": "Another culprit: auto-generated",
+      "hash": "6cf71707c2accdcbd7658909baccd91f6e0fa9002a379fd2e8a4d8b8ba6c1cd2"
+    },
+    {
+      "id": "18fe32d849567f215f9af8cc1cc398ca6ab34af012d08c9ad2c293412998ee43",
+      "text": "files. Never use initialization scripts to auto-generate your",
+      "hash": "0ee4fd1ea2904ed501e1a15083c67a0398464be505832f7ad6dfe25e03c47e51"
+    },
+    {
+      "id": "4a8b1de880d16e3c6240b8ba664963ab8fb8a186a76f327c9967f8382b379f8b",
+      "text": ". They flood the file with things that are \"useful for most scenarios\" but would be better progressively disclosed. Generated files prioritize comprehensiveness over restraint.",
+      "hash": "c36595abed007fb70b9bf5a9f8af936e87141060147348f660d9d146bef9647b"
+    },
+    {
+      "id": "a2157d129f8642d2b1cb7647117e7cc1b1b9f05e095fb5481eebdc1de829d87d",
+      "text": "The Instruction Budget",
+      "hash": "85d95f9e7ec6d91e5d808380940de3e7754434b92b1bc3587f4a3c6abd920efd"
+    },
+    {
+      "id": "2ba20752da773c0d000760777ca62e8ee833cb9054ed5ec32ea1d72362fdb10d",
+      "text": "Kyle from Humanlayer's",
+      "hash": "367335a00fa0bc7ac838cac0568880735a849df9a76ed64eead7de2a7bc959ed"
+    },
+    {
+      "id": "0f183f1afd4fdbb8b550e3eb3a2101066ab36825841c4f417d74f4f972f7068c",
+      "text": "mentions the concept of an \"instruction budget\":",
+      "hash": "ebd49a1ac6f7cdf61461f808b4e0ec09cd6fb45841dcac37c60a57af6f62e7e0"
+    },
+    {
+      "id": "3bd8e9346286524b524eacfe0321a6487f11a2fb0b735fb3d2fccfa71346f0a6",
+      "text": "Frontier thinking LLMs can follow ~ 150-200 instructions with reasonable consistency. Smaller models can attend to fewer instructions than larger models, and non-thinking models can attend to fewer instructions than thinking models.",
+      "hash": "7497975dd2c754ed7367d7d0f2f7b415d5537fe022844143281c39efd90145bb"
+    },
+    {
+      "id": "21d073a1bb021a15a3091f7a83a6d3a7ac6b16ff0cd2073d13c1801d0ee2a40e",
+      "text": "Every token in your",
+      "hash": "6f85b803eac00031ba7fb59bcc08654861093bea56f24db29bfe2ff61b2899c9"
+    },
+    {
+      "id": "4a9f79e314096f33e2fe98b9e4c186b048834ec1d869a501b86849e53485fc49",
+      "text": "file gets loaded on",
+      "hash": "7c0a05a6d55553f958fc739b50e95ddaefeaf51230194e4a5a763731ad63c23b"
+    },
+    {
+      "id": "6bc3d420345757a517cc18c0df91d1c49ec59a4e1d40e6b553ace7ee1379d914",
+      "text": "every single request",
+      "hash": "8b479a7bb916e9209108afeb2ffda672d1393eeae691e4a3ebc21ced28153374"
+    },
+    {
+      "id": "6a1e246965524b7fdfbd02c26b7cf84a73db29aab811df8c5c5ca3403cb89620",
+      "text": ", regardless of whether it's relevant. This creates a hard budget problem:",
+      "hash": "c5f1b8e99baf86d996ac31dbe7a0ea0d53e25ac21a1d4d95642b13f5b1ef83dc"
+    },
+    {
+      "id": "d5980709c536980b6cb817d330378eadb2bbafd936bb42b79a3e62fae08dc181",
+      "text": "Scenario",
+      "hash": "2fcb5d374697f5ff760c860bf0cc9e89b27daeef4e404cb74a5ea11c2af02d50"
+    },
+    {
+      "id": "cc58eb0566cb15ba098294a71bbc67e3ddd4408ada32a82fd71e088ecf273c7a",
+      "text": "Impact",
+      "hash": "d1f23f0d13613e27a88662a70ea79ccf4554ff8ee1d7d66b08c1c5d7cd60d718"
+    },
+    {
+      "id": "71db12a40f32a0ac92d04cf1c6a50ef56e54b0d5fe12cd427f8ccc492fc4342c",
+      "text": "Small, focused",
+      "hash": "3cfe92d68be21de0d0baf116416ddf788f6b236492d735308c0a004997b18c95"
+    },
+    {
+      "id": "cb736fc7a1f759db5a4a2c05fc8d2ddce7f6e5b2a703f85fe7a89a865360dadf",
+      "text": "More tokens available for task-specific instructions",
+      "hash": "b6030e3b927b7f342619175afd68fb62e20beb7fb5925f8349f5c04128e55a95"
+    },
+    {
+      "id": "d524cff806454db228960454d162734e4688ca4f0c860b7d85a6fb47b946acfe",
+      "text": "Large, bloated",
+      "hash": "c673de3b9854f2c9463b9dc118dd40119d33407ad52a84753a87cd754b13666e"
+    },
+    {
+      "id": "be110d14d71c60d50154debf55370df547fc3613cacfd0d969ba14de86982c91",
+      "text": "Fewer tokens for the actual work; agent gets confused",
+      "hash": "d95f8958f33c6d3b9dd6ba28aa9bcae3fc7b901569b9879d1d53d929a71226bf"
+    },
+    {
+      "id": "80bc5fe81a5e09538eeff91d434ce1dcf35c886d533d65ad4f059a93318ceb75",
+      "text": "Irrelevant instructions",
+      "hash": "95600c58127438c635dd1c7d72a8714b8fc75930d4a9441ffeef9f5211fc13f7"
+    },
+    {
+      "id": "c86f81e006d5af10fbefa461793fc4727674b6c07aa0247f799dddd18f956897",
+      "text": "Token waste + agent distraction = worse performance",
+      "hash": "d7506940ae7005acb39e1dbbf8cde3eeb68997c06efcfd9a70de5f3973a4f01d"
+    },
+    {
+      "id": "9e3bd777d2490dfcc2cdcd2caa8bd561d1d2c60fcce11087f2d9652a7f5d4c10",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "8862f9ab0d32f0ab5d3b0a3f484111d7427cf558ea3c65239ce5dc9f93b797b4",
+      "text": "Taken together, this means that",
+      "hash": "e89473feb8e53165a845fbc56f368eaf2b48ea8f7d3897fba91ed14c384de16b"
+    },
+    {
+      "id": "8d0e90205690a78e490b2b4bf56f2b8742dbcb691b576e2f6e7f002322e4d0a8",
+      "text": "the ideal",
+      "hash": "169af0f6d2ad7465a9d7c67b0f6d6beb821285aeee9b8dbc13d3ce9162d22628"
+    },
+    {
+      "id": "376e38096f052bac4b8024dfecaff8aa49f4f1226abe2aae9eaf3be1d3ec8d56",
+      "text": "file should be as small as possible.",
+      "hash": "35687889ebc572fcf1266505062e40c588eddfb2325f7e746040e740664b71cb"
+    },
+    {
+      "id": "6346e8c5502c20341fd6329e0ec9c8b25e240a5c075559156c55f70b1256ba7f",
+      "text": "Stale Documentation Poisons Context",
+      "hash": "e4a9f73a965012c711328753090cdb0817b2abdb845b5ed254cb01c8cdf2f2f3"
+    },
+    {
+      "id": "5eb6c483ab4c9546d620f5f89fb347ce7cbdc8441a6e10f75cf27beed0f1e350",
+      "text": "Another issue for large",
+      "hash": "65c02590219e96f5c0170e4afdf9b817161f974d3935a07b0847fcc502e4417a"
+    },
+    {
+      "id": "d1c777fa6fd773d571788d8ef577c82a753ae73c98ca9d4b3f860deaae9c6870",
+      "text": "files is staleness.",
+      "hash": "7673513542321470597682c6b03eb5740033f8ca58371837a36aba3d748fd614"
+    },
+    {
+      "id": "a7e215bd35781df5533aba6d9943310c5a7cfc854213920bfdb921cf7c6ffd2e",
+      "text": "Documentation goes out of date quickly. For human developers, stale docs are annoying, but the human usually has enough built-in memory to be skeptical about bad docs. For AI agents that read documentation on every request, stale information actively",
+      "hash": "4f3d5f9eabe3fa78f2cfd7fc4f048fc218fbe00b83eaed89133cb794e1a34fdc"
+    },
+    {
+      "id": "a0fa2abd6f92979f2a3e841763c41322517b6df3c8338b3691015dd437c8d9d9",
+      "text": "the context.",
+      "hash": "3c0e748f2b7f9c2001d80eccd2cbab017c22e12716034cc4fc0b1cfdaee5f3b9"
+    },
+    {
+      "id": "69d9d7a89700b39a1d6a98fef175866e92e92189a9acd30884fc3ec7d758b3cb",
+      "text": "This is especially dangerous when you document file system structure. File paths change constantly. If your",
+      "hash": "dcfdce90186218b076d63f0724cdd3585b888120a5d5e3332f073598ef66527c"
+    },
+    {
+      "id": "60e4605f7d45aef6824655969df5e0327fad1fc3e4cef7c86ee4b91fa941c3b6",
+      "text": "says \"authentication logic lives in",
+      "hash": "3c9c23a0647eb785510e6cce58cc159d4da865fb19617f5d00ecdf1923f014e2"
+    },
+    {
+      "id": "b8a358bf28f0076cd7863510b4d796f1e4d311ec683d6e410f65a2c73663d443",
+      "text": "\" and that file gets renamed or moved, the agent will confidently look in the wrong place.",
+      "hash": "787d247413271820f566591c5f4d710da5499949b490872b130bf20ef5130929"
+    },
+    {
+      "id": "97b0346749a5b4677bfe07152f218aa0c86092c0982a1fa2d9019a61d77972c6",
+      "text": "Instead of documenting structure, describe capabilities. Give hints about where things",
+      "hash": "dcbcf63e88f288c23bbbfa92c8f773b1760581e08db2ad379d8b30d3bbfc420c"
+    },
+    {
+      "id": "b472250f2c84772d1a5bcf5767bfe868f005725dcf2a14bc08b41a9b5595bb6c",
+      "text": "be and the overall shape of the project. Let the agent generate its own just-in-time documentation during planning.",
+      "hash": "852bd19c39fddef061c21c89314493bfa744a70d1ed58cd801ca6fb6623d6e1d"
+    },
+    {
+      "id": "39cc007ac971efe6dfa9bfdd47820234a277ec6a1dd36c651fbff67d614070d6",
+      "text": "Domain concepts (like \"organization\" vs \"group\" vs \"workspace\") are more stable than file paths, so they're safer to document. But even these can drift in fast-moving AI-assisted codebases. Keep a light touch.",
+      "hash": "1c2c37e4544ef45b7eaca47c1fb4bc930659f1201c87baedb55c0ba11054d18e"
+    },
+    {
+      "id": "f472033559199f446bacece5471b15044e94eef7e39273886abff0c62dc36d20",
+      "text": "Be ruthless about what goes here. Consider this the absolute minimum:",
+      "hash": "1ea32e2b84f7b948bd28bd199e76802eefa1eafcc8f16106f5029c117c80a74a"
+    },
+    {
+      "id": "0c72a8d683e54a409ad1105318383c6b3e0de0834dfa5cc63acccecfd60b1dca",
+      "text": "One-sentence project description",
+      "hash": "539d197e83d9fc067f36cb68ef507aacc94f951f9fd8922f85eb5fc9be49e951"
+    },
+    {
+      "id": "754e0673fb29b3b6e5635305addf66afa142483e76228cc00bd2ddf9c616ce56",
+      "text": "(acts like a role-based prompt)",
+      "hash": "51e8f47f8fbddbe6334b7bbea722248f767ca890c502438e81dbe3ac0a1bfe22"
+    },
+    {
+      "id": "a3de3dc844b996088442d1ae6e9453cb5a07a3958a2ae2d468d55b7c53a15db0",
+      "text": "Package manager",
+      "hash": "087de11becaa161419d8939f2f9eb2afb729d22375460affe97be7c673ded3f4"
+    },
+    {
+      "id": "617387c26b76c922f3681f6a61db5e7a335537b29196b17fd38888d3a2b5fb86",
+      "text": "(if not npm; or use",
+      "hash": "3bf3b955b3033e6cd09847532407479eb07d39919f1ebecf9ddb2b97819b6dac"
+    },
+    {
+      "id": "cf22dcbf1554600278a1be89f0659753c74578dbdbadff68dff971b8acb10564",
+      "text": "for warnings)",
+      "hash": "532afbf2e7d684dfe8eefa4b4e1cbdaab1df9478b94700e11fecb1ee9745f26a"
+    },
+    {
+      "id": "9633d54796c3adba20cbb5ca077ea320f9c26dc2c433eb32939285dc0a8347a1",
+      "text": "Build/typecheck commands",
+      "hash": "07bf3304ebb63dccccba79a061729e19d0ea0689e1e41840510cada67ccd6a08"
+    },
+    {
+      "id": "4cafc0fb63f7fe03715be427fc66f85a2cd8bac080495ad347538eb6c78f8c9d",
+      "text": "(if non-standard)",
+      "hash": "8b2d5adb1b6d79a2ead77996016ba0530e872730447458a2d2deff273eb54dd9"
+    },
+    {
+      "id": "e0c7596dffc4acd416361055d7595409d0f1c702ff5c9b6e76bef249bfa484dd",
+      "text": "That's honestly it. Everything else should go elsewhere.",
+      "hash": "713869a195cfc8910201249e402c21c78370e302a1c7d73ed6b864b4da30a265"
+    },
+    {
+      "id": "d79f08b95883b2267fae6c6a00129528ba7cce81c76a48a8ff3f979243cf60dd",
+      "text": "The One-Liner Project Description",
+      "hash": "e270dab630c2f95818b93eb2d6c645fdf5dc7e18896ce76bcaf57a2a5bcc73d5"
+    },
+    {
+      "id": "54ad597d55bbd249e29b539a2d6d4e38454a8b6aab9fc1ab935efb185568238d",
+      "text": "This single sentence gives the agent context about",
+      "hash": "38266a988354aff32be7dd333abcbd355e73f46fcaceedece202147ba83e6c33"
+    },
+    {
+      "id": "ac67d52024189f9f61a7d0fab40d6a025f407b9dea196a82e6bc9aeb7ab46632",
+      "text": "they're working in this repository. It anchors every decision they make.",
+      "hash": "fe28ee604e68207edd94c50cc85e9735d7fd0db8af5f9c81796e9b32cfba9303"
+    },
+    {
+      "id": "3f47367452bdb76d9ee49b99b7cd01340722cda8fa8d846102d7dc010d60231f",
+      "text": "Example:",
+      "hash": "872887e563e75957ffc20b021332504f2ddd0a8f3964cb93070863bfaf13cdad"
+    },
+    {
+      "id": "97fc49650343cc733e427b45c0062ed31186ca3e8c4bf2670f76a55e1bfd2ef7",
+      "text": "That's the foundation. The agent now understands its scope.",
+      "hash": "2272a082385acb5bc3d60b7daf11ae2815f6d4bbbe410f984253f59e9ad311be"
+    },
+    {
+      "id": "d09cca359a236b2a54036739e3fcc26b8d12233eb124dbe1566751620bdadb88",
+      "text": "Package Manager Specification",
+      "hash": "d70ab5a2e1bd3e80197747bd8e07f2a5668dc01c25faa9d6e71aec46c5f75846"
+    },
+    {
+      "id": "17a7dd3e9c7b31c3aee60e23527b5ffcff617831c3e8d6685f1dae7fa2bc7bd3",
+      "text": "If you're In a JavaScript project and using anything other than npm, tell the agent explicitly:",
+      "hash": "db89589e34f72e636f2cf2fc02a63446c0def6261bdc40f2af94b0510fadd5fe"
+    },
+    {
+      "id": "5aecb1bae29d634fbe19b435c7c72f3ac58bb35cd1e3cf18bf7c5d0267f904d7",
+      "text": "Without this, the agent might default to",
+      "hash": "aeb91485114dd25a0b20275d03e19667768dd973d0e25296e26ead6cc2f41a46"
+    },
+    {
+      "id": "a19ecca8fc0ec25391fbfecfb4929f2fbca9a42d27b103cec56a5c80cde892ba",
+      "text": "and generate incorrect commands.",
+      "hash": "e991538a76cd32cae03d25cf0f874aa50de27ec9223dc9bc6ef815d3a6b9a056"
+    },
+    {
+      "id": "574f63f39e8f0c3cda4b397ae7a7d226f4c7260ff0f1c85c62e6c9b5d0e8e32f",
+      "text": "Corepack is also great",
+      "hash": "35d4ed06558ca82d8c9bea2a66e83921982436a1bfc96b3d4ad1bff11316044f"
+    },
+    {
+      "id": "b5195980f99b2050dce90cfe3eff64063e0f6ce688c6f0505deadf9bc6d76725",
+      "text": "You could also use",
+      "hash": "a050ebc11d479e24a8a347ae8edbd3b5323267670ab2271386915f1fa44fa2c7"
+    },
+    {
+      "id": "7c3095d8ccb2bddad9df4124189cecf74ac7832a75a5f4cd40b13e47406a2623",
+      "text": "to let the system handle warnings automatically, saving you precious instruction budget.",
+      "hash": "701ebe4acfcec62734a2c8f58d94abbc8497780919538f27a3ea7f7fcfcce134"
+    },
+    {
+      "id": "f1d35f2b53d1683f687cad4dafb907e81f49353f24b903593e713880523e10a8",
+      "text": "Use Progressive Disclosure",
+      "hash": "0c81e4d61a0fe0219d573a5677360ba7a5ce244f91ef1a9a94772ddc86296f5d"
+    },
+    {
+      "id": "60a1129c1e0d3aef8bfc63439b8a3b30a88367dd23af7781098f5fe7c9d73fd2",
+      "text": "Instead of cramming everything into",
+      "hash": "38275c7f629de777cd033f0085c6c473587eb9d36ea4e59742521735b401cc68"
+    },
+    {
+      "id": "9a6b155ee6e443bcf4ffcfbbc366d0d82a5049170e6c8612a3a6be791c9749a5",
+      "text": ", use",
+      "hash": "6195382ad663aab67cb80f30ee34c1bdb261263b672a465207c5c28b370922f0"
+    },
+    {
+      "id": "e794b1430aad1d3e149e55b96b2b83e66ce756411fca70ffb42d2a1887f53bbc",
+      "text": "progressive disclosure",
+      "hash": "6da46646b127888c91f582c85bba28941b74cdb2da40e92e62e2157d47644c4c"
+    },
+    {
+      "id": "0d3d4bbf291d3ddd7739e97ad7adb27da2c40a82ae4e743236d28c1670d7f3fa",
+      "text": ": give the agent only what it needs right now, and point it to other resources when needed.",
+      "hash": "ab23627cf8c973e72dc4eb77351f2cb59a784d70f236ea4b778f22a3325256db"
+    },
+    {
+      "id": "666ff3e2cc1f0e15ef915ba4e26c6d97615e4e43fd6d5107081587a5fd15c378",
+      "text": "Agents are fast at navigating documentation hierarchies. They understand context well enough to find what they need.",
+      "hash": "95163deac9b0afbb203c10faa8bed8a8112f08bda8ae23d2172b0f0847a6fff4"
+    },
+    {
+      "id": "cdc216de679634984b8805f132c8e0b1206453b55524e253519e241e28f5c871",
+      "text": "Move Language-Specific Rules to Separate Files",
+      "hash": "84aa4976cb62b6bcd9f0262d0fc5d28422f602478e5994b95a06f62f91a2f182"
+    },
+    {
+      "id": "8c78d346653a8294359f37df1580b64f2d975a3662446e77546eddcf815b4ef9",
+      "text": "If your",
+      "hash": "953cd532ddb80ceb41feee82405d8a6b14ee27e0073f5b01824b489c7da130da"
+    },
+    {
+      "id": "93d51dc67736a2b6d8c2c7bfc7fb880fe78e9b7dedc98e7433fd1cf9ad0055b2",
+      "text": "currently says:",
+      "hash": "741d67ed93174260f99fc2da039ba61afda7fcff466fc0fb15c1a382d36474cf"
+    },
+    {
+      "id": "0651e2eda51bdfa098d6fd24cba3c1222baf792a0d23141d8d78aa6419b68761",
+      "text": "Move that to a separate file instead. In your root",
+      "hash": "d53ce05ae1784f3174e5abfa864b80469d37639fa678159f1a749cfdb4c9d2b3"
+    },
+    {
+      "id": "ce0cdbb00c1e96696b910baf369cfa13215409008f083522a93091a74f6e1d9c",
+      "text": "Notice the light touch, no \"always,\" no all-caps forcing. Just a conversational reference.",
+      "hash": "9f7d49786074aa252e0152026754d8e72929eb35b361229a7c0c04953d08b5a6"
+    },
+    {
+      "id": "c6522ba1d152c1eff19f6a8da4fa1ff8940bbbbcba1a352110a3e6755e73edd8",
+      "text": "The benefits:",
+      "hash": "1764b10b9af7c0020bd7e7d3e7c683e054389d6a3c3920952c2fb83f06b0481b"
+    },
+    {
+      "id": "aaec37503da9189b20c04414cd15dd13da17aa83be5a3b0c6ee78efb3290fc4f",
+      "text": "TypeScript rules only load when the agent writes TypeScript",
+      "hash": "c09815ed2db76157024f4291589af37c1f815451fc21a925d6313ca0382a2ac0"
+    },
+    {
+      "id": "c3ea65945a0b70b04b0db2582072198dd112d4956127e2c52138df835f09256a",
+      "text": "Other tasks (CSS debugging, dependency management) don't waste tokens",
+      "hash": "1d561c78b8fdb666391e756135a11f5f9d26d5338af9a489d29b630afc98262d"
+    },
+    {
+      "id": "26ba1bc81e2dc5d9f479de152d90e92add9b106e9d0fc80bd3507e07d7c6bdc0",
+      "text": "File stays focused and portable across model changes",
+      "hash": "9990b1a77640b5c6fd6e46d42f4b5df09fe1e40e2289c5809b64fea5a37a1b44"
+    },
+    {
+      "id": "053c8629924a29f1b17850ff64ccea45034224430e5a1f84491eecd83cb7d3fa",
+      "text": "Nest Progressive Disclosure",
+      "hash": "bad1031f7f178b3e52db9d8eb25ff179efba5f8cb60c01ed37fb40d2494cfa98"
+    },
+    {
+      "id": "43a4141c4e8840ce6fad58ec3af8a10ee8c0acb0d6d2e0ebf9cbd167170fa12b",
+      "text": "You can go even deeper. Your",
+      "hash": "479947c4615ece656c16fd767c42d60c2468086decbc0c3c6f1b76bd6db96ae3"
+    },
+    {
+      "id": "888892e823307ee9977efc7f908f4dd30066ff7e99a5a825e67986c64d0550ac",
+      "text": "can reference",
+      "hash": "9e1d70d7a5aefb4e5c82dafd0857b735861af189de64b7e40cdabb35844f9c65"
+    },
+    {
+      "id": "78d3b35ca5f42e395def4dab53e81a0dfa27818b075b909a32e6fbd6cf81f6de",
+      "text": ". Create a discoverable resource tree:",
+      "hash": "8418cff1370e76b0ab43c8405e2cf711fdbf3a27595bee1243ee93ab251750df"
+    },
+    {
+      "id": "b41ae32e254cf26d54e811cf10596cf7969c2be6ebd052a1f63cf70da2d0fa4b",
+      "text": "You can even link to external resources, Prisma docs, Next.js docs, etc. The agent will navigate these hierarchies efficiently.",
+      "hash": "03520ace0b452d6eb2db6ddbebd81bcb66ffdbe2951ccd15c054733fce9e79e5"
+    },
+    {
+      "id": "4af04a8f2eddfc9d2802587178350fd7c4bf6ff231e9598e1befb94470b43081",
+      "text": "Use Agent Skills",
+      "hash": "d32010e6f260859da30eb571200909c3f9661103b1c7581dd731ecc6b8491fa0"
+    },
+    {
+      "id": "c1ba30ee62418233f32300c045f77cceef217968193dd3dc05ab91f295992523",
+      "text": "Many tools support \"agent skills\" - commands or workflows the agent can invoke to learn how to do something specific. These are another form of",
+      "hash": "8669f011961d75607c3679caa15331cc75a7ede04d45060ccaa5ec99ca6e69c4"
+    },
+    {
+      "id": "81e66e3bfd8a42ecc26bade18fa9771a30950241f2c4711e23fab9db0e06d950",
+      "text": ": the agent pulls in knowledge only when needed.",
+      "hash": "f91a44200e0342f9c6a75b1f80e82ef587672b8c885b54d00456d7777c53c27f"
+    },
+    {
+      "id": "0c62d9139168d2ce98a4b68025648c8a9ab8c03ab58b3989575f8e9b9bdae17e",
+      "text": "We'll cover agent skills in-depth in a separate article.",
+      "hash": "f6f52c12d3881d777113fd5beb2a6ddfb7b15dffd62b5e7f1b77ff0ef0492e60"
+    },
+    {
+      "id": "d20dac9b67fe29a1d167761168404791200543827a41a351438c638c90c93b49",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "c42fcbc9e9f998e7fde0caef37ab9c3d3607f1e6fc16195d7e61af4111187ab3",
+      "text": "A great AGENTS.md is step one",
+      "hash": "40e01dfba2020bc4788b4409af366d3fb17335f9994a721b00e04fd01d84c3b2"
+    },
+    {
+      "id": "1c09cd41ac494be685961f845134ebf0e185b1c692cb4a692411f08b2ad1a6f3",
+      "text": "See the skills I run on top of mine to turn that file into shipped work.",
+      "hash": "7038990f15032f7c1c1078209a96ce6d13106d4c53c3a409f3e0c9da804564be"
+    },
+    {
+      "id": "8f20e64dfecc7135d3c04be5cc961ef87bf95e67aa452286732d65fae84e22fc",
+      "text": "See the skill set",
+      "hash": "dd46869b69c9555abcf3fefb4c764ae30e64692df2ec9a3359dea8d9ddef9b37"
+    },
+    {
+      "id": "9a4d2c5b027ae9e88aba915f2fc67289161c34ed38feba16840e07582c5be326",
+      "text": "You're not limited to a single",
+      "hash": "d226c489ff58efad638b91ba683430b21dfd685b937ad28811be2b8ede8dc972"
+    },
+    {
+      "id": "95d12e36b1c4b699c3674100ad07f82af5846aa11e69107c5f434abb69acd2da",
+      "text": "at the root. You can place",
+      "hash": "451dc209c313f50a36810799c33ab8a0d5a370c2d95de4b698224093b6895645"
+    },
+    {
+      "id": "8e2465428487025c1e9b18b711b6abc69b367edfe9925a0e116616baa2467adf",
+      "text": "files in subdirectories, and they",
+      "hash": "4aa70215aca14166dc483bead33f089b6602dcebe466a8c1920b5d9dd7cc04bd"
+    },
+    {
+      "id": "2593e4bdd16e37b5fc1717f5bfff10665bc103cf40087465f67dda08846fbb89",
+      "text": "merge with the root level",
+      "hash": "715d645b82b9920a08c7ee6360f667c57a3e04fa75f0818358108de875ae56f8"
+    },
+    {
+      "id": "3e8198b91a547532e963af42953fcd88009a7ffa04d843a4baa3430b64aa9a44",
+      "text": "This is powerful for monorepos:",
+      "hash": "3ca9eebdf534235e5c0bb87ea133fbec9b37c034f942f49fca26dfc11fcf8cb7"
+    },
+    {
+      "id": "eef01e3ac5f3c38a81950eaaf08df7e5ac2aa3915b626663fb91ae3f0c724a32",
+      "text": "What Goes Where",
+      "hash": "49383b91d39f15d3b0b4c121979b9bef7240a43fd5731f2fb3de64f75ec82454"
+    },
+    {
+      "id": "85fa0439796e4d74151f800742ba540b701c57b53f54e70bd761fa3f5d7bd17d",
+      "text": "Level",
+      "hash": "1709305c9fa966d14f56f0da3c3614bbc10adcf53d72f90341bb96d24afcfca3"
+    },
+    {
+      "id": "c3c4046d87810654a0654bdd23a126114c440eb8b30acefaba1bda79c1ec85e5",
+      "text": "Content",
+      "hash": "47bd29075f8b8019f0beec6d86beda7c9bf67aaf05053dcbe0b3bcb63968517f"
+    },
+    {
+      "id": "7c48aeb48724f2fb43a0a5afe69a2764a31df10491118c611611243d87efbe81",
+      "text": "Root",
+      "hash": "44cb005ee2e65d9cc817b0a083579369fb6c24a4be728cb43fd9d4c3ca7f4c2e"
+    },
+    {
+      "id": "3a25d4925fe82096867d411556fbfc74e1f8ca3ceda2d98e8d22bcbbffab72ff",
+      "text": "Monorepo purpose, how to navigate packages, shared tools (pnpm workspaces)",
+      "hash": "223060ada2a1f20e6cb2c6ced12f6df6102d83768fcdcf211056abd0520db84f"
+    },
+    {
+      "id": "2a35e910f9c59e155cc64df712202d20271bd48dfb25bd774fcdc309a48d607c",
+      "text": "Package",
+      "hash": "59de121db1b8145e4c974543653fd48e1d6667b41160f5a393270c9c0f7852c3"
+    },
+    {
+      "id": "afd61bfa5c9d7ccf0c15a2e3d50913a0543568e29d0f6dbecb736bb9d7736d57",
+      "text": "Package purpose, specific tech stack, package-specific conventions",
+      "hash": "d6667618dcdbc9b0761d2676275afe917af2e21e34d33554ab75b26df93dac1e"
+    },
+    {
+      "id": "11f39d61f64bdc6558e97d99a399e7c43b591ef7351cee7dc3f162a38c5d5793",
+      "text": "Package-level",
+      "hash": "5a18f38c939a2fa5d388a692edeb8154cb400bc1efa9f6189fdc57b5ed40d0e1"
+    },
+    {
+      "id": "84ad4517ffa8762e41e4d753c5a69b2e8d4675184bd0eade9d03e0e65ce9c9fc",
+      "text": "(in",
+      "hash": "e01f0f2a59b4e88eedde37d09193c8973345f35529f0be6c93fb5191134b21e2"
+    },
+    {
+      "id": "a65c801927bce4a6b7989aee5eeb151f057e76cda421fef027a515a9817038e3",
+      "text": "):",
+      "hash": "f4bbd8dc0a3fd7f22beb6c7a462f6fbf6e92608166f7a495fd87bb43be9bd034"
+    },
+    {
+      "id": "a7f1171ee44f8182ab334edb7fe6bcbabcfeab6471cbad80fccdf1ae990caadd",
+      "text": "Don't overload any level.",
+      "hash": "79289158ec1b5bbb5df98c475115b5fc91ce2694631bd961286a1497920411d9"
+    },
+    {
+      "id": "5732b59ed699cb18fcb07375a7c60609dfad1b8fbaeac3aa967b0bf6ce4d2b09",
+      "text": "The agent sees all merged",
+      "hash": "5e265f6b9c34953dc3faa9e75210f45a9c20d1ef1b4d19830999083d11c275ff"
+    },
+    {
+      "id": "dfaf7ea66bf043ea90949c6394fdf0148b20ff7265049a86ce2455edc57d3ae2",
+      "text": "files in its context. Keep each level focused on what's relevant at that scope.",
+      "hash": "32b584b9608d422d639c8fd70395b023bec898d464d7a4ebac25de216b05e8d5"
+    },
+    {
+      "id": "a2ae51574f055697445c9366c9cfbe70a8ba5460d59de18479e31c74e1dd2986",
+      "text": "If you're starting to get nervous about the",
+      "hash": "3383727deccec5b1c6aaec2fb9e3bc3106460c1ade97591556cd06051050ff75"
+    },
+    {
+      "id": "90bbf1a699bbcbb8bb939ba96122830e6f4c55c999e4be8169e2fadd7ed7ecbd",
+      "text": "file in your repo, and you want to refactor it to use progressive disclosure, try copy-pasting this prompt into your coding agent:",
+      "hash": "4473db27244d3da9c10974bd000d1cb1ec4c8e14257fed878ac93d92d52b8bb6"
+    },
+    {
+      "id": "575bca879076b435cb40dcf63eddf2f14435aa2be49d2c25be2560a939662aed",
+      "text": "Get the next AGENTS.md upgrade in your inbox",
+      "hash": "7cf77f207057783ad1a7f5422612192e1448ac716e4d29983ab14d1703cecbb9"
+    },
+    {
+      "id": "7407425eff46c336c70371f602fa9a14a46baeed2ad0e7c99a85def90e68d874",
+      "text": "Skill posts and changelog notes when Matt sharpens what his agents read.",
+      "hash": "31b26c515d7241fef21dc4cc935b7762cc1c71c57ef17bc98bba707346683d0f"
+    },
+    {
+      "id": "3f539abd1718ff8fbc4e5a4bffee8b862e768c140beaef95fd1cadcaaa07d0d7",
+      "text": "When you're about to add something to your",
+      "hash": "2928876c9526383d99554f51d103b1ccb7cdb15c36e26d4a4c29e79d5e348aff"
+    },
+    {
+      "id": "72183a0e19cfffa2200b45473451e89cfa0d8f715c711da16fd204684504718f",
+      "text": ", ask yourself where it belongs:",
+      "hash": "fce24e5fa04961ba715934154917eb15630fb50fdb9a1b1cd951210118e57e8e"
+    },
+    {
+      "id": "27373c423bdb2e84ff476f0e22f4f14cb96ea01108a09825ce5fffa16f293361",
+      "text": "Location",
+      "hash": "15b61974b2707a7b3d4201385e0f01f4ff5eb1f17c5639d98788ee5add2025cd"
+    },
+    {
+      "id": "3cde436e438af9ec477ff47d168d0699efd2f7e8da376f9581c10f5f839ac8d1",
+      "text": "When to use",
+      "hash": "5c06b51a4d33dd354e9a862dc06e40a051cda2eac3aa766442fe48332e988be0"
+    },
+    {
+      "id": "b6ec44094175ab190b77ec8f613886a846f730bfd954d9008e91c3435b06b23b",
+      "text": "Relevant to every single task in the repo",
+      "hash": "a3d8d87798db4c509aa89bbb4828853871becd2592c87651a5dc3024fdd05ccd"
+    },
+    {
+      "id": "8e7949f68d2465b8b85c4a2d58ea711143cc6f9ac408f04bb0b97776d1d2af5d",
+      "text": "Separate file",
+      "hash": "c4e7ab16c186dec46a4a8921c56775e962eff616bf985fb75a8146ac301ab8e2"
+    },
+    {
+      "id": "765587c7d0f41189322adaaee52997561230af7f0f2c9f85eec959f001526a16",
+      "text": "Relevant to one domain (TypeScript, testing, etc.)",
+      "hash": "fddca6e26cb220e7cae7920d07b2a52dc53bcba4f9cfdccbd2b4089b137493c7"
+    },
+    {
+      "id": "b9a7724a2830bc0f83a4a4cbd11024fd189d98c0808a820337b9a6b6da32c2a8",
+      "text": "Nested documentation tree",
+      "hash": "0443a867f39accbd5fba77a6370015cbc3e1be7d82c6a059d4c89d146eac8a02"
+    },
+    {
+      "id": "c5f6314c6476de5e81d2f11fa7b6ffdb693ee08ef61dad0abd65ac0f584f916d",
+      "text": "Can be organized hierarchically",
+      "hash": "93228751dc0a109ed348273658d24ab101d63929cc9f25391894c4f2e41f600a"
+    },
+    {
+      "id": "609fa766a96a042c3608527628a4e3f0ad09e03fddb89a6612f84bd0a446f383",
+      "text": "The ideal",
+      "hash": "23be110bbadce3dfb8b247411f57870343feab7304aa5f8c27595741a40d01c7"
+    },
+    {
+      "id": "44008a42af37bf654b251a7640a9e690ca543045b8e5569f38e6d5dd69bf3304",
+      "text": "is small, focused, and points elsewhere. It gives the agent just enough context to start working, with breadcrumbs to more detailed guidance.",
+      "hash": "0912c30561927c048770b1347fcbc49dcfb7987e3a2249f8ce851bf943219dec"
+    },
+    {
+      "id": "18fbe1163ca8bed2298e8b58e8c5e946d9d90ec68d0c8df602d30aefbaac2002",
+      "text": "Everything else lives in progressive disclosure: separate files, nested",
+      "hash": "75dec740e292ae7220f0014ae0ae0eb8ef8501c5dbba86eac558ba7ef0fa9592"
+    },
+    {
+      "id": "2991579a2cec469ef559ae5d8fadcd246ee3b49e79510f388f23b791a927df19",
+      "text": "files, or skills.",
+      "hash": "9544327501713d425a935e536289b6922940868d7d02a26347ac8ea51c62f46f"
+    },
+    {
+      "id": "e79bc364efb7b0e3bf3b840a1754cee2e6cd2288f541bfb217615d32e0d12ad3",
+      "text": "This keeps your instruction budget efficient, your agent focused, and your setup future-proof as tools and best practices evolve.",
+      "hash": "04e04fb14aac4c753d59771b9d12b48382b48d91ec3ac623370fa5bbf7f75604"
+    },
+    {
+      "id": "2ebb52a42305230bb757e0db366afbfc141877ce1eb45761af5fabc35b548cc4",
+      "text": "Build the workflow",
+      "hash": "b9f9b176e1d1637b13440274d5df433cbca5aec05d50e3962a260d356db41910"
+    },
+    {
+      "id": "768cad6567b5e0e24078c9d396dc778ec5f5b537de0f5bc889a93886bf810f31",
+      "text": "Get practical AI coding workflow notes",
+      "hash": "5c8e1e630ae90d7c6e2cbb7c1dea5014c8613b6829112cec2ef8f70ed5f823f3"
+    },
+    {
+      "id": "c8b194aed4cfe96cd109b3e86017cf607130a190feb7ae35f32d8f88a298c897",
+      "text": "Subscribe for short updates on skills, handoffs, testing, code review, and the parts of AI-assisted engineering that survive real code.",
+      "hash": "f59bbf390662f769270981209be6b40f4e8642a35f9ad7505087882b17579802"
+    },
+    {
+      "id": "c982bf1f9467840c3b1041bafd46f4dd4b115b9910c878968985e21e1b6aae35",
+      "text": "Subscribe to the Skills newsletter",
+      "hash": "5bb445ca168150161fd442a04797f29b1c286186514466e081aa4a01d0234cea"
+    },
+    {
+      "id": "4718de9845a8489bc1231718df90a9c1cf98a2bdc86aa46e3d52350366c91930",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "ad5e3766f4ae52a9f70242240b87d181f89c0d20e1e586dfa567b8a6d7ca4fb3",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "1542cd12ca04d0f8d6cbce5ecfc91f664568c090c0b2e34aad00da30ba13098b",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "45d1ad6012ca1d504b70bda5290aca97feb11671030d9883eeec0782c5e56a7d",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "f227c4481cb394ef01219b34639ab0a9b7afef1d26e55cc409e677133006700b",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "46d2df823dbd32714039d00a1fad7579680c23e332c8b81fdd053f94e6afbc73",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "a7d19e394b6bf73608a1ae8767e1b2869df89f14092efe2257df8db2efa88b13",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "383de8e6f7bdb1e07df2625d38d99573d5ec3f419e917d6d2671f728eec130db",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b52349025af08613445be9c46d709fa544c012d0253fef7a3ba78415c711deb7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "f947d42059b901b02eb73c9f8da374d4426f0694e715050af3a3847b26f3d7a4",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "2009a909f92842eb6c40a7addbc1eedf98d1bcc04808058bb07276c5f63b2cf6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c8022c66a50d88c5dad33b15717486115205aab76c20bf44285eedbcfc6203c3",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "4873ba7695a0385e713ab0a43168dde091ea20941da51b005f70220610276b69",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "283f16a85129cc821d829fe596363aab207662d46e630d8b2af88ed6913b813c",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "d0677a64ba92c2431acd4c160e859e07bbd0ed509b9ba2947516edea5303e8b0",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "aded31a49603a4bc43cab54bbb9df7e43262d7f90f78402142a1448cb6038221",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "327e4b1e890fa09aa7cd140b6b707228e97c8df1f23ecc26083917b8ed20acbe",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "9b52ba63b9f778ad4405cc03ac75afccde7bf6fe8a1d8f633793ab03646f2f48",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "01b69f1e4a87f918b2fe6884735f16858e3c96b73ceedddfb41441f4744d6503",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "b76ee56daea5d205934d53df12c6c1686a51e5e79376227fe8d237d63d3760cc",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "6ab68ad7da429e4c938721a7493e7ef1ea3e6266cd84060f1e28764dc8829a73",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "59d78db4cbb388a27468bef894385567c24df99f26aef2c44143079733671260",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "4cc3065d0bb15f87c74eb73cf66d0b15e6fe3f3bc38a8744aebe8bdb8a784f2c",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "655da989da8cd11fecb2316ab387046fd4bcfafe4938fcd9b39db3d79d158068",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "cf583dc0844b636b10eace3045889cf50f3587234e87018d593a533718280ec3",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"rhbw7mg3657iij\"",
+  "lastModified": null
+}

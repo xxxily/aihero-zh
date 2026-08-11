@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/the-prompt-report",
+  "pathname": "/the-prompt-report",
+  "fetchedAt": "2026-08-11T06:28:24.384Z",
+  "title": "Here's 2024's best resource on prompt engineering",
+  "contentHash": "7c3411304042957b1dc4d7787d231d5432465fd7a40aea075ad702990be9ca10",
+  "textHash": "74501e5a2ea339901530c6b85d84f8afffc4989878c7eb6c0736b3df4910d35d",
+  "strings": [
+    {
+      "id": "b53c20ba7e096620bce5fcddd5bbab333808accdabfecc896a3b5684cc50b5ea",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "06b1c1275e1f66a5ede38f963cc833fd1ab81fa66b8ca7a104c0a79bc128f432",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "6c56712f8ae316bf12311e0650b3e0b2886356754ea4284c75c580e7158d4a56",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "eddf904b34f3b5733471e0299aa4337c4fc63ac48e58752c2d46102fdb40ffeb",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "5ab038796b91e3a6fcaf27cb09626fee27ad9af9c3a98182402f0fccf03ff429",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "38fc0783cd4baba8e50efa3c5b49decb550f4507b26cef3012a6347b2ce14a5a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "600495da1f664d6906a5cb923480b050e38d5f72d8af931bf37194e77fc5d9a5",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "9cd6528f9c8642c6cffb8b1659e13d8a5da8a7d87192cf82342cc226a1772eab",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "a190bf0fd1776e9aaa1788a1e7a0da4ac224186899c908042c734a0e38e64cf2",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "7e2dbae435e998342286edb5962e1eaa0e48f5e2c5fafa123c83b8722e5b5e30",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "07b9e99b1804ee4bb634d36671f48d62c9f146fbd8d19c5bb0b49d06764991d3",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "1fc68d88a616e87048dd0170a72ec538c2170fa84342eafe28a8f34999b77581",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "007ed4ac8150b0265b35d9fa0c55bb7f1f443735d3e2a6048a693c4a96be1bff",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "dbba3eac17ca27738c1f66cde40903a7fc79064d8cb2a79d0f4835ad114e108b",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "28fbe6a5de12f421a05d7fa10a53ebd6d33ab1361564e911b158208ea0eb82a5",
+      "text": "1 min read",
+      "hash": "55399ce8ba4ece1ee74665d78a3e22575a6e66f3c64b6b13d72acda5620b2601"
+    },
+    {
+      "id": "b0860da9a47425689cb2864db7f5d3d6839396ba416a690903d3a68eb387dc3a",
+      "text": "Here's 2024's best resource on prompt engineering",
+      "hash": "805a87dad601c14bc44e844b29aedb7074a455e214db4341c49d4420b6d1c27f"
+    },
+    {
+      "id": "411f040aac5c7937724df647d06e0ef2a525dc402f66611f5fe71317d6571010",
+      "text": "Explore the top prompt engineering resource of 2025, featuring a detailed taxonomy and links to further research.",
+      "hash": "2c808b588c9fb805890550f1b5ef3c5add5b3f2044d480a6f2a3ce34099093ca"
+    },
+    {
+      "id": "31f6f51391b56d80d2e157d4e8605b1f20330841147995c19e4aa4610183e82f",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "7e8b6e4634975e912648ef022b7a5a98718aa8fcfc04611bde052fef48cb5e8a",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "722b66c9f1f7aa157c5f8a3ad93976e686d66ae4d795c676e018047a434abfeb",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "66cbe0bc3ab3d5cba56a88ff0a1895233a61d5c08efbdaf5d7d2216b68960473",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "bd0a094e6bf8b8161ca6a5dc7792cb8046fea0cee282361d3b9c404a8d5f7067",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "72e8aec6745f100fc106ebf9707ab157aea4e0c613bcd0768a74bc6af578692c",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "2902c2b9c50a0e8a85ef1cdb71fc699deae1060f3e7996e6cd61355c29c4e419",
+      "text": "The Prompt Report",
+      "hash": "b2bfa6605b8502c2824c57f0123ea82b9ea9c238649fd6aac946519ef4fb7366"
+    },
+    {
+      "id": "d474bada20abcd6bad43bf9ebe7970d2601070cdb99c2c6a11646a567700c240",
+      "text": "is an extraordinary piece of work. It's a meta-analysis of the entire literature of prompt engineering. The Latent Space crew mentioned it as one of their",
+      "hash": "a86458d082735947fa208eb6bdf43e5d5c1e5325397448c79f70fbbd3d40cc94"
+    },
+    {
+      "id": "1882c9188da654f2e5c38a16dec2aa033e11003304cb1423f2b2fa0ab23d1ace",
+      "text": "top reads for 2025",
+      "hash": "013962d07bb5250ef2bd3e3ba3986beba3e9071c342a6493a80ad738d5405029"
+    },
+    {
+      "id": "6b809ea604b4918c8bb1733b89016a694279f7eadfa55e01523d13732c4f46fb",
+      "text": "The thing I love most about it is its careful taxonomy of different terms:",
+      "hash": "67378b1ffafc83637deff950c5991014c287046bae1b2766230b870e4b1997cb"
+    },
+    {
+      "id": "abff773430ddf5ed0b52655f01a95e0ff671b244605ec45b27de8b3eb2f19e53",
+      "text": "Yes, this isn't even all of the different techniques mentioned. It even goes into multimodal and multi-lingual techniques, as well as security.",
+      "hash": "3040ca71f0b8ba9b0b2bcd266988b8e907509652216a4a8cf118f11acd63c12f"
+    },
+    {
+      "id": "1815f8b25f4316898577986b08011fc2227666ed1cf9129b4cc2c8e38c433f5d",
+      "text": "Each section links to further papers. This makes it an ideal place to start if you're looking for more detail in this area.",
+      "hash": "05574cdc37c16f0dd36497e38ac59773c64bbeac40e2efc22f638624b59420cc"
+    },
+    {
+      "id": "e3ef3111a34a952fd6177df1aa906010edf65d7491b04cac078268e1c33d325b",
+      "text": "Build the workflow",
+      "hash": "b9f9b176e1d1637b13440274d5df433cbca5aec05d50e3962a260d356db41910"
+    },
+    {
+      "id": "353c23705d2e21c74ecf63b07be4a503ff47aefbacc5937a9710cd4ddd886ea8",
+      "text": "Get practical AI coding workflow notes",
+      "hash": "5c8e1e630ae90d7c6e2cbb7c1dea5014c8613b6829112cec2ef8f70ed5f823f3"
+    },
+    {
+      "id": "cf630a1ebdb4094bf3dd128214e5f0210c680210b6639f82e90db4059196f551",
+      "text": "Subscribe for short updates on skills, handoffs, testing, code review, and the parts of AI-assisted engineering that survive real code.",
+      "hash": "f59bbf390662f769270981209be6b40f4e8642a35f9ad7505087882b17579802"
+    },
+    {
+      "id": "080d0a18790f95e3d39f25a946ca3c252c7ed2140cedf6795eb9b1981fbb4ed4",
+      "text": "Subscribe to the Skills newsletter",
+      "hash": "5bb445ca168150161fd442a04797f29b1c286186514466e081aa4a01d0234cea"
+    },
+    {
+      "id": "1e0952e3337d620c1a71f5b5e6b6f22662b4eb67730cb7cca2b5279f48cd6aa1",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "9fc534f78880f52ed9ee3df386ad9b1a9d9d85ec94efeca313c2bac1269824fc",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "552ab497c9e35f7dcf2e49d052c4d41956ce5aa8a38258d24489724985d2652f",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "d882825c87a216620391d3baa100392005000ae32be50f2fa66455d052fae50d",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "1b63f67390bf6a4e8ae3cf9f4d9c4a6271d283c9feb86275ace3dd347a0a734f",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "17f4c908fc0efeb2fe27351aca0d879918da7bbbe90dde9c1f2214d61e00a8f9",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "164ca500188c863ccc08b8b161bed2e0ade5726d870a916f135460f16f869ab2",
+      "text": "Messages, System Prompts and Reasoning Tokens",
+      "hash": "3f4abbe2463908b00f5b0843833ac83f093b45c95c2e5ac1c4395162a9512645"
+    },
+    {
+      "id": "92f0d9245e64eba86a97358c4a87400d0c4d6b53cf4603e59b42f323be5e03db",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "04ad739d9947a6d03b57f48fe5521931cb32a81c61449541fef278612468b607",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "109345ad8ecc5d9ca270c5e322628593ea6280140b015008a9b0299581db7df6",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "2208d03fc4a62ba6e3a32c9470bd899d60219752e02338c72a8d652052d38fe2",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "897be0b32dc2056532e9dd54473dc361a3eab7369eae14c7b7377b266d3ffa04",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "c5fde9750cefa691ba7ba649064dd4c8607a22c5d1af127a8a1153c289119e57",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "7ac069ff9f8061a00a641272183e4109ddfd135d04e6c25fe3d4cd97816974a9",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "48938e434c4baaa1940dc5ae6422a3c25f44e4dce11133d6ed46b93a90aeae2a",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "719edde1ea0399128749caa68d10ea8ab9a7ad427ffc747066efd90a9f3ca6e3",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "f95715facc91a5227631ea4f0dddf7c3d6016e8d6a79126aeb24a6fbf6047a59",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "ad163e3622bde1d6ba4a19c8e6010eedbc51f45a703fb6fc6ee83c453e65cc72",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "bc5004689bbacadbe75a534aa8be2f7cfcf4438f4e1d8bc2217568ce8c167362",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "29cebd4cc9e220022919ff588fec23e31dfcbd742182534326029da36846fed0",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "d64244aaa7e51abd2c3324e117971e8aea3cc524e938ceb09f5a549c5fccc841",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "5bd869d78d473493d07e00a9802448acfc2b1a9e49db9a378d6ef12da1642b4f",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "7a8f1795d179d53c92273802ef9dd38227351d0c02033b1bf6b1c7bfdae067ce",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "0087908628a5794aec18083c70219ab05b42a3d69ec13978b16676f00318d591",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "10cf2003df66104becab255cc20fa0aeaeb9dd6cd37553d3087165c1d9f54f50",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"84zngew75d5fr7\"",
+  "lastModified": null
+}

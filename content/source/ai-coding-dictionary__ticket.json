@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/ticket",
+  "pathname": "/ai-coding-dictionary/ticket",
+  "fetchedAt": "2026-08-11T06:28:38.284Z",
+  "title": "Ticket | AI Coding Dictionary",
+  "contentHash": "48fe6c4ca40a66835431f12b10daf1cdc751580ec849415a1435adb3e233959f",
+  "textHash": "148df99a9428e13d1d60cf0abce1f601ccbe06764a4a24493c4115ea71388755",
+  "strings": [
+    {
+      "id": "1534f72d792e8df0bcb5fc584802d93ddedfcff22bc8c9534c29d13afde3b43b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "37cd7c706ab9eeef4b85035c8fb6450377d415e110a2ae4bc341105a083dcf1f",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "83e3dbbbfdca61725b5f53e290fe4aef6e4f3361f55aedfb681d18d91e56ba09",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "aff9227c4d79b63ec83d172423c7fa9537fc14a7356f1ae35a31fba7d99c7e1a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "0a24064836998fa32a15b98ac44a1847731b5bede00082e4473a356fbb77475f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "76c05ed0e52265b37dc88ac8954a80061c37024d32dad9a005e021b71669c551",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b304d53e333bf5bd84077d8a4548f5a832336d836f2e88a36331589e1770050a",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b643e932fc4a6b3cfa99b36bb5924006df8a34af480339db4cb9596131f88603",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "e1f865b5126d7d2b913a6980e538eec794e43c70ce4426817935b50ee58ac8ed",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "2f10971effb5ed71944e122a46bd8e84aebc39244ab590347a792395d781edb9",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "007dde8e122ea2167bede264d5eab71bdea1a5f9bbf7729ad4c9cdd9d6282541",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "1610deb19662acd5db4b4e125f7683f108c0df86be08e7c7116e0897249d8886",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "15e9b3e94751d2d9cb1aa083988c7f31a4f1dc4b40b0ac3764a21c52ae8a33d0",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "a6ef04d64df2fa3272048e55b548975f00a573fe744a93cf37d95dfaa98c7526",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "2a8cfad150f18029131e364faa705099aaf523389dc87a47569ddbdb3c32faba",
+      "text": "Handoffs",
+      "hash": "29f217d5d86062d687fceaed0f8ff7da2900d2b2b33d409e4abfd6ebe310c1b4"
+    },
+    {
+      "id": "69e997eb333d466e22dfa3afb61b7819419c6fe4e3e42084f569247cdaaab5ba",
+      "text": "Ticket",
+      "hash": "567a8b5f8f5ce3c525286711a68555da645ab87e929439f5badba2507fd2b6eb"
+    },
+    {
+      "id": "482decfd9fdb842d1aec9d157bb24efb6cdf9e356e1d496cbc0229e989a6609d",
+      "text": "A handoff artifact scoping one session of work. Stands alone or hangs off a spec. Can block or be blocked by sibling tickets.",
+      "hash": "35ab4eeb0c2fd19ab2289363a0755fd15f77a617b78260f67c9ace79c810242b"
+    },
+    {
+      "id": "681830cdd601ce3f7a1b773ce6b9b6fce1bc574203a1ae943e3638f6cb888a76",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "4d1c02b4f8b8954c24b627eb31f8053625ccc64f54afcb5a242143f617c4257d",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "4e0a39722fb8d74d42f97f95effbb4d411093bd99743dbfe3715cf10559ea662",
+      "text": "handoff artifact",
+      "hash": "741619a26b388b5e1035994e6e7ce6c59c885ebd231ad21f8d9ff02438a0cbc9"
+    },
+    {
+      "id": "165a1ff16ce3339f82a81625f78eaa22f87a86b80c7b40b0f02b432dc212b401",
+      "text": "scoping one",
+      "hash": "32825fb3c2999a5b99535b38a0e8378bb2ca01115884c423aa61506e26ee0a1b"
+    },
+    {
+      "id": "385ce5a9439b632463b65c0ebda42adbb68c453a13aa09bb0ddd69434c8dedfb",
+      "text": "of work. Stands alone, or hangs off a",
+      "hash": "3bfcc86f8e6b8221e2a83e0f9312f2190bcdbeb5be8d72f785bb3b754b9432f4"
+    },
+    {
+      "id": "f63390876522bb6443153fe254a198d7e9b970223bbb3015f3d3af003ecaba90",
+      "text": "as one of its children. Tickets can block or be blocked by sibling tickets, so the order of work falls out of their dependency graph rather than a linear plan.",
+      "hash": "d5bc37a6d916369cebf5c5b1ba99029a0080ca85d0d5921495833c168bdd4ed8"
+    },
+    {
+      "id": "f90d353d5f6cc4c5a83111e48d926347ac4c4a4ad9b8455d12fc8731b5a43ee8",
+      "text": "The defining constraint is the size: one session. A ticket should be completable before the session drifts out of the",
+      "hash": "960804db1100459f05c0428a970d2ef3271b7b3d0fe327c93c2800bcd2bcf87d"
+    },
+    {
+      "id": "43e8f33b336af4946afde0c5d4a4b7ad27dbf0f004f85090cecda8c3e5c1b29f",
+      "text": "smart zone",
+      "hash": "bb3f6aa92ec029f636da2bd637e41c9e6c26586e54527ede34151e0cf892cdb8"
+    },
+    {
+      "id": "3200093d40314acdf943b3d9457f73ddb2f22dc641a3a793e130d5d0276c2b54",
+      "text": "— and that constraint is testable. If sessions on your tickets routinely degrade before the work is done, the tickets are too big; split them. If each session spends most of its",
+      "hash": "0cd1d6f003f38594dd7110bf5beaf620ddbd67f178385bdf2d054cb44f2a19f5"
+    },
+    {
+      "id": "da392186fdd04e00056d5335a0d46b5af083ce80e72954c2e4a0b4c737dc53af",
+      "text": "on setup before doing five minutes of work, they're too small; merge them.",
+      "hash": "7b57f77211bc4a1f99ffca2f66f7a4a44eb0c12299d754ae0b0ac5b9c2578649"
+    },
+    {
+      "id": "045e58563c6d0d531d02261d700065e49baeccfd442d82ad30b42dd7b5a50506",
+      "text": "A good ticket is written for a reader with no other context. The goal, the acceptance criteria, and",
+      "hash": "2a23aadf218f19fddc7215fc0e173b26cb1830f3f9ed03e72895b9370ccf565a"
+    },
+    {
+      "id": "1650d8bc78c7acf5b8df1615bed03912155f090b065cfdacd579208018d06f6f",
+      "text": "context pointers",
+      "hash": "82528bbf7c9c348f2db59980c707a48c7c85c4ea3d7f7f63f107a209445930c8"
+    },
+    {
+      "id": "7171058c91da58286e4dea285cd1e3eda24ae20216d5da71f74b86638be8763c",
+      "text": "to the relevant files and decisions — enough that the session can start working without re-deriving what the last one knew.",
+      "hash": "718426b0095d12e6c7e89a301a332953e797dd2233443eb325e9d27b42dff370"
+    },
+    {
+      "id": "39284a1c24927256084dd6c63a6d6ec7e7d54e35198689f2f1b32c9baa56b97b",
+      "text": "The dependency graph is also what unlocks parallelism. Independent tickets — the leaves of the graph — can each run in their own session at the same time. This is an effective way of running multiple agents at once.",
+      "hash": "4a3dd9a01299169bd9306f92f5b620439a074ae0fb0c0c7cd76d02832e6d88e7"
+    },
+    {
+      "id": "675b80aeebfdbc421cfc291d3179f8f2517a70e6b8d273c19fea51c2d170a8fe",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "15da6edfca5a9f718650897122ee1078283c988e16bdccb2a4873d9abc616ff3",
+      "text": "\"Where do I start on the migration spec?\"",
+      "hash": "f2da95ad2f27da311e8e1ff5278c8165da231e091c6abdb4ff1c50b83a0290ba"
+    },
+    {
+      "id": "64faa5c9b437af4754d6f4262b7aec0b9f3ab15a8f145702ac962834f6668d18",
+      "text": "\"Look at the ticket graph — the schema change blocks the backfill, the backfill blocks the API switch. Pick a leaf and run a session on it.\"",
+      "hash": "e943c6820ec85699eaf100bc73bc872d5ade879065db46ce11e7bfc9f4f82bf1"
+    },
+    {
+      "id": "7c698693ba7307e1d74419c5a488dcf70ad71c6b9b098a3ac3a9098e14b257ed",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "2fd45ae92e00a42ecede6f97eaa8d1e46a273cb3c135adb4ed7e68b2cbbbc2ca",
+      "text": "Spec",
+      "hash": "9bdc1337d7016d5825e164ca3a90ad5cb013b39396a1a1ee6324f8dc5ed6a1ee"
+    },
+    {
+      "id": "12a104fb6ce2715f8577fae6c8cceb2bde1db125cddb8887aa09ab2ad5f442aa",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "c36495a20105e64ae90f0cf7c7612df4295f32e6a6ca38de08cbac1c446e418e",
+      "text": "Compaction",
+      "hash": "a0ade140bc8e408639e51492b949bc4d31641625ef070015b5d4a5e92ef0edb0"
+    },
+    {
+      "id": "1fb6c3d21f2fc31e9b01e0bee00fd9113989210e0624ebfc1cb2e107433ca0d6",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "b3aaff1eecd3f6c63138516636c0b6e058378294e5d6ab2850cd130b5dcba614",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "a1f9c62b733b404a5428647b9f9267182c199a12167c0140d77b99cab441390f",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "6dbe315c96de3de6f222fa862ac2002c13ff4fee12b23226b0db6d9b318698ec",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "5f59809fc5a59c5b843b3ac062446a16718d391c2b2cd8448c591c653a4fd35b",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "6ba98058fafbca761451f815a60dc936c9999d74bc8b872c77bd9df6c0193c2b",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "a6d679191ac2783f533f255651934d46fba76e67047f6fb673ee94538d3503ca",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "397d26a18adf9075f23ed3f9558272e433723357a82bdf25fc300d66a61f41ae",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "e3fe8c7682b2d4ee1e6767667f79082b57246069a26ef5b7234ee9eb17479687",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "76fe3a93b146035dc3e29f615853f756555b4c1aa8c19581ef643c07857b9db0",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "15a30ee800a5c37464dd4c46d44ea8694ea109c8e505a3ebd7cc46a43df32789",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "44709b5fcda76d47e9ba196e32d9cb8ed28fb93bb118f999de62a5a0210ecbf6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "64f2b4bc1132f95c242d65f3fe0cd8dc5c21496683a911f9b7e1ed1385669eee",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "a69e3670057d01ab9fe559600c777e3623216e839c01e7c56d78259a1866a0c6",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "0cf8b1a558f4da240a1ba61af200faf3704db6541c8ed45443b3a00c9cb701b2",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "013db3b94583a77f6050a2df87ad5f2259e357d0f3b891f69afc83a29da0e6f9",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "c61963ce28e42602819c01bc8bc7996ecfec6f1a09eed82387438d6fef076b71",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e741c47791b5386d9b8d17499e6ab9a599497ad884a583d1d302029b6fb46c3c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "d020c5ae3a079845dd3605268aba84eae4a37e786d0a10a00353d5ef415ecc05",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "3306566ae37d0b99cdaf5f333cdd62bcb4819d4d87f22d9a3577dbb7b681cca2",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "803d2bc0bdef12100647a7ba24aa52a7cae61452bee1231f4805c792808553d7",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "818baa790a44a11c9acfe7360546999464a9f93f7fb1cca52bc496f7434dadef",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "e45db6c884e95c3545187fa9485482a6565d9751de95fc23eb65fdbeb7cd501c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "ec1a64b28a6d58691fa682840586b07b81276d3bc603f330317081031eb55fb6",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "89de987d8fc4d0bd40350326a35519f2f208493a0dfc543ef59eb31fc3949d6b",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "4caba73cc9ca03b8727a8216af943bf3fe9704cfa2b84aaaac445746be622c76",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"y1lb3seho94p7m\"",
+  "lastModified": null
+}

@@ -1,0 +1,1006 @@
+{
+  "schemaVersion": 1,
+  "origin": "https://www.aihero.dev",
+  "scope": "all",
+  "syncedAt": "2026-08-11T06:28:47.645Z",
+  "pageCount": 199,
+  "ok": 199,
+  "failed": 0,
+  "results": [
+    {
+      "pathname": "/",
+      "status": "ok",
+      "bytes": 190827
+    },
+    {
+      "pathname": "/newsletter",
+      "status": "ok",
+      "bytes": 149569
+    },
+    {
+      "pathname": "/skills",
+      "status": "ok",
+      "bytes": 442170
+    },
+    {
+      "pathname": "/skills/subscribe",
+      "status": "ok",
+      "bytes": 188890
+    },
+    {
+      "pathname": "/workshops/ai-sdk-v6-crash-course",
+      "status": "ok",
+      "bytes": 446054
+    },
+    {
+      "pathname": "/workshops/ai-sdk-v6-crash-course/generating-objects-via-output~dkm2k",
+      "status": "ok",
+      "bytes": 425819
+    },
+    {
+      "pathname": "/skills-catalog",
+      "status": "ok",
+      "bytes": 301724
+    },
+    {
+      "pathname": "/llm-fundamentals",
+      "status": "ok",
+      "bytes": 259147
+    },
+    {
+      "pathname": "/ai-engineer-roadmap",
+      "status": "ok",
+      "bytes": 256319
+    },
+    {
+      "pathname": "/model-context-protocol-tutorial",
+      "status": "ok",
+      "bytes": 250617
+    },
+    {
+      "pathname": "/vercel-ai-sdk-tutorial",
+      "status": "ok",
+      "bytes": 345852
+    },
+    {
+      "pathname": "/skills-wizard",
+      "status": "ok",
+      "bytes": 315419
+    },
+    {
+      "pathname": "/skills-to-questionnaire",
+      "status": "ok",
+      "bytes": 303828
+    },
+    {
+      "pathname": "/skills-wait-what",
+      "status": "ok",
+      "bytes": 318016
+    },
+    {
+      "pathname": "/skills-writing-for-agents",
+      "status": "ok",
+      "bytes": 334580
+    },
+    {
+      "pathname": "/skills-teach",
+      "status": "ok",
+      "bytes": 362745
+    },
+    {
+      "pathname": "/skills-grilling",
+      "status": "ok",
+      "bytes": 350206
+    },
+    {
+      "pathname": "/skills-wayfinder",
+      "status": "ok",
+      "bytes": 362619
+    },
+    {
+      "pathname": "/skills-triage",
+      "status": "ok",
+      "bytes": 365186
+    },
+    {
+      "pathname": "/skills-setup-matt-pocock-skills",
+      "status": "ok",
+      "bytes": 345293
+    },
+    {
+      "pathname": "/skills-resolving-merge-conflicts",
+      "status": "ok",
+      "bytes": 327557
+    },
+    {
+      "pathname": "/skills-implement",
+      "status": "ok",
+      "bytes": 351169
+    },
+    {
+      "pathname": "/skills-grill-with-docs",
+      "status": "ok",
+      "bytes": 353969
+    },
+    {
+      "pathname": "/skills-domain-modeling",
+      "status": "ok",
+      "bytes": 349871
+    },
+    {
+      "pathname": "/skills-diagnosing-bugs",
+      "status": "ok",
+      "bytes": 347073
+    },
+    {
+      "pathname": "/skills-codebase-design",
+      "status": "ok",
+      "bytes": 353536
+    },
+    {
+      "pathname": "/skills-code-review",
+      "status": "ok",
+      "bytes": 348816
+    },
+    {
+      "pathname": "/skills-ask-matt",
+      "status": "ok",
+      "bytes": 343704
+    },
+    {
+      "pathname": "/skills-research",
+      "status": "ok",
+      "bytes": 336775
+    },
+    {
+      "pathname": "/how-to-kill-the-bloat-in-claude-codes-system-prompt",
+      "status": "ok",
+      "bytes": 290038
+    },
+    {
+      "pathname": "/learn-anything-with-my-teach-skill",
+      "status": "ok",
+      "bytes": 299558
+    },
+    {
+      "pathname": "/things-people-get-wrong-with-grill-me-and-grill-with-docs",
+      "status": "ok",
+      "bytes": 316969
+    },
+    {
+      "pathname": "/how-to-improve-your-llm-powered-app",
+      "status": "ok",
+      "bytes": 398682
+    },
+    {
+      "pathname": "/skills-improve-codebase-architecture",
+      "status": "ok",
+      "bytes": 356819
+    },
+    {
+      "pathname": "/skills-handoff",
+      "status": "ok",
+      "bytes": 367977
+    },
+    {
+      "pathname": "/skills-prototype",
+      "status": "ok",
+      "bytes": 330688
+    },
+    {
+      "pathname": "/grill-with-docs",
+      "status": "ok",
+      "bytes": 337879
+    },
+    {
+      "pathname": "/burn-through-your-backlog-with-my-triage-skill",
+      "status": "ok",
+      "bytes": 345658
+    },
+    {
+      "pathname": "/skills-changelog-ubiquitous-language-grill-with-docs",
+      "status": "ok",
+      "bytes": 304446
+    },
+    {
+      "pathname": "/skills-tdd",
+      "status": "ok",
+      "bytes": 349291
+    },
+    {
+      "pathname": "/skills-to-tickets",
+      "status": "ok",
+      "bytes": 356303
+    },
+    {
+      "pathname": "/skills-to-spec",
+      "status": "ok",
+      "bytes": 346848
+    },
+    {
+      "pathname": "/skills-grill-me",
+      "status": "ok",
+      "bytes": 337549
+    },
+    {
+      "pathname": "/my-grill-me-skill-has-gone-viral",
+      "status": "ok",
+      "bytes": 274382
+    },
+    {
+      "pathname": "/real-world-feature-build-with-claude-code",
+      "status": "ok",
+      "bytes": 285176
+    },
+    {
+      "pathname": "/5-agent-skills-i-use-every-day",
+      "status": "ok",
+      "bytes": 345489
+    },
+    {
+      "pathname": "/my-7-phases-of-ai-development",
+      "status": "ok",
+      "bytes": 299054
+    },
+    {
+      "pathname": "/my-claude-code-cohort-a-teaser",
+      "status": "ok",
+      "bytes": 278642
+    },
+    {
+      "pathname": "/ways-ai-coding-has-rewired-my-brain",
+      "status": "ok",
+      "bytes": 279581
+    },
+    {
+      "pathname": "/how-to-make-codebases-ai-agents-love",
+      "status": "ok",
+      "bytes": 283766
+    },
+    {
+      "pathname": "/how-to-use-claude-code-hooks-to-enforce-the-right-cli",
+      "status": "ok",
+      "bytes": 320392
+    },
+    {
+      "pathname": "/never-run-claude-init",
+      "status": "ok",
+      "bytes": 295319
+    },
+    {
+      "pathname": "/this-hook-stops-claude-code-running-dangerous-git-commands",
+      "status": "ok",
+      "bytes": 289664
+    },
+    {
+      "pathname": "/skill-test-driven-development-claude-code",
+      "status": "ok",
+      "bytes": 312719
+    },
+    {
+      "pathname": "/why-the-anthropic-ralph-plugin-sucks",
+      "status": "ok",
+      "bytes": 270945
+    },
+    {
+      "pathname": "/tracer-bullets",
+      "status": "ok",
+      "bytes": 268052
+    },
+    {
+      "pathname": "/heres-how-to-stream-claude-code-with-afk-ralph",
+      "status": "ok",
+      "bytes": 302758
+    },
+    {
+      "pathname": "/a-complete-guide-to-agents-md",
+      "status": "ok",
+      "bytes": 350713
+    },
+    {
+      "pathname": "/essential-ai-coding-feedback-loops-for-type-script-projects",
+      "status": "ok",
+      "bytes": 287540
+    },
+    {
+      "pathname": "/my-agents-md-file-for-building-plans-you-actually-read",
+      "status": "ok",
+      "bytes": 271738
+    },
+    {
+      "pathname": "/plan-mode-introduction",
+      "status": "ok",
+      "bytes": 288991
+    },
+    {
+      "pathname": "/getting-started-with-ralph",
+      "status": "ok",
+      "bytes": 350012
+    },
+    {
+      "pathname": "/tips-for-ai-coding-with-ralph-wiggum",
+      "status": "ok",
+      "bytes": 458388
+    },
+    {
+      "pathname": "/evalite-v1-preview",
+      "status": "ok",
+      "bytes": 329538
+    },
+    {
+      "pathname": "/personal-software-is-insane-in-the-age-of-ai-u2hx2",
+      "status": "ok",
+      "bytes": 255533
+    },
+    {
+      "pathname": "/creating-the-perfect-claude-code-status-line",
+      "status": "ok",
+      "bytes": 383110
+    },
+    {
+      "pathname": "/what-is-an-agent",
+      "status": "ok",
+      "bytes": 272252
+    },
+    {
+      "pathname": "/what-are-tools",
+      "status": "ok",
+      "bytes": 274755
+    },
+    {
+      "pathname": "/what-is-the-context-window",
+      "status": "ok",
+      "bytes": 267511
+    },
+    {
+      "pathname": "/messages-system-prompts-and-reasoning-tokens",
+      "status": "ok",
+      "bytes": 272003
+    },
+    {
+      "pathname": "/what-are-tokens",
+      "status": "ok",
+      "bytes": 285178
+    },
+    {
+      "pathname": "/securing-your-ai-app-with-guardrails",
+      "status": "ok",
+      "bytes": 305002
+    },
+    {
+      "pathname": "/streaming-in-next-question-suggestions-with-the-ai-sdk",
+      "status": "ok",
+      "bytes": 370209
+    },
+    {
+      "pathname": "/what-is-an-ai-engineer",
+      "status": "ok",
+      "bytes": 279438
+    },
+    {
+      "pathname": "/the-ai-engineer-mindset",
+      "status": "ok",
+      "bytes": 263528
+    },
+    {
+      "pathname": "/implementing-anthropics-think-tool-in-typescript",
+      "status": "ok",
+      "bytes": 299576
+    },
+    {
+      "pathname": "/what-are-llms-used-for",
+      "status": "ok",
+      "bytes": 284451
+    },
+    {
+      "pathname": "/how-to-choose-an-llm",
+      "status": "ok",
+      "bytes": 274065
+    },
+    {
+      "pathname": "/what-is-an-llm",
+      "status": "ok",
+      "bytes": 275044
+    },
+    {
+      "pathname": "/connect-claude-code-to-github",
+      "status": "ok",
+      "bytes": 250530
+    },
+    {
+      "pathname": "/publish-your-mcp-server-to-npm",
+      "status": "ok",
+      "bytes": 350726
+    },
+    {
+      "pathname": "/the-problem-with-mcp-stateful-server",
+      "status": "ok",
+      "bytes": 271661
+    },
+    {
+      "pathname": "/logging-a-huge-mcp-footgun",
+      "status": "ok",
+      "bytes": 293317
+    },
+    {
+      "pathname": "/using-mcp-prompts",
+      "status": "ok",
+      "bytes": 315932
+    },
+    {
+      "pathname": "/how-does-the-model-context-protocol-work",
+      "status": "ok",
+      "bytes": 344657
+    },
+    {
+      "pathname": "/mcp-server-from-a-single-typescript-file",
+      "status": "ok",
+      "bytes": 306803
+    },
+    {
+      "pathname": "/storm-generate-high-quality-articles-based-on-real-research",
+      "status": "ok",
+      "bytes": 237126
+    },
+    {
+      "pathname": "/google-agents-whitepaper-review",
+      "status": "ok",
+      "bytes": 264347
+    },
+    {
+      "pathname": "/what-is-the-ai-sdk",
+      "status": "ok",
+      "bytes": 301879
+    },
+    {
+      "pathname": "/agents-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 402271
+    },
+    {
+      "pathname": "/generate-arrays-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 325809
+    },
+    {
+      "pathname": "/create-embeddings-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 364868
+    },
+    {
+      "pathname": "/structured-data-from-pdfs-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 364957
+    },
+    {
+      "pathname": "/describe-images-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 386641
+    },
+    {
+      "pathname": "/generate-enums-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 328356
+    },
+    {
+      "pathname": "/streaming-objects-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 331332
+    },
+    {
+      "pathname": "/tool-calls-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 406276
+    },
+    {
+      "pathname": "/structured-outputs-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 389885
+    },
+    {
+      "pathname": "/use-local-models-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 318433
+    },
+    {
+      "pathname": "/vercel-ai-sdk-messages-array",
+      "status": "ok",
+      "bytes": 450944
+    },
+    {
+      "pathname": "/swap-ai-models-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 312575
+    },
+    {
+      "pathname": "/system-prompts-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 297646
+    },
+    {
+      "pathname": "/streaming-text-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 321941
+    },
+    {
+      "pathname": "/generate-text-with-vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 325115
+    },
+    {
+      "pathname": "/vercel-ai-sdk",
+      "status": "ok",
+      "bytes": 339466
+    },
+    {
+      "pathname": "/the-prompt-report",
+      "status": "ok",
+      "bytes": 254410
+    },
+    {
+      "pathname": "/building-effective-agents",
+      "status": "ok",
+      "bytes": 248783
+    },
+    {
+      "pathname": "/evalite-an-early-preview",
+      "status": "ok",
+      "bytes": 226296
+    },
+    {
+      "pathname": "/three-types-of-evals",
+      "status": "ok",
+      "bytes": 238328
+    },
+    {
+      "pathname": "/anthropics-new-model-context-protocol-in-2-minutes~hc0tx",
+      "status": "ok",
+      "bytes": 228431
+    },
+    {
+      "pathname": "/2025-the-year-building-with-gen-ais-gets-boring~d53hd",
+      "status": "ok",
+      "bytes": 241754
+    },
+    {
+      "pathname": "/what-are-evals",
+      "status": "ok",
+      "bytes": 314481
+    },
+    {
+      "pathname": "/ai-coding-dictionary",
+      "status": "ok",
+      "bytes": 880758
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ai",
+      "status": "ok",
+      "bytes": 227550
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model",
+      "status": "ok",
+      "bytes": 221089
+    },
+    {
+      "pathname": "/ai-coding-dictionary/parameters",
+      "status": "ok",
+      "bytes": 221419
+    },
+    {
+      "pathname": "/ai-coding-dictionary/training",
+      "status": "ok",
+      "bytes": 220511
+    },
+    {
+      "pathname": "/ai-coding-dictionary/inference",
+      "status": "ok",
+      "bytes": 229790
+    },
+    {
+      "pathname": "/ai-coding-dictionary/effort",
+      "status": "ok",
+      "bytes": 228409
+    },
+    {
+      "pathname": "/ai-coding-dictionary/token",
+      "status": "ok",
+      "bytes": 222171
+    },
+    {
+      "pathname": "/ai-coding-dictionary/next-token-prediction",
+      "status": "ok",
+      "bytes": 222260
+    },
+    {
+      "pathname": "/ai-coding-dictionary/non-determinism",
+      "status": "ok",
+      "bytes": 223207
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model-provider",
+      "status": "ok",
+      "bytes": 221489
+    },
+    {
+      "pathname": "/ai-coding-dictionary/harness",
+      "status": "ok",
+      "bytes": 222846
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model-provider-request",
+      "status": "ok",
+      "bytes": 232903
+    },
+    {
+      "pathname": "/ai-coding-dictionary/input-tokens",
+      "status": "ok",
+      "bytes": 220942
+    },
+    {
+      "pathname": "/ai-coding-dictionary/output-tokens",
+      "status": "ok",
+      "bytes": 218722
+    },
+    {
+      "pathname": "/ai-coding-dictionary/prefix-cache",
+      "status": "ok",
+      "bytes": 221016
+    },
+    {
+      "pathname": "/ai-coding-dictionary/cache-tokens",
+      "status": "ok",
+      "bytes": 233013
+    },
+    {
+      "pathname": "/ai-coding-dictionary/stateless",
+      "status": "ok",
+      "bytes": 222788
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context",
+      "status": "ok",
+      "bytes": 227201
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context-window",
+      "status": "ok",
+      "bytes": 222645
+    },
+    {
+      "pathname": "/ai-coding-dictionary/stateful",
+      "status": "ok",
+      "bytes": 230782
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agent",
+      "status": "ok",
+      "bytes": 219466
+    },
+    {
+      "pathname": "/ai-coding-dictionary/system-prompt",
+      "status": "ok",
+      "bytes": 222436
+    },
+    {
+      "pathname": "/ai-coding-dictionary/session",
+      "status": "ok",
+      "bytes": 222131
+    },
+    {
+      "pathname": "/ai-coding-dictionary/turn",
+      "status": "ok",
+      "bytes": 220247
+    },
+    {
+      "pathname": "/ai-coding-dictionary/environment",
+      "status": "ok",
+      "bytes": 225416
+    },
+    {
+      "pathname": "/ai-coding-dictionary/filesystem",
+      "status": "ok",
+      "bytes": 220902
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool",
+      "status": "ok",
+      "bytes": 229727
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool-call",
+      "status": "ok",
+      "bytes": 227875
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool-result",
+      "status": "ok",
+      "bytes": 230750
+    },
+    {
+      "pathname": "/ai-coding-dictionary/mcp",
+      "status": "ok",
+      "bytes": 221785
+    },
+    {
+      "pathname": "/ai-coding-dictionary/permission-request",
+      "status": "ok",
+      "bytes": 230785
+    },
+    {
+      "pathname": "/ai-coding-dictionary/permission-mode",
+      "status": "ok",
+      "bytes": 229035
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agent-mode",
+      "status": "ok",
+      "bytes": 223003
+    },
+    {
+      "pathname": "/ai-coding-dictionary/sandbox",
+      "status": "ok",
+      "bytes": 227842
+    },
+    {
+      "pathname": "/ai-coding-dictionary/sycophancy",
+      "status": "ok",
+      "bytes": 221013
+    },
+    {
+      "pathname": "/ai-coding-dictionary/hallucination",
+      "status": "ok",
+      "bytes": 231258
+    },
+    {
+      "pathname": "/ai-coding-dictionary/parametric-knowledge",
+      "status": "ok",
+      "bytes": 222249
+    },
+    {
+      "pathname": "/ai-coding-dictionary/knowledge-cutoff",
+      "status": "ok",
+      "bytes": 219450
+    },
+    {
+      "pathname": "/ai-coding-dictionary/contextual-knowledge",
+      "status": "ok",
+      "bytes": 225578
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-relationship",
+      "status": "ok",
+      "bytes": 231968
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-budget",
+      "status": "ok",
+      "bytes": 221999
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-degradation",
+      "status": "ok",
+      "bytes": 222806
+    },
+    {
+      "pathname": "/ai-coding-dictionary/smart-zone",
+      "status": "ok",
+      "bytes": 223508
+    },
+    {
+      "pathname": "/ai-coding-dictionary/clearing",
+      "status": "ok",
+      "bytes": 220958
+    },
+    {
+      "pathname": "/ai-coding-dictionary/handoff",
+      "status": "ok",
+      "bytes": 228432
+    },
+    {
+      "pathname": "/ai-coding-dictionary/primary-source",
+      "status": "ok",
+      "bytes": 221165
+    },
+    {
+      "pathname": "/ai-coding-dictionary/secondary-source",
+      "status": "ok",
+      "bytes": 223701
+    },
+    {
+      "pathname": "/ai-coding-dictionary/handoff-artifact",
+      "status": "ok",
+      "bytes": 223551
+    },
+    {
+      "pathname": "/ai-coding-dictionary/spec",
+      "status": "ok",
+      "bytes": 221408
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ticket",
+      "status": "ok",
+      "bytes": 219329
+    },
+    {
+      "pathname": "/ai-coding-dictionary/compaction",
+      "status": "ok",
+      "bytes": 222164
+    },
+    {
+      "pathname": "/ai-coding-dictionary/autocompact",
+      "status": "ok",
+      "bytes": 220495
+    },
+    {
+      "pathname": "/ai-coding-dictionary/memory-system",
+      "status": "ok",
+      "bytes": 222376
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agents-md",
+      "status": "ok",
+      "bytes": 222656
+    },
+    {
+      "pathname": "/ai-coding-dictionary/progressive-disclosure",
+      "status": "ok",
+      "bytes": 222206
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context-pointer",
+      "status": "ok",
+      "bytes": 224614
+    },
+    {
+      "pathname": "/ai-coding-dictionary/skill",
+      "status": "ok",
+      "bytes": 222846
+    },
+    {
+      "pathname": "/ai-coding-dictionary/subagent",
+      "status": "ok",
+      "bytes": 220604
+    },
+    {
+      "pathname": "/ai-coding-dictionary/human-in-the-loop",
+      "status": "ok",
+      "bytes": 222211
+    },
+    {
+      "pathname": "/ai-coding-dictionary/afk",
+      "status": "ok",
+      "bytes": 222843
+    },
+    {
+      "pathname": "/ai-coding-dictionary/automated-check",
+      "status": "ok",
+      "bytes": 223454
+    },
+    {
+      "pathname": "/ai-coding-dictionary/automated-review",
+      "status": "ok",
+      "bytes": 222693
+    },
+    {
+      "pathname": "/ai-coding-dictionary/human-review",
+      "status": "ok",
+      "bytes": 220561
+    },
+    {
+      "pathname": "/ai-coding-dictionary/vibe-coding",
+      "status": "ok",
+      "bytes": 221446
+    },
+    {
+      "pathname": "/ai-coding-dictionary/design-concept",
+      "status": "ok",
+      "bytes": 220967
+    },
+    {
+      "pathname": "/ai-coding-dictionary/grilling",
+      "status": "ok",
+      "bytes": 218708
+    },
+    {
+      "pathname": "/ai-coding-dictionary/prototyping",
+      "status": "ok",
+      "bytes": 220918
+    },
+    {
+      "pathname": "/ai-coding-dictionary/dx",
+      "status": "ok",
+      "bytes": 221471
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ax",
+      "status": "ok",
+      "bytes": 226707
+    },
+    {
+      "pathname": "/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more",
+      "status": "ok",
+      "bytes": 317918
+    },
+    {
+      "pathname": "/skills/skills-changelog-v1-1-wayfinder-to-spec-to-tickets-grilling-improvements",
+      "status": "ok",
+      "bytes": 330656
+    },
+    {
+      "pathname": "/skills/skills-changelog-v1-announcement",
+      "status": "ok",
+      "bytes": 285516
+    },
+    {
+      "pathname": "/skills/skills-changelog-handoff-prototype-review-and-writing",
+      "status": "ok",
+      "bytes": 253954
+    },
+    {
+      "pathname": "/skills/skills-changelog-ubiquitous-language-grill-with-docs",
+      "status": "ok",
+      "bytes": 301714
+    },
+    {
+      "pathname": "/learn",
+      "status": "ok",
+      "bytes": 277683
+    },
+    {
+      "pathname": "/posts",
+      "status": "ok",
+      "bytes": 2025615
+    },
+    {
+      "pathname": "/open-source",
+      "status": "ok",
+      "bytes": 197944
+    },
+    {
+      "pathname": "/topics/meta-announcements",
+      "status": "ok",
+      "bytes": 178361
+    },
+    {
+      "pathname": "/topics/build-a-software-factory",
+      "status": "ok",
+      "bytes": 188966
+    },
+    {
+      "pathname": "/topics/think-like-an-ai-engineer",
+      "status": "ok",
+      "bytes": 212236
+    },
+    {
+      "pathname": "/topics/learn-how-llms-think",
+      "status": "ok",
+      "bytes": 218268
+    },
+    {
+      "pathname": "/topics/set-up-your-agent",
+      "status": "ok",
+      "bytes": 219492
+    },
+    {
+      "pathname": "/topics/get-better-results",
+      "status": "ok",
+      "bytes": 195964
+    },
+    {
+      "pathname": "/topics/score-first-wins",
+      "status": "ok",
+      "bytes": 185244
+    },
+    {
+      "pathname": "/topics/ship-solid-code",
+      "status": "ok",
+      "bytes": 190170
+    },
+    {
+      "pathname": "/topics/build-the-right-thing",
+      "status": "ok",
+      "bytes": 191071
+    }
+  ]
+}

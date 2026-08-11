@@ -1,0 +1,918 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/workshops/ai-sdk-v6-crash-course",
+  "pathname": "/workshops/ai-sdk-v6-crash-course",
+  "fetchedAt": "2026-08-11T06:28:03.420Z",
+  "title": "AI SDK v6 Crash Course",
+  "contentHash": "0bf0725f41d76b4dbe99bda6f38df9c315ef8add43865ba446b3ad39f370bf78",
+  "textHash": "d4d6391ba4f61bd26ac7d99538116027ce498ae9bb861fb6a41cf77f8e4fea5f",
+  "strings": [
+    {
+      "id": "22576f031b89b64eb94fe189b739560a57e5bcce0c89fb78e2c2451f82a287f2",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "26b86810c901859bb769d650702273310126e95a6331abfdf8c8f97ff5e6b558",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "16a203d918639376c4fdd48721947d167734217971e63b39bbe2d3a4fd2faeed",
+      "text": "Start Here",
+      "hash": "c2a26264b6cc01757781866341680687c71cec904df21785fb6786a70de28d98"
+    },
+    {
+      "id": "241b3f5a517c9af1f0bb37c32d8da1ebdd9cb2e77604300bb0cbdf6fd6d53756",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "c56a9673e80d7b562b052007bd444e69bbbc4ad2f0578e7a15420441ace00ae8",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "63d761d835c6f86c31a710f52cae463e4623c1a2541dc6a458e7aa4162aa481d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d3787de044f0a8c1cf6addab127975d6b291e85b507ff94ce3204862c63aefca",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "f52bda6141b7dd4d5be6f49d3414d969259e15d8c1d03cb745a2f033135ec1aa",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "f04d519485f2c5ca664b82b3b2ddd1db414eab03736fbb4283e75b1bc351fe8d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "945bcaa48656218e7b4b0429051164ff9e13310ad5fc104b1b8a4909d07b6fd1",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "c3d3ae2f2f31711142510e60733d65b6736840653e9d43ff01ee7eb460bc7aac",
+      "text": "Here's how",
+      "hash": "557eb07cafccd9deab7a41141b0c1dc2540fdaccca86cc737c9c5ae588f02593"
+    },
+    {
+      "id": "3f606ce6ef15f7644ef3cb055f266fe5e086e4a527747ad2239c8f4e355c0415",
+      "text": "become an AI developer — fast",
+      "hash": "c8504bf1f58f563093ea49c0f249bf39548ed1876d5c7cad640166c60775f1ee"
+    },
+    {
+      "id": "1037495179dc1d197d6f3bc3cd805255cf27e8d0c157f2781b4452b3e519c34d",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "32a38c53f8c9a583b882b47c53306ee953e456dbd71f897d716ff1710025e51c",
+      "text": "Checking your access...",
+      "hash": "1cc593f956ab5a144ef29721e79835ebfb47577a8b842709adf53b67c7f2e591"
+    },
+    {
+      "id": "58f023bbec778cd23bc72f19b120466134a3e33b5a16ca4ee453e12a381e5dfc",
+      "text": "Content",
+      "hash": "47bd29075f8b8019f0beec6d86beda7c9bf67aaf05053dcbe0b3bcb63968517f"
+    },
+    {
+      "id": "50c0a04f281da898218aaafc6c2a4dbfd6f81061c2225e65bf6111241561162e",
+      "text": "100% TYPESCRIPT, 100% PRODUCTION-READY, 0% HYPE EDITION featuring AI SDK v6",
+      "hash": "56295810fc31e3de79604f7899c971b61477508c70276af07ab8a24a5de42acc"
+    },
+    {
+      "id": "bb5d010a890b326b1ee8620c2a7036de3b1f94eb44d6bc2bd43673650ac1e525",
+      "text": "This course has been upgraded from v5 to v6!",
+      "hash": "c929a13a64bd9a8d08e067865bd6b98970a30fb23c1263314a08b2f73ccef054"
+    },
+    {
+      "id": "54a877b573ce380317f9a526172bf98f05e612ffd4467a862c4eb265677250d3",
+      "text": "Integrating with LLMs is",
+      "hash": "7e0ee7aa3aa5dce723adc33cebf1d7b9a920e2cf0d2a1f85a4cfb7be0d96a37a"
+    },
+    {
+      "id": "2cd5ac76b6001d8c6f36531b164c8b0b52ae0192b0075a327556d8e8b42c0cf3",
+      "text": "worth it.",
+      "hash": "2bca09b0da4686b00a50e7095f8ed947ba1512e28bad9da2c37a396c06597798"
+    },
+    {
+      "id": "7c70d8130146ef10644870b15fbcfa460fa7b53af96e3bf66caf88db3d9f87ec",
+      "text": "It was less than a year ago when I made the very first commit to",
+      "hash": "1658381cf8dd38b74d3a61cb809ee8f22f420efa30576c86f8a18d6feed6d554"
+    },
+    {
+      "id": "4b82c8390e64e572279cd4494acf91bc727fb62808e91d957b8e9a6615b726db",
+      "text": ", my eval tool for LLM output. Kinda crazy to think people were out there rawdogging LLM outputs for years.",
+      "hash": "1fb24f5cb4059e0e9f7c79028875c24be4013fb92e0933de1309a5b26c2e190e"
+    },
+    {
+      "id": "d225ce16b3852f9e6934d03e9ff1964fa0e5f973b355d2da90bf9ce7a326b958",
+      "text": "(And some still are. If that's you, no judgment — just keep reading!)",
+      "hash": "e538f942f1c1be4f7b1ca7d8be7972b6cd299793628cf0817dc7fbd4e2a426f9"
+    },
+    {
+      "id": "9322833f8cda19fedaaac4605d8735a2240550b86434ca9a3531bb7c39f48b57",
+      "text": "LLM integration was exciting, but it was",
+      "hash": "f1cc207c123b6a80ef67d122d1bfbe953449b3f32dc2ac92ea520b4551f29e84"
+    },
+    {
+      "id": "357120a32db3314bc6c8c28f435b054bd4d6c1ea38a35b846204089ad53cb520",
+      "text": ": kludges, workarounds, constantly shifting APIs (every vendor uniquely horrible in their own way)… and a",
+      "hash": "11ae5db7e53f19f34757fefae0ed33eb944c1cc4db13467b9061654542fa711e"
+    },
+    {
+      "id": "9f49e0dec25d8805fdc3c22aadced6c0bddf117f6f8ee5d756a388b24e5c2268",
+      "text": "lack of production-ready tooling. Just about everything was roll-your-own, and then re-roll-your-own again when interfaces were suddenly deprecated. You had to spend more time",
+      "hash": "6cc89f61d034614a9ea4ba4f976e14e404db8753c56c408cfa7534020fe69273"
+    },
+    {
+      "id": "d9645595b919a4b989c49efa044137f68e726aa72cf0150df18f196dd3a8dfa6",
+      "text": "Today, it's a very different developer experience, thanks to AI SDK.",
+      "hash": "2141aab77a387c869673048785bf00bfbb7f0894a3ef33b8dd5633805a4f02f2"
+    },
+    {
+      "id": "5d3b77499157ec64a08c6559f2d8365f1acc271fbfb231321054562122c4c059",
+      "text": "AI SDK changes everything:",
+      "hash": "25fbde328decc88719dfa31f4ca2aa791a8107daf8ae7a5c7de924e722ed0373"
+    },
+    {
+      "id": "59a1cfdfde2cdec85db9002d86a2f17942d399f5034d890b5f5cb8bbbdee693a",
+      "text": "Now",
+      "hash": "fe18013d93d22f4f2a70344d30c00fe62d2ef29189ae5d25ccbda81fbd9c92b0"
+    },
+    {
+      "id": "a9c85228a2cf1840bb401c175b13f77be8bef27b81f902ba8850dc0f0a67f23e",
+      "text": "you can write once, run anywhere (virtually any LLM provider, and lots of framework and hosting options).",
+      "hash": "531835b9845c9c850f43033b0c93a0b5cfc34cba59b1efc9fc4da8fd6c84d1f9"
+    },
+    {
+      "id": "614ccf78e02cfb21788b23d4acb511e0bc54fe60d2bdd461a0e7a4b6e7e09947",
+      "text": "you've got the tooling and patterns you need to focus on",
+      "hash": "96a73ef5ba67cd5b06eda4bca988458a2ce1fdc245dfe0c517881eb9e14ca2d4"
+    },
+    {
+      "id": "14c8c436a4d6dbc0eba9379016cdeab08926df2d35012763c12fcc73316f8e5a",
+      "text": "building features",
+      "hash": "a98c3dc7d126193a6b7b93b8f93216f9eb5a2c36b87e06dd03f8d241a70985c3"
+    },
+    {
+      "id": "267bc260906628c114c08ce5a0f7e888458fcaf374616b62ec3adbe4bfa83b2c",
+      "text": "instead of reinventing the wheel.",
+      "hash": "f54667ac9f684a577ec22aeade0bbedd50d8633d29c370e247ea26c8d94f5089"
+    },
+    {
+      "id": "493a2b9887f98ec4a0c849aaeb0221975b470cdfb54d1713611bddc99b33d926",
+      "text": "your AI integration code can be as beautiful, modern, safe, and durable as your code for everything else.",
+      "hash": "e8ce31352afb514c115e0427a7d03f766ccab3d5cc4070078c3434013e258688"
+    },
+    {
+      "id": "2cac3c91c683bfc95f2eb5d7a85a40f85f1b832ada1be46f2e993b7fd3d555ea",
+      "text": "It's 100% TypeScript, too!",
+      "hash": "d7c2aab3e0eb27afb901bc21c088a74ce129360220a9d030882ba34b3722dac6"
+    },
+    {
+      "id": "36b6e2be0d41f54312d0d1f9b26090fe7c292e3b08d893d0b6723d38712d0e27",
+      "text": "And version 5 is the best yet: more elegant, more refined, more complete.",
+      "hash": "b27f95300a28e0456609da4ca13befede39bfc1d5fe330914f3b56db82f1e048"
+    },
+    {
+      "id": "7eb761d68057c8b5e345cf87e0d4141491a553163b20fe3e0c1beaf966d34543",
+      "text": "So if you've been biding your time, waiting for",
+      "hash": "b253a5a364b6b7a6d5f64a45499ead57cd5626f97c2e04a7547affa45b4a6d19"
+    },
+    {
+      "id": "0b9a1ce4fa0aa97d1cfea357b9cb839a391b1128a8a34c067f06e171c2c28674",
+      "text": "APIs, tooling, and patterns before investing your precious time and energy into building",
+      "hash": "71ff7b76abd18101a3b274dff7e762d4e2ab84c0afdd96598c78138b4f00e254"
+    },
+    {
+      "id": "630576af7a35820a6e275371a4cf861637570072efca0eb5db9e85f38359306e",
+      "text": "wicked cool stuff…",
+      "hash": "5c0762a77aa1d684205578c81763fbbce94293bdf680e85f012caff3f61375b9"
+    },
+    {
+      "id": "2ad5baec3f6b412c3d00df337481946f3f44fa551d0244bcf5c513991849625d",
+      "text": "I'm happy to report: that day is finally here.",
+      "hash": "0fa32edea976ea1cc20c396e03c3daf0ed06113580852484080dc31c611ce6ee"
+    },
+    {
+      "id": "fcef0031cdea875d2bcab962f29915a7289dce83213f1477395b151e44e5af15",
+      "text": "Today",
+      "hash": "2b065c7c9ce466e5ebcad757987d5d660ee4c9ea708bc62c43444b53334738ba"
+    },
+    {
+      "id": "8a33f3f7a4b312e6a7d128dead0ccabb3f80e97c1ba681dfc1871934965e5590",
+      "text": "is the best day to learn how to add LLM-powered features to",
+      "hash": "edc069e7b2db28f2e6ac261c280d72e140b3b306ac74aebe2bf1c948fa44fd90"
+    },
+    {
+      "id": "c5faab6fefe6d82fc3fed61c649455853797c2ac980b05800d67c365d7dcec7d",
+      "text": "TypeScript apps.",
+      "hash": "89a0d1dbb67404733e657d90ad3a15a18a273a35940e6db901d64033f57a39f8"
+    },
+    {
+      "id": "6bbfd4c3df76a7868b5d20d43d0a920b971c558828d4e62c92453a6a4e4efd42",
+      "text": "And I've made a brand new",
+      "hash": "0c382f9c507f437800c45451bc75230e1f9468ccdebc977ffaccdafe53f8a006"
+    },
+    {
+      "id": "7f44462506d524a7a19d51491e3b5a3e549b5432b1d721dfa510fd5933a19280",
+      "text": "Crash Course",
+      "hash": "18169504b0cf0ed00841ff26431ac8eb8249df4b9403ffbcc1cdb071288be1d5"
+    },
+    {
+      "id": "c1a77036291a21c7a1c589562c48ff8422f11592e1879aec45c6fc2f2d031c26",
+      "text": "to help you get there fast.",
+      "hash": "ca2139dede064749bd6b5cf3b8a0736aaefbe28476b29b51309921d76017ca6a"
+    },
+    {
+      "id": "36f14bf33827ad92c34de20fbcd4b70bac3409cafd03508569a4514d370cb9b9",
+      "text": "ngl I was kinda struggling to understand everything going on in behind AI tools in the last few years but I just binged the AI SDK v5 crash course by Matt Pocock and everything makes so much sense now.",
+      "hash": "9bd18d448071a9b2d7b4f31f23b93f19b5cf091537df9fb3078dc051c63a19eb"
+    },
+    {
+      "id": "d1e23a5a8b9c6aab09f53420650ea1819cf970387d97b4e60e80c65a3ac688f2",
+      "text": "Once again Matt proved himself to be the GOAT of online education.",
+      "hash": "81cabba2bf4472bb518b7e0ab59ce4b2daf24e2dc361584e03747f008aad9ccd"
+    },
+    {
+      "id": "0b607b4bfa403c9599b60572b72f32778d415c52a9040c2bfe35efc7697111e4",
+      "text": "Alberto",
+      "hash": "827f6e29bf4d232124b4be3fbc756586b477295664faff9a4b773491ceb9f07b"
+    },
+    {
+      "id": "778c9336dab5b11c50da9692db25fe3cf4ecf6d31d4b50a76ce3aa5985fab125",
+      "text": "Your ticket to shipping modern LLM-powered features in TypeScript",
+      "hash": "b63878ecadc226bedbd5bf270273d49441c81449ec27fb42aa7255d61872714d"
+    },
+    {
+      "id": "e34b28d405cb1a473aa613f0feaa6637642f998f1edbd795d99ab5cb471eed47",
+      "text": "Your existing TypeScript skills are more valuable than ever, and I'm here to help you level up to AI engineer.",
+      "hash": "78e267d443b6883682be32939c253ddd3bfa57eef42f65d13a6cd856663ee7e1"
+    },
+    {
+      "id": "f7a51cdc95cb2ba6cbf47dec700689177d49fbf29543db32254123291f92cd8c",
+      "text": "My new AI SDK v6 Crash Course includes",
+      "hash": "ee22f6ae3d491273cb944e5b3729345b9283bd96be123bc282bd3ed842feaad0"
+    },
+    {
+      "id": "c96d49049ec9843ca380d297419bb1fadcb9cfcfb7ec80afd8f2501d8544b2c3",
+      "text": "94 videos",
+      "hash": "b066c5a759bdd7e2928b45f45fe99203048f50274a2309521717c7cdb33ecfda"
+    },
+    {
+      "id": "f363e77f367d9a5219004227a8f41d6d31a39fa7f548f8ec9094cd55a7e00d3e",
+      "text": "guiding you through",
+      "hash": "259bcfd8fc5a9bcf87904871d0dc6d4579a317e8bf7d63fca63815af5c34d24b"
+    },
+    {
+      "id": "20d7a44459075383e2ed39eb0bce121ad7a2a2f413abbe61daa45bb01a82a135",
+      "text": "59 hands-on exercises",
+      "hash": "87961b82eafe23b3c202a2a993ef3b2c5f0c7ff040b882e7ad3a17847eb0f33b"
+    },
+    {
+      "id": "d7835c9548228859b706720009b402735600c7f3e7f4f70b29c951aba603ad52",
+      "text": "10 modules",
+      "hash": "65ef4df25e2a6aef185417729ee3623ab9412a8cd4c40786d29d8f08867ea6d4"
+    },
+    {
+      "id": "1f3ed7cba98f62241bd6036f4873c5949da19939dd6fdb331bc7d734cdb1cd3d",
+      "text": ". (But don't worry, they're fun & fast!)",
+      "hash": "8e5be1b9e8b4397cb27af263427557459dea8f021af3ff5bc6b2d5f2e3fc92e0"
+    },
+    {
+      "id": "d6acbf9bee58a7b54d069ba7fd3f42a3b5cf6d7f07e66269427625ee3f2e3d3d",
+      "text": "You will come away with a solid understanding of:",
+      "hash": "8abcf2f9f089d779fb62115745babe8b11fb1ee66c8a6c5ebc58a87a88d98f22"
+    },
+    {
+      "id": "c3ba68ec63cc13211eb2b04eb774d558a3c317fa7156810ef18d5d185a8f2cba",
+      "text": "LLM fundamentals",
+      "hash": "06a558f226e6d376f30eb570cd4e736776e694d13eb28676d33759df9c6adb53"
+    },
+    {
+      "id": "40b3cece41486fefe2bed5010dc4acbd8143a770ee7e117abca241e31fbe5347",
+      "text": ", like how tokens and context windows",
+      "hash": "5a39432febfed90f8a8770de8a67fec2d2a01d1ae358490e87842d03377138e2"
+    },
+    {
+      "id": "84a782ba3ab79e71868c368cfa66afb6a3a9d257ec67ede370ecd374a903d2ff",
+      "text": "Core LLM design patterns",
+      "hash": "06d3749287c7d19e2f420b1e83991735204b17a422282c5a7d12249c6ff77e52"
+    },
+    {
+      "id": "4fa7c1214267913bb6fcf34f1f86a066fdae226a44e97c33a1c2cdab378b7ce2",
+      "text": ": agents, workflows, tool-calling, and more",
+      "hash": "40b8f1e4d4eabb8ddcefac4d9f9f3823e7168f4b3355d0b12f32bf824ab903e5"
+    },
+    {
+      "id": "66a3708e7a8fa3ef8086c1e83dd6cd05b4008631f57f022f22857c98bb836d0f",
+      "text": "Production-ready tools",
+      "hash": "67539570b1106a86dd2d0af2a8d2d5b25078f5d40195e6002a88385080781250"
+    },
+    {
+      "id": "3e602c95b7fcf4152f40a0d98c9d85f362078cb1dbc8a5dff1447f5c690d1a26",
+      "text": "like instrumentation and error handling",
+      "hash": "691efaf35bd486c9316200449630ea50142f1c0b8f9af8c3143b7ebd752d3f35"
+    },
+    {
+      "id": "54f186c85ef0627b24f1ab41f967ccd22363ccf60997c9e0e44452b2a7a0de1b",
+      "text": "How to use",
+      "hash": "7f4512dc6d720f99d7b86d876a31223dad67562aaf2a14e1d493f769032a1fd0"
+    },
+    {
+      "id": "6683af8df378e8c3433fa9daf82e0263ad09fe526ef4fed7df3ccbede63c7de5",
+      "text": "Eval-Driven-Development",
+      "hash": "c4e5cd6e099932f0bd8f37c7eafbe331b0510ceeac4e8dc5915218e69572de2b"
+    },
+    {
+      "id": "29412bec242ca3e77dcf6e05e7dfa69bae7b427dfb361e57b4917981cebcdf8f",
+      "text": "to stamp out hallucinations",
+      "hash": "20a64e0c5a59ad14060fd0a5948cc831e7c8125c078140542c52eb5bea79b545"
+    },
+    {
+      "id": "3da91f89c08511e5aff0528bd6b35bb3eb2208864305ba91a1938b3483fd8598",
+      "text": "And, of course…",
+      "hash": "98fb82d139c97457211abd19cafbf7b55fd2c2755fb8cd89c154130b92039b76"
+    },
+    {
+      "id": "4b9a9e74dabb8ae20a0fe3140846a7e9bacfed37629cc5b02a8b893a3ed1627a",
+      "text": "how to fully exploit the power of AI SDK v6",
+      "hash": "d07c6405a11d68b42b3f59ad3f85a1bc8a3df55ae9770abc26fde1466c22ede6"
+    },
+    {
+      "id": "c6e9fc9f24c21078916322d6fb77a94a9f94efd3748b7c4ec2b214e18b81c8c8",
+      "text": "to get those things done",
+      "hash": "03cf0fd4a46c9f2c89ea8b68aab9fe3246e184827a499ea8061fac2a8d8206ba"
+    },
+    {
+      "id": "0041065cfefbe0a7c420aad9d94d11297735f0a7c19c20c75cad7a05b933fc6b",
+      "text": "That's right: you can go from \"what",
+      "hash": "515fb577ccc5ad916f197a06cb5aced1f4735c7141c8d2011999fd3ae012cee5"
+    },
+    {
+      "id": "d903858ec0b826f8a436fca937b880dde26956f9b7f7e02f1a07d5f64bb4ebea",
+      "text": "a token, anyway??\" to shipping production-ready LLM features that",
+      "hash": "00b3ebcc681649399fa2fa3e48edcbf832d5118fcac8494983c2b0e2689c859d"
+    },
+    {
+      "id": "34a44ad1379d2fa31bc2fdcf3a536a3b884f9fdd5048e236dea45e03abcef201",
+      "text": ", with output safeguards, message persistence, and error handling.",
+      "hash": "b5b66f2f5a2fb0aa6d72700fba5b2194b564d96ee7525d9b534814ec1130d53c"
+    },
+    {
+      "id": "e9523e2b9e3dd3238a5cb8a44180ebc28b78b930173d0e9205f6725ba5f8cf7f",
+      "text": "All",
+      "hash": "a52ace420f2175d08b1577a1bea5445e36801229c074ef9ed6c55a73401fd9c2"
+    },
+    {
+      "id": "f22e76eefb3bc6441bac9a56674c36f1543090c7f8fa9c293319c9815d13e517",
+      "text": "need to bring to the table is TypeScript",
+      "hash": "dbec17e990ca0e212e2e631525838080c78f2e7a1acc288568fe999658d1abfd"
+    },
+    {
+      "id": "cd6cff3419e46ab04cd66b9eee2b00710e49817a61c6d8693c6ad97107da548e",
+      "text": ". Everything else you need is included.",
+      "hash": "f2b2bf6b7b75d72c5361808bcd93a19656355e7fb24ecdfc0179715fdb0acc3c"
+    },
+    {
+      "id": "7cb72b13d741fe0225ac37b2c2ff1ca678bf180814c13fdbf7bcf7f7c0743c4b",
+      "text": "And the Crash Course is",
+      "hash": "f9c9f192e7f3066b971f0112ab4488e7d0dc8c74fbe6fb6b7a995a15e0646f95"
+    },
+    {
+      "id": "72f6dc0a3c8a58dffec5379cc9bcd0e380de89d2d9d6d9a9b86b3911df49a4db",
+      "text": "a lecture where you sit and struggle to focus. You know me, that's not how we roll!",
+      "hash": "a2cff0066ae93f4dc261858238bded4d75b9aa0c6cbfee711835b4e4fee6c790"
+    },
+    {
+      "id": "052d0f51ce340c9817d63394ab516b4563ebe87d426deaa666579be8bb4e04bf",
+      "text": "You'll learn through",
+      "hash": "08f324c361d1ebc135267e7f9e0a644e840369feb5de494a96a7d83c41e128d4"
+    },
+    {
+      "id": "205185fd1c879ca00b88542625fc90bd2da7f01990d2e5bcec60283af5f941d6",
+      "text": "real projects:",
+      "hash": "ce2589d038210edec2fc2cf4dc1df8e151edcc79a71a094847555d99bcf54c11"
+    },
+    {
+      "id": "8e02ed7f6df2d002d5fdc91ce2c2f0d56f3e1e002532650760117466cca0cdd9",
+      "text": "chat title generator",
+      "hash": "8d9595af0a54c62169b720fc6c6902af9290467660d2d003fde23996873da9b8"
+    },
+    {
+      "id": "86d3e68c6f57f97a1c198b11141b121792d53549a8b54143d4c3e346ae64bd77",
+      "text": ", complete with a full eval dataset",
+      "hash": "4afe95d55ac4a531db8101c7d3623a7a057d32edd48bd777cc44fc2244ac2d17"
+    },
+    {
+      "id": "2de8cbcffc50b0bcdaf9fc83b26d7d697332458443cee37cdeabdccd145ed4b0",
+      "text": "generator/evaluator workflow",
+      "hash": "80a6fc05db736e440b7976f68e77cb4c33625730f0b0a305ac0bfa5732e5bc52"
+    },
+    {
+      "id": "821b2391de210e9e1d530b684c147fa920ba80834f32669367d02e283958e5bc",
+      "text": "that writes Slack messages for you and automatically refines them",
+      "hash": "2b69f746e6b054ddebc8e9d05f1efcaab14623a47ce6196799fbb6335589a2b6"
+    },
+    {
+      "id": "0df2f54af2ebb661babeff9503de52404b03e548479b02253dfdab393b8f8530",
+      "text": "model guardrail",
+      "hash": "caf222779bc62243075bba518558d39c439e838b4a67617dec08f6753a99ca16"
+    },
+    {
+      "id": "3e908137b99154841a49c27b363048555b21148c509caf9a0f6c91b85d1b9e0b",
+      "text": "to secure your application",
+      "hash": "78e4766fdc7ffa47f4e31b8780e8350947a3d6e24b57b457a52f8de416c412b5"
+    },
+    {
+      "id": "542650d59916dfd062a340a63cc221a6ad68e8be7bb7e1e5f139668d776ca48d",
+      "text": "request router",
+      "hash": "344bccc0da5396467601d6a443822c0567a0e81edc24aa9fcec4a347b1c95c58"
+    },
+    {
+      "id": "5f2132de0d7e72c6ab7cfc1d7ee1a243627806acab87c7f412efba0d70cc4df6",
+      "text": "which can route simple requests to cheaper LLM’s",
+      "hash": "289392791c0b77fb670a416e361915900fed1859ccab9ef81c1da5ce60f03fb2"
+    },
+    {
+      "id": "c93063a06f63eecf757811ab77c2d5257dc22f91709c233d3ce556cdcbdae318",
+      "text": "A full-fledged",
+      "hash": "98133ea3fefc036882967eae9620b5d61d5614ef202a94e434c802febfc7e0dc"
+    },
+    {
+      "id": "d78848e62e113279fa399e7409b75d5e9dda792cd6b66e3ea10ca748bbd457f9",
+      "text": "research agent",
+      "hash": "0ebfb5930f5fd72073fa446898bcffc35ceff785299872953ceb328469cb19fd"
+    },
+    {
+      "id": "f64b4168adbae28ab4946c191f729f71324a29176c8e079242683947ceb8f4c7",
+      "text": "to search the web for you",
+      "hash": "384ddb815f849c26f76575a327eb632c1a80df1a4e88b3e2ca2038090e994e09"
+    },
+    {
+      "id": "0f320565f4f75175baa4fd6a657cb1d9eba7290b1ca09371be6b81334a9552a7",
+      "text": "In short, you'll be ready to plan, develop, and launch production-ready AI-powered features for your apps in TypeScript.",
+      "hash": "94c45a1e53a88ecfb35428e1fe1f8b638a6f651ab66e01580a7fab90b795f406"
+    },
+    {
+      "id": "ee62fede0a9376c2c1456d0cd0b9861a7f0a0ecddce2820f7ebf2eb641eb2b63",
+      "text": "And never fear: you'll learn *so much, *but the individual videos are short & sweet at 2-3 minutes each, and many of the exercises are bite-sized! It can fit into any schedule, even yours.",
+      "hash": "334f293943436d625522c8eace1f934129cd96206a6d3425fbde939005412007"
+    },
+    {
+      "id": "c93351e7f9bcd8c8ef4415855fe14d722793d8e67894925b4c73734d8d596d3f",
+      "text": "By the way, if you've been building AI integrations the \"old-fashioned way\" (sorry)? This is the perfect opportunity to update your skillset. You'll learn all of AI SDK's core functionality as well as new v5 features like",
+      "hash": "f2330c09560047b82c285a8398d0ab63d3deb83aea5a776904fdf88ed88763d6"
+    },
+    {
+      "id": "db5253b5ba3b06bfbb8dda3cb9368ea6777c2559a46391634c204cbb5f666981",
+      "text": ", custom data parts, type-safe tools from backend to front (big win for us TypeScript nerds), and the massively more elegant",
+      "hash": "c8f2f2fd84803380575a23865deab46384de6b92e14a98558a1d3cc52655b127"
+    },
+    {
+      "id": "3d35152fe19d6c73a5f695bed934cb2c2b47d4489cef909b5325864a1f2dcc4f",
+      "text": "array for message rendering and persistence.",
+      "hash": "425fe50927e632ff5cdf1832d3c2c5c86c59e30b13f7f15144f33d0dcaff39d1"
+    },
+    {
+      "id": "ec0593f2b086ebd3765880996b679aa32632ef609fc9b711cc6191329dcb5732",
+      "text": "And in the update we'll also be covering the breaking changes and new v6 features such as streaming objects via",
+      "hash": "ae91fbc9c10ccf410507aa6bb218bc2cf8718f80074c38bf90b7c9c993d06576"
+    },
+    {
+      "id": "0b4c14964075099327b1e8d51037cabf7a1589affe367629e37263adc3d02139",
+      "text": "Of course, the technology and AI SDK itself will continue to evolve and improve. But with this hands-on, real-world, tool-building experience under your belt, you'll be able to evolve and improve right along with it.",
+      "hash": "91038438412d86a002895e6760376502b66c86ba254fc6ac806f841abf2f9f55"
+    },
+    {
+      "id": "3c94210cb31ee7afcd6148a601221682fd22b8e760355699e1d5389abfc67a4e",
+      "text": "(Don't forget: AI SDK supports virtually every major framework!)",
+      "hash": "e4488fd4fc5dbc07dbc20e1622e5f70e6176a6273a272a550b3eda24221f0297"
+    },
+    {
+      "id": "4b5f820f1e1af32e61ad17ef14acf8c2439742f94d9901e8d7b1f76d1a55eb1a",
+      "text": "Buy Now",
+      "hash": "e993dd9ac5bd3f05a6d138c59d6cc557b2bd8754554cca82a0ff472796608a59"
+    },
+    {
+      "id": "b81c4f32cfa25b4704036f33d2721f0859603feb41f83a9d7a20bc3fe3c999b8",
+      "text": "A complete education for just $149 if you enroll today",
+      "hash": "c18808433873d828166dec45bfb3f9ead57b915dc82c9d702677c4cff0080d23"
+    },
+    {
+      "id": "7fa30b45fe66243bfff11930b364bc089141e5a56eaf7bf45a7f8544d6bef4c0",
+      "text": "This is a self-paced course. When you enroll today, you'll get instant access to the entire course — all 10 modules — to keep, and go through at your leisure. You'll be shipping your first feature in as little as 7 days.",
+      "hash": "46f8df82a50e5ee8f128dd375ee1edbb8cd58d198eafd7e199ade658fad0c554"
+    },
+    {
+      "id": "a5c470a91e7a75ab078ba9d57f2f204d5863f530ef4884225b87e46781212cee",
+      "text": "Any way you cut it, AI SDK v6 is the best way to take advantage of the potential of LLMs, and my Crash Course is the best way to get started.",
+      "hash": "6f6782e7d80c867cb72247879a9a2a4a65b4b9f78a49a865ade3c06f60c1d0ac"
+    },
+    {
+      "id": "997846c1d6c2248a9c4ee41a8b5cc2f421e0387fc34972917b4ce867d424a574",
+      "text": "Why AI SDK really is revolutionary and v6 is the best yet",
+      "hash": "8d0f46aed52edb90a43b00d1dd64bf300821f8463aa9052ab6c6609426f6b7e2"
+    },
+    {
+      "id": "24b073a2613d2e406a587769b7776861448333e82f6e54a0f24eacf66af94b29",
+      "text": "My Crash Course really has two goals:",
+      "hash": "abb9e9ab8250f794fdbd9248ae96983bf446954c3eff4cace8dbcd0f8044f9f5"
+    },
+    {
+      "id": "b94f2a30d6a94c62808db6aaf437934650fca03fc3f02b11717d0c9e0f74849a",
+      "text": "Empower you to ship LLM-powered features with modern engineering principles, and",
+      "hash": "f4285daf04a4ec049b15a4a58a87abf650945f6f21776c917004fc81aa4a8ef1"
+    },
+    {
+      "id": "c7805dff4848a6963b7230446179dd3d348e31caa23788dbdd90a7c8c995668c",
+      "text": "Master AI SDK v6 itself",
+      "hash": "283b2c7e3229cbf097739e298a8dc23b04d0e8e397a2577cb71459b651c2f401"
+    },
+    {
+      "id": "d269f940689df8dc639c8518cb4f78dd31f315725af78b9f8527808040d2cb15",
+      "text": "There's a reason for that second part: It's an abstraction layer and engineering toolkit in one. It saves you",
+      "hash": "85db86f1465c8003254925a2ee0506ee4baf9c1e63e3732498926fa01211319e"
+    },
+    {
+      "id": "3d632a31dabad70a4293cd437aea5e3aaa53b8279586b736b724c2da69c9638a",
+      "text": "so much work",
+      "hash": "ccd6484dd78a75c2e3b15457ddeab3390c9be3ebefd7a644213fe1d6849e782f"
+    },
+    {
+      "id": "1c2cb3c51f773246f8b96baee460886afd839fa799647cf19a2900a2ce224c3d",
+      "text": "To get the same level of production-ready code, you'd have to put in 2 or 3 times the work without it, conservatively, reinventing the wheel and accounting for platform changes. And then you wouldn't have the power of open source keeping things up-to-date… meaning even more work for you in the future, too.",
+      "hash": "b82a222354b0c78b72eb540b4794ca78e3980a6e676ce33322ffe15c2c998643"
+    },
+    {
+      "id": "f6ba87a578909977c03e0cdc1f0470a42364fda29c424bcd87aaaaf6325c44ca",
+      "text": "In my opinion, if you're developing for AI in TypeScript and you're",
+      "hash": "0105051f343932a89c298bd1c7e2f843b3173aca38cc5d260bf2c3b4856c5d4a"
+    },
+    {
+      "id": "f74d2d21c63b02dfa08833312b936a52b49c1b2c68a219f95215afa4e4e5ca71",
+      "text": "using AI SDK v6, you're making a mistake. I'm even making AI SDK the basis of all AI Hero courses going forward.",
+      "hash": "c0122eb41cbbd611db9a599c7cf34924db76164c80c2239a8225de58f63c9ac4"
+    },
+    {
+      "id": "1fa8116e2e4826b542d878758b332d617bc03b1449715fc0c4a62a963054ae8d",
+      "text": "It's worth every penny invested.",
+      "hash": "651bfc01ea4bd1633917fced864478dd4ed88839148c2277d351d319d4ff7ff8"
+    },
+    {
+      "id": "529d7688d5fff200f9ef49c1c7c300b4006ae1d3fc96f5ad2421c60664a0ef83",
+      "text": "The AI SDK library has zoomed to",
+      "hash": "4ef4d7792f253621ec20d201ffcfaf30a06f447b17d3eeeedcd8b9d867cf6a09"
+    },
+    {
+      "id": "02f082d136b77ddb2ae7309e0873dea0904e552d97f15f056942e546ff6f97f7",
+      "text": "3.5 million",
+      "hash": "3a00b23aae049a6e3752eea263aea3caaef73c8f949c64e36946aa7fcc8ec2ed"
+    },
+    {
+      "id": "85f61852b2945a7ae040c86b654b6e565575331d2033ef0aeff7345a6ba3df82",
+      "text": "downloads a week for a reason:",
+      "hash": "d4cd900a4bf0897355651dc987199697879ebfebe97505a6239044a609e9234e"
+    },
+    {
+      "id": "ba9bfeeebc89176e7a11ffe0f6079fc2d930faaad7524121a24f389a95c20eb9",
+      "text": "AI SDK is a fully open source app toolkit",
+      "hash": "536a4245f7f68dc5e6bb5781071717f87253d6a0a5adffa022c783a8f6a28e68"
+    },
+    {
+      "id": "e2d7e19d4e0e070e68bac66babe82a1406da92dfc8905c00cd3a9feef5e58416",
+      "text": ". You can copy it, modify it, fork it, even repackage and relicense it as you like, thanks to the very permissive",
+      "hash": "2936d6ba5af33b4cac91492bb859b3edad55bc8d3641c18f37831db4de7598b2"
+    },
+    {
+      "id": "ec177ef185c3b247818b4b188a80f1fb62bf0d12e317b317b0094e1b46d6f89a",
+      "text": "the Apache 2.0 license",
+      "hash": "fd533dbd1158cc7869980c12e0e32750a48a04a09d1ffbb5b5ef122fb93b73c7"
+    },
+    {
+      "id": "cea6591d4e521c8e02d70849a82c0403c69ca38fedc7231549b56362f080aa34",
+      "text": "It integrates with every framework",
+      "hash": "e93b49972c40c2975af9f66208d6bf784d2512be0cb44f4fd2ec96bb1daa95cb"
+    },
+    {
+      "id": "5069e215b3d559268289816197c7df6174bb56c5694cb0baa1578a8f799c7125",
+      "text": ". It's for TypeScript and JavaScript. It provides a set of hooks for every major frontend framework (and even gives you abstractions for Vanilla JS).",
+      "hash": "53d97f10147f85b01a9b7cf41b6e2d5c678a38f167584337c0a433ab511230c8"
+    },
+    {
+      "id": "f7f4ef9c95c3a7530f5081482c4f3f631f79e4fc2a16755dd6a6793029be9901",
+      "text": "It works with essentially every LLM, including open source ones that run on your own hardware.",
+      "hash": "315c2791d84717359d31d6f36d566d5c304efc7dfa9adaa305b512c3344e2c1c"
+    },
+    {
+      "id": "f6c9fe5016b436b88eec50f7fb7f3209b17cc937ec88a12795d4f9a5b20bc321",
+      "text": "Seriously —",
+      "hash": "3e7c0b0163b72d53839e13d693e14eca0fc657ab81802e2893f07821488d8672"
+    },
+    {
+      "id": "c78a0af78828f140051a227983682024d4d6ae64908d92561bbcf270d48b1611",
+      "text": "check out the list of supported providers",
+      "hash": "eb5448ae6417e3093a0a62732d6f94fd35eab03513f4b40c1eb2bb157e08f965"
+    },
+    {
+      "id": "95d00a3ef6ce05b2083f6b8e55556219a232d5e414139836993162b664972470",
+      "text": "It gives you the power to switch models with 1 line of code.",
+      "hash": "12a0e0ff04791013475b20cf3a9e272653b7e2acc211019908ba4cfee87ae785"
+    },
+    {
+      "id": "6d66615e8afb52861f44505047f54e4dd430815898f0df029c785e4eab83b417",
+      "text": "Because AI SDK gives you a",
+      "hash": "330d84ddc3a0eb09cc0cbe8ccbeb42db10d25f20f94f7aed394470039567beab"
+    },
+    {
+      "id": "65972f359ff02b18522600a1a59b6071af4f304b4cc04e5f10fa4f92f3c09995",
+      "text": "unified interface for every LLM",
+      "hash": "8eb8f47678092119922e78b08fc3399d4fd38af3744632f626ed4b1ab680bda7"
+    },
+    {
+      "id": "e33edcfe8124cc2be33595d7319aeb9e3328fe66e08e86ce853bc84a56e9828a",
+      "text": ", you can switch models or providers as easily as editing your config. You can also use multiple models in the same codebase, all with unified commands. No matter what changes may come to the ecosystem, you're ready.",
+      "hash": "bcc81b06e995091257b9bf2d0970e2a2c260933465af5bb05257be5275f6d1a5"
+    },
+    {
+      "id": "77641432a797525b69d04eaef36748eaef611e8cb0ad1246e5baab5f878b8c36",
+      "text": "It makes instrumentation easy.",
+      "hash": "8e0f842721eb9fea90e02ed51756c1ae903493d00f8f7e7bc1facd4253a8df0d"
+    },
+    {
+      "id": "7082b16501b1e2d51ebd94bc08e05f705b1be1c10087c17ba434b5435de37b60",
+      "text": "You can skip the slog of writing your own instrumentation for observability, because AI SDK can automatically export OpenTelemetry to all major platforms.",
+      "hash": "e39c347708e42d70e838d1f5aba8dcdcb4a4f605be89e2608b614e931c1fb815"
+    },
+    {
+      "id": "d598ef4856b4f110e53ce40030cb16ce02e8fbe400b1f047e49729a1bb13a7b2",
+      "text": "It runs anywhere",
+      "hash": "1abc1bc2a39f28e425d5e82b2d34273924d98df68acced6bc09d6d614efc1e0d"
+    },
+    {
+      "id": "3521ca917d5e0a88023162f7180d385ff126f995cb1bf69f9c38cba2d4cb6ad4",
+      "text": ". The AI SDK is totally platform agnostic. It’ll run on Deno. Bun. Node. AI SDK is made by Vercel, but you're free to choose whatever you like.",
+      "hash": "e2f3fd050cd6b80ec021a9ae2a6b0f72018c58415f5b9e6e52901e05fdbed4b3"
+    },
+    {
+      "id": "e6ece29ae90a8c35af06c854f8849c7f745f832b354ebba4c7b468b2372f9640",
+      "text": "It's gaining wide ecosystem support.",
+      "hash": "dd027a3b84e0d1b32865c121b2f999b4d6fae2eb2f2148d70544e4005650adfb"
+    },
+    {
+      "id": "f34c8b1c669441cef29badd760501daed2c879db725c48f3df74c740295529f8",
+      "text": "The AI SDK is so darn popular (3 million weekly downloads) that platforms like",
+      "hash": "4d8d9cd1598dce0c3c4e01e17df89795c5b917f9be74b07bf1aaa0cf21c31515"
+    },
+    {
+      "id": "f0fa1880c81db3165979ca39b9bf94fe3b4647e8d3a9de937d30dada7524c89c",
+      "text": "Langfuse",
+      "hash": "5ec2f13c1a8c8061a998fee4c0c76d85a7cdd236c76353e86e426c5937615179"
+    },
+    {
+      "id": "012f3c4f55fe0d10671dd07ad886c009c34a098e194b49ba22befe462c3ca077",
+      "text": "Braintrust",
+      "hash": "53191979361af8b634cc5da1e6248fcf401666ac1568c47c36915ef6893f11f6"
+    },
+    {
+      "id": "fd2e4b38f6789f5e732896e43621ee3b6e1d3829111001ca7a42136360c89432",
+      "text": "and others have built hooks to integrate with it. And I expect many more to come.",
+      "hash": "204e0da4b7804c482b1dd99fa668fb2d3d6b4b9bc649067f135f927b1b865b63"
+    },
+    {
+      "id": "725ee76c3afaa75228c5326a4db2bf66b11c8b445dbd3bf985864da27bea0356",
+      "text": "All of that adds up to saved time, saved energy, saved money, saved hassle — more freedom, more fun, and more time to spend making",
+      "hash": "d83de268a35135f440f308aa9b42c54ce4556f7d5bd0bc26cc541ef44ca4aa51"
+    },
+    {
+      "id": "a929fe43061e641ae6d3d543f5e012df4840e9ef8fe9a86bf99fd2cc899ada05",
+      "text": "exciting AI-powered features",
+      "hash": "30f1d2522afd380b3c0036cc56aab7a9b3c18a2b1ce1a3c69061cf60a3caaf96"
+    },
+    {
+      "id": "b2144c8c10d15d755896c03598bc9543336afc71b5a60a982e9e1907e829f619",
+      "text": "AI SDK v6 makes LLM-powered apps as modern as the rest of app development. Finally!",
+      "hash": "50e41462c5338a53d22b5ad72aadee18e75f9ac88c97ac68903cf8f3eddad641"
+    },
+    {
+      "id": "52d7305a9deffb1237b3c0a9643d98611234e069d62ff6bf25d72d10ae3734b1",
+      "text": "Don't you want this for yourself and your projects?",
+      "hash": "353d114d4f5539bfd8291b0b524d3824192417b1cfa5fcf5a41b99cf609c16b2"
+    },
+    {
+      "id": "693205341f8beff3106663d3805f693a27d5af382bc19b50f5dd5fb2426d5f5c",
+      "text": "It can be yours. And with the Crash Course, it won't take long to get there.",
+      "hash": "5cc118d192f7a69aa1031b58358199623413cd8e93a8de9eb3f8c37025c00eb6"
+    },
+    {
+      "id": "f39bd1e22322adb9b3d4d1a97b34a3c1da791a475a87f7535c2f06c2d3c4ea44",
+      "text": "AI SDK Basics",
+      "hash": "5b254e2bfdc0338ec188f9f8a7053a8f2de3e11fd65017da24a03c59f947bfe2"
+    },
+    {
+      "id": "9a42b0b7588261a462475226045cc22c7b0b7b3cf65a136158d1a9965b1dd5b7",
+      "text": "Free",
+      "hash": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d"
+    },
+    {
+      "id": "e6dc50987acdc915b524d724ee25472c19af98ad37c75189213f64eb55ddd5a0",
+      "text": "What is the AI SDK?",
+      "hash": "1271aff1f67dda76d5d7d5cc531dbc2a6a1f9f387986433ed69afe3172487ba2"
+    },
+    {
+      "id": "f1b249ddc8435292a81432762d0798ff07d6b0f48f5914643d79f416f504b5f2",
+      "text": "How To Take This Course",
+      "hash": "1b5482892d51cce51cbba10b4358734ee066a938b4fc8e92004a794c008de29b"
+    },
+    {
+      "id": "0478511f6ee7181652b8a904d44329866745f9a9424c19e3c3ea5ec1258a38f6",
+      "text": "V5 to V6 Breaking Changes",
+      "hash": "a6ed9fa70659a1e5d374134758c993547fd11cc8313b849a2454cdb6b3464091"
+    },
+    {
+      "id": "a51ca7b8b43b4410da71dbbce3796f145a26d7d81a9c0980d9635de19fd33215",
+      "text": "Choosing Your Model",
+      "hash": "44e13a101f514f328c6d0d634d42cc3f4b1834b77c3a883cc28537d21dd97fcb"
+    },
+    {
+      "id": "89f58da2bde61e2e58153a941fbe20b7d5ca48ef7a54cceb69b4b7facb8300c1",
+      "text": "Generating Text",
+      "hash": "7d918815ead6a8dd3806da16236f4b39ef63439f2a2d18104a47b02f78442801"
+    },
+    {
+      "id": "2d11ee51493d86e640e88c0fdd01bf639e858292af6b4af9adc789a4b2c79c01",
+      "text": "Streaming Text To The Terminal",
+      "hash": "7cd8a764e34cd4ee8411ea12e3288a027ad4e29ab1e4adc252258652791c0a0d"
+    },
+    {
+      "id": "f486baa260e93a836caa058be50f4b25050008e9dadd90c86cad059d830c3172",
+      "text": "UI Message Streams",
+      "hash": "c78b13e4d80de5eec8ca8f1aab3d1ddc5ab544165869735b470ca7874d80f13d"
+    },
+    {
+      "id": "01ce721813ce01f5f50050061a916d91bc1077cee0148909dea01493404d8e68",
+      "text": "Streaming To A UI",
+      "hash": "5ef784d887be8d18f881eb9b0ec247e60b63619819c70d49391e9cc5a7dd0346"
+    },
+    {
+      "id": "79bbf993387e86c3866e58489e1f939676f18414eeba2116a433137543a2cb55",
+      "text": "System Prompts",
+      "hash": "4e524d37084f7dcc226a88f1e0d227cffc3d79ff0195f6b7b62b04d9bd4c0910"
+    },
+    {
+      "id": "d4ed5c0d5a72056669e95657b0097bd1898373f36d91d0381c1f3c96411f9919",
+      "text": "Passing Images and Files",
+      "hash": "8d9a9dd07a40f462348f0c2d9983024dd5c74258dc2cb3d5f71caed89e087ab9"
+    },
+    {
+      "id": "f9d28f51b05655fea39d506141db2de594874cb3422d93d93d2e098c69730815",
+      "text": "Generating Objects via Output",
+      "hash": "5a07d483371cd67730cfce25843f8063e48617411a009a929b1dd177199ffa5b"
+    },
+    {
+      "id": "fa89f6b1554cacad1e9b85790baf29b24a039d859f59e726c6191fc5f441eedb",
+      "text": "Streaming Objects via Output",
+      "hash": "404cb12b587ca1d4ab73e8bb1ab48757b93291b54e10c975de75a813d694c756"
+    },
+    {
+      "id": "188073b582c35a61ea8a0510724d57bfa557b4e7144d78ae549a2211b4bf9f4f",
+      "text": "Devtools Basics",
+      "hash": "af6129c34ca790f38fada8839fc218f35d272f312d23b35dda362412f80c2c83"
+    },
+    {
+      "id": "80cbe96859355f7f14aab5059a93a166af577d04add466a4641c7ea82ee3f4d0",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "f0fcfb29b1b3eb39519dab93f69aefdae6ae7ff15c50dc1997cd95ae8650d4bf",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "98e19adcc901540d02c9822690bb40f907e258c782850ef0771d4e821da6ea02",
+      "text": "Persistence",
+      "hash": "d8e68f610a342f2574480e29f0916f9f7f08314557f557b19defe1bd32a8818d"
+    },
+    {
+      "id": "cac9fa16f55b076a8f5117eeea3ca92c7f37ffca5b3c5361f4eb363d63d6706f",
+      "text": "Context Engineering",
+      "hash": "4cb716c8911154593333fb583a4fc42ee32c74dfbe70065c0624b0ffc7103049"
+    },
+    {
+      "id": "b653de620585ae452edbae31a84ed38e74332c5978282acd78b2ca33f4b59095",
+      "text": "Evals",
+      "hash": "fff553f218c706a60a576218f987e844b20dc46585a30badca578d0ed42fd80b"
+    },
+    {
+      "id": "d4c8404af0fabb1b7eaa2b0639ecbd915aa236bf83f58516b1e4b4f0679f93d3",
+      "text": "Streaming",
+      "hash": "a951c5945635e2d32e944bf67ddf3101bc3c5c9b2e3087ef39c384dc0e61a0d0"
+    },
+    {
+      "id": "3c3d847cda29e2c4d3f7ac2d30b59b482fb62254f0fddda95a01070c6a47455e",
+      "text": "Agents and Workflows",
+      "hash": "7fbf1f755bd02b88bf256fe2807915fb6d56f3fce6b2e94163a45eafe2bcd51f"
+    },
+    {
+      "id": "87f2dabac326edc5135afb63172b14c0462b61cdb81f943e4535c6b0466a589c",
+      "text": "Advanced Patterns",
+      "hash": "90d4ea6a5ec04de47ba1df516b04a7843bc4987c1084c05e32842fe0eb77cfff"
+    },
+    {
+      "id": "6d3bbd2119a7d2a29e260597ebb7c93432ebae850a5d00a6af2c309009b6c396",
+      "text": "Reference",
+      "hash": "71bf90935fc231d20126e2087eeb583c6aa419fc3dd1b6847bfe376b9200eaa0"
+    },
+    {
+      "id": "af69d31d66f1cf58e32ed8581354fdb69880c7b5e37a9b2ffb129a6dfa56e5ae",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "c145c1611769a03792d111886078756303b6f0bab7e4d727833d8e29ce0e0cd1",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "af9858c9cae2f7a93776475b373b247e1bcd1a60875d1f7b36e6b84f6478c610",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "5fc88767f7b887d756255c3aad61418632d5aee0894bc4115b121e3396b150b1",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "a039b73314e71c2715be4bc01ecbe87b2ad1a84e4d56bef48a8b89a97f6daa1d",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "779f43b7e32e63a81b16cdaa343f079e1efc760ef302b55ec905ff6fbafa3953",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b2bb6ce412a696d249c713848ccd6509508820b206fdb5fa1e1b40e0dd9bbeba",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "04bd5f404c3ed444c4ebeb040c311c1fa64e858a6aca9fab5912c57b4458511e",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "fffdfb40995101610b0c8a715fd0f7391e1f55986499e7248acd3eab488ba31f",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "1a96ca723acf294915ff3ccbfc949cae2f7bfd46d0a9453c5d88a1456defbf28",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "dc083b86fda933a50abfa06a1ad91796a28448f982d6bc6ead34ff4c0e0643ac",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e79aa2022d4937f17c1db3110fa1254b19a42c565411c7cf745892f16a28a821",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "249530f624b5212769a07c2b67bd62610e00ec1cb2f5d17069a7d4e2d6e4656c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "236e7bc6449663fe6b1029af0f37150239add440db9df909cefde78d736d876b",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "8f3250f6a66dad84b911ee86203866f83349cd9c1cabc8da9ec1e6f7529648c8",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "b9fcabe448bd41987a8d5365cc1076f0779fb2ab9f814d70d866fd8f1d065dec",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"11ungb7p6t79k2l\"",
+  "lastModified": null
+}

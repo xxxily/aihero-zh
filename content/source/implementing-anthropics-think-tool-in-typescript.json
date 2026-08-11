@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/implementing-anthropics-think-tool-in-typescript",
+  "pathname": "/implementing-anthropics-think-tool-in-typescript",
+  "fetchedAt": "2026-08-11T06:28:18.543Z",
+  "title": "Implementing Anthropic's \"think\" Tool In TypeScript",
+  "contentHash": "258601a11d9b1191d57a47832a16f82f1b08143a8c8201d111c8259365e8c0ed",
+  "textHash": "0e75c79b92cef656b1d0809ac5e65da963de25f101a5cd2836a48abf497c876a",
+  "strings": [
+    {
+      "id": "cc9a7c52bb61dba82d09d4c47238b5f014caad0e08c9c4abb524cf884eb09c7b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "357e87cad832e0b5ec61e8cb730754c8fe64319d36a2c37dd455c1ad2d6f22a7",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "76b73f8745512d0c52882970c100f95718ce6faec43ddb263c57ef3616423cd2",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "994c5eaa8b26be635d4dc99a0c18a5e181faa69284f8cf4760501e8effd97a78",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "0ffbd9b38c786d18579c4f118eff45744e902445274fbdda4210da139432f531",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "0ba3f1fbd8bab807f53699c667df101e07944b99ae51ce8f346b6e405990c0af",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "4c2ecb251e304d7901602f2f5a9e4ef38c082bddf2dfc516544fcff9d35823dd",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "3ad3c05674978853350f4a7045253a3fff19ffbe79708c5d56a2e22dfdc64f4c",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "736d0b7fc1e778b84bf4287b1410a970be7e866864bd5ecad4cfb8d6f32f87c7",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "90fb97025156d4e3cbbe97a233c7ca162c2bf7791419fa44b87165ae49ac3581",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "5306fe454683399e73959c8608ff9f45336cdfa47b8762cf968d56b2e910338c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ef264c08f1ac554c53ba8a745b1238f3ccf5ee38499f47e66dd7e21cfeba78de",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "4f7c397551809923bf2519b8109e29972da5fc97c9a892f4d08a6b97f4884b33",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b65a6c9fcb37ca5b56e5d293c2b94e6452997f0783c637ed65bce03538c206fd",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "d7d9df2d1211f80c71949c243dec643d5a888c0974c8f497387cea10636c0cca",
+      "text": "3 min read",
+      "hash": "3ddda92ca6c1c4477116381599bb4d74d6d81b636b0c81868090aa5a475c93e8"
+    },
+    {
+      "id": "f2a27e021ff448458ee9a6ed4a8bf16827814eb363b453f3722cd38587c957d4",
+      "text": "Implementing Anthropic's \"think\" Tool In TypeScript",
+      "hash": "e7c7a6ba2c3b19b226ca67c2aa5a50ea24d71fcef810e6901ac2007fe607c9b4"
+    },
+    {
+      "id": "e9aa2519361c18e366bcea8ae7d7b277f9236c13a5d4f93523086b4fa3b6c955",
+      "text": "Enhance LLM problem-solving in TypeScript by implementing Anthropic's \"think\" tool with Claude.",
+      "hash": "c0c3cb23878c836ea25351f990be7b2caa5d8ebf01ca8b568b21f51e989df263"
+    },
+    {
+      "id": "7bb0d909d59512f1c59df8c541f47fd131543c3ec0611597f21e11aff4633ba1",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "30cf5ff82f082c0a8bff7c6302cef24b1756d360cccede6bada563a07727ece3",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "e2a6072b6da3b0b75b6622ec76e1d8c7c19aa46aa620789ee523101866be48db",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "dffcf05762c5a01bd448eddd2d62813aa38d597c8becba0815c102e18c829c17",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "06d452322619fb8d6ef60db66baa933208f50d099439d156c72f4b97f8f0fa48",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "3b4cf66bdd7bda947063dfd1c41b2892bd40e267179438c3f823eb7bd1ceff58",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "dfaa03763968287cd18d38dac1a91a22978490883b4470f6034ac33d7f922269",
+      "text": "The Prompt",
+      "hash": "038956745e11c5db795719153cdafdc238517adb74eeeda50004c79268b6ce92"
+    },
+    {
+      "id": "144431814cfb21d88ad3b0524a575329a07f41f294c2919f214fdb47ea3daf26",
+      "text": "The Tool",
+      "hash": "33d6b1591d04918aba185b9253eba94cf2b5bfbed5b3452937903f97bd1e92c8"
+    },
+    {
+      "id": "f17b3dcb13fa82cc71fbc084eaa5493a935ffdd5ef6c417fd7d572bb95b9dc83",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "e00c773547d72eeb825f84923f141c70210325cf1d058f11b605bfe521991dfa",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "8d099b08940f21a1146d404ef04486d6d32717fc75c4c9cd18b0ca63f4186eac",
+      "text": "Anthropic just released some",
+      "hash": "5796e17c59d5f5c9e3b5b708defd470026ebaaa3297904cf92d9c66121f5bea5"
+    },
+    {
+      "id": "4f462695c1fc20de60a54b69db7fd0dbe015965fda29ef1050646031f29c5ba6",
+      "text": "new research",
+      "hash": "a7af20a6db006ade1945e9afddf0c0268f6599613b114bea55ef7f71a6f68055"
+    },
+    {
+      "id": "acdebca7fd8ff9eff8a3397275963789f07607642ba47692f08e0d08caccd7ea",
+      "text": "about a simple technique that can help Claude (and likely other LLMs) with tasks requiring complex problem solving.",
+      "hash": "7dce0c3c75c152e304e1d57dacc76ef2e4b1355410f4705bcad185ace8b06aa4"
+    },
+    {
+      "id": "e15fa8e950f33bc55c386175c4bc6a9f12b235a1875e2ba51ba5db4c9796b5a4",
+      "text": "It's simple—you provide the LLM with a \"think\" tool it can call.",
+      "hash": "c0017be2cd14c01076cc2c2edcfeb2bebdc6904ae16f35cef41dfe35967cc1e1"
+    },
+    {
+      "id": "53300670f4f85843abea6e998ca27603b5f197343bdc282e7d0873e245d7aeae",
+      "text": "(Want to know what tools are? Check out",
+      "hash": "2d857bc7b2fda0512f50556b128d25e52e73aec30f1ae9e6ddeab2650c0cd12a"
+    },
+    {
+      "id": "9f2fff9a03825125eb55c08c8edc9fb3a1f55a4e3058bbbae349da73f4d4e236",
+      "text": "this guide",
+      "hash": "0a3bba7069c0816eb63aaf46d266829fac588c3fcc7abf0f676829a94e4978cf"
+    },
+    {
+      "id": "aef1e98195754883c9a5a5645f4d94e502d39ad238fca55aa326b6e1405a1914",
+      "text": ".)",
+      "hash": "d84e727959ff7628e4773ef6c40b9ae207850fa6863ae4b69bd4eb5757b70c2c"
+    },
+    {
+      "id": "2fc96482dc4d2943ccdce03d5c9ad14263a0214fb5458282d1112b0456c59df6",
+      "text": "The theory is that this tool is useful to give the LLM a moment to think before making a decision. It provides a structured way for the model to reflect on the information it has before proceeding.",
+      "hash": "142fbb67ce6247cb0f0b0e13d4291ea3eba80a484ebb6886674a563f817b4e31"
+    },
+    {
+      "id": "5f1b70ba16bc0204847c8e65738e26e4c515e7047788fa0509a18dd411b6706d",
+      "text": "This allows the LLM to save important information in its context, which can be used later to make better decisions. It echoes familiar concepts like ReAct and Reflexion.",
+      "hash": "f25a3acdef46a6b74b20774a9872ae404413632d01d3b205f55b0aefd05f5055"
+    },
+    {
+      "id": "fd310f3509a21f6fde76988a218e25e46b06b6c4107734e4df88cc58e40bf3c1",
+      "text": "Let's try implementing it.",
+      "hash": "6c6baf9afabd8ecfdd22ce44467931c627a06311250c3e7e8429445533b3854c"
+    },
+    {
+      "id": "45f268682dab7f4a16f67efb07d83e16c5873cba3178ca75cd9cce3b216c8fa2",
+      "text": "We're first going to pull out a",
+      "hash": "07018b9d32171550c8cabec6e1c7b472e3b046f05a39fc7dce90e05a6c090e38"
+    },
+    {
+      "id": "fa70e22d25b437c92a3895bbd14ddc1f6fab70dbe49a04837b961cbd97302305",
+      "text": "variable, which will serve as the tool's description:",
+      "hash": "a6645bc8f622206f7e11880d3d2c540b7de6654383bf5b5eb5317b7864dd2c90"
+    },
+    {
+      "id": "ecda429d099748f7d8bc82d017d2973b0f7b8504b981b2bcce721a51ec0264d8",
+      "text": "This text is pulled from Anthropic's article.",
+      "hash": "ce3b2c0b5c83610db4b3051cd42c7c3db344de5bef20a8ad6af62d5e5e933fef"
+    },
+    {
+      "id": "477189b32dda0d6933829177d607e839c16630ff3bb350b4a7c720b10a51ecea",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "631c914a1a06c24cd188f3ea914ceeef16842a637e39e746531a1b0e2dce6feb",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "7327b353ec7cf214c466189670dff5bf38ee58b73854e24f66f180a7a3548ac7",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "d7e216509204d83d97825292e7db114b453e803282d8812b9fd6a59e91cbf60e",
+      "text": "Let's start with a",
+      "hash": "f8643a0bc34cfd685ee08015d6a70087853fd028bf6822eacd5ba0963a377588"
+    },
+    {
+      "id": "1830940619b301dffd52c809f36c97b04201233ad8b297a415b3e857eafc0d41",
+      "text": "call from the AI SDK:",
+      "hash": "ee28a483d7e70af346159efbade79690feadea7e621f668ae1ea385b5995b758"
+    },
+    {
+      "id": "e78ca0895031f3dbd1bcc0649be41355dbb890c9f0e0102a247d2d0e61580b8e",
+      "text": "Let's use Claude 3.7 and set a",
+      "hash": "f24db38059e4e842445e4b45322d4f782b41c9b170a06ae4200eb55675c3294b"
+    },
+    {
+      "id": "c44efa07bf6cb06560b20c9dc506e79b7ff47000f6d458484e4d76b4f452f2e6",
+      "text": "of 10:",
+      "hash": "291cbeb10b833d99c23ecfd2b1844bae9747023525440744b1b157522e11371d"
+    },
+    {
+      "id": "56c4f2469935d66de82c32e7f70f59bf721a126320cbfbd74fb93b3f41f9afd8",
+      "text": "Next, let's pass it a tool called",
+      "hash": "79bd0a4de24fc2a9e9a8176dc504c4c29933073c16284a7f734966f5865a0a04"
+    },
+    {
+      "id": "714c45841e4604d3c2b34983a43302a5a332132d381c324921de11bb38da49cf",
+      "text": ", passing the",
+      "hash": "162395d4a46cc3a8ff4d405675ea497928eff73927f2b786b6e93827b0f8fd5f"
+    },
+    {
+      "id": "c295e8e3d1ed689724c701575d8f60844d0fcdbbbf4188fe207db671dcbd8917",
+      "text": "we defined earlier:",
+      "hash": "945f141929d33a17d12a4d1f221a92f311d8daab28a2d41fe6c84dd8a0f32d0f"
+    },
+    {
+      "id": "3c1f56fc1071ee67e6ba5c5f98f194f8cf32369d3d6b7b3904277231cb43a5e9",
+      "text": "We'll next add a",
+      "hash": "34762971d6dd3ca9f3f6fe6ca01fe8e921658e7b3b1b9c02631e178897a7375e"
+    },
+    {
+      "id": "4f038c5b550e46ebc7e3e5c398b2de3eac72f94321a8ecb2afe1d1d0014af21c",
+      "text": "object to the",
+      "hash": "726d560406ba6728c6e0125962351a904c3cee3da3ae91efa2b43c31331d26e2"
+    },
+    {
+      "id": "f2af61cea4062bf394c0cd27df116508314279cce2859beb3175167d5feba900",
+      "text": "tool.",
+      "hash": "6aed665815d7845b7d01b2c6821d304a6ee8c28862bee6bd30eb37ece2273a4c"
+    },
+    {
+      "id": "75db6f1c8a6c6d1992e2ef51d7f910d1a3ace252155567fbe7b5bf7e25cdd54d",
+      "text": "This object will contain a",
+      "hash": "2843f5e49b1d679b0b522cfcd8de685f682948d24142e814206f01f4c2a61699"
+    },
+    {
+      "id": "23a785fcdac283a9ac59d4d7a29e868c5a589398907dad66d25fdb6ce9b95a9f",
+      "text": "field, which is a string. The description is also taken from the article.",
+      "hash": "1274ec2cb8069498e00ac278b21f259ac7ccd8a32eb0983a1663d93555e2f235"
+    },
+    {
+      "id": "ad8b65cafbc5bfa1239ebac69220a032c61ef3e475f887f07004393dc94622ed",
+      "text": "Finally, let's add an",
+      "hash": "2f47e314e699a70613475e3cf8807d730b4376f5fa1a2a6e6bf70b77f1aa9927"
+    },
+    {
+      "id": "219f15b9e4706512afd44f7a85d79685cea732910a6a24f764a0834e8433ccc9",
+      "text": "function to the",
+      "hash": "92e225e735096c84865de7733edcdb16d588f27cd1b28a630fa0e8ef036d4abf"
+    },
+    {
+      "id": "d189848700a62c514ac9d639ff3bcf0661e8d5d95076373469395537d342a409",
+      "text": "This function won't do anything—it'll simply return the",
+      "hash": "e0af38964c5ff810e45538449ef1926090487e0dbf6afc52afc85e810cf7ff9b"
+    },
+    {
+      "id": "824147e11337e2aabc7c83528ccdf24c6666967e428e8d283280b2229aa1ac12",
+      "text": "passed to it.",
+      "hash": "52d86cba4be91d6c079c3129f0747f565aa9f8117ba2a6b9b0c3daa8d86be1d4"
+    },
+    {
+      "id": "eec418bf0508eb35469597511fa5175e959968cee60cbc457e3d6e3f4b7c2d73",
+      "text": "This then gets saved in the context, and in future iterations of the model, it can be used to make better decisions.",
+      "hash": "499f32b67009507cd6acbd5502a44b864beb0eb2672e79cff31ad72712edc1ad"
+    },
+    {
+      "id": "3dbd41fdc709532dc268fbc33db26c8ae6720dfc6c4f272444e22392df9a1167",
+      "text": "And that's it! We've implemented the \"think\" tool in Claude 3.7 Sonnet.",
+      "hash": "d561029065e90e0a0e796044d15b8a606bfe80232cf6acb40af40fc2ceb1e456"
+    },
+    {
+      "id": "c32ce7aef73da5140295d125d0bc0e6e64fc6feaf516803eeca54c028161e878",
+      "text": "This is a really useful technique for applying in certain situations. Anthropic recommends it for \"complex tasks requiring policy adherence and reasoning in long chains of tool calls.\" It's a simple addition to your LLM implementation that can yield meaningful improvements in just a few lines of code.",
+      "hash": "0ae460fb4baf31717c2dc5b56f84fd55cca5ba3dd2f02cc46da7a0cf69843764"
+    },
+    {
+      "id": "04f05338de105d9f130ef182b6f87fb5313f0f132a6bc2870d0863ec6d5c595e",
+      "text": "Happy experimenting!",
+      "hash": "a4c6920ef00cc1abce3eba2b4bef820e8347d4cf95ac034ef9d28d7d0a22f050"
+    },
+    {
+      "id": "ecaa1e11b24d640796be858e8451025c63f560f0cd782e52125fb4671a397578",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "c750d9ca692787c553511c69bccdc190d92cc4d62eefb26c9a0e19551506fbf4",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "45e215ad727152cdb50a0fb0acfcb1ec4193f9fae9b2f925fc9988d8e38f7a75",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "58e3593ec9e3294aae725547c989e311da3f2ff5fea157f6e72d0b3d69eb98ca",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "75b9fd603cd05cc2209bd243aedc20cb0710031babc53feead549d8b525bf9f3",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "2dace4bd37b186a4435b31d8866a8712e2c98af52cadb7be026c1ee5f0310da1",
+      "text": "What Are Tools?",
+      "hash": "916742818672edbd799c05eb316ebe7f4750efec5d416b1db6d6348acb761caa"
+    },
+    {
+      "id": "44e7f609858ce19b4b49eab837ce7c26b755786625970b0dc5562db22dcb980d",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "ac286f0c9df3952d6d1057d0997fc52e4d4291246204f4528295437787d40d1b",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "97c47633a4af344774f92f4681f5e221e038c5cb809d4d8606bf9f9ec666eb86",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "f908cdd11b385d8d9783642ce3b919c0aeb5742b21c35c0f986fd59ee0684b7b",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "691b158d1348cbc065dd6a4ed3b14067f9208415a1a10ad4cd3f382f9d9754a2",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "13839396c61ae66964b15c8d7578c641fec7e7982c9d407e7cd3004bb6ec567d",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "af425e1f78a7b69797bf78199c12201507b5e7370646804f7a3a3281efb4f4d8",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "27a7a1a4350392697e49d0d8235af899da9a6ca0640bd981ab93bc81250e4358",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "25499f2e737689588c68fea9701c6dbddc5e6c05639db09fb30a2b41552449a1",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "44cba4147d9825271e3dd8927d669c1288a1d13e62cf42741b564c4d618ca9d5",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "69168301f7c6d352a492d56b5378a0ac5b8427c6571dd3d89ffa33503edc717a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "642346d2eb70ccf2644e434b9ecdab076b2c06cad853cbb262e65bd99661e406",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d005b54a74bd2333f856e24acfc098f8c17a2ab1a619e808acbeae7bd7ddf753",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "353aeb541a59adaa992d2eb343ca19a5ee9934268e095369369b4c1a04d1df6d",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "ad6a15df00ae6662f0b5ae9c76e6183258a9bc267730165a9e796fd10d7b7cac",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "84ff2b38c3778631faa635911113a0312700c2e470b429f4c683d2ec6aaa1bdf",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "ddfc1452655e41d4142c56597eefc6b57753c4fe046ba0c655a417d0e4432390",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "1f3fd003d21ebe33086e4bcaebf1ec0a634fd9cab3257a33420127d0e404a4f2",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "bdb41337d8955a7282a2a4d429f849434ee5cd7ec249d91cc9ed30c4be82a8ea",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"nvqanxufzo6f5b\"",
+  "lastModified": null
+}

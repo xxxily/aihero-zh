@@ -1,0 +1,728 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/plan-mode-introduction",
+  "pathname": "/plan-mode-introduction",
+  "fetchedAt": "2026-08-11T06:28:14.900Z",
+  "title": "An Introduction To Plan Mode",
+  "contentHash": "11f2a1d03a33a8cb00c369aea1d2a484851fd9b96a57373add10104513571ddd",
+  "textHash": "21eb1063525b1c564fc6064330938ab637428a850a61e2af556976dde9137cf8",
+  "strings": [
+    {
+      "id": "9cb75aee55996f567b73e49707380a5d04b96ecb12a6506d52338c077771c6da",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "fc602a9551b231d3ea861ef6b750448b5553c1c8497a9ad08fa7abd35fb3c363",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "22024b1dc367ec0a736dcf31c93d9f7098e9cf2ae729380d883faa5761d7614d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "bc6bcc8d5905f1a5006340dc5e801c7e2e4809a20f0d0011bc9a636451b0b2f9",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "ad40d2904dc051e19dca371ba051f7792719bb07ed83d0bfab7003e73864265b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "cc3613fe5394ad9672afb19d9cf4d7b557b8f195badbda8ae98d0cfe3d736bf3",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "0fd891411755a4c87a64e653bd7ea8108d7e9b561fc00fb19da49d2cf9a42f06",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "f1b3414cd8069a8d7910c3f530a1484866c03f4b03f87b4f9f8b34c006de0753",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "0c9e2765cecb6bf580d6f3ae1d07bfe5740526e7a90cfe82a7e78bd795cf243d",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "724e329e573fdb7d59c349229a43bdba5af2b512cc4cb982e7cc3c0693360e0e",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "47d7a879f62659a61fea1e1c05aff9b0f4a8e79655aa7e687469c0d56a87b05c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "1287bed415d5703df728ef8f1c53f87f037c4634af821f673ea20f5235bb44bb",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "5f50ffa9e2f4d3e54cb9c0c3dbfb48ca78c883e4726949d63cee4a5baa2c12d7",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "37a8d1aa712378673363a69c4c9c351e54d9f65770b2d6048632c26d30c88f2a",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "43bd0d102514980fe168e1d194180f5e6d955526756ce7b793a0645fc1bc35c8",
+      "text": "7 min read",
+      "hash": "fd57f52465221816301a52fb19903abf6faea9b73b4834be18984b19617f8b2e"
+    },
+    {
+      "id": "055e40a62fcced7d39327ca6316b4f573fa31810ce43b006cb830493ba36c882",
+      "text": "An Introduction To Plan Mode",
+      "hash": "7a84f5a163a628fd891f9904f554a6429b0435ea8897649b90485aba2d455ec0"
+    },
+    {
+      "id": "90203b249ae47cfe4b3849434af4aeafc54df06a930aadafdcb973bbdeceee21",
+      "text": "Learn how plan mode transforms AI coding agents. Iterate on requirements before writing code, build context, and get better results from tools like Claude Code.",
+      "hash": "f5750cb4c514d7bd2677c9a5445d6b5cc7b15d6473d195e62dc61c4d9e3f3fc0"
+    },
+    {
+      "id": "d66304b251a61f8a11ddd420ef601916742ca9b0c42c7b6b8e7f839b0f49addd",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "9f77821754f08859d616009920527d57b80a0c53db78a2dd3dc7a8408a2a4531",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "64788bbd3334897623ef05e125db3ba7717bed9a4c374df8a9eb45ea828b886b",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "71ead40eb1eea71cd07ebac0fd33711bd247b58693fe78a10a61c28c5eedf9fb",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "704c72d1efc185b0fb035e029c5960fd9e68980a36c64ea2ee25539cd78dabcc",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "90da6052d2d4b4454f1ff2c7cec93a8659a0c7ff672837c31a572e705fcf92c7",
+      "text": "What Is Plan Mode?",
+      "hash": "5e17e7cc0ad8fe566299d76acfe78b9eb5a24e1947237b761dd0cd019176157d"
+    },
+    {
+      "id": "d278802ef401a91fc52242ceacfa56c3b7dc60aa50e30a1a98ffb6af3406d72a",
+      "text": "The Plan Mode Coding Loop",
+      "hash": "3dad2fe76cd8d42243a647a853e0e10c5d11ad211ead77c0290f0809ae75680a"
+    },
+    {
+      "id": "debbaffe00edabafc02049cdae5a454605686480044e8710d6efb72f9f01772b",
+      "text": "ALWAYS Use Dictation",
+      "hash": "447aeecc2bf98fe42e2f78cf0795b47fa9b03c8ce9396a67b74cee8b82b9a483"
+    },
+    {
+      "id": "bbb64d920a8df787c71ddc63340a0aec872ff351b4a1e620d54bd3676a630d4a",
+      "text": "How Plan Mode Helps The Agent",
+      "hash": "4cad74f5ce4a26d9d2f81f40daf29237bfdb0ae3e57cd24f30e38c926509a7a1"
+    },
+    {
+      "id": "7a2a282c6ba4d5d991e89d61d6f25f857a75ea7ed545b19edb0fc4410d659d65",
+      "text": "How Plan Mode Helps The Dev",
+      "hash": "005380deb577f88a64c6ed2d05b0532af125254156222d17f4f2ebf0e10a5f51"
+    },
+    {
+      "id": "7dca03d0cde967b54b58ebe7eac810d918d3d9ce1046d4db97ac7c95318a923a",
+      "text": "How To Prompt Better In Plan Mode",
+      "hash": "9e80e4904756df1b3c3b79c18a960b899d377423caf1905b2e624d1d9fc5959b"
+    },
+    {
+      "id": "cdb064db8f5d5c01cead8cb413eddfede58b2e3352e8b87b6940b21aa8635ef7",
+      "text": "Isn't This Slower Than Doing It Myself?",
+      "hash": "44c3509d8a5f918f81e0e7ef5cc2280d8618fb789473af7cf44c086f50072851"
+    },
+    {
+      "id": "69ad9a089cf43cd9e872a7928fe5e36519493462366ed35a5da794f6616d2402",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "aa1424795901e2b793ae43d7a04f4c5a4978276e3fabf4d1ac2e62a0001cdb48",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "0ae93ff7c5b87b9a47da7c64a560258bcab456db93173da966f7b6738b651c09",
+      "text": "This article is for anyone who's used an AI coding agent and been frustrated by the results.",
+      "hash": "dec120f1fe5e72eb7e48745d287812b541f476b6de6b323b8ade9dcc562ca942"
+    },
+    {
+      "id": "36d2c5aa4dd9d1c942ec991d90a43f8edc11a30978d2a0913adb2b6c1b90351c",
+      "text": "If you've ever felt that your AI agent produces low quality code, or doesn't understand your codebase, you need to try",
+      "hash": "a806900ff80d4c23ee87108293b57b27e74613abde2654bcfc37f1e9259d0429"
+    },
+    {
+      "id": "1c0b17a76540fdc6d1300f3eba31635058b7b26ff012cb46a4e6d0f4c7f46aa3",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "5a84270cbba7d3fc5fe35cc7b46ee7b496bf7d2f0b5c5d6164849b7899bf8d4e",
+      "text": "In plan mode, you iterate with the agent on what you want to build before any code gets written. You discuss requirements, validate assumptions, and refine your approach. The agent explores your codebase and builds context. By the time you start coding, the agent knows exactly what to do and has all the information it needs.",
+      "hash": "8cc32e47a75abd98c7508ac9f9c17ef8969b54ca86f4add24a88109dcd36bb08"
+    },
+    {
+      "id": "a9c684824fb5928eef0ac9ce2eff3517c64e7d7f851d0de3506494c306789d9c",
+      "text": "I'll be using",
+      "hash": "69c4a96b71d80ba2fff0cc7c3b43bca24bf87b54335414df6d1aac1fdae37849"
+    },
+    {
+      "id": "5e583a47a92b615b24bb4e1a3c27831e878f011862f0d263085cfeeaf454b19a",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "e2ca462a862b7046d6d04a7a512b6546ee9e5d1a9cbf100d64597e2eb393f2b8",
+      "text": "examples throughout this article - it's where I first discovered plan mode. But plan mode has been added to other AI coding agents too. Check your tool's documentation to see if it's supported.",
+      "hash": "3e4b955be6db231b75a87323184142cdb22c46cf6648da7376881604e0da8351"
+    },
+    {
+      "id": "900958c67ca68cdaeee1e026194e87fd3769bbc30b0941f37a7c63a6d3df59f6",
+      "text": "When you start Claude Code with",
+      "hash": "00e562c0b298b5a6167cd4a8463d0a7d73b2ef6a42d78fe4f0d3debd8282b512"
+    },
+    {
+      "id": "c56d7cf600c9213aecdc9852300f7a0dce29267a574410a44f60733dec03ea9b",
+      "text": ", or type",
+      "hash": "7e899c77ca27ede5e1db00bd243768ac9b5e8b87d39c5a7c095a56e266847df6"
+    },
+    {
+      "id": "a4cdfbdbcd2f89362caf54d3ded32a235e87caf7a778b7ca30a4dd58133e2c48",
+      "text": "in a session, you enter a restricted mode:",
+      "hash": "ec17d474e77cd0267cf5fccc16a1e196f309c215274ce98b32823e31004805bd"
+    },
+    {
+      "id": "193fe5a30f38774e1538cc23cc4686f43ae3f33f169368199eb4f64bba6c80b8",
+      "text": "Action",
+      "hash": "64cff1319d2fd2cbb7a1e84ccecf22c1cc07b24435cdb522f8c0aa525d6002a6"
+    },
+    {
+      "id": "03e645d30b4c0bed18985ac6339da8a9ba2e271e9b0b805ffe855358c6cb7030",
+      "text": "Allowed in Plan Mode",
+      "hash": "58f8c429955abef495ecf5cb993655e15043661e7b7ef0437d1275b440dfaffa"
+    },
+    {
+      "id": "bd913deb17ca4605793e900508363e2af1b666ae953856b12a91cdf710baac07",
+      "text": "Read files",
+      "hash": "4e792beef219cbc7e32982e65cb9e8226d9229f62c5051d4021dc1a4a7cc9a85"
+    },
+    {
+      "id": "9cd3307a23a073d4cf2e108c5b23376bc840f17ad0557cd826b818bb2e15a29c",
+      "text": "Yes",
+      "hash": "85a39ab345d672ff8ca9b9c6876f3adcacf45ee7c1e2dbd2408fd338bd55e07e"
+    },
+    {
+      "id": "9d549000c71413738cdab48d2d4586063cc9d37b4987aaa47ea149a205d81a91",
+      "text": "Explore codebase",
+      "hash": "c66a7a8add61bf8d8993142ba94648d320b34455fa1750dfc6c29defc96b10f6"
+    },
+    {
+      "id": "2da4a4f19e26ea44bf5c3988da8be102b1443f77a51cb661b261fecb7df77677",
+      "text": "Analyze code",
+      "hash": "1188761aba0f82caf4d2a13efae08281a077c6e87e6e962a1bc1dfb488a70c4d"
+    },
+    {
+      "id": "ee4e8e938e3cb9fa3022b8b01ba029431c1123a3e3d4b8460b7859f64ae74378",
+      "text": "Edit files",
+      "hash": "562123f8976fe81918d49911d7bfd31a3d23aafde28c78dffcf99318eb3aebbc"
+    },
+    {
+      "id": "6af8e668cad7216c94eaf429c2e9a55e5fdb0da0b98cfc7ab10c1fe0c0e086d4",
+      "text": "No",
+      "hash": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d"
+    },
+    {
+      "id": "6e057ddb425396cfc83447fd7db2bf97aebec05310eac7fda5a0e06364be76c5",
+      "text": "Run commands",
+      "hash": "800acc2ac273f5dac7ee76db1aa1465697645c2a106b80e437caddbded3b682d"
+    },
+    {
+      "id": "5d5e6a621605ad2b814a70551e812cb84294d69336934a3e59fa82dd47f7f33b",
+      "text": "Execute tests",
+      "hash": "4d8a7259622b3a4707a3225b2d3ec21454035256a267885d91f1a1dab2dabf01"
+    },
+    {
+      "id": "3d53559f0c02013e497f0f8800b082262ff7195d7d59a7d761671a10c9daff46",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "64ee0a9452ba77232ea2448641176dc8e4a3c6b59ee60faf5112ffdf0e65e98e",
+      "text": "The agent explores your repo, asks clarifying questions, and outputs a step-by-step plan. Once you're happy with the plan, you exit plan mode and let the agent execute it.",
+      "hash": "40e2226bd28b552f4efc20a92ff742b9a80889fc497fb69a74ab19903139603a"
+    },
+    {
+      "id": "af66760aec1f4f4abe05067ca33a72912429f81e6a733dfdf49f0e63fb0908df",
+      "text": "I use plan mode for almost everything",
+      "hash": "9cfb55909f6f1ee8c175901d18c47862c640bc8032a380be5fb175d0af4046f4"
+    },
+    {
+      "id": "cb6e3a51bc0c3be15d7596c006e2b4052d13f297838cdf3ccfd9b168de0c8fc9",
+      "text": "- even small bug fixes. The crucial thing is that it validates my assumptions and helps me iterate toward a correct solution before committing anything to code.",
+      "hash": "e3b1d1c94479e91ac90584e2e6739d20d0504a58d4eadadb43ddced99ac867f0"
+    },
+    {
+      "id": "fd5c2cad437b9e27ab0e6e936f841d658a862e1c7d4d506f6839facf303de4ae",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "c03d5bc35f95253723811609a696991f2ab15a6e8d89d0c4ef43fc927d9d5328",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "7a2f52d5ebe834d327ce0b7aa0ba90261d7f93a9c141075289a0b53696dc457f",
+      "text": "The loop is simple:",
+      "hash": "58df30e2191d5fa45268cd8aa04b454f74926d0ce728ccfe0929de04d737682a"
+    },
+    {
+      "id": "c663dc1b61e96f8b29dfba2b5b17d0016fac75eb5e10475566c9128621e5e619",
+      "text": "Dictate what you want. Can be high-level (\"add user auth\") or specific (\"refactor",
+      "hash": "8b1457422dc88f20b28b71c2914ec4c433addbee25de99d0d2b0e1af1c1d2f17"
+    },
+    {
+      "id": "118d551cad2062d0e45b043d1062100f23574d96097accc5f0bd02fd03c177ae",
+      "text": "\").",
+      "hash": "e1829dd1773a59c05cecf365fdd49fee3df1d0b74ef37a8e4055fc2cc7d970f6"
+    },
+    {
+      "id": "1b2af3d1eb0cefcfef739117749918f9390349848f29b9fd54b43c3d01ae286c",
+      "text": "Enter plan mode.",
+      "hash": "d4d265ec4083e189899ac449630dcc4a10fd9c8b5406a56f42ac45277246be9f"
+    },
+    {
+      "id": "d634132e866567aae0266c1b574eef3e449394ba94ee824b2fff539e6544697e",
+      "text": "Iterate until the agent produces a plan you're happy with.",
+      "hash": "d1fc62c0fd9aaefa16c497c905529cc5b75a85ecca74f6a4a9bd6b83cabe827d"
+    },
+    {
+      "id": "841fee893e89d0e7d4255450fca4f33fb34da0f8e0d017f78badd5631f216878",
+      "text": "Exit plan mode and let the agent execute.",
+      "hash": "b9f08718391b448a52061062352714bb714c7428cec9fa77cda3465832d53eed"
+    },
+    {
+      "id": "752799ecf7872582fec88b99358ee71a3818ebd36991d88550cae60c9be2fa9f",
+      "text": "For large features, you might spend an hour in plan mode before writing any code.",
+      "hash": "6946902a9008ea9b46032be037f95877869106c1b73dacade61798035c7ded5b"
+    },
+    {
+      "id": "543e750106fc9d6acd5763a15e63c401c0202be629403ddbe27259e5763d8e4f",
+      "text": "You usually don't clear the",
+      "hash": "131ab572787ae920679110c4083ccb4211c95ab7a064d6151d6c94c23340a604"
+    },
+    {
+      "id": "c6053f0096e2229c77ee9b57bfbc3f5b7a8f95af49d97269954ca34682c57c42",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "9082b32574c844314c60a783137f89397f39588413ffe186273ee8ff13af6418",
+      "text": "between planning and execution. This means that when the agent starts executing, it already has all the relevant files and context from the planning phase. This is why plan mode works - it's not just about the plan document, it's about priming the agent's context.",
+      "hash": "f665b04832ebd67b6eb50e690d0227fa1b44ea27bfb8e8a83f13f24d83d81412"
+    },
+    {
+      "id": "954afbfa0ca3a55ee2fc3f6a08e282a220e7a442b5ab57952c3d710573841b75",
+      "text": "The exception is multi-phase plans, where you break large features into separate planning/execution cycles. That's outside the scope of this article, but worth exploring once you're comfortable with the basic loop.",
+      "hash": "3d92e82c7027eb63d02886f5419592115a843614048261c18a507df6c279dc20"
+    },
+    {
+      "id": "645abc31444134c01d2ad1cb32932c6e4632ee00205a5b6560f98e0f0a08d855",
+      "text": "If you're not using dictation with AI, you're falling behind",
+      "hash": "cad99e86dea7478817ff895e57f981fe5947406f358e1a154adca92c1d6ec140"
+    },
+    {
+      "id": "b1a67b2e81a3a7d27a9c610442f951aca07bc18241b521e7015f7f3f7f93d40c",
+      "text": ". Dictation lets you spit out ideas faster than any other input method.",
+      "hash": "9639b4a17ee19726790ad11a00d4a38ff2e89e421a4fc7ee56cb1b5b7f0b717a"
+    },
+    {
+      "id": "0decdecb89b5127e842e1e3116c9a61a29ae7f2d65c60ab3a849da69ec1d4423",
+      "text": "I use",
+      "hash": "6f148b6030793fdf5a541795c59eb4c14092664227d1986f13d7aec23682d921"
+    },
+    {
+      "id": "9d1cd3c52463c6f0ed44d3d6fee9b3ad1aed98632db35e71925b58796b51a0f5",
+      "text": "Wispr Flow",
+      "hash": "f215f00fa95de40c7dc8772fbcf1ca0327a9bd506cd57a5acc625b125d12a511"
+    },
+    {
+      "id": "52de1b9e075d91efdf4abc8f38fb0d34b833667b9f8bfeca4784c82fb32d5019",
+      "text": "on Windows.",
+      "hash": "6abe426aa6442b45fd73d2acb59ad89adb27ede12a80e7526cc457fe9ec80bda"
+    },
+    {
+      "id": "943b9b6c9cbe0fa89d5e920f5c9da0f628a2c03a97d64e3aaadd8e3db1a24e66",
+      "text": "Superwhisper",
+      "hash": "b80e4fd8e370305c009eb8e1f59247578e3f2a2cd441c3bd5b1fa0b30a1d90f5"
+    },
+    {
+      "id": "14b9f410e382a8e25113392155095df0ab0527db1010cbbff81cb1049f3e73f2",
+      "text": "is great on Mac.",
+      "hash": "65f063dd5469e59f789b5ccd9a32435745a55030acbc83060212058f7a36a3d5"
+    },
+    {
+      "id": "5ce7b1279367f981423c219997c132552990a36ce06a5c01529880d8955ea4aa",
+      "text": "The key insight: AI doesn't need grammatically perfect input. Especially in plan mode - the agent rewrites your prompt anyway. So messy, stream-of-consciousness dictation works fine. The grammatically incorrect inputs at the top of the conversation history don't matter once the agent has refined them into a plan.",
+      "hash": "22f31d4a1a3929414b15e520100b58bc798405253204406ed7c9da6f4242be31"
+    },
+    {
+      "id": "5b526928aafaf74416271d54ba6bdcdf6bc5a24bf60e86c96be44cee8ac4c6ff",
+      "text": "An agent can only work with what's in its context window. If it hasn't read a file, it can't edit it well, and if it doesn't understand your project structure, it'll make bad assumptions about where things belong.",
+      "hash": "6cc904105abb3f49e114791c725c7a7798d42ce62c7d9739dad8fbda055ebb20"
+    },
+    {
+      "id": "4c5f496904273e527193d8540703c7a62a2ad244b066caba955ad84a861b5410",
+      "text": "Plan mode",
+      "hash": "3ca7d842d1209b4d550ba48787a7fe44f97c9a60c5e329178afd9e6359b7087c"
+    },
+    {
+      "id": "b71a7dd66f74b47f18253efdbadb0e673a8a12ecdba4d455a042a225befadc43",
+      "text": "builds that context window before any code gets written",
+      "hash": "a255f83f33cda244c2999a8f573e474d95ec9034570bd221deb03c2fc3202a96"
+    },
+    {
+      "id": "43801eb5f2c4c467224f893dcf40f9125dbb743e40885072b81be57796503fa8",
+      "text": ". The agent explores your codebase, reads the files it'll need to modify, and discovers how different parts connect. By the time you exit plan mode, the agent has already loaded everything it needs.",
+      "hash": "820c716695dee5c47d1bf0fcf04c6189fd982e4eba798931a68010b039776c88"
+    },
+    {
+      "id": "5743699faf4332583a30f838531256be5132d406d36545e52e5d0caff3a94ff3",
+      "text": "The plan document matters too. It gives the agent a clear set of instructions to follow during execution, rather than figuring things out as it goes. Between the loaded files and the explicit steps, you've eliminated a ton of failure modes. Code quality goes up significantly when the agent knows exactly what it's working with and what it needs to do.",
+      "hash": "49ecef262166f6d4a267adc7ad59540719b58d14ab2edfa73d722d00acb5b58e"
+    },
+    {
+      "id": "1e781484d18943f462ec6eced9e31bb4d91a16532c16eae8e8c05674f32220ff",
+      "text": "You don't know what you want until you see it. This is true for clients, and it's true for you too. Don't fool yourself that you have perfect clarity before you start. You don't.",
+      "hash": "d64aab405c96b113cdfbbbcdc57820f2252b23a966c56931a1104d2ca6b4f645"
+    },
+    {
+      "id": "a1cccd91770629341806855aa7a4d24cd142a1dd925a79f2c4b2e88e4b9c1f30",
+      "text": "Plan mode lets you prototype before touching the code",
+      "hash": "edd918d1df0e4ed750a5c431eebcf4e558c7fac46b6e8f0793b03b0de124ca03"
+    },
+    {
+      "id": "6a0967f0d06ab3188bdf40518dc394848e5878725d832d223000245644f63eee",
+      "text": ". You iterate with the agent on what you're building - discussing tradeoffs, validating assumptions, catching edge cases - all before a single line of code exists. This is the same process you'd go through with a colleague, except faster.",
+      "hash": "18f0490a4a8091aa6860128091e389a8895328fc3b6283b762ff7a0fc9001979"
+    },
+    {
+      "id": "2d0c741a8dcf16bf84de89379709e31f2245ba544cd252ace1f94759be5f1e28",
+      "text": "Plan mode is a forcing function for concrete requirements. You wouldn't chuck vague requirements at a human colleague and expect good results. Without plan mode, that's exactly what you're doing to an AI. Anyone who's maintained an open source repo and found themselves peering at a grubby screenshot of an error message knows what I'm talking about.",
+      "hash": "64298c961e8e71698c957be9c65db0ef0833ae9719a3891d2713ce38c1db21c2"
+    },
+    {
+      "id": "3f773702d6e3a819fd67d81257869fd3829d9f690209f9aa8d713ee0285fc4eb",
+      "text": "Plan mode makes you articulate what you want clearly enough that someone else can implement it. And often, explaining what you want reveals that you wanted something slightly different.",
+      "hash": "9b6980b7049d0360b51b20fd42e4b800bdaf34e5633416845b18c166b7dc6f83"
+    },
+    {
+      "id": "aace91e752af6d0879b4d995815ccb671b795f9ed40b80ede0f57dc8a9023a5c",
+      "text": "You can customize how Claude Code behaves via an",
+      "hash": "70eb9df0811f633066cae0489ea2f0e37d62d771ed453f165694678cb69c9ca6"
+    },
+    {
+      "id": "80f169f96be118455fb936fc3d2d20a96b0a1a429d981d9988d84c73fd39ab17",
+      "text": "file in your project root. These tips help make plan mode more effective.",
+      "hash": "7796d40d09b19ab462c83e66ab15a1d15e9d03aa36e982dec771e8dedc356596"
+    },
+    {
+      "id": "555de821d366c2f1f3a90e4ccc039a38b1869741a2d10eea39d11081cbe6e6c8",
+      "text": "Make Your Plans Concise",
+      "hash": "9decf17ac9b3e47b97e9072ac2913b0a6814a80a3b9bc826db3b3bb4894c2a9b"
+    },
+    {
+      "id": "e90994f0dc061daa462e361b9fb76b045d4ea642170538bd335cc4ace47b1c39",
+      "text": "Plans shouldn't be novels. Tell the agent to sacrifice grammar for brevity. This makes plans scannable and keeps the focus on what matters.",
+      "hash": "cf3051cd2ca348e01cb2f195b5bfc2439e38b131d71e52bb6576817c106aa79e"
+    },
+    {
+      "id": "83d61eed67a7b43bc0e54ab26cc9d59840b670c0a3a075c6ff84f7a8d2413f9a",
+      "text": "Make The Planner Ask Clarifying Questions",
+      "hash": "4caca0af2701d75c7ef269f825eda9688a600aa2c1ce92218ce6ba12caf5098c"
+    },
+    {
+      "id": "9b47d9cec87ed9c8479219af577fe7c69d84c018b994f73acfc4d45b3a5ef1ae",
+      "text": "The agent will ask some questions by default, but you can make it more thorough. This catches ambiguities before they become bugs.",
+      "hash": "11130e34d396be022940699b784582f302a7697f4493eb8e183d38abf68419b9"
+    },
+    {
+      "id": "8a282d3236ac75c1a47d562d7a50f79cd7b1ee4bd15cdbe4f42423c2f426833d",
+      "text": "Put The Summary At The End",
+      "hash": "12e87de668d8f19e72336f294688eafde5239f93b2bc5493b9c3e36dfe53dc30"
+    },
+    {
+      "id": "f64fe248312eabae9004d6197fd673a0f5e220a430712876c45f4bb14972ea8a",
+      "text": "In a terminal, you read the end of the output first. Tell the agent to put the actionable summary last so you don't have to scroll up.",
+      "hash": "46434ccf4d3ecbfdcb4bf0ec86391ecb73bfaa9ace7171ff850a8240f729bda6"
+    },
+    {
+      "id": "8c0c0ba74ccb8486ec4fa317f755a558756ae488e6856970adb12f0c2bb73a18",
+      "text": "Sometimes, yes. If you know a repo inside-out and can see the solution instantly, you'll probably be faster without the AI.",
+      "hash": "d98a6426eac9edeb51b64bcc0896f518b79651f7dc46b15f1150d77bdadb2c2e"
+    },
+    {
+      "id": "180cc9629e85767b1129167b3720a21becfab6c3d74f3376932e980e35e4daf1",
+      "text": "But plan mode isn't just about speed on familiar ground. It extends your reach. When you're in an unfamiliar codebase, or you need to think through requirements before diving in, plan mode is essential. It lets you contribute in places you couldn't before.",
+      "hash": "d782b1674cb4d8cfd950eac6c7ff2ec65f0ade63608c7743abb49ef7baec3211"
+    },
+    {
+      "id": "2509f48e9c77bc2e10a8ffe6b2d2aea104ab9fb143a481a1976bd550580d0f85",
+      "text": "I use plan mode for everything, even when I'm confident I could code it faster myself",
+      "hash": "27c77f0918cdbd0155297624aae7cff810e4bd322fddc0c87d602a2b241b2fa0"
+    },
+    {
+      "id": "d04b0327cae9284cd5314d315de53bfa9c676a6eae4d117f1dbaf107f0a70a17",
+      "text": ". Three reasons:",
+      "hash": "f9adc206503fd975158ec2a83a29cffeb38dd11e66e0a8fb594fc4c789a44469"
+    },
+    {
+      "id": "77f9f788cec6719520d0fc69e8734ec1f6572515faa4793a17f04d3a268fb0d4",
+      "text": "These tools keep improving.",
+      "hash": "c5bbdde53a5cea7465e0db86f04ed14724cd64e22e2fb9e69b7460263dcba0a5"
+    },
+    {
+      "id": "efb89fec597c7852b6b005529bdef9810b1c23fb7189ab559d820e82b04a3823",
+      "text": "Speed is one of the main areas they're getting better at. Every time I use plan mode, I build intuition about what AI can handle and how to communicate requirements to it. That skill compounds.",
+      "hash": "1368f4bb65972a76408ec7d166c29fbcc5b1a97c39aa3af57b3ab3bcbeba6301"
+    },
+    {
+      "id": "0359fb2ddf88925fd5e9cb2a9f099f820b8631dd300bc5fa8ae8cba57fc0471f",
+      "text": "Less mental fatigue.",
+      "hash": "5a8533921f0ae76d2b094d10bfd800bcb0610119270ed31be83436d896373679"
+    },
+    {
+      "id": "3c2dfa1ea59b41fb3917c6d49fbb62bd3e87027d8377d8becc5e5bac9546f454",
+      "text": "Focusing on high-level decisions uses fewer brain cycles than fixing syntax errors and chasing type mismatches. I get more done with less exhaustion.",
+      "hash": "df8943998b839822cbd5d89ab824d5efd1a436a31bd8fa0c5d7bfb811f847616"
+    },
+    {
+      "id": "0b2b02d1d8fcce44e77154ffdf16c7a6234eea90943f1e524c6827c446b7c649",
+      "text": "AI is the best rubber duck I've ever had.",
+      "hash": "8bdb99b611e21759eadbbeca69a92e06861067a5efe4e70c24f42da5a7049f2b"
+    },
+    {
+      "id": "dbdde72ca853274296989bde5f97f87dda0886edaa831e645b5a1afa5461e72d",
+      "text": "It understands codebases instantly and is available 24/7. Plan mode forces me to articulate what I want, which makes me better at building software. Both my code quality and output have gone up since I started using it.",
+      "hash": "92528554964d6228f8a034f8af8c0072ff40d66d8434670817d1b927d2e62f0d"
+    },
+    {
+      "id": "ef3c49ba658f72ab4fbd69bdfa3630f998c3a9154e103fb2ec15a9191452f003",
+      "text": "The question isn't \"is this slower right now?\" It's \"what am I optimizing for?\" If you're optimizing for learning, reduced fatigue, and long-term effectiveness, plan mode wins even when you could technically code faster alone.",
+      "hash": "eb1d8d2263a31433c94413fd8d52c069b2d05fcb304f73885d7485c45060c702"
+    },
+    {
+      "id": "097f1713fd7b897905954c6889808d15e572c3fc3c9594940ab7235df5bf76be",
+      "text": "Plan mode isn't optional. It's a foundational tool for AI-assisted coding.",
+      "hash": "f0597083d65dc627334663a330118219d26048ec69ae9582743630dc3e604abd"
+    },
+    {
+      "id": "76003ef443cdc452ad51cc468781a97c2a04e0b3c200796124c94482b284e301",
+      "text": "Use plan mode for everything",
+      "hash": "a657223e341c6f398e63654990eda6062e29c663a43c0d5d269a2fcd35b2343c"
+    },
+    {
+      "id": "5514394c7cbe01edcb88b5d3f9f362fd5aecc919a81848ee00efa6a4aba38de9",
+      "text": ", even small bug fixes",
+      "hash": "815e964593da5fc1071642ee478f97469c8429f5996bec85d5329071dcb2cbde"
+    },
+    {
+      "id": "45b342b67aa9bbffe2bf5b4f46a0db21043bce8286314b968883c41a5f059134",
+      "text": "Use dictation",
+      "hash": "72fa0c723eeaae63c5f9316ce10cf1f2aac50d5ad1430dad7ee4a6ff9a2a758f"
+    },
+    {
+      "id": "f8d22ef83c075cc16af7e0b525d193ecabcf9d6140e2a099141bb6e664fdf4f6",
+      "text": "- AI doesn't need perfect grammar",
+      "hash": "31191868dbbf22933e3da8c75013f87b33c7dc6f0c05126bf23b6ccb7c539248"
+    },
+    {
+      "id": "db6ca99a0e0ce1353cf5da431a4885ba91bc2aee031b36976dbc23418c6c4a77",
+      "text": "to make plans concise with questions at the end",
+      "hash": "7570633d9330c76bd422e383593822d634a7d0d0fd30ca6973b6a8990ad7b11d"
+    },
+    {
+      "id": "0a6499449de8088859b28f57420a14dd792ecb03bb9747ce43c18f8a7c30adfc",
+      "text": "Planning helps the agent",
+      "hash": "831aa7991d3b38ea5e0f2d6b64a2754b32a7f9a23864b0de3f5c846485b78080"
+    },
+    {
+      "id": "92c8ef394140b1f09687c345689accab6ddf8acf1c3b6cced7b1eb51191e42d5",
+      "text": "by building its context window before it codes",
+      "hash": "3a4d0f7be500b3a4e706a478b592f1cc7cbcc6e3d7461c1c077ef507a0661e6a"
+    },
+    {
+      "id": "fcf97e5cfd7c63605116395b59117ac0593415c7e01f9b24d78cc299c62feaef",
+      "text": "Planning helps you",
+      "hash": "6c14a049dc976dd6ad5cfb0d44469912eec56ef47c5b6d9606c363a916daff2e"
+    },
+    {
+      "id": "7692368e461179ae403928dd5bc9581d919aa5c21df9f5991d83293a53b569db",
+      "text": "by forcing you to articulate your requirements",
+      "hash": "9749afdc31035cc62228b87b7ef3305707a97ddc7ea0b7760387e3861be40a64"
+    },
+    {
+      "id": "ebfa19ad09559ac9b76922bb0559e853af2bd151f856142353de6efe200c91f6",
+      "text": "It might not always be faster right now",
+      "hash": "f8e1d3ce91309c69423d6a30ded18e4506592c5cda6488aeb171e8740b488aed"
+    },
+    {
+      "id": "5c5007f715b0065a080c5c81960f257a6fef86fc1706d828fc084f1a878f5438",
+      "text": ", but it's a long-term investment in your skills",
+      "hash": "71a3047cd23a83c2df424eaaebfadc2104538a819b12d0b290a43e36db585fff"
+    },
+    {
+      "id": "5382d6b15b92ccc800ccbf7de1b147d5e0755823bc53be2603780790793c59ea",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "60deeba59b2c4714bb9686351866ed83b1a63fb7cf94ec6bb3509807694eed82",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "7fe7f3e4e5d1c6f37cc969f3651aa0d012495b92c981b94b2b4807b72bec05dd",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "5d3b879a60e270579d23f06bcb679623501ab70dfc2ced760263cb79cc89c492",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "5f2fbd7b370d4ba2ecc3079fb80f819d7d98f7656fc06718a874ea2b77ea7bdb",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "a471ad7c82953421a067436ce633dd02d2d7b4c357c352326b646e987cab6bf7",
+      "text": "Real-world feature build with Claude Code: every step explained",
+      "hash": "0fe30f840117b4520c0ce377e3c153c186e0fa94332a946033ab45b08f76a1fe"
+    },
+    {
+      "id": "394e4fc36a810ebe2e3eb3cb2b24fd0a756ffe6b07916f08384caf1ec7431988",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "5a9c63a0f898acff7bfdb0ed45903bee810ba7fbd1935d596f4e5e4e0f7f2c6e",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "ffb600fbb05087bb67cb1dd96669bfe0e079393229b3033d8b66f49ed1c28f15",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "c7d3a10d9c6f7369eeb88e1d474616b50607d6bc5fc91cb5fd201ab9e7ad90c8",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "d1cbc923a2563481f4cbf10955cd462658a4ee91aa330cb7ee507e38ce1db35a",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "2758dbdf5964651796655d0f3409e10e6129dba0b2ac4011077aa898951388bb",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "5ed42d48d31355da0a763535ad4a814a23708007597818432370af040a34f276",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "20053003488985e9e7b14a1c3e0c3e4c8462a2e2a21a0d94e948fd579683f2ab",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "2e1a1a1e89dd1d87ffdb44613e250eae4c2f421d732698f34c7d094d1d341e0b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "a43526f68d9c2d46ecb72a00e65a2ca809c45efa1f5ffd932d4bedf6c1fe0a61",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "875539b85d15541ea48b3a3668b5978cbec528704d46da43724bc0c84bd9a093",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "cb502f6170ab554e69982b0886436bda9b4ff099d23d61dc257d5d6e52c3c987",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "dc0e0706ba9ab96f7e1c40c5008f8275ca6433819fcf3238342cc076a7605814",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "73ae962a144bf0362b30148f8c531436af887ff20419f9df94f57a233cb3f02f",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "333405ad581c1c586d5f945b363120e632971e176477f1d1195679338fd89e6c",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a3d469a0dac1628ddc49f420c8eecd9bca136424ac1c5b5fd8e1010163148444",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "eff76c1c52065a901e8f99348a630733aafc06fa4f11b300e01f26f8ed11a5bf",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "170b170e5926af2cb35f872678f3b27b3c0ce74fd87ac012596793b24933eeed",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "739469f8cc5107fed8cbfdd1d1f2202a3ae85abe660338bce39f61e3fd62908a",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "a8a24d915f4fdb55ab240d20f2d18fc993dc8b3c5fc93668a3d60ebd7cebd09e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"vamnkfd5yj66zg\"",
+  "lastModified": null
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "AI Coding Dictionary：Autocompact、Design concept、Primary source、Ticket、Parametric knowledge 人工富文本译文",
+  "exact": {
+    "Autocompact | AI Coding Dictionary": "自动压缩｜AI 编码词典",
+    "Design concept | AI Coding Dictionary": "设计概念｜AI 编码词典",
+    "Primary source | AI Coding Dictionary": "一手来源｜AI 编码词典",
+    "Ticket | AI Coding Dictionary": "任务｜AI 编码词典",
+    "Parametric knowledge | AI Coding Dictionary": "参数知识｜AI 编码词典"
+  },
+  "routes": {
+    "/ai-coding-dictionary/design-concept": {
+      "Grilling": "深度追问"
+    },
+    "/ai-coding-dictionary/ticket": {
+      "Spec": "规格说明"
+    }
+  },
+  "blocks": {
+    "/ai-coding-dictionary/autocompact": {
+      "Compaction triggered automatically by the harness when the context window approaches full.": "当<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>接近满载时，由<a href=\"/ai-coding-dictionary/harness\">运行框架</a>自动触发<a href=\"/ai-coding-dictionary/compaction\">压缩</a>。",
+      "The harness watches how full the context window is. When it crosses a threshold — often around 80% — it pauses, asks the model to summarise the session so far, and seeds a fresh session with the summary. Work then continues as if nothing happened.": "运行框架会监测上下文窗口的占用程度。当占用越过某个阈值——通常约为 80%——它会暂停，要求<a href=\"/ai-coding-dictionary/model\">模型</a>总结当前<a href=\"/ai-coding-dictionary/session\">会话</a>，再用摘要启动一个新会话。之后工作会继续进行，仿佛什么都没有发生。",
+      "Except something did happen. Compaction is lossy, and autocompact is lossy at a moment you didn't choose. A manual compact happens at a phase boundary, when you can tell the model what to preserve. Autocompact fires mid-task, whenever the threshold is hit — possibly halfway through a refactor, with the summary deciding for itself which of your decisions were worth keeping. The classic symptom: the agent carries on confidently but has quietly forgotten a constraint you established an hour ago, and you only notice when its work starts contradicting it.": "但实际上确实发生了变化。压缩本身是有损的，而自动压缩会在你没有选择的时刻造成损失。手动压缩可以在阶段边界执行，此时你还能告诉模型哪些内容必须保留；自动压缩则会在任务中途、每当达到阈值时触发——可能正好发生在重构进行到一半，摘要自行判断你作出的哪些决定值得保留。典型症状是：智能体继续自信地工作，却悄悄忘记了你一小时前确定的一项约束，直到它的工作开始与约束矛盾时你才发现。",
+      "The defence is to not let it fire. Watch the context indicator and compact manually at a natural boundary, or write decisions into a plan doc or handoff artifact on disk, where no summary can lose them. Most harnesses also let you customise the buffer — moving the threshold earlier or later, or turning autocompact off entirely — so you can tune how much headroom you keep before it fires.": "防范办法是不要让它随意触发。观察上下文指示器，在自然边界手动压缩；或者把决策写入磁盘上的计划文档或<a href=\"/ai-coding-dictionary/handoff-artifact\">交接产物</a>，这样摘要就无法遗漏。大多数运行框架还允许自定义缓冲区——提前或推后阈值，甚至完全关闭自动压缩——你可以据此调节触发前希望保留多少余量。",
+      "Usage:": "<em>用法：</em>",
+      "\"It doesn't seem to remember what we decided about the schema earlier.\"": "“它似乎不记得我们之前对 schema 作出的决定了。”",
+      "\"Autocompact fired between turns — the early decisions got summarised and we must have lost something. Reload the plan doc, or compact manually next time so you control what gets kept.\"": "“自动压缩在两个<a href=\"/ai-coding-dictionary/turn\">轮次</a>之间触发了——早期决定被放进摘要，我们肯定遗漏了什么。重新加载计划文档；下次手动压缩，这样你可以控制保留哪些内容。”"
+    },
+    "/ai-coding-dictionary/design-concept": {
+      "The shared understanding of what's being built, held in common between user and agent but separate from any asset. Brooks' term (The Design of Design): the conversation, handoff artifacts, and the code are all assets that try to capture or reach the design concept, but none of them are it. Quality of the design concept is felt through the quality of the conversation that built it.": "设计概念是用户与<a href=\"/ai-coding-dictionary/agent\">智能体</a>共同拥有的、对正在构建之物的理解，但它本身独立于任何具体产物。这个术语来自 Brooks 的《The Design of Design》：对话、<a href=\"/ai-coding-dictionary/handoff-artifact\">交接产物</a>和代码，都是试图捕捉或抵达设计概念的产物，却没有任何一个就是设计概念本身。设计概念的质量，会通过构建它的对话质量体现出来。",
+      "The term names the gap behind a familiar frustration: the agent writes exactly what you asked for and it's still wrong. The usual cause is that you hadn't fully figured out what you wanted. The design concept wasn't finished in your own head — your prompt captured the parts you'd worked out, and was silent on the parts you hadn't. The agent filled those silences with its own assumptions, because there was nothing to align with. Nothing malfunctioned. There was no shared design concept, because there wasn't yet a whole one to share.": "这个术语命名了一个常见挫败背后的缺口：智能体完全按照你的要求编写，结果却仍然错误。通常原因是你自己还没有彻底想清楚想要什么。设计概念在你脑中尚未完成——提示词记录了你已经想明白的部分，却没有涉及尚未想明白的部分。智能体只好用自己的假设填补这些沉默，因为那里没有可以对齐的内容。没有任何东西发生故障；只是不存在共同的设计概念，因为你还没有形成一份完整、可共享的概念。",
+      "You can tell a design concept is shared the same way you can with a colleague: the other party starts answering questions you haven't asked yet the way you would. Until then, the work is conversation — grilling is the deliberate version — and writing a spec too early just captures the misalignment in a more durable asset. The design concept also moves as you learn; assets lag it, which is why a spec faithful to last week's understanding can still mislead this week's session.": "判断设计概念是否共享，和判断你与同事是否达成共识一样：对方开始以你会采用的方式回答那些你还没问出口的问题。在此之前，工作本质上是对话——<a href=\"/ai-coding-dictionary/grilling\">深度追问</a>是刻意组织这种对话的方式；过早写规格说明，只会把不一致捕捉进一个更持久的产物。设计概念会随着学习而移动，产物却会滞后，因此一份忠实记录上周理解的规格说明，仍可能误导本周的会话。",
+      "Usage:": "<em>用法：</em>",
+      "\"It's writing exactly what I asked for and it's still wrong.\"": "“它完全按我的要求写了，结果还是错的。”",
+      "\"You don't share a design concept yet — it's filling gaps with assumptions. Keep talking until cancellation, refunds, and partial fulfilment all line up between you before you let it write a spec.\"": "“你们还没有共享设计概念——它正在用假设填补空白。继续讨论，直到你们对取消、退款和部分履约的理解全部一致，再让它编写规格说明。”"
+    },
+    "/ai-coding-dictionary/primary-source": {
+      "A source of truth in its original form — the code, the conversation transcript, the raw log, the actual API response. Not an account of the thing; the thing. Counterpart to secondary source.": "一手来源是原始形式的事实来源，例如代码、对话记录、原始日志和实际 API 响应。它不是对事物的转述，而就是事物本身。它的反义概念是<a href=\"/ai-coding-dictionary/secondary-source\">二手来源</a>。",
+      "If you want to know what your codebase does, the code is the primary source. The docs, the architecture diagram, and the README are all descriptions of it — accurate when written, on their own schedule ever since. When an agent confidently asserts something wrong about your project, the question to ask is which source it was working from: an agent that read a doc inherits the doc's staleness; an agent that read the code is reading the current truth.": "如果想知道代码库实际做什么，代码就是一手来源。文档、架构图和 README 都只是描述——它们在写成时可能准确，之后却各自按照自己的节奏变化。当<a href=\"/ai-coding-dictionary/agent\">智能体</a>自信地对项目作出错误断言时，应该先问它依据的是哪种来源：读取文档的智能体会继承文档的过时状态；读取代码的智能体则是在读取当前事实。",
+      "The cost is what keeps primary sources from being the default. Loading one into the context window is expensive — the full file, the full transcript, every token billed as input and competing for attention budget. What you get for the cost is completeness: nothing has been pre-filtered by someone else's judgement about what mattered. A summary written last month can't contain the detail that turned out to matter today; the primary source still does.": "成本使一手来源无法成为默认选择。把一手来源加载进<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>代价高昂——完整文件、完整对话记录，每个 <a href=\"/ai-coding-dictionary/token\">Token</a> 都会作为输入计费，并争夺<a href=\"/ai-coding-dictionary/attention-budget\">注意力预算</a>。换来的价值是完整性：没有任何内容预先经过他人对“什么重要”的判断而被过滤。上个月写的摘要不可能包含今天才显得重要的细节，而一手来源仍然包含。",
+      "Reach for the primary source when precision matters — the exact signature, the actual error, the line that throws. Much of managing context is deciding when to pay for the primary source and when a secondary source is good enough.": "当精确性重要时，应直接查阅一手来源——准确签名、实际错误、真正抛出异常的代码行。上下文管理的很大一部分，就是决定何时值得为一手来源付出成本，何时二手来源已经足够。",
+      "Usage:": "<em>用法：</em>",
+      "\"The agent says the retry logic backs off exponentially, but I'm watching it hammer the endpoint.\"": "“智能体说重试逻辑采用指数退避，但我看到它正在不断轰炸端点。”",
+      "\"It read that out of the design doc. Point it at the actual retry module — work from the primary source when the behaviour matters.\"": "“它是从设计文档里读到的。把它指向实际的重试模块——行为很重要时，要依据一手来源工作。”"
+    },
+    "/ai-coding-dictionary/ticket": {
+      "A handoff artifact scoping one session of work. Stands alone, or hangs off a spec as one of its children. Tickets can block or be blocked by sibling tickets, so the order of work falls out of their dependency graph rather than a linear plan.": "任务是一份限定单次<a href=\"/ai-coding-dictionary/session\">会话</a>工作范围的<a href=\"/ai-coding-dictionary/handoff-artifact\">交接产物</a>。它可以独立存在，也可以作为<a href=\"/ai-coding-dictionary/spec\">规格说明</a>的子项挂在其下。任务之间可能相互阻塞，因此工作顺序应由依赖图推导，而不是由线性计划决定。",
+      "The defining constraint is the size: one session. A ticket should be completable before the session drifts out of the smart zone — and that constraint is testable. If sessions on your tickets routinely degrade before the work is done, the tickets are too big; split them. If each session spends most of its context on setup before doing five minutes of work, they're too small; merge them.": "任务的定义性约束是规模：一次会话。任务应当在会话离开<a href=\"/ai-coding-dictionary/smart-zone\">聪明区</a>前完成，而且这一约束可以验证。如果执行任务的会话经常在工作完成前发生退化，说明任务太大，应拆分；如果每次会话在真正工作五分钟之前，大部分上下文都耗在准备上，说明任务太小，应合并。",
+      "A good ticket is written for a reader with no other context. The goal, the acceptance criteria, and context pointers to the relevant files and decisions — enough that the session can start working without re-deriving what the last one knew.": "优秀任务的读者不应需要其他上下文。它需要包含目标、验收标准，以及指向相关文件和决策的<a href=\"/ai-coding-dictionary/context-pointer\">上下文指针</a>——足以让会话直接开始工作，而不用重新推导上一会话已经掌握的内容。",
+      "The dependency graph is also what unlocks parallelism. Independent tickets — the leaves of the graph — can each run in their own session at the same time. This is an effective way of running multiple agents at once.": "依赖图还会解锁并行执行。互相独立的任务——依赖图的叶节点——可以同时在各自会话中运行。这是并行运行多个智能体的有效方式。",
+      "Usage:": "<em>用法：</em>",
+      "\"Where do I start on the migration spec?\"": "“从迁移规格说明的哪里开始？”",
+      "\"Look at the ticket graph — the schema change blocks the backfill, the backfill blocks the API switch. Pick a leaf and run a session on it.\"": "“查看任务图——schema 变更会阻塞回填，回填又会阻塞 API 切换。选一个叶节点，在其上启动一次会话。”"
+    },
+    "/ai-coding-dictionary/parametric-knowledge": {
+      "What the model \"knows\" from training, stored in its parameters. Frozen at training time — the model can't see its own parameters or update them. Detail is lost in the squeeze: billions of facts cram into a fixed number of parameters, and the rare ones blur. Source of fluency on common topics, and of fabrication on uncommon ones. Counterpart to contextual knowledge.": "参数知识是<a href=\"/ai-coding-dictionary/model\">模型</a>从<a href=\"/ai-coding-dictionary/training\">训练</a>中“知道”的内容，存储在模型<a href=\"/ai-coding-dictionary/parameters\">参数</a>里。它在训练时固定，模型既看不到自己的参数，也无法更新它们。压缩过程中会损失细节：数十亿事实被塞进固定数量的参数，罕见事实因此变得模糊。参数知识是模型处理常见主题时流畅表达、处理罕见主题时进行编造的来源。它与<a href=\"/ai-coding-dictionary/contextual-knowledge\">上下文知识</a>相对。",
+      "Parametric knowledge is not stored as facts. Training never gives the model a database to look things up in; it adjusts parameters until the model predicts text well, and a model that predicts text about a topic well behaves as if it knows the topic. How reliable the knowledge is tracks how often something appeared in the training data: a topic with millions of examples is reproduced accurately, for a topic with only a handful, the model guesses based on what similar topics look like. Reproducing and guessing are the same process to the model, so it can't tell which one it's doing. A fabricated answer arrives with the same fluency as a correct one. Hallucination is the model guessing wrong.": "参数知识并不是以事实清单形式存储的。训练过程不会给模型一个供查询的数据库，而是不断调整参数，直到模型能够良好预测文本；模型对某个主题的文本预测得好，表现出来就像“知道”这个主题。知识可靠程度与某项内容在训练数据中出现的频率相关：拥有数百万示例的主题可以被准确复现，只有少量示例的主题则会依据相似主题的形态进行猜测。对模型而言，复现与猜测是同一个过程，因此它无法判断自己正在做哪一种。编造答案和正确答案一样流畅地到来。幻觉就是模型猜错了。",
+      "Parametric knowledge also ages. The parameters stop changing at the knowledge cutoff, so a library released or renamed after that date doesn't exist in them, and an API that changed is remembered in its old form.": "参数知识也会老化。模型参数在<a href=\"/ai-coding-dictionary/knowledge-cutoff\">知识截止日期</a>后停止变化，因此在那之后发布或改名的库并不存在于参数中，发生变化的 API 也会以旧形式被记住。",
+      "For both gaps — too rare and too recent — the remedy is the same: the knowledge can't be added to the parameters, so it has to be supplied as contextual knowledge instead.": "对于这两类缺口——内容太罕见，或内容太新——解决办法相同：知识无法添加进参数，只能作为上下文知识提供给模型。",
+      "Usage:": "<em>用法：</em>",
+      "\"It writes flawless React but invents methods on our internal SDK.\"": "“它写 React 代码毫无问题，却在我们的内部 SDK 上编造方法。”",
+      "\"React is dense in the parametric knowledge — millions of training examples. Your SDK isn't, so the model fills in plausible-looking shapes. Load the SDK docs into context.\"": "“React 在参数知识中很密集——拥有数百万训练示例。你的 SDK 不是这样，所以模型会填入看似合理的形式。把 SDK 文档加载进<a href=\"/ai-coding-dictionary/context\">上下文</a>。”"
+    }
+  }
+}

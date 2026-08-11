@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/what-is-an-agent",
+  "pathname": "/what-is-an-agent",
+  "fetchedAt": "2026-08-11T06:28:17.305Z",
+  "title": "What Is An Agent?",
+  "contentHash": "1c0ea0e8862cd7fed5b94476530378e022446cdf9102eba9031795732126e796",
+  "textHash": "7ca8a59aa99c70ea3d8db839f35e60d68a72c86662899575779b412a24e7c7eb",
+  "strings": [
+    {
+      "id": "7ab2679db39186a850847cc138f79d85a60126a6521166a5a091a38f2a67f268",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "13b466d639bb3d079a7a1f994f365716e4028db1d5d56caa229f2c6f911c56aa",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "8d5121f33c2487e56babed006e22ec4b2174b7a2244d1b19afd6a67bb77d8d42",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "a49b40988aa582265fa283c50d29447b5e5ee24486dc43775af81d8d753e146b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "3c07027e3e4504025e74e4abc0182bcf5f37501ea2d302a08f8399fc40ce8ca5",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "519b6b4614cb08a08d659eeaa8fb37fa6fb8e2c7f8bcd2e822d5e95d3c68f273",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "7170f07e71dd2206aa751a0464a15b2435455224e8e350d10242a11cf528e158",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "51f0d80caff36afedd10c7ec213196ebf4950882fa3769ec83037fd053a6dacb",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "8978365ef7a004f7471ec091cc2a09583a8bb5038c5589a7f5ef742c560dfdc7",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "5ed08963cf3b17bd469ad8f7e6a8e7044a7f9de70150e4a8ca3fecd8da71b6c1",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "33895641bbf3c31d462820b20e977ff5e246c25f5d224d39a4daeda478cea48b",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "48725c2836b762cf057b21a1f74b554a99efe6556ed5512759a38104dc1cccdd",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "3e211fee0ca6832cac47d26053b05c6507908457fa3a8d2419f19ad78c0b439a",
+      "text": "Messages, System Prompts and Reasoning Tokens",
+      "hash": "3f4abbe2463908b00f5b0843833ac83f093b45c95c2e5ac1c4395162a9512645"
+    },
+    {
+      "id": "8a4b0d2f0bc62ce26ff29c2a4f4baadb38afde6ea387333dc43bb6e4d412014c",
+      "text": "What Are Tokens?",
+      "hash": "ee46b60e4092cbeeb7436395b0ac00e00c45ebfd441d53a6c0ad998bad67a625"
+    },
+    {
+      "id": "7f30003f05052db8eec8739ab64746a1fb05a4bdb8b702076d438f711463abf8",
+      "text": "What Is The Context Window?",
+      "hash": "424d3b1d346af8ee28ad019515ce974d4455ac38aabd1de0c6f85c80ad006a35"
+    },
+    {
+      "id": "3bcdd9ab511af5704cfa174348ead6d409226d1d789b91e84c09775dbd900c3f",
+      "text": "What Are Tools?",
+      "hash": "916742818672edbd799c05eb316ebe7f4750efec5d416b1db6d6348acb761caa"
+    },
+    {
+      "id": "fe3f535f8d1c9f22413d9fd873c0dcc7daef843e9c515f9651c2cab0e9359239",
+      "text": "What Is An Agent?",
+      "hash": "4363a0eaad32a30e59832dae65d5ce46e94404b308512b2a6a68c13044d2919e"
+    },
+    {
+      "id": "d4db7f005c15a524bd7a9474b3be9a0aed1b2c3bb97af803061b4da604859b26",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e7c93c561073af3f4467a08ca3c97af09dfcd1800cb7ef241b87511d071d2f68",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "8091ef1ef721f0cfe7a09465e66d48aaa6cc0debbbdc2bb40bbe27de51368778",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "c18b2dc9019128cc4a7e595e37344efc4c8d567406108a1a4e981070906b858d",
+      "text": "05 / 05",
+      "hash": "6cdb55f47006db63b81b5d16552feaff860d823a13bb0e0618d67cddd708a29c"
+    },
+    {
+      "id": "e2595b9f24972881d95d38e0e8f653286deabb834d900d90445e2d0f92531929",
+      "text": "Discover the power of agents vs workflows in LLM systems. Learn how agents improvise and workflows optimize for predictable, repeatable tasks.",
+      "hash": "fdb63203791f5611615bca7e4f2f2bfb66d7743c34319c9b41fe7edbe460208f"
+    },
+    {
+      "id": "0c993802d84aad30b9563358e523939d268304bedcb32fcccb6e1c293c48c267",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "a295ff2b4adf34ac707746739d59e3eb05522c046f44a22e08d83fb92864800d",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "507628a84a88bb75f36d8c9f00e9bcb44952970c963cb16cd21fa35141d34e49",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "bae113bbd44907212d74e0a1915f24e315bbfdbca0dce60729b76541ba9784d6",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a5612422a752f7d07591d5fd33ac6495b197ca0b79affcde63b1639c750b6cdf",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "729d5698131c9353f6ec20daf2c97e0c9536374dc8bd3026ae9e4f141618c104",
+      "text": "What is a Workflow?",
+      "hash": "df08930fbef1ade7fac4af922d6cbdaba896cdd1da0db9d195f8ca3be58b33a5"
+    },
+    {
+      "id": "0db600032df14712b545fa4a7621e8a131d857976839a6513de8f0b05db87f3c",
+      "text": "What is an Agent?",
+      "hash": "223cd3b6736542af60dffaeb505026c2b8ed7aa8b5ab1a8067d9bf447ded1c28"
+    },
+    {
+      "id": "69a38b22c22a2ab336bd9c316aea445cb766d297ae16dc4bdbca0865b8a8524f",
+      "text": "Comparing Agents and Workflows",
+      "hash": "e9e01a916a586f8986e597939b8e1616b106847f2c4b4eadc09b9b80a98ef11a"
+    },
+    {
+      "id": "a4f1dd7fd76af55704cfc50e5687b7bcc0385d000f9df155b0d9fbf6d5ff3c15",
+      "text": "Parallel Workflows Example",
+      "hash": "47e4d1655ecfe2d5ad2c8503776fe6b7d5d006f5b49a250654f2b0c925e4a521"
+    },
+    {
+      "id": "cf2851a4f851648a02d59d7425db9e2a28f8f11c2224c091227e74b80b755992",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "f040d2d0d1e555f146f5ea96d28d02e91ce903a4bb3f9f4e8ef5bc5b53b2e4db",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "c3d8c37c2d7cad39f93e3ac744f7ac81239abd8bab0bebc084f41a3dad71d96a",
+      "text": "Ever since Anthropic dropped the article",
+      "hash": "0745a252496383f9ed3b4247276972fc7e5fe22ddae5d750274607f2991a33b8"
+    },
+    {
+      "id": "f23e9ac57968ce21767f7ec4d6d4f6de5038d59e9ed611b3defd6710d7017b1b",
+      "text": "building effective agents",
+      "hash": "d34f06c3255b4653b7f5d71652f4d4bb615a585fc1b47b986be1d45c032a7357"
+    },
+    {
+      "id": "e0a1ac00610e7ca5ed3479c2b490a24411ed05ff8c7f2aafa9a6da877df35752",
+      "text": ", everyone's been talking about agents and workflows. Both agents and workflows are ways of building more powerful systems with LLMs, and they both involve orchestrating multiple calls to the LLM.",
+      "hash": "2056a1548830dfe5e321910bd3e98c382ba3be9fc26ba6ad31866c80fae9e28c"
+    },
+    {
+      "id": "0fe510d0e759a08b7ad1a766e7bdcf47155b7a3021e019ff1e1a4ffe7225c67b",
+      "text": "A workflow does this through predetermined steps where you have one LLM call which goes to another call which goes to another call. These predetermined steps are written in code by the developer.",
+      "hash": "2b339cb7aa76845950b8c3d4711bb6ce2a5e98759690086195ad44e98459f749"
+    },
+    {
+      "id": "0d642387ea8bbc928f4fe9cb0e372232e2cedca4721e035ecf14b9f65c9faafc",
+      "text": "The code itself decides when to stop the program, when to call the next LLM. It's all written into the code itself.",
+      "hash": "a4c0ffafc69958e1e5fe8ddc7cab32abdc4eda5ba75e2f1f4b8e528e9431f159"
+    },
+    {
+      "id": "62ca5da2db4317c47155c6904d9fe0b78d9cf23d7fb626b9dca96ef4414b5ab3",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "0786e51a02b5fcb9566581bc29604988822689c8ecdb516b4e7093c237259f42",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "d63da86b4715d48e1876eae483b2afa5231e8818bdcc2c504be7c8ab9e8828d5",
+      "text": "An agent, though, doesn't use predetermined steps. It calls an LLM and gives it a bunch of tools, different options of things that it can do next. The LLM decides which tool to call and then responds to the result of those tools.",
+      "hash": "41d57ab9b04b2a8029f75d8aed64eabecbc2ec02c1289bb3049c1b2bdda29cdf"
+    },
+    {
+      "id": "dff933c4f9cc4b0f99d6ee02bd196eb6e6b4b50092d467bf851ff383a84ba834",
+      "text": "The LLM itself decides when to stop the program when it thinks it's finished. In other words, this is the LLM making it up as it goes along, which hands a lot more power to the LLM, but of course makes it less predictable.",
+      "hash": "c0088f1814481b7485184ea3243e24ac3673882d7628dabbcf9b4bb050f181a7"
+    },
+    {
+      "id": "267e19b34ec6cb5fb832392cda6a380f542059ae79a773dacee7d2f0b57ee8dc",
+      "text": "Both agents and workflows involve multiple LLM calls. If you're just making one LLM call, it's not really either of those things.",
+      "hash": "cc84ff28f38af9779ceb671f6893c3d3f5b73c82ab3c5a34e3365c7426721d64"
+    },
+    {
+      "id": "aa46f8f1afbac84b613318ebcdda0a98f9ee66374462ab3c0a14f71c080de770",
+      "text": "The crucial difference is who decides when to stop:",
+      "hash": "162faefbf1743ffeb5d089a276db64e88326cb4c2a1b6fee87e8ba241a6c0efb"
+    },
+    {
+      "id": "672c4752a66c672dd758d03a42be8dfe25ba15ed8073157b356341526ef2130e",
+      "text": "Agents are really good in situations where the steps to complete the task are not particularly clear, where it needs the ability to improvise to figure out its way through a difficult problem.",
+      "hash": "b2b012a65d25a3702e638e6e3dcaf731370f04ce5ab3414ad979e632b5a9163a"
+    },
+    {
+      "id": "c3aae8f78c3cd00bfadca1fced989cb7ccc720af6842200355a0b495201bad52",
+      "text": "But workflows are great for things that need to be done the same way again and again. Workflows are often unfairly maligned because they're not as exciting and sexy as agents.",
+      "hash": "f8383fa96943930227eb6936f3db37794a0b7f5ffc9f4702d86103e995d19697"
+    },
+    {
+      "id": "8cb9a0fd4bfe89731c9698b1a461ad5049a7444674ef9251416d43c956f54f65",
+      "text": "You'll often get better results from using a workflow than using an agent, as long as the task is clearly specified.",
+      "hash": "e57a2558e4e13bca18296d82e97945a3855cf3e6a20b81484b932876534d56e1"
+    },
+    {
+      "id": "f89c4322ebf5c413ca0769de55c362ada511065b4ed154a5880a5ef8134e1efe",
+      "text": "For instance, you can use a workflow to parallelize work. Let's say we take in a chunk of text, we can split it into two parts, summarize each of them independently, and then summarize the summaries afterwards.",
+      "hash": "b6cd0ce68cd70a9e77da0f0139e352c315d0a0b016e1d88e5542f3d2fffdd2c5"
+    },
+    {
+      "id": "62a06d73cf659f4d06c4ccc2937586f5d6ca7a14a6a351d4e173edff840debae",
+      "text": "That's the difference between agents and workflows. I don't know whether it's me being old and boring, but I am more excited by workflows than agents.",
+      "hash": "c9abc9042bdd97c7954844264600f133b02ac42e3498d55dac0bec24be12999a"
+    },
+    {
+      "id": "40a288804a515cd8fc7b1a331bfe404905a36272c323ab73c5a664b77efffa97",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "5b19342cd67f56105e9534125b58f58bab5b5b53c3bedf693868e1282bc4c5a0",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "c9559a18a28f6cea3794df1cad261477e5c429b48291168ecd5811a8965247e7",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "737b0476d6c263c077905b4d041f021986e132feef0a96a9b21f6a3ae28375d9",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "8f958c0d60aa08a1e7567f5b62c60318cb5b7e178006b4a8871bbf686b4f8ca7",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "723474d705133fe460c1e80e4df6df65197072cf1d4df4ca91e1b0d85d3e9e2a",
+      "text": "Article · 8 min read",
+      "hash": "7ed659a57e73c0b79d355e027243422ade398c8a5c07027fc4d37d8357ff6dec"
+    },
+    {
+      "id": "63e10a5fa4c201458ad87392b4b484facc90394d07472a3ef243eb2bc4946e4d",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "a877645e212ccfe4c3eaf06eb3617b967e022d4237c6d86dd1fa4f0730e63cfa",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "114c322c707104e674e446518ff9292b4e9ee93e94faf1f06255bfbf4041d710",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "4e08c718d3977c7adf70d1083b0a6aa7d11baf123162764c78e08ab55caf30de",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "e5a29e4080c82c24a721e4076914cbf11cc1535710fdaae7b5949533aac18aa3",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "252552d7b65e5bf4039846d5166b78aeb9698646e6426b049d58334e1cf506b1",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "ffeab9cc5da2a3033171c4421cbe1b9163c7706352a9d36d458d43d50064abf9",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "adb8ec8c12b764306b34cb9fd898746478d9b14cd4aec01465f7eea392eec405",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "5fb148674d16fcba52c89c3b8f402f1d38b129c4eada912ae83e510d3517baf4",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "f9cb5ca6fa9080a769d1291bcc76730f550d90535099ec405f882189758ca225",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "ee6a278127412aa5f9371bcc2942f1e1937bb4bda40ef857f9cb4d57eee23049",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "7c1879f72563fbf4e4d6d808e6b2cc929d174af59375e142b6a62adbe5669ef9",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "68e6c02998d8c9bb0b8666fa16d4976c3947448dd7fb9b42e4494bba24603b02",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "f4560a4bc2ca20a3ed3afc4dca6600512ba65cb0aca86aed4f8bf8b838ae8a30",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "67db2dc25faaec4d86a0bd7c8c62333334e6e0b9c344afaac8f952bb4dd9a49f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "1b5fa73ee17547b2d1a77ca013705cd148f4758b62de62565f3ee6f3511f991d",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "490ea9028f94a3133cd44fc4f80d9eeff5e495f8abebfaa32df365bd6d342a61",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "a387224cfebfe18a1cd53339638c9b5508423972e6a2f0fd72eb4f3036c40ebb",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "2a3d8b1058722ef7e02438e2971b415afbf5a71d199db2b0523175d309f1e5d5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "430d392660649f2f15e1f9f8117ebb29a049abfe74c9ed60dde4e3a56b008327",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"mtoin7odr85u2f\"",
+  "lastModified": null
+}

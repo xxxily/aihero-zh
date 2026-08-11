@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/sandbox",
+  "pathname": "/ai-coding-dictionary/sandbox",
+  "fetchedAt": "2026-08-11T06:28:35.742Z",
+  "title": "Sandbox | AI Coding Dictionary",
+  "contentHash": "9e5a150ee77538b357d99d60a5a0bc589edd7992e451d035e14d9d50a585dd2c",
+  "textHash": "9aedc7a1a9d9ca8e7058d51f27503f52e112627c43f2e73e7dfe9c00fe9a6dc2",
+  "strings": [
+    {
+      "id": "029d4f7e25d95f3daa242f46ddc8bd00b1fcf05bbc29917b231c369e7117a9eb",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "c5f80482939c101245847f1325fd1ea95db334a0999f1b8a564b277432140a75",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "d3ad91a5319d6f765ee9a7fdfcac914f27e68ea01049c475ec54d5856cac382b",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "daea7e05203b8269034e0c79ebd217d1068eb25cd41f9c784ce7dabaf319d5ab",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "457d6e9122d67a31408d7fc7f36770be0efbdcde92a1ceaa6560a70d8a457ae7",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "183e2d0d9e504793929a302a6d14cc53af61689778b104280003d950f6a35213",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "e9a8d808cfc2efe4000efc1e602526327cd5efd8c13a989d85cf5e7151429753",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "cf8c6122fb9c7c3a0c0b81ef387fb7cd358134b0b6169dc47e4bb36d1849c812",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "5aada85572c28fe40647835e37709cf807a6bc78aa4f6faf90cc29fa60ad3b5e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "368770c3a03ba9ce14a7c2d2992936cad3f79befa94bfb7cbd5793be90f6fc54",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f6d8c133b7ed60ac5b16b5b3adde7bab3849e5a6361c6e4e8ecae078acbf0018",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "4c8ed69db83b1fe83f55e06c12bb105531daed275650a679a4f9d7f94f28159e",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ad64dd1b5e0dda9911fa1237b264e12317e30969b165c450daf7fc6a098bf258",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "d3daa2d39e5d81d6ae46219d99adbb53cba0b1e037b904c6122a847f215177fb",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "6636d0f9717db242c422f1f1c1072da0ecaee234e3ddb6636c76088f0c6af487",
+      "text": "Tools & Environment",
+      "hash": "cf9194302814cf2bb2ae04f0e1023fec3d18acdc5258a0e00c18bb7df366cf00"
+    },
+    {
+      "id": "a6c4f34fe86c3767a05de45d873632428ef26f638dd57592beef7eca16c05d5b",
+      "text": "Sandbox",
+      "hash": "67fc62497e85d81bc54ea07aa87dca6868cd470e95d7281155a8eb532ce60009"
+    },
+    {
+      "id": "e7237f4af189993781e4c4a95d70b47d8aa62e7f3838c8360cc85f4272b84415",
+      "text": "An isolated environment the agent runs inside — container, VM, or restricted shell. Limits the blast radius of agent actions.",
+      "hash": "a57e4fdf9556c49d5778453404b48b57a6192c9f43702091e5e58db8dcde551b"
+    },
+    {
+      "id": "c15e18aa6a87a449689e9ae3308166c9b1c6961517580edb2ec5b7c2b46c45ce",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "89d5f516ab7925cc30443cd5d48cb0757b3a7807af273864867a4f2615f1ab73",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "c3f45b218745c65e37640fc5497cea94d02e17310ed6198a2eef29e2e6a45579",
+      "text": "An isolated",
+      "hash": "176c851cb5e20d7f83c48ae93a9a709bdad52e88ac711130f5dc39e541b4692a"
+    },
+    {
+      "id": "26f5be84de95e98f3eb4214efc580d179359814f728c3df170b7139f109d15bd",
+      "text": "runs inside — a container, VM, ephemeral",
+      "hash": "f7eea6cc75a58e167a481dd8587decec214776fd9686320bce142c1fa8149f5e"
+    },
+    {
+      "id": "c2ee639e1498a9c69f0697629ad33677f57989f7a67e0ee65a6206abdf94362e",
+      "text": ", or restricted-permission shell. Limits the blast radius of agent actions: even if the agent runs destructive commands or fetches something malicious, the damage is contained. The safety substrate that makes",
+      "hash": "7c4899bb8db0eb53b3acbd4df3c0da9846dbe0846e9cd95bb38b070e2b6c47af"
+    },
+    {
+      "id": "49b0f87f8e8e1da41baf2b3b38f552024a6354c235e124f9bf240c823aea3ac8",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "1c3268d48557e21a90e8615b193bdf65c8923bb0a5384a498763681d5f74ea66",
+      "text": "practical.",
+      "hash": "79503a6a491a835d63a85af06e5ee9a7ddb4d82639effd282ca889badfb2c06c"
+    },
+    {
+      "id": "ec0d20a9c9ddce950b6448d96e64e97478c312771e758e8f1d1cb4fb5d2edc8c",
+      "text": "The sandbox and the",
+      "hash": "7ca157f35eeaa2d9d40fed49686cdc97668d03880d4baee9cdbbaddfea4515ae"
+    },
+    {
+      "id": "8b46b974838f92bca0c8141eef51a669429ec0194877314660a271de662e8e41",
+      "text": "permission mode",
+      "hash": "2ea04b3cff63e2308414a5e48abbef0b69336f0b9902d10bd8b81d8ff46aae26"
+    },
+    {
+      "id": "bd4f2ee7ea0bd474d4ed1690c248878d3d9361e2c46513838556c54df09f1132",
+      "text": "solve the same problem from opposite ends. Permissions ask before an action runs; a sandbox limits what the action can reach if it does run. Permissions need you running",
+      "hash": "f6fcd1e6ae38ac3241d476b2aea94e6ffb73697a7ed46266259b82396562027b"
+    },
+    {
+      "id": "054ab58e2d54f847a10cb1be1ac29941371dc52eb2a10f943d682eed63aa8fa4",
+      "text": "in the loop",
+      "hash": "1668c1fbd2d432d2c76d5e6bacdcaab43416d3881f33d919a09825de57faf55f"
+    },
+    {
+      "id": "dfe90ac724d34e8f3ae250b853b652fca8727fef3bc8dd68d809b28528e243b6",
+      "text": "— every prompt is an interruption — and a session that asks constantly is barely autonomous. A sandbox spends infrastructure instead of attention: the stronger the isolation, the fewer questions need asking.",
+      "hash": "ff7a8c8f6cc260d54ae07f667f5ea2c468a6cc0f077d3158a41fad1660eb6e2c"
+    },
+    {
+      "id": "059822d43be2c8cf535fa508f2e5fcea48522eb30b273f335a99b18d9558712d",
+      "text": "Isolation comes in grades:",
+      "hash": "b969536c208a475d38bd717becfdd26a4c0d7bc1429ad310a854fadfb4969447"
+    },
+    {
+      "id": "96efc4605afcdbdb04334bbfdae51cb405c3d06e7f2839801b9c6f99b13251ff",
+      "text": "Grade",
+      "hash": "839e20fb3599fc744d2b45386afdcc0091db03733269fceb25c89f37474a8478"
+    },
+    {
+      "id": "a37873eb6fbf19b0ea7cdd01c3a46c7b0d1429e4c684796ba8da16ba93d586f3",
+      "text": "What it is",
+      "hash": "1f36becc3aa7c8a8893bc0688d52b8bef91dae5528528706003bc4f45e409f96"
+    },
+    {
+      "id": "17a5952e226074efb5898380e97ea3aa8c9f97658071a154371c965e133537be",
+      "text": "What it contains",
+      "hash": "d857ce6edcd58ff2d9fb9b4daf73ff9d868c5735121c2d485b6a6c6b577029ff"
+    },
+    {
+      "id": "907d59ce02adf2a73926fd7ffa18662145fdc4a690a88be8c33db4b3b01a2f4b",
+      "text": "Restricted shell",
+      "hash": "d0e49b1441f73effd361113cb3c743e1793bf2f1108ade5783534761d225d18d"
+    },
+    {
+      "id": "887930e9e91619fb7e1cc3f4e78e7de516c11f9c55fc01c4a252c5b089d5e69c",
+      "text": "OS-level confinement around each command",
+      "hash": "db8ec3ff4f112a5e89a9094293cb23e022408118930ae495be9f80fd230495ac"
+    },
+    {
+      "id": "49120d52fff5f5718c6e463d8ccb60e3ec40bcf48c2599e17c79644ae5005ab0",
+      "text": "Writes outside the project, network access",
+      "hash": "0f5c755f653a61273904225e10824b20dca730b9db3607ccbe4e24e3565dc2a4"
+    },
+    {
+      "id": "5c8d3fbe701f6c6345ebe3ddc5a2354ee82bcd452e9067e3554072923f6b16dc",
+      "text": "Container",
+      "hash": "0c7823e8c759af7d0d04bea22a6d64fb56065c7168977b5f19ad2225a2986178"
+    },
+    {
+      "id": "1a12ec513f04ea36660215bcef9efa0cb90d63a80de6bd1914cc7f60dc046222",
+      "text": "Fresh filesystem, no credentials mounted, discarded after",
+      "hash": "a355f7d82bff7ab2b76dcef3f34e63b933efedb2d592a637caa260a4ea91d807"
+    },
+    {
+      "id": "02ad792cc4a90084cc825a6afad5400aeab6fcfd2f97b2cf65f69b8161775ee7",
+      "text": "Anything the agent does to its own machine",
+      "hash": "546d1c16d1fe3c677b57a5a02b1e41114008a3ad4fc0672162caea8cc2ec8469"
+    },
+    {
+      "id": "24cfeb5fd9dfd5b427437f2947c98229a93f9ada0feb90dd634dbd9e9ea95fcd",
+      "text": "VM / cloud",
+      "hash": "09b105c9eb7bec4236d46fa4761a33a86bb1a3a2af5c78928c121567850ca4de"
+    },
+    {
+      "id": "11a05459bf8f950b6a6e796ce94b552319a473078c22b7966181c900cf705911",
+      "text": "A separate machine entirely, often provided by the harness",
+      "hash": "e5144e88b77a46ee3fa3b53d1f38cd4e2f7901bca2aa23fc1bea24ff4e32d5bb"
+    },
+    {
+      "id": "94e6b0841cdc366415e1f163280a1825690449b7ccfdf9af55bdd1eadcaa94a1",
+      "text": "Everything, including kernel-level escapes",
+      "hash": "0865af56e6acbb9b621b4e2d3d656f8af9dc180c07595c33216ab9545ad3726f"
+    },
+    {
+      "id": "f3a3d5101ffd24977070be6d6bd5b298a20c24e075818b919c8ce5ece7419bf3",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "ee65ad30e147d610366ea6bea2b3bb6e85768a37f0752ca072a72945fc533fce",
+      "text": "What no sandbox contains: actions that leave it legitimately. An agent with your git credentials can push; one with network access can call production APIs. Decide what crosses the boundary before deciding how thick to make it.",
+      "hash": "63b0759b22b163bab0288436add2f8ffa6f32e4375990cf71529670ca8d6bf63"
+    },
+    {
+      "id": "4ebb8f56a7b9eb99a52bdf1cd8ea8888d0e534d70ba3b9115ce2f97cef030a7f",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "757ecf904c3cea3f91c478b596219e702e85e295870b39edfae9c4223fcd7217",
+      "text": "\"I want to let it run",
+      "hash": "de44f3b33965021dd1052d3a392fd35f3d941cdf7bfdfda7e4a5ffb048843b23"
+    },
+    {
+      "id": "9cedaf45f81497d140876d6449d524b7cf5aade8cdc41deac5f5b4f2938c52a7",
+      "text": "overnight but I'm not ready for that.\"",
+      "hash": "9e8e5c8bb3e24233bd38a7bf28ba9cee29a6df266bfd5ae28b0090a810a87d4c"
+    },
+    {
+      "id": "659853d4f5aa3113d046e1eaa2cab383a584cfe5e4c6f80c6c709df622c95dbb",
+      "text": "\"Put it in a sandbox — fresh container, no credentials mounted, no network out. Worst case it nukes its own filesystem and you discard the container.\"",
+      "hash": "ca5f85ee02111f16bce15a1929d4b11fc09651bbae6c2ee2a6e611b52ba06ec6"
+    },
+    {
+      "id": "7cf12ec9b0a65aa0da924d35f99a24b84af793dc8cc01da50d3b6bd607ca8d40",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "c66dd5e3e64a3589cc1d1c33db439ddf643b27caf67322354517d7101d3fd405",
+      "text": "Agent mode",
+      "hash": "7cb0154423f4e208531c0ab32537384bffd7b92ace440743085f715a3a9042b7"
+    },
+    {
+      "id": "b23c77f4cfa936b6e353b59779da87cd2a3a66697734b2788816a04009a4dd21",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "80aab17ced1a925d9f86a1adfead1c12d62d44bc0909a5080eaa6ed279d8c405",
+      "text": "Sycophancy",
+      "hash": "3ea44487a35802429565ace3d346af85ffa355f51322456406c67ae05fbe8aa5"
+    },
+    {
+      "id": "adf87e0b31eae747aaf6c691e40b1765f24d44d8c40ff4e0e5c7733008d348a2",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "9375c5d7bf53159d671756ff4a40e415959ee1de23c798205a37c681626cfe69",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "ea32d297b5bef4cbbb7823726319c752050049cc779f5988c864869963015f70",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "4b9f6ad9dc2cbaf133c98d178fed7557654107b1314ed3660a7b934ff5cb568c",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "1c870c98983373aa32733feba8082c020694823cd9fba9e3e34c61a0b0c2016c",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "62bf9e861d0ede00987ca7d1c13e384ef0d0a8d5c51eb32442aaef57d16798db",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "237402a3126e03a973afeab983dd7134cce34264eb6bba41f1ac8b08fd1ff5df",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "0733210b12bad7b7f92d7cfd3513033d36375495c69a5a8a08e063c6519c5d54",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "55fd224a8c8e9e08875655dc6e68a89ac19cbfcf40eec6f29cdcd9aec52c1c0d",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "7ddc3c15865cac9adca05ceb2a8d01dd88a2c2681ddc760983953541bdab6dc0",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "34324022a7e8c18ab1eba9e827f15f944bcbed7c1b9d2e5d3a59de86daeb61d6",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "df2036d55a3b07484a3f3c85880da077d05ad81f3b50b1074ccfd76cd9e67082",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "4310ed10c13f34f4dab1ba04223565baa636e88de3e7671955b5a592b602fa8f",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "fd9e867bd1f1553fd4cf6e338edbcafc055f935377b579a17d41fc82eff2d001",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "e5f2c6e10190463a2bedaac754dfa1dd217e18297f38eb79fc539cf95c2a24d6",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "16bda1898fc7093ba70df5399c1f1b8e80cca0b30e3b684f252b431d355dcd74",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "e6b6d14188de32798d85ede8c98f241a1f8ea4d62359772a86bd68982c8ed031",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "02a1d676a458aa83a66b20029f2db3f6ad813a52e150d3bb6a0070e49bb3256f",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "16fce5848d81b9e07e686f24c29de054a535f97d515b290a6aab8baaec335f57",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "881e92062214e81387a3bb50a8dcaf26faefb5c58bcc4ee4142918856154b778",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "f7d1a2bb71fe43e9c8177ff350303cf4a82c4c9a8e6834b133c7108fc9779bc4",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "2e6c3cf7f1b2a18418d04eecd70c87be522edbcb324359e8471e5c2747c085ef",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "3dd37c49f62f8b278b48c9a37c46787d9d5768785f2dcc34cfe4ef08807ce037",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "fdbb4f9171f84153026a2d6ea2a2fac4b88b214cb21637cba6c0b110e8560096",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "2e5591ba0bde70b9ee62ad57850f4569e9f8d6d60ea87750644b8bf8064f380e",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "9945225f185a2c5cfbae67225597a64121cad6e968458cb18f1bbdeacc9d439c",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"1fl4jh0mhv4vrh\"",
+  "lastModified": null
+}

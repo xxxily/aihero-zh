@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/workshops/ai-sdk-v6-crash-course/generating-objects-via-output~dkm2k",
+  "pathname": "/workshops/ai-sdk-v6-crash-course/generating-objects-via-output~dkm2k",
+  "fetchedAt": "2026-08-11T06:28:02.157Z",
+  "title": "Generating Objects via Output | AI SDK v6 Crash Course",
+  "contentHash": "aedd844fb515b3390b88588f3205043eb18fb218ff98bd013b96da82d79c737e",
+  "textHash": "94b31abbd45c86d08c92b6202e5a63ee6da98479f438b9ec678ad8b1b32fe4f4",
+  "strings": [
+    {
+      "id": "10349cf578a1d349ee02087c6542d22bf23cd6f1cbcdb9b59120e493fc66112d",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "8f9f6b6cbf96592defbd5fda25e65334edda88f7e55cf22e3d2d19de3a3d8ece",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "0d122b3ed4cc2c768811beb4663918829632b3f124715893a157dbcf5884e3bf",
+      "text": "Start Here",
+      "hash": "c2a26264b6cc01757781866341680687c71cec904df21785fb6786a70de28d98"
+    },
+    {
+      "id": "966b2c37903ed77e98c70ddf97536a41328fad9fa7fdea69b906435cae2a42bb",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "19087ab093acb55eec83fe7d7a43b5cfda9fcd0cfa32d1a21a53997d8ee208d7",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "cb25bbbb471f2d80c39d9d7a821e2954654af1710a739225144e0e5f4aca6bd6",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f68499dd91f75abc7a8b5ea80890d5f65b66052e174772c48bc63eecaf20727b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "a53437411629b58e39a8211862d623e7f9be4c513f6c01eebc94b653a74ae50f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "a9ba211314b6a205bab9316a7701bad72be97bdf21b17218675c34d78304e0f8",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "abf4015f9854f04ea70b3c99c72c3bfe71dd31ac52eabb50e14f85c883a05bbc",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "4ff636258434a0d3037d82fe2774db389a37280f59744d2be6399fec434c95bc",
+      "text": "Autoplay",
+      "hash": "892aead9575089f1cd9fee03376eeaf467011867b32c1356c96aed8eaf80430b"
+    },
+    {
+      "id": "6fd2a2281c91bd5e7736426b8e85d539756ef47efc15c27e4d9354bf8f45cd79",
+      "text": "AI SDK Basics",
+      "hash": "5b254e2bfdc0338ec188f9f8a7053a8f2de3e11fd65017da24a03c59f947bfe2"
+    },
+    {
+      "id": "0eb748ea6d12e28977738da259e2743416d7bbca5b5dd57c13dff49ee4dee1e0",
+      "text": "Free",
+      "hash": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d"
+    },
+    {
+      "id": "04a305d91fc8d26dd0643d5967b16682839cea1f69b201c8d2dbd39f293a1a65",
+      "text": "What is the AI SDK?",
+      "hash": "1271aff1f67dda76d5d7d5cc531dbc2a6a1f9f387986433ed69afe3172487ba2"
+    },
+    {
+      "id": "19fe0685133f89cb6b6fc6b9122d91b68657d86cd35c6176c565b04b3953dc28",
+      "text": "How To Take This Course",
+      "hash": "1b5482892d51cce51cbba10b4358734ee066a938b4fc8e92004a794c008de29b"
+    },
+    {
+      "id": "dc00c25e901419053ac7aeb0c340df6ed3cf78c0ad54d12f951868d76d1e6fd6",
+      "text": "V5 to V6 Breaking Changes",
+      "hash": "a6ed9fa70659a1e5d374134758c993547fd11cc8313b849a2454cdb6b3464091"
+    },
+    {
+      "id": "dc9f04222f4319ffde551689ef0f2aae59c8073f9c754acdbc1c1f4d99de2b1f",
+      "text": "Choosing Your Model",
+      "hash": "44e13a101f514f328c6d0d634d42cc3f4b1834b77c3a883cc28537d21dd97fcb"
+    },
+    {
+      "id": "a01fcfc3f3279879d793d0f9daf755040431497a20ab719de8dd206fd17a05a7",
+      "text": "Generating Text",
+      "hash": "7d918815ead6a8dd3806da16236f4b39ef63439f2a2d18104a47b02f78442801"
+    },
+    {
+      "id": "a922f3f249914cd8b64f2a7dbb9c3f8c4faa5ec5febd79f0a20e0a288bf26bb2",
+      "text": "Streaming Text To The Terminal",
+      "hash": "7cd8a764e34cd4ee8411ea12e3288a027ad4e29ab1e4adc252258652791c0a0d"
+    },
+    {
+      "id": "00ac1d32676d61952ef1a8ac1fff630d71eb6aec68fd06207769543ce9decc3e",
+      "text": "UI Message Streams",
+      "hash": "c78b13e4d80de5eec8ca8f1aab3d1ddc5ab544165869735b470ca7874d80f13d"
+    },
+    {
+      "id": "99f22da1ad142c4c76a582e0775d2baa91a11d9fa108a6b28440006fb5cee274",
+      "text": "Streaming To A UI",
+      "hash": "5ef784d887be8d18f881eb9b0ec247e60b63619819c70d49391e9cc5a7dd0346"
+    },
+    {
+      "id": "0b6d14e1f856b8d2d1b77476b81992fe9b3449f1a90f968039579bec675072b6",
+      "text": "System Prompts",
+      "hash": "4e524d37084f7dcc226a88f1e0d227cffc3d79ff0195f6b7b62b04d9bd4c0910"
+    },
+    {
+      "id": "b9c90c97e100452572cae494551b19e93b12a643b12e5395c4edce135f80d853",
+      "text": "Passing Images and Files",
+      "hash": "8d9a9dd07a40f462348f0c2d9983024dd5c74258dc2cb3d5f71caed89e087ab9"
+    },
+    {
+      "id": "67c7a4a8b5b1cb9d5883d0144558d32a5cbcfeb1ceb6c199583337dc46772a1d",
+      "text": "Generating Objects via Output",
+      "hash": "5a07d483371cd67730cfce25843f8063e48617411a009a929b1dd177199ffa5b"
+    },
+    {
+      "id": "f174681f9812e87129f73eeb7f4c8392ecf92e807636028096e56a956f67add5",
+      "text": "Problem",
+      "hash": "a1c5ae7bcb34bbf48104488eff8deede31b059aceceab562a6aace384f7fd64f"
+    },
+    {
+      "id": "9b489c872109e22f0cb95d71dda623a7f0631ecfdda0b036b57c6b9554bb679b",
+      "text": "Solution",
+      "hash": "22927695994eab589c7601a6b15df4d9dc67c5aceb9a74cdb965444b9b8362a6"
+    },
+    {
+      "id": "3fb2f00eb7b6b80f2014e73041dd89e47a73db63b2e5a2570a35c31757b48fb4",
+      "text": "Streaming Objects via Output",
+      "hash": "404cb12b587ca1d4ab73e8bb1ab48757b93291b54e10c975de75a813d694c756"
+    },
+    {
+      "id": "434fe9efeee1e4c084977de7312c028cbeb81e57c447ec8845e7fbd7b5feae41",
+      "text": "Devtools Basics",
+      "hash": "af6129c34ca790f38fada8839fc218f35d272f312d23b35dda362412f80c2c83"
+    },
+    {
+      "id": "a6f3c674ae8d6a424a35cffef7882a3f741514ac0fd87feea86c36337a721872",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "d78caf701a83e4f8b99fde876e44ab08c77cacf6b0824a075d5a8ee8e93cf8e8",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "31a6c10d59a5d6b8b84ae36343232b9259fad61b315de849f0111f29d6042d91",
+      "text": "Persistence",
+      "hash": "d8e68f610a342f2574480e29f0916f9f7f08314557f557b19defe1bd32a8818d"
+    },
+    {
+      "id": "e0ea38b31bb6cfc2c109a399867fd2fe62e0a4317d256efa586ee406ed8c5b79",
+      "text": "Context Engineering",
+      "hash": "4cb716c8911154593333fb583a4fc42ee32c74dfbe70065c0624b0ffc7103049"
+    },
+    {
+      "id": "84cf30f64f0d3a662769fe734c2db0f1eafa131015f48f667ebfda4e97fe1e43",
+      "text": "Evals",
+      "hash": "fff553f218c706a60a576218f987e844b20dc46585a30badca578d0ed42fd80b"
+    },
+    {
+      "id": "35614fecc5a4bb127f3d158f08d7bc3b19923bf7075bab6ee575e8e685737b20",
+      "text": "Streaming",
+      "hash": "a951c5945635e2d32e944bf67ddf3101bc3c5c9b2e3087ef39c384dc0e61a0d0"
+    },
+    {
+      "id": "1f29ddfcc94a1bf2024f0524e6902079b30c7e1f1b75ba9f0ef8c4b73cfd6eac",
+      "text": "Agents and Workflows",
+      "hash": "7fbf1f755bd02b88bf256fe2807915fb6d56f3fce6b2e94163a45eafe2bcd51f"
+    },
+    {
+      "id": "09942ef5c95d05b4b39317dd5029c9c0ea6d54020591d3ba70d51f38d0efb7a3",
+      "text": "Advanced Patterns",
+      "hash": "90d4ea6a5ec04de47ba1df516b04a7843bc4987c1084c05e32842fe0eb77cfff"
+    },
+    {
+      "id": "bac0b89ba48fa98d82dfdd9c0e6fda6fd89f3c404e01af3498f3cf133968c80d",
+      "text": "Reference",
+      "hash": "71bf90935fc231d20126e2087eeb583c6aa419fc3dd1b6847bfe376b9200eaa0"
+    },
+    {
+      "id": "47403df864884ffc4d2a24cf918a64f40cd62e9405219bc21ddec4eaba957cb7",
+      "text": "Lessons",
+      "hash": "cb4ad503e340ebd1a921e3ed6dcbfc0a80660936d8bfc9d190f70694b9ccb51b"
+    },
+    {
+      "id": "32797ceb05656003ed9f96c78cbdf318cdb11f6718e21d6b31f7889515f9d311",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "a3262d7686d30e05a2700cf0d8a084d628e3dae9a09ed77c1e4554a18f287f40",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "a6d20c048b13053a89de69f188add533e4ea1ff32e1541f168d525779b8700e4",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "e024292e64d0be1faf6487b82ff931b83d9f166b87f95b9f0ab9cb0ec2ec93ab",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "589365a93aa99230c8c1d2cfa194eb7dbefda3ed7e018e7b5aecc308723b3f5d",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "33c2cf9834cf455d19d3ad59b6ba1cff0384072e6f268907a84cb04b57983c4e",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "23e8cb2cd9dd848c2668cb9361adfcef4baf6fe5b709e0959baf31ac977f1d92",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "8e7ac85deb6a1ad656fdad1025c2418ee06fe6ab44894d8a1ec222fedb6c61fd",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "d5191dc88295008e29d8bc6f3eb96043d379dbeafb880b80eabfa0a6c3597138",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7f303d1003b801b01707535028ede4c3860f43d671b3c6379e2be7a5e8f45199",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "e0c00b0d8aa1b7dacc45aaddbd1ca9da0efd5659e87906a05a2e74006ef1988d",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "5021920c3d613b035600466a74f0d9ba674d36ad5ad11f34ffc8a3382e1dcbc2",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "040f4321fd722236502cbb9047af597f880aae9edef8eee74b743bc103398621",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "a541d01e2845f66650ed6c6246713be12dc10f1b340d468225399221614487ce",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "bbc4eab80965b69d111fc1a0bfe4f1b7f26fae726c2bbb0ef3ca02c1434b23d1",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "e429f9d70eb6ef85c06e4293648a1759f33b97d97663f6a458e6d3e27df4475f",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "ff8b3ea9832a45e4c42b4423bc43ebd9f98cadd0f1b28a4e4cc2c8a7485e3993",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": null,
+  "lastModified": null
+}

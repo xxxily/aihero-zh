@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/storm-generate-high-quality-articles-based-on-real-research",
+  "pathname": "/storm-generate-high-quality-articles-based-on-real-research",
+  "fetchedAt": "2026-08-11T06:28:19.876Z",
+  "title": "STORM: Generate High-Quality Articles Based On Real Research",
+  "contentHash": "ad90a77bfa5bbc919f0a8ea10fac3ebc2b2fcd98b90a0e33335e7697f3145a6d",
+  "textHash": "c906307d90cdb7f6af6b77241b940824b4117a2c059a1fd597ff406efa90aca0",
+  "strings": [
+    {
+      "id": "2567aa180496f9f45fb5827f14760de9311a40bbdd4ecf16169f0ed0ad1092ca",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "8bce494c0edb720576927191f0d3873a98477bd63838f28165ff05ed9d9faee3",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ff978a513f3a6544d189f0837f847f765d0bcaad3a44ac1958ed7484d71ef52f",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d14883042ad0df91cb01eab9704ffd4a58d9a08f45957edac72c45833caf3386",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "a67fa86453d83f8740d9968f8d1e9d75930ee61a71d5c8f72aa35f5df25c1f3a",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "013cd61931173d602c1b2e4b487ba5e111b263cdd9696b6648a736c00228938a",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "c82727dc4bfe362bd5212fd179efd04eb62c8ca34a4fedc51539bc8eb3685e7e",
+      "text": "Classic AI Papers, Summarized",
+      "hash": "22b9abd140a0d1e92016c4922f12be8c96059e60fcdc360f86c1e995a94e354e"
+    },
+    {
+      "id": "c740ade0d964b5d4d3085e6af449342cfcb8e23b08bf682b1e27f63a8f70906c",
+      "text": "STORM: Generate High-Quality Articles Based On Real Research",
+      "hash": "f4e67e32ae385b9dadcc833ad6ce8f0f15cf465b15e6e26a79aca1022ee65fed"
+    },
+    {
+      "id": "0d853d77e225cc9affa43a0d4b513227337e86578924a9765e09997da475c61a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "2c04ab852706d7df58047dcafda892766cef186d94e67b165dd110d6a015992c",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e69aa6b74878a2465147ad22fee7a10fe5897f9b045feca7dee2ec9054ae81df",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "45912fdda3ab5d3da22b20265065f2b08bb1d2d71747281d7c32736d05d56c16",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "6f0549d2248debebd346a2dc44c03d78e0d34d9aaa65a2fc9d3c802fb7d0b9c8",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "45156093c53efae54f4a4aa319ee4e03446ced50790a49b0424aba2c378f903b",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "25043739e2a9b310319907c68db0da1b1a3944b5c83dbc5c4a07a285a3fb66c6",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "a28aa48dce01643aef307f3cce448f6aaf5a2ce24fc8877ac259d31c776f194d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b52ab7a06cee8cf2dd4bd124c517e59daaba0d5e3aa84fe82c91dce4056bf74e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e6653e3efa59251ee12cf515017cbcd94fb637a011b5fe37c776722bc8edaaea",
+      "text": "Discover STORM, an AI that crafts top-quality articles using real research. Explore its complex workflow for enhancing your AI projects.",
+      "hash": "84073c01aa72beabcd0912d790d3a56c20a86a046ee21dc3d974429840e13d37"
+    },
+    {
+      "id": "73d9dd0526b8d9b99e104879dbe286ee7bb8ad7f2f942819558e66a92364318f",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "7ab73197ea1ca5dc916bd6757b82af97cda15672ed80158985b1b5d7f7e3e747",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "1acb4a4550fe74434c9160af8e451ab45ea2ee748216a92cdcd99e99fdf561eb",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "070239019f5b635b304f48082a21eefb3c306f68837e66eda6de791ed4f77e65",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "89c8d773657d3441a7cd3c4b3722c5cd6a60ecae6949b1b327d071cd3fcf82c3",
+      "text": "I came across a really cool paper today. It's trying to address a really hard problem: writing really good articles from scratch.",
+      "hash": "273ef0148dd4891e6827262be31302f5e8ba8799cf444c7b370e7ed4d7ab8d2b"
+    },
+    {
+      "id": "6c446c6836b232916c691c5ff43ee2cbca8b09b71667ca058b325b5ebb7a350f",
+      "text": "It's called",
+      "hash": "cc178bfa8be2bedea38213e46411fcde745ab741e5fa1e84f3bafbd1b30d01a4"
+    },
+    {
+      "id": "896c9848438a4b0187773f3f15c364e75f422c3c98492040e22610cbafdf23af",
+      "text": "STORM",
+      "hash": "db0464e1cf4e4e5b2558de7af988de384fc1fa82e34c9adf876319dcd81ec72a"
+    },
+    {
+      "id": "e31b900c1fc25a33e654e0f206341ba98079d44c195c66ff4fe99f95e9a168a2",
+      "text": ". Not only is it a cool name, But it's a really great example of a very complex AI workflow.",
+      "hash": "1aa5b1a58bb4ff41fc1a91fc902ef2483cf634f6929e414037bc3b8416c22775"
+    },
+    {
+      "id": "f2a1d4971465242545ee581a77e8a2dc0295da094ebea745404a288fc45f2325",
+      "text": "So while you may not be interested in the domain of generating articles, Storm is a great paper To look at if you want to build better ai workflows.",
+      "hash": "d9735ba3dcbe9ad9d2cf4c8bbc4523f2ccbee1a4e435eb34d080380ddfac1793"
+    },
+    {
+      "id": "813f500e36a3b45a49f213e04501a8538edb357ec9463568c60392dc48d4a1e0",
+      "text": "Let's take a look.",
+      "hash": "57b674047214528d50fbae70e6e24ab1634d8176fd9c4f312a5d8c11637d1ba9"
+    },
+    {
+      "id": "42acba12f6d979d523fa4edab57eeeb3ebe5f9df22ea8f65e4ec66e87a435bfb",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "db81f987712e0430eecaee17e058dd3b5c0726c12236c68686f012d485ea6d28",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "f498abbf74783314e04214fce4a8a1c4ac3762cb8b9299cac9b2e126c3c5fd80",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "a6af314510e0a04fa0251a7a251b860ff37baa272a8fcd2190e9e0f85cd5151b",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "565d9aaf540e54db553214830c1066207b58d1dd9711c2ea400badd06d39a06e",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "6b2fbfb420a36798e0f7a8d7e4364bc37fbee75aaca487668dba149001de5cdc",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "8fad090ebabd9b3390d9c594bcaf5d0998d08c9be944bd7dde61186f780e3381",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "48f7e66024931808533d71f824ba6bb3a291f223cffe2b0aa133e4f73a6e2e70",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "fd751917ba9f8a3ec17f933b39a558a6d2abd1d20dc7d479951ce2062a1d0492",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0415ad40a4c8c11bb374927e24be05e05598de6d99aa9336fe8091082a451666",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "81c398a93822429cbfff5e9004d89a2496b789238985ea687284664190078891",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "5201dfb32330f4ee3fb44c87e49b269cd0302d171344b39d3626c357ba4b5733",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "92f628fb8f8c58e8ae8b41fb6b346c4573d5b6ede556fa8693652765c525a6ec",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "34bf6f4cd69935e60c937169b40335087fb2c79f058fd1ebf050c3a738f21db3",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "a68980a89ac893a020b60a56357edec43e4ad9f1a9cf249754af32fd5b4d5149",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "e59a8ff9b67aaed2e552583be54375481cfc84c50fcbeda8b10768ccd7e354da",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "4f8ca50b55f8ebf02bde4787c5302249466713eb6a1bff95339326fd9460d53b",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "166e9981f6981b9ccda36f07ee872ad869a12b6c9004ac2d60cb90a507da792f",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "7ceea539cd49af8cd528e07df3e2a78e9c1abc11b12c103cf975ee04ad017174",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "48beeebb3bc5a84ba8ef400a78dec444fa9041b3b1cc0992b1303cec73d3a208",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "688fca7fc27fe87b719db49f83c550beb390fd76c9ac7d86dd27b7312555f1fb",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "a4d8ac2d5e5abb7af8681bdd93b11611054d368717618d1d42c806c84a09c190",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"7c112667abf702854afacbe3ec030988\"",
+  "lastModified": null
+}

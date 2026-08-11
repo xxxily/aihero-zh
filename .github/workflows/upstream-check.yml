@@ -1,0 +1,26 @@
+name: Check AI Hero upstream
+
+on:
+  schedule:
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check-updates
+        continue-on-error: true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: aihero-upstream-report
+          path: reports/upstream-update.*

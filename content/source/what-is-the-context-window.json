@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/what-is-the-context-window",
+  "pathname": "/what-is-the-context-window",
+  "fetchedAt": "2026-08-11T06:28:17.045Z",
+  "title": "What Is The Context Window?",
+  "contentHash": "5bc3cc54fb18bc4c7781083aa7229753df34acdc9bc0c7eabe9bae891999c923",
+  "textHash": "b1d7f146f3328d939311c8f8315c03cc5c71f0c57f2cf9a39af94263d7b2e47b",
+  "strings": [
+    {
+      "id": "067a7d8a9b35265f2802e6ecfe7cec948014ff3e41c59c7fd424a4def0cce87b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "267aeb47101bdc50a94c072343a62e073726350428f0344f1c8c4fed73272e02",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "fb40b5b55dafc65cc65eb1d4089c78f06c821cd4aaf09033a2cfa5b92d0e3793",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f723f6d8450f1d7c378958f3e1471ca910e74c3a6251cb05f416065bb46a7b2d",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "18f96c40cbd2f434422fa50a11b3e2b6ad24f981e07c3d5c1f7993aeebadbc80",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "aac33f9c43aa9bc6741bb87bdb2e4ca3ba589bd1e84f630c752e49a5f49bf393",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "1a1de1759416ad8e5ef8b0d9ddb8a3a3326ab4af9836bc733a0bb941d2ffe021",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "4c6597203d938b55b04f6e1d3551b3e0b097cc3ca0d9d2f352d947442d9a0c60",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "5ef38733ff026664bf5cac89efa76dde58086d47c617ee9b564922eb7f527e52",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "80bae307e100889b4987be0811e926f48195d25ece43a66484ddf3bfff62effc",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "e69bff76fa632950985f3c17decfaba3fab9d080b4604c94e0e419adea6885f3",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "7e1fdad2f2d50f8244f61af3652589a1b308a8e98856a939ff63409de1d76014",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "dfda1412a76a29e5176c602366d84d6144fbe84e15db3549f0b9dba5dbeb64a3",
+      "text": "Messages, System Prompts and Reasoning Tokens",
+      "hash": "3f4abbe2463908b00f5b0843833ac83f093b45c95c2e5ac1c4395162a9512645"
+    },
+    {
+      "id": "35b39079d751b3318334d98babe3c61d6113801a5bda77b032eccf9d20dd1a6c",
+      "text": "What Are Tokens?",
+      "hash": "ee46b60e4092cbeeb7436395b0ac00e00c45ebfd441d53a6c0ad998bad67a625"
+    },
+    {
+      "id": "7542e94ef58ff1cf55a06cc8a631fb424e0d0c5d445b5d11258ec1691ba3053d",
+      "text": "What Is The Context Window?",
+      "hash": "424d3b1d346af8ee28ad019515ce974d4455ac38aabd1de0c6f85c80ad006a35"
+    },
+    {
+      "id": "2676097b97ec0578ea545e337e406f3b78b79a31e7ff74d47ef76ef4ba4cb96d",
+      "text": "What Are Tools?",
+      "hash": "916742818672edbd799c05eb316ebe7f4750efec5d416b1db6d6348acb761caa"
+    },
+    {
+      "id": "96754319019b86fc020f5127bb060df09b60030e19d0f598de60e841277dd921",
+      "text": "What Is An Agent?",
+      "hash": "4363a0eaad32a30e59832dae65d5ce46e94404b308512b2a6a68c13044d2919e"
+    },
+    {
+      "id": "97b5638b8e3cf3854c59f7c1b73e3301c31b25743b8deeafe8125d75aa919120",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "08805fee52337ef38045d4e6f64144c93aa326cc88365a51c80cf4737553eb56",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "90d5ddf5203320d986fd9bba1091a03b91c6d901aeab0728843081c90e3e376f",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "ba1a1bf31ab6d117ed2241f6bdc83151c3c683286540f36ba0dea64975da8d96",
+      "text": "03 / 05",
+      "hash": "223ca6fce8eb3fc93790437ba1e5ff2a76d0e7254c8092d86e6e6bbefaf01095"
+    },
+    {
+      "id": "7656522a7ca1fc20f12c3ae6d241f709df1385b2c5522b0a3e7ad6e350a95a06",
+      "text": "Discover the context window in AI: input/output tokens, limits, and the \"lost in the middle\" issue. Optimize token use for better model performance.",
+      "hash": "7224595a17c6b17f78bd56c04f56b2c1756b8f3a995fc58efd2b644bd844010e"
+    },
+    {
+      "id": "ea811dc0a8820670c67f563ba932b39c708bc1de6f0decf0381c21882195acc5",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "3e5c547c2857f6b4dab7b0e26cb5d623c2dfe659664c185958f8ed5540dbe68c",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "46bb865eb0d359c38100edaafd934cad37947ea620b9a0ff2cd1f1acdc98f89f",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "0be16ce78ac734d29b6aac8fe6e74699b1af8199e78e9edcac4cd523d28707a9",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "f1d25b9d2c7a687299f6ecff9c1e875bc75f5943e9ff13b71556c29cf0b6a689",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "1babb9dda8acc9e9798ce3e26aa3cf9351332f7e225cb9109c060d8fa3e1181a",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "9199806d8aaaed60f71c58154b8e91f7af491c2be22c3488a029e4eb217c9cc6",
+      "text": "Context Window Limits",
+      "hash": "c7a0a10c46211f2e8f39a78c6f79ae09767e044880299c2ff6f0b677f55fa1cb"
+    },
+    {
+      "id": "47f7c89a2730785c254f8fc7cb85c347c42c7a71097278d76d1f798dd36d1f99",
+      "text": "The \"Lost in the Middle\" Problem",
+      "hash": "1b9d1524cf44cc3e6a50a2c782ac04ced3d9476172927b093f2675a899580cd9"
+    },
+    {
+      "id": "863295337647fd47461400c6b5f8ed2865c126cd579040f9535dafaff42d52b8",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "129060446f49bf96051747e19b4e965988dd59473082882893c9b9b41068fe92",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "4ad66dfd03befd6558a898100d038b90be05acdfb7f47af193bb63a67b26de1a",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "473a628d5ac8bd6541110d3d725fe446c8ea573e0f0e33b75a48416182543514",
+      "text": "is made up of input and",
+      "hash": "14596bf2947f4d2d93e0622206b5ec40ec692de78a9781b805f9a472e7910d24"
+    },
+    {
+      "id": "2826517013c64021c01e95e22bc333f0b285a2d93324e8ba23bf3b58fe506152",
+      "text": "output tokens",
+      "hash": "b6798bcee84a53a994de8822f2954fb739ce9a8eb119121f36b363fe86182357"
+    },
+    {
+      "id": "6e61176ace68d8952226e12cea1494453a8bab3e9e62807be1f03338e86323bb",
+      "text": ". The",
+      "hash": "4706472a616f7d963e9ae380cb530e97bd86f00177eef3419cb72a1ceccecfbd"
+    },
+    {
+      "id": "c6188944c2799f7d5df1ec84db542632bb6dbe850769c2916ebd1fa06c1558a4",
+      "text": "input tokens",
+      "hash": "f0c1cb4cda1985a408b12908c01227b01065a8cdfc2a03e2106ca60275f27d16"
+    },
+    {
+      "id": "f29a2d43af4c014951f4bdfd22938c8c792bf5a9b730f8bb80e4edacc38196b5",
+      "text": "might include a system prompt and a user prompt (the message from the user). And then the output tokens is whatever the assistant comes back with:",
+      "hash": "09f19a8ae5753a63d30077c615fe1cf8b510e224c47116e40f6428cae9617bbe"
+    },
+    {
+      "id": "4d2b3de2e3222ed34d3903d9173765c0e489706fee83e5f8a97c74ed47a76171",
+      "text": "The context window is the input",
+      "hash": "8ae8fa6c3de1954740c3aa5fcc26863690f4dfc271ed8ea207b72e5735fdd1c0"
+    },
+    {
+      "id": "3ff660c0e508091fa8de63ae9f92751d7606c320db181e8b49f2dc68f5fa4f56",
+      "text": "output tokens combined.",
+      "hash": "332f572efc31f6d3bdfb30b79dfb265b79b4f65388b4b7e3658694f47b474182"
+    },
+    {
+      "id": "c7d6eee51cf0f77060188dcb938290ba26b3784eae2ba4904e9840107e053bde",
+      "text": "As the conversation gets longer, as more and more messages get put into the conversation, the number of tokens used grows.",
+      "hash": "fb528ae21a8c6595fdf76a8e87044c67b0af64ae3dfe30cd2c25075e02360aae"
+    },
+    {
+      "id": "21a190770ffce5b9d3e448c785fdbe2a0669e006046adb1943b027f3c321e766",
+      "text": "And as you can imagine, this can't go on forever. Every model has a hard-coded limit for the number of tokens it can see at any one time.",
+      "hash": "36ba4af0bd4f4943a5900409b446c47fad570a9475c3d6413dfb6b338383d03f"
+    },
+    {
+      "id": "6e50414ce76cdecdd9eeaa73e104326f0b497f63c02207447d4eb31da9180ad1",
+      "text": "If we imagine a super long conversation, eventually we will hit a limit. And if you try to query the LLM with this super long conversation and you hit the limit, then you will probably get some kind of error back from the API.",
+      "hash": "b4c1309d18f245dc8359b38057607379dced38b0839eda847047e4a2b2e4f81b"
+    },
+    {
+      "id": "d211fe3bf2f1bee9e0a0e4e3131079b10c4abb2aa9a5ad3fa0231a52e5e1ab63",
+      "text": "You might even hit the limit during the generation of a message. So this message might start outside the context window limit, but as it goes or it carries on until it hits the context window limit.",
+      "hash": "b7eb849df75bc5fae18b8a4879e7af24b893ffbf58bb4680687c9ad3dece3540"
+    },
+    {
+      "id": "b87a8c4dc92d203432749c58c638736125091e9e51b88568fefe298306c4735e",
+      "text": "The model itself isn't quite smart enough to work around its own context window limits. And so you will hit issues like this sometimes.",
+      "hash": "db3f017e6650e36b345ad971c78e898af4249b25a73ec07fb7df3ce9a4d4f910"
+    },
+    {
+      "id": "fc7c49332eff09c214653ea0a0037c366f7e7f9792370595e48f535c652aaa0b",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "0c5323dcaa5d37ebde0c202d5d4bb2169d8128cad3a11c8696e83ec738bafda1",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "9df2a21ddb72a28bb25269d2cdf33f779bea4b964e72e445824136e5b962811e",
+      "text": "But the biggest issue with context windows is that the bigger they get, the more \"lost in the middle\" issues you get.",
+      "hash": "323985b5d7b8eda088c226f3d37a684d369fa3edfc0280ba2c520f13d3f88780"
+    },
+    {
+      "id": "922af31e78bfb13d21597de045ded64624cb9c66d92ba7b8534088abf976cc5a",
+      "text": "If we imagine a huge conversation, where these rings are the individual messages, the messages at the start of the history have quite a big impact on the output, and the ones at the end do too, but the stuff in the middle the LLM pays a bit less attention to.",
+      "hash": "b2fed0cd1c722658b2562c1195ab1fb7e131878c3bb6194b56f5db41a92acaa8"
+    },
+    {
+      "id": "4eefc0aab4b48f62dbe8b2a4ea8a8fd60faa122d6b630eb60d82c42373759542",
+      "text": "This is a well-known phenomenon and it's much more pronounced the larger the context window gets.",
+      "hash": "647553943bced25debb254717811d1692d0ff2dc94539bd9eb5d41fd086b17c9"
+    },
+    {
+      "id": "e026c78c1b7ffeefd888178a66a80916daf6d66ab7982ee3553f40c36b66c4d2",
+      "text": "So when you're assessing a model, you shouldn't just think, \"wow, this context window limit's huge, that's incredible, I can put so much stuff in there.\"",
+      "hash": "c81ac1d065ef70a35f5ed3ebf1b5df194daad8b6db028cf5c88efc5ab0bc0f6e"
+    },
+    {
+      "id": "2d49c6d8ae1da6ffdaa42b81e6724118ead17b14e465fe15d96c2785cf7aae24",
+      "text": "That model will still probably have lost-in-the-middle issues. It may even have trouble retrieving information from its own context window.",
+      "hash": "60a7a7ff9f5305eec60eef5f58e07e6edbcddbcd4d50f352c02a8390f15452f1"
+    },
+    {
+      "id": "8d325100bce6152dc5f82d1aa9804deb89cf8f2db1dafcea5ecb741429adf7ea",
+      "text": "And so even if that model supports a big context window, you'll definitely still get better results from using fewer tokens in the context.",
+      "hash": "657f5f47f1cc35fc59805ac4e210aa649c9e7d0065c633952cdae194c1885279"
+    },
+    {
+      "id": "f51780130ac3ff4e90784774a94b9137dba658b3481185adca585ded75c276d0",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "222dd818b732832765773d27457b7dc8900d4f5bdd8439743ba83483390ec641",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "8949d4a487f94862d7f7dc3c32d1ad77599de12e0e82bf0a5565afb5c777480b",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "96c0293b3503c07b722e9a4ee205a29eba4b33e7d6514e4c0cf44295ebc993ff",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "295be36f6e6701005a4bdfa4fba5e4ddf4a293b3508a1343b4fca2e468d81c6d",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "1132c8904e01523c649b9a1d54a9378e8aaa5de25ca81744866307ff82a9a1f4",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "64e392746c4fa27c9c6ca3c1ba607f77e564452b0735e62a6a380973b521fe02",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "24a1d8fc23aff26c8372fc5a93c97bb1a585a8f64e4ac98bffe9b1551ebdbffb",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "f5c676107aa2d7535c418e9599b99528ee9019de0cb0f9529ccb4900babcc2b7",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "ab905ef85b07380adae62531e84e040ec6f46be127d705f56638a5ad06452867",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "2ba99ef2f1e6a3ccc5135ab7fec12da77d2efcb4ab2de0f92e71e6d42488dd83",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "b777e5c40b4eff0a599eb940d5621e23bf1fc4d48e660324eccb20f2f0265dde",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "5e3e66540701430cbcc2c78a10202abae54475e28d13947f2477fed40260365c",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "d5d1db31de23d191d5f4979aeebcfaae51c2a7018ffce73513309f42e54d9664",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "76e56caf83e875cbb5dd1dc45d5ca545590330e21e3cedf2631212079716c800",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "801a8173117b92eb9d2544dfdf0ecc4e83d19722320dbffe1b474248154857c0",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "1ed79278932c5bcce4eefebd1381dedf7bc647a9d04df15ad11be107365e32a4",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "7a3c42832f55cb0d890b8413ba31cfff2696cb0f731468e594f04c18552a42a5",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "cd2158d86d0e1e3b4a7f8df17dfbca91a3b2d822fd025d4be3a56ac03af34d69",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "284fe3437b99a66fd3564227bd6d4ed420ec9919b080b0d33395235c0b7744e3",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "28d8acb1d6ecdf75269724a0a19d8f544cef69df9913a36242cba9c9c9a8e46f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "f90a4312828fc3091e14c0da00dae91406f217567b6bdacd1e0cbc662c64c730",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "739fd3bc67f8527a61420a2eaaabe0443c4c67cacc91ef4089cde5b63abb89d9",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "67349fd313471d662c107a83aaa7264e04fe7da2c3c052be974f575c436d56a3",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "0be9d7095baaa4227583c833eb302a0914b260072fc86c477dbd40463dd9741e",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "73b772751307053963ebfe5a45d58ca2c672542b92bc30709367c4af014777a6",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"3xjuppncb65qet\"",
+  "lastModified": null
+}

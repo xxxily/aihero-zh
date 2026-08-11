@@ -1,0 +1,933 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-wizard",
+  "pathname": "/skills-wizard",
+  "fetchedAt": "2026-08-11T06:28:04.498Z",
+  "title": "The /wizard Skill",
+  "contentHash": "c63369a657edc02582f0c68f0476588fa0976ca4d99e10ad3aa39a06383ee440",
+  "textHash": "45d3fedcd139c3e03e7f748385f5653af356521d9934e03aae6988f8587781a6",
+  "strings": [
+    {
+      "id": "d62f0464a6e4fd612b81b962d6b42bd49601af1f026cb454c1c08012eccb4c02",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "909fcb6b077a92cba3ffc0b8e7ae200c7fc37e780685b010fb03a1f74b2127cd",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ad44a9f0b162e99599337015c928b1ae523cd43fa386071e4fdf8526635fca03",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c8a29654582cf1dda21737a1e8146bb21f3db482cbb60242e0138cb0f8267982",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "01ba2c58a7fd71d4d59174565a454450a4588c220e8347e61c8108a16764120d",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "d081e01b6ebf6ae33c7950ac2909d96752cca79a1e8e98a6018c89e081015bbe",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "e6fac4f54f6f9fd712bb09eae7cec546ffadfb21728ed7832ac488c2709b6859",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "0a31b8099044ac406f10a6541206885013a0003b1ef8342a834377bac3c55a71",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "0c7f82fd930b8972fc6dee9b2e020f27e479a2e704847782c19850eba9429225",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "b0b43e2ff84bacb227f6d8bcc973c62fffb990a867d33c5d0094ea46831d803d",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "d8186081eebc3628f738382885bc94c55c5e3a3975076163f65dd5ead3044465",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "2cc72cd89b4b068060b7ab7cf5e2440782685e32ef111cc0d6d966b165285b26",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "25499aa70bb352145c354b728edc059d385ca3701bc3c72eb33bb58bc51138ca",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "fca4408fd65be1f26a479f81a13ee964698d5606f66fd263810f9c4ff445de51",
+      "text": "The /improve-codebase-architecture Skill",
+      "hash": "1d2feca177f8d2a2229e95a3f013777630bd379b24ca132a89d1c87623d2d722"
+    },
+    {
+      "id": "d659b0e9e4420a3c54b0303de29a53c3af24d07b30040534adf3555ccf944903",
+      "text": "The /diagnosing-bugs Skill",
+      "hash": "82d22e5c3f7a145e0c607c7003a935a563d1e107a030000f3aa33cbcb8f1f676"
+    },
+    {
+      "id": "32c4131294a86c0c90d306eb1dfae595eff8db2c2dcc1a27958fc1e75a59ecf2",
+      "text": "The /resolving-merge-conflicts Skill",
+      "hash": "503c1d265cd640ce24d1252efc32c21add9fc91cd0c40a7ecf7af547a1f28fd0"
+    },
+    {
+      "id": "a84aed5adb744873f248c2c721f80b8d5478d01e395758c880a367262e72a4bb",
+      "text": "The /triage Skill",
+      "hash": "28ca8c73ddb7e7f15619f62dd65f987942e6e4a625b9bcc743e938d3322893ef"
+    },
+    {
+      "id": "6ea04eeb983a914be9ed1a1a5e5d05d7584d385681fc895cbc193fcfa344c0ec",
+      "text": "The /wizard Skill",
+      "hash": "dc2a9dfb2e7aafb5b920a374d3edfadca9df74126313b2f8bbd9533e45a3805a"
+    },
+    {
+      "id": "c5bdf7b48a25900cd218772a4a6694090a6156c2944dba1d8328f71d7390eb83",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "febc55d4fce469e00f8328de6df164f77f27ba2959fa4d98f6fae26db988ef41",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "d4d99786c90c5ea2a4acb938e4a120fe8e65ccfe3a94e0ef6720f38a9e189e45",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "677557ea916d1b6431f6aeac71eaf98330dbbd8cb658b91fd81e171ec52ad621",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "4f86bb5221c05f512649c7499df937a1b52dc1814280bc24eac3e1d76aa7b5e5",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "67ed570811adadc42cd64c926aa0c249660a5cce21c1d4c3e0e845e835781edc",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "190f1a591f70a950cc093dafec6aa4120ac59ee433873046e5c1d8abbf55f952",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "aaa39a07f7505e39c8e177cece65e41743d3bed2210c7152a6e0e2758523ecda",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e3f228b660e4af62a205f25234af002d5d1c300fa16db0bb4694d51357255cf3",
+      "text": "15 / 25",
+      "hash": "c8e9784b79cd82beb41f0a20990a7c7a6c86936ca661b121f9582a910fe15373"
+    },
+    {
+      "id": "cff5f34212d2e8efa06fa97dd8de35d9288ee55d1ea4425431860bbfa429f4eb",
+      "text": "AI Skills for Real Engineers · 8 min read",
+      "hash": "09f2e9dd39c5c3b4d7e20076529d7e233953ea4a213d7df649a0aea48b37d128"
+    },
+    {
+      "id": "907eee33d444d90196f95bd84a009723a5fe65ecda95c58b15581509c4041bd1",
+      "text": "Generate a script that walks a human through setup.",
+      "hash": "f8695bcf2f281865859b895a96a161f3668bf098e70bf9fa90e8897e23590a0c"
+    },
+    {
+      "id": "a1ee4556d6567df4e63edee3a41e57724c5871c4d0d4fcd71fa9ae20d6ebcfa7",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "e37aa7378bf387800296f761d7a144858403e4cad55d85124aebeebdf4a45f68",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "df4d63c7e4a232ec5715f467d5999aa44613f3400aefd0c685584c8d56bb648c",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "1da231115417b803ce324a8dd651f3815424698d39219761862777c6eab02322",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "040ddc11620a028ca2b223efac62c2f9df60aeca23935e2fbbcc464ce335e26d",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "2e4cca376002600874c49e37f51f9102d8bb0bdec86af4917b64972ca6465c87",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "4195fc0aba1a4f05f9a4ff6e59d036a0f1ca38f491baa497b44e0e228886b517",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "c3ecc62b144ec0962a706d89f60ac8ca7855dc0484113288e57e850e9fdd85e7",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "60deeb327fc223b0ac7109df918da8082ec94ef94fc4271cec129612530abc51",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "3af4fec283bc1a957c892685ac93b6b23a181cb9fa08d67f541cf6391808af02",
+      "text": "Stages",
+      "hash": "3a17aa4e4abb73f667b9a0796216db5abed121ac5a745ab1f4b519fc837ce354"
+    },
+    {
+      "id": "4e60cee0d9592c5a9dd8181085ac8d52c1ab734aba4534bfcbc4682c8999d5b0",
+      "text": "The template already solves the UX",
+      "hash": "45bdd80ae52a09e96bbaec47369a85c7e7a4cad4ea3cef41e1d1717be23d3ff0"
+    },
+    {
+      "id": "21b4bd0adafb39fe3736d6ec41bcb3d53b7e97d1f806937d2c73184e544a5f94",
+      "text": "Ephemeral by default",
+      "hash": "94cf90b880749961fea1b438b8fd6d9ed444ed17d592809821ed0c08bbff63c0"
+    },
+    {
+      "id": "f1d0078e6746c284b806727f30b9a1b5e0a8ad4d74214b6fe9f4bd1df2162af9",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "e7ab5f3d4874ce302d98677f9f787428d5970d536563517986625bc0e39fa361",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "209d11a1fc56d13defaab16e2cd20f7d699bd981c947c459f3a959b591a8b9e3",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "00429e9e51e446ba863ef6eb78eeda8e4e63377ea8e862dd6c581e512f526967",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "ef38af5560ce508e9fdf1362fdad0f77752e33955f7070705431b06b8fd1531c",
+      "text": "generates an interactive bash script that walks a human, step by step, through a manual procedure — wiring up third-party services, running a one-off migration, moving a project from state A to state B. It opens each URL, says what to click and copy, captures what comes back, and writes it into",
+      "hash": "984a839cdf1053c1cbdee9e49231fe18e8dfa46c0526746b1b90bec4fb86c213"
+    },
+    {
+      "id": "d65115b99e72ff6683e7e4a2a56d9814fbc6258160ffd1003c5e4f24aa962fd5",
+      "text": "files and GitHub Actions secrets.",
+      "hash": "9134a4ce6980d223342ad34a43892895c7b65ed89f2ccdf43cf92d1d979fdf2e"
+    },
+    {
+      "id": "1cac586cead98b37c9af4d9be592c0d16d979edf04aebf8f9e593bbbf617c557",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "c3cfa95ebb0639dd165350ed726e11e4b074988eab0329878a035b7fa36241aa",
+      "text": "writes the script; it never runs it. You do, on your own machine. So a wizard is not a list of instructions you follow — it is a program that drives the procedure and holds the state, and your part is to click, paste, and press Enter.",
+      "hash": "206aa0860038689e6718c6c66966eb50c157bdea97f00ebfae1122181156d33c"
+    },
+    {
+      "id": "e81c3d1067e4c97bada0b807edc70388aa03c4b6d0d3633390a28bc497dd54d2",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "7ac32137a3262118392505584b47066df3c73d082f277d54b11d290c365394d2",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "a6a3f97419bde05d4a4eae265d77bbc2a867764682c08181bdd9bea408515864",
+      "text": "You can type",
+      "hash": "70d939c83f20bba3345c29caccbc09b28ea338c61056e89882c71383e172db80"
+    },
+    {
+      "id": "79b6cf8525e6a477dac8ad63cfb76ec438adbc3778530b25b70e024297540699",
+      "text": ", and the agent can also reach for it on its own. When it hits a step you have to take — a key it can't mint, a dashboard it can't click — it builds you a wizard instead of writing the instructions into the chat, where they scroll away.",
+      "hash": "b64e8c0a3f06a6b3980b5b3ff6fa35549d5c919a32abb2d061b996ffe1b3da11"
+    },
+    {
+      "id": "8cf841fcfb9ca4c7cd17a1fa7ddc46266ebea60d1b80955b50b6ec2d9b2ba247",
+      "text": "Reach for it when the next thing blocking you is a trip through a dashboard:",
+      "hash": "70a4de6636a76ca37c140726f9a27151bf7581825346d93e130f4215b7b516ee"
+    },
+    {
+      "id": "a1a0ab5319cd67452156e9801e73c7f4a6fd51a38d722890281b3a8b90e91ddc",
+      "text": "Situation",
+      "hash": "b3aeeb32a0c7c5d45b6e955370301ca1c8d271eaabafaf9125e371ef28984223"
+    },
+    {
+      "id": "ca79867c72542a85da58118dbf8e881bede2ea2b7ee29c11feb06077b0da9f35",
+      "text": "What the wizard does",
+      "hash": "325f237dda4ec24753c4b157abd9645efd361ae1adf64a5a97f023c8bef7baff"
+    },
+    {
+      "id": "0b8e38034f24752b3f88712adb3f80359ea6e7a84c2a0cddf108f05d168fa81b",
+      "text": "A new dev needs six services configured before the app boots",
+      "hash": "695a3f93f0c5426f0d9b122fbb0d91abb4895f6a885d3fe818ea5f654afb8efd"
+    },
+    {
+      "id": "001bcff328ef1f24a0c95f4525a3f0a52c72ffb894706ad282ecfdb83f166de9",
+      "text": "Opens each dashboard in order, captures the keys, writes them to",
+      "hash": "a83794a671648212a92ebe566fe1c128f25013ac6b65b576b24c2b6d5e3d4de8"
+    },
+    {
+      "id": "22ac9050fb0aebebfc2396fcc4c6afc38b8c6fa22a9e6d990e9c0b4aa08d2c57",
+      "text": "and CI",
+      "hash": "3b3f0c340e6b1e496eeb9cf0013eff9665f69099f0eb9621601fd0deb4c035fd"
+    },
+    {
+      "id": "988ee26b961d924b5e6a5c027a20ede2838291fc16a9bee8f2b2ef87450b1c0a",
+      "text": "A one-off migration needs switches flipped in a specific order",
+      "hash": "da1bd0c1f844dc47885db517899fb1a07586c2c075f765e06f6d6b65f31f66ae"
+    },
+    {
+      "id": "e16ee5f0e17a66ac8d8c048edd12eb899b50709e3a95f160664ad2d2721eef77",
+      "text": "Sequences the irreversible steps behind confirmation gates",
+      "hash": "a99d708d68b01894d39136fe3c4e0f27ee316892bb2310c88d6d3303ae7d9b7b"
+    },
+    {
+      "id": "de746e8c1cabcc634b1d6bebf35e44c14ed51b226419dd58e046cc3c7a35ff5e",
+      "text": "A project has to move from state A to state B once",
+      "hash": "6ce3efe330341422ae01f167b9c6e9fb12883de3a49f5638e1d98408853fa1dc"
+    },
+    {
+      "id": "e5931bef734958dd267ea5a018c7ae025162b1c225c5cfa2d6e6a98381651dde",
+      "text": "Walks the transition and reports what it could not do",
+      "hash": "b198b024ffb30a004b846178cd1cb8d22377b1dd3a46ce002b3903ef452ac0c7"
+    },
+    {
+      "id": "2f15bee3c7e59a8c407cd92cdc4912d847b60f99aa415fb672d98d6a9ab8b7a3",
+      "text": "You are about to write those steps into a README",
+      "hash": "d1fe35cf03252cab592b4492f90f86fc7463e94b9db0ad3565bc5d5a1c56e736"
+    },
+    {
+      "id": "74728f2f240512a7d0ccc4edec9a5887f01ae609201ba2a380cb399f0603ad1f",
+      "text": "Writes an executable version instead, which can't rot as quietly",
+      "hash": "27e5e09da2fdc6cfd95fb74772da072ef228651cc02c867453793817670cbdc6"
+    },
+    {
+      "id": "1b15da1dfdfee06d6bde03c84d2ba4af3dfe88b912d58941f5c1e67e7fd35d36",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "054b91f8fbf44fe4507607f547e484d8c9649ad1edcced605a71f32014acd2c3",
+      "text": "Don't reach for it to",
+      "hash": "b359088bcd46860aab1ecfc13dd3044676d87972f4e1bbf3b7db0910b4721f0b"
+    },
+    {
+      "id": "e884349529357b6f7222188b1176b29d3b5d8df803d98b67f8261eb765597da8",
+      "text": "what to build; for that,",
+      "hash": "4fb82222f2eff83ac9b506ad461fec7d164040b78eb921c4c2dbed6b10bb20b7"
+    },
+    {
+      "id": "d973e9adc5ddcb9f956ade404bb7e9fae8ccda3a1b07f9b94228444106cf5090",
+      "text": "are the tools.",
+      "hash": "4edc84f623efd8ff4b974dc95be7afc16fdeae7a6e635e35128e173a98f43801"
+    },
+    {
+      "id": "82ca2fb2c7be4ed2990fcd9adcd6cdcea53deeb68082ead1e6f494b1ec3a6f87",
+      "text": "None to generate one. The wizard it writes runs on bash, and uses",
+      "hash": "23f31c206b28803380030a8b142199ff38ed6da7f0ba46de63b93457fdc57310"
+    },
+    {
+      "id": "1f2a4f57d69698934d9d4a19c11e1e29564cbf9bafe52986cc283231796382b3",
+      "text": "when a stage sets a GitHub secret or variable. If",
+      "hash": "8af25ffef55eddb3b9b0af35a360af61e680f5b7c0b7abc5b9e497628c7442bf"
+    },
+    {
+      "id": "77d3b046aa907070757151f5c52620f6c27c9a6036f8a7210f6611f969d5ee1a",
+      "text": "is missing or unauthenticated, that stage becomes a warning and the closing summary tells you what to set by hand, instead of failing the run.",
+      "hash": "b7552d3a82ae27f8c6729876bc132e5309c1ae4c9f0ac9a23d813f34570e5907"
+    },
+    {
+      "id": "664ccc7a22eacc0bddc543c7c337108436ca687ceb28abbcac9939263917b6a2",
+      "text": "is one focused task on one screen. The script clears the terminal between stages, so a stage that overflows the screen loses the part that scrolled away. You author stages in dependency order and set",
+      "hash": "b397a2de60f15cdb140801a212341be274293c34f27ad50a282372fa30756234"
+    },
+    {
+      "id": "df16438b03d9e862db296971212e6961d05d41e3dd857d38e16185c52ed178ba",
+      "text": ", which drives the progress display.",
+      "hash": "8d0ff679843459bf182a703a639d02c1e2b86814340d2a7cd140cfa304c9638d"
+    },
+    {
+      "id": "0b00d3d19f21ad573ea62f937513c27ac0b80ed63423bf418d37571dc9c8e18f",
+      "text": "Scoping happens before a line is written. The",
+      "hash": "36086cc2732e0ed80415afd66057ab1d1ed9663a80c1d3150266962107d932d5"
+    },
+    {
+      "id": "816238b5d0818f2878d30f2018caf5e7e257239f76ed61998c75429e27892ace",
+      "text": "reads the repo instead of asking cold:",
+      "hash": "e9b85c86a57aa4baa75aedd821fa17910ec17029464614e56430afb27cf0d2a1"
+    },
+    {
+      "id": "a7b3d362e00ce1a83569a87adda589adc03d144b2e312a0b5442491d415461c8",
+      "text": ", framework config, and every",
+      "hash": "7f69adcffd2810f83e6fba3c7c59788e0447547ed86fe0893fd874cc9e877099"
+    },
+    {
+      "id": "b23ca409477ea0e27cb04950e4ce5c3040ad4e1146062dd155d363e3395fd58e",
+      "text": "reference in",
+      "hash": "75d455712518afa5754a7903be2569d33bc7c8b7311c97cafb128ab7e1e69a64"
+    },
+    {
+      "id": "8a09e81278e657d799209e68059d61be1d60a050ba2995c73e6a25ee6d18e34a",
+      "text": "— each of those is a value the wizard has to produce. It then shows you the ordered stage list to confirm, and only after that maps each stage to the exact path a human follows (\"Dashboard → Developers → API keys → Reveal test key → copy\"). Where it doesn't know the current UI, it asks you or checks the docs rather than inventing clicks.",
+      "hash": "1411e9a4311bf4d830db77de457ba8c4046599c8adae8016b5ed4f9b151850b9"
+    },
+    {
+      "id": "f4b6714e83e8fd08d609418ddc6eb1389225bb36940af89cbd3ad494050e0142",
+      "text": "For each captured value, scoping settles where it lands:",
+      "hash": "c428abd31e4afd0091204022d48934555d718adc1a7b8fb51f2b6fe84bee93d4"
+    },
+    {
+      "id": "417181a68160f1d859f61ad42e525a8351c56490aa2dcf37e79dbe52441e1dfe",
+      "text": "Destination",
+      "hash": "293d404a500f5f9a149916d810ff4f4231bd5d6ecd25eb0f55a867e2095eca48"
+    },
+    {
+      "id": "d8ec8d35ccf115370e3c7ad38e003b8dc0e4bfcf4815dc9129d905ad76c82716",
+      "text": "When",
+      "hash": "cf9c7aa24a26aac4f0ec4b6395cbfdcc055677c3dac87bd6af898bccd66d4e17"
+    },
+    {
+      "id": "9d480cea2d0a3ceefb8fd1f03ede6456246404d28e45125acc607e515b2d866c",
+      "text": "Local dev needs it, CI doesn't",
+      "hash": "225065712394b9983b991c6eb53ef26baa83c74183be918b58db19b8adea3bd5"
+    },
+    {
+      "id": "63651e3fbbf7d980bcfec855d7dad5029dbf15e94b7ca5f3868da50ce00473d2",
+      "text": "GitHub secret",
+      "hash": "e7684cf9ece96acb401b2383e9339dc20bb097fab5c37c0416059392423ed2cd"
+    },
+    {
+      "id": "94a66ac3cba0cc9433dd490d68e7934ed4900ba1f103efbd8f334805e6c5a80d",
+      "text": "CI reads it, and it's sensitive",
+      "hash": "a6a2947794a6c6a8254be8618a132b59e3c3edd3a449b4511c85c24862926244"
+    },
+    {
+      "id": "7524f0d059a916dc759b4d7257318ff32ccae1dca94991cd47ff1e8a567b5000",
+      "text": "GitHub variable",
+      "hash": "b994e56550c6404db2fe5b6547252c3bd3dfbc4a51d55849d1dc8750562932a9"
+    },
+    {
+      "id": "3bc3fe5eb16ce8e28c46658134c4eedcd98e0977cc3cc6ab97bd897db22fcea1",
+      "text": "CI reads it, and it's public",
+      "hash": "171637e5064d620f5e4ce0e83d81e841f24c27a43cd7927ab552285eae0985c8"
+    },
+    {
+      "id": "34026a7938987af066b647132c94e77daf33fed53d88c6004345ebfb5add03ee",
+      "text": "Both",
+      "hash": "b6c1d862f9f75ec31eb9829b6a5968eb291dc8785e7fb59d4bc6ef00f292d3f7"
+    },
+    {
+      "id": "0a7238cf775989fc4f7d524f9e20b20f72d832d57a4b18d9846bc7037950d92e",
+      "text": "and a secret",
+      "hash": "7d243b4a7471065b892c02fdccc7dfa380acd9b59cfaf63be4344356ce0f19af"
+    },
+    {
+      "id": "ac7fc21f899493d6efc4c673f8b8a4d8f6500f08bf5edfac625aa0aad7cfc98c",
+      "text": "Local dev and CI both need it",
+      "hash": "e1bf9adc2f440a4e29088ebd4dc22ff22cb922f41ca500bd2147380f1570eede"
+    },
+    {
+      "id": "0c586971db080f12a6809007994b8ede08e6f5ffd98aa41e5b478bdc896e7a62",
+      "text": "Nowhere",
+      "hash": "7e32434dfc2c21093679317a64f33cb102ea29dbc71935b66ebd8e829980889d"
+    },
+    {
+      "id": "9a29a5d76cea9f14af35afa0cf02d18b0f2e8951f855aa5531aad9ac81c59fab",
+      "text": "The stage is a pure action — a switch flipped, a plan upgraded",
+      "hash": "6b0e39ec6823b2e922af0d613f1c5c09cbd16acf0958b830b8ba6d203f9752b1"
+    },
+    {
+      "id": "2fb94de31ac88ed2191b8623254c2f0c69b8756a9cd4dd21dbfe8f90f638ceb3",
+      "text": "ships the whole experience: progress with time remaining, confirmation gates, cross-platform URL opening including WSL, hidden entry for secrets, idempotent",
+      "hash": "2f7323c92f35a8faa7f5aad9124c98e6f7beeaa3cc19cd8c9ce8599884e51d84"
+    },
+    {
+      "id": "3373caf53deef66bbfd343518ad998bdcbc341421225f87ccb429325a40e1876",
+      "text": "upserts,",
+      "hash": "fd7803ca9b4c32f819007a171209ca8309cb3355f7f54ab88a38caf41c997153"
+    },
+    {
+      "id": "022325ec8364a1273cc532ea642e20197491c8cc5296e81cc122f6c1afff5516",
+      "text": "writes, and a closing summary of everything it had to skip. Everything above the",
+      "hash": "b57da09c9e6f12271d81b86589d14501da1ebb7e7bbcdcfed1bc81a60e7271d1"
+    },
+    {
+      "id": "bfb8f65aea6631271b663fd8f769f4594ab09bb8ab48d9a19496eb6ec63dbb1b",
+      "text": "marker is a fixed library, identical in every wizard and never hand-edited. The consistency is the point. Your job is only to scope the procedure and author its stages.",
+      "hash": "5ce4f1b1dbf249c82b187499b1041182fc38151e1b15e259cf51a5d609eea81d"
+    },
+    {
+      "id": "7e2beae31db90d3a1b2f3ec7b7862cb30fac5a0eba6c7ba956843ffa22a1a09f",
+      "text": "The agent that writes a wizard never runs it end to end, because it opens browsers and waits for human input. It verifies statically instead:",
+      "hash": "523f1d8655bf0a6422f173a9899c88bf87a11fbfbec5819705d7d2023b785b5b"
+    },
+    {
+      "id": "4485706459590a69ce20fe52b6a0319892986fe9e1b0fb39386bb9b46469ab26",
+      "text": "where available, and a trace that every value lands where scoping said it would, with every",
+      "hash": "fc22f5428d135bfa87f967bc167f6c36dc5e68c7657f8fe1e625c11083edc292"
+    },
+    {
+      "id": "3008873cf592a7fef9a53fae339f688b483b69c0c7b775cddf355388f66d0583",
+      "text": "name matching a real",
+      "hash": "703c3e872dc6c19db97dd21bf7ce371b291be7dfd1df43267e040c74b60d837f"
+    },
+    {
+      "id": "a05830a328800e1cece28f5050b227241d34e07f0cab4842aad382c16af6701d",
+      "text": "reference in CI. Set your expectations accordingly — the first run is yours, and that run is the test.",
+      "hash": "cc4bcc6d0e81d8c8b7cfb08a7d5d600b205307ba03eb7c1a9d71609d697e351c"
+    },
+    {
+      "id": "e8384b7e0d1cae6e2dc0ac37285d0e6c630d19616517665dd6358ed86651e16b",
+      "text": "What you have",
+      "hash": "0e5b8bdda06950ae58e0b45e2ca2756a9f85d2d324331cbfb1c6b07cacb16b1f"
+    },
+    {
+      "id": "baf4355db2abcb455c07c6f970d0b1ad8a500da709f14e2544dc9bc9f5bb15a6",
+      "text": "What to do with the script",
+      "hash": "cb896812bff4298baab5349720cb720736c83db5673ea3de0f71b306230f235e"
+    },
+    {
+      "id": "cbd45dfd8300331c1d3ea324aa123d0f2814e0c22fa7914f449bc98b5708c329",
+      "text": "A one-off migration, a personal setup, a transition you'll never repeat",
+      "hash": "40861cda0f9aa39df30f1d7379e91f57a545d2000c62bacba549c42dc3129bc8"
+    },
+    {
+      "id": "02eaff225b78ab78469d8f586c9fce6f24ac9a3a2bde5e1aa7402f54318ad085",
+      "text": "Save it to a scratch or",
+      "hash": "cb7eeb783267e69e0b1fbe2569c34c6d95feaec233d5715ab09898b7589aa31d"
+    },
+    {
+      "id": "4a5fb98f197b1034914720c8c7fc9f5d38be67982d7a83b7811a5e6330fcdc63",
+      "text": "path, run it, delete it",
+      "hash": "a6d36d9f2f9a18a7f1618b32118b294d495e3f5a202182750ff7242b0f6f5ea0"
+    },
+    {
+      "id": "c583525f7f2b41997a20ee54ea620a427acb441431f8cd7ff9a2db147132149b",
+      "text": "A setup path the next person on the repo will also need",
+      "hash": "d4cba69747050bcccf93eb6f8c9da38465d91d2fb7a223f862a3bf006c24cdc9"
+    },
+    {
+      "id": "2209896ad20102321e4d682777f965a38321d2004f2688976767dfca47a4cb52",
+      "text": "Commit it and link it from the README, so they run the script instead of re-asking an agent",
+      "hash": "18d5214de2a35423d5fc3c3dcc758b24b51775a1481d9f1ab99db1dd8c8e8958"
+    },
+    {
+      "id": "34856949e4c85de876901d1521e8370e27f0286430a2e11a83a38b68c975e9e6",
+      "text": "Do my API keys end up in the model's context?",
+      "hash": "a5118bb12edda51db9e80184e7ba24e3518b0f84411408f7c0c840872379d1c6"
+    },
+    {
+      "id": "6831a86a18893dabe8b4bf07bfb208c4eee9d71c5e34454afa7416df50dc7676",
+      "text": "No. The agent writes a script; it doesn't run it. You run the script yourself, and it captures the key with hidden terminal entry and writes it straight to",
+      "hash": "a9ab6e4275f1ba62386c75aa3998091fbd4ae163ade785fabdc3c336774b702a"
+    },
+    {
+      "id": "11c17be6f8b07c820b4b0971cca00b2b983d417b9d27daac69313412e294ad82",
+      "text": ". The wizard is a CLI, and the model is not connected to it. One caveat: that holds for values the wizard captures at runtime. If you paste a key into the chat while scoping the procedure, it's in the",
+      "hash": "d6b93119177c2d3bf70a66da1397b96869a95d06cedf2ee42440966af80695ad"
+    },
+    {
+      "id": "445188772b89cf2c66e60516cd8efad782f602b883335bb2f69359fc6c1c46ba",
+      "text": "like any other pasted text.",
+      "hash": "ea0edd85e77150802374d4be1fda14e2a01d202a3b4c35c10d202891751eb41e"
+    },
+    {
+      "id": "96f5eb31fb5665e545e1b3994981da5b40280cc690817a34802622bd5f1477cf",
+      "text": "Can I go back and fix a value I mistyped?",
+      "hash": "369ea8a93389f3444bdda2fe028cca0425b9debd90efae5a061f0bde4cb9c75e"
+    },
+    {
+      "id": "6c8e8f399abbe71d76ab553df8ef2ec56a2541523b53c1ae470a35962aa1511d",
+      "text": "Not mid-run. There is no back button — the stages run forward, and a wrong answer on stage 3 means Ctrl-C and re-run. Re-running is cheap by design: any value already written to",
+      "hash": "29695a1299e8852cd850f162f2a8bbed91d2a427eac2c2d93b71dea352ffa50f"
+    },
+    {
+      "id": "a4546d06c6de9c0e1affb9277f3eb871185bdb5ab30901ec1f236d3a8a6f5e82",
+      "text": "is offered back as a default, so you press Enter through the stages you got right and retype only the wrong one. This came up in the launch week and hasn't been closed since: \"loved it! One thing though — is there a way to go back and correct what you've entered?\"",
+      "hash": "4f7e31782fec0c82060343e4722749413e3ac39d9a3e678d962d3efaec3ed335"
+    },
+    {
+      "id": "3e91645584c3216722f9f47aadedbdc24844a8d5a119b32126f851ab48e38fdf",
+      "text": "There's a related open bug. Arrow keys in an",
+      "hash": "8df563f9bfac9896c06e136498bf20eba5e7f88dcef762474f329c01d79f9e1d"
+    },
+    {
+      "id": "af19ad00ce46357e5e7a6662fe14fca9567eef504d815b753ce05e5c1497df87",
+      "text": "prompt insert",
+      "hash": "85c58a2ad01061b5dd64fdee59e7a6cd2e678b724ba6ceb6b264d2cea97a2422"
+    },
+    {
+      "id": "7976b35cdfe73d1b5196fba9031441b056fa063cc70b441af211e471b767b8aa",
+      "text": "instead of moving the cursor, because the prompt uses",
+      "hash": "65945b91ba07d1b17efa6be40b6b44bfdcc4e74a5cd56a947c94bc7f231b6bd0"
+    },
+    {
+      "id": "cf34ba0ec33fc776877276d6d3286e28cd1dc5f005eb9ea38f39459c35c72fbf",
+      "text": "rather than Readline (",
+      "hash": "122ad4851575711f2c7e9c1231d8c0ce309152b42c00bbc4662258408c2e0539"
+    },
+    {
+      "id": "6936d7456493260cef4b0eab59fe2bb1cc070e36a03889752a28f38cc082918c",
+      "text": "issue #741",
+      "hash": "cf25bc0afb307dc359e463845dcfeef3618b712944204933ccac139bd4a3d6cc"
+    },
+    {
+      "id": "357f0a80b26d73f982f216d6b7c407dabffd7e8672a9325fa5c1e068fe010580",
+      "text": "). Backspace works; arrow keys don't. Delete back to the mistake rather than moving the cursor into it.",
+      "hash": "0ab61b50b3a7dafd0840074e0f6a7ac8a7244789b2aa789d0813cdfdd83e6233"
+    },
+    {
+      "id": "4ecad5bf23fa05be1284444295522bcf7e86fee095493a8c501830d363ad4f5a",
+      "text": "Does it know what I've already set up?",
+      "hash": "d700580ce37f590fd37f242dcebd5bb8eb257819070a226ff7a9fde60b13d741"
+    },
+    {
+      "id": "474523fe5975ff09af9b72c6eb61b4d210e7d60ba985e89ccb471f1b1ed39438",
+      "text": "Partly, and less than the launch reactions assumed. It reads the repo before it asks — your",
+      "hash": "6b0d6e6433d2cb66fe159702d2a8a66af79f4ddfcd24bb47c0ecb9412e61f26a"
+    },
+    {
+      "id": "54ddd0dea744396c68ea63a104eb7cccc9b36ef96229f3c945b64fc50ae3eee0",
+      "text": "files,",
+      "hash": "7cf46d84e3704b306b10cb7cd4c58562f637eb35e84f2c7bf7763e40f67c0d84"
+    },
+    {
+      "id": "953f539495c0c6e125e70849510a3f464439284af92fc93e2b82bfb2c2aa7919",
+      "text": ", framework config, the",
+      "hash": "c9a58d7b227d3bcbfae1c3f422817616f2e045fa599c208a42d3f25daf1e7bb9"
+    },
+    {
+      "id": "4461466812257f975ccc549c2fa5ef2062ee280476d7ac0c2ec309d98d342dd6",
+      "text": "references in CI — so it scopes to values that are genuinely missing rather than starting from zero the way a README does. What it doesn't do is check the third-party service. If a key exists in your",
+      "hash": "d3ea8c895861f5443dbfd31e79db9aff45e0f998016deb9527f8e322fd25a2b8"
+    },
+    {
+      "id": "bf1decaa6af9418939ac35b89fdc3434e10d373e6d035bbba03358c16f1ee11d",
+      "text": "the wizard offers it back and Enter keeps it; if you already created the Stripe account but never saved the key, the wizard still sends you to the dashboard for it.",
+      "hash": "57a3e2f4511ad278da51714beeba1a5904c925a73ccbf003ac8c5a52e21dfdce"
+    },
+    {
+      "id": "5148521e81ae456e0f7f6e57bd43a118645579a7ddcec71b26e156f3807bbd53",
+      "text": "Where does it sit in the workflow — after grilling and the spec?",
+      "hash": "4c88a9e37807ac80e0f21d32d245d2dd2ac7015cd411b3d874bb752b79d0a403"
+    },
+    {
+      "id": "c9d607bd2b6c0a71f4d049a1db6a304b809f3c55ff958580857c69006a455610",
+      "text": "Nowhere in particular. It's a standalone, not a chain step. The common guess is",
+      "hash": "5b1efaad78310e44fdcce6093e662cf50a19389b0500be60fc289b08ad5864cc"
+    },
+    {
+      "id": "c035da99475d0f7e94affc247c30083a99d189c0959fab44adbc01683fb9e9f1",
+      "text": ", and that sequence is fine, but the trigger is a manual procedure showing up, which can happen at any point: before you start, mid-build, or long after ship. It also works as a discovery tool — scoping surfaces the hidden prerequisites of a task, like the three API keys you hadn't thought about, before you commit to the work.",
+      "hash": "09229ae8bb85847c1dfcf6e5a5d803db2896d5c7dec1f66e2d089948462b95cd"
+    },
+    {
+      "id": "4daf378a9ca1dbeebc7dad17b6a62306fd3550254ac9c66538fdf9757739ae9d",
+      "text": "Does it work outside Claude Code?",
+      "hash": "c0a54fc17f575f79987c9c8ad616cfb7b5dc75a6a6aa118bbc604ccacef6e897"
+    },
+    {
+      "id": "a8536307aed2657aa1877d25c61e946813e984b08b684355343d2eaaf03a9f89",
+      "text": "The artifact does, unconditionally: it's a plain bash script and it doesn't care what",
+      "hash": "252707fd0b1bb4a54ca9fe606c27bc2d78e422821acc7051fa6fc4a55beaf0d7"
+    },
+    {
+      "id": "6e6b5c18f3e7ebde3496e6f7a7c4f524ac947d24b0761558f6023ba53bca80ff",
+      "text": "generated it. The skill itself is model-invoked, so it's listed everywhere — type",
+      "hash": "62b9b1e148249ebebe1aeb5658da45b3127455f2a7d0f80bc2bb850491d69e86"
+    },
+    {
+      "id": "50af520ae536a175ac4426a14460f7f3ec28d2ae23f6a5436bddbedd4839c953",
+      "text": "in Claude Code or",
+      "hash": "ace468597efb7846450cb64d1a29dcf0bcb41e2a067ac4fb9351ac9aa1953c75"
+    },
+    {
+      "id": "f6f4fd44ac3e347bd128e450d2fb0d13c698ffdca275a96731512aef7c92c566",
+      "text": "in Codex, or just describe the setup you're stuck on. Being model-invoked also keeps it clear of",
+      "hash": "a07d40c8050eef5c49f9de675fbb0829be23d014683a336de7fc27853bdfbb19"
+    },
+    {
+      "id": "fb2599544311520f474e1572e51bb5c97764aba9ebc2b5e717f49bbc731a347f",
+      "text": "#693",
+      "hash": "f11fb7704eec905c6ec56f728e748d49ca9cdea9778674dcd8bda908680f918b"
+    },
+    {
+      "id": "05e81a312e8e9ceab18d8328d981d193fc0cc55edb7e93972ee47e5f541b2b40",
+      "text": ", where Claude's desktop and web surfaces drop",
+      "hash": "af64e139d5d54f5c800372318e0dd0795dee284ffca7c132a2bba188e0383a29"
+    },
+    {
+      "id": "9f1af64aa63a3baf99466e5114c8a5cf14b2189071c8076ce54e3e56d6cabf4a",
+      "text": "skills from the",
+      "hash": "337cb2a7504f8a4c9771bf5672c70d063ad2632b03a0d4b501a5c62e08e4cadf"
+    },
+    {
+      "id": "a86aa5fc88caa69cafc04b8397f535a4ff689ec7608d4600076c03a2a985dc41",
+      "text": "'s listing and report them as not installed.",
+      "hash": "d9c5b972cf3be30efb4bdc1e3d3fbbfa403f0272824722f389d57205e9f4944b"
+    },
+    {
+      "id": "5d129eef3f6fd06eb55d2001ef54a40f59ebc266176044755f4cf35886058551",
+      "text": "Didn't this used to be user-invoked?",
+      "hash": "bf48a4f5f11b06c7d34e9d61f8f336cab238b5a4a62443ebd1346243b0a0a79a"
+    },
+    {
+      "id": "d4a08b0c3eefc9c252f6d0c9008dc81cd8a9ba27fbd40ac17bb4f5554a847e29",
+      "text": "It did. It's now model-invoked, so the agent reaches for it unprompted when it hits a step you have to take. Nothing you could do before stopped working — model-invocation",
+      "hash": "49b2b7177ff3090c353939bb36b05f909952adc1317260385d39129e9bf14ec4"
+    },
+    {
+      "id": "9ebbb102a42666cda4a1325440f0980172447427bf84eb682c0d20f37e220623",
+      "text": "the agent's reach, it never removes yours, so",
+      "hash": "49ae44e28fea1678a5160a1c45476bb12fd331d2ee82a57d89a3dc2cc00ab3a7"
+    },
+    {
+      "id": "219eb1ccf511865ac9da49bb1b63a6303d2edf20ea1ec5a3f8952cc98ee36880",
+      "text": "behaves exactly as it did. What changed is the failure mode it retires: the agent hitting a credentials wall mid-build and dumping six numbered steps into the chat for you to follow by hand.",
+      "hash": "b7e8bd91160a48c34a92759fb4eb8012c465f744113a96e87798c6957bae3ccc"
+    },
+    {
+      "id": "3438e2b6a578fb71db48f521f83b511973ac89675e4567016d68ebafa1f66df4",
+      "text": "It used to be in",
+      "hash": "e640a4a6ab1f9d66f4304afad8591946d1406f1e241eb628d23460ec4e40c2c9"
+    },
+    {
+      "id": "32712da3388a5cd82fa6b87c7287e6e1278067e1f981f2569c8a24c708d4f92d",
+      "text": "— where is it now?",
+      "hash": "afb48ca68368a10fe0978e798f5dc8396680bebe1ccdf80769022baf9b2d5020"
+    },
+    {
+      "id": "61668ec41c66e626fc4c3c41c7d3b3c6e530666fddfa8556a96ae89b79a879bc",
+      "text": ", as of v1.2. It graduated out of the beta bucket and now ships in the plugin, so it arrives with the rest of the promoted set rather than needing an individual install. Its behaviour didn't change on graduation.",
+      "hash": "6e1f2a54af4464a997b0425a85321efe58d4bfd9cf82acf8e7a659c6d6d8969d"
+    },
+    {
+      "id": "7a149eabf76d5e54d92f2294a83c75eee8fe815a8cf6f45417fe53a4bde86a9f",
+      "text": "You're shown an ordered list of stages, and the values each one produces, and asked to confirm — before any script exists.",
+      "hash": "5db61b54e9ec5cc21be1536d104f85b622bdca172d1476120602564cfbc3b840"
+    },
+    {
+      "id": "57ba85fbc4e6dc15acc4464f3b28deda167d368ffecfccbee69a49405e3e7d87",
+      "text": "Every URL is opened before the value from that page is asked for. You're never asked to paste something you haven't been sent to fetch.",
+      "hash": "e03a92127a71fa41b1f1220c4175347bac7173230ad2b0f8e4c31e319034bbb9"
+    },
+    {
+      "id": "3701579adfeefc039103c4552cb520ad045ed9ceaafa934b9116e007b2c749c4",
+      "text": "Secrets are typed blind. Nothing sensitive echoes into your scrollback.",
+      "hash": "a80968758b114fd6a07cab234069bd03f7f7d3f003e93fed78d02e7988a58c94"
+    },
+    {
+      "id": "3cb6e49f8a572f122cb4caf8a55378df56a4b1e10a0f199c6f83250608578851",
+      "text": "Each stage fits one screen. Nothing you still need has scrolled away.",
+      "hash": "e8b0fc84b6475ded86a65fd26518e6f0ebe3a58133f1c8dda9ccba131f62d406"
+    },
+    {
+      "id": "a209f22625c441cec28e671a11b6e60868f6e6e8cc16dc53e70ac6361e189947",
+      "text": "Ctrl-C and re-run picks up where you left off, offering the values already saved as defaults.",
+      "hash": "d09530a10cfa774012e4e18bfd4b2e4d83f7cbdc1b8b98c8b8bb5305f0275e14"
+    },
+    {
+      "id": "5d2df4671a02badbb28fd1a91f846abb64297d822b6efc09d965531804fe9b9f",
+      "text": "The final screen lists what it wrote, and separately lists what it couldn't do and you have to finish by hand.",
+      "hash": "b152b56f89808ab127d7db0118c0df5e042292bcb44751b134bbc4b96c37a26b"
+    },
+    {
+      "id": "02319fa7ed5f90f1100c7a7b40078dd76b5e569410c2e57efbf5ce2577713d16",
+      "text": "is a reach-for-it-anytime standalone, sitting at the line where automation stops and a human has to click. Its nearest neighbour is",
+      "hash": "2fb549929b340d609e138b84392ac31c1642b2fb92f908d4f45f73419a4c06fa"
+    },
+    {
+      "id": "5c92e96b52db55db46e91d599849a12148fdb6dfab32dbe4385735e6a8e51bb2",
+      "text": ", because both exist to get a repo into a working state — that one configures this skill set, while",
+      "hash": "50f1d07c9b2da1adb37545522d301b787332385bf6f582dae8c56afba9348c43"
+    },
+    {
+      "id": "bd1019084189fd3bd6dc1cfd9f99eca20ce7d25ec1a17503df136de36ac1b715",
+      "text": "generates a setup path for everything else. It also pairs with",
+      "hash": "bafaaaf65b81766f33dff8ae51e9dfe38e9c88fd923ff0b4bf50defe3033d1e8"
+    },
+    {
+      "id": "0e2881bf812ecdf10c385a762c51483ad7d0a4027398bc4bb205d18ae26af6cd",
+      "text": ": when a build lands a feature that needs credentials or a manual cutover, a wizard is how the human half gets done. When you're unsure which skill fits the moment,",
+      "hash": "a5d183d4e1adae5bf25a0b185dd0a57f24d27e0809f2b29082b547f35bee912a"
+    },
+    {
+      "id": "a8b060916e3e8b7ae0c5f7ef1e1b46e32a442e075bafa361ed4bdcb76c4016e2",
+      "text": "routes you.",
+      "hash": "7ab0ed124c45755dcf8314c61ea1bf3f8c9926f3cf622e8d67e880128523bfad"
+    },
+    {
+      "id": "75201a49ef9c2fd052346ce31ab5a109949e9af096926922db50af3abf1a76ea",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "564d6282452bba873ab112a90a71b99773c6a3b310c0214d18addd3e002076a7",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "26601bcc1f191ed01794020d7b84ffeeacd06fdae88f30434caadc1968c37bb2",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "fb4754fc88346f6867306a21ffdd855e51ad9004bac31059233e9d2a1a8d9389",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "58892e3381bc1b4fe2b8879672c94a6438bb8302c62d9aa4e7e08a1b9cef4f11",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "4c87a6214749e510abebe073cc48a369b3dac9aaf55474044f07b2c67b74cd59",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "a2f4a8761584e72b7d437253c60687198f738b5a0ae2ca2deda8fe29a7bc836f",
+      "text": "The /grill-me Skill",
+      "hash": "5edb548fff722d99ccd268e52fbe25045b7b033143d6caa73359a81daebd7539"
+    },
+    {
+      "id": "14bcdbe9471342746e3c60ae974800fdf6acd7e193901a1d14437729cff5b213",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "1a0cbd3df13e29f1c5242033c4533a8104ca4f385ce4c6fd1a969ccbd876e8d8",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "d9d2b16673a1ab129e47f93a63d46138501a847942ce99f83018afe655502ebc",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "16549657ad57054197885bc2ea05df973442fd0209d2d8b069e5508354853502",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "b9d0f237ba2392bd41d40e3139e6a28b48b16379ab614350f5fb9634406d65a3",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "19ce48ea74ea3cb46b4f360f803834abaac5023a485fae0d3fbc483b4feee0fb",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "6f6ab8de49956d3db3ba17413e3433de6238078344e22e0625b214bc4692212a",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "28d3403b69a0fb8afe673b7e6ce8ed1c0ec77d679dcfb3a09469131ab6398534",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "01a830673342e70bff9e86590838abc759a0931bedcfdb3c2c82801b8d95e99e",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "285ea66ae411d64791ff8220113a47cc114f208e495021d623e3cf4e67ff1c05",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7f5af09b675e9b5505df9ba9fc22d81a1e756b731f0f384720a6f8944dd2a9a3",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "3dabbf778edd6f939ebf82b040216712ccbd4fb2c2e06753303fdcd467523e77",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "931288fb574512b9d4b414952221dd3184649a82fe6af1d70dbfd47a8cb3b40a",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "59035a5821ba7cbaeeacbc7ada64091b59c14d52a1fb758ea226460871783649",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "47ae3e4409ddd2c553a4876588d168d69a861de55979c57dd8b3a7bbd6373b04",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "0e8de5a403ed34d24e2dc9c9f9169b8bd653d8977931c444a0b948cdb3a6c976",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "e80bfb34566296db3488958aaf1b3874a6bf0d3803a55f3a03a498b88e07db31",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "2e85b97a389ac0cf3adb57d8165f69491d9efc5278f71f5c02042c27d143b698",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "d1be67d17d65c67830a9325b3217a1281967b578ad6209c96e9dd47759335120",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "55e630481912c6cf718c214352ba1b23598e95290c5291a22d2e172cb6ef4bf1",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "1beb53814a34cc91c4d5a04a4e482dcd86936dad801029538b98a66a076a7b4b",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    }
+  ],
+  "etag": "W/\"dqowgsbnax6rap\"",
+  "lastModified": null
+}

@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/heres-how-to-stream-claude-code-with-afk-ralph",
+  "pathname": "/heres-how-to-stream-claude-code-with-afk-ralph",
+  "fetchedAt": "2026-08-11T06:28:15.268Z",
+  "title": "Here's How To Stream Claude Code With AFK Ralph",
+  "contentHash": "752430df27364ac96530b0ad76e11c4ec1ac16513731707107185a05b4ba32b5",
+  "textHash": "fcadb7578dd5b75b252d46a29c760ea4bdab237de6f0f05af8ec017805505f87",
+  "strings": [
+    {
+      "id": "b36208bc0277c851f424c6d74c5b3199923d214653de1cc120253d094a175c06",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "36f605dfebe0e8ef268c9c5012eea9d8c65637a8f58e37c676d67aa6d6c61de4",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "fb8438a4da75aece06f5674fe35740ce42f47813a87c94f5aa99ed27eadb3436",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "9755805faf1fc9ecbb229d8559fae721c61f7d8ffadd7fbb5da92fb096313e65",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b7de94dc2daf2ad2e5af7793d2b4b1dc9f3f9ff428d1bc058ec42917fc344887",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "a767ebf58468f8bf041799cb21e09879741a1b0903d239305c383473c4e5aaf7",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "28a398e3a800c11de8c0787ae3a8843d631adf2d1a920970d6a1b3f2d88a5811",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "f78dfbc509fb856872f89c84a249db59f556a4108b0e7cf55954a9c07b4a9618",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "806bef0fe19f02867910af6be23bae2ae2aef67ed6316cf3e70715f49486843a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "a4db732f3dea311bb7e4c04c3b36f0f2b8cf2000b2c6a83a1df6c05a8aceeba5",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "a915ef5db0c35fbd7c039a917fcf39eff3be5fd392561bcc3af1f81aa4008f7f",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "df521524024813a0c8b8955087326cd0f50527b5b1045a2736480ecfb26dc778",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e5ba8d26f5567337162fd886613a554610ef504613349e247a40bd15a5ac3be0",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "d806ccff332bd61e7532ceb9d8f39460626adbc231f72fe14af4473367300933",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "8a76e22655eae0afe978e44e2d61a97109c64ab13cc6192bde168ed1b299cf44",
+      "text": "3 min read",
+      "hash": "3ddda92ca6c1c4477116381599bb4d74d6d81b636b0c81868090aa5a475c93e8"
+    },
+    {
+      "id": "99c707f1a05f0153c1c5d376cea163411baaadee6994ccdf053d35813000beea",
+      "text": "Here's How To Stream Claude Code With AFK Ralph",
+      "hash": "13d20351103a1be931bc9a4d65e749799cfdc30f585bd3c2052c112ccc4e2095"
+    },
+    {
+      "id": "543afc564ff08805bf7cb9ebe13d9f49ac65addcc17fe8f2c46e12403ee01fda",
+      "text": "Stream Claude code in real-time while running AFK Ralph. Learn how to use jq to get visibility into Claude's output instead of staring at a blank screen.",
+      "hash": "9b8c23f86f492b4555da0f3a080a576cfaebd465f033ba8468195fdda0537244"
+    },
+    {
+      "id": "59954f3d080005a36c4f79915ab41c47d9b6f37bfc2b0adee136f42cb24fdaf8",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "66c2ec11ffda8af4d9d2e32a81e0c3f8e2341d22d810cca4722e89ef9c73fece",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "ccfde7e2b73f6e0b10d22100f412b3c7d606f5a9739d90c5709bf6fbca49764a",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "7fc1cbf92e71cef04ac5bcf82fe64cecd0f74b3080ae30ffb6853300ff92c32d",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a87673b143aea570f44fffcbbacd45ccab4ae052b288e1797acafb6674dce97d",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "2b29e1107858eebb2fd3e39f6db4f4ad7917aafa1e69343ae1f4734cd4db756d",
+      "text": "The Problem: A Blank Screen",
+      "hash": "ed4c3a665c287b6332e2abb24dbf459191387eface9f1bd71e164242e0d6f869"
+    },
+    {
+      "id": "6da686aa1efa281446baef6bc4426ca106652ed6b8d58fbd734d0932710c2a55",
+      "text": "The Solution: Streaming with jq",
+      "hash": "40df4eceb2f1ac18fb316bccfb134a9a1d6f2a2cdfdeca3e380650381c936df6"
+    },
+    {
+      "id": "d9523e2a6a2614abe1b1a21690591869aff9c33d3d409411c4f56493e154571e",
+      "text": "Walking Through the Script Structure",
+      "hash": "de041491e1b493744f3c6fc849e723ddda29a9237278b4eebb22b7b1d39d4ca4"
+    },
+    {
+      "id": "e4505a93d39c728dcd025fe6dd3ccc550f06dbc17cbfd558839bff1995eaf572",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "d9a6b88872801d5225d1f07be1db99a2d329437fee7facc35170a9832397ce04",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "2802db62c1bcff2c1834de972ff1ef79a4c5de8a7d5eeb57be363245bfbab3db",
+      "text": "This guide is for people who've tried Ralph with Claude Code and hit that frustration point: running the",
+      "hash": "37851706f7968adec3ba5c596a6171f61c933ea620a713bdad7841b93e44e87c"
+    },
+    {
+      "id": "1f03dc1a5b7dfc09420d2470aca72e8f1d3f6e1d64e4e4686ed2a6c1c5b4a04a",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "b9a5a838b5d73575920cbce81388b8afc50b196f74d742d61a9451b77cee9020",
+      "text": "script and ending up staring at a blank screen.",
+      "hash": "39c5d33ab2e2ed176fad0a26bb1603efa8683026174b4f98446518c1cd129f13"
+    },
+    {
+      "id": "0745d8115c603ab992406e628740874d1c21dc9bc0f6da044cbee3d35c4b4017",
+      "text": "If you've never heard of Ralph, start here:",
+      "hash": "4d7008d275032a1d9527a3bee936234ac641547d0c72e9ec2df35a1d1cb414b4"
+    },
+    {
+      "id": "fe7c15690c2096b5da1f817c687fcfdcfac0556321d4075dc70a0f9d9f3b5197",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "6321fa500b8596d48095e65495c47fca4cc5bbbd3453201c92921f9f7ae9fee3",
+      "text": "11 Tips For AI Coding With Ralph",
+      "hash": "f4652d85c092d213a11d5e92ce3b4d3380faca1f846849fc7ce179cd05c44cdc"
+    },
+    {
+      "id": "00735979929ba0cb7bafcc4ea1065f8e8ac11c36592eb5469b38353dca8d852f",
+      "text": "When you want Ralph to run while you're away from your keyboard, you might use a script like this:",
+      "hash": "da234a81318ac2f13cc44594764f0ac1af072e4926662d9c436d7cdf3f067160"
+    },
+    {
+      "id": "347017ca4d1c37c3def3a74f5484d94a4e8d80eb68005c188c15e62993feecfd",
+      "text": "The issue here is frustrating: when you run Claude with the",
+      "hash": "2a7bf149c355e42c09a2489babdfbeb8fc41b85148294b817438d8bfa124637d"
+    },
+    {
+      "id": "33ae9a55cacbdc890d966a620eeb0d24a7fe07a3b574f05843d84238ded395ac",
+      "text": "flag, you get zero streaming output. Your terminal goes blank.",
+      "hash": "a8e39c2276e1fbbb1cca02a5f04da954b2eae8a0dd07f7ba0957c29b69952e78"
+    },
+    {
+      "id": "535cb474f3b960d7b287cb0855b280773977bf725565568e53e22c4a11ca0c02",
+      "text": "You walk away, and you have absolutely no idea what's happening. Is Claude working? Is it stuck? Did something break? You won't know until it's finished.",
+      "hash": "16a5fe53bb71c04cd67c109f3cb950587f86fd9c5371a49530505395b7080b45"
+    },
+    {
+      "id": "add8c905fdd910f18ef2da3e304c193a2a246eb52d79c60333e42139ac8707e0",
+      "text": "The dream with AFK Ralph is to get the best of both worlds: you want real-time visibility into what Claude is doing, but you also want to leave it running while you step away.",
+      "hash": "70be2ecb252445768f17264a2ec205e42af1c0d425587970d4116397bd352570"
+    },
+    {
+      "id": "19a0aa6cd378d4dd83d02b8c18b16d90823461ab46dd15e2742fb9dfcb2828c6",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "7dbd5c9e1b5de1774909e42de6fd1b03b716bd8de249cc9362f3801048429769",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "b660c0f64705816f17ccc1f8ab85f02c9fec4b521f1f6446a372c43140966dbe",
+      "text": "Claude can output",
+      "hash": "83db589eba5cb4343fb0b3ec9ff71248f17c3a7feab2def39ff6b20ce868e4ab"
+    },
+    {
+      "id": "115efb6d31eff64d5fddf4278329fce01aae4b87659f5c8ee5d73c7375dedfab",
+      "text": "format, which gives you every single message as it happens. But that output is extremely verbose and unreadable.",
+      "hash": "d2a8257f7853e517fce71c3a1b9f98cf2e8aad8e0910179f9a8ce12fc8952c86"
+    },
+    {
+      "id": "efb525c7fd86b9450ec65c6f961992888975876c4ab90a416525bad17b7b63cf",
+      "text": "By combining",
+      "hash": "02f4bcc4b2d22bbcc633b8037239ccf60d77cc2c832f4e6fd2f38ce6a4eba123"
+    },
+    {
+      "id": "20856eb91f82eab6e485a51f5f63b794d33f74ec8b4df986ddaf7f347403a3a1",
+      "text": "filtering, you can extract just the useful information and stream it to your terminal in real-time. At the same time, you capture the final result to check for the",
+      "hash": "140af7b45994820ad40be019df3dcc5f56585384f547dec4b088a759a1ac2741"
+    },
+    {
+      "id": "dbdce310fc886135adf752bdaa0745d3e7ae4e3513e00bd7ae56d897da2de1df",
+      "text": "marker.",
+      "hash": "f2d65cf40126b2a502548fa727629557c6bebfc3dde45fe52b7ada4b7867b15c"
+    },
+    {
+      "id": "a0ee67df6bb0d50ba904b3a4a16086c165a0c1be9490b309e002a29bce8b02cd",
+      "text": "Here's the complete script:",
+      "hash": "08b977aabf998326bdcb1953fd3568469a111b1ad2f9745ad032193398ef9061"
+    },
+    {
+      "id": "13a07360f16be4d8002e9c0b221b0f2052102019ebf7635f673780e750dfdd15",
+      "text": "This script accepts one argument: the number of iterations to run.",
+      "hash": "25a196e1e41013e8922b5c82aaf5a65732a30bdaf2699fba017ab6a0ee2cb79b"
+    },
+    {
+      "id": "895a66c20f0b63a31ab9a3ee15bfacc7b11e64a060f40c83e2de96ad6e23f473",
+      "text": "Breaking Down the Stream Filter",
+      "hash": "a9d3c9bf779527b213ced75c73a211fde941ad00bc869b80e267003b11e8185d"
+    },
+    {
+      "id": "8bc753cb4b7a2ab6b27a7f40844952ad9190ae88cdbf53ffa5b4f346598111ea",
+      "text": "The stream filter does several important things:",
+      "hash": "20692c57895d8d5c216b3a349f4bd0fde528aea4bb17180566f5315b85bab34b"
+    },
+    {
+      "id": "ab242c20ad2e94f7742cb5fc5ffc5e693419ae2c76017d1e4ec18295b6d3e826",
+      "text": "Selects assistant messages",
+      "hash": "e1763c886d90f08c3f7fd6d14e5d8c2c55dc8d05748fac1b8537dec4743d5f24"
+    },
+    {
+      "id": "fbac1b7f56cabd0a791a98baada1001c32ab5d4022cd0428abcfae4db56cf8d0",
+      "text": "grabs only Claude's responses",
+      "hash": "c0129c0d1d47275015270133ebe1a3844b5a9eed3c4aaaa278b6bf3be1e153d1"
+    },
+    {
+      "id": "5f48d95d1246bd79ae3bb1643636549e4a7612409934ccdcca2acbb21d7ec56b",
+      "text": "Extracts text content",
+      "hash": "e5d42b6db5e6b6a0ebe653fb7fc1e3349cd705f47cbd64547384f9a1e4f40ce0"
+    },
+    {
+      "id": "08cb81cc8d6a8fd9676e55cd6c8330052bac9bece390d49b3a13ee12fb7ae660",
+      "text": "pulls out just the text portions",
+      "hash": "c623aaa2056a241266d1e5f40a4d2b807887c491a3a3da5727b87b9452818c33"
+    },
+    {
+      "id": "b016dd95345d174742e22d09f3e3d7ab8e248147a3a316bcde2445264732a5f3",
+      "text": "Fixes line endings",
+      "hash": "0a990e2d91c39ead829173fe8003d6361a59ffb613996437e88b9599ea8d3acc"
+    },
+    {
+      "id": "ed7dbfb46cff3a91187c1bc970c01e1cfc0177029586347ea31591da4270c3ad",
+      "text": "replaces newlines with carriage return + newline",
+      "hash": "a9bd66449d87dace6d6293ed316829d7003f54dca4a8f13232d72aee69d35aa9"
+    },
+    {
+      "id": "f577ab56f9cca80039a875a29939d3ac6658fe482737b7dbb9181b08c8294f7b",
+      "text": "Adds spacing",
+      "hash": "c4532faadff165972dee5f38c86c634855d679143391b215c7c2ab96f4ceb020"
+    },
+    {
+      "id": "b0f9c7530f134c8cdc58d2be2f70983133526e90ce64a7413a610ec27b043f4f",
+      "text": "inserts extra space between messages",
+      "hash": "33b7842f720324d2ede95377dc037cf4ee2ebd298e008ac809e70c69ee820ae1"
+    },
+    {
+      "id": "badcb1ce65923f6b33d5756bee4ba6a3e54a0289a7335f3db021aa48ed72312c",
+      "text": "The carriage return replacement fixes a bug where the cursor wasn't returning to the first character of the line properly.",
+      "hash": "a516158b89ae991844ce5a755d843edb21bcc2f0090968b02b4cd679e134e543"
+    },
+    {
+      "id": "a78407a6ac014b4a94a2608c7134d6fc9eff39e6181be63ae24ee32336cc4b11",
+      "text": "The Data Pipeline",
+      "hash": "6f6757b6b27a4ad3bc3fda323c5b9e6cceb3c1840ba91ab0bb7f58f9ad047099"
+    },
+    {
+      "id": "74943f5dc8a7d677d2532ee2cedcf9c72c835207fcc5fbb79a4936e27ad84a82",
+      "text": "Here's how data flows through the script:",
+      "hash": "595dc79dab6de5e67aa6e98f9dfd4011477d6c85bfddf0289915893c2dc3ed41"
+    },
+    {
+      "id": "e47ece18168530f520baa5fbc61760f1f13796ba7d5b99642e6c5300de620315",
+      "text": "Docker streams out",
+      "hash": "06b825d19c0cfd8216b4edcd23170cb5fa585f7a32472de33d886aad4a93b352"
+    },
+    {
+      "id": "e1f7f132a93debdc0aa1ee10869c7684a3c3bebde9e21b47bb1d5ea61715836e",
+      "text": "formatted data, but it includes some non-JSON lines just for noise. The",
+      "hash": "00e9437dbdec402059458265efe94c0ac2491d5adfec5f561700ce433fe359e7"
+    },
+    {
+      "id": "0173c79ee49818bca65c0fc13e97e503e930d7beb8c17a44493da67c2d7120d9",
+      "text": "filter ensures only valid JSON lines get processed.",
+      "hash": "507645d01d88778febba85931a6ef840211c15bd286896239a16713ca82b6172"
+    },
+    {
+      "id": "e7ea63e926a6b85627e132554b65504d5d1502150b5575260869b4ebf1e17d8d",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "c38a469fdc0fd62ed5cfb23bc97796f54af4c9547bdf55abe07bd4a776aa858c",
+      "text": "command writes everything to a temporary file without stopping the stream. You need this file later to check if Claude has finished.",
+      "hash": "c26c08956d270e03e48e24925d7a486f2d5e4c109d33deb00f613b853bda204d"
+    },
+    {
+      "id": "29308b254d7c4c70f766575a9459c05af0baddf478f6c1fe046d5e7aba0af1d7",
+      "text": "Finally,",
+      "hash": "39396ed2bd000ba1e2bf0bcaaac49216ef329f9de4bc28807ff04b5721bf805f"
+    },
+    {
+      "id": "86fe1217dd284165bbe1d099fb31e10ca6c0ae41ac6a0923d593d1e802320646",
+      "text": "applies the streaming filter and displays the text in real-time to your terminal.",
+      "hash": "b3bf2ec71f038474695fa63165a781a09034e4441e999a84118e27e077c6c454"
+    },
+    {
+      "id": "b061599d7a7da874d8aad2626ba41ee5807b9b9d65d0091f6e4ee1faba822c3b",
+      "text": "My hope is that relatively soon I'll be able to delete this article because Claude Code will have shipped a feature that allows you to stream the responses while still capturing the final output.",
+      "hash": "19ce23626b833dd7480d68f7cc3b6dd1c333ea669684d2fdfe7b0f608aff3732"
+    },
+    {
+      "id": "2fa52898c314441db9e4a15deeb1068a7cfeeeec3eaf8b3fa80fcb2c4f6c1d84",
+      "text": "OpenCode already has this, and so there's no need to write an article like this for OpenCode. But until then, this is a workable solution to get real-time streaming output from Claude while running AFK Ralph.",
+      "hash": "09fbfd22d7c0f92bc29321ff2bb5c1697fceb0bd5fdf2073df58051559295c01"
+    },
+    {
+      "id": "ca86d3298ec8a2d7d55f1a7d901ab9b22ce075dac26cc52a1821761dd9a1b31d",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "db29b0e727abde17dae1f901e76e2ef4deebea2379f80e167ef3d18729b86445",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "f12d244bd694cff1d61a1cceb640a73d0dc0afdb38e932eabe374d7e5e8e5387",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "e53a41b3e8433e140ece99dc6518e0ca838da7810a48f9c6435e71cc9871d773",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "34a161dc40914d4d70fc9cf15097a6f4a9810f221f3feaf5217d19b2190e3484",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "f5ec03d27e3af78d04b4caf45d25fbef1d17d6a2d89ca4df0527a63e0a765164",
+      "text": "Article · 20 min read",
+      "hash": "e9c3d63753a037bdaac540f3fa2056699022f1b6029d92cc9bc69b1e4f863a18"
+    },
+    {
+      "id": "ea9a79498d76c4b08d80da75fc24837a6e3f98a76a47202ab51aa2e33641c8d7",
+      "text": "11 Tips For AI Coding With Ralph Wiggum",
+      "hash": "59a78eefe41a098856366e524a8d5b33baab13286f03e8fba9106fea52bbe4ae"
+    },
+    {
+      "id": "7082245b21866da0e0ae772d7b980d19262f1b23b02566898046ebe0455a4ac4",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "38a2affa8aabc6506ae78dc0ff0c329a5679bf9c0e9e8edb030f2946530a385e",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "3eca6a9fc24d790ae7f1a2bb03f603d563b824d75bcb0c7486071b5d0dd0520c",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "bd23e8253951af9033d02c0c80dd1e78fdfa8493183cd06afc2cabf25d5f45ce",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "a2608e6741e9f44243c820176423e2dea9cd7f35f1687d296f9fae66e134e708",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "b8f9cd574bd757b4daef82210abaea9f35d986a72cde160c91d3a5af85560ac9",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "0bb58c3a4cc96799849dc760bb84921d90147512f0d66f8485b37160c5dde041",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "92de9012c995b2fa71540b232db19305ae940a835c7e40cf9ad19c0475652c7e",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7473a911bb1ce9626c82f9b7140f04d86b655e165df8565c2cd34d2bfd4ff931",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "463ba2cbb212ba12f899dffaafd36fddde4e303fc79f636480215586c85d69c9",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "915cab9d14de2a9f6412d90f50e995c20cafc22754e61fafa7bd357a95623a91",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "547347d5b9da7a6069a168f8e6bc5d22bf12f2164d9e273870e1436821019438",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "344710458703537d29080177d3bebd15259d625aabdb5f7eb3441ac4fa0e6341",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "c30ffcbdeeb80edaa8be3199966ed2b2ea1430adfd34706d8a22f502c397e395",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "e3d162609343bc1b2e50f0bd4bb0106bfaac3b1d399699820033aedb17d55376",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "3e1f146934f3113bb13527fbbf87dc1fadbf2586d7424479367646a9777fce33",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "092eeb7a47c8e9c274f64db122619a035b6522cb88230f2b6a367c1a06e783b3",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "085d2970921841564a8381c323e723b508cdeebf94fc48e90d29c73c41f71ef3",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"132uyltroqo6hlt\"",
+  "lastModified": null
+}

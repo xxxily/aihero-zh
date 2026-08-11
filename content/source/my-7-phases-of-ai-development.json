@@ -1,0 +1,803 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/my-7-phases-of-ai-development",
+  "pathname": "/my-7-phases-of-ai-development",
+  "fetchedAt": "2026-08-11T06:28:11.787Z",
+  "title": "My 7 Phases Of AI Development",
+  "contentHash": "ffe9ea2ae3a4c769d041716272d73c40a735bb2bd42691a7753f2f4f60acac16",
+  "textHash": "7e04056855227feea5d5fee64306e97eff4fa5e27524e2f3c042cdd9772552cd",
+  "strings": [
+    {
+      "id": "0aa67a7a27abbb0f241992172f54babff01719c9e2cc868a84347a5bf190daaa",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "36700229ec66231e76149ad59c404135d043e1a89795ecee7633254aa007f729",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "c39aaad09253e9630ec10fc6e87260dd3245538345e19399fe24970b20d467b9",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0ba7904a38948c1032f7b1dbeb01fa2b3125b5c9e35cdf6b228e459951752650",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "03336c3e760cd70d8a3ab9ad3710ff4703c5722bc945db2134c8ea8c4b715936",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "be8ca072d7829d60bb266acf79e5e46ee811f824cdf83e60751e5885fe0977d1",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "91b345df0c7e8d2c1d6fd420a0199dfcd7069762a72d70c6b1153e102603b4af",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "2102d978d07c0f8048470d78d826b970d2029a0ffd852dabcd75e2d86b827dcd",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "cfdd63008166d88db5d993c72c420cd2b9118f1f3e3ccd9b3969f24c89956797",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "73321f25ec044459dcdd063dda2c456f312a95906c595a2721b5bc93bdc62e5e",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "763acba9a0f1011eb4bcc64ee683f2d8948ffc9e49adb948b3190a9e1696d802",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "816a405c44e558ca573ec970b8494030719e1b763bbe5735e1a90c4de5cfed20",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "1d92e817023c79e050d279e7c031ce54f91e9c9a1af8d59391231afd97a9bdb2",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "a525d869e0931d5dee0866905c4fe7d901fd02c263950939384145f0bf119b51",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "f552b1a9e2a940c4d14d6ffb146910b6dfde8823739beba2605df117714f3100",
+      "text": "My 7 Phases Of AI Development",
+      "hash": "6400260f28def20fe70c99d4d79e23b75f5a4de2a7a2b28d38cbfe4db8c5dc09"
+    },
+    {
+      "id": "ff81a009291c784272f146683c3f7ef4ed11448915e0b599cf8c80562ce089f5",
+      "text": "Master the 7 phases of AI-assisted development with Claude Code. Learn how to ship production-quality code using research, prototyping, PRDs, and more.",
+      "hash": "30a36b233bf64f5b7879fe97aaae73e2ff735b6cfbfb38578e48252a0519e9a7"
+    },
+    {
+      "id": "cb65b6f1080f54b8adda86c473da55fd96f9e83949a5ce064a75cf22fee1956d",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "ad2e3ec9e4e5c8b333ea9d91e94b5f45ce45fe9adf1d640e0d01a05b8b19ae11",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "d39a10340ebc47431a42c89b25bdde11863ec9b2373d55c9e6ee88e5fea15e9d",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "3c8ad92ce2a9f0a828fa640d7bcaf9ba6b36e663114d8da410bd904ca5638126",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "0b7ff031965b09a8bc2fd67529a6518c967764c256dbbc7874074aa9d00c7cb8",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "c89d48ea9dd3aaf037b72d5d4a7a78813a701cf9461696190f3cb813b94811f8",
+      "text": "Phase 1: The Idea",
+      "hash": "b4622b50c0c4d6ad0300fdbb6b03e5dfe6adc1886e0aa92dd4e7c703a9d48e29"
+    },
+    {
+      "id": "403885374cc63bd2c5aeae5e9606b46ab14d1964a55ad22b5fe8436ad0b3c95a",
+      "text": "Phase 2: Research (Optional)",
+      "hash": "613321fd6b1a4da7938cd55d6d7e823496b5b7342fbbb914dcdacbdd96333951"
+    },
+    {
+      "id": "fcff7b19c1a69ab65f151474c591ff93565acc7ae0d00673dc99280c1899bf23",
+      "text": "Phase 3: Prototyping",
+      "hash": "46e1b1691388c138dd700bebaee6afbbf64ff77f7286b59571eea8340096cbab"
+    },
+    {
+      "id": "32b034fb0a64794a8ea105ce9667e57c23381d58e673360101bce5e39b07967b",
+      "text": "Phase 4: Product Requirements Document (PRD)",
+      "hash": "cb822331b58afad31e2e79b5d63e1952aa414b0a01ac907f6e45f0a36d76b5b6"
+    },
+    {
+      "id": "24becd6ce3700d195ab114b3c3a9282f1e06f886a56baba632a75e5d274ef396",
+      "text": "Phase 5: Implementation Planning (Kanban Board)",
+      "hash": "32985da0dd7ff947868111b8105e49b78647431d201926b2161126a25dc770d2"
+    },
+    {
+      "id": "9895e393c4b0d7c6fc5be51f83ee6be5dbf8d229d0cc87a0d8469f371b9018e2",
+      "text": "Phase 6: Execution",
+      "hash": "d9f2a99d67f22a6f245b58846a93476752089673ce43b19ba09568ba92e50570"
+    },
+    {
+      "id": "b55864f0de72015b59fd39a9e716c7c2ca0b2c52c7c5f73fce402bd94b3aeb62",
+      "text": "Phase 7: Quality Assurance",
+      "hash": "cae1391eaa660b38a3dd589476c055c1564fe58e4df7b048abfc86e2caf5a6f1"
+    },
+    {
+      "id": "3044408876049b268bb03a6db869958faf7e04fee1d4ffff717f5879696c8466",
+      "text": "Summary",
+      "hash": "8e76a94ac8320d515375e625bef1829238b097ecbd33611b59eeefd4ffefebfb"
+    },
+    {
+      "id": "3773f0ca958b31408786211b6f799ab16c7600d02dd2aea92e216a97cffdb8b5",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "212b66cea8e3318a5197b299dbefe32987f558aaa99d0bd218ee42ccf88c1fac",
+      "text": "I've identified seven phases of development with AI that consistently lead to shipping great work. These phases apply whether you're using",
+      "hash": "2db0c1a77afd6a8ab6cb7a6d9dd467d4f9930639c899f1a29997be80d0086270"
+    },
+    {
+      "id": "27e86d18e5bda4d42a00a122d2d56a48393a7e9e87d2f6f322e8811314e18b31",
+      "text": "Ralph loops",
+      "hash": "fa881d4d18b7dfbbd7c7f3553e905089f1cc5013d4914f948d5739e8d7d60b9e"
+    },
+    {
+      "id": "f834b0e52457151224ab04978d06d89e2f4625e83bcc05c18b46580cdfb605b1",
+      "text": "GSD",
+      "hash": "5e28fa7d9b078944f7537d80ff15db89da09c69810121d3f7b1317f2fd954b58"
+    },
+    {
+      "id": "288d29fad8af2c9348213fd4d19b8f32bd0b79f550d0f920746d5ae02b9c85c6",
+      "text": "Spec Kit",
+      "hash": "853d7b7d05a17edda9087c82fa13e17f5eb1938f5874c12ff3dc504b790b1484"
+    },
+    {
+      "id": "802a92c88d6a8c55ba131d45df0cb28ba9f0141b0ab0346f3891cd9859ccb885",
+      "text": ", or any other AI coding approach.",
+      "hash": "66257d0e8c27faa115d6cde07abcdbd1120bb75f8792153850861281ff1c9a5c"
+    },
+    {
+      "id": "edeb54d90770c3ee7cb383ff692eaba9eaedf833c7b314801a9a195d54ae6673",
+      "text": "The specific implementation is up to you, but these seven phases represent a common pattern across successful AI-assisted development workflows.",
+      "hash": "3e54105d5da711910f890970da03b2ced67d6be1a4b309b29a815a97cf1c4ad2"
+    },
+    {
+      "id": "ace60f97dd9d5193870f3f9bfabefb87fff9f30c22d8be8eb183cf81242f60b4",
+      "text": "This guide is for engineers who believe that fundamentals matter in the AI age. It's not for vibe coders, it's for people serious about AI engineering and building applications that are built to last.",
+      "hash": "46ff0ac4efb2112bd4966a8656c9255269a25a594fd24425e11cd900677f6c97"
+    },
+    {
+      "id": "eab2c15a454e496b402b339261f2f265d41dd70c92d1287e1a544b184221c1aa",
+      "text": "Every project starts with an idea - the reason you're invoking this process. This could be:",
+      "hash": "4c1d26eaa3abf559ffdda767c64b94255b8a6eaf0cf93c08350035eff2abebf1"
+    },
+    {
+      "id": "9ac385f7521e47569ab70263a32d33fd5c2be51a12fe38d9dc2fcbc7baa4f87d",
+      "text": "An entire app you want to build",
+      "hash": "86856004444fbacfe176a1c50b357b40e73bd3e5763b616fbdbb33022c19f3b0"
+    },
+    {
+      "id": "7c3aa66c3069f2c7dffd1f1f723af3a8cc88fd315d9ffbf720a65adb3b156110",
+      "text": "A specific feature or bug fix",
+      "hash": "5c9591eb3a35c1584d18dd69f8d90e73f9785fc9cefedfc0db6b40a993033a72"
+    },
+    {
+      "id": "3086663cf4df87d362141dd42658d1d3d22e855e4f7dacd2079777518ccf61f3",
+      "text": "A codebase refactor",
+      "hash": "99bdca22e2406942f01efa2b93cd111afae2d88bf5a5661ed4c4ce75a0671009"
+    },
+    {
+      "id": "c685418488f774902428aee5e7e9288d759e857448d76273179a32113a96bebd",
+      "text": "The idea can be as large or small as you need. This process scales from massive projects to narrow, focused tasks.",
+      "hash": "19a2beffaf643346da518bba22b1506b40507e1bfe92facfcd3739ea9e578a8d"
+    },
+    {
+      "id": "6308fbc3e0b8f7d57a2c5f70cadd303b3ec917b508ee4dd969568bc85bf39caf",
+      "text": "Refining Your Idea",
+      "hash": "5c381de99a1a7515481a366999cb36dca6b88a602add316d0fc0f35dc846669b"
+    },
+    {
+      "id": "57cced8c907d6be1bba5b00f11fdc7897556da4346130992198bff547a32bbc5",
+      "text": "Before moving to research or prototyping, refine your idea iteratively. I use a",
+      "hash": "3e1e841967fc52afa90645b37c8de290491b519d6f00d7d338c5ff95e896faf0"
+    },
+    {
+      "id": "d533c23297f88cf1a700e5682e55e869d96ad18d599f4dfb5610376e04e1a16b",
+      "text": "that walks through questions to flesh out the concept and make it more concrete.",
+      "hash": "8e55cfd38f3848d25f377a33884dab3ca3da1c62eb1f72363a600dbb476f055c"
+    },
+    {
+      "id": "d2bde7102c64ba8aae98b52bdb3bdf224cd3fe698e5d6720cd1a7453ab68dacc",
+      "text": "This early refinement helps clarify requirements and uncover assumptions before investing time in research or prototypes.",
+      "hash": "e37309820afa27dbbb3e4dd8793c1963f12d02590f85221fc93a10476f4bfb67"
+    },
+    {
+      "id": "403a57212e300a3ef1e0e9d7a50b4a55298784c75331d4313b3bb4b12210cd87",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "feb8dc289956e761295dd7991a80de1e90deb7aa9500ab068ce45216d2ebf59d",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "65db0171063504cf231157b0beec3e64c10b73b6d2c167e435bf66b7a349ddfd",
+      "text": "If your idea involves external dependencies or difficult exploration phases, include a research phase.",
+      "hash": "989b59c0ca6b011c11caba339417f312b1a8be634f0c48266261fe4c5657144f"
+    },
+    {
+      "id": "0deb954797f56d69286fa5bc5b9ea38c2b186b94e73334555bc9f44b7387ca12",
+      "text": "For example, if you're integrating with Stripe or an uncommon API, create a",
+      "hash": "738286a782efde855939b7a611dedc7d530822e4e1987c44241800ea4aab7c1e"
+    },
+    {
+      "id": "eb68aba3730bf41d8fa4e7b8f91c8481ae4b616c3ea810272f83a28595ea9bf2",
+      "text": "asset that caches all relevant information inside your repo where agents can access it.",
+      "hash": "7ec6eaa7d29ccfe297985326469ec31aed41f439fc1f5f612bf86fefbce7fbf6"
+    },
+    {
+      "id": "b2256c17062a5f0736b9547716b8298d7785c880c3d9051188b6fb011adb0fc1",
+      "text": "Why Research Matters",
+      "hash": "7652ca14002da5c60cc4b89c14f684c265381a040c7e34c141b015c609d357c5"
+    },
+    {
+      "id": "c987ed2bf29da738c77c7e8db1f8375e3c71e48f9f2baa0385ac6c1692adee8b",
+      "text": "Agents often work in fresh context windows. If exploration is difficult (external APIs, hard-to-access documentation), caching that information in a",
+      "hash": "cce398bfe8db0c53bd2532b4fe0a482138de4355372e86e6afcb3ccabbefeaa8"
+    },
+    {
+      "id": "306a4b8d330d80888dfe5f1d16cd6024c4fea0d9a486cd688974764e72a4e8b0",
+      "text": "file saves repeated exploration and improves agent performance.",
+      "hash": "c2c78d50a9e641d2aed21e4f44c941ffe5db0f7606da5684b9b5a6c93f5bf50e"
+    },
+    {
+      "id": "a74013e28383be545ea8f1a8595805c4d0d9ba9b963382c995a93da63d473a7e",
+      "text": "Important:",
+      "hash": "496d6960431c6302b1582716fdf430d3687a3043baf5e40b499f6459fc1705db"
+    },
+    {
+      "id": "39d56edb70d8b76f60438f8ad0eb0a366717611311c0054eeb2a248cbab50779",
+      "text": "Research assets typically live only for the duration of this sprint or feature development. Research can go out of date or cause agents to take wrong turns if kept too long.",
+      "hash": "0739a82be93f3b536f645306c5023768012a2880eb0a64aabdaafca58199b434"
+    },
+    {
+      "id": "6ca6ae5ec02606a1c4c9b2f4e170745153bc5e76907d4bc0a6fc49fdd63e4cb7",
+      "text": "Prototyping is essential when you need to impose your taste on the outcome. At this stage, you're still exploring what you're building and how it should work.",
+      "hash": "a53a2db4348cb38e0e94df892ecfdba25c1400ae53291a68e0649cf024b46b73"
+    },
+    {
+      "id": "8fde56cf4ab046644329cde7710b3537f00f0e5ffbbb0349fdf56f1c10ccb75b",
+      "text": "Create multiple variations on a throwaway route, letting the LLM show you different approaches. Iterate through a couple of sessions to find the best option.",
+      "hash": "bce35fbb82e89252cc53636bc5fa883866f5f29e163ce00fdac56d03ee43be83"
+    },
+    {
+      "id": "239bef4d124f060d2732a22e046152219b0fd49fcd8df76ff030ed6eae157c64",
+      "text": "This applies to:",
+      "hash": "b763c4743f9953562ff53ad488471231a1b552e1094c87f4575a1dd11e998783"
+    },
+    {
+      "id": "4f2bb09255040ce16b8674fc809a1bc3eafd2b976081c70c2a9c374ebf7469c1",
+      "text": "UI design and behavior",
+      "hash": "f6658e1760101719f625472efe1902f401986ccca102d910863c8ba7aa95156b"
+    },
+    {
+      "id": "056ddb71cbf7217c5e072881d85d21d8e353f585256df48a8c2fe763d3ada0fa",
+      "text": "Software architecture decisions",
+      "hash": "7fc06bfe2672e6a90e4712ada7e40e34a3ff2dbdfb0ec11fe32f21b7546ec0ff"
+    },
+    {
+      "id": "84e66f581b3d021df82ae306a0fca0e50a6ee56cd2edeb0063bb089e8b962f43",
+      "text": "Testing external service integrations",
+      "hash": "258fa66ec114f66e0b9e8ce12d0999705f62e4cc3167ba55db785e79a8b37af0"
+    },
+    {
+      "id": "6bf8c6891d35e48358db8c47e32bfbfcb5964ccc05bac43d84ad190ec1d507f8",
+      "text": "Prototyping early lets you commit the winning design to your codebase, making it available to agents during implementation. By the time you write the PRD, concrete examples are more valuable than abstract descriptions.",
+      "hash": "3217b359873a4271befd5368b9247c4d39815c53f25558938a82cf04f4e194cc"
+    },
+    {
+      "id": "ae78fec8f251294de6adb657476fbb221f3f29590699a45bd0b0f9300be5db71",
+      "text": "With research and prototyping complete, it's time to properly describe the destination. You should now understand the end state clearly.",
+      "hash": "383484df409082d6df92940fc2565d43078adbc950f8f84443ae56e0e36fe198"
+    },
+    {
+      "id": "d08c7edf33a5f8f3a65c05369e9baf355ef9e73af91878deb0eed770b7d6e07e",
+      "text": "Focus on what users will see and how it will behave, not implementation details. The PRD (Product Requirements Document) describes the end state, not the journey.",
+      "hash": "9533968dd32637641d1470b7e62dc13d89c39440315379300ba4b50701ff3a84"
+    },
+    {
+      "id": "f5e937b4b40bab3736ac4288ea0abdb3db585a6a140d4922d1df80b41bfbc747",
+      "text": "During PRD creation, hammer out the design by prompting the agent to grill you on every decision point. Walk through your entire decision tree to uncover edge cases and requirements. I use a",
+      "hash": "33e54b1576602c2932759d4e9a1ff204fe036c39c05562bcde74aeee6eb6b69a"
+    },
+    {
+      "id": "3642873befb3ca8a123837d457877e1156ff67e501d7bcfacc24bbeec3fbf2ea",
+      "text": "that is purpose-built for this process.",
+      "hash": "04824b718378351793920af62431bd900de38e065c4d0d04f229542a09b21115"
+    },
+    {
+      "id": "6b94c6e8f86b3344594469194eb4433f15f0da1d2b9fc952748dbbfd4a19150a",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "39260ae31db2c31c0b8e7561985addf039dd726bcb99ebee1aed3c230c95f565",
+      "text": "Phases are the map. Skills walk it.",
+      "hash": "c99d40ed12586050c0cc0309ca649f826545cd3b069bb8a664a12aae6aee636a"
+    },
+    {
+      "id": "75967c82dde182ee8c01da00ab05d2db28eda8cd11a6fc978589add9dc21d3eb",
+      "text": "What I actually run through each phase to keep agents on the rails.",
+      "hash": "382e5d625568a984429b8b3e94934a78fe2808ba85085db26f8e29db4c6b1d98"
+    },
+    {
+      "id": "4639a22fcd0928ff1d670e77dce66d2c86b4a4b4ca85d25f5295a8fb1baad0a7",
+      "text": "See the skill set",
+      "hash": "dd46869b69c9555abcf3fefb4c764ae30e64692df2ec9a3359dea8d9ddef9b37"
+    },
+    {
+      "id": "40836900e7c145efcaaf7f3e44be45a4a8bac4025fa250e3432aa7da0cf76d2e",
+      "text": "Break down the PRD into an implementation plan. A Kanban board is a list of tickets with blocking relationships that describes all the work needed.",
+      "hash": "5cc77b4995c1c8ae13d3a4532a5ee0399961553204676dc22404e20a4cde8d80"
+    },
+    {
+      "id": "46e23f4f9ec3604ed4d444d5c953f9444946634b9dc704e2043dbf1bf7e782a5",
+      "text": "While you could create a single sequential plan, Kanban boards enable effective parallelization. Find all non-blocking tickets and spin up an agent for each one. I use a",
+      "hash": "aff794070f6a9cc44b1424372ef487c458aea5b1613ec0f5c10ec3caf1195e7b"
+    },
+    {
+      "id": "ed0a7f488d270a9563b79596dfc929140b4da4a2622ee8a61065615e3370f8c5",
+      "text": "to automate this breakdown.",
+      "hash": "42a55172bb6367451ff37c9fb6cce698ec44833bf15fb719dcfc4d48955d3949"
+    },
+    {
+      "id": "dfa73fa7b146713d9f46e9252b256056b2ebbe2bf2c29f74675e04d0e96a37ca",
+      "text": "GitHub issues works well for both PRDs and Kanban boards, though it lacks built-in blocking relationships.",
+      "hash": "63a99e81278022a88b933b6011ce9cf141bc3f0daa9a1ffdb50c94b79557ec8f"
+    },
+    {
+      "id": "f1e6811ee08f316f82c8ae6555a63f687f2ccd110d4aaad8ec9c50bf95ea89fd",
+      "text": "Linear",
+      "hash": "e6950b45d25c2027b1ecae90490570d89bb0285e606df6ea24c16377fb0f2cf1"
+    },
+    {
+      "id": "535cb6497452b57884d207c55c7d237029c916ffea09a6ebd7ea776cf5abd24d",
+      "text": "is a better option if you need that feature.",
+      "hash": "bcd2d185f5314fad8c80ce1337915c0e3876e2fb1b67be902019684ca6e6e831"
+    },
+    {
+      "id": "5da3a9b8fd965e76ef9d1f8cc0e25db204ff5c4d33e49447703388218297107e",
+      "text": "Run a coding agent to execute all tickets on the Kanban board. This is where the actual code gets written.",
+      "hash": "e03020706630c96f91b8db774d4f6112bb21e92f173684af16fcb7a340729f30"
+    },
+    {
+      "id": "703f6430a1607e97a4f30106de00b40139c0ccb81a0943951bc9851f74a4bfa3",
+      "text": "Most times, a sequential agent working through each ticket is sufficient. However, with a well-structured Kanban board, you can parallelize by running multiple agents on non-blocking tickets simultaneously.",
+      "hash": "3b71ba79811c87228a81302ca32c572927ed6eb48ad7845641b5268f60424f10"
+    },
+    {
+      "id": "c6cfa3a4b37ca45cc5100e057ccd8b7b58e0c807a16659f04619c09fad60f426",
+      "text": "I use",
+      "hash": "6f148b6030793fdf5a541795c59eb4c14092664227d1986f13d7aec23682d921"
+    },
+    {
+      "id": "99f74ceab0aa8717c853961b13db30f2b73214f0c44fccbb4f638d9973858b1c",
+      "text": ", which work effectively with this setup. Ralph loops allow agents to work autonomously while maintaining code quality through automated testing and validation.",
+      "hash": "2368d98a061832fdfc58a5e87486048d83e5cc5cebcee0ecabd8e0d3ab8dc430"
+    },
+    {
+      "id": "da5d5a73082d5ae371e4791a2c6da7db549c33a316f2959a6e78da963a4ebd6b",
+      "text": "Running Away From Keyboard (AFK)",
+      "hash": "2fa8c62af5b30315676c301cefe29dc6418103e2d3281d1621f2bf41c41030b8"
+    },
+    {
+      "id": "e1af7bec5f0f6d44ea626739a810a56def062b16625e0b454518dd9aa9c6dd58",
+      "text": "With proper setup (research, prototype, Kanban board, and PRD), you can run the execution loop away-from-keyboard and get excellent results.",
+      "hash": "e8eac7c7d2b6852b8e54ff30f5e62947321846473c0fe6c35b910e050f225a73"
+    },
+    {
+      "id": "45f33cc83805dbb31ae9c2f7e10a5a6921b274fe3f59d92d0944934b988824db",
+      "text": "The key is ensuring your agents have all the context they need:",
+      "hash": "f3c7193d3d5b8aa0815639cce808859d2897906be9f981ed1618d1c23e2b7824"
+    },
+    {
+      "id": "fc8ae85c2da961da84778544bdc4ddabc829df62290dd2a88a8a7d64d7f8005c",
+      "text": "Research assets for external dependencies",
+      "hash": "80d41017f1f7a2041bd395d104c3cbff44bbb0ec5d3a252f6e8d34178c001a44"
+    },
+    {
+      "id": "0a12cdaa9b1c3bb5316d8c4503103577e9fb7d690327e04e9050cf43c271885e",
+      "text": "Prototype code for design patterns",
+      "hash": "112c29fa7af0662dd78bcc76339d382823c505ed32c2cc752cb0893c0f7ee185"
+    },
+    {
+      "id": "93cec6c607b832f12bff196b61a6a81deeda0dd0c27b074321ffbd705363d6b7",
+      "text": "Clear PRD for requirements",
+      "hash": "1798d34692f828fdf2561ff6f9ab9e90da0c9c9fd25a3424b383c384abd7660f"
+    },
+    {
+      "id": "d1182c8885fb6a11fdc1e38dbdeafd11ae915c834bc9e18f50d13fa35bd66738",
+      "text": "Well-defined tickets with acceptance criteria",
+      "hash": "e01cb912d6481220a26c8de152f98045af132490973b5279aea53fbea4ce6184"
+    },
+    {
+      "id": "1d49b8e53a1ed8ded2ce0b6b854586a408f67e8313614d7d409ae75f38e18b4a",
+      "text": "When these pieces are in place, agents can make informed decisions without constant human intervention.",
+      "hash": "7afda7072f669721de55a23eac106a321d978fb6845001f9fdc8c7d1e11760cd"
+    },
+    {
+      "id": "507e681a178a8d6b01ef92f9799c9b271b996e572481e06328ccdae1b6cc3a07",
+      "text": "Once execution completes, have the agent create a QA plan for",
+      "hash": "e906575103f84ed923fa6558d9004362084da4ddee0d2940871680e2548ac5b0"
+    },
+    {
+      "id": "fc8f70cb731c5dcb90b62336933714f7e474f6eadb3496c416b9d51afff9d3ca",
+      "text": "human review",
+      "hash": "978a8b09ee5844e15ea0661d83702e00e6b4312de7dae44479adf0e8d7f5262b"
+    },
+    {
+      "id": "fbe555158e819bb511c2442649155455aaf01c98594bc0f3f649c6a11d0795c0",
+      "text": ". This plan should outline specific test scenarios, edge cases, and acceptance criteria to verify.",
+      "hash": "87c863c05b1dbe79b80019bf0e9b53c4ff5f5851d67ed6b8aa579c305e9fde60"
+    },
+    {
+      "id": "f5c4b801622292f7bb4ce5f6f47c3a051b6658c0082e15354d0a92929c680b43",
+      "text": "QA typically uncovers issues or improvement opportunities, resulting in more Kanban tickets and another execution loop. This is expected and healthy - you'll iterate through phases 5-7 multiple times until you reach a polished product.",
+      "hash": "54db5253111d421894c383663d77d7cf6de4d46c93923a90cfce364cce62cc7f"
+    },
+    {
+      "id": "ae8cbf4e44e8589df5fa5d5b373d7c86ca5a19c3a3c73235109964dce4f18946",
+      "text": "Each iteration should bring you closer to production quality:",
+      "hash": "e80da64d05e480bc5abf69058d27abb1e6299e73feefcd07f0bbd2b15b13cd29"
+    },
+    {
+      "id": "1df73c2cc908906c263911774478dc8ba660a95f4677ff8c9359071cb323ed5a",
+      "text": "Agent creates QA plan",
+      "hash": "8fba9b160dc43c0ef1bc5e3b7ea7367d6fea799c5e04de0c20c0e502d40b6292"
+    },
+    {
+      "id": "5a8ac24036f5de9467e3afbc2619579874a6b7669a55d6938c5f5f03ac99f236",
+      "text": "Human reviews and tests the implementation",
+      "hash": "f9d2c946f1e6a5026f245ec6c92c07f86b42fa487201d08150d663a18af037b5"
+    },
+    {
+      "id": "5c30a60ed31521c25ec962439fe2e5adcc0892b1777bc040bf75254788540872",
+      "text": "Human identifies bugs, UX issues, or improvements",
+      "hash": "d29d35f2da390ea305062672555cd5312c9587badc0392ae62efde978660e670"
+    },
+    {
+      "id": "03fb0db174b60b45b11adac42d5d909e4952eab51cc352a0bd51c914a653cb6f",
+      "text": "New tickets are created",
+      "hash": "83b3532536251b4500a23ceb9834003896753cfae844631a5ef8a8b4baf8dbf0"
+    },
+    {
+      "id": "615d11f7478b2f18bea7685dbd3d35e9f24b9d703694771894176c4f3ae6f590",
+      "text": "Return to execution phase",
+      "hash": "5726bb7708cc1cfc9bdd3302cfa775006cb03cf767083945298f1d2c95a0eedb"
+    },
+    {
+      "id": "e205f717b89052cef8c413bb85410585c14e7a8044866f6d5cb9721c27af15d3",
+      "text": "Code Review and Human Involvement",
+      "hash": "b7fe9ca6071cbde188313eef4cf58cf24e7944106e1d3e6eb798302a22f4a895"
+    },
+    {
+      "id": "2802ce5c6f74cd2b4a7a5c623511230cd267d3a50f77fb0b0b179d36550f890c",
+      "text": "QA involves humans reading the generated code to ensure quality, maintainability, and correctness. This may not always be necessary (especially with gray box architectures), but it's an important quality gate for production systems.",
+      "hash": "c964b08849b5a95e7b7a0b06856c007a09b3493d8aea3847632e2c0c23926af8"
+    },
+    {
+      "id": "643746afb024507abe7b6e09b44e6fc68794e89c3124df75bfaaadf58d080eab",
+      "text": "Look for:",
+      "hash": "68f61fe0efa1733a66a00fdf47bac564092bcd588b9df56e0907f779a97f1d7d"
+    },
+    {
+      "id": "5b07deb9a8730f394c796cbe726cb58ed3fbe1efa237738e7a7bf73f84c9abf1",
+      "text": "Logic errors or edge cases",
+      "hash": "748308e21b4711558dcf171cc2c1e7f1203b0deaaa66d13421bb16c5a523f0ba"
+    },
+    {
+      "id": "e60441e41ec05afce3254f58b588e5707f1adc0ec14632af29805f1b7cf43847",
+      "text": "Security vulnerabilities",
+      "hash": "a999c7a37b380bd526566a79a227a7226a4f9c6a258fa6e11969702a9a6a8240"
+    },
+    {
+      "id": "c15153a72731526341c066bc982e1b0dfa53f6809ca9a1c69d78c12a5af5254e",
+      "text": "Performance issues",
+      "hash": "fe71c7f3da7e25dd3aa178dd1e0b105d4c7dacce0e3b86c4f5e6c01a5a79334d"
+    },
+    {
+      "id": "5f2096d4fec3326aac70d8ce59dfa0ad3b5df7f3134fb8f1cc015ff680943841",
+      "text": "Code maintainability and readability",
+      "hash": "3cf2cb53153561f7787cbcf1d1368da3d87725355518399d87560d65691a6be8"
+    },
+    {
+      "id": "b0e7a553d46d201344a81f2e4a0cb6b339d34ce5c418e09e124a7351432bb240",
+      "text": "Adherence to project patterns",
+      "hash": "207d315a1428967c0d080fcf11128f18de3ca4276a5f5162a83dc5e7f9a85ab6"
+    },
+    {
+      "id": "a2e1752920c56f4f91ac24fc9116155574d39ba838f4894f0c79c202e9380334",
+      "text": "These seven phases form the core framework for working effectively with AI agents.",
+      "hash": "8f77b1fe8a982b63561adfb1c553d1b7e26021201e771f6513f7b16e2af00d81"
+    },
+    {
+      "id": "30e01c3d621187fd903f784d063c690c540354bf0a7558e3bcb7da0d9a01576a",
+      "text": "Phase",
+      "hash": "46342ec1eec9d78dd13d15f0e035d625a9b357b3493f8c2baef668633194852c"
+    },
+    {
+      "id": "da0fac9acae02477bc5fa7aa200d8b79d77189d67a3f05766963dd5cd88327af",
+      "text": "Purpose",
+      "hash": "d4e8830a71c73edffe0115b8abad16b0b5cb2e121047c64cd01995203cfad062"
+    },
+    {
+      "id": "97f61858123c56ccb7499ae94e131d27f5197699677495eb1998dadcddd05ba7",
+      "text": "Key Deliverable",
+      "hash": "1eac98fdbe2f146177bf15cfccc5f31815c90de98aa5d113c6a82d043d207991"
+    },
+    {
+      "id": "3ad0e57917e5e9a5183ad2485ab016c2736de8949a4d2d5ecb9c81e983bb6fe5",
+      "text": "1. Idea",
+      "hash": "458a69ea933cf760354a97c28f717aea3f4c25c840e4aaf1bb43e2db83ad5dc5"
+    },
+    {
+      "id": "1f05546c799ea619f6cf40ed33c753e5156fc055ecfd32a5fb4cdb1f3ab721af",
+      "text": "Define what you want to build",
+      "hash": "807d113c1ee7b5d0c468a44aed7305b0c68223068ada9e94e5b3a8d19b2b8485"
+    },
+    {
+      "id": "591902247ff241c95b9cf18e94eae61469c667dc298dd67ba93598e93b04a638",
+      "text": "Problem statement",
+      "hash": "ba35efbe6272b51881805f8cddc03e583bedfdf41576a5670b261e5074058efa"
+    },
+    {
+      "id": "dc596384b98810ab9582a489bae57bf667dc899b23a3e9817061c11d87b37b3f",
+      "text": "2. Research (optional)",
+      "hash": "112420dcbb4087b0de2e99372f365b75d8e6484ba5b9d4745eb2651b95ef9e8e"
+    },
+    {
+      "id": "6ec6f00478e71b8e4eddf7267ab574fdf71ce09f8d41a454b3941471715f3ada",
+      "text": "Explore external dependencies",
+      "hash": "e8eaa627d758d8e5fcf921c917a0db467e814eabe298dd3b86cce9910d6846bf"
+    },
+    {
+      "id": "e8469eb502b41ad561c574eb4588b500745f07069322217e2cca4e6efe5e9586",
+      "text": "3. Prototype (optional)",
+      "hash": "a90a1e23c9c1f8487db87b913c0622bc91a10f8aa4015c9e2c7b83684db4bd05"
+    },
+    {
+      "id": "a84604c93e91bf04e3376939e74c72fadc48c5dd7cd5c5a57558c581f0c27fd0",
+      "text": "Test design and UX ideas",
+      "hash": "ab44d6d89d961f4e40395f61fd80dccb729a6e883024738b2dae419ef45c59fb"
+    },
+    {
+      "id": "051f93f343652ab6b46d46d0dc382f43b5f9ce1c18ea3cd12002c8a8bc3cedc0",
+      "text": "Working prototype",
+      "hash": "4a008111e88dc111eb14a91c6bb3d2d4913ae265fc2db748b3932f97f65421d9"
+    },
+    {
+      "id": "b5ceba37cb8e904fe9fee5f48410cb63c42de29377ad77d79eb633cc7e0e4763",
+      "text": "4. PRD",
+      "hash": "6536312913736b09f907a1ea082fd958f5215bfcafbfa4ce8389e06df447e04b"
+    },
+    {
+      "id": "706e737ea9f81cd6f8fcabb1259f2a5bbe432e5c85eb9d3019c832bd00b5dc09",
+      "text": "Document the end state",
+      "hash": "549757441e13fe5e9941748b69b7e2a42f277d8034b925828e9a5fd6ddb61021"
+    },
+    {
+      "id": "dd80dddcf790b589976c0b59ee5a2f1554113c6d640ea310fd3fdbed2dfe94bc",
+      "text": "Product requirements",
+      "hash": "a364c63e480deacec97865673fbb0bd417681c89c2e4d03788247aacf9784b0c"
+    },
+    {
+      "id": "8e4afc4fb52868a1ab369f36c81abffbdde0916d32d2fcad28af5a0db1a4ca33",
+      "text": "5. Kanban Board",
+      "hash": "0fbee9182fbd31c495ec172c0cc0219cb37450f15f65ba0c4836b2c49aeca274"
+    },
+    {
+      "id": "7f207d779613de8a8561ec46be954186066b191b95ee60d9f93e69bc617b71ef",
+      "text": "Break down work into tickets",
+      "hash": "c786538fdb6b54ff405b626eb2874b9303554f389cad4c534c865ba6bf8fbfda"
+    },
+    {
+      "id": "c8f8501ed0805098c0e21801534ff86e59a8bd30369a9b10a4c50cb030ad4442",
+      "text": "Task list with dependencies",
+      "hash": "9940845c0c4c887a7dda8a600073eee26ba11fae43cfc5afeece9d9227c7c46f"
+    },
+    {
+      "id": "0866025da7df48aa0fe07e3e5a1950a1a6371afb3760183584f9331c4746e89f",
+      "text": "6. Execution",
+      "hash": "080f5d3430ec47a9d7efd8719ef0e9a9ea687130dfca9874af434fd39265276f"
+    },
+    {
+      "id": "bf587d29a5381affeba7d38b46f428aee9b2f7804a6f081943e85c4347d38581",
+      "text": "Build the actual implementation",
+      "hash": "1bc708dad9cbb2ef454dfe94c44865dbd940583980ddd9d46a780e1b1db0c9dc"
+    },
+    {
+      "id": "455c13ff68736feefb8626e47806358c1e17f53d7069431b2e1308bd9ec0de1a",
+      "text": "Working code",
+      "hash": "73a67b426344cf7d6bdf95a955d0b6cf2f9f1546f0cbbd3b3da8962d6b9255a3"
+    },
+    {
+      "id": "c1b80d7c23c0ddfd127b162f6e609e1374e6d3cb319084b1741b2790d6fac0c7",
+      "text": "7. QA",
+      "hash": "99606d8aa2e84b62106006895d72b13b91bebbc1cd6b2de5ca6a0c9a50de985e"
+    },
+    {
+      "id": "31ac1d9cac5738c7d0667ea63819f4859c7cb27758424ae8ff2e612341785ab4",
+      "text": "Verify the completed work",
+      "hash": "7c8446220be450e5200ae00193069d6d62a30674a1ee19920f7fd04e6c729606"
+    },
+    {
+      "id": "e16608e64cbe47deb4761a809b9aa8ec613e867906ff5cfab35fa9b442fa13f3",
+      "text": "plan and feedback",
+      "hash": "203fd9ada15b530fdcec8dcd9b53cd1d90e52d3981185d4f483fe914b7b2e470"
+    },
+    {
+      "id": "6c0a68ac81f094f2770651d362e489888eda0f1c21f1bee9401cad2519a508df",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "d613d9922bb295376ed76c917d0c24a1ac352605bcf3aadb82ff2b63c1742d1d",
+      "text": "This framework will likely evolve as new patterns emerge. Code review deserves special attention - it could be integrated into the execution flow or expanded within the QA phase.",
+      "hash": "20cad5c80cebd41394e6892d685019455be3edb9b36a35ae1cd0c7a229f6a9f3"
+    },
+    {
+      "id": "5606c578cceee6978fba3983f4c427b7c0c682d94b453994bf0a18688677d21d",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "cab4e8bb3767d92b5eff65b6f0f1356ef47fe629e6393bfd358c87516f69cbad",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "36daa579821fcd5f8c2b86bc476d8569c9b2b43a3f8903bcfb0a36f854818a57",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "e548565287dcb6898ad290fdbaf15fa8fc5cde81d7ab85f8b3d6529bf19b20aa",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "f54fe0075dc208ce4886401566122f60098ba041837e1a6ced4de6fa256f5e83",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "63cece4d066225d01dea47faa8ee14f1a993b051d74f7f14cac0a1c1dbb5a95e",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "8311e90486d6559b12321c752d82e83c478aaefa135f743358a37df5f5e59bca",
+      "text": "Real-world feature build with Claude Code: every step explained",
+      "hash": "0fe30f840117b4520c0ce377e3c153c186e0fa94332a946033ab45b08f76a1fe"
+    },
+    {
+      "id": "13f1905ebf0b0b767190cd06f072a62b5e8d67c4234d7c42c88b33303e82e662",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d045a827e68a74615362faa183aab9d5e3a8c067d3d1fdac331ead388330d024",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "96d075362f6b8714eb5f5f36c00d96fb682a5700a12eaf98e17b2439a935c34b",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "311576e1608b20055ecd6ccc08141de771e97e90df03b565a419d76f5304780a",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "f07d5d4484801a6f8628c14c334ca36f9226dcd03786c81c962c667e6fdd06ce",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "b8413981ed3b291dc6ef3b244bc6db83d5235a181109a5691c66e40bf0b5bc3f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "8d40c29c51980722c7efb5207f8b52c622a93e2414a19ef283936f8df4f1eda2",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "017dc2da5a0b84b35c7ab7d09ec806459006865895060576689715dd62287668",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7da9bf5c0029aed8e27e5fa2ffce6cf99ef437a3d9cbe1370f5c82a26dbf189c",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "aa5d8d12436e399bc89bcb5d973c45400594663df917914f6c25043b00bde521",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "cb1797da1296018ec0efd198a97ee3cce4d466d4f55acfefe978ec3d0bd890cb",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "1b549ab290dc7cf14f611264aa07a376874b292ee4f9bbd6118d4ad42d14dcb7",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "8369300f64e966b6a5b0893a2c34cbe20a10253f129cd9f85bcbf5e87ad176a4",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "12f62ec1423b5b681e069e0958242e885c5b8af31d3b93d777cdf98ae6d2d4ea",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "dc1cadbdc84bc56e5b1302b82b17e0fd806bd3584fe2c0cb1cde4ecc05a21693",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "a5a8fb188c960f4a8725b516ec524470d51b44076108bae95cbc2f58245b98fb",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "1a05113d9111807b54d70e531fa336d6dc54268b570073fa846fc94e49288c8c",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "713c3267a4da126d7f862b90d0f18d53baaea91993736eb39f2e97b5da31f37f",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"qy1gc1j64n6eqz\"",
+  "lastModified": null
+}

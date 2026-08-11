@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/attention-degradation",
+  "pathname": "/ai-coding-dictionary/attention-degradation",
+  "fetchedAt": "2026-08-11T06:28:36.754Z",
+  "title": "Attention degradation | AI Coding Dictionary",
+  "contentHash": "8762db9a8adccb20863dde9d9bb03ad53237e5f0a9f04925759c8dd605118084",
+  "textHash": "b950ab66440dd142470dd1a20cdd90b8bdb290d3977d9fe775bd7040b5a2f21c",
+  "strings": [
+    {
+      "id": "b3aaa714704baa9a04a39f9096d0f8db6bd7827bccc1ad5c0faadf8b4c2eb4a0",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "c2a02ab29cf25715c983e875d66a4aa81f773bebd42ec184fe7f9e23df461bbf",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "c4cc3beb08fdec20017d9757f4b3f674f006e3faf0bd1469543b848fac8e7f35",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "55d5d6185b57884d8c4e7ba771bc9e40c5ee6aa47a47734cd7da2d7df8f141dd",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "9795927dd1942cff4d7b318b2a99dba9faedc98ef3a9e7f58e70ebf8eef6a5fb",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "24c478d43e9ff4e306023b9433c29a9937e59387791919b370aa50d078a54f5c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "4770d133e6bd4de4e47f0b93a97fc27655e0748501c386e9ec842c3ec478c4f0",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "f9747e6b51c6f7b55a8d4af9d2ebe048c491cc0ef0c6b692895e4c5f72030594",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "9e7503f3af6e84e81cf95903fc2f75be602525cb186d80db612f3891de6fe067",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "05d539db62e358899e0cd4c378ecb2788f5bc401591444847ac9fb59c405217b",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "99bd72aa4c47a06d512e02e8e88dc3ce75cd0cfacefabc7c34d93044206a5c93",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "85b5f9f0b04ae31fc49e1170acfcf83c7795e94f4a4b5720ebaf295f66fa89a0",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ec81c32d4ba017314595e13135414ce56bf82f0c9753b77d8e8a516719835e37",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "419b1f633711c521f932f352a22949c82ad651b5c2535ecc04c7bdaa69371b00",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "964c8757cc0c877ae084a3dd09df3f44afa99ab51afdbf23462e913988359d05",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "09ea62ae6d33182a92301e43f0c43c11ee29d2fcedcb815b067bb4a43da3a965",
+      "text": "Attention degradation",
+      "hash": "892a19ca52d75c31194b0b4d50bdbdc67fcce95b1420c662633dbdda562252f7"
+    },
+    {
+      "id": "0a5b95e346f1f40541ea43e9e27f5f64e408a27264eb74a69a63619b1a33eb4e",
+      "text": "As a session grows, each token's attention budget spreads across more competitors; signal on meaningful relationships shrinks.",
+      "hash": "af10f843a07adbc1fdcb1f1d6b683a2c001d57d331382c97d0265434878784c8"
+    },
+    {
+      "id": "c32689db09754efc8191983d0464c1a6454dded21a4a767999eff13b3f54bafd",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "85fb2ee065a0a28498c036781f0e463aa1ece21cae8f684da6d2d0574f927acb",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "0e8d13e5bc785da0046b9c8f70f37ab012a6ac585f59d0ab44149f7b099954bd",
+      "text": "As a",
+      "hash": "7fb457ae301b009ee3c88580b9fb48352bf172afb27fd24ee53b4f4f46b09a08"
+    },
+    {
+      "id": "7b58f9e1e90ce221b763ff3c321d56421d656b60d87c8bce4678f64bfc16bd58",
+      "text": "grows, each",
+      "hash": "63c13d5bb60daeadf45316adc2484463ee1e3d03174dbdccf5dadc74e6fd7286"
+    },
+    {
+      "id": "73babb67ff6e9463b7bc653d507eef08716e4cea287b07b99362f9cb30e736d8",
+      "text": "'s",
+      "hash": "edc00d4db80ddc3e91783b63ae5fbcdfd204de983c650e9587785a40271c8f3c"
+    },
+    {
+      "id": "70f0d73cc1335d5782686bd1d0e52a1939fbebecf8819ff0e506f07fb02df278",
+      "text": "attention budget",
+      "hash": "4f0ecd6ea97f18771cbd4203a929018449d8dbd4c6cce6f90fd7511b5c34cc81"
+    },
+    {
+      "id": "f61fab99ff05a353498f36e285ba0dc5e4946029a17633632540be22ccee7ae9",
+      "text": "is spread across more competitors. The signal on any one",
+      "hash": "e102c415386125270389f0d21e9d0f13476b46c82eda6a3e8c3925779a3a4c90"
+    },
+    {
+      "id": "c99de51d75e5c722b8156aeb0a55923688e7c48ef7ca1e3ffc9f7c662504dd16",
+      "text": "meaningful relationship",
+      "hash": "8dfe0d2c8add8488e5c965e07a14afac96b8df8cce7b778696c24e5137b249dc"
+    },
+    {
+      "id": "b5a3976c501353e594a8c22371ae586ce9bf797cc3d9ffb520d1459c17f08ca7",
+      "text": "shrinks; noise from irrelevant",
+      "hash": "6890df6ae821096672eca53dfd4031e6df7eb5862452fd6069afcf050fbfe329"
+    },
+    {
+      "id": "7371d351a0bba49d67bd3a156bd1b7b5cd1340d4f08742adac8fe1a4a9fb844a",
+      "text": "crowds in. Same",
+      "hash": "e1f157ada492146b9292e41e2b472a31c23c370ec5fce56fe5ccdf5db84f05e3"
+    },
+    {
+      "id": "c8dfe80473bf637ed4c3e4e1b27500760f7647541db87bbba1e6181744412995",
+      "text": ", same",
+      "hash": "8cd0e690b9495085fdfcb2e08e72b1bfe0e3257c2daf868c2ca49ee891f61fdd"
+    },
+    {
+      "id": "7112883d1ab092b6d1ddfc9181d9b520a4d2f006cae5122b37d24cd2424cba63",
+      "text": "— just more mouths to feed from the same plate. Cause of the smart zone / dumb",
+      "hash": "6c781a0374fdb6d151c46dd4bbee5e842ab9d95e21eb314805b649ab2ed14be5"
+    },
+    {
+      "id": "6efdf18540ce7b0c2c3dd26c6a0e5e07e822adc7d2ac4f305dc8adfc89f78555",
+      "text": "zone effect",
+      "hash": "c9a02753a67a47e99a0296b92f3dc3281338adb198c006a38619c4435efc8d92"
+    },
+    {
+      "id": "5ba923c2cb40a6962615d050705a55f993637f66a2e8bf375fbe5078706ff045",
+      "text": "It presents as the model getting worse mid-session: constraints it followed for an hour start slipping, it re-asks things it was told, it writes code that ignores a file it read earlier. Nothing about the model changed — the only variable is how much context it's now attending over.",
+      "hash": "d7e9dd8a42c2082c742dce7fadaa6bf4169618564630459fd27afdbaeec73f9e"
+    },
+    {
+      "id": "582a3ca342aa6975a05c2ea52e1eb2035ef82147e95575639fc3c2ddb36b4237",
+      "text": "It's gradual, which is what makes it hard to catch from inside the session. There's no error and no threshold; each",
+      "hash": "bb2f24bfb5bbeb9d715dcbbb2880e684adc1e7faa78349a33c89148f4e3d6cb2"
+    },
+    {
+      "id": "322018faa1623bdd8395346d1274cc2622766c1922f3eef36c1284f25706cd0b",
+      "text": "is only slightly worse than the last, and by the time the slips are obvious you've been in the dumb zone for a while.",
+      "hash": "982fb786da9eb40530128374ae357feb5fd871942e36a5cda2c37c59e31055d4"
+    },
+    {
+      "id": "60c17434deca7adbb6c43e12363fbd7a95ca55a5f7ad5c2b80e43fc0c9631ac4",
+      "text": "You recover by removing context, not adding more. Re-pasting the ignored instruction adds another competitor to the same crowded window and helps only briefly. What works:",
+      "hash": "ad633e3a77c48671263d4819c103826735b208e7f11db5c4e741e5a6040269e7"
+    },
+    {
+      "id": "7c76e3f7473f74856b7c015382ee01bb9045b5ad8db15bd0eee092c5dd90dcb2",
+      "text": "and reload only what the task needs, or",
+      "hash": "9291871b10791363aeb7d44787320a2511d4bae5c6241150757f49e0ca19f85b"
+    },
+    {
+      "id": "f6e6a54dd29dcb4fec392f6652c3678627f31600c535d0a444e1493e4340e8fd",
+      "text": ", or",
+      "hash": "3d30020b1863441a64e786bdc72745e998a1e3abd32100e1b043bfa7a01b9095"
+    },
+    {
+      "id": "41b13255b028bfc9b7fb2172edc1f38f84a95dbf99da259aa6627fa310c9004f",
+      "text": "hand off",
+      "hash": "788b26357616f05b942de01ef730af4ca32e9af141783ec6be65e812ed323ec3"
+    },
+    {
+      "id": "342d48c09230f11bc00e1186d8f246ff16dcbb9169cbd3fab8281409c07f6865",
+      "text": "to a fresh session. Treat declining instruction-following as a signal about context length, not about the model.",
+      "hash": "4a347a8b30e23de18edb482e9d68e7408ab6875cd4ea638a82caeadf0e191535"
+    },
+    {
+      "id": "d766b17eb855d9c71da089c8ef8130f415d11cd793accc4b11bffd482454ad99",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "2bacc606a5cd854d4113493c034f1fa2bea5ce35fa62a11b6fa1a631eb4d40c0",
+      "text": "\"It's deep in the dumb zone — inventing generics that aren't in the type file.\"",
+      "hash": "bcd69df540b99e4fc1a2e49237d49093af27a8cf921d0d05d9f702f1723ea2e5"
+    },
+    {
+      "id": "27cef4a15a7fe7937ca17d70f7ad2e2809921c60a28d0cd36ac655a4240ddaf9",
+      "text": "\"Attention degradation. The type definitions are still in context, but the signal on them is buried under everything we've added since. Clear and reload.\"",
+      "hash": "9e2ef988d7ac193c0b9e5fa18a31eed531b0b853bb6b60a5baa061f94622e0fe"
+    },
+    {
+      "id": "46cee1c877e6afba673a231684af47b33fbc6de2fce02a8dfef1597ab5111d43",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "6fe979a7da675609bc4453c05831219385ca59cc268a5a3edf460a7c29a98caa",
+      "text": "Attention budget",
+      "hash": "3050c3ed0aa7f513c8d6d6891433e8d97ad0fbe382486b1f5b52a1129c834ab1"
+    },
+    {
+      "id": "2c62b3e9b96e91c2e828fe6bb6fbcb47d5eb61ad2897136a78e5c4f4214449ae",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "9a3ef8e1f4b7071aea7c62a1258eb5dcc72a6edbaf4097959fae941caa8d5865",
+      "text": "Smart zone",
+      "hash": "1d6692e2d3e60ff1a5113a02cc9524ca6a226f294b75c980767702844a9240ee"
+    },
+    {
+      "id": "5f041f78cb117d5cf34818bc9b1ec2e20804fbe4084aeb0cdb106107b7d2e778",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "1fe97353b823b769e772e27b5e4a253264bf8d5c4c4e1c17a9ed7a151bc20b01",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "7f58f26b14db3c6b45df7d8d6f283f4c4a5cfdd380520cac377aedfe00537ab6",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "20f15b50188fdf6943084db1c8f64a6858f30ff6527c1b4561f1ae9235d6e352",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "0661c56cdb00251e190535695ff5b7c973ae4552bfb53c452041866d5bbf0402",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "11a2eaac02f55cefe689d81b4a67cc1ce5c8471643a32993f8c08c79685682f6",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "54e9a2b1c1d3bc9dab4e211efb484e9824941eefcf00aef715ae97c7d5904bd0",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "173e3d0e211fd180753656a5e5061b3af6693d0b3a678d2ea0badcce314fc11f",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "577cc199d25a225bbb1103af1a937111eb8d2106ae70f386c1d5404ac5f4c0f0",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "7e390a389820c2789dc6a5303a2fbc84bb2f5419f4a750fd220712690888b586",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "17a67fddde4d14a982e539248e8b4ef9db6c5ef20a71fda700b49ea7f10a69aa",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "a3758b91721363663d45d99f069159826ec8a5973c3327d85c0bd56f9b7a5395",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "42ae303f12c293be2b98a3051c9c298b97e385b5840d6d1977b2c325366bb19e",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "1ad99bd0deea7788df19d53a66816d3df95774532a8a8249bb07b3d2d06fb0af",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "60b335882e5be4cb029c0294081194e29dc872c6fa040a017027fb30350c4568",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "82a9547d964cb678e50a54e865118c23a406c8af70d1ff412113c5a431bf5a56",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "ca7c79f0f9a2d552287391b6fad25b86d9ac1af15c81dc5b77c8ab92941180b0",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "9ee18f436bdff97d89319c5e6868d89609dd28f36f1ae2dbd0c3afc5c0b905b3",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "d72342843180d62c57db58834ef5e3fadab27ea211a967bc6294e10d3be9934e",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "67561f7305a010d3b5ce12ba6abb8ae0ef3a033a1dfad2f38aef4c13d322b2e7",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "0c297ef9c98be674ce3ecd6f45f344892f5a0681a6625c3198c95c106dc1d568",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "bf59a1d5808f1617e458f19485bd823a98d702d1ab9af0851ead2974a2c7eeec",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "668448b5dfdbfff6bc951e817eeaba721e638c9822a1fbecb1193e254865acee",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "3ed3c8ea7a96924f83c0314b12c31ecb14545dba507c329dc2ea676478ea425f",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "ff09e38f200a87b5cb8e665c432aa1502e4413f10e442ff57d06c8be2f6bca32",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "66dad8cf08c97e3ccd7db970d62cec966d7ffc079c444c1bda35f64b43dc4fe8",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"8hp38pvs494rwj\"",
+  "lastModified": null
+}

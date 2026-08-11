@@ -1,0 +1,933 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-handoff",
+  "pathname": "/skills-handoff",
+  "fetchedAt": "2026-08-11T06:28:10.713Z",
+  "title": "The /handoff Skill",
+  "contentHash": "f855fec08d90ea2983842b48e958de46fbc2e921e767e321f363d3b23bf76b10",
+  "textHash": "42d40e3caf50890f4aff18929063798c320ab649d513f150d86c407da1560baa",
+  "strings": [
+    {
+      "id": "827cf9bf0ca9720d06ed500fdd77505ae98f8dcaa03271cbbee0641b58facec7",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "70dc6dc0082a5ec136692f23f6a5748d4bf07d2dc86a730b42bc6a796bf300b9",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "7ff4a8096baa15a3807991db0a2b6f868ed6f6eb59c5529f89af7490acf9e424",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "7f7d655624a872711e1a0303e8606dd0ae1d47a8a358b395c50941f25bcd54a3",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "c9acaaa78b8d6d8b5689144ad87527c8f95cf3927989576f0558d9b8984740d8",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "145c16b3dfd7c3709c584b9df9b08b6613c7414de4a7b2dba3b183360bc5bdcd",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "ed648a8588a145ee85c94f2aa9bd1a5070ab8f993816d86cb291dfd4f18af4a4",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "3db47dfba2e53adab9e872092333d8e5fb792210d464776ba5834cd608944021",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "d8c534c6bff38b39834884ca7cad45f5024246a6767a6b2c80cb073b80ce6c7e",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "b5c0fe98a9a6745743bd3ac951c0be62a1c19b9895ca6837a1ee83da659cb611",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "f515416707c387320dbb2a1ddd32ac1e91fe29d474d52979f1e8a2d61d723812",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "aee14d89c6b11d1e81f90aabdccd45a0d2283f73fc7497ff985d37aefa36ae3a",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "5beea14855bdacbad029e4a2ef40f95dd305c1b8ad75c3bb6c6a58584fd905f5",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "efa1838da740ef269aa82ba206df0f6b751f22bb99da29b23df9800e2f27c224",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "659b8710c47c5e93228e3c781568b7dc39e2876941ffab745a05e36dbbd85505",
+      "text": "The /grill-me Skill",
+      "hash": "5edb548fff722d99ccd268e52fbe25045b7b033143d6caa73359a81daebd7539"
+    },
+    {
+      "id": "8613285944cafa38f7b789a02bd45d8d3012c8e8505d00f7f190dc3b80530822",
+      "text": "The /handoff Skill",
+      "hash": "aa9ef09fd6306628ff648bd617767047dad198c95193321344b3959b78d08f43"
+    },
+    {
+      "id": "c0352ef3b872b2e4b994395cbf5d23b7fc363b31b105c1a9d01e29fae25ccf0c",
+      "text": "The /to-questionnaire Skill",
+      "hash": "3830a182a5231fe3723288a956ef6fc920624202c591cb8eccfc4631443da29d"
+    },
+    {
+      "id": "e987e14fd626be63df2ae60d3cc6ce3a7d01b580195ef6cad90edf641c79e9ca",
+      "text": "The /teach Skill",
+      "hash": "3eb25da61522976d76351eb1e464adf19c3c6b07956a325549bd111789da85c1"
+    },
+    {
+      "id": "35fef9adefcebe5dc4ff666dc50f29d4c4adfa5d70fa39e92bc750f8ee8d32ea",
+      "text": "The /wait-what Skill",
+      "hash": "e6bdcc6683fd9e297ee57882e5d2370d26e6fff3b9b03bd528804cfa7ad01fcf"
+    },
+    {
+      "id": "26d19c19494f59c45fee1514ad939d10a8368d662615a8903f4bb804c4d8fd1d",
+      "text": "The /writing-for-agents Skill",
+      "hash": "f022e2398dea44aec218f90928e961973c7eaa03026792434aebd61ba6c18cfb"
+    },
+    {
+      "id": "05bd6d24b36da741d9dee1bc97a2d11b84744bb6bf370df860ce1fe55218d5b0",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "fda7f1c0720d9ae28a52ee76bef747ba5e118421cf89e93b5b3444dfe691d330",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "c0dcf7a27d4c8edff75c299d04d7dff8f7c7035358255e75a0a0a6ffce9d76ff",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "6021f95d68a89c3c6fb55efcd576fde77be2dadd385bf67082165f6e179f9e2c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0cf5016a48a8aafe1dd7aca93faa94ec99ecd59d8cf3d572ab2ba262da3e7b32",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "9a34be96eb9ca0bf45bd101be58d8c9de0b8b9d3babf6cd462d1468c7f0dcf72",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "ac7a888b01059d7af6ea8bbff12911ef3c9fe8f74baac658d01f97ddb0b499b3",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "c35afac8c509575da4ffdb3096b26ee6396e7821122d3631046e4bdec8c5ca86",
+      "text": "17 / 25",
+      "hash": "6a616c39bf1686732d3cf17115dc2005ca9980f3a68d4600f9e4ca03e8f85e00"
+    },
+    {
+      "id": "f78f71147152049a187c533d04eca1260f136949caccefb4e5527e5125df898b",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "fce60cf97c8930868b6bc5a9dde1d3b6c323818b20edd124c37db934107a87f9",
+      "text": "Write up a long session so another agent can continue it.",
+      "hash": "30529631a29471a55854d373399d5a1465bc6d19832e07b1c3aa68049f552821"
+    },
+    {
+      "id": "1ea19b4aebaa870d370901255e4c45476a740a67450e4ad7f5c486c11c6c9a47",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2103c29c2ed71f229f3d58a2e217d558fda70045a63941dc4848da2f6ced24d0",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "391ef05af5f2413356cb9c549bde2742fa5d7fd69200d015c459f824fffa9163",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "18c14db4de353a672c822f0b59e4ab3316a5b72f34f3084ddf02c25505f4ff5b",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "6a1e6a6f6bed730f20451ad1a312b7ef4427c43b8b4c02593b0192bc086b0ed3",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "5b979ab1d6d9515609e3f258d7c46089d607ce01f01b3ba3c4759e8f86c241a8",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "8b16cd5f22bbcb8fecd1d87f327a1357c77812891992341c75e50450937944d9",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "a21de3fc6ec7d0400021883aede402d0ceee34c240a2e9647f595807b1c54f0d",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "160c44122d921397307a02e461518e8a19a6a763287b97c96b8c9e7b2939952a",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "d804f87fbadcd1cded72823c4be5476fd7b2f61ee9cb96a935a2c594b8c199e0",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "a9acf80407fc3d2ede8412469cc238852441fe464dd74e19d23f0b253ea39864",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "0498634750b021526d594d234b938891ff799894aa179ce1b4d81d0def2c28a9",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "9f776a7069c29b9750a138fd690aa41d5383328aad1e65e694bfbf8c1c3b5428",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "d60be50339c06224ed730f517d0842d514d8a7b66fc4a96b0734da3c284b3ac6",
+      "text": "Branching is the use people skip",
+      "hash": "535a747e24d219f6e9a3665c41c7feaaade371f18187f6a104b1d5494a22014a"
+    },
+    {
+      "id": "cad186d5fd44d655b6cf18113f9e712edb2396653c165619c74dad98261cef96",
+      "text": "What travels, and what doesn't",
+      "hash": "6a70db9c9e39686f70be100193c3168463c9043fa44afce559e112f80e994fd2"
+    },
+    {
+      "id": "79c1d342bc59834b93584b6094af17ee1b4bc646404c9ed93cf3d5ebfa744b05",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "30205bd34667feb7cde9ca9c0a2153f6d5aaf93042008b99089ee13fc3fb0491",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "d635c06735db1813460dbb8f37f8bc28526f17fe3a77ef12ad89198695bd8e6b",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "205bd4936c33a717fca3f3158b171e9c72792ea7f6b020657aee41b4fb4f6f97",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "54ce5513305dee6ee9913bb863d77e61f1b4cf83272232727a8c3451b590a720",
+      "text": "compacts the conversation you are in into a",
+      "hash": "9ebed86160f63e25925f4141dbaefe5eeaa8d668bfdd8f9c0b01f5ed317944f9"
+    },
+    {
+      "id": "03160bcc183eda642045cada4a7afd40aa6a83b4669074272b09a6ea1685b38a",
+      "text": "handoff document",
+      "hash": "a7cf3ef36475caad7d38ef8a144311b96e5de00bcd85418cf16a725253465f2b"
+    },
+    {
+      "id": "7413f2c1531831ab13fa6ca1bc981c0fc184562b233a91180a7917b0f11b8114",
+      "text": "— one markdown file, written to your OS's temporary directory rather than into the workspace, that a fresh",
+      "hash": "e4f57406a47bb5b65a55730146097d259b7e40e8728e32ec99bcde8066060a71"
+    },
+    {
+      "id": "223fcc4ea6cdd3a698860581ad16b7c4a52a3224a47ff9cd9df8211b220e2ddf",
+      "text": "can read to pick the work up.",
+      "hash": "0e4c1e7567ab606111dbca7fd9a7868c2e8d5458522bba30c0d72e4d2a6fd260"
+    },
+    {
+      "id": "aa524b0d5ff1c299af9de18b7265add8c2b8adf99a0c9202853ef9bd3da5184b",
+      "text": "What it buys is",
+      "hash": "ba1b3f193c00246ad8c8fb70f0a319c55d348dfd2c548268eea7e3fc95886f70"
+    },
+    {
+      "id": "5d8df2ac8e5cb472d1a60ebf15f1ead472d9328310331ce1684b0f35cfd8a81d",
+      "text": ", not compression. That makes the skill narrower than it sounds. You need a file only when the work has to",
+      "hash": "bd8f812380cdf381e14c3fc6675bef1e1bc63794c4498933eddf05a0f132e665"
+    },
+    {
+      "id": "7033e05531bbf582899a4d458b7c2f3317607aed58eb9ef48fd8da6403b67d5e",
+      "text": "— to a new",
+      "hash": "def85bb63fe43c032597e45192eff8ca0871cdcc05eeaac7a21cc13675daea0d"
+    },
+    {
+      "id": "e22891a7dbbe2b19938192ff8928ad0b04337e7806bb4514be35c4caf1f62108",
+      "text": ", a new directory, a colleague, or a side task you want to fork off. If nothing is travelling, you do not need a handoff: staying in the",
+      "hash": "66177cc1268e3935f93785c1e030abda1714c45626255ee706bec6a437141bba"
+    },
+    {
+      "id": "6f028aa9491b5b728b3f7f26dd9e360e6282462cbd112059095f9b567652f509",
+      "text": ", a",
+      "hash": "a5c172abdd6ea1e886ffbda844ab1ea24af334c8fa53ddf7adf81ec6a15c8bac"
+    },
+    {
+      "id": "f761fd87ad16b243dfb625c22d3ed6f496a7524986ae82cc7ac4f40bf85600df",
+      "text": "cover the ordinary end-of-phase case, and",
+      "hash": "a727da0e217a896144ed898e6e3c4ebdc366ea45b542fe0d8b1ae10527efd13f"
+    },
+    {
+      "id": "3f5ef7ab44a0821459546abb0fba5fcbaa5ffdbf51c99c47e365cd156ed60549",
+      "text": "covers it more often than this skill does.",
+      "hash": "ea720b384a7d7df4a8ab1dee4d069424c1e72dca11aff541faf515c79786e506"
+    },
+    {
+      "id": "4a41b576bd39dcf334b3061b8f2b8601c38a66caa80e24ec4fb880f08db8dda4",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "aacf624f4c9464db9ae33d4fd94ffc333046ed28fc53b8502b3b200a10212850",
+      "text": "— the agent won't reach for it on its own. Pass a note about what the next session is for, and the document is written for it.",
+      "hash": "296b19c4ea30d2af4cd52b0e6e713d5b64255788ced092f823469f0d0f4cb29a"
+    },
+    {
+      "id": "02ff7c5cab4eb22bfb4a36c6912a1069dfaaf8ebe4e2a89c715f7aef9a7052fe",
+      "text": "Four situations are the whole trigger:",
+      "hash": "5e32f4a11cf6db1e17b92837ee235521f3ced3747c0dd8cbb9e179817a2f5adb"
+    },
+    {
+      "id": "2f6b45ea88fdbf2b2fd6a4c6f2631313a09ab7ba118a342e13332a56a1cd58d5",
+      "text": "Situation",
+      "hash": "b3aeeb32a0c7c5d45b6e955370301ca1c8d271eaabafaf9125e371ef28984223"
+    },
+    {
+      "id": "2d11f5f34b1e050aa74980aa91ddf116c9e84cc6e130198620703d3c952f0095",
+      "text": "Why a file",
+      "hash": "fef1173c60a087e023e90b33f3778090103a758aedd1f4143d836941751d0437"
+    },
+    {
+      "id": "f6e152ed1f31ba56ed84e52de8b9d25b86b02c14932bcee32cdf31f54a95c9a8",
+      "text": "Swapping harness — Claude → Codex",
+      "hash": "b50610909a5fffd11c97a09475d9d573fcb69da2cfcfac3aa59b1fe53f666ebc"
+    },
+    {
+      "id": "9460039c91194a763efd1daf77efbbfc9f263fb69050c4b1b0474b073c3713fd",
+      "text": "The new harness cannot see the old",
+      "hash": "aa11cd0a9da7058240735544051d8955471a3198502b9e62d62f9ccb818c9803"
+    },
+    {
+      "id": "9c18a9ceaa66e6bfdd3f34b79da4c0a655d16f69e36614122462c508983a95b6",
+      "text": "Moving to a different directory or repo",
+      "hash": "82c57fa64fbf4daf14ea4bfe6ff9dba00aa5c78b51221ffed929c156bbacc0a3"
+    },
+    {
+      "id": "2fdd958dda8258e7cccb34f44fa1e056007b633eefa4a4968e1af4148e91d700",
+      "text": "A prototype directory is the common case",
+      "hash": "f1549d2d75924df6a504f3b29b8e5aa9d0891d1f114e6cd1044a04cb46915510"
+    },
+    {
+      "id": "b4da14bb5527e1fdd4072949238abb727e006c203b0234b1e04ddba55707ece9",
+      "text": "Sending the work to a colleague",
+      "hash": "d6f613174ca9072244f50247b00b9e59d548ad65f5fba844a2cedc66784c2785"
+    },
+    {
+      "id": "f1a0db3df568fd64a1a549acf59e9693b67e4f5164dca5ed3828bf66d7296792",
+      "text": "They need something they can read",
+      "hash": "7ad78cd655acb448c749a3f22557be60ebf7fd389eff86fcbf1ae722c2d05ceb"
+    },
+    {
+      "id": "6959cfad06982077e5bc43319bd2a164079262edf0d3114ac3092a5bdbee62d0",
+      "text": "Forking a side task found mid-phase",
+      "hash": "1280041b84898ec20fcaa98efbb90bdf1fc585f8702d7d808efa5fc13dc8bc3f"
+    },
+    {
+      "id": "06c3bd617487bc380563b217b8f1f715e2e470f9cfc00ee7e70192877f64bf1b",
+      "text": "You keep working; a second agent takes the fork",
+      "hash": "1a9398a1b77c02480b73dd2fd31a28c1fcebdcf82951b3fe85691a1b9ce8bb92"
+    },
+    {
+      "id": "c2722281cec33c6f579d426b501b3f3758023185467cd222e49da71052eb5279",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "bce0443d1577c98cfa5300fc1e2090094988e3ef23342bd69f139e8d6ea6e1f2",
+      "text": "For anything else — same harness, same directory, you are done",
+      "hash": "ed036e55f0967335fd6ec38a5acadce9227097a76b55103eef5177c07de0ae3e"
+    },
+    {
+      "id": "77ba97b6bef0ef191e04a06d31621c4a6ba211f2a26acf75d268153a95ec04f2",
+      "text": "and moving to implementation —",
+      "hash": "3433dbe569265ce627b77bb4144b08e5381e3b166f01cd1767da81c3e15d1570"
+    },
+    {
+      "id": "13ccb8d6a540aa695cfcd8830df53a0aa7451a046ccdea6d64a2859df21dcb0a",
+      "text": "is the move.",
+      "hash": "24b67b478845fb1c4cff57073177ae1a5e4093d43a83f02a9dd43a0113509980"
+    },
+    {
+      "id": "327b1353847dec29cd4d8a7f3f00074c66150ad59a55b62af9c81efd15169460",
+      "text": "carries the ordered tree over all five options at a phase boundary.",
+      "hash": "9263b23dff8c66d1a90861455f415af63f87b1c396acdc77fcd04afff0d03689"
+    },
+    {
+      "id": "7fc27597dd83b178959f365e24bb6d44697d5b060006321f7e0f4023afec8226",
+      "text": "The skill's description reads like session resumption: write a summary, end here, resume there. Read that way it looks like a worse",
+      "hash": "841f05b1b9d6f929ab0ba41e94310fd6454fb344babd9a0794f36f5db9bffdd8"
+    },
+    {
+      "id": "6f54c368c4ec3c65f6cd26b04e5c787aa2d33e7ea73556260506f2b0fa61fc0f",
+      "text": ", so it gets skimmed past. The fork case is the one worth knowing. You",
+      "hash": "a6c03e675a728c90287d15b713d111d211de9e713ad17d40c13bdb81304e2380"
+    },
+    {
+      "id": "7d7d90f43cdea761eaf0dde5f518c762d5d57119549fda9d4abde8df789fb62f",
+      "text": "stay in your session",
+      "hash": "8eae32cc0fdb351687e3bf47c46d0b042be188c463abba364faefcecdcde84bf"
+    },
+    {
+      "id": "9b66c43baddb2ccddf0e999e81307fd5e68a763116b490b3e6747910118cc3c0",
+      "text": "and hand a copy of the accumulated context to a second agent working in parallel.",
+      "hash": "be70b969daf494d6b14b47783526002119fa293ceb232018f2180e0d22329f1d"
+    },
+    {
+      "id": "f5143d72a7b1111a46183da895852287aac8b5d12ce11f03177f8893780516af",
+      "text": "That is what the detour through",
+      "hash": "736d7c78bc68b3b16d4a9f3aed49d4a221c68e7161929deba00e53c035892991"
+    },
+    {
+      "id": "87e622477aa7910272a9adac732980a40d75631f90e673b15a36e3da7fb5c27d",
+      "text": "uses. You are deep in a design conversation, you hit a question that only running code will settle, and you do not want to spend the thread you built on finding out. Hand off to a prototype session, get the answer, hand the answer back, and reference it from the original thread. Two crossings, one live conversation, nothing re-explained.",
+      "hash": "a2b56f9c1fd2089577c37a0dde3d0f3e3edfe55a17b641639be23d0f8f3abbec"
+    },
+    {
+      "id": "4e1f421b202a1e97639543e42d377433dc786a4c35bed58fdc76db5cb2cf66d9",
+      "text": "Three of the five options at a phase boundary preserve different things:",
+      "hash": "b8b337a76b053d1ed2a93dc4e521bafcee9541ef83cc804085533fcff77101a8"
+    },
+    {
+      "id": "7543c0cbbd358faed6e5807b91cecc8b20a08facd410bf22d5787c28e6cd0c66",
+      "text": "preserves your intent,",
+      "hash": "70e859c165266dac24f03ab9f221a43476c2caf206ceb3edd230e09cb9d95f39"
+    },
+    {
+      "id": "4903c6ca14b67543864c068498cef8cd8f0bca89e4a8d85f5187e0ce39af03f1",
+      "text": "preserves nothing,",
+      "hash": "49557aeff85d8545a3cfe281f9a7c7c412cb3db43981ee1fe180b61ef5fbd9e6"
+    },
+    {
+      "id": "6aeb083eb860c6dfb3868797e42c628ea315c5a711f27cadd75efe5fa1f28344",
+      "text": "preserves the work's ability to move.",
+      "hash": "7b8e7ad97fa7e9d9e9c1ac6595455c73e676d5c7a4ea75d8f2ddab46eaf6ea5e"
+    },
+    {
+      "id": "ead4b3230989ecd7b16f88e291cc6a2c3ec7854063103668b6a5549d860a8a4c",
+      "text": "The document carries the live thread — what's in flight, why, and what's next — plus a",
+      "hash": "5c23f70764f2e327ad97e53b99eaeae1ba1055384e745b307c40b192946fffec"
+    },
+    {
+      "id": "4fc896baa1928de58c54231f407ff35977322607dc95d71b8dd1b7e48a7fa9ef",
+      "text": "suggested skills",
+      "hash": "6fe2cad6983c8f5fbb80e1929a2f09cf8e68b6c9466ba1afe9ecba1fc27d7ad3"
+    },
+    {
+      "id": "7b62bdb10b361d269da38bdc23760550eb3beabccef518352fa82e1f5552929c",
+      "text": "section naming what the next agent should reach for. Secrets are redacted before it's written.",
+      "hash": "add17135f0cc1ce19b4783e1e6ebb7d17913a6fa9c306b6abb3ee15221f9c455"
+    },
+    {
+      "id": "3cd45622da4ff8473628d5a4880bb675b7f6c30cf10e910ef277bda3bfd726dc",
+      "text": "What it deliberately does not carry is anything already written down. Specs, plans, ADRs, issues, commits and diffs are referenced by path or URL, never copied. That keeps the file small, and it keeps the settled detail in one place instead of two that drift.",
+      "hash": "72583c9abcfd7683881f1b6133e0d9ca8aeac444ac31b53888c7ed07f0a031c1"
+    },
+    {
+      "id": "9dace2771dec8a2d3e4f107b0351cb964aa455b0fc671256532bc84f463c5f57",
+      "text": "Handoff or compact?",
+      "hash": "aeecabeb384ff20bc9bc89ef7867193b1b91fff42245e70eb692f6dafd409ef2"
+    },
+    {
+      "id": "faf1dbafc4b813c16504547fece2d93f57aa358da0171eba3bc090686776e4f4",
+      "text": "unless something is travelling. Staying on the same task is a compact, not a handoff — same harness, same directory, and you need to stay in the loop is where the phase-boundary tree lands most days.",
+      "hash": "9e2fafa6841a1758df43578acfd7b6052450b662b594561d57d7ba83ead16e65"
+    },
+    {
+      "id": "0ba11650689c5d1b02bbaa1a654c656f205d86f708af8cfa254fac9473f4598d",
+      "text": "'s advantage is not that it summarises better; it's that the result is a file you can carry somewhere",
+      "hash": "ee772fef760213a4f91b6a1cedbe8425a6674a53927162a21f70ccbf7f0ccc09"
+    },
+    {
+      "id": "473760ba82d89f04890bbd083f7b5d5a8cfdd2ecff2fdf9f82ec8b23318eea6f",
+      "text": "can't reach.",
+      "hash": "fe9741fd333fdba950d7324e2fa746deb8064a45b5d32f118d93d55b68d20923"
+    },
+    {
+      "id": "8d32c2cf06b3d1e2b818288842300474c19c113440efbc503eebb0cd8fd69b17",
+      "text": "So what's the actual difference between compact, clear and handoff?",
+      "hash": "2388c209f87f86caa7a034f23663fd08743c4557288705c489048dfeaa50a867"
+    },
+    {
+      "id": "ff0611f72d8741376278e77d7feb135fed3e395a7482ec572555cdb3d9f9261f",
+      "text": "Three different things being preserved.",
+      "hash": "2d9b5ddd84d6b24d36d938b91e57bc1022065cfd9ed5bfeb465b45335e837a0f"
+    },
+    {
+      "id": "d04ee5979dd8961cb92805a2035915cf38d781a888eda88116ef531842fbabc4",
+      "text": "compresses this context and keeps you going in a fresh window — intent survives.",
+      "hash": "daea676595cee3b054fb5ed7a95e79035298748e7ed184ade2ef8309391fb392"
+    },
+    {
+      "id": "65c8d6b7be247a4e2fa76e84f91c491a094f2214c6e2b8c101832ecdb79435e3",
+      "text": "empties the window and starts from nothing — correct when everything behind you is disposable, and one-way if it isn't.",
+      "hash": "670a4fbee4481decf9e096598b10104164139f1dfc00f887104249202e1f9af8"
+    },
+    {
+      "id": "b76ef4bbd6d03fb168521b91e2859fc2c72caf035788d9b81af96ee568157c4a",
+      "text": "writes a portable file — the work survives the move to somewhere else. Note that all three turn a",
+      "hash": "1e56c536fb6f0acdb80eb015185dbfecf4e5b63585bbbc594045740907d537b7"
+    },
+    {
+      "id": "ae5e9513b7a58afb5b69a05cfe0df119cbcdc90d378b496a315084e4f527a5b2",
+      "text": "primary source",
+      "hash": "4c3f03bb625194b79deeff56ee12d13258ff531de6eef1fff5529d0fe89a1404"
+    },
+    {
+      "id": "e08083287058fc28a3fc8c555c9fdbb69f9f2c5e66c56ad7be87cc0f2ae81423",
+      "text": "(the conversation as it happened) into a",
+      "hash": "75a3bcc29f4d6c536c22fcc8946d5cebcf1186871af5ae6576b0f2e505b2a3bd"
+    },
+    {
+      "id": "d76d68542404453991e41f419f5335c89da646dfffeb7a66084bf3adc048ae54",
+      "text": "secondary source",
+      "hash": "130ab3f910dec4f94436851c6b9a50abec9e6cb96e7aadf7c47be2e57da1c894"
+    },
+    {
+      "id": "b0321766f7342e1c2afc8719d166c875394d294c4b767c6348bff96ffc296140",
+      "text": "(a summary of it). Continuing is the only move that doesn't, which is why it's the first one to rule out.",
+      "hash": "9f649b394368fffcdbc5cd985082fd6c12a9e2ca4bf1036c6196110d1ee186a4"
+    },
+    {
+      "id": "3ce92f22c7b244af83c31d95aacb125c35befdd2306870c184a36c8ae7ae1252",
+      "text": "Where did my handoff file go?",
+      "hash": "b70693ec6f1217f65102b601b67d3cf3cd2cf683889b877512be777c7c8ad346"
+    },
+    {
+      "id": "476854773ad15c58d9bf9a30f18d8858da141c8f8b4e8a1f4111f0b3562efd6a",
+      "text": "The temp directory, which is the most-reported friction with the skill: the paths are long, they differ per OS, and on Windows agents sometimes take several attempts to find the right one. Ask for the path back and keep it before you move on. Temp is deliberate: a handoff is a transit document, not an artifact you maintain. It is not a durable one either — see the next question.",
+      "hash": "d59a59243cba2e8f79b5e02584a479957733a06e8b8b832f6035e7a6daa7e52d"
+    },
+    {
+      "id": "5bf2560a5e5fbe4c1504ddb681316b7360ec50e57054fbe5270af8f37f757e6a",
+      "text": "My handoff vanished between sessions.",
+      "hash": "33dc27bf57cfdf85c6a55bcb6d59a5290e00af7d5b50b938ec2ba75921afc0dc"
+    },
+    {
+      "id": "1f673db3b3a3cffb9931258d96c17287b2acab1e63e917f114f64e5848a6c20a",
+      "text": "Some environments clear temp between sessions — Codex is the reported case — and",
+      "hash": "97aacc209fca9d4104b762368fbd6b449a2234cc7d813e07896435f145ee60d2"
+    },
+    {
+      "id": "b0012aef1fb8c2c14209804b0fe69379d17903892fb86ceab3f82be1c0d2d8d5",
+      "text": "goes on reboot. If the next session isn't starting within the hour, or is starting under a different harness, copy the file somewhere durable yourself as soon as it's written. The same applies to anything the document",
+      "hash": "77e2ead80bb393039a78563d0e3e137c41135c62a062f27dfba384b7c2b9ea79"
+    },
+    {
+      "id": "e3fd5c05d986d5fe082ba9a04a70d681e21464f2586c2b89831565eace36cb0b",
+      "text": "points at",
+      "hash": "42c9bff437c81ffe14f1e468cb7cceba63023e2471d143dccdcdee815ea57726"
+    },
+    {
+      "id": "2e92173c94cc0187559d96b01a338233d5e91dc07cf518cfda543a3e155061ff",
+      "text": ": a dispatch that references other files in temp is a dispatch the next agent can't follow.",
+      "hash": "2692bca390049c8d637d1afade75594f697c413e7028995467a824bf3d3df08f"
+    },
+    {
+      "id": "8a09d79f36fe6183ada239bb0bfda4502faa1e0c5d361fd04d516e2f56d050b5",
+      "text": "How do I actually hand it to the next agent?",
+      "hash": "87bdd2277edbcbc1960096831020f40374c8693ef7dab5d2b20aab5f1036535b"
+    },
+    {
+      "id": "8d9930ae123f73ae3512111d5d5cf1961480fd131af5978d4b811b0f916ca3b3",
+      "text": "Open the fresh session and point it at the path: read this file, then continue. Point at the file rather than pasting the summary into a shell command — a summary containing backticks or",
+      "hash": "5c9a060fa1c21bcf2b57221fdf96eaefb19a7dfbc054515547ab9d64db51c581"
+    },
+    {
+      "id": "1eedd63c886eff43ec831d02373b131cb5ab99800b81960dc159a5dadfc9b1df",
+      "text": "gets mangled when it's interpolated into",
+      "hash": "9b7c36609f159d85fe1bd4feb307e80b4f85e6ec5840a974bae085fce31c23f2"
+    },
+    {
+      "id": "bab22935bffdf752d7a9a94d208db654feb9646cc46eec218bb8ad1d0440729a",
+      "text": ", and the usual failure is silent truncation rather than an error, so the new agent starts with a quietly incomplete brief.",
+      "hash": "a50523e7f5c926c0f5fadbd316192d90225e93d0e45abfa6e3274eef0deaaa51"
+    },
+    {
+      "id": "d2d53468b52f720b49da533ac70a8c014e189a039c1f66c1af04e59ac12f843d",
+      "text": "Is this the same as",
+      "hash": "43f3427f37507b0a450f23c61e67b983829de118e215a5a40874b6ae84b1bbf1"
+    },
+    {
+      "id": "d31481cb7bb31736353664da62f01f8ed8ce5f0783e61cdaebae36bcb413a283",
+      "text": ", or the built-in",
+      "hash": "0009ee755b0630f1658375d2a7c59cde3835260881b44dd7f78bc9a81e324a3c"
+    },
+    {
+      "id": "a60c81ecb2d0c470fd5c7727e89c536efd49c5141fc3ed63e40c44d65f2f0592",
+      "text": "Analogous, not identical, and",
+      "hash": "485ccc05c4655a3dc8bafb37eb3f24c32f8ed9ca18dac9973423441de7bf574d"
+    },
+    {
+      "id": "90533ba084151b104bb69204785e851cb27dad96c4d39f80201a5c112a96e4bf",
+      "text": "isn't a shipped skill here —",
+      "hash": "91e72e2163912bce514aa1f280bbe57e687e445d1f058bf3db69a94871ea69c4"
+    },
+    {
+      "id": "f73685ecea7a10b7874ecabd234d4a145d466b45cd9ea113805229d8c696791f",
+      "text": "is the canonical name. A fork inherits an exact copy of the context; this skill produces a",
+      "hash": "201430ae65ccb3fdaab72412fa28c6b8eb32ab0f2ae458372e072f9c2daa4fa4"
+    },
+    {
+      "id": "26adb503841eb62fd7afced6f648bb635414bdb28dddb03439366fe420272560",
+      "text": "compression aimed at a stated next task, in a file. Where a fork will do — same machine, same harness, same directory — a fork is less work. The file wins the moment the destination is somewhere the fork can't go.",
+      "hash": "066afedb41186ad3f6aee66c235bfdcc6ba7eb557e14ffc5adbfce91114fd5b6"
+    },
+    {
+      "id": "a02ef8ce084595a77269cbb54547a9a3839c0d325b5820b97f991500597ede32",
+      "text": "When does something belong in",
+      "hash": "d7a32ba45b0c39336fd870ae55f8f949a21c7422dc2f7b761796104e5b207201"
+    },
+    {
+      "id": "1903d3b9efddda9c6ffad1908e33ee8849f53745e8c31f192f0887862aaa2224",
+      "text": "instead?",
+      "hash": "1c956f7647d7a7cfac636e410f66f894e502cabd7027caf492037d7e17945f90"
+    },
+    {
+      "id": "d966bf205fd78721ce25e7cd24d4ee5ae116613a33d1de8e6bf9139c13456323",
+      "text": "Ask whether it's true next month.",
+      "hash": "9d2fba14f8a601e8472100b7836adf2aa45d263396d743401fd96980a96db946"
+    },
+    {
+      "id": "df745fe45b0a301bed75829de6a4956afcf8702314432d1043cdb11cd5eb6d96",
+      "text": "is standing context about the project, loaded into every session whether it's relevant or not. A handoff is about one piece of work in flight and is dead once that work lands. Facts that keep getting re-explained are a",
+      "hash": "cb65e2ce54ea3fef3928ec1ddfd21a08d01ba31edaf1873122e8893c84538d4c"
+    },
+    {
+      "id": "fa806fb24ad9bb762fd07feb863cdb8dda14b0df7f99f80433779e8584bd3ac9",
+      "text": "problem; a half-finished task is a handoff.",
+      "hash": "c28b546a50abbe1182e2c33a70e8c57cf22e7e8b527afd035d01553c6755fadb"
+    },
+    {
+      "id": "0512f587a6fb95af5a7c9a4f0a78124248d7cb16b889d8e3e5395e6d6aca217a",
+      "text": "It captures the what, not the why.",
+      "hash": "89489a8748ccbf3a6c9d29184ab935b7ee194da9bd5588811e3d38c6b9d366b7"
+    },
+    {
+      "id": "dac4fa7d7a22ff50c9a077a87bb18fe223824dd72fdfbe0fd41a0ea1f3e641cf",
+      "text": "A fair and repeated criticism. Two things help. Pass the argument — tell it what the next session is for — so the reasoning that bears on",
+      "hash": "0088462034cf8adfe3cbdc37a1f4a36eddb6c582cc0e1ebffea466ce99171f36"
+    },
+    {
+      "id": "ad32f798f81e4f1536cb4945bef0ea13cd4751821ee2bf3e401c0d78565e972e",
+      "text": "is kept rather than flattened. And watch for confident claims the session never actually verified: \"X isn't built\", \"Y is done\". The next agent treats the document as a contract and will not re-check it, so a belief written as a fact becomes a false premise for everything that follows. Read the document before you hand it over, and downgrade anything you only assumed.",
+      "hash": "2746639cae580bf86ca89744032c210b2147a97f5e680cebd6c43bd9d07e49ee"
+    },
+    {
+      "id": "8a811d5e2e8ec2b46b33aa98c73f79e95a17037c3001917c00ead0fcbd1358b6",
+      "text": "Why is it a skill rather than a slash command?",
+      "hash": "6e54375bad897c8cbf9cb9c9f7731c0cbbaa4938d4ffafaf36f5bd6f57272e31"
+    },
+    {
+      "id": "7ba3b457a685aa8e3e1d5d0d6c21119ac055c05e7c9a30fd58640fa2e2ef0ac6",
+      "text": "Both work; they suit different situations. As a skill it ships and updates through the same install path as everything else here, which is what makes it shareable — the constraint that the agent won't fire it itself is set by its frontmatter rather than by the mechanism.",
+      "hash": "c3cb69c039a84ebed3860c236a757af99f7ca7ea6bf09bfab41cad5a9332be5d"
+    },
+    {
+      "id": "4eadc75450b3cba1b9d23e3a00036548397d3ddb163c98dcf9878506320efa02",
+      "text": "The document is a small fraction of the conversation, and the specs, issues and diffs appear in it as paths and URLs rather than as copied text.",
+      "hash": "605af55ce00ebc69efa752d1d0023c0571aef9ac8e56f8a7de643add7ead2ae9"
+    },
+    {
+      "id": "12a755b6deb750b0ba52c2ea5aef1d3d627f552f67f342f3b78a9fe1f2518247",
+      "text": "You can read it cold, without the original session open, and know what to do next.",
+      "hash": "121415ba31fef841fd415aeba087b763d25a62685dcab24d3be994bafbc2e617"
+    },
+    {
+      "id": "badb0efbf963653b884ba59415294d7f5d7724d4fe66dc008a568ea6a4d4032a",
+      "text": "The fresh agent starts working instead of asking you to re-explain the setup.",
+      "hash": "dc374feb401e06670b38266f0101e23399e9dfee075e8cc6b2af7a11c8545ed6"
+    },
+    {
+      "id": "526fd3afb5bfb756992903e09cc096841209d669e154bb2b39080f0b2257fa69",
+      "text": "In the fork case, your original session is still sitting there untouched when you come back to it.",
+      "hash": "22e069cfad09434b62422399c8f9ce2df90b68be9f7c17e3e89e7950ca5faab1"
+    },
+    {
+      "id": "09cc5b237ac92edbbecf37edff1dd9327ba61da3633c84fc47a0f15596792220",
+      "text": "The suggested-skills section names the skill you'd have reached for yourself.",
+      "hash": "1fdfc18c67fbeaeccc34f8ed3f2b3e83b9bfcb1e33f0fe5fc3344fe7b4135550"
+    },
+    {
+      "id": "44ab1f0ce9d38aa50be87dea7cd96c60c222fc5544465c973995461017eda2f0",
+      "text": "Nothing in it is a key, a token, or a password.",
+      "hash": "9369b6346416aaee743b34d6e6d3e8225301e14923fe2cb3cfe77e72a6b2acd7"
+    },
+    {
+      "id": "30d06a95896e11e9e85646646596c67f71b98b36425a93fc3278102c7b0adeac",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "9bdf4c590b1ce46610d9536fe2c2af008e86923d1b7a7e7b244b84c14889284d",
+      "text": "reach-for-it-anytime standalone",
+      "hash": "d866ad9486e99acfa51e5496845af40b9f5c567e601074f82f3789e87f077dee"
+    },
+    {
+      "id": "1de2fd6ad1b6eb96b842562a95688d0aa9c372c32fe5dae06f8bed6684946b30",
+      "text": "that lives at the seam between sessions rather than inside a build chain — but a narrow one, and the honest map is that you'll use it less often than the other four options at a phase boundary. Its closest neighbour is",
+      "hash": "009c54a3fa25f94f4528ca577a0f87dec7ed381fd50660b25ecfaa8126e37db5"
+    },
+    {
+      "id": "c52df9680b94be8dc5aedb1b60e81f775a5b1e0ebedecc139163864c8735408f",
+      "text": ", because a prototype lives in its own directory and the round trip out and back is exactly the crossing this skill is for. When you're at a boundary and unsure whether to continue, clear, hand off, delegate or compact,",
+      "hash": "d5182a5c46ded7cad949109b2e11d9d92aff5f09326e9313170df1807957c0ed"
+    },
+    {
+      "id": "3091b547fc828c6982b0e4308d8301265892aacf2c668d8c0df200a2ffb8b490",
+      "text": "carries the tree that orders those five — and routes you over the rest of the set.",
+      "hash": "7cbc528eebaa3a43672da66c81e950827b01bf93c2124191a0709869a3be93d8"
+    },
+    {
+      "id": "021b10b8ed36af75a9fff959742d114dbc3c04420c06a192baef83aeb0c15d96",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "fcd662aaedc53eef3c7f0d0b4c9d9eee62b3ff227ec7b9e5a09e030fb9cd5664",
+      "text": "Let the next agent resume the work, not reconstruct it.",
+      "hash": "67adcea06b576da4512617aa347d5f0c6052b64421590d08fdaf6d16ca0ef691"
+    },
+    {
+      "id": "54393262480097bfb13ffaebf93c85179edbe8c4a44170d661b089615f127254",
+      "text": "One command installs all 22 skills, /handoff included. Seven free lessons use it to move a hard question through a prototype and back into a reviewed workflow.",
+      "hash": "c64a488c1a10e3295fece1976d772f62a11ad135e323eaca9b02f764cc214100"
+    },
+    {
+      "id": "1fc9cccbac674c4c3618bf0c8a298d503e31697662f1b540a30ccdd1f129e949",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "4b79533658cf37ff8da6a295bac445c53ba5b7f0cce6c72cc002763edffcb41d",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "f2ed44919ec7f3b9a6b864bbba6add3c9b807b4ba317aab2fa4a40d4bd94ee1b",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "887a8f74d4f62dcadccd33e842f2fc6336c4100c5f3cab5857eb2c4f288ea4c7",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "aaa5d170bcc3a19979725f84146f61e054a654ab2f9d7dcab7f21e7760914678",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "1dd8de9a93cb0171413380120eb887426ccd0e95d8f30b592498227b2c4095aa",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "8b0dda0d34e810f112784faf8ed1a9d3a64ed8488cb151bc1ed8b144cf1079d3",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "bd4c7e4b3e6b39d7d4a91e33d24970d39f264341da1e3d880c99523ef93cd9b4",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "a3e9d3b51bfae0f978e524493f01ddb667b26c52ca680aded2169886a8794af9",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "2e7e9eda3825fe4753dfca6900bfd2384168c5832d38cafbdc449c1c69a30414",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "33bdee6227ea08492cc734f84c4f3f3d67223472f1dd14fefda336028f69956d",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "854473b9726fb6649a6407158d9da633a03591abd4f29996d346b1d0a24379f9",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "a21112a9154f58435542f9438210d9beae61c0413710c45dea72cb0623194d98",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "16c288065ebdd6608f4346bf9cfbe8968a82c0bda315d1b20010e9e4df8dd49e",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "89857e5612901ccb1f6ee97d5cf80be0ff1725f79c8474a512421e4f5aa88c38",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "ae2867a5227d0ffebf80e28c338febe5ebdc6d1a14ee80f125a640678d17d2d4",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "c6336877563a6e56f2fdaca2521093da2f0e44c2481a76507c8b9d280e2107bb",
+      "text": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+      "hash": "a8132b4f77ca14f2ef5aa84bc8386bb2e8acc3ce746a8209008bcb9af5610bd8"
+    },
+    {
+      "id": "a5d5e48807be35a86d96f1d060a7fc13052577905757143442a6d148e07ba3ec",
+      "text": "grill-with-docs: Align Before You Build",
+      "hash": "be05d2e43227ed19ed8969d06cfd693562249b8f6e7041e1da1df95519b05489"
+    },
+    {
+      "id": "318b8d24e3af2fe935246dee3ad94e7dad5c08e0edb2cfdcc641995af6368303",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "61a218b017aa11881418c6d4d423ed7e94f335f231b5d79442e1bb33465eb570",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "73265da476903c5a4352cd22551fb3c7e31e96fd011717f24674c78ed13afb91",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "56e9e9884f7f0ae2c3df94a29ec9dac6f7f36e36eee19a7bd14fec9e29060579",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "765698d3857785495db268b0867e16ecf19fd3fa53cfcbd9bb1f682f3a25d0ee",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c018b35df6e7c84156500e7936bb2dd6eefed88c661af24b9825e99034b64576",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ce80439e5535cecc3f70977b0b843bf1b47fd4c338706d3c896c8e8d81f2bb27",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b0a43702df1145828efd3e9f54d644ba7ca709295f16738c58f26b69dc2b89dd",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "4f2c6941a5cb22bf9276de471c31120554394b543f106de84de12ef9c6ab682f",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8d20ea409afa78532f4d252ee0f1a6875572fb131c92a3fe2d703882340d98f1",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "7abae466cd5c1b74d3c237fca1a8ad6c16cf5b80c25c23b3b0f50008a42d314a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "3ede9cf90eab69bcddbe28744c92e9ea09c7a5c17125f0037427891c39d658e8",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "1a03b9a9c44b3e840d93706cfd09d605c96a6b9bdff0c949551225d0993a5f2b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "fd649cb5d39d9a7d8b177576aa77811c3d5941e720b6ceb13920a6512a079d4e",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "c65bf283c65379678da9545bf6ff605d87f3a376328aecf9a9987b0f42df7f19",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "958a754b84f42e9b7de2b6c47be7aca2ef8a52ec5edcdea851220c58bb0231b1",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8b41756e8f39855c49bb0d5ac0b210fcd726976b742c27cc81e9fb154d64153f",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "8d51d304c1060f7399c89afa0c99f4b6bf67684b0bc8877dd09add421d727caa",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "0c9f54f8d05370738f4dc5ab6f5befe4029be3cb3ebc433b5941ff9a4497b002",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "81631b19f6eddd7133b9758c4abca79ce1f55e50ebe21af487b0e72f745a3a89",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"1wkpgghv7w7vul\"",
+  "lastModified": null
+}

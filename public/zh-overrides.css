@@ -1,0 +1,97 @@
+html[data-aihero-zh] {
+  --aihero-zh-font-fallback: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", sans-serif;
+}
+
+html[data-aihero-zh] body {
+  font-family: var(--font-sans), var(--aihero-zh-font-fallback);
+}
+
+html[data-aihero-zh] :is(h1, h2, h3, h4, p, a, button, label, li, dt, dd) {
+  overflow-wrap: anywhere;
+}
+
+html[data-aihero-zh] :is(button, input[type="submit"], input[type="button"]) {
+  min-height: 2.25rem;
+}
+
+html[data-aihero-zh] [data-aihero-translated="true"] {
+  letter-spacing: 0;
+}
+
+/*
+ * Preserve the current page while a same-origin document navigation prepares
+ * the translated destination. Modern Chromium uses this as the full-load
+ * fallback; normal Next.js client navigation keeps the shared shell mounted.
+ */
+@view-transition {
+  navigation: auto;
+}
+
+html[data-aihero-zh] main {
+  view-transition-name: aihero-route-content;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+}
+
+::view-transition-old(aihero-route-content) {
+  animation: 150ms cubic-bezier(0.4, 0, 1, 1) both aihero-route-out;
+}
+
+::view-transition-new(aihero-route-content) {
+  animation: 210ms cubic-bezier(0.16, 1, 0.3, 1) both aihero-route-in;
+}
+
+html[data-aihero-zh] > [data-aihero-route-progress] {
+  --aihero-route-progress: 0;
+  background: var(--accent-fill, #f5c451);
+  box-shadow: 0 0 10px color-mix(in srgb, var(--accent-fill, #f5c451) 58%, transparent);
+  height: 2px;
+  inset: 0 0 auto;
+  opacity: 0;
+  pointer-events: none;
+  position: fixed;
+  transform: scaleX(var(--aihero-route-progress));
+  transform-origin: left center;
+  transition: transform 170ms cubic-bezier(0.16, 1, 0.3, 1), opacity 140ms ease;
+  width: 100%;
+  z-index: 2147483647;
+}
+
+html[data-aihero-zh-navigation="pending"] > [data-aihero-route-progress],
+html[data-aihero-zh-navigation="complete"] > [data-aihero-route-progress] {
+  opacity: 1;
+}
+
+@keyframes aihero-route-out {
+  to {
+    opacity: 0.76;
+    transform: translateY(-2px);
+  }
+}
+
+@keyframes aihero-route-in {
+  from {
+    opacity: 0;
+    transform: translateY(3px);
+  }
+}
+
+@media (max-width: 767px) {
+  html[data-aihero-zh] :is(h1, h2, h3) {
+    text-wrap: balance;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(aihero-route-content),
+  ::view-transition-new(aihero-route-content) {
+    animation-duration: 1ms;
+  }
+
+  html[data-aihero-zh] > [data-aihero-route-progress] {
+    transition-duration: 1ms;
+  }
+}

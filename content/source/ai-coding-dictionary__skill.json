@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/skill",
+  "pathname": "/ai-coding-dictionary/skill",
+  "fetchedAt": "2026-08-11T06:28:39.762Z",
+  "title": "Skill | AI Coding Dictionary",
+  "contentHash": "f20aaf9fad2b39e36f3e8fa1d53e4861ab3f4f678808d44826246e943ad113dd",
+  "textHash": "f0a6fd5b0ec25486ccbed50906602287eff4c7caf380cf8fa75ce8de4415ced8",
+  "strings": [
+    {
+      "id": "cade0ef6258455ca08a867ae0604a33070f3146bf40b697c64d01123988d9b6a",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "74475e27cf276bb38b0c2bf624aef662667f7ad197fcb580bbd59f4c3dc230c7",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "e0b06234b9450763bf953ca0d42f8a11d0edcd5c4bb4863de49364efacf57082",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "4ce34374db459d9f36eb41cf1e6c0466c82450c9a72d3865a2e4926665a3a179",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "f776a4e0bee1cb2c7f068f3f0c61f47f39b64382abde722dba44d8fe2a90ad54",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "d98d46b5fed9cce338eef816401143c350ed20b97cbc7f15e30354390b3c234a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "2008582fe733a0e9bebc7056c01d2a40a3bb70063d07197e88d0bd235a92e65b",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e836320d82035a4be2efbee2c5fa70f3682b6adb2f5f190559cc550c98e3d83b",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "9e726692501df9ef1cbdea772056fce888e3e19813ebfd29b023cc40ca5fa619",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "5aed51b1d2fa834856710373914eafe563c437549416ba30b7eae343cadbcf24",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "de808cd4b414cfa4a68d81b81bee383713a6e6c8960982d34d5fe9409c03b302",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a2e89edaa0a875aefde65dd7914d6559f1da52565cce44a589ac18ac9287c414",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "da2610f8218a8cd3636edf1bdfdbf50fbe391c4212e3501efa2e8ea996717fb3",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "15a8c044906e36c03eece9584039225812171690c09d1681ccb23c2c553aef71",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "f0cec60efadb54681878167db67cc3090e9b6ca01ae7fdb9dfac265cb6f184e4",
+      "text": "Memory and Steering",
+      "hash": "e9396c915a0fb1c9f188708920573d4a5b1ec0a09639049682989999ecbdf3de"
+    },
+    {
+      "id": "9b30143f84638f2ea045ce187e12331ab6857aad2682e87541fa41d18e1aefd6",
+      "text": "Skill",
+      "hash": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918"
+    },
+    {
+      "id": "fb99f091205e4d79104a6b781f9e617217568e3b46f58ee8ffb9079a093a5dbb",
+      "text": "A teachable capability bundled as a unit — kept out of the context window until a context pointer pulls it in for the task at hand.",
+      "hash": "91594c76f076a603cc05de5aed0fe7191b9d2ce04185ed392c5830231b253946"
+    },
+    {
+      "id": "2d5bbb91d768b47e68e3dd1cbe878278cef0909b849b969cbb313fe32be03b2b",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "15d6fead427fa2961ea1cadfd4df95e9ea31d7e29926bbedbafe84751f01a62c",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "a1694e70041bf3a53b95d1c2c02cb8e3da1e43a0bd5bd28b7653d82213f733e8",
+      "text": "A teachable capability bundled as a unit — instructions and resources for doing one task well, kept in the",
+      "hash": "ed46f8540860676835ff6bc904262ebfb7aeadfff513f6e285ef9094251e6844"
+    },
+    {
+      "id": "45c9ad28f68a38810837e2efa238883e6023bbf4cc2ec64f56514127984357c6",
+      "text": "until a",
+      "hash": "524cbc6739844aaaf9e2694ae1187ceba6e5b26dc35d8797b1000a64a5868ffd"
+    },
+    {
+      "id": "e140f1ba8ef41c3df696741302cbc09b9e7e60c5343e964549adf23cd8a69ef6",
+      "text": "context pointer",
+      "hash": "7fb80893d92cf9accaa94f3b2f011e80e1ed58eb0ec3e161e07b14e34c36ca1b"
+    },
+    {
+      "id": "e238d9a30509c38fe07090a175cb27a0fb0753877b9f991dc7c442ee5fbaf1af",
+      "text": "pulls it into the",
+      "hash": "ca31e3018fc368a35777b154c4443e62cdffa63c316e5c690cba0d28c6654fab"
+    },
+    {
+      "id": "f2b8a34cee4d69618b22db817f341533dc61889c0b6712cfb380723a94df5f9d",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "5666dab9a2bc5948a7e2242c5ef3de13099f18939d0757894013c24cada6ec6d",
+      "text": "for the task at hand. The unit of",
+      "hash": "a99a536463e83ac5558c661dc634362e2a9b1a239083260bdc5fd525654b3eeb"
+    },
+    {
+      "id": "a21f6c5a746a53c8ab9f46119555ca81d0ad71ec35d3e31ac5826a47cffd7bdc",
+      "text": "progressive disclosure",
+      "hash": "6da46646b127888c91f582c85bba28941b74cdb2da40e92e62e2157d47644c4c"
+    },
+    {
+      "id": "b9d0b3eb70dff0356cd35adf4e4a030915450cc4141b24d37589d36443088c8e",
+      "text": "in a",
+      "hash": "966106d452e9005f471b0015d2a902da453f82b224c094d5a7bf61a8d8ca290b"
+    },
+    {
+      "id": "ef13ed348d0ed12a490ea940a7aaac04d602232697c38996bb216e912ffcddcc",
+      "text": "Skills are an open standard, defined at",
+      "hash": "0ae4e6432c8ddf5bf8dcf2386e9636372c4bd565f36ca159189172a5af926b82"
+    },
+    {
+      "id": "6aac265f330d1d302d39323fe9c6d699d9ab517f821ae53629e903a1438a7a81",
+      "text": "agentskills.io",
+      "hash": "240d8c4887b944cfdeeffd7a70e54a36736be905a664d2b40106a87d8dbc91e4"
+    },
+    {
+      "id": "7f28245f2e49e030b2305d3c568d1038bcc8c0f5cde63b8b372330400c5876aa",
+      "text": "— originally developed by Anthropic and since adopted by most major harnesses, so a skill written once works across them. The format is a folder containing:",
+      "hash": "494eafd3616fca72263306608da04b6bfc71cc4f6068748b94cec191f5cb0a51"
+    },
+    {
+      "id": "fe192154bbfce38e2bfcb24a71a7661129f8a6f35fa265e7f49b19a19595d9b7",
+      "text": "file — metadata (a name and description, at minimum) plus the instructions themselves",
+      "hash": "be224ee5997bd4ad3d9fe0d876757673a69d857c4571b43a863cf2268d629eee"
+    },
+    {
+      "id": "46e6ac297370c3725118336b40bf2044c2eca9e99389bd92e99ff06a40d53ebb",
+      "text": "Optionally, scripts the",
+      "hash": "41eb0ec34e3e5e097aa397d5ae1e64a8defb0dbd76a6dcfaababb315ec212b72"
+    },
+    {
+      "id": "5d6b7d275ed68ced054741347e329a65ce9b465f64d3fc0555abb8a689a4e091",
+      "text": "can run",
+      "hash": "a1e5601eef34274cd8c447ec49016f6e642ae66a951ca3c1df2a8280b1493509"
+    },
+    {
+      "id": "0f83d1e5f4793b29541f459f82de55bcd32f9ebb722d71e4edefda147d04c105",
+      "text": "Optionally, templates and reference material the instructions point to",
+      "hash": "806f6500b621ef2cd58a5490060d118baaa7c192ec347e232ed5a80d9083eec4"
+    },
+    {
+      "id": "a659a67b9bc26b9fb83a1847ba0c611917155b73200c8d84b3654ed530c5f900",
+      "text": "Only the name and description sit in",
+      "hash": "3f2c6ebb7210c799043fe283b978d93b90ede83fb9ff14e1163d3dd8da59daed"
+    },
+    {
+      "id": "1c3e9f2b772183b7444e53e2c7c0d0c19670c09c30ae4c246286c0524c1c0ce4",
+      "text": "by default. When the agent's task matches, it loads the rest. Until then, the skill takes up almost no room — a sentence or two of",
+      "hash": "196cfe18d3f7fe38741346a659a38e647372a655bb96ba104f779a8f6284afc0"
+    },
+    {
+      "id": "589a547d352b0ff644e465a9eb26ad325df8909e358172e0f47d4a3cf7e03a98",
+      "text": ", however large its full instructions are.",
+      "hash": "8d4f0cd0581f6ad7bc73acd4c55ac9d5a7c19c1d53bbc4dd4c6bcc49d1fd4a58"
+    },
+    {
+      "id": "fe009a898a621e167d1f9e8bb6e87b11d0b92dc82b3fbf1109ef7214458f9844",
+      "text": "This distinguishes skills from",
+      "hash": "59d01c75a5a539722c33767900be67fef0820a2c063186ea849c6631b49b8cb4"
+    },
+    {
+      "id": "37cc9600e5ba2f460372b80f0e143cd940995dd46be16131830c744c07b4746a",
+      "text": ", which is loaded into every",
+      "hash": "84f5912fbec388d9d6b9cc5cf3b3f58ed52a4535e5ec8ea6299e1a1d85c536cb"
+    },
+    {
+      "id": "b685c8fa8882fbeed5895e9b98df23544c89d168b04e030e7b7b9f87f94ad8be",
+      "text": "regardless of the task. A skill is read when a particular kind of work comes up — releasing, scaffolding a new service, writing a migration — and ignored the rest of the time.",
+      "hash": "8825f6126a48ae73f35acb5f8912e2e36a88b9055d2b704f3244066a19e5d76e"
+    },
+    {
+      "id": "c65038767a0c8245bb3d428cea78fe7fd4f45b247753d3f81205a68df5fcc162",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "4f00564ea4b32c370e43c0b0f7e96487f591ba572ef3bb82939ce8fb33f289d2",
+      "text": "\" — a tool is what the agent",
+      "hash": "ae11502cf0d133acefca2cd7dc6cc4b75a8450bb4c472dbf8cd43238d232794a"
+    },
+    {
+      "id": "e433bb6746c3fd9658083d287a2c792b42f930f8d5657dce8ceb6ce1e5f7b273",
+      "text": "; a skill is instructions it",
+      "hash": "b3ebd987e7bb686c5c97cf48b19d5c58854670e3f75cd00686868dcef67ed48b"
+    },
+    {
+      "id": "487368a0b2dba363a9dee361479790dd372b522988310cbc183edaaf32e295e8",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "4c9825f5f948f96a7bad7e7b981549cf06e9ad14ba118d73feaf0f695be5d065",
+      "text": "\"Where should I put the deploy runbook?\"",
+      "hash": "d056ef9599a859d0af7520f139d0d08a9fe3896e95be346cf31f83465cae2389"
+    },
+    {
+      "id": "5bf27ad505fc152cc9b5bd5cd659643622fceeada411a37b29a2469d71eb01e3",
+      "text": "\"As a skill — the agent loads it only when the task involves deploys. In AGENTS.md it'd burn tokens on every",
+      "hash": "5b8b29aeed30f8fb372ddefbc5d87cc901c194d5d5b48cc5bb539ecfe404c324"
+    },
+    {
+      "id": "a8639168c3a3bfc36ae35737a7b616c5401a5a4fb70c074dfaa33c65baad125d",
+      "text": "for something we use weekly.\"",
+      "hash": "a0c227f32a530d7ebd0b8b590088047db75da2f9aedab339d7f3adb2963312ed"
+    },
+    {
+      "id": "d2add3bee4cb9e303c4a2c4dd481bdedc78241b5742418ccde8aa452ce18b34c",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "71c6321a073575b9688150a84db2a206d661f5c63a91b18091d4243c45d69eac",
+      "text": "Context pointer",
+      "hash": "d95bc371d100339c0ab85461467e2c00939ce2b4d26a5c74d8a927ccfab4b271"
+    },
+    {
+      "id": "fbec11b0f8c1e1da9f2d6216d81469f79522ab9322894957f8ea3c7e39a387c3",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "112965c042579b937f107742b6fe9f77a8f5c405b4b1a06d781835a7b481ea61",
+      "text": "Subagent",
+      "hash": "d6cb4188b8fa57aae3e4ca3a1210c9afe7ca995375c2fb36d90a1fa73529a44e"
+    },
+    {
+      "id": "e0eb8c5bc0963cf4f4ecc01ae0b6a196e0cd3ad846acba82b62102f8b501b579",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "57ce83957354a0968dc65bb59c24568061b71718f60b3726e9bda03c8b1c9890",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "4b3365e775f12668eb05d47f5b2a279eb088c52fd61b0d71cb8a8d446f7865c8",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "168716d03250ebe2d969ae01c37a4fed26e80b8a2f9ae582550bdfabe87d468b",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "0efd8b7cc4f408290ef29661b2249d023e609de16aece7d3578ea8ef54c9d32a",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "554b934e5edefd96cd7bab6119007dd7af5c8f142fdc076c54708aeea63e5f05",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "02737180868264adb724ac5f5f729d0533c03eccdeba04e66226a653344186c5",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "8127049252d2c47391b9b039757f0d74d3030d1f8fe3a3f50a8ce6b7c9dec6a3",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "ae1bc1cad2b6fb4c3cba0edc6c073fb39f39564c16e6e9e0b697ea6041ae73c4",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d69388bfd1d25663e59fca4161e142217419755574f8d4fb298882129ed64abe",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "f523e364fb8f349568a493d3e52f040ecc542252721ac46be6d4a0f411c131f0",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "87489e62f7a9361ce1ac983b02f422b35ef099effa64dc53ce63e14532ca8068",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "9799bfbb98c7971c04aff3535f8f80be64dc5ccdbe5e3c1a422a41f86a76dcc8",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "61b980aaaff81c90176ddad0b3fd7703766c2763405df456fc32404b755d1180",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "9dc010ea1ed1716c41d6abfe53f1b11e7ed7c667bee7e10d7588bfa598d76db9",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "1fedca3a58bbb8717e2b2fb6799a134f231311fa214e73d285ee6852b3f2f721",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "3f41ef063675ef0a6b8878028b1354b9b640311d3b149264281f4508615fa951",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "5f84493f38772892517320c9e3597af98001b88bada0ca2e3eae1b9d3ccb86c8",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "ea797466c8eefbb394adb695ee416f87bcc14347658e0e474b871c3a82ee00e1",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "73f5554e23dcfb45c4c126143c89b9eb2f64541c11b8cf6b3469254ed69915b7",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "e74d22307c62ac807edc0d5171e7d662b7a2c1be5d7ca7d734c685593008ffa0",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "3240061844304bf6a04d32578b1cb50c4bd8d3cc5e73468c62629340baad4f9e",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "2aaf6222ad39b47c6630809a05c0cc5e53b6f513d60bc39df548688d095aca8b",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8a5ebb6f1feb3ed49255d59195508a9c58465e32bbcda6ab167bb9b6ecadde2d",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "ee67fc251df2c0315bd6845d9cc297b428ad0ba89e25c082f72da7f979b14512",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "9ede12ab2ef48c5220f8afe14a70ba7a8d187ae26fadf0bbe35b4ea0b6301581",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"gsq7z4p13m4rw1\"",
+  "lastModified": null
+}

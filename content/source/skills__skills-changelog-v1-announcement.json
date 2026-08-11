@@ -1,0 +1,698 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills/skills-changelog-v1-announcement",
+  "pathname": "/skills/skills-changelog-v1-announcement",
+  "fetchedAt": "2026-08-11T06:28:43.410Z",
+  "title": "v1: 63% Token Reduction, /ask-matt, /writing-great-skills",
+  "contentHash": "8093e2564bf553b561e55bdff072802abc8b3b0be9168247dab09ac83ff9843b",
+  "textHash": "279ecc8dd317231dc8c3d9937b4581cc28304dee5ebb9560ebf6d7b9d374c156",
+  "strings": [
+    {
+      "id": "6848acf6fdd1b9e2fcc4a0525a0de62d0e47661b09b2506fc2f67c440d6cb170",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "b35b80f1613d712d7060218c5bdbecaeba1e8797eb5c90a52212db8bbb68f3a4",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "7da8ec6cd00e269be4f8449b10f6fd700b79709251f11d7fa48d6ecfb0e351eb",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "dedc4dbc5962729df9c34bf5eab8239ae1be6663ef396ce84fad9d58fc9998ac",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "994b487ff1c8966b98f3f95286d3efc63315b9259827c85aa79b97dd3517c11c",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "82c34f8914b612d6eb068485a3dfd31c6c3bdc098a30db0db71dfbd7146d3920",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "0dd66006f3e4debf3ba793ba80454b026e5d12f965172fe9465d240fd5281d0d",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "7b2b7dc23b9025d6e0073d9469687dcb93a6ac7242c1775517dd2c7d2db1773d",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "1f23f76fcf9cd08039bced7a66d68e3955208d4366ab14c230951c273c28fd69",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "3fc1d0b1fd3ae1d035bc780d356472c9fc8dc58f675ed2e00987e4a3d1023d7c",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "42724411b61a2565ccdfc7c49a6b87f538a26a6a3da6e041074c4d962f69aa1a",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a74aa626eb503621d4c2830ed8eebafe54509ff80254360423c9ceba26d00b30",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "a95e493fc369809ecba1d1857ce94e50025358d546224587522f5d76a8bcda7f",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "652feb35affcc7cc0a3c2aa8ba5be57466b35ae3f641c7ec98d4b971626411e9",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "4735a82cdd258669796b8cd3bb282357242b5d4c17b342f03f7c7f0f081e6b70",
+      "text": "AI Skills Changelog",
+      "hash": "00763cbc9ed5c5c9afc525a03124e578d306e829a7c67bb87c9407edb3230099"
+    },
+    {
+      "id": "a00d237da135247d2f3a92186d64c75e4f197a189a7147d2849210d23dc12302",
+      "text": "v1: 63% Token Reduction, /ask-matt, /writing-great-skills",
+      "hash": "0e257aef4ba32b497a98e46415b02574c23239d3a9a6410978ab8076de4caac6"
+    },
+    {
+      "id": "e04c2d1956f822ad3e4e6f91139d000b6b10f50afb45d17ba204df9d3e389a46",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "8f2495e1d9100bc4b027da31c0a37cccaa0f2d627e4c5de6fb3de6fc81e2de7a",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "66c2d1ebdc09273ed545a67f540169bbd87439c2c948d430cc17869bad4cbeb2",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "bc9a3fd9f7ef64ae0c625aac961f778496f663bacf6abb640e614b88f29e776e",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "2511a390566a2f74e3145b6aa83af3d979bd64ae024c05efbbc4564c11946169",
+      "text": "skills directory",
+      "hash": "4d041e347f932ab0cb4be2eb5f8dd215003bfda87d783f6ed809a973e70c8cf8"
+    },
+    {
+      "id": "e56935769577d57b7eb790899308fe592f13b40098f039da3aab96973f867047",
+      "text": "has reached a major milestone with v1. Over 4.2 million downloads and 135,000 GitHub stars later, this release represents crucial changes that radically reduce token consumption, reorganize skills by invocation type, and unlock powerful new abilities.",
+      "hash": "c6e338a7c488a3a560b3ce60152238f1fc78f3c901fe22b417fcf7581bc3f53d"
+    },
+    {
+      "id": "e8000c5b30d15a179197fc0f6f97cb730ebf2ad4e0b9784ff0e10eaaac075737",
+      "text": "Getting Started with the Latest Skills",
+      "hash": "4f9d637e2cf4bff71ba006404e24ef5ba4378a372f800491a28a0e0ef31d3023"
+    },
+    {
+      "id": "af210f0bee69e1620e5a6055f406cf907f628965e17afc9d69997ae11e4759f5",
+      "text": "Installing or updating to the new skills is straightforward. Use the following command:",
+      "hash": "e9de72d145d706aea9f3ab9f361a7c3e0493b92ad7249a405a071bd5e27be976"
+    },
+    {
+      "id": "a133ad6bfcae73c41c7e6daf0db02765f25e6e0a100356ed0c0e9687a455eaac",
+      "text": "Whether you're new to these skills or upgrading from an earlier version, now is the perfect time to take advantage of the improvements.",
+      "hash": "bffc0f2623c10cb6eb6ae4cac590b5f03f8235e817a8e6c20c593587108cf3f7"
+    },
+    {
+      "id": "2c8a167369e7ee8d035c54b0f51d0fbc5f78d5677081dd75d782db0db5de2c16",
+      "text": "The Changes",
+      "hash": "8725e25ca74accf56411e5fe1a3e994e3ec16d1b069f5578a2c7707eca804f6f"
+    },
+    {
+      "id": "5af4cd3ab1ccd507c236fd8249c0dd0a293b2dc48e1f44f85e6bb7c20e162ad9",
+      "text": ": A 63% Token Reduction",
+      "hash": "d1bb9974a0e0cf9673535e4d25875fc9f566e846ddb6528ad234841ecda3c322"
+    },
+    {
+      "id": "7052f8b39938d8961d7318a8039ed500a7032eae81fdbd1ee28a60f67a37d3e2",
+      "text": "The biggest structural change in v1 is the widespread use of",
+      "hash": "bdb345d0b1cc981e25d43d9dba9cce9570dec83e2990192acf183a0c58a4cb77"
+    },
+    {
+      "id": "7c8571889666d0583ffdcb4048ed004286b7ac95cbb89fe335e8cada1ce22eb0",
+      "text": "across skills. When you set this flag on a skill, its description no longer gets included in the context window that the model reviews when deciding which skill to invoke.",
+      "hash": "2c960a974f835e881f0333b9362e65981071c60f8d6c0d2cd6d575edf6cfeea4"
+    },
+    {
+      "id": "d92c83aedc4a671627129e7729e3be4a3924013723f742113e4ee01731636f85",
+      "text": "This simple change achieves a",
+      "hash": "227fb5d033fb9cc3d8a4bef25330f0206dccfaa15fc194fa5110e26afe567e65"
+    },
+    {
+      "id": "5cf88b46b98195cd21fbe9f706489f9b0972a41992323a0c9aa6c13666d0c98c",
+      "text": "63% reduction in token cost",
+      "hash": "98e8129cf7ad2ffb7a43f9f5123d8241dcfa4c837cd943042e509630c12cf6d0"
+    },
+    {
+      "id": "d3fdff465efcebdaa99624a1bf782c65b3e00c4c04b923f36356f62b75581fe8",
+      "text": "for skill descriptions - a massive improvement for anyone working with context-limited models.",
+      "hash": "36072d85f3b978431dc2d12b0fcf34df934b222b4ec1db521c8d314f467b3b7c"
+    },
+    {
+      "id": "95d20627577d2838763a6ef1e0538c0ff3ef35444be51c516250d187b55d9b78",
+      "text": "How This Reorganizes Your Skills",
+      "hash": "2ecda029c947b787d4b4155babb00d4276c3d4ef270b122fea65c5d22591b542"
+    },
+    {
+      "id": "1e1c7a9b133268840db68b1614f476c106d8c8c2d0dfd0a2268999c00c162cc3",
+      "text": "Previously, skills like",
+      "hash": "3365d4570e010be377348535772cb22ed5b99149ec1cc69fd3fd7a1fe1268f9b"
+    },
+    {
+      "id": "761ff624d65aa6848d6269e025d74a88e4aeafb81a5d4716297fc521b384f3fe",
+      "text": "contained shared code that duplicated information across multiple places. Now that code has been extracted:",
+      "hash": "af0f5cf452681dd9b17d04810c401ac6116d0a30011f2d8739b220a0a26d55d8"
+    },
+    {
+      "id": "b4547189565d13dde477936e86640002b581af03d8644fb5dd4cb8f38d740967",
+      "text": "skill contains the core interview loop that was previously embedded in other skills:",
+      "hash": "05d30656786901cfb9f84795b1f6de5adfab5f44c13b4c396e650d1f51730100"
+    },
+    {
+      "id": "c3c9a92f1cf941632dcc7304a51fcf99aeee2283a2c3f3c69b579983af3a00b2",
+      "text": "Since the",
+      "hash": "6da232c0545c4c18c88919f001634f5bb296fe4fd09cc5f20cb72bd013ed0e3f"
+    },
+    {
+      "id": "516b70fcd728c89e79f92878e265c29f164f398abb7db2b726feaf9c79a7fe6a",
+      "text": "skill is",
+      "hash": "be538c5701bd1613f1d1abb8ad27c709bc0fb62fe9104fe6e854b4108f61432b"
+    },
+    {
+      "id": "62397e120b7b09bc254cf02a5c8174b51945d4247d43152a4b146cf41dd312e8",
+      "text": "disabled from the model, it remains invokable by the agent itself. This means you can share it freely across other skills without bloating their descriptions.",
+      "hash": "b30407ac0365f5377694d1d21b356c1d6454e2568de0ddc1701ce106587b7a07"
+    },
+    {
+      "id": "7fc0dbe1b5163b28050d4161361a4d2c7646868e62cc87f695a1bd8d43fe90e5",
+      "text": "now has much simpler frontmatter and content:",
+      "hash": "a32e41d3fdbae4c1e949adaa51bd90280c377de2d608bc1fc943ebeb4b68e4a6"
+    },
+    {
+      "id": "f5b31bb9ddbcd84cea74881a801e3578bd66d2adc3942ac069f5927f54d8d84e",
+      "text": "The same principle applies to other refactored skills:",
+      "hash": "df5720711f9648bc9a810bd3e7f475056ad402893c1e637095e4653cb52823d4"
+    },
+    {
+      "id": "f2a9dc75aa9a99145c1e3b2c75b7da97c8eb63a401b4c488c9761245bf23f5c1",
+      "text": "- moved into its own skill, decoupled from",
+      "hash": "b84ba146665f63493f9097b4ba53acffc6a642ee8a901392081ead5398d4d41a"
+    },
+    {
+      "id": "2f7d4bfafed9a1d638673bba1d6a39ec761ba9c98234a80ed3c34e9affd9b4b8",
+      "text": "- extracted into a standalone skill with deep-module vocabulary",
+      "hash": "afc8786f019c11528cd7cdc2b512499591e8251d67ffe1962487215932af0682"
+    },
+    {
+      "id": "aea8a1878d66e84de6f85fc545c5c41de458ff4074c92d7106ba75b317d871d5",
+      "text": "(formerly",
+      "hash": "bb67d95e96ae092611e55045eeb2919e6b93f454d84b7299cf493f7cf896a17d"
+    },
+    {
+      "id": "ce0180ea9b46c724742f123bd84b84927d1c28a26d58b2f046973bbd10915e62",
+      "text": ") - now references design principles without duplicating them",
+      "hash": "6a696bcb1f38048b31c314e41b29df89f30e4a101f9025f61bdbdcf04df8e717"
+    },
+    {
+      "id": "ddc38f1e14380481be8d9a07dfbdc51b94d113fe9d6b90f80da6a29348fb7516",
+      "text": "User-Invoked vs Model-Invoked Skills",
+      "hash": "0487b5e4f28bbc623b6f3b0562d690ee89759b89d59bce2ec60ebeda414a77c0"
+    },
+    {
+      "id": "c2e688a3b0b488f11ea4b1363d54a8abca3a1fb63d48b00f973d0e443c86ac23",
+      "text": "v1 introduces a clearer taxonomy:",
+      "hash": "0ee67531c390a64767ceabab342915bb15cb405ab1d5c76d696ce69eb264531a"
+    },
+    {
+      "id": "3c01d28ac2d475b68c02daf1d254f7f4e4f232cfe82fbfa87e38d883dcdd6722",
+      "text": "skills.",
+      "hash": "6608627b2d07788439db3c6fad63177c9d4b9a588112d152e9393092bdbe6ac3"
+    },
+    {
+      "id": "a08769247583b23ded9d32fffd3959586943377bfe68c21d83580c93fa378847",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "5f640b1c39ca4e34cf12c0ce3bdc076bc184eac8ea01d0481e5e1209bb0b7ee4",
+      "text": "Purpose",
+      "hash": "d4e8830a71c73edffe0115b8abad16b0b5cb2e121047c64cd01995203cfad062"
+    },
+    {
+      "id": "ef54189bd057469b403121200efa563d7a4f4ae72c141c4fca80a7a7015f5033",
+      "text": "When You Use It",
+      "hash": "ecae56c702fbfa556181b4961f8e2e02a57f79f0ac2e701560a1f883cb686377"
+    },
+    {
+      "id": "528ca64d37f395f548704740e662f2bc8e1295e7bd6fd6342814bccb9faedd1b",
+      "text": "User-invoked",
+      "hash": "0e924ce7cb4ee8e34d57d8c64f8f9b0ed838947cac1e52281fe18c8dd5f61267"
+    },
+    {
+      "id": "13a5d915986da4141035be737768af254de8181524069d0a4437a82940adb291",
+      "text": "Orchestrate workflows; only run when you explicitly type them",
+      "hash": "993f8c8137c77764e26aeb0037ce796916bf36d1d817cce22cd469332b9ff3fd"
+    },
+    {
+      "id": "fd28d6226670d32839ec8be21b895e40806a1a36c1be221da125b931698c2862",
+      "text": "You explicitly request them",
+      "hash": "55760a570108e158d93b81efdc056e9d001f4d78fe10f8a49d391200d883e993"
+    },
+    {
+      "id": "f7294b10d3e007f408988bb8bd12713a6f5edda65a136059950fe40eb71c5860",
+      "text": "Model-invoked",
+      "hash": "d9eb4328ceb71024d7a6db6eec77fb0c6e9dcba63c7eff654123a0ee35644d6a"
+    },
+    {
+      "id": "d4f3422ac4c6593658b783a88c9fd4862ae52288e07d77155b32c0c96b3c9474",
+      "text": "Focused tasks the model can reach for automatically",
+      "hash": "34e4864e507ebbe3931d4a7bb463ba115737fbc1ce9ae34774e49e9cd6c5deb2"
+    },
+    {
+      "id": "d4c0405d8c0dd025584bb5cfa1fe4eb3ab181359bcbde8accfcd2c4039515d0f",
+      "text": "Model chooses to use them",
+      "hash": "a9766aba8b841001c9a04293d34125d281b33d9814f3e9cc85faf760b0d162f4"
+    },
+    {
+      "id": "cfc19c8c9b101712ceac7bde04fa13ab758fc4ed343523404325404943383b8f",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "ae066a64f31e5dfda994bedc1405a95a200545024e99f7e4dec34af66a03ebba",
+      "text": "This split means the model can occasionally reach for specific skills when needed - diagnosing difficult bugs, applying test-driven development, or modeling domain concepts - without cluttering the interface with unnecessary options.",
+      "hash": "90ddb04b2398e6620b4314a080fefe3a2e2f65a010ada7e770f8bd372990cd51"
+    },
+    {
+      "id": "199e1f611684ab8015b20d0d621f41aed590c6a0b123eb86690103bb97c7441f",
+      "text": "Looking at the engineering readme, there are only a handful of model-invoked skills:",
+      "hash": "b21ad050c32056e491d5dab06ef9bf2ad9256c2c4f1ffa8437cfa3c9a5b608fa"
+    },
+    {
+      "id": "af0fcb06b96ffe90201dc31292e4d235b01b19f0d0f58c579a269188730da605",
+      "text": "- for complex debugging scenarios",
+      "hash": "407f303b00214e25bc416dfafc803f6e5445dee86ada48555ae606dda4cc5834"
+    },
+    {
+      "id": "5f907865fc6c34c780da9cf91c1146d22036b8a2bf6a3ca2ae83d7ae5c5eba12",
+      "text": "- when test-driven development makes sense",
+      "hash": "ad9eba0c6649e140adb3508ab6a6b0ce0ec9a7fe42b4d37959b86a3d787f60b7"
+    },
+    {
+      "id": "7a514150f25b03e53ea9819b302160941a3ec42ca42201e3722552e26e45506a",
+      "text": "- for domain-model work",
+      "hash": "3dba6ecf13643adcedace59b7d616aa976dd034994cd4db29d5d71498abf4ee7"
+    },
+    {
+      "id": "c105d4e39c84bd42fc9f8ac3bfb3c20c952b839d014386444fdb43c7e95d133d",
+      "text": "- for architectural guidance",
+      "hash": "c96158dfe0559e0b6614f11468d6c6f000a9df408048f536e71109646dc391d0"
+    },
+    {
+      "id": "a3da7167cec660333d91b92da65786a1a424c26236bb8a416b424c610c9adfc9",
+      "text": "- the reusable interview loop",
+      "hash": "4963595e319b549e2d3c2d5e554c603a311bb4f4d930d7a29790d871a0de8931"
+    },
+    {
+      "id": "fc2639fd611ac2f12624baeb071678c0e63def4d9ea7289024201226921cb9af",
+      "text": "User-invoked skills remain the primary way you orchestrate work.",
+      "hash": "06200b491582c933d4fc8196bf89c145693784160acc0d7eebc1debded6bfcf8"
+    },
+    {
+      "id": "c8fcfa20e060d6854170e8e76bef07d9572ef10b8ccb664093cc2e53e06ba852",
+      "text": "New Skills and Major Rewrites",
+      "hash": "167fb467115052412ee6ec96f4bdaadb2afc11336d051f1af9a1078eca30a33a"
+    },
+    {
+      "id": "a25212fd2821ba44bef1a82b270d5f49652c133275f0b7c15fa7be4818d5ffc2",
+      "text": "Writing Great Skills: A Deep Dive",
+      "hash": "886313fb54035a4983ddc2e48d882f18cd7f038008c675aca394b3dc754fc7c2"
+    },
+    {
+      "id": "086365e62c151771932a292cd49eaf1c6a46272e0bdc2a4decad77ea8ae376ac",
+      "text": "One of the marquee new skills is",
+      "hash": "c4ed05eda319bb63ed4e2f08b7c398d04611357aef6d877d47609b861c024949"
+    },
+    {
+      "id": "77f6bab1e8da454f92f3c4e8c8b1b24d916227fcb09b1184e90a2ec5af965ace",
+      "text": ". Matt spent six to seven hours crafting this skill, including an extensive",
+      "hash": "fb8a0a76bff68577ee5ff663046682fc7c7bc26c9d7b62499de3c273a630e8c3"
+    },
+    {
+      "id": "e5c6f94962d2a7f409abc6b37031e0319a298bc4a5c665d570a81a431e0949e6",
+      "text": "with entries for every piece of terminology.",
+      "hash": "185e8a44ac9b027795da93344402c1e78aaafbb78bd1675d2956b1cf22e6d2e0"
+    },
+    {
+      "id": "f8ee4e67934579b5161ecddfbaeb69489ff3d3a3421b32eeb003377f347c8851",
+      "text": "The glossary covers concepts like:",
+      "hash": "0a161ef6168080c18e1d55cc1c6811f750cdb6406f1146c7a47f3c2c9149811b"
+    },
+    {
+      "id": "0325b076faad88f76a60dd5301d8a426198db1fc3d646f6d28aaeee04a875e89",
+      "text": "No-op",
+      "hash": "d5440dda46c44bbe9ac71149a72fab3252de99e2f8026b6ee6959c87bba3cf06"
+    },
+    {
+      "id": "8eebb0d48c4bc415307ad3ee44ff293c95e3ac8aaa70f869e493b51bd6aa3b9b",
+      "text": "- no-operation sections that should be removed",
+      "hash": "7588b108a32589432812a60ff1d913d2bcb634ccad7d8c163f3a955d53ae8c08"
+    },
+    {
+      "id": "6283442fee3bf64008e4e24b4183b98e20b84eda6f6926350f5d978ba1df16cc",
+      "text": "Sprawl",
+      "hash": "6190fdae93a2fea975ac7bd70e88e9356813c42eb3bc87ca6998ab4a4d9909a4"
+    },
+    {
+      "id": "3b4c1f3c8c2ddcb3bcee83a1fc94566acef4d95983b0dc2523ddaa4b3750991e",
+      "text": "- unnecessary expansion or duplication",
+      "hash": "6bc7db35b00a2bbc3f8ee887708db88e8694ce26f513874b91975f9a9ac08e35"
+    },
+    {
+      "id": "35da9913db8adc9fef329e687cea23468c1f608a21d35e44e9c0e5328f54ab6c",
+      "text": "Sediment",
+      "hash": "ab3530853f03689f08214ab99ded9cf1b7b6ed34dc5444f243fa99f901321660"
+    },
+    {
+      "id": "279605931231ee48f0bd5e976a5913caf1665cadc4960878cbbe7cd48dbe3d62",
+      "text": "- accumulated cruft that's settled in the skill",
+      "hash": "2893793596e11f1a16a5113f022049d69a69125561bca199cd348e76e93882c4"
+    },
+    {
+      "id": "68cb8e16fc4f347afa19a41f3f62f3948b4130c120978df2bf52cd8ae431ccfd",
+      "text": "Premature completion",
+      "hash": "321654814644b9889cb7f469e26c94d9348e4fccfc4e1b855283282f3ac6f5a4"
+    },
+    {
+      "id": "c73253f6e7561c1cf6bbc51d7df61f81c373caf192577f6342c42801298bb00c",
+      "text": "- finishing too early before full understanding",
+      "hash": "823c8f8832cadee66fd5682a6e46927ef9ab283b1618298ec82126e2991f3007"
+    },
+    {
+      "id": "ba32c26d523442711473c961070452ffac3da6fc95b773ece2cf730e06c29417",
+      "text": "Leading words",
+      "hash": "6d99f6a3056ea3baacd81ae010a77139073ad76a5d4cbeb1cd9540fa965093ac"
+    },
+    {
+      "id": "2e0dbda2efa5ca34349c8f8f87d108176bc31d75f29be2f9769a4ad10a598057",
+      "text": "- compact concepts already in the model's pre-training",
+      "hash": "751616fc5d8c6fd1b06f8d69e73ebc1ee7af093abe166a2835292c407fd137b5"
+    },
+    {
+      "id": "b5b833b058bc4df11b46ca6549795dff0da2dda52db0c0dab3beea9d96786c91",
+      "text": "When you invoke",
+      "hash": "7f02b1c1ba67700468e56e86c80945ed2dc466fb52adc017d0d56197cb64a409"
+    },
+    {
+      "id": "a81a60314c001137bc6fe95dca447829f2436f1703d30a7474aa6a0e60af6cee",
+      "text": ", it hunts for opportunities to refactor skills and use leading words - terminology that's efficient and already familiar to language models.",
+      "hash": "d4f0af8c936ce8ff7adde8b88fec7bbee2aa568bb553ddccff3c4d215e80bd09"
+    },
+    {
+      "id": "7a4db0df80f3b816952246d8f95398c15f096bc7f5d8d48082d163f6cd35c24f",
+      "text": "This skill alone contains enough useful patterns that a dedicated video will soon explore its full depth.",
+      "hash": "833a102ea6b4caf4f93660765a5f64d9a9ef43f2525df6dac68e9c3e7278f428"
+    },
+    {
+      "id": "6c3bd63f70274554c2bea1b1da5d66f6d7c2a632c377b90829f7ef27ffc3e3df",
+      "text": "/ask-matt: A Router Skill for Navigation",
+      "hash": "5c0207d6f9b2bfb6a66019685b14a44fa3e1c71a5ab230a46ebe2201e120a6a2"
+    },
+    {
+      "id": "e6ce1c7525b8f22e1bbbab9ee1b953075f5838f053e99b5ab9bcb75d424b9ca8",
+      "text": "As the number of user-invoked skills grows, keeping track of them all creates cognitive load. The new",
+      "hash": "a190da15fe54ae5e5fdf3b3f7cd46e31bd4530b3faa90378105ecaa512a25ee0"
+    },
+    {
+      "id": "5518b6e38d17ff72e82e7984cc48582995bc711b2ca5a2463ae17b5ebd77650a",
+      "text": "skill solves this by acting as a router - a single entry point that names all other skills and explains when to use each one.",
+      "hash": "95cb24f44c4b8bc8abf04b530c08955ed0f37f328a5549122305a0cf55c39923"
+    },
+    {
+      "id": "3c8f1dbcd5bd6caf13915d32222df2ac7e6aba6470e6f637cc6d322615ac4230",
+      "text": "documents:",
+      "hash": "5bdd21f62670fa11aa036a65c9298557aacac77b3c522d05a381c34f446ab2d7"
+    },
+    {
+      "id": "97b9ece1d5ac0c04a4dfba448d34b480ee9c1aa4049eccb20c67109923d9a4c7",
+      "text": "How to use all other skills in the directory",
+      "hash": "efd159fd5e4c9bf3feac95c5574d2c16a5d6a1cee8ac9b5405e72a836425f819"
+    },
+    {
+      "id": "191e77196cf25cce33b4a6cdc98bbf8e833fe65fd74443908149b9ef5be031cf",
+      "text": "The main workflow and how to orchestrate it",
+      "hash": "3d01e490e9a6edcd71fdafc633e2549eae20fe4e489ae6fffdabb050747a2231"
+    },
+    {
+      "id": "fce1d1dd2431df381fc3563502684499673202ad6d8f9e71f0246b602f68b91b",
+      "text": "Handoff patterns and prototyping during handoffs",
+      "hash": "1c4f186475cc42aa85e68e7a832d720cc287cbcaadf5515368aee3a2083e94e5"
+    },
+    {
+      "id": "a80ecc894e37adad0dee22059b2d4c245d8ef162599a487d47966b1a788cd2bb",
+      "text": "How to determine if you need a PRD for multi-session builds",
+      "hash": "8320c4230990fa908cbc7709d71003ea9b80a05f102d8256407d061d8f0390fc"
+    },
+    {
+      "id": "1301c41d5c4d8af26d486f73b271ca97c2f48a46d56c8b0ca37f8e7e4df64505",
+      "text": "Context hygiene practices",
+      "hash": "5ecfc08d686659b18d3e66ad636044ab1021b7578bc21691f96dc82ef48e0fb5"
+    },
+    {
+      "id": "411268ccc12d6db9dca807e02691c6d26b4f1b2ea4c6bf2958972955dedf56bd",
+      "text": "Different on-ramps for starting work",
+      "hash": "55b68a953bce888c0bec0a3ce9051e1d5458c30ef3a30f3b61a1a7f905b61803"
+    },
+    {
+      "id": "bc7b0004207e7fc3c03282dec50e360ff4ce0745f5962926f3f78f711f0fcd4c",
+      "text": "Codebase health improvements via",
+      "hash": "735ff20f09bfc971a1df2b620a84fb80abe03130d62ecfe536d2d9e7b3d918f1"
+    },
+    {
+      "id": "575f4e97f180eb44819155ab06ce5e9fc380371c1edb6d0dbfab9402786b93f8",
+      "text": "Instead of asking in Discord or hunting through documentation, the skill itself teaches you how to use your entire skill set. This is the comprehensive guide you've been asking for.",
+      "hash": "8281f7a0b00b2dc967b3a8ddeab7a796dc4ab251ce17d3f19469204372eb18b6"
+    },
+    {
+      "id": "dea093ec9ee0ff178dfdee2587b7b6c9c13c5e29796e4a31d925434f849bb115",
+      "text": "New and Renamed Skills",
+      "hash": "992f20f8f0e20539d6228aeed622d631578a1bfd5349f32cdc1f65829e0d67c7"
+    },
+    {
+      "id": "6f6cd1336078c609db59cbff9549fa81fe1c619ba7ae5135f44cf2848ee67de6",
+      "text": "The v1 release includes several other changes:",
+      "hash": "8ab85436eeba75e64c5e219236cd28526a3c25045b03b34a6c88e15adfbd5d0a"
+    },
+    {
+      "id": "386a9b0fca203103ec92edc55bbb72c17cab0ceec1493157c131b6266b6478d1",
+      "text": "- replaces",
+      "hash": "cf926eb216a83d648d85c5420b190d92edfaa9d1ff2c4fcf7cd0a4abebbb9623"
+    },
+    {
+      "id": "818881629b1daf2e2c2f9aa86b02cdf42228dd50a0a50b89d918109221ff1d11",
+      "text": "with a much deeper reference",
+      "hash": "ce7110aa53c5bc77bd586ee36c36ad3c032839e25636889b9343be7e56d0d061"
+    },
+    {
+      "id": "e799b700a79266824fcb44c124341955eda837ff4b34384db6bb580bd5431d6e",
+      "text": "- formerly",
+      "hash": "61e7c4aca304c07eea23548a341525a1ef89c41b4d481751df0a87ec1ab58a85"
+    },
+    {
+      "id": "440874a270807833db2b05e5a7d5a598955997e5fc5eb7f14cdb73d7c604aeae",
+      "text": ", now with a clearer name",
+      "hash": "27ccb5a5946e53a2b864b8e6d1d642707f0376954759d64e403c05bb1a9c321c"
+    },
+    {
+      "id": "68e014e8fbccd3bf5650fd3e69c5e88eda7d599dd57881921a157203af51a8f5",
+      "text": "- a new standalone skill for git merge and rebase conflicts",
+      "hash": "261c6df87a1495fb8a2678ffc5cfcb675395a006c375dc3ed59d9bb15484de3c"
+    },
+    {
+      "id": "2a685d63b22aa847997b2655d2f5a35da5346d5b2e637f21b6b41f4cdb00de74",
+      "text": "- new shared skill with deep-module vocabulary",
+      "hash": "5cf49ada887419448a2b46e5687ad248e0a6aa91f0153d2be4fa2148dfff822d"
+    },
+    {
+      "id": "7aa88a69de354658e64f956a343dc3ca9b2569001d572e7f5f66ec87148e0f38",
+      "text": "- new shared skill for building project domain models",
+      "hash": "12a1b13dc4b71e6a71f8edba7335dba7c35b504a75b4c80c17119f9d0d82fca8"
+    },
+    {
+      "id": "ad99b64762b060bf8ad942ebdc150b92a671189ffd45c5fc8ad9faaf63ba4a4f",
+      "text": "Removed",
+      "hash": "4118fb4fed0ecec996876cae9dc97177e50fb5f8702ddd8a26eff63813cfd6aa"
+    },
+    {
+      "id": "023779aeac3e4e39bd0a8b3fc26c2d03a8e0574697fd864f0d6328a8e944c045",
+      "text": "skills have been deprecated",
+      "hash": "909f17ff41e1c4be0aa8edf211e9f20dde34ce12b3025ebb68b4dec420364b17"
+    },
+    {
+      "id": "fdacb18998d5b4415b34b27c5a85005246422ab6d9bd43cea1c004b7b2b5954f",
+      "text": "Why I Made These Changes",
+      "hash": "e2870f3d09b59473c4c65b3d59baf2306966ac327adc3c387f49515cb80c61f6"
+    },
+    {
+      "id": "9ebbe0c4ead184c9f33ede25fd7ed51ca29bc652be349a98825409f91bb0bcc2",
+      "text": "These improvements reflect a core principle:",
+      "hash": "d964db2eba8e077be133bf9fa65c0808d37667642cae7fc2b4830db0c8013db2"
+    },
+    {
+      "id": "5bbf8fb380d039105ffdb8b31c4c734f74b4cb939b8129b5f7ec49677015cc54",
+      "text": "the user stays in control, not the agent",
+      "hash": "7eeab945e80ca8d9754b72a83de3068951e96e5db25abf332f136bb4d1994697"
+    },
+    {
+      "id": "f1c1adcd27820fefd50a7607e61c5b6aad1485a6809c63bb4a6d3a08198906b5",
+      "text": ". The model is a tool you orchestrate, not the other way around.",
+      "hash": "c1da6c09266e4d3a4a68f49069b75333c1252a0d39213e90fd33f27e5e7d38ee"
+    },
+    {
+      "id": "1af600267c92aa2321bbd0d002dd3068359834942c8783447bf6ba4c32ced923",
+      "text": "Yes, this means you carry more cognitive load when navigating which skill to use. But that's why",
+      "hash": "1617455c458ed4755768f442e5957bb9edb710c222d1f3e2ffa8484d729b7711"
+    },
+    {
+      "id": "c45a95e35049e735ee4df5fe459d5e4c1eb7ef9327d115444460f8d58c2f2bab",
+      "text": "exists - to guide you without friction.",
+      "hash": "d180bebc71bf3337ac9376b4114a5aa612278be4774b03241b7769373e395f58"
+    },
+    {
+      "id": "c644d9dc45bfaaaefd7296c8e44ba60469730ff2f7c4c9ac3fc7fb9b459c235d",
+      "text": "By dramatically reducing token consumption and splitting user-invoked from model-invoked skills, you unlock better capabilities: designing better codebases, fixing harder bugs, and writing better skills - all without wasting context on unnecessary descriptions.",
+      "hash": "60d4b5150a1a3c813b4db885144196bea2aff3cc13b357099ce0a18ee956e90f"
+    },
+    {
+      "id": "dfbb2fc78fa4034fd743e11b02a7fd505e4bb7288356b754d4911db6801207d5",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "0bb548de5ef5d1b6ea040bd033bd718712aafb90405b6f0ed5516c0e486ece3f",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "d01639362231d49eecb9ca53557a1104552cb511e65c572960e393faab48ff33",
+      "text": "Build a repeatable workflow for coding agents without giving up your engineering standards.",
+      "hash": "a9e9960668666b40dcea7f5dcef394cc69c7eb352d0f69fb73501f5ee7f15fa4"
+    },
+    {
+      "id": "26c0041ac9e46b3665e02475d804dd8c6c5594e166d67250957af4faaebb891a",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "bf32193000015d948cf33ead272354d616d899a52c43d791c56fd6e81a265e43",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "62abcc52ba2129d85bbc438c68fd873fb1965729a3f79f6f7f587371a91960a4",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "7775d0fb86d56296b1910308ae218f818ab1d8141fabdbeb04784340bfdd1ee5",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "131c70c09326e7d1ce1406cd0443bf2d0fa87284e380beada000f9fa42e32882",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "8a84268a114d4faad5ee95a02ba878e33bea782ddca2de3b5c99c4c188288d3a",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "4f252bda7f2ff629735c70fc5a0f4aa678f18447a4324780b397d64e89df237a",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b1655371a70be235c4ff7fa92f6d3030050231471907d2adf81955cdf67d719e",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "fe2c31ae79cafe55fbf970a419b701fa665ea83864c76b6e7dca5d1d9bbf65b7",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7da38f255ad643afb2f033fd2168b6c8679da16f0e7d0c6900add9c5fa48e415",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "260a27d1aab8de3abf5235259f419be72fac86ab0a14a2bf96dd5568d623bb8b",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "458c37fc74e5c1cc55eda062283d9d91706b2652861991d20cd20bc39866a198",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "938a481e67e937d3af03f56bc04640353643e54bad94e986ac5dd52807b8416a",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "26e9a824052587b9b5c2a319dc4f0c270cc9ea79bd76e8f7c2f66f0536f6eb0f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "27a069b234d019822a41ac4446f62e4b1d6974ae970dba2327dd2332789fa906",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "a8815dd7d1e905817cc892159cb512a3963ccb362ab611d742defeeb3aaaae68",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "1990e1e003d74bf651c409f2cfd462545a056441013f8533e13e67f6be4e2bd4",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "9e3f0e98f3781fe3980af59449132227c2a4c907b9db073350d7d6b722be347d",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "502876daf93e746c7e05e701fbbc622a80f1d1e2792f0b4326404a9935267265",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"2n2zmnhp8z64ay\"",
+  "lastModified": null
+}

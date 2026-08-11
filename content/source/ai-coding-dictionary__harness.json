@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/harness",
+  "pathname": "/ai-coding-dictionary/harness",
+  "fetchedAt": "2026-08-11T06:28:30.621Z",
+  "title": "Harness | AI Coding Dictionary",
+  "contentHash": "6f8c67e77523bc30f3487efa0df067773e0c0b1c978a6bec369d8cf5517a9e6b",
+  "textHash": "f36ae0e889ead798165958eb455c5b743bdf48d5225c9142b281a454de02072f",
+  "strings": [
+    {
+      "id": "af93d95bb857d8764882b3646a8c20f368b6af9170a207c30d7a5311752efe30",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "f223a1cfa2b5ce85db294d6fb1fce936b566b90e24258c9f7ec54da3a1c5666d",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "caf1fc794cf6e2fbf80c1812606fff2bc857c91861ccbe6a999cb30b44d188a9",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "bda35ea4169972b579e5296503a08619c9112424a0dbecd388e0551f1815ffe9",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b284d828b4429b4558a8f148dffe1fce8b4da5b6d0ba8a0014f1991176191e59",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "11f032b89f3a3ffb7c427695801eb85c9e8f03116ffb2f7d0809310f0ff9adcb",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "1a52853c68ec4631863d6132041290ef8eab48f2164e2ebf772e5a54204ea858",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "a8a85467f93299ec654cedbb289b9cd28cda0abf040379f88f85fe427d0a0425",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "eee292a71c638ef249870103748dac12d24cfc649a73732060f46527960d857e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "9ad7391fdf91f6d7e312c7bddd791f81ee597a5bb0d77824de69441318aa8ffa",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "06386b411b0339dfd9b22b95e510af7e37e3ee9615ddadecaf2c8a5d1922f369",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "c5a48345871bcd4a990f9b8dd9f1f1524196ab20e506400a448719f807d30014",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "f4cdccd2911c856d880eb4d61df4d67d435717cf582f37f68d84f891b319b9b7",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "faf640bbef2c7c0c62316616adf6bf7caf03ced7dbc7087aea6dd66b7af7e855",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "a0c4332cfd9dbc80beeaff1e9d352ce4f6e01da9c440b9b0c91c8f87c6e8d8d7",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "19ba42c1a60a425d98316bbfb6a1f565dd7c1a417d51339f9df0022da92c620c",
+      "text": "Harness",
+      "hash": "e3b5b45953d79a150092df37922ee6261a81040f5fb3c084fa00efffe8b98589"
+    },
+    {
+      "id": "dabfc5eec6add9eac8e74992bcd60bb850da311a27a4e0f555a6a91a4ef7146d",
+      "text": "Everything around the model that turns it into an agent: tools, system prompt, context-window management, permissions, hooks.",
+      "hash": "e40299472c9a9bb26d0674f0080cba6484a9e46266325376cc8a4c4b67354586"
+    },
+    {
+      "id": "64fe759cb737cd7775b19a1024c56ea0ba0193e90871c37b4bcd96631e9f9ac1",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "183fab1508a503e1f6ac6cb47881e75b4e4782ff7b693635902be32018678af2",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "ec718bc16966327e3b4895c0164b1b5efbbddc715b5c9ae727a8c8418b02cdbe",
+      "text": "Everything around the",
+      "hash": "0f7fa8dd7f7e1d6e2ab80c14c1ad2568c6932dd7788f7dd545ebdfe5657c8aee"
+    },
+    {
+      "id": "8402bb08bc0778d8fab86230a034f966fc03a0ea907261d893bd401c12d4be6e",
+      "text": "that turns it into an",
+      "hash": "d306748e23b29f8ddec45a9d612915fd3483a6c1be3c606c5c5fcd5e404b5b07"
+    },
+    {
+      "id": "edb2727c238ed5856c0d90f0e1989636112c1b55792e7232cc57daa042c243c9",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "4e83f53dd9d22163b28054685e4580f78e4dcfdf3b62eaa5c4caf7ccc8a7942d",
+      "text": "context-window management",
+      "hash": "348a8dec0cb24b229c2f8f452ecf21a0789c9d06418dcbf1ff40903fc74b28c7"
+    },
+    {
+      "id": "c1a02fa80b66ffb46487cc319d1df87756babbdcc837936fe88e14e48d0ce9c7",
+      "text": ", permissions, hooks.",
+      "hash": "e8c357e883573783dc8bb6a3c606dfc56da2a7fde2884dd9aadcbd7b471018ba"
+    },
+    {
+      "id": "89f3bf2a47ff07dc1e4362468dafd365d76ea64a2d17ef372b68b4907f2e61be",
+      "text": "Claude.ai",
+      "hash": "bb601f44e963c80622b7df3ef902e8fbdcc67eb709ea22cf9a7845c662594417"
+    },
+    {
+      "id": "e7bd6f296a7c812df87fafab3d4739614ec750c87e27e619ac5ae859d4e30056",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "5e0e5c81749ea4828c20d5ea222c6ef35a24a299bcb18927646ef6a16c436769",
+      "text": "run on the same model but behave differently because their harnesses differ.",
+      "hash": "5864d44f90bee0349c2c6d3c32d55f162fc1f85d7509e44005ef32344e5be3d4"
+    },
+    {
+      "id": "3268ef6adcdb56e68fc20feb7c862bd8b10db67b03ed26f088348ba0ef2b424f",
+      "text": "The model itself only does one thing: take text in, produce text out. It can't read a file, run a command, or remember the last",
+      "hash": "8313152d4ba7bb301b78b3d69077084f5b588f15293fbfc6c47582edbbd9bee2"
+    },
+    {
+      "id": "c12fb2f5c6cf71ee141942097b636e3b3b1f77caceadc173a1f4642079e812f3",
+      "text": ". The harness supplies all of that. It assembles the",
+      "hash": "9f320b6ba462aa72a9ee6e1c120494ca1497fba7bb47075f40f60be29b0c86e0"
+    },
+    {
+      "id": "42d8682409b2e10e5ae5b93f4ceba317f0c2445ba1cc0e5c49e4099f9a59b68d",
+      "text": "for each",
+      "hash": "0e591f12d69f6d284b18d9aa1470781ee37fcc4d6118725599b96b1c5ccea390"
+    },
+    {
+      "id": "d4ff85f3237f8206cda4062777d29d6aeff427972670092e1fb3fd49ce4fe518",
+      "text": "model provider request",
+      "hash": "3004d539f1f0ae7a40070d95ba4a1323d874684827edf4d55b29a1056f8da7a9"
+    },
+    {
+      "id": "bc8a0497e5bd019253c845abe7267e548e89445a6e828879d70e4f911b5aeeab",
+      "text": ", executes the",
+      "hash": "5a0a80d226335a22cbc84956a514ec9e35d229e93ad9560cd5a9e25aa0896dbc"
+    },
+    {
+      "id": "73fdc171874879cfa1f48c8e544d8ad6f27f809ba74946855663f1382836e193",
+      "text": "tool calls",
+      "hash": "b102cdc6032df9ca67169a6d620fba86a9b0344b8dab71565a5b230deadb5e68"
+    },
+    {
+      "id": "08933657640f85974e773aafb2cc5a139d6095c604afd2fcfa73a540c82fdbce",
+      "text": "the model asks for, feeds the",
+      "hash": "10f5da56c965a256ca98a57efe819e1eddec1518566b36ae035f124d213287ab"
+    },
+    {
+      "id": "b387dc791e8ff90a8d19701504179664dee9827c8d148336bc7269e34b583d5b",
+      "text": "tool results",
+      "hash": "a5594e12dfffd8e54c36d9b99bc31c7d41f0389d2251790338f34e836a3211fe"
+    },
+    {
+      "id": "b3aa957843854b596efa59ddb572cb88039b4cc99fb66c6abe7c53d8dd124afa",
+      "text": "back in, stores the",
+      "hash": "139f9d9902611ed401f044dda4929f899cc2748bdb6eb878da3184732117716e"
+    },
+    {
+      "id": "7b7fcb475b5975412c37d0c711901f5fb55dd273c8fb15440a98381963d8bad3",
+      "text": "history, asks you for permission before risky actions, and decides when to",
+      "hash": "81255f8b52df54a672d4ea1f60d1f7f413122732f7d943355217a62ccd91269b"
+    },
+    {
+      "id": "add52ac089d8d20c2f570c7234c4d01cb12d5f8b574d798c16dba0dcb87f5885",
+      "text": ". The agent loop — model proposes, harness executes, repeat — is run by the harness.",
+      "hash": "4976a117495dc6f9dd68c6e4ecb6cf02496df47abdf2cfc168b5fac7710df5ac"
+    },
+    {
+      "id": "0701203d39d82916dfcf6f693ce2b66e91086c8e9c868191a74d1e9709796be6",
+      "text": "This matters for diagnosis. When behaviour differs between two products, or between yesterday and today, the model is often not the variable — the harness is. A different system prompt, a different set of tools, a changed permission default, or a new context-management strategy all change behaviour without any change to the model. It also means the harness is where most of your configuration lives:",
+      "hash": "de68e9d53b1a55adf09a7ff46e72a93f8afabd580349ebd90f567845226d02b7"
+    },
+    {
+      "id": "54683afa2b62aacd26d64cb0591cb170c1e6ce63767fd9576b9b0dcf078795a1",
+      "text": "files, permission settings, and hooks are all instructions to the harness, not the model.",
+      "hash": "c5a6affc1c3690d35e983baf494ed2833fb9a32d4c0e2686ab195f7358b54fd2"
+    },
+    {
+      "id": "c596d71cfca89495a61a790759971e6d8f598c2703204f357a14de3ea7e0148c",
+      "text": "Examples: Claude Code, Cursor, Codex CLI — and Claude.ai, which is a chat harness rather than a coding one.",
+      "hash": "142f55f507971670feabbbb1379a7c5eeb5f9a072141fbc81b018385a0a26d15"
+    },
+    {
+      "id": "a16ea30d0f67122beea91bcf8c316e8427d9c991eceeb97192197a9c7d7ebb0a",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "b43fb75b99cb4ae9c4e0bc14f1e4c8cd40ae5d54421872524fc0430e70341b99",
+      "text": "\"Same model, why is Claude Code editing files and Claude.ai just answering questions?\"",
+      "hash": "b3ac928204d90767b4ea86984d28804dc5655792aa30b3275a11ac62f6db772e"
+    },
+    {
+      "id": "9a3d1195b64f660f30c8c4c31a4e1932c17deda213777d3970293024ae1869cb",
+      "text": "\"Different harnesses — Claude Code has",
+      "hash": "3415f8da357ef9940ea5f3912395f163ac7dda651a1014a3c77af7e24990f94f"
+    },
+    {
+      "id": "53047e6855a536fc2d8931c3d8cb794c71d26f3e1f20a265b9334b415057e4c0",
+      "text": "tools, a different system prompt, and a permission layer. The model isn't the variable here.\"",
+      "hash": "7e3e5883ec45bfcb019e6481e251b3e2b4def45323517b517eaf82df2b9785fb"
+    },
+    {
+      "id": "b98a5eaf5dbd7704429f7a6c9565edc2b6d29f7361bd390bc29ef6f9b29f096f",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "d134d260d6d9a895eb4bee11c07ee62ab7f647d8013b943f78e2b7a3b6dd66f8",
+      "text": "Model provider",
+      "hash": "ea70384c465d5c89fb7cdd19647c540c4025a1c17532dcb8b987d7b753cf8596"
+    },
+    {
+      "id": "87da198809c824cf5049303ce15d0240e01930f89176e2d185d01a5d4521c136",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "d94c14f2d06c560fe86773ab5ba550105c249678389bdef36c9ca5b6f62dfefb",
+      "text": "Model provider request",
+      "hash": "9c5ec7e007cdf80e19c7d748afcb27235638ab5cd45408bba18188a20fc2e611"
+    },
+    {
+      "id": "d6a97f37dc0b0cd098eaeed735c8966d3815d657875b613b7aa93ff67dbcc390",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "77a4532e081f4e1f26405d85435e57c1ad6086c882dfd12f759381ca32acd5e1",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "603655f86f9535757d7047ef738592abd996dbbf08922c945b654b1bc43a8c19",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "acc73bcc6311d8e4aa1ad2b906ee54ab0bce351cc984d2a0ef365037b83ddf20",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "ab0a790cbe4ae8ef51e8a376add1a6685dd94d7f158918fe89d7dd5495ee545b",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "0e5cdf7755ef838e2418dfa1e6dcadf5de7957b0780b19424add622ad3a6c30e",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "72f526eca28b84f692404775326b2a054bfada1257acce890748b177feda1fb6",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "8a5dfb51ccdfa419d75643ae06063ea1307ab554da8a4dbd8eb8a4cf0a88a880",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "4aff899d1eca3a9d443db73611a8d5da4905d48188f642799509d4a8c387cdf0",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "9a5e86718cdb356163e8fb4f217f93c799d744bdfc28454c7070e547e8d38681",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "70b7093d70673305ba4211c3a9de4fddee25e5cb5eba374a86c4347afb340bdc",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "81e770234ba8a3fdccc06bd191898fa0bd9e2ac30bbb707f72ab905c89d03254",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "afd2f39bb94e2168ed176cb088a1af489fa9caa17b3e4f98c11d94fec92bd47f",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "79d181abc4238425ef0e884a27241411e8c6932c774a3d44acbc952616293571",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "d35d54648c68625ad5f565bbe856074bb5923eb8397354664b57ec0bfc84b65e",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "18f532e9b1dcd2e6d540a6d4f5f3ef5b07a28aee869937666a88707c8a5d2029",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "fd0cfd0cb0044eb9dc6f0309bda16c002bb825486ecaaf6900bb67b8ee8d22cc",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "a0f8de42593c673f42bd9c1970db537ba3d588882818d4ae572d4f052ed5d5dd",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "aeb74a8697b9bc3f05548557074e3b179526a936a8599c0e9cedd4059f1ee0eb",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "94f3f76cc79953e29f1d95a1f104f6d8667b0414c682b834f62c3e07cb0a6145",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "4919e554f8e10bd72468e9b8aeb69df3d6f23902968bc718b401fd771cf762b5",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "1f5009c324a1b5f7d45ced901bdf8eed8e45c777853452da35e1168f356dd7e7",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "cb1fd106b94993b09844282aa26c85518e0f48ddb78bde27ba1f3677d9c21d0a",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "c65607f7807d4dac86d634c33fd9d82f5e670f50699283c91d8978bf21641727",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "d680348a0d0ea853c34627972bf5557c71709b69fc5a5c54267efb3c2ac2a794",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "c29a3f04b39486c794151799543ffaeeabca0831a6c8e7052f3b809cf5a7efa2",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"fpg1ze6lb4rxb\"",
+  "lastModified": null
+}

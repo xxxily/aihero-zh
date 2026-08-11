@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/vibe-coding",
+  "pathname": "/ai-coding-dictionary/vibe-coding",
+  "fetchedAt": "2026-08-11T06:28:42.410Z",
+  "title": "Vibe coding | AI Coding Dictionary",
+  "contentHash": "e506728e9256deb85f128a298ba99aef1f94497252167ffd38cbaee9770bf78f",
+  "textHash": "08da568d557bae5b9f3b35c7cd8526913192e0be961e6d87d111869233e2cc27",
+  "strings": [
+    {
+      "id": "28e2f9e27fb4635522ca86a980b3197feea9e44e327600c6b5906e570b86daee",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "68bf48f957137b144cd3e570eb4063716aaeebcf6a7d880fe650ff2881a66307",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "d8bd18a690c718cdabee8e65a8ce573d8a47df19fd7d446ce09d506ce187481b",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c18d5ecaea43c12ba7ae63e9e450a281311c11726a700fe066ac3883c10184fe",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "5cd10731d59dfde44daf711322787922da73e02c522d7a3e43f4d3f1c12ef200",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "a345f876f5258cee0c8fd6965bf7e1bd28b05cfd88652f54a9f30be1917f5f01",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "934fe4bfbdf86226288e02ec5a18add9b66adc14ee1047d254a2f6b17414d76d",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "76acdc8af8f5a10b095ec44f9da3a7cb7e41a9542f1778dfcad12674ae260349",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "f5032c4f343ab30defd3a6d60949f4bf4aa2cf19d1a0b7185259c499f967eafb",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "470521159dde6138fccbdf67411b3a930e73457c0d3aa865b00380c554ba1481",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f26219f20808ae0af9cf06389c169eec068dfcfc19a6381ce448514ddd54f24d",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "78b223155087f6464e026b4bb64c736618da62f16baa77c585159b6fcf4ff99d",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "7e3d5fd3b8b61bf71646ec063f9a8f5c15367a3ef9039dfda8ec7f04416d848a",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "ab8c2d5121ae71e5cc071ddaa8224c12ba2c1c1bb841419b29a33442856da551",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "36b7e1b1831326f339fc08c79804f7b6d034f6f67c7eb9a6ab7cfbbef088c9b5",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "b2c58263295d89b34048cd2cf1eb161d984aaa3b88e56a731cffd3ea05845aed",
+      "text": "Vibe coding",
+      "hash": "043de4d164bd53f633b0d486ea898fddf3e3c3ca941f408349eeab6185ee8892"
+    },
+    {
+      "id": "4492d09b234a9f380304a74820af114ea02696e3253b39765686009efa4dcf39",
+      "text": "A working pattern where the user accepts the agent's code without human review. The diff is treated as opaque.",
+      "hash": "1fd63778795da02d3ab8d0be1b06ada91ead7d0ae68d15af4f74ba87c53f7a31"
+    },
+    {
+      "id": "1089100660470770f19021c6e5a4bf5c1ea6e06f12a93ff27637feb37efc3491",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "9cb20e3be7d0e296ce13b548836a856b81a258da5d794f0cff4302e138a994f2",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "f514b1870532a701c3be40ef2a2b4dd8fdd37c4d60717c878230ba4f8acc640c",
+      "text": "A working pattern where the user accepts the",
+      "hash": "5be98a63dfa3d9dafb26a411be44fb82b779db1f365880a824cb56242e50bcf8"
+    },
+    {
+      "id": "7dcd5bdf9f0a82af448c3cd9fa1071fac8531d7d9fb3f567e6408166f50dcb9c",
+      "text": "'s code without",
+      "hash": "39148b8be1509c3e5d788b7a8b058b830c193859e8ae8dbd41ecf5d7cd14b172"
+    },
+    {
+      "id": "90791f28bf7c77510d3c8cbb7f53590db482528bb66e6d49bc7c29eea63a55d5",
+      "text": "human review",
+      "hash": "978a8b09ee5844e15ea0661d83702e00e6b4312de7dae44479adf0e8d7f5262b"
+    },
+    {
+      "id": "203b7742a5d0e45a81dcec33f83c163e16e8e9d3b4acd4a498c77df775bdd5bc",
+      "text": ". The diff is treated as opaque — what matters is whether the program behaves, not what's inside.",
+      "hash": "cca01072e24d38f8074bb5d2b2efda0e35a937baf9ae49b1c4fe0c20f744deaf"
+    },
+    {
+      "id": "98a2e42af170593cf15e2fc0031f59ebf868023fbd757c65b0c73ea96c45e575",
+      "text": "Automated review",
+      "hash": "df3514233adbdec46b793e0c605f72423cd52386b0c05dcd3d604d6f196da301"
+    },
+    {
+      "id": "ac95496882eba242102329efc8974085bb53c6254b7a14648b8800e0a2220f7b",
+      "text": "automated checks",
+      "hash": "f748d6acc6e10f9e80812a46b239b1d2f3f145075600d299b6e40632fb06622b"
+    },
+    {
+      "id": "7b6ee101cee622f4fa013a314c68b73380293e743a384c6bd00a5e9822cd73ab",
+      "text": "may still run; vibe coding is silent on both.",
+      "hash": "89d16606bf3dde6854902fbf37a4013f83e12e65a88bd4c2b4240ae1ea5d1039"
+    },
+    {
+      "id": "750d2fce2eecd6a7b572463d63c0d9d2a61f74fd0646221068f18567bcac9f3b",
+      "text": "The term comes from Andrej Karpathy, who",
+      "hash": "b5faa285e4aff23094ad33926a20927c8048a4e6feea7789f20fd706473edd6f"
+    },
+    {
+      "id": "889a5484f27b88a1bcc61390ea5534d0746fd83a7a1876057991f9c2050667f6",
+      "text": "coined it in early 2025",
+      "hash": "22eda04567d21df4c77fca5ede5c6e874a3a2a68fe44960972e00415e8d2de99"
+    },
+    {
+      "id": "221c7a13b78a2e973daa362094edbbbd1490d393dcc9694f8dd3b5d641f730cc",
+      "text": ": you \"fully give in to the vibes\" and \"forget that the code even exists\" — describe what you want, accept what comes back, and judge it by running it.",
+      "hash": "3c53b7e5769f1dfee39ddad92ef60a005995d3d8a7a78a12006bf6b99bb81a3d"
+    },
+    {
+      "id": "9184c0836bce8d4adfbcb3c999c4ba8a1335aebc3dc201b92b8c0149ab350325",
+      "text": "Vibe coding trades inspection for speed. Reading diffs is usually the slowest step in agent-driven work, so dropping it removes the main bottleneck. For code whose failures are cheap —",
+      "hash": "b207d48a7c0d819591e0e768b8013879c4a98c07b0fc38d56ee33fd45429a2b3"
+    },
+    {
+      "id": "bb4b42b55b8ee696da44dbae70d3c302d4f4b21c3e57df5c3a64378299303b18",
+      "text": ", one-off scripts, internal tools — that's a reasonable trade. The risk scales with the code's lifespan and stakes.",
+      "hash": "fa02d6070fd141301a3718bc41ae74d830457dd4e3e8c320859861e221ef9692"
+    },
+    {
+      "id": "d21a6a84e334ac32ceb6088c4dff0b9c7cb35c7daf346c7f1f0ba8006f1763c8",
+      "text": "The cost arrives later. Vibe-coded changes accumulate into a codebase nobody has read, and behaviour was the only thing checked — so anything behaviour doesn't surface, like a secret written to logs, a missing edge case, or quietly wrong data handling, ships unseen. The first time someone debugs the system is the first time anyone reads the code. With human review gone, whatever automated verification still runs — tests, types, automated review — is the only gate the code passes through.",
+      "hash": "16a8aff8ba695c46175e22ddea4b2f5e5494d3b65fa6c7883adece08de858805"
+    },
+    {
+      "id": "d52950184aa2bb454e409463214146dd38b87ddb570d6d1b1ccdd3a5b67c764d",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "54d29e0f9c9ff390b99ec7346b180a104f953b6a4168416cd834dd0cec040256",
+      "text": "\"vibe coding\" as a synonym for \"low-quality AI coding\" — the term names the review stance, not the resulting code.",
+      "hash": "b6b51a9f6bde49b67173c216827f65501f885f2ed46a9103005bd6500432feec"
+    },
+    {
+      "id": "1fbfb5387324894213ee8256f9f594165a50e974ac790fcd7cc0faf50108b7ee",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "1879c01c61922c590747fabbe92541d4423b482ae2e5de2790caa06af622ec2e",
+      "text": "\"Did you read what it changed in the auth flow?\"",
+      "hash": "9769f7a429bd4f0a32fc7547f2e8eb570c8d32dc424ef1f48fa1feb222056286"
+    },
+    {
+      "id": "ec8359ec546fff32bb86e06b2b197e0a665125a269f44698d69974d451ad6b5b",
+      "text": "\"Vibe coded it — login still works, that's all I checked.\"",
+      "hash": "cd254ad982ab5e4dcdd1340bdb1f2c0245063093e52e3e2a7b80c8aad49b11dd"
+    },
+    {
+      "id": "d9f674f9122ba059c1bedc659287bd3d38ae704de81fb8b82349ad9aca737ba9",
+      "text": "\"Read the diff before you push, vibing on auth is how secrets leak into logs.\"",
+      "hash": "0b04a6761d7e7ecdf48fbc64f114956c74f6075ff6e5e5559dea9fac0f4d654b"
+    },
+    {
+      "id": "d0958743910fda016b10ca3ed97f3e74b2d3c7844013673d9d91002d66802662",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "e8e00b6be29b660e9e45facb69665b2dae8577f2b555c1cbaa732868c67371b2",
+      "text": "Human review",
+      "hash": "c1f43b8fad7537eba5cc87664a03cf3efedf7b64fb1d45ffa16a81d566ea2cb3"
+    },
+    {
+      "id": "1740909623a1d6067560c30ca72aa06efccc95f2d867fa7553f621be81ab16b2",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "4fc3c19a5833011667b93acf8b03ca07f44778122a0458e9a470bfa640740667",
+      "text": "Design concept",
+      "hash": "82e016d461be61c25a0a6d1aea2feb29c33baca4c6a3af40367f9ad5b297dd6e"
+    },
+    {
+      "id": "dcf51cdf5e7d55f5f656aee6b55db5ac96d624442e66e0062f5f187babf00fb6",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "8effad2efbb9eb3971d9bd673ab9bb1cf49285e9971270361187f9adeaf92a01",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "a7fe47e89e444471d45891db27e7feec7e66f501bbe24253ba56d309f9d4117e",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "f4b53a3f2427a74416c969fec2a7fc028205d87057a4ec0381bb75bd77ed8f10",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "fc0b839dee6806ded0e2042dd468e98ec06b7ab74f631a74f2f7797d531a158a",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "e166e55f4090c8725e40485fbb4c1f2f4d01042c08f01c048ed3455845780e10",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "29313721afa7fc36e7f806ff2f746c05fed52c39cceaf14bdcd3de17c3c86051",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a850673b4d7a5e991b7cb4b66773f21b2726ba57907eaf57d1fcbc296d0932e4",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "730cb294055a44e4e681f9886e9999cf111b7f8121169180b4c18e8037a0acff",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "9bc07f3d4385739944bfe3e321b578222a7a275fcbb631afe9a5a3c4befe2d5c",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "3602fa9c6e8d70eb2c5e15fd48365d0d18914d98b4725e36f91e863dcf3297b0",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "25131be7b21542578176e002b802421047f6894d8b2bd84be389161c403244e6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "1df4f8a1ce5f1be2e73534b921cb0e88880d11917c934bed9c368423987a32eb",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "cd732473dc8be52fcc6ccca41be503f33ee534e180e54923e006487c7cf8a18f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "8566320e529030d789e8e0accbedb23208ef71f7377e91461a5217d3df2a4059",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "86fd36d4986f662a6c7cef1ded588bc27c23b4b28d279d2d038e31eddda27372",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "2a2ec9ccd1c81adcbc5ffef749951b52435ca89e5a825a190b01bc9ec2685018",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "133e53e4da420d2b6378c61f7440cabae2c1d10e0d67c1bcaa0f841fb64470bf",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "6867b6491f92d59bff32668286252b565bfb35b42954da86959a2de1358557f0",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "ae7091fb7eb7cdecc18bfee4ae8e6dc424622ea6a00ca3cb6c9074c470043520",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "72cdc9b141266b32436ab3a420f848bf950bad90e239e9a787108e1f4e082faa",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "20368cdfe97310b687610d58d6f2e104e0266a7c8253ff5d7f2bf947bd548c51",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "cea24c273f25efc542903e8c8c0ade1f03340c8b17910b28b4a9b8b5a0554a66",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "88e4eebe5c1102c20963d6a3e18a03c1dc833a41402b87a43023d5be897faf9a",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "97967390e0ee518aa2d7aededde8c1a55d7770a09ac9ab24eece0c7b57f55796",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "ff8c9cd124e4217711de30fd7c3c9deaa5130bcfac3d8677f39d56816e631751",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"146hf0m8a044qtr\"",
+  "lastModified": null
+}

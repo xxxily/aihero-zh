@@ -1,0 +1,998 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-ask-matt",
+  "pathname": "/skills-ask-matt",
+  "fetchedAt": "2026-08-11T06:28:07.343Z",
+  "title": "The /ask-matt Skill",
+  "contentHash": "e599295ba69fdac0b74d9318b1746d0a696759a74ce58b6697c35b5b3b567c1b",
+  "textHash": "f3eece654307410c26e4b3b23fc6e82b3388ec2d439bbb3840f76b1e30da8cd1",
+  "strings": [
+    {
+      "id": "41180059be28632cdc3ee48b34974fa2464001cbafa703cc92bda9ec4aea96fd",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "b3eb2c031ffcaf175e8e3baa5cc9306416dffaa552bb5de13f3bf8c4be69119b",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "9f4fbbacfba13a4f0f94ed5eee7b2e6efc7cce5db6cd18ed4b52cef531fa3bab",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "bdc7b9722bdd06993297f0e9ae3fde82b20bbd3f4cc9f4561ec293d71d9d6986",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "481d9541fbf4c26838f4aaec039de424631224909c81f8f0932bb16a63e17692",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "d24e2d3894dfd77fb221b29a2f7fa6295c4d3d1490d24f2aa2659cff667170b5",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "2e07643239ffd3f102ff942490becf32e1ac5069237e2aad4cd75e2cd427787a",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "cbf7a715a2cdd5f2d410cf35ec72146d57c033666258dbabf7965507219ad7b0",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "d8f39dad1bc9fdf636a7abf2a90ef44373bde9a0ff6c58b8604cb1e18d74467b",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "21299f2726204d5430cdac1b8c004ccb4bb87809249e9542eca495fec47e7511",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "a229ef3d15ae98f6e9c7a354a5c79eb8cf4a848f7e7b8e954e6787d4248ea0ac",
+      "text": "The /setup-matt-pocock-skills Skill",
+      "hash": "0674a6df3e473a2f50336ebb738940e032a1a9c5a21617f3a639eccd99c69b49"
+    },
+    {
+      "id": "6da705f2f4a18120f612d4eaa666e75d446bce1ef3a8717374b099b2cbb2933d",
+      "text": "The /ask-matt Skill",
+      "hash": "e33293398b90952072fe7083e0cff6ee94d84e49d6ed9c02486551ec483ab2a1"
+    },
+    {
+      "id": "33768c076c6ae39132079f4d4adf4dd86c7008559e559d80e8c9220927dd85a3",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "7bf6870121e5050cc61d869c1325eeae179ab258bd91b341375737ef22a71ad8",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "0085d1a1812a0a907992bf01abed7d03dadc6f19b8a5e9c518965dd11fcf84d8",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "e7d85583aec43854644559606cea56ba20c0c47bca0f970574ec4e5400c22374",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "820f7f52c16c4f407ca21e2c4ceee47b7d877b965820d5c4b8f53b0abe305be4",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "76767706465b93c4944693d97d46a95cb31025643b757c32760841de2a2fc0dd",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "197a15d33f82501a81e64315165af39ef93484443ae6c56488a6fd2dc1bf58cb",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "ccb20607513714f26acc397e1c43669867336107ce2304d11d7f5b5750cb2dbd",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "657ec835eb9fec502b8833069644c2763b019d1b58c26e74d121119df1e5b80f",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "8652f3e7fb7ddef297907a27b3631f1a8aaa6ffe4851c326643c59a47691730d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "6897d31b1e2330a76df5c51b36791751a31e09e3b9049da76a1d675e037443db",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "735b238f783b082aabe23b52e6c14eb109bedb9adc45123b93b4b5b8768c3036",
+      "text": "02 / 25",
+      "hash": "1a8a24d80e7605bf3edafa585fab7d33e85186363010abe56390bdbb6115d14f"
+    },
+    {
+      "id": "752a0135d65deba62dbc3493260727dc06553ad630595231695ccfa23d822bdb",
+      "text": "AI Skills for Real Engineers · 8 min read",
+      "hash": "09f2e9dd39c5c3b4d7e20076529d7e233953ea4a213d7df649a0aea48b37d128"
+    },
+    {
+      "id": "f76150300ad8cdeb80176e7d95e8e46008b7cae106504ea16ff322b357dd5c83",
+      "text": "Find out which skill to use for the situation you are in.",
+      "hash": "e7a2a8ffa79450713b534c7006b5b5a83146beb7b5ca92b0e9f5274bc3acae66"
+    },
+    {
+      "id": "332e10132fe495a38c18375a5f11b0b58a4d240bb53a8a297298fc96ea61dd85",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "aef5c4e5569c2bdf2a558723e13b185f63731099cdb01e195eb6fd42b25afa0b",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "966e92e5fdc275207465641e3eb07f923c7f1368b98ff71d5ed3fc02c09acc04",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "ded909fc9928f0f734a839ce35b485b757647dd4c13affd55fd2e1ccd57304a2",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "c436e110dd0f0ea3c98575444f25bfb7786f36ca9e9066fa5f8448ac205928ad",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "97bacff6b3fe37debf883f03523638ae13bcd8f0b5cc7bc92aec0a3ea658eba1",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "0f7a782f80b1181a554a46f1a285c8ba45d9771336e2c151cd75adf885810772",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "1ec8644ab36524cdab891649b255daeb20873b1379c7dd2e8407cd71f2edc199",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "73ffe14dd361cc3f1a540d039f9ac0435e0d132eed424804008b9a4d41cd37e3",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "d3553a1f7f3ff2540d124d2e4aa1c8f42d3840a875deeb1800ff6fa491644160",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "c52962caa852cd762ac51696130eef0d36f68d27df43c7bab1c6224eca351973",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "586794fb18d36fa47c261cadedc8fb1b9453d814f5987405a552838c6e4315cf",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "5cfbfc93ed5e688dd392e95e7b06ad16c2d20852360ef401f47ed9da973f0376",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "40e7ab87bb51d107b939368d01975aa3433c3b8a6b75c923bf45b5ab599033a9",
+      "text": "Flows, not skills",
+      "hash": "6405b09ce717f80ab8b1e5d683d12f09abab9156f027ad127971acdaecf060d2"
+    },
+    {
+      "id": "a7abad65e4f8f91ae35e5952833430553e80349625896f8f93693e874ace7d09",
+      "text": "The phase boundary",
+      "hash": "031e570bb7d0e3eb461a5dbf2edb32c402b3cf14223530b1945235d2e6423a6f"
+    },
+    {
+      "id": "477ab83b9ede69e1b152a8d24055c310910f785a01b47c422a80691fc4b9fce5",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "68239ec532da8eb957bb5304797869147f9f8f9585242636fefa65dbf9e2bf8e",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "9dde4fcf4be67691ab631852088e5c4e89b668703f86ac3d87131a9f3eb4189e",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "9a473843a9c3cdfe9f0a1f72c9a4a663b1476f8bc44ce9b1876ce72a74fef718",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "fe4da1d7869c78ea1175b6ad34c9af5f5814babbc7108450f0dac68ab7dfb540",
+      "text": "is the router over the skills in this repo. You describe the situation you are in — an idea you cannot start, a pile of incoming bug reports, a",
+      "hash": "5c6e346e2679bdf2e96eb843cdee3b5108c27b04b73a1bf0dc006ecab7b8b3f4"
+    },
+    {
+      "id": "c8a0f5549794caf0cfcae96b1970467c24d83a0f5a94d35b4a52cca8a841f4db",
+      "text": "that has run long — and it names the skill or the sequence of skills that fits, plus where the human decisions in that sequence sit.",
+      "hash": "5317a3284548e46c14bfc00ce4e96738189881225471bbdaf17db4c6dc73ad6d"
+    },
+    {
+      "id": "b69853c4ef384264e708fc1391f2fe0373a046f5d2eff094d48fe56c08553320",
+      "text": "It recommends and stops. It does not grill, write a",
+      "hash": "c6ee55e05cc5e7d87f07b87561374e62c22e48830db077eee262cab818a014b3"
+    },
+    {
+      "id": "f7b4a3ea84e6e5c458a5d37e99f307edf432d3e53405c1d6422846bdcb798293",
+      "text": ", open a file or fire the skill it just named; what you get back is the next thing to type, and you type it. It is also a hand-written map of the skills in this repo rather than a scan of what you have installed, so it will not route you over your own skills or another author's.",
+      "hash": "4e110ebce9bbb0d225e64437f056e42ec451035c79d136736372afb003bc2c0b"
+    },
+    {
+      "id": "15b4c5c648e57d9bff0526f3b7b4032046b920358145bd2789cdd19f8349e6a0",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "75d7dc1109394dab9fd5da476320928a7558468833542496490dcbc896a03a52",
+      "text": "— the agent won't reach for it on its own.",
+      "hash": "c2edc0b3960c6a12a05007be55915e666fa13ed4fcb063079db0c942706291cb"
+    },
+    {
+      "id": "7ada642d20deb422a0668fff0fe28ce0be58471555e8416ed4a6be96e0cc62a7",
+      "text": "Your situation",
+      "hash": "07b3fd94bd3286875133769f9375728ce5f18adbe4bf0e864e0bd16633b6e6a5"
+    },
+    {
+      "id": "def29254d7a70c2e13d163d8747e00bf45ebce30c5a6e30b97efb554803f376a",
+      "text": "What the router gives back",
+      "hash": "586b9ce2c09694505da24d573b4e9e19eae5fe508bb6f48dff1b3b2aebc70177"
+    },
+    {
+      "id": "3bf4a6527752bdb29e52f07cabbd17b3be17787ca8e2fef48bf06919b3ccbe5a",
+      "text": "An idea, and no idea where to start",
+      "hash": "e672b41eb70e74576c339ce3b4c6548b9e0c1b70e30b4cac7312e980f1539a93"
+    },
+    {
+      "id": "87ad2655742f77f4fe098901238854f4989ed4d0678acc5b4ff3203cf7979a85",
+      "text": "The head of the main flow, and whether the build is small enough to skip the spec",
+      "hash": "a5fdb2b57e70543477602e58c934cd46bfa4946d0cdacb33794bb4c274158ca6"
+    },
+    {
+      "id": "35045735f69f03c9c924bcdb765a073f2169f5360055ffea7ad53c5bfdf41d3d",
+      "text": "Bugs and requests arriving from other people",
+      "hash": "f3f44ee4f61460834ae715f515b054c08cf282d2a2f58b3c00b7e75b99615f0d"
+    },
+    {
+      "id": "8fec47821297baa36a16c10b4b635cc7a0b1b4a33c3809e5052b22a2ea726dd7",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "ef81bb2ea08fd46473f13a980524c8f0fa93aa54e5c89e02fc7f3a1f32916646",
+      "text": "on-ramp, and why",
+      "hash": "becefc80aacbbfa37b5e46f2c6ba51d3b3497fa39e94eb48fcfb4eca252a3ba2"
+    },
+    {
+      "id": "bafe0a0b3f0050e33d2b663b18e38a5337b4060933ca6984392ddf05b610d59e",
+      "text": "you generated yourself don't belong on it",
+      "hash": "8d91a59c4adce3726184f235b04f94892a3af45e3799df8a316df034bffec5a8"
+    },
+    {
+      "id": "51da154a920224079c63c2b92f394de16e7ff10336f35d8158a80c04fa84dbde",
+      "text": "Two skills that look interchangeable",
+      "hash": "7432380780739f54e4be5bd3e56ad03987e2469c8f3c3360201b6a887f932ccd"
+    },
+    {
+      "id": "382e102a1bc5221911ead901a60cfbf3939c1d86ea09cd7c23527bcc0b780b1b",
+      "text": "The line between them, and it is usually one concrete test rather than a matter of taste.",
+      "hash": "7e126d38dfa614f3f91771a70916781f51d8a48146f1e355d1480308427857e0"
+    },
+    {
+      "id": "a8849f273a983a0286597313bc8400316b5b84fc97456f5efe7997e7a9ff58cb",
+      "text": "turns on whether you are in a working directory;",
+      "hash": "3ca97287eb3ca5cb4067331e5d458c600e4949481dd75b4e9a23a4338cd9bc26"
+    },
+    {
+      "id": "d5e0c617c9348b34f45f1456d5157db4d216eb9c80e34aeb8f9a09f7e04203f0",
+      "text": "turns on whether the effort fits one session",
+      "hash": "3658952c8da36e2412d3eb5b6c0e35624fa07e49a8e10485a90bd16343769b2e"
+    },
+    {
+      "id": "49e1d2f86964776d07b37f86ab9bf743b5bf80e12690e081c41255047e3a8f06",
+      "text": "A long session and a decision about the",
+      "hash": "0e514ef58953f740035288a0b4719c89d24d79b10555d3228d5e6d653e5a9ba8"
+    },
+    {
+      "id": "f21601369e1ffa272c9dad18f469dc9a825544549f5c6305458006a092c44145",
+      "text": "The ordered tree over the five options at a phase boundary",
+      "hash": "dccc5d396331aa15fbcdde7a7588c1738561427047fcf3448337e37ecf941a9b"
+    },
+    {
+      "id": "fea57e050c7ab99b8c13a270c8668b81a482304e6b4a9d5d5ef37848facc02bb",
+      "text": "A skill you have already picked",
+      "hash": "c3e6d96905b2a94b43a08a4ec2ac75277daf0f757dcbb24c02ba1c3a7c9ece15"
+    },
+    {
+      "id": "413861c82ebba660c2531b053e2e0bb67dce7f922ee70e227ba22a6c486a9a14",
+      "text": "Nothing useful. Invoke that skill directly.",
+      "hash": "34e3c2faf5846128ec3f9f0ebc680c09d315f268a909e824662a340ed4049c61"
+    },
+    {
+      "id": "2d614d669da36bb9a2e4a2de8fb1680afba6a32cdff4db7d6592bd94df43f715",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "535aff51bd030354654b96f15fb08db73aa11398b8f0234fb80bd0b20fa491f0",
+      "text": "The router names skills; it does not install them. Everything it points at has to be installed for the recommendation to be actionable, and it only knows the promoted skills in this repo.",
+      "hash": "15b8066d660736adaa246326db2c29d82ee12b589cce301043542966f54dd96f"
+    },
+    {
+      "id": "17929793c3cc6d2c4341e2dd97211c2ca3e2f9d8eaa92d2e85a4b7764d7e3579",
+      "text": "The tracker-dependent routes — triage,",
+      "hash": "a645d7d2f91b518c1a2c4727c18e383f2678ab274173db0af604a3c13c690315"
+    },
+    {
+      "id": "75bfec81fc62fc340e6369139efed3d194c6c032a637149b60cb85d23bd7eb9f",
+      "text": "— assume",
+      "hash": "f6df04ebe3643c2e891e50ac91c1e66a0ec5b9b3e945c25ba6eed8e12cccb1e1"
+    },
+    {
+      "id": "0061f8fca0f05bb1103e8ed9110c9aced7f6607c16705db4a643f73790f4c4a7",
+      "text": "has already configured an issue tracker in the repo. The router will happily recommend them before that has happened.",
+      "hash": "b1eda44c26d8f86a4e0eb43c56833c43c38f4fb532717c44d18801bc4ef78710"
+    },
+    {
+      "id": "2ea75229668c65b2e8557b9256cc80e94b11dbd79bd2a14cd08331dd3c583fd1",
+      "text": "The word the skill gives you to think with is",
+      "hash": "19eac626a3fa9af3fe471da1927f41ac937159287a3d25243edeff1d54184f99"
+    },
+    {
+      "id": "2b33abbcf6f2cd144d2aa4acdaaa0ae2b7035d9ecdafb9cc43701ed0dc95d8f8",
+      "text": ": a path",
+      "hash": "419648ee497acd0cabb9095b976ca19ee39966ae014ff1a98e58b9f5c8085f23"
+    },
+    {
+      "id": "23c796cd1878dd01a413d1c233471206913a45fb1c25a9dc2ded4b1a94e4d014",
+      "text": "the skills, not a single one. Naming your situation places you on a flow at a step, which is a different answer from \"here is the skill that matches your keywords\". Four kinds of route exist, and the skill itself carries them in full:",
+      "hash": "7677fcb028547279c65808f397afff4499af8b66c33b978b3d1f11ab1fd8a168"
+    },
+    {
+      "id": "302b62d5f07290ac96f36c9a4ca236b2b58ae862354925449dd2bdfbb22d2605",
+      "text": "The main flow",
+      "hash": "baff0f29c2858e20af6b46fc1a3b4f51c774934cd69ad1572b8e830259fb783e"
+    },
+    {
+      "id": "0024eef044c35ad9f653750e82443b1fa8e6aeda719c931b5a0f28826f158fc6",
+      "text": ", idea to ship. Grill, spec, tickets, implement, review, with two branches inside it: a prototype detour when a question needs runnable code to settle, and the spec-and-tickets split, which only earns its cost when the build spans more than one session.",
+      "hash": "99c9a335a7724fe92ef4756d6ee5611038fa691a247371f3dafb358b3d0abf1d"
+    },
+    {
+      "id": "7fc915270b6e8799ebbd4effa15b452ae1709a99cb1f418e8817f5ca9eedc11f",
+      "text": "On-ramps",
+      "hash": "73cb15449131ee5d5200728f29f4af70c1f6f4ea872b9d062d667ddeef57c0f6"
+    },
+    {
+      "id": "5fc1ab206f943c944c6ef712d68ad6a566933a866bcafe5e2bcc808fce824865",
+      "text": ", for a situation that generates work and then merges onto the main flow: incoming bug reports, something broken, or an effort too foggy and too large to hold in one session.",
+      "hash": "02916d0be7b4f23480d10abc0933b02991ca7e6cbbe8082f1ace9595ea1574a6"
+    },
+    {
+      "id": "6acccb9f874f05a55ea0a42b03840961faa711ca5261317371c755e4b24c47f4",
+      "text": "Standalones",
+      "hash": "ad9f7ffd0584a87f641975e19147b24df9017ad384586a0844cadabb1cbed6e7"
+    },
+    {
+      "id": "e16efe8fd48a14fec27ba9465a6d7ffe9c9b2dffb9959837123de8621e98e303",
+      "text": ", off every flow, reached for on their own terms — the prototype, the questionnaire, the merge conflict you are already sitting in.",
+      "hash": "d28e753793e0343658fb5f983a413086f8916f239858e4447aa672e3b67ad053"
+    },
+    {
+      "id": "4d582b800d39dd74a8432941165af85bcbaf1e78b85521a39fc9fd95fe9ad207",
+      "text": "A vocabulary layer underneath",
+      "hash": "a361683a2b235d3afc62525464787778309412534a6a9dcd88ec51f0ddc9c161"
+    },
+    {
+      "id": "4861658b2c9d83854af2e9392b82beb7269f435df2ed96c0017a17e9c93a5096",
+      "text": ", the two references the other skills pull in when the words rather than the process are the problem.",
+      "hash": "dc20c426fc1d906096f2534ae23c1daafd357cf8f3d1fb4ffdd9eba597aecf6b"
+    },
+    {
+      "id": "d20334c24139751082b201cc670d8fcd9868e69d2c3e327eb7b326c87cc9651c",
+      "text": "The other idea it hands you is the",
+      "hash": "8d0b75af842b8e366eb63b0a17c94b5b9a21adef860a9ecd731121ded9959710"
+    },
+    {
+      "id": "f4e8b129165c72224a1c59a7331c355f023a09ae887cdb7905b969634cc270d0",
+      "text": "phase boundary",
+      "hash": "7c0c0d679189279a6f3139ca61f3c229acd30a63e24dd9881cb2bdf053d78f45"
+    },
+    {
+      "id": "7eb8b9a97f0558e6e52b66cee24d49ab3446fa78ced474b97eada742f7c3056c",
+      "text": ". A phase is a chunk of work inside a session — the",
+      "hash": "a9e6925a05a614af6387ad5741665725da3ffa636ffe42f9906d429fb37823eb"
+    },
+    {
+      "id": "ec70530e4deee64f036a79a15fe9cddd46d47d6f3777d5489520500077191f44",
+      "text": ", the implementation, the QA — and the boundary between two of them is the only place the question \"what do I do with this context?\" belongs. Mid-phase there is nothing to decide: continue, or split what is left into",
+      "hash": "aa32a8292f4bb1d1f33abb8142ca68e29166613dce24a622e4f62c5932544291"
+    },
+    {
+      "id": "5f1041eb5475613725e1dd72f3193a25c20c49e2612a33f1dcf2aaef1b1cfba0",
+      "text": "Option",
+      "hash": "45aaacba7ea1a668da79cff4034c6573c6ab9399bb868b878f7e844fd0b6ea75"
+    },
+    {
+      "id": "49b137e1559498a5e1ebb5f253608bccb976ac354a5d6262abb7a25476501b03",
+      "text": "Take it when",
+      "hash": "8f9dd06634892ffe32b824e0c734067d87832146ede45f02096572016fa79b23"
+    },
+    {
+      "id": "0648b2874ee1dc5f3dfe71fcabdec0dfff18b0b494f4c9f900ef8a5fef664832",
+      "text": "Continue",
+      "hash": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8"
+    },
+    {
+      "id": "50e338b39322b5d997d2b912ba075fd52e61347a00663c834f11baa19c26fc78",
+      "text": "The next phase wants this one verbatim, or you have",
+      "hash": "609cce28be205b76950dfd08fc1f02a6a9f6948c746337848f239f72196a4dae"
+    },
+    {
+      "id": "cf5fd43bf3a864ad1e8e4b9b59ea5d503d0f3ebeb6122174090e24bea24aaa80",
+      "text": "smart zone",
+      "hash": "bb3f6aa92ec029f636da2bd637e41c9e6c26586e54527ede34151e0cf892cdb8"
+    },
+    {
+      "id": "398a218664d5b698018ce6d928bac92248f980f223c839e8ecdabd3ba4408387",
+      "text": "left. It is the only move that keeps the session as a",
+      "hash": "ee2d5b54afa3d7175009d89d335dd420c48a69796120def35dc6638bf95d9ef7"
+    },
+    {
+      "id": "fe30ac09815bfc5f192468cb624072b6aa722b3d9bd9b2edb539c9eef783e9cd",
+      "text": "primary source",
+      "hash": "4c3f03bb625194b79deeff56ee12d13258ff531de6eef1fff5529d0fe89a1404"
+    },
+    {
+      "id": "cc4ec55c00f590ab3c32d6539eb7af322a365c6105030d006bff9788d419d4eb",
+      "text": ", so rule it out first",
+      "hash": "2d55331266a4510ad69aa0508523b104e3f4f751f74abfb0932751fbbcfb25f8"
+    },
+    {
+      "id": "b991c9816d9e2d5e0b37fe4de1081f541869c1082f85b3fadbaf716fdafd32c1",
+      "text": "Everything behind you is disposable. Cheapest move on the board, and one-way if you were wrong",
+      "hash": "829b15e8cc318adcb90223d9414d6c62e7931623b75af98b0ccacb7a91acefd9"
+    },
+    {
+      "id": "68b6a76a413fdf28a13385a4fdafa05d0fe2b0e8e5832985c15511e434fec8c5",
+      "text": "Something has to travel: a new",
+      "hash": "33110b3e0e279ba0461afbdff737affa24ab8d6d2e9145f812c0a0766cc3a8bb"
+    },
+    {
+      "id": "8ad8ea2bd2dcb41e6e9cf1fd2a3fbf2d578a28c35ba1e9b361f05f3d0b6a61aa",
+      "text": ", a new directory, a colleague, a side task forked mid-phase",
+      "hash": "17d987e5e904e29d313ee70ee5768c1255702b132474f7ca51c27b5c82aefd1a"
+    },
+    {
+      "id": "5a25a747e6510fba0642c2f46021fadd13a71a735238df4155239b9695f48f0d",
+      "text": "Subagent",
+      "hash": "d6cb4188b8fa57aae3e4ca3a1210c9afe7ca995375c2fb36d90a1fa73529a44e"
+    },
+    {
+      "id": "52d6a61d2619d180fc5606475372db1210d488a8abc9efa4b486b08ef28b84d9",
+      "text": "The task is scoped tightly enough to run with you",
+      "hash": "a80666a1aca1cc951b0cf31a99154d1ba8564be94e6360cf4adf05b7e4e512a0"
+    },
+    {
+      "id": "d5dcd14727a60d2a95edffff1726feaca974486139161307a5b35f7c7b5a2033",
+      "text": "away from the keyboard",
+      "hash": "e6618af97b3989038cefa9a2d46fe0ec3e43841e5d0e5cf21745ea35f981a712"
+    },
+    {
+      "id": "fa0c3417c37abca0b057cf0a639bf5090a051704f4a808a267b08d2afe7596ab",
+      "text": "None of the above. The default, and it lands here often",
+      "hash": "313af925da694b7d37c65d5f5f1c0742101a2da7c046078dcec1eaa2801b3bf2"
+    },
+    {
+      "id": "a846fc0a37d1526d36954c00f24f7f7a826b9a76651755afd66f930341d5d694",
+      "text": "Two of those are routinely got wrong, which is why the router carries the order rather than the list.",
+      "hash": "27f36326c7be89d22d965d2f5e701b80a838c72adcbce3083ea28fa85b45233c"
+    },
+    {
+      "id": "f8ced9a849eb1abbecdd11aff34137f86843e66469b06ff70df3571189b1aa55",
+      "text": "reads like the general bridge between windows and is not: portability is the whole of what it buys.",
+      "hash": "26ad5c5a7222f472228a866dbda20fa055aecccf3a03f77ebbb7954f2de106ce"
+    },
+    {
+      "id": "c3afd4bd44e29fd1bfe98b37c17d5b8f4f511c5d2663bdb058a8a9d9d4fddee0",
+      "text": "is the bottom of the tree rather than the first reach, because the four questions above it are each cheaper or more precise.",
+      "hash": "0a6a43b52dfc53e03339c94d9b7a001ca83375d83d2a3a58204093d3233eab2b"
+    },
+    {
+      "id": "8d66953b666be51748b1beb9945695cb8a77317269fb99123f298e4253819474",
+      "text": "Isn't there just a list of the skills in the right order?",
+      "hash": "1600aa9249a0c02b8b09b075b292780024dbf88e1b9dcbde5ebe5990189fa951"
+    },
+    {
+      "id": "236a143d9a526e73d7f983bf76c380058fc98c277c7eb85bfe89c39e3259162f",
+      "text": "People keep asking for one in the README. This skill is that list — it is what it exists for. A static table would say",
+      "hash": "b92def054d658c87aee22c07abdb9825e290071075fd0f64a62208b0b3ae98c1"
+    },
+    {
+      "id": "76c09f5dd71508eafedf18d1de959dc15a472a3bc300d2addcef9dbd7b17376a",
+      "text": "and be wrong for most situations, because the interesting parts are the branches — is there a codebase, does the build span sessions, can this question be settled by talking. The honest cost is that the router is hand-maintained and lags the repo.",
+      "hash": "6836aef294eb1f0625b94e1796f270a6998f61b947184ffeafaa45843f333e63"
+    },
+    {
+      "id": "1ce463df6254028b25e04b0496ba39bdff500c8d8fc26192d1205218e7d30f10",
+      "text": "both shipped long before the router named them.",
+      "hash": "98f91524b5f0b2a213c9a4fcc8ca20eafc8d592834ebf67c81ea29b9d1d04d05"
+    },
+    {
+      "id": "62ddb4755b34dfee47116478a8cced6c904bfe2c4f8bb898ea01fa51cd7c9b23",
+      "text": "It told me half the skills aren't installed.",
+      "hash": "1e2c282be298feed834248dfef60f28f0d50e64220847247a1c89d2e6fd447a3"
+    },
+    {
+      "id": "d4540626aa330ee885d5ed1ba0e7be7049c27495e132c612cbf9207489ef434d",
+      "text": "A known bug, unfixed. Most of the skills the router routes you through set",
+      "hash": "8bfa6af40c6d4942c467c1ad2bfd92d0f876dc975e094512d30885d121e130f6"
+    },
+    {
+      "id": "23d2b7587e6e89e4ac28773afbb861b99d8b734b4d3fbde97694fbb6a18a5ed5",
+      "text": ", which means the harness leaves them out of the skill list it injects into the agent's context. The agent reads that list as exhaustive and reports them missing. One reported session had it declare the whole spec-and-tickets flow absent and reroute to bare",
+      "hash": "bbbed22505fb2c7479db881d5a493e80ca786b6dde3371cc0083f112d920ff2c"
+    },
+    {
+      "id": "b02f84ed49427aa5ad8d1251772a354f576230e7d9046e278fc5787d69414f0c",
+      "text": ". Thirteen of the plugin's twenty-two skills carry the flag, so this is the common case rather than an edge. They are installed. Type the slash command anyway, or check",
+      "hash": "1202a401e5811008096a650bc8ba83e45362d055365248b5a53458c3054e0673"
+    },
+    {
+      "id": "c433bb571706c43fc61632ad6ad41cae11b998584e9bb600f5c5274e72e26a76",
+      "text": ", which is the authority on what is present.",
+      "hash": "39dd3636a8db39415f5f36f29ed4b85fe29b25a2cbbfc4782405de2584ea15f1"
+    },
+    {
+      "id": "9a4c95b8e263334a12278f2586335780725fb8d3abb701c58de15b99cb5d8390",
+      "text": "It described a skill's behaviour, and the skill doesn't do that.",
+      "hash": "c1c3a60a54d44fd69caed5f5e18f2adb52de65bf9bae8900aae405dcc4e55898"
+    },
+    {
+      "id": "6519e04e0c352669fa2412181da650e9f58365e3f6fb16c474225b51f4c1dff6",
+      "text": "Also real, also unfixed. The router answers from its own one-line summary of each skill rather than from the skill. One detailed report tracked three instances in a single session, including a recommendation to skip",
+      "hash": "9aa1e86ee2d98de8dcdba0cfae24054b6e549b542d456c73682c4940fec5446d"
+    },
+    {
+      "id": "4dae5284c36f0ee94c7fbcf191f204bae6de4aebb4708f3f91c9a0b04e7d8e77",
+      "text": "on the strength of the gloss \"turn the thread into a spec\" —",
+      "hash": "f3f49b17d566d28c2250774428ec00b1629333b11a0acb9a794ce4c29d32c8dc"
+    },
+    {
+      "id": "a49a5768409268776e519192d517b1225b1f45be9506e4040e226ec841e832a8",
+      "text": "was never opened. In every case it verified only after the user pushed back, and never on its own initiative. Skipping",
+      "hash": "377e74658ffe987a78985f21c4e95bde56ace206b7b305077ffbd9f5525bdac2"
+    },
+    {
+      "id": "9fb627bc882f46df25af1e13d7a78543e13dcc2efcdc6d4844417917a401c24f",
+      "text": "there cost a real seam check, and the tickets that came out undercounted the work. When the router asserts something load-bearing about another skill, ask it to open that",
+      "hash": "d6dc8b10a3ffa067218b17cf24b2d898d564a8adb4077b8a2a3ac011c7215e39"
+    },
+    {
+      "id": "01d8589ed290287a266d5e59ae7ef199e4afe4697cac132b29d36e967bbfb085",
+      "text": "first. The same applies to questions the map does not cover at all, such as whether to use",
+      "hash": "200a72d1339dc280a2af9c502b0b39b1ea690e2e96fa95aadcaeb149b83ad395"
+    },
+    {
+      "id": "4a270c5ef68b6efc68df40fbe9443a34f1153431f363ddcdd6d255d748dc8076",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "c2de394cdff80845236223e12878142381f3467929cf738e219493f099e4e6b2",
+      "text": ": that answer is the",
+      "hash": "b534302d3ab824e38ed18fb72d0d2858873595d1e35117d64661451c4da49888"
+    },
+    {
+      "id": "3f5289a203855e63cc184fcd970d59992e729ecb24c289fad6c1f8657a7d1dc5",
+      "text": "'s inference, not something written down here.",
+      "hash": "e026a4b31f03aca42874e5c581e00831b2acf887fcf0a9c4f82fb6f34b52be21"
+    },
+    {
+      "id": "13954642ba8da68f871a9cf68082ec63fe3a40b725ba2a1e9efdcb1eb6646ac2",
+      "text": "Why is it prose instead of a numbered checklist?",
+      "hash": "8ad7c0b5bdf4eef7605065068ffdb4b6b00cbb6360f9236e845f2874683941de"
+    },
+    {
+      "id": "635ea9195daf6e1ec402ed74e338df6ad9eeea422372e084d3e7b23f13824987",
+      "text": "A fair complaint, filed as an open issue arguing that most of the routing is deterministic and the narrative makes it hard to scan. Nothing stops you asking for the compressed form — \"just give me the sequence\" gets you the sequence. What the prose is carrying is the conditional half: the branches, where a human decision is expected, and where to clear or compact between steps. A flat checklist drops exactly that.",
+      "hash": "efd1fd2a74b8936008bfa1c76565abbf4b32fddb205be41403b3e47a6a95a697"
+    },
+    {
+      "id": "3fcce2ca1b14e6822b4482d1f5c45ed391571660a63847d12708bb28ed7e33ad",
+      "text": "Can it route over my own skills, or another author's?",
+      "hash": "0e1fe060d5c7c0cbc1f7c6e53a234c723ab4af177162a61b7defea297df5a7c1"
+    },
+    {
+      "id": "563c8254a7eae79897aa762fe19ec0cab44a3b878c898086db8c44b0dc9f9421",
+      "text": "No. Three separate proposals have asked for a router that reads your local",
+      "hash": "eb7323524f774e96dd7d14f818eb1f06f5a6f817341dc9abf88b98313913b37b"
+    },
+    {
+      "id": "389b22ebef159d7894f29434dbf444ede8fd2ce6cda5bece4adb7fdbaf05e4bc",
+      "text": "directory and recommends from whatever is installed.",
+      "hash": "395c8ca7641bada868b392fa79e0252c74a96b7bd32e101ce4621a7b164a38c4"
+    },
+    {
+      "id": "7b3c4d7554eac14e02c31a1dba276b3b3f92fb9cd9288a702b34f52fcabd7cd0",
+      "text": "is not that. It is a map of one set, maintained by hand, and it knows nothing about skills you wrote or installed from elsewhere.",
+      "hash": "073f5f3b32ca309076b198cc8bdc8b53f43f2fef3394fa0bae359af5c5982451"
+    },
+    {
+      "id": "089d442ef8c462922a9f47625b56715beb530faefcf9acc3a3c91d783e715408",
+      "text": "It told me to edit a SKILL.md.",
+      "hash": "91c80be7faa29f3caa1c0484769021d7bc545d20612b887fec9f54c1d8edf929"
+    },
+    {
+      "id": "be158bb7dc1e7df51c183ce643419777143c0f68be9212423236fbc6c7d5eb35",
+      "text": "That advice is often correct and rarely durable. Someone asked it how to make",
+      "hash": "c1c7f64d841cf878d8217049b0c9bd31f1f3a25c8ed651836fa54aa3a7aa0fc2"
+    },
+    {
+      "id": "34b20b879d38d6a6809ee21f35ea68f8f0e62b4cac372d25a9048d9977320472",
+      "text": "close tickets, got told to add a line to the skill, and immediately spotted the problem:",
+      "hash": "08fa345e0bdbdfd21ae3dedeead5d829327fe8bc7f925cb55a4048b5a052c1b2"
+    },
+    {
+      "id": "0517b9a2f7a20d19c0f0e8c010f571f084bec2890023063ed1b0e5f1aadcbd4e",
+      "text": "overwrites the file, and the plugin install is read-only. Put standing behaviour in your own",
+      "hash": "308d60f73202d33088b3c3bdd7d7d16cad98aac0cf0c7b04013d5ccc748cc45a"
+    },
+    {
+      "id": "52adf4ac6a90cd6385426351dbf020695ffa80173af9bdf1e8ec1dacc55c06e4",
+      "text": ", or say it in the invocation. Prompt-level adaptations survive updates — pointing the flow at Linear instead of GitHub, or asking it which open tickets could run in parallel, are both things people do this way.",
+      "hash": "6ca42edc6f459a5d0a42f41aadc3850f3bbf017730da91b26fdb5617c5d6064e"
+    },
+    {
+      "id": "a2afb258d97038629ae9eca90c17212ae1324e572275d1a895b31b0e5c732591",
+      "text": "It named a skill I don't have, or missed one I do.",
+      "hash": "b81bab421fbf297827438dd59401efabc4f5c15293b9dd83dc6983a086e18fca"
+    },
+    {
+      "id": "c80c2df60ef0654b45383597ecda96dee15545c766c0eca7b0f5cf53c4155fe2",
+      "text": "Check the changelog for a rename before assuming it is gone.",
+      "hash": "cef18882e51d8bcd409c546a0182a62aa55ce31b524d9fb2675f06c621675b64"
+    },
+    {
+      "id": "9e56e86a4860fa800455f83dd249697e2102d8615d4a2bd63d5c2b5b4d4674da",
+      "text": "with no alias,",
+      "hash": "71ff4e7e86a1883f50530fbf4a3512984223490e548422b77c02bc81b96e9db7"
+    },
+    {
+      "id": "11e537243cdc6a0d9baed6762877ab415490d78877c06ba6aea9fcade7fb6847",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "65ed36ce339f5edecd71596673f363e241a212fd2d26ceb51930f2d969ab820b",
+      "text": ". Four skills were retired outright into the skills that absorbed them:",
+      "hash": "72dc02dda907220decea29d16bc4be9cc61b3d93fd5a015d02de8ba53fcf5f7e"
+    },
+    {
+      "id": "e7e7f6f8f960e0c3d77b9ccd4f524d5b9952a857ad1d2783b72e7dbff473318f",
+      "text": ". The reverse case is the router's own lag, above.",
+      "hash": "decb9290960f29dc693ea71c9fbbe9434d8534ba3738e31f09ebad1cc6c54cc9"
+    },
+    {
+      "id": "6a5e606eb4ddc515c2588589db373ecd7d9ca27d5952f0efa70567f1ff1c352b",
+      "text": "It ends by naming what to type and stops there, instead of starting the work itself.",
+      "hash": "1fe9c58437848d6ec5a0cce3333ff57062767d077d06e7391eacc3b4336b1218"
+    },
+    {
+      "id": "d5db8d05dfc0606ca0613805aa0c7157af0d4f7bd7587fb5d23e71d402b153d7",
+      "text": "The route it gives back mentions where to clear or compact context and where you are expected to review, not just a list of skill names.",
+      "hash": "611794e43c16b54736bc5befc66df64bf3ed7af00b35db521b3fe06f7ca92100"
+    },
+    {
+      "id": "f7b74226af86d4e6cc1359747a99359732e991fab44270503332e8eeb1d5b820",
+      "text": "Where two skills are close, it says which one and why the other is wrong for you.",
+      "hash": "ae7d5798e9ff893dafe8d307592f10a39e319a4158d6f5afe8df9db7a0381970"
+    },
+    {
+      "id": "a31cfcc3cb548fc7499d90a1627575340c992bb3c29dfd078e7a53791f2514bf",
+      "text": "Any claim it makes about another skill's behaviour shows up in the trace as it reading that skill's",
+      "hash": "3b5d2129a0bf4cd95e27a48304123bc3e9de078056ca6bbd935d546920bbd43e"
+    },
+    {
+      "id": "c72d54603ce15928b8f4ff509d7ac7fce3c727d1a1d587ec33353046dec4722f",
+      "text": "You recognise your own situation in what it hands back, rather than the nearest generic scenario.",
+      "hash": "a9ee1c3f7c86a174a798802ec5720262f9b9b8aae86a64e900a724e928b1749d"
+    },
+    {
+      "id": "d87a0a63def1f72c97c29fc21cfa62d1268754e81212daafb0ac77b445ce084d",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "31a5b6f05c69193fbcb943be91f35e762296136b8ce9ca0c84efd38254130c34",
+      "text": "standalone router",
+      "hash": "3efa0138184461ae01a20d9ed87e52c7ae748a72913d70a1fd28da37760aafd2"
+    },
+    {
+      "id": "271bd07a9aa7d0db7ab3f48210f57e749b67c3b7519a0241705ab5ec84305946",
+      "text": "that sits over the whole set. It is never a step in a chain; it points into every chain, and it is the node the other docs pages link back to so none of them has to redraw the graph. From here you most often land on",
+      "hash": "52b33dfbc559892037b54160fd2941cf66da3162922e21dc005332f9aec057a0"
+    },
+    {
+      "id": "bac95681b1f4ddd127341ce5aac3566ce2cdaaa65a5d81b39b16757bd807ff34",
+      "text": ", the head of the main flow, or",
+      "hash": "83419b6569a7d662cb4e2428f3d1ab8a5a5fe4938d562067f54eb982bcd53f92"
+    },
+    {
+      "id": "520228c6c6dc704db3cc3dfa8f07336494562d05aebc885fafdf5b160586572f",
+      "text": ", the on-ramp for work that arrived rather than work you started.",
+      "hash": "53ec1527d46ff38a282dbfb40fa631cd6b59f4919e61ab9ab8b96b8a3c459fc2"
+    },
+    {
+      "id": "b556589f01d515696496b7a516ceaef4e8c7277abfb500220cdd0f745a394cff",
+      "text": "It is a",
+      "hash": "1180c49af0e917bf17663df9eeeb7029628dc3fb160f8a118a6fc6fab566a945"
+    },
+    {
+      "id": "ec464a79a6e674e8f716d39322f0b152f7640aa5bbd385ae5b6ed446474efd27",
+      "text": "secondary source",
+      "hash": "130ab3f910dec4f94436851c6b9a50abec9e6cb96e7aadf7c47be2e57da1c894"
+    },
+    {
+      "id": "dd7af58568ff0ae58cebbb1da6f9dcca980dd71804d7a808939c558ad518a51f",
+      "text": "over the skills it describes. Where the router and a",
+      "hash": "68be96db76b404da2d7a055d761fddf228f7b61558a5c957ca3aea3609c73344"
+    },
+    {
+      "id": "f165e3c1d3630a35e5b7050cba4788b2372a709eb616361119b4b3f8a254e1a0",
+      "text": "disagree, the",
+      "hash": "4974f46941a5d10bf5a82cde24cabe45e0d8c98c7fbf4f92eaeb595c5688aa88"
+    },
+    {
+      "id": "0dad08892277ef3448cefbe6a5e9b4f59178bd47a3e393125db6c7ff1d0aad44",
+      "text": "is right.",
+      "hash": "ad5813c413ea4707ae83152ecb6c421dcfbc4aa7f610811d096e6d0d61b4299c"
+    },
+    {
+      "id": "09862e45e6054ac2a3c089d2ef5c8868862904fc6b08d5a8a0dff4a445f52ddc",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "e3972ceba50906d99bee2c8de67e7cb8a173fece7c06ec2e2b4c279255383160",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "c9fe417d61e1c247894cb6bd2e8a44412584e13bac553498948e24101c4926e6",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "a176961712001638d52ff1073e09a514a2d5118f467047feec2b7b4a55701748",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "b32840ddfe522bc4f930015dabae1bf24e86cf5ce9297867439ff0776ebdf5d4",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "c880b11f7632c602ab8cf4fd6dab16759e669e33d9100464d88a8e5bd72492f8",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "d8ceeccb2ab7becc7e08b55c3ef3142bbfad03273d062a0c3d8e581152861c32",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "9b6f68211afa19d194b3f0e6e4807094272606eebea56d4a63153dd6d8092c84",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "cd2c82e42665a4a194f8dca10d7314fb8f0968e47081b189d85607361e143bf6",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "d53bae4e3e81e48220a6138ccacf3d32d79df877ab03bb19226929534d86e6da",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "309f0e2161b3b970abdd6424dfbbf8b16027cad75fa4c8191c643c7d9d3a2080",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "00c3c2cf224152bf11a9f86c91a9a0885d7b21f31bdfd5fb8495d6fec86a7dfb",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "3ae375a5b3dd738717c554d6f698164a7da9dd9c2afd85f04b0c06dbf414f2cf",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "12725fa1ea836532858fd466d8f2a7b89a3dd6cef7f97a532710656efe8b4cc3",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "003e7e224ed2dd5b5fd0f44575496f7197d75449ba31371cdcfcfec53e5055fe",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "88c7ed807fffb0878c738964f45d136fdc32cdb6dca7a567eb1e0f741f52626a",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "660f3d5114276d48e0a6a4771bd54374c7faf9ae984c44df4cd456827c423ee9",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "2e7af3f46e9ea0059d4047aac14c98d007ba260904cba1d2f409a70188300796",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "dc234a7ac8ff881038c91832181e6b4b1627bc091a8c94ac866c19e197ff42c1",
+      "text": "The /grill-with-docs Skill",
+      "hash": "5d7a7a42b472b35c9a5e2adae6230bf8e98d261994d05596e68436cd90d8e6ee"
+    },
+    {
+      "id": "694ea8da3ace51c68c8391974d8d95018e6fb61a08b05ab47a9138e516ebf47a",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "6e9bef5354e6fa16e6bb30437fed86c12971c62f11d34ad7095f969815a811b6",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "7c98efaec17dbb5fda4172eb84106f8dd80def262ef3e996bfdc2bd73bd65379",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "ecd0b5873764edac0caed26f364382c8d63746085fe6d07df17a6f8fba208484",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "48bccb94ed98cd3ce51a8863d2d2ec22b59fbd76138330419d9e330d1d7bec87",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "25aa5ea6b46b62418cf579784d8c0161abf8ec617f71308b2aee1496a68dc7a7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "5410a2ac7924eb0d176dd365660bdaa63eed01d2b01e06cf16e2c15346e79b68",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "e557a0722280d817eae65ed63fa84fd3740b7af4fc3141765d60ee25334cdcee",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "a160b76b2a53c8f09d0f1e183eae3e51693bf3050ad50dffdcb6057b739bf5a8",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "9362b14733b28a1468156ae1553713f0b8884856b03c3aaae598d174fadab3c4",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "cb3a9a29882199781dd8d2c7fa5f0c02cfdc4ae4cc9ca42106b8e49a9951a474",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "b247242671030bdc455483e5d645af6409f156c2e3f1f4b46fa20303c5c4d271",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "552e409ad0bbcdfad97962a98af1eb03895c085a2dc8285aeafc6dbe7881645d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "3c29d5e7a049d0026d67e3d3672319d1715bbbc22a9c84553e88f3f60d51757e",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "0d6397d470a6b450464cdf46d6e09a8f425bf5cd4fddf0235df5fccf9d269417",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d64f270b324f520c86c1c9a0343d8e45496d5e70f59f615b03e50c851b944dc4",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "ea966be6db18467b4579da4b99b2699a43a4a8b6b380e23f0529be654563bad5",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e981f6c2b18b8000988f6cce146c8b862629650f1fda322d133ba1327992cc84",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "abd4599abdfe7de78abecc8c4aea2cbc39fbb3b64202b284458280ca1d3ba58a",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "e2ed183332e0bee469fda3f6ece5c5cd56a509071a3ad97d95a47466c0ce79f0",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "0e55a2cf6741e3197c6c4e83bcff59586db206e3b85c3aafe778adbb5dc76c80",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "e3120d909ff2f38ee6f9ce5c4299b4341b870ee54b788303efbfe9c5bda60091",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "bfe111106a072a2931bc94944f30f5a01abd9d92a2bebd63edf8d65093b5c670",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"tbmo3ziv8p7d52\"",
+  "lastModified": null
+}

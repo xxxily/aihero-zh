@@ -1,0 +1,528 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/the-problem-with-mcp-stateful-server",
+  "pathname": "/the-problem-with-mcp-stateful-server",
+  "fetchedAt": "2026-08-11T06:28:20.575Z",
+  "title": "The Problem With MCP: Stateful Servers",
+  "contentHash": "ac3b55e221a20b5a8490773fac9a720f3c05bce29a4c0ffb0d74ad13787de79d",
+  "textHash": "0308a90e763a48b2b599ae6e262417a3b2579aa229831496218a7db15d6fdd81",
+  "strings": [
+    {
+      "id": "101ff00d7f72860f28765afa57629f9059c301cc826f9aa25a263ff649f66ca6",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "fb87d6b9ffdd3d68aed1c4b0a394cf29021ce60ab680124b95684a5d81e103d1",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a9d354a3a05ff33b7423206acc069e6800cbb85a6c612f88e7dad1633516eae1",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0f3e50b9f6c6581f1590ccfc3fc1e9289a8be2923053a821add1ffe030b19228",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "2d4f26a58a16363248ed638c100c58fb1906c3d19cef0f4c34286a267ed322fe",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "86934e0396bf38a35bf26999e9a3fffbde293e35f48296bb40a1f977f3876ff9",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "1175a76da02f34e7c9b243c9b126521684ec5024a82dce8143596adddd95a1e3",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "774f94556ef1f7ab8620cc07aa5fa587e4a3fd0dc4ab3e036ee6f3aae4b72932",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "7c35e433a0307e341d2b52b33d5878da42bdd785b656e8b08ee69ee63c86f18b",
+      "text": "Serving MCP Servers Over stdout",
+      "hash": "25fd77f0ed62722c9ebc1bea2143243eca855a07217ce8cdf9fe14f317658187"
+    },
+    {
+      "id": "3cccd2c1870d435a0229643a80e3f2c9c2b7f5b6463aadd82042e83b73b7f040",
+      "text": "Using MCP Prompts",
+      "hash": "7c27287a9bb5f13bc627cbb86ce2480b2564ada25cbf34e9030283a66b8a0388"
+    },
+    {
+      "id": "e60b7b8c73b1a0b9f92c742be20bb224b25ac87f33b53872a51a456e332126ad",
+      "text": "Logging: A Huge MCP Footgun",
+      "hash": "ed10f197b09f511d16fedb38fb5e1f9c6bd89bbbebe5b9b34c2eb69534042bac"
+    },
+    {
+      "id": "d176e93618183731a303f3f6f9e86709b8d97c4d22a5a5ebfb83217e5f4705f5",
+      "text": "The Problem With MCP: Stateful Servers",
+      "hash": "06a1a0242df637f6bf20ceeb13ed3c8117a8ce1204c5cbf69948f94c862109b7"
+    },
+    {
+      "id": "44c554078af1a53facc0f3afb5507d51e4cef22d72ad825956d2b20e2bfff2d4",
+      "text": "Publish Your MCP Server To NPM",
+      "hash": "8ed49330be235e3c82d55ffcfa048a51b21cba0ab8c181ae74b7bfd44e246847"
+    },
+    {
+      "id": "45b421c2fcca3f668c78cd3b5236840c8704b19ff5e77da85ce7d66caf163ce3",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "99d999fab519be58bc3f38a118b46de2ee9f0aa7a7315b71f73bea8c8bdacc5f",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "d7e1b1826fa3911815bd1ff45c1ec4c7ea8b9bd726f991aab7ac460fc6ede731",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "bb134edf3dc3798adcfd603ff0236c869fee5d4c41b10ed1174bd8093b3da464",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "f5ac92db38c9da17246f4ff4bd10e92baee7ea111169d56ed060883184c175d3",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "8a944ff06b6ee5e39803d8b8013068950fdacbfab080d6eb6b85c2b34a660a94",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0ef5c06e69812316e9e6408ab8f06b53aba1dc136632d0255a96876f9423df62",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "25c1d9f0b6c4df8d60d775ecd0472288da02ac0e56d0b56461f52fa47e2609b1",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "11511c4349581144bdd5431411560bcb20584e6aa29ba8ea7ed134ed66aa8460",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "894d1b23bc75d133e0bbafe07de1da14fc8cec30baacd5d8beb438b999cd75dd",
+      "text": "05 / 06",
+      "hash": "feddb15f18ea94b0ea693b9f25e1e867a05d0d4f3c1cd90314cc49c2ce786888"
+    },
+    {
+      "id": "1912e1de0a016f193a4acc2c649bb379cfa52a041cc3b1d7342c4c6de1b8f2ef",
+      "text": "Model Context Protocol Tutorial · 2 min read",
+      "hash": "a57048c5b5a8ed8915741fe5a56f5d4d8c6b4bdf845af4245e74bdd309afa26a"
+    },
+    {
+      "id": "de0db963c1a49f74bde6f3f8c27ec3845c40f881ac69d6d64a7eccd4760b96b2",
+      "text": "Discover how to deploy MCP servers statelessly using Redis, enabling compatibility with serverless platforms like Vercel and AWS Lambda.",
+      "hash": "c2f7f1578657060a1d4db55203bb7164b05363787b0eb2ab70a8e2833ec834ce"
+    },
+    {
+      "id": "c0e1349c57eb219d18ec3266e4959d006d8b459e64de159a8506bddcac526afc",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "bbe9ccbb07e9047b0db01e04a001e24c4939283a4b63e266208072d831f4632f",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "99ac999b1a407c36d2ffafe8b3baee6cf68cdaede571d43c33e91f9e67f2383b",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "298cbb9263b928d15745288c34f2d6642226fab823185f3244abcdd14eb47edc",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "bdbf0893deb23dead9c2e25ab269a968aa0afa18011a64a9e5be077e6b16652a",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "cd17f9b51feb319f4b3671169f9aa434dea6147895686cb6b0b8a18574e50458",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "ea09e3df6c3b3a0df25566414c93297bdb9d6f417b4f33737e2199366e6f850d",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "b0aedffb20d1d4d318b1c937f78e2ac67cf8fcf0b44a7d31c9a9bede95e88c43",
+      "text": "One Client At A Time",
+      "hash": "f3ee124290893699aa5e3e22209c0101bd0d35003743c71bea2f9ccfa581a165"
+    },
+    {
+      "id": "ad6d946f3e4be819bb014f80e010535107c81d8f67dcc67cbd0212c246746537",
+      "text": "Stateful Server",
+      "hash": "43b33772f084585d289808fb664866c9e468b03e57e1ca8d48efd89b18b331c7"
+    },
+    {
+      "id": "320049b7b2284b27b6133c57216fb96c4979fb67936e6b37722b539518b71b40",
+      "text": "Store The State In Redis",
+      "hash": "ac97aec1a34275206ba18a81b0ffe2e93362f5d6b499fca97adfcd41a57e87ce"
+    },
+    {
+      "id": "5988d82594c284a748e5bc1a9695a7a536461123d8a84528a009df7ea9b05abe",
+      "text": "Vercel Example",
+      "hash": "80b12d0f957ab03685787f5a2d6d65ec1568b8e42dbe02358279257f7e567fc0"
+    },
+    {
+      "id": "0c6316ba6f427d2d8c44ecdecf72eeb928ec5214b7f14a2aa83473f544c275dc",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "6e707c7669745b59bb12d340196f163a7ec5770cc7feaa1e93ee39a120d0b4ac",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "e43d9d837cd90e6c8c2f0ca6e19cbabb122bc772031bbcfeb094526c00dfbea9",
+      "text": "In a",
+      "hash": "cd7e14a97155920e6c47f28027437132fc7827e5f4aaf91f93e54142a004847d"
+    },
+    {
+      "id": "9e685147915e9f7b28bd78199ea00e7332bc322feef0ba1f6dae01ae67be5544",
+      "text": "previous example",
+      "hash": "20fd82f3a5ea79d10e936dc73cd5bc7e46ee7f862e1978036f572f8f936aab64"
+    },
+    {
+      "id": "80ea4c3849b8e9aaf4883fc82df23b02855618315e0ecae2696d511eb2cd66ee",
+      "text": ", we created a simple MCP server that could be served over HTTP.",
+      "hash": "bb7c7aeb44712ffe94c8f67b090b469b8d5b822e5ddfe2ec5a8f2b661629712a"
+    },
+    {
+      "id": "1a8320dd2efd74d8ac0b185ea552b6d959508c303b9a930f2b7bf65b28642018",
+      "text": "But it had some downsides",
+      "hash": "e227e7641d34342fd5bdfc0c85067942c053c8158f3367e1d684dcb03720ab45"
+    },
+    {
+      "id": "a1a30f01945387cc88dd1b8430de898b69ea0839a86b7c4567f962e0acc0533f",
+      "text": "The most obvious is that",
+      "hash": "a41f77314a58c5bd3e7cbb7645eac142b5998fe42e390a3a277cbf7a381ba21b"
+    },
+    {
+      "id": "9cbd37d3e47797a11b7741823a62b526a2a59de28bbcd5d9eb010e6cb8f7f905",
+      "text": "it could only serve one client at a time",
+      "hash": "ba57f69d9a59e7e2dd43f5599c6b277b13e613420ada7a55095ea3ab5bbdf535"
+    },
+    {
+      "id": "2185fe12a9cb37739835ecccfeb36991dddf34596431e0034f5d410654efed65",
+      "text": ". It saved its current 'transport' in a single variable:",
+      "hash": "b05d1f06c96fe68882e2c6dfd948d1a02c92ff786520ce56febae356b878226c"
+    },
+    {
+      "id": "087ad22bed18043a017625bfa6ebe193c5edee4cc007eee93c29f0d66813452a",
+      "text": "This meant that if",
+      "hash": "a9ce4b3b76ffd2840678e6fe166bd77a9001a1cdd79a087ea1333c5b2f8bf849"
+    },
+    {
+      "id": "1d3168b0d910da9772e97f4ed602618942a0f7edab2e75159af5d34e48bd8d3f",
+      "text": "a second client connected, the first client would lose connection",
+      "hash": "ec3c0725a2e7e9554d174c43222eb602852e8909e78e1d65da1a8c3415ad6a2e"
+    },
+    {
+      "id": "27947de0c766c5ac819bb0ab6af9041beb018ac3c8a6a1628d0ee111e98f2246",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "2c4cd5d3a24f24e2b5c8a21f70ab3cfe8bf0a918ce76cbbeab200a98e3c82440",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "95d71f42baa0d16b357c83d8dc21b85bf92437a9caec84d1b9fcc996dba9a26f",
+      "text": "But let's imagine that we fix this. Instead of saving the transport in a single variable, we'd store it using an id where we could later retrieve it.",
+      "hash": "c537b7f450adecfd7ef4718e6dca39eab672094b6f2b0f178ae5aa5e45820e1a"
+    },
+    {
+      "id": "3550eb894f960bbf46731f06eb2bd277e5d9d8de9802f626b4acb2ee140a2f3a",
+      "text": "Even if we did this, we'd still have a problem.",
+      "hash": "aa7828a4e7eb153cc3f3bca05a1236fea526b4a806722e16b7047a640f80c2a1"
+    },
+    {
+      "id": "816cd951a24743af13c28fa1a5cbfd2795d685d78534c44f6779046ec3faa173",
+      "text": "This approach requires a stateful server.",
+      "hash": "6f17ffa66da71125f7b10ac3263f915c73580a29a4a61b3e83446e274fdd32ae"
+    },
+    {
+      "id": "112a9d8256bbcb65c3444d5b82be99a4f0c05f5225fb534ec3f37d1c328e9d57",
+      "text": "We'd need to keep track of the transports in memory. If the server process exits, the transports would be lost.",
+      "hash": "19dffe8e071f736ad208e2dcfa2ebb189c6dcb27dcfe38b8bd3ab0f2b28e0523"
+    },
+    {
+      "id": "9d701cdcfa494007c131769b21455b7ec968c49e5b1b4cafcab7c0c76f09a91a",
+      "text": "This puts constraints on how the server can be deployed.",
+      "hash": "86927d60deb2eb93b3240cd97def1fe3f22eaa861c51889556d2e4de4de38b1a"
+    },
+    {
+      "id": "83e11715d52484725a988af7126169d365827f4b851926de600b39931ffb9ca5",
+      "text": "Serverless environments like Vercel or AWS Lambda would not work",
+      "hash": "0f9e0f3db122c94691800edb760ec82da2d4d84bec9a37ebb12635da648c45e6"
+    },
+    {
+      "id": "59a76792fdd1ea4ae3c82906ea9b7d1fb681aae240b7e383393af29b17eae0b9",
+      "text": "- they dispose of in-memory state between requests.",
+      "hash": "d97bc83418a050a534964214c49f48c6d27ab7c6da6adab8a08773a97bc760dc"
+    },
+    {
+      "id": "04569fc7523cc096da5b3b46be1781c3ecb0826d70d6b9a587b87c2777c2fb43",
+      "text": "We'd need to deploy it to a",
+      "hash": "272622005ebe7097bb436ccb1e49dc1de0a2ae3ed70bfd9d172af99d54c991f9"
+    },
+    {
+      "id": "e0e5d85122c284e85aa5303f56312d367ff7ce8fec4408a35f62e059598e6278",
+      "text": "long-running server",
+      "hash": "98dfa915de5ab1df6d2795111d5cb573dff7736cef56e687534bf0929d50b21d"
+    },
+    {
+      "id": "e11e129a1cfb8ad63aca2a189e94e4256b807b4820210de07e02d1ad79051e3b",
+      "text": ", like a VPS.",
+      "hash": "bde51f11d161085108ea75572863f039ae6f54cec826a8a7f1d026272ab31074"
+    },
+    {
+      "id": "4b4127ff8cdd30eba15de17ec3dc8c943ff00bac7d5e43218ea079b28d980024",
+      "text": "A better approach is to",
+      "hash": "410b11327a2b319ac35537dba5439a4abcab7575afab788821a69235ebed6a54"
+    },
+    {
+      "id": "a07247d6fccfa593250cb5731ef0ca9c7b795bfb9321ecb08590b1554b2e1b31",
+      "text": "store the state in a database",
+      "hash": "f45236e41545982c6e048b7c0b534224bb415d3b002362e604520b605b7ce62e"
+    },
+    {
+      "id": "d746501eccdb20ecaf22cc895b65a279e28c9ae89149bfda01748210b868b09c",
+      "text": ". We could use a key-value store like Redis.",
+      "hash": "f0b7bf489d8ca8b1db836f6080abbfa3dd8253df09ed12380f8e8a2ff9c50deb"
+    },
+    {
+      "id": "ece1f5ee9d836781c5dcc49ea71768d567a029589cbbafecfbfd591b1fccfb1f",
+      "text": "Now the transport information is stored in Redis,",
+      "hash": "485623aa952eeafd7145f30b0c80423c2d89f6d801d2bc4056e0390406cd9cda"
+    },
+    {
+      "id": "1a92f80720c292cb4b52973e0cfd8050911393b4b21ee2383c6e04a8e0519261",
+      "text": "the server can be stateless",
+      "hash": "69fbd4301dfbe26efa44e0b070447114cb40c82639e34948824f49bb0898aeb6"
+    },
+    {
+      "id": "ec0b0644cac5e22ad47083f06fbd6e93181141f943feae1a82ed901bb70ad5c6",
+      "text": ". This means it can be deployed to serverless environments.",
+      "hash": "09843d020a1225e20988114e487530006502c99a45f897c60257402aa1267026"
+    },
+    {
+      "id": "9f1d51ca028c6b7b4b7201aec56d7536d91c9e974f701d96ea656a1aefa0d70d",
+      "text": "This is the approach that",
+      "hash": "f2764e3ad1e1fdeb75f63dfff8e1274a7a7556a2880d0cbd36d002811c607b81"
+    },
+    {
+      "id": "86cfaea59cf9cbc5bb0277e56e10df8ea17373f386df64c41a3be908fe0279e4",
+      "text": "has taken. I recommend",
+      "hash": "02f830db37b447fe55143ff698b9b5487a354c3149a312bc73c3397ca6db3acc"
+    },
+    {
+      "id": "e96b9bfffeb2c5647053bd134a50a98b7e2d952634468de6d310ffd080a21eea",
+      "text": "checking out",
+      "hash": "7a3686d617901171c51c4b0a6fef9798d7fc773e0293d1b2f613c31134c88d3f"
+    },
+    {
+      "id": "304c961d6e3227e66e376d76ed3bc5fb622b8a527ca91b10ce3145f56a445bc4",
+      "text": "their repo",
+      "hash": "1556ef8c52f80d30687dadfa66cda10ca739cd0b3f5190270d08978588a26968"
+    },
+    {
+      "id": "b37111832a6cacde19fe390180eaa73ed09de0217c0a566bbbcb0384c1322c57",
+      "text": "to learn more.",
+      "hash": "f4ee0f23a4f18c0105f109fc6531ef5636464a01183c6fe5168a728c4cacb30e"
+    },
+    {
+      "id": "720c5dbf661f12857d600a45bcc1d912bdf263cd9c66c1a5aa1aec2e6c88b546",
+      "text": "While their repo is designed to work with Vercel, it",
+      "hash": "aab9c086757e50eafc5a7ebad24cf60b98a66b437cacc9908249642022815a17"
+    },
+    {
+      "id": "7c8467a436bf84ff83fe529361f4ec0f9493af276bdf2dc62ab1cf6f798c7c74",
+      "text": "can be adapted to fit to any serverless platform",
+      "hash": "7887bab2d6c03677fb3da20333339d2f20ef2febc0069f80819069df183607f2"
+    },
+    {
+      "id": "dc8987eea36f23be5ef9e057d834f28b76818885398e3a19e70e5f42e4e6fdea",
+      "text": "MCP servers are",
+      "hash": "8eb8a0a7448f721eaaeb7fc97ca0a5b71edbb55f8b3e4e41bb9d1c6377801f61"
+    },
+    {
+      "id": "bb1861e424e64116032a2fe49d2dce53accbeaa37a526ab5420dffaf2691caf3",
+      "text": "by nature. But by storing the state in a database, we can deploy them to serverless environments.",
+      "hash": "fb3a4fe08f11e42081eda62f92377e70d67477253e9fb02ed686c037f5f96f91"
+    },
+    {
+      "id": "b5030bee44a0c906d1d880d060ba798554a1bc5071bc900dd9fb6f06cb524044",
+      "text": "This would be my recommended approach for deploying MCP servers to production.",
+      "hash": "9d2bf1d35e020d4da6f079eadc87074a1d5b5f480f763d84c4ba9a67177f73a6"
+    },
+    {
+      "id": "0c9def3557437d436e8e5509f49c8ca877a2c9c71b1802916d534de1b52fffaa",
+      "text": "However, it does beg the question: was there a way of designing this protocol so that the service could be",
+      "hash": "cdbb2b0016559e64bb80387deedfd72a34afaf7ae0bef3c5a53b33ae57eb5f4b"
+    },
+    {
+      "id": "f700f7b17503a3578fbc523954fdea26a3c2075719f1e308e2be90da2c38470a",
+      "text": "Having to hook up a key-value store feels like more overhead than necessary. Could the client not store the state instead?",
+      "hash": "482338d0345fa5c19077ae6f4618f1babce3ff356ee9998620b3ecdd8a1bcfb8"
+    },
+    {
+      "id": "633a040783558135911f5cda3959272ec6c2751093393c290d9799129c5628d2",
+      "text": "I'll explore this in a future article.",
+      "hash": "9d6850e1aed1dd87584cebca6e9f0674c29d521fe500de34a856b32d00866395"
+    },
+    {
+      "id": "36a214113158e6ce43c478d345c7cbf1461531793ced8798cd161fe61981260a",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "ccba2e56504ec7df4fe98298620f27a09484cbe87e64100a8958ccfa93aedd81",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "db6904b45329f12bfd890c21ae29eade42eddb46022fb3047e87cfd546bfab69",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "2f29e65ef7b3d3bcfbc06b3f8c28ff46ad8b7620dcc9d058269ddc625a66bd58",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "6afddd5036a16bb023f8e2b1383e8362740903f5dd02cb435b8faf405074f4df",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "4c91d3a932b6e0bc474ef927ee0a18e43c2debf7d73dddb2dce158c4f9139af6",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "d08127e1bdcbf03a0666df1f94d5ce7ce4285f52fe82cbf4a19932e22da9c86e",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "638bf59dd1c52f2bbbad40b8a13d188d04e2c2e2ef927380a8d315566028ecad",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "1653adc017fc4614507cfeb9f66d965816b77cf41c6090e4742096fa1ad8380f",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "9477b276b93800eda1ef268e9de641962cf0e374359b90916cfde577e1c65321",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "106ffc9512ff64d20c00b26649015608cc4920b8909a221ade72bc9f5f072998",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "5a49b174f4bc41d46e32de8887ef2ff9aac9859792a4d18451903e4f50e4baa4",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "7dd25b0b07fa27ce30ed727c0b5779d26a6d1794de99ee431492d3a4a6398166",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "ca469175133bd727436b9bc4dc998c58f204f7fd3dc8074277e0e75f072cb9ce",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "0a96fc09f445e098fc4282c5c04b6f01ad89409e3ad2938469a3c3bd5713a946",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "3db177f5890fb416d6940079e670475773cb85c1936da4acad33c562f8bac83b",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "ca3e98c94d563e0a7ec23ee24da757a1ed04db58352b56ed06cefe916d0d7ba3",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "aba3613a6b82ae81e653e40a0799956af95ffd721dd1ba37f7d4adeedc40f470",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "cf3af706336ffa869ba3501d919641f3a92c9db65055148fad0d02ff9334fb4b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "088c1a50682d0d4254c5bcd6eecdc0b984cf5baef6036a35abc7ed225f5a0e25",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "b152865fdf5111d66f3674c01b8d20207cef7a252d048b23fb9794f8d15c8a16",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "126e1f936d86e9d19a1699f3cc9059755686cc8d2d8408cde065c5ca5f77de7c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8e0b2578192bf49928a9ccd337f5c65553c896bff97b785547404301b74f9ee7",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "54acb417cf8b92244c15fd8ef60a08aff202fee570f10013527cb4f6c3739981",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "52dcff9bb2401de8ace99dbbd53c2e6713d3886f5b4944ccd6d4751e9d69da1c",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"a772f0d96c220e9586b37ce027a56c0c\"",
+  "lastModified": null
+}

@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/model",
+  "pathname": "/ai-coding-dictionary/model",
+  "fetchedAt": "2026-08-11T06:28:25.773Z",
+  "title": "Model | AI Coding Dictionary",
+  "contentHash": "a0bb3c63246c0d9cdc489391d95b918d729a8967c59edb101e9c7abb601143d8",
+  "textHash": "d175fd4ce2e074b5de6bca3e35ffbcc377e4c274c83dd95c2c3336fb2c44ebb5",
+  "strings": [
+    {
+      "id": "8cebb181009dc1c0375f1252260f2b5d027fe4e83bdbb0ed852efd53e85bed3c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "36057bf1e641f55bc88d8b6ce57fec5c7e12f8e1f451517fb19e74c9d507f814",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "cf0a2e4948a386a9cda3a0c775e35f5106649286f20ecdf6d8dbe81e07c26cd8",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "2d4f67bf67e53fd181323d8000eb45287a41c6724b94476a8ffc226abe6df232",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "3e143470f9b6651092433d29eb16219eed22ad0fe710673412f00e0eba6a0c5a",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "a69d495419ea5b2a88b683bc1e9249f8a2c49646f7558846930d73576d0eba6d",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "89e1b1a20a5667851d08bab3e8c9770a91edf35ef1d480bc17d7500b4657144f",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "d951cc6e06256f1442154bfbb2ea6d40166c6ea85f029bb9b34d713d84b0ebbd",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "63218a52f72a8e209ff298da853db4c49ea055411609ed5655c5935945b4e730",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "f8a978fa5a46b0c23076eb5dc919688955cfdad4f36d4c5d0217d98475bc8601",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "b825eaadd6a1bbe9f229506525e868541c637907e746610ad1f8e4ed80df2f64",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "530ae0934307fdaf99437fb4cdf2a6fc436205f586d2eddc0f0a8ab350d28908",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "0d7b51b1b8185ab8ff1a65114aff19f497804621fdfb26b113aa2375343059ef",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "fa939a5993419b48ce8d7b38f08ff8b174f9958e763f7d59abfb1b129718febf",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e6948d3d9833cf56dc2cb21012bd24a65b555f3448171d404cd08cd944b0507e",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "8d78097c4a8b321e17aec0ec2422df06b7897becabd2bda26358502875195b07",
+      "text": "Model",
+      "hash": "5e2c614c23f02239bc03c6c04fcb681950f9e72bf8fdff6be79c79841cbb10c0"
+    },
+    {
+      "id": "c164d61bbe4c8c24896ff944461ea74a23930d187faf6143f1b59af7ea7be7ef",
+      "text": "The parameters. Stateless — does next-token prediction and nothing else. Cannot do anything agentic on its own.",
+      "hash": "aa98c9bb7a544cfc19b000f6c2d874b3036a7c280b8f0930cb91ec2f6816350a"
+    },
+    {
+      "id": "5cf043cadfde24ec203925fad9c585f6f475d574832a41c642a2442542025473",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "3bb344149eaad2963ed338cd2695911eb2caff85acaf61f65d31770498cd19cf",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "7a3f29d8fb68812f9b7be0a416e8509deb55fbc5ade7169665c6c362e902ecbd",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "af413bef8071ac0c73c0cbd437297405c3e8e18355e9007ee1e4f83af61d06fa",
+      "text": "Stateless",
+      "hash": "f0916a93b0a1776f11d26f8ea012555868465f41131bb6037f712455ac330788"
+    },
+    {
+      "id": "9a549f4f85e2bad3b76843158dae36653248cfea8ae3c954793af3ae30f16b3c",
+      "text": "— does",
+      "hash": "353b7bcca5a38edbb61c56b0da7a5f2a6ce7d62b5c4e98fb828bd913d5f81d85"
+    },
+    {
+      "id": "4d90f1c9e5c25c54ba15a80a12a9e9ffe9a16a59f516e31937f921d01d25c795",
+      "text": "next-token prediction",
+      "hash": "8203f57feb66cc8742e92d9fe92000a0898a09207548cb184413f5f2607f0f54"
+    },
+    {
+      "id": "6b30a5d0430ccf9cf8b618b23a73ac5fe123214274e3ec508e123b2df94d511e",
+      "text": "and nothing else. \"Claude Opus 4.x\" and \"GPT-5.x\" are models. On its own a model can't do anything agentic; it has to be",
+      "hash": "ba55191c0e76ecdba0b914ea6a496a1609784532ca7ccbf8d596a6a2c47e23cf"
+    },
+    {
+      "id": "0c02253fe1e5446501ef81b3a66633e1baa930aef1dabcbc92048eb8f0d56e1c",
+      "text": "Models can't read files, run commands, browse the web, or remember yesterday — it takes",
+      "hash": "9b92cb06556471126a998e6f26c647cc81d496255c6d6e6af29391e7619abeaa"
+    },
+    {
+      "id": "6c77ee3483c6841c3aedb290ccd1529ca1ddef12c2c882ec1c510ec611a0ba1c",
+      "text": "in and predicts tokens out, once per",
+      "hash": "c46200544445476faa9220d1a2f7e0c27fd3b99834069b0e57bd0e0f5a430701"
+    },
+    {
+      "id": "059bc1c8262680798ec65210e2884bc7caeedbc1fe7eae6164d329b62390a9e5",
+      "text": "model provider request",
+      "hash": "3004d539f1f0ae7a40070d95ba4a1323d874684827edf4d55b29a1056f8da7a9"
+    },
+    {
+      "id": "93b08c3a89df3db89588a723ff292f331cf67a26f795645da184e6032294d75a",
+      "text": ". Everything that feels like an",
+      "hash": "c40f98cece27131a092797c1c58830b671ca646ccda73e977497fc6ecb485a0b"
+    },
+    {
+      "id": "f5599c2dd7f08395d60548af4f99baf6904cccebad2c37e79d292401c0a6a550",
+      "text": "working — choosing",
+      "hash": "afe1ef8322e125da085b3e184e9d1f9622699f5b4038dfe929d8bc1075445e7c"
+    },
+    {
+      "id": "84efce3875e4608b3409e1d595c23b9ea43085c8d2881da996d91c3748a71759",
+      "text": ", reading results, looping until the task is done — is the harness orchestrating many of those predictions in a row.",
+      "hash": "fafae3905a42fd21b3484e9c276d28dbbaa831c330623c1fd1588466898df3f1"
+    },
+    {
+      "id": "f5fec5fb1d759820887ff0bfa806fbf3cb9fa484965add33abbda51aacc3d79b",
+      "text": "Model providers",
+      "hash": "fbdc457db2188277572ebe37cb288af1d0737e4f61d7180a2c0de75c5ca9e428"
+    },
+    {
+      "id": "ae003581ebbad238bcb63c01c4fbf518abe3910ce802d4ebcf4f87f10e37c21a",
+      "text": "ship models in tiers: a large one that's smartest but slow and expensive, and smaller ones that are faster and cheaper but less capable. Picking a tier is a real decision — heavyweight for planning and hard debugging, lightweight for mechanical changes — and harnesses let you switch mid-",
+      "hash": "4dcef60cf19b6ad55b62f8e7a00b48a94d6ba46f6e45046419a6a716dbcdf5a1"
+    },
+    {
+      "id": "831fb874f33b215377d4f6b83d0ed5657a54bb792a5acfde916161c9eb2e522e",
+      "text": "Being strict about the word also sharpens diagnosis. \"The model is bad at this\" is a specific claim — the same model in a different harness, or with a different",
+      "hash": "78ab4b42b7777a82424f82beee3d7f5c544f1bbb4cab4c3880818d2827c94902"
+    },
+    {
+      "id": "1fba15fcc210abdab841720ea9fe7f8674862e71b2ab325edf20bbfc2cc6ab05",
+      "text": ", often behaves completely differently. Before blaming the model, check what it was given: most disappointing output traces back to context or harness, not parameters.",
+      "hash": "38176199a90977a50d59c94f7c0d848ca2fe5171260ece8e365a0eb69dce3bdc"
+    },
+    {
+      "id": "e9ce6268a59cca3ec114b2ad6c598d548e703ff2a6e82d8c5271dd58e4798558",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "cbc20b59e0f0207faa3b665f98fa627f736bcd80dd37e787d023a651271770d9",
+      "text": "\"Should we switch the model from Sonnet to Opus for the planning step?\"",
+      "hash": "9a07732be525383878d25cc8b184cd4a5380200140e12505a50f8cdbdabbc7d6"
+    },
+    {
+      "id": "bc8bdf99deb7547bc47630f33bf7506be55e85d0f84a51c3052ee1156f3975df",
+      "text": "\"Try it — but the harness is doing most of the lifting on this task. The model swap won't help if the",
+      "hash": "2e42809ec4c17e2f60340c55f760079b5169b5107dbc45e0824602e8fd22a046"
+    },
+    {
+      "id": "47d86db9792d6cdf89a01098d3433179e8445952fa0e6fea60a5bd19531e0076",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "9eee7a871d4fb95e341fffe232e4398d803bfce3ac34c1308450c76472ffd83a",
+      "text": "and tools are wrong.\"",
+      "hash": "44fbad73d8980b63b9c24d171c84acc41406ddd4be55b71dc049df8a273c982e"
+    },
+    {
+      "id": "a9fbc7a8007711ff923fa344da7819b0464d5b9cc5e0a1bcb1b75b2a3da2b537",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "a8ed40a94b17d480bd9594718fd9dc8282696b9ad0a874e1ae6e22e25ab98fec",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "abd96530cc304496b4d4adaee43607aef228d93f2b0f66eec6794cf2c04ae018",
+      "text": "Parameters",
+      "hash": "e68b36b17cbd990802f57741cb75cf3a73fa66a61999b0cd70e3cf7d26cfb25f"
+    },
+    {
+      "id": "c0a66e04c77528f589a128e7d47ba6e0441c9fc006f04454952028f34a5cbea4",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "9f226657376c7df593a00aaea1a2b6c0852a89b104644129f7f8379e9b2efe45",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "3584ad77e2f875dd0c72fdeb972d35c92ee12058d138e7a793283f4d9727a70e",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "c2f745159673e36d45ed59414c64fc260f93766ac0dde8ba6da701f3857a7b04",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "c78dd822a0043849a673946127213b1866a16e1def46b90d4ea8bcfdc81f7969",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "f76ce03c098b85227211346146c4ddc7354bc26d15b1d7c9edbdaa7c8930a99e",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "07e7601e051c103a60961249e05e8a513bba36e59d46e2484fcddb4e2b8b76fb",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "90611ed3f995749cbdbdd1a4b79a9a74cdd98182da8463cf0247aae4f7707200",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "b40ae0ffa03ada00622466b9e23897c7213ddd554b932063dbe8824ea0cd6611",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b575c8fe6c6220d0b8d2c6d8917ec4942c3ecedfef23d2aeb9dd266c437c49b5",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "593fca1ce059603dd19adddcd69cc7be87a86cdae0f995d169d0bd30e1b4576c",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "4d16f8935fae5c5eeab57a8ddf0dba2fd10245ea2fe4ff8f530065570cfb3ec6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c83df57380f347b0d413eff1affe40ae2aef6186a0f9021ff5da1d600efadca0",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "cb5361b434e72b935c8d0de481384e49a46b43289e15afbfb537fe69a525412c",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "8d7536f4cb2c96a455037406494aeaf67149486fa1c7ad4b0b01f0d054250a90",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "3112284e1008b691be09cff77f3fb050380b5d0c0f9fc163ca71f27034dd579e",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "d3eb6ec492b12ede65ed333becf200d25ab9afe8b5649715ff9abad1b41e61a3",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e146e7e5207e0a6053a89d80d49779eb76748ebe5768bad6678425276f577f24",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "e66286ab0873fd14218d45e4825d64f8a6a6ea8a46894897418db81e7e520937",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "8bbf017c4d746f0016f7ed9d412d0386a65f837dcd03c96416b0691114a6b711",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "0de05be8445a57efdf4679f97bf7acdfd30665a53cec58e658cb25fe82990471",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "86c72c95c6b05831493d7f7f679bc41b71e3f2743af888b98578ef2065f7e0e5",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f300e02f291c265a10b555dc93c6e6d9734525ce3557b1f8e83ca076a1f768cc",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "cf78348fbf663a41fd9df55dd4342d41bf48a9f6f73287776da800dc4a6dbf83",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "282b2053d2787b34c119571407a20d9eefe037d59dc469c74b35ab841c81d0de",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "4be337b7c0c31bf2a60e9fcb6b14ba343e1ec999933ec31d580e25c70fdb7932",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"g69pisx3sv4qj8\"",
+  "lastModified": null
+}

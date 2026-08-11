@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/generate-text-with-vercel-ai-sdk",
+  "pathname": "/generate-text-with-vercel-ai-sdk",
+  "fetchedAt": "2026-08-11T06:28:23.291Z",
+  "title": "Generate Text With Vercel's AI SDK",
+  "contentHash": "15b95131eeff2515dc54e4bcde98e060edc05488c5e8a2b6189d214642e44c20",
+  "textHash": "bd931589f8aa1eb34d74abf5921e562d237215ec57797a5e8a148f84a26aacb2",
+  "strings": [
+    {
+      "id": "d4e33634879b915809bf7b6cef473317bdaeb0c46c8fc817e71de65173603b3b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "7c975998b1c693a853dbbcfcd1ca6aa7b5fd7df5b113394e4ead5e6f6fb57c70",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a73ab216240a3ce1747151a9ff2287e30288b8e6b0d5e0bd8e290e96dd26f4c4",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "ce4728e19ae5320105d402acbd1429455392cac8f90d94c435db5d444944a58a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "7fd4c3f953a3094d15c4a9e638209ab5ce8c29900e979c3f2a8787d9a9a5af8f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "14b1c7f821d3cf4c312a8f989c9116c643d6e28fd5fd930d46520cd79872b8da",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "cb643b28a25fdcc57e7569e9a07c2d59b695f5c69fae26007771cf72a0c9395f",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "b9d564b2125e9faad237d25e7959742c10590a44ad3cf3ace38bf951284e6c16",
+      "text": "What Is Vercel's AI SDK?",
+      "hash": "1f210434178eaa98b25c4c6b455fa5973f854a1181e1fab9d10a8ce725bed88d"
+    },
+    {
+      "id": "8820dcb848814570989f87a63cc8306c626559c42ff38c4a00819d220b340b2f",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "a4732bc7cbdcf0b59251fdeb8c4940a5297a08e76938051c0792af7a66ed0506",
+      "text": "Streaming Text With Vercel's AI SDK",
+      "hash": "c8834e359f3b28f367c74e589c38e2bf98f323e4f89d4e707b88ecc0e812b58c"
+    },
+    {
+      "id": "64108420fad72dca3982848bc55379a24237b26a8603600b82c49b759d9381c6",
+      "text": "Adding System Prompts With Vercel's AI SDK",
+      "hash": "c1856791eb8a9cefc3c85784d7e7865a4fbe03b8e4ce9097e30b44c8382bc0b5"
+    },
+    {
+      "id": "5317af97d6a5dd0ae90c435715fd53539f40cb8ec9e61196648d10ec8e9e4fef",
+      "text": "Hot-Swap AI Models With Vercel's AI SDK",
+      "hash": "a2e60e88e6b98f280400b6a6e1ae57cc56e04a4487923179fafbc1691daeaf88"
+    },
+    {
+      "id": "2663f169770dee40d4118208d73c910034d8b04f319594f809dbaf0541ed59f0",
+      "text": "Working With Message Histories In Vercel's AI SDK",
+      "hash": "6836bf9b5242f2374260cc952dcfc713c5b9049e92673765730b88183fcca9b5"
+    },
+    {
+      "id": "f83b937effec954b57233b0c8cc5a1eb829fa3e923786e4614907979d5fdd196",
+      "text": "Use Local Models With Vercel's AI SDK",
+      "hash": "2f23462b857b3e2c9ff00eb7cc7ee290ae7b503bf5da369108fbf7f208a2ffee"
+    },
+    {
+      "id": "2c3d357ae1cdc50c11df649d3ab96f87674b34ba0705a8fe34d864c24cba82ab",
+      "text": "Structured Outputs with Vercel's AI SDK",
+      "hash": "ee7eb24d53c4be13cfa8480df0adaba3c76bfea676d6937956456cfe1938156a"
+    },
+    {
+      "id": "4d49069e958036f1cac329a98f03677ca95e2d187d6046e3cbe8d7df9559832f",
+      "text": "Streaming Objects With Vercel's AI SDK",
+      "hash": "dbfc1631aa468169f64909580711d47efe5fbd6c1a8dc7f96f24d8f312775b76"
+    },
+    {
+      "id": "7b33fa2e9b2feecf6e517fe9cc24a0364f60d0e231ac0d9452d302a9561026c1",
+      "text": "Generate Enums With Vercel's AI SDK",
+      "hash": "0c0888498e8f0728d68d768a855caaaf0407c72679e31a43781b058c580bfd30"
+    },
+    {
+      "id": "1dad49a0d996a3b89838d8f9224f171611967176c2a541c9d1ef24af091a1568",
+      "text": "Generate Arrays With Vercel's AI SDK",
+      "hash": "966b534831ed3ab632d0d4d6fdbac9f5574b7b021619463331f1a040103c3434"
+    },
+    {
+      "id": "126f9a36aaad30849a00d2b62d684a3d745f3deed7cdf3e6d9e4b831a5d500fb",
+      "text": "Build an Alt Text Generator With Vercel's AI SDK",
+      "hash": "e469cbd9ec4e26ff6b524e07b410ae85b176eee38375c531752024cbdb92388e"
+    },
+    {
+      "id": "5140f42c6491cb43c26783deb7afe72dccaaec88a347dd0952f485692c0ce250",
+      "text": "Extract Structured Data From PDF's With Vercel's AI SDK",
+      "hash": "270c0886bdbd409901a9bb1d21cbe52e0e4e6504f3b17a0def44e8e729d3846d"
+    },
+    {
+      "id": "2f1f362037af4a772bf54c949e4ec5cfedd12959febadd25d7179ebebe438137",
+      "text": "Create Embeddings With Vercel's AI SDK",
+      "hash": "204fae433156e6ac042fc80217c5e8a91fd4e1501d92da5949fad8c62334d1e9"
+    },
+    {
+      "id": "075d74221056865a8f7eb6a52f42b1884597548549847e6dba13588c2df16014",
+      "text": "Tool Calling With Vercel's AI SDK",
+      "hash": "90485e2aae316ee7132e932b405c5b1a63f0786e824e08689a3f78e4846c2d13"
+    },
+    {
+      "id": "a1fe6af51909ad1f158f17f878b33144986170183f61c8de82dc587a00b766a8",
+      "text": "Build Your First Agent With Vercel's AI SDK",
+      "hash": "52e11d029211f26b4245ca878765b7530ded3b5475536900eefe472e424a5f44"
+    },
+    {
+      "id": "7dfbe5cb6efb28884f667e1061aa78c6997cb5159a6a79a75cc7386c07e5fb4d",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "0e872619740db274ff158f8fd6ce4743bab25f2e7ad0e3913e8926c2fdc6e3d1",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "fdb1e150e0b677d0154b469e2bc6d7b466bdb6ed6608eba55e1cdc7618eff82c",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "7169074a2ba142536297f4f06de71c8925917f0b18d808179b286c4c163d5f79",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "a36a04e8529687614a3b6e7a5a4a5d6ac2acc47a76720ca930aa8a77bdfd40c7",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "e26a2e9259fa0ac3f4cd11fe244a3b488c378014dc239843ba550142beefae8d",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "58a1a6d074e14f21f99f35d4e7bd304c9533f39d5cf9c4fa87ad1b677ce263e8",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "33836f929f83f237a655a06b9efe6bea8ef6db444707b64a862f40628a5abca9",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "a6c0eba72b2479e02da7c988e6d0e6664bb2dcfb1d17178a55ed7f60973a38e4",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "1d4795f2607aefbe7c72074f89cd3d68c4568d239d6ef14504e604776f5e8ce6",
+      "text": "02 / 16",
+      "hash": "91b8f712568ff503fdd73a1688a1b41993a2d8553cae983498f5a451c44d8251"
+    },
+    {
+      "id": "6d1c165e689d3849ed56a8e46d98fc465309e5da359930b5ff0967fcc978b948",
+      "text": "Learn how to generate AI text responses using Vercel's AI SDK with Anthropic's Claude models. Simple setup for text generation in TypeScript.",
+      "hash": "4e17633b370c8a36acc4dd193ec9e3c3b3e522d18153e09ae6c1c132964d088b"
+    },
+    {
+      "id": "3c6564212fbad93a3b7cc3ab80c565e330d58d6cb4caebb990dff3574cb07efc",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "06a338e7495ccd6539c81a6ace575b390cf3df554c3b129321206fc73262351c",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "c3273fcf181b11f9fc6427daa4194e87a33ba82b665bae6ec99987e14d361aa8",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "66dc9de8507356d36ebacb5bc5a53447fbf5d05c92e5329c72a274943bcd79d2",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "df3d1de9a91364815273236ef65ace1007a2fd2d4de97b32087059fd287943a6",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a203c61222ec0634fa2183237ac396c146e359406359c9bc93bae999408adfef",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "92954e7c1e1348859e7ed84ea99c6b658c40c80bcb926d053e08db2d007f1900",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "47220a9dec4d4c60f52fafefafa54a18ada778abb4386be0c0a5447173fd6ed5",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "39148dffc02cda7d521ff3dbc650581a92bae02ae2342fa4ac990d6fe9aa5769",
+      "text": "Let's look at literally the simplest setup that the AI SDK supports: generating text.",
+      "hash": "7e3402dec77eb4fa124ede671462d74c27ab03bfd220879417009a4e23871f6f"
+    },
+    {
+      "id": "8d1649f8895e56c98e85233713ef49535d9f453d5079e4356a8b6fd512c8db77",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "d48f01139cce1e59481d7046890b537261161a26b6ce3347f566b5c9a2cfff6c",
+      "text": "You take the",
+      "hash": "35546803d527bc13b491554d30f8a323fd43624b0707b4ce5683020bce44d7c1"
+    },
+    {
+      "id": "06e7e3bb0b4118acaefa77e4170777f16b76dd0543ef38f110067b8083fd3578",
+      "text": "function that you import from",
+      "hash": "b7bb75a554b6474c58d39b3060b1d56cdfdefff5877fadd761781f7bb2e10919"
+    },
+    {
+      "id": "3bef70e6499e6d8e1102d482940a3284f5671428f7034a69174f2a0902b583e5",
+      "text": ", pass it a prompt and a model, and you get back an object that contains some text.",
+      "hash": "e9aa5dc64b3b90d952e0cec910bc09baf900b7c75b8bd33badf711e1ca96a768"
+    },
+    {
+      "id": "315792640b697286bcf98f2b1bda1e3262bf83e61cd34ec1b913739a8259efa3",
+      "text": "The model we're using is Anthropic's",
+      "hash": "a4eba1e81753b3017fc2cc92db6844d749d906f7559aa3aad565f2f3b538dd50"
+    },
+    {
+      "id": "ab018bd8be526a46f42f39a833126e4e82c97587f52c1b00821b19ec975af546",
+      "text": ", which we're getting from Vercel's",
+      "hash": "84e932964f7bed38ac37a65c2489b72de8473a3bfc4a7792102c3eac6782ebf0"
+    },
+    {
+      "id": "e7be4a73d344a0a6bfc756133cd6a0382ed91b7646c50a08d62be2202324ff03",
+      "text": "If we wanted to, we could specify a different model - let's say we're using",
+      "hash": "8410c1b6ee849547d18aeff19c6c41692472555414eeee1586eba6d7bc2e93d9"
+    },
+    {
+      "id": "ae5b31948778b4c5c43be18c24048b3f3f761f48b287745f11e5f66bf828c142",
+      "text": "instead.",
+      "hash": "90b5d13011f6a86532541bbf1ec3c2c9f09d654e267e4e889db77b09b8bbb990"
+    },
+    {
+      "id": "fd112c9ff970385550ace47c409e7536d391c47f97d41035131e7abb1976604e",
+      "text": "We can then use the function that we've created called",
+      "hash": "7e4d13a30f38d9ba6f3155b010be7bb41fd1b512970d54c2a1dcecabf2c86040"
+    },
+    {
+      "id": "841bbe33f69ca9cdb03cfc5f4519a352f74af5b8b18bcfd38874ed0774bc33f3",
+      "text": "Let's say we ask it \"what is the chemical formula for dihydrogen monoxide?\"",
+      "hash": "ba8922115cbf86d630331199738da75ed158822188407213597120f880bc0288"
+    },
+    {
+      "id": "5304efc3f5f173eb19582b77cb7e3b852acdeaee8f80fe5dc3b0033a41c07a59",
+      "text": "When we run this, it will call Anthropic with our query and get back the answer to the question we asked it.",
+      "hash": "01f95dd37fdd7706f5d955babbc6e472dcb1d49f3042d2ee8c29e2b6f602ce0c"
+    },
+    {
+      "id": "4c3fd0d8727a18bf1c67fc9abf2aa311b0cd6c1d59f26138562f3b96cbf506aa",
+      "text": "There's also a bunch of other stuff in this object that we get back, but we'll cover that in our other examples.",
+      "hash": "2de77b46def317695ad9e5b3c58c8892d1dae31e202e6bcbfd7851f32a75f20e"
+    },
+    {
+      "id": "7b5771ae15575854b6c6de2cb0bf66c2e78b571b14fde8e69e1dae01c0a14a95",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "f1666f1f62fe472c9364751e388875f672898324b273cd716fe09a38e4961d29",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "114e70cfd5017b10b5ac111c2420f98f0856fec67922c61d53e894354d092d88",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "a5ac1da9697cef5ef9a4a0d2de3c5b3d2534a71009d404995180eaa6cdac6d1f",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "cacac43457074b495d1985c7ea08eddee0c4bc70de665ebc51abe093a4819333",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "319ab26968146a00fbd52e0b4a395a7c1208ac55703c0dc3bbc11d1602f02bfe",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "3740166ce719b0f056a62571663524d425ad8cb076a29ff3aefe1dd5be211949",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "834a422a1b47981332566b5b8e600df4c0e65edd6dd3161b5074fea1636bdfa0",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "2f269823e3d2d7ac57257f3cb7dd28a382d9066cd079d42547ed1b4b0e1c87ae",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "dc63ed5268650e2b4b2f410c129545571988373c4f7d2f0d16dfee61d7ca0447",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "19baba2d662c46466f41e0a529512d8aae466d64c28d2cf37cc96c2696470954",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "7b758d5de8e694d768be1c3e976d3fe563095e017e6977bccd7761bc87c910ee",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "4d04e042f1d9d7d3a5af530cbb54381f4e89a6357f9b9084c362f17512bc6a78",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "464ad80b25dc69d672a255e1750e6da1b21d529042a7933d05f50ffb16090da5",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "8a996c7a7814b925e12a870586dbd793a95838e120f3bdaf0aa9dfd3a2c7e594",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "9b84167939d0e99b0b17d38ded4ef4192b9a0619f5136e18acbbed2e3df90912",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6fe74437d8ef85b77eeb470d2ed246083b779bf14f55da3617d4353428212761",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "137319271d6be437d9e1684e4363e9049c80727a4cab4bc9ba579f217a54f0e7",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "67c3582e7bf42a4d2fd3e9a2d2bedd602f2bf80fc92623bff3e044ea8c1a03e1",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "53c68548de92879bccf1a8cd424d2abc8ece77ca832a36fb3bc8b098012dcb45",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "d02a3be9cd71890e4a1f56053bcf35242f6c6a2a91db5f0bf9d0f1b7e6a07c09",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "2e2979d00fca5c1ca2e3b22b5a7680d2fced5337d70746fed077f0fd6e7339c2",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "065855d3e0a5659c2a051543fa5d4de6f7da08e7b773b9c1f76166664a230ee8",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "c7c4e38a65d8edc72881bae41e2ef10119940516e08780cc78095665762967b2",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "4865d6362c29e05f7530e4b7543ed397a1988dd331af1fe076803f0de4e617d5",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"amomeu9uoj6yux\"",
+  "lastModified": null
+}

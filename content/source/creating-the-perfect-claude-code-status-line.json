@@ -1,0 +1,528 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/creating-the-perfect-claude-code-status-line",
+  "pathname": "/creating-the-perfect-claude-code-status-line",
+  "fetchedAt": "2026-08-11T06:28:16.819Z",
+  "title": "Creating The Perfect Claude Code Status Line",
+  "contentHash": "8b558bd97675423d53af20ba8673e6fc8dff2bfd51d36d273fb606b485fa2d7a",
+  "textHash": "4aeaa2ef4c557513c475d5ba70aa4902a06a247c2d0e6e2f87619c0c7f533fa5",
+  "strings": [
+    {
+      "id": "bec523ab59a8fc54b3dbd61deaa15a108e63100a117db81b0785a914116e54ff",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "13ebbb382bd964b82b8e1ad9d851ffcb30669683ec36ff80cc17965b8fd7a8a7",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "7b90dedf8ca8e73686fe03d70ba03b73029d0df9973c59509d3b9e8dfbecac6a",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "15b99c14335db229f2a7108693c7027535feab8708e15f19dce5cb8da515cecd",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "1916d48b869c91e463cfeddc42b7353c31c80178e7d7f98cb159f91d52f86395",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "c036d764113dda7cbfb032311dea7cdb800df5041cacf216552eb521916eb5f5",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "61dd1d9b0f15e9890c3ebca28a1ceee2cc0bec8561fccbbd9ca8b0f64e48d143",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "603d9f315cb7b20600c1ae186d766be3df39c49a6a92d6330953514b586317c7",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "533db5f819b6ee74a120dd37501d5c9b427086237776221e07d43e66aed1fedd",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "d6a0a9f58a676a3df751f560cc4028745bc63c96db81ba13a8a361826705ee8e",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "91c2e7ec13b3c0e029692db0cc1651365b21757613119ac3b31322739c961032",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "d80c41bf7ff9b288831ea959ffab01ecb2dfe9c988bb2f07f3bd883ca74c775e",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "0bd41305271bbd4635368d39b743de511044a22b1e15697e5f30ffad640f6126",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b7c5b3c94a5047936eeac2639db82cdcb617a40aaee3be97cb45bafdfcc19a2f",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "ec2a37263ad086eeceb77dcc273e3a8f34f2547bcb13a0a799314acc030f3b18",
+      "text": "Creating The Perfect Claude Code Status Line",
+      "hash": "bc4c57542ded814b79775d72e1dc31fc4a80cdc8c55f4fa34da5bf9cc9ba522f"
+    },
+    {
+      "id": "55e7fb65f9c9b7e640fd2d0d776f471ebe7b414b503bf1942150cbb76bd27fad",
+      "text": "I've created the perfect Claude Code statusline - including git info and context used. Here's a step-by-step guide.",
+      "hash": "e53b9912e35daeb89aec46d0bf82f9fa86ff6afba88d3d120ab3ec2b6581488b"
+    },
+    {
+      "id": "159f66e23b36d23c6e5f5c6be8c9b8cb17dcff4b9bb6d82e44f1c59805c02663",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "20bef7544239edeb390a6c90494241665b594a6bf420372786b665d8c1d91a1b",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "da12e25ce4dcbc0c9448c68b208fe8a250f4d21b46ae5529f13bc6e6b43cc8e4",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "bc06318e6e0bf75985cf9c7d384b240b12867ea0701f08cfeed74e486667bf3f",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "817c9cfd4444d9ec796ecc74f62b7c07baf0f890dff4a325b4301f2692128d48",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "5f1224269801d6ab794378c1a797a56135259c99d17fac9ee601c6c4d71963c0",
+      "text": "What Should A Claude Code Status Line Show?",
+      "hash": "619d540a65c3c21a7342fbf8e0b836b42ec25ede2145351711b349efa0692c59"
+    },
+    {
+      "id": "f64df9f1c14efa00369f19e1791c2cf628f4e6af681f742287c3b35fa39ad13c",
+      "text": "How It's Set Up",
+      "hash": "701e11ac467fa3942d2c7b44757759e6eb9541cfa12fd7646aa93a1b3ff41be4"
+    },
+    {
+      "id": "810225b1acd5f4ea24157d585be9f42db046e7f872eabf688f42004a558a7ee3",
+      "text": "Try It Yourself",
+      "hash": "6cc247079cbab65dfd8368b03835cdb128cd51347d0c0a713bcf6b578787715e"
+    },
+    {
+      "id": "bfae92a09e271d0b856afd12d7ff9263d967be9ceffec48a5513494d7d7de788",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "daa97c080a18bd7317bef1300fbfacbad2e4edf8aef8095d23a6f1b3a4c8fa45",
+      "text": "I think I've created the perfect Claude code status line:",
+      "hash": "31df6543093927db8b58255d434bbe68a6ee1f65d15acfe16667e045fd745858"
+    },
+    {
+      "id": "5a9b92efcea403eb6ea18aebd7b7fd4577aceab56214557246e896c97d59b62d",
+      "text": "First, it has the repo that I'm working on relative to my repository's directory (",
+      "hash": "44d6231321f2a0df069ca8703792695e7a2eca096e0d1947577321da4f4a9ce3"
+    },
+    {
+      "id": "1e6206de3902fe49390611f1e2ce1034fa0a7ca3b9521417c2c33d11a34c978a",
+      "text": "). If you're like me, you probably have a single directory that has all of your repositories on.",
+      "hash": "cd6dee0c3815de822b1c641179743f15b7d7899c2b9b772fe3f5dcf4c793c3f2"
+    },
+    {
+      "id": "570a7c6de6a1473239ab2946e65946e0657dc7caba49350aeec24a7fbbe86c98",
+      "text": "So I have it set up in my status line just to show the relative path based on my",
+      "hash": "2267b45338f0ce585cef85709ce264787a57cfeeab799a936c18909c68086e58"
+    },
+    {
+      "id": "bea88a5221615daeaaeb585b0bd3ddbf89260fe5c9e11070783d6e213584df07",
+      "text": "directory.",
+      "hash": "07e4482e146a42c0b7d8ee52a30de5914bda6f4931792c600a9e8a0868aa3122"
+    },
+    {
+      "id": "522170f01107a5e6bd379eec7de862dfa585c9e9ea2ef3f459af6c339bb9a82e",
+      "text": "Then I have some Git information:",
+      "hash": "27fcbd31d6f396411d513a13e9158a2f23aa9c891dc5d2d6b6ff7a7b783c2ab9"
+    },
+    {
+      "id": "92a581b3fca2e64ca0ccb516a4cc83f0014a65b281fc0bbff38691dcd951ffe5",
+      "text": "I have the branch that I'm on and I have the staged, unstaged, and added changes. This is kind of optional, but I do like it just to be able to, when I'm only working in the terminal and you're not using an IDE, see what's happening in Git at all times.",
+      "hash": "15cf974883346e0fa48607e35d97405283e5829fce442e734b6a40357ae89d26"
+    },
+    {
+      "id": "f283a4d9c932bc88e8e39b93cd38a922d0e2d8ac40b53c71d47bf502ad12f2d0",
+      "text": "And then finally, and this is the most important one, is the percentage of",
+      "hash": "840af684fcd1d7133952737a99a09c1df68829421f4c35b91bfabb8176cb659b"
+    },
+    {
+      "id": "f7cf9ed3655a782e7ecfc7bf67742545d0bba6140d70b9d36d4433e20adfbc50",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "81fa3c710921b8d67dea22450ffc3616b037a0254d7e168e06ace911f5ead05a",
+      "text": "that I've used up in this session:",
+      "hash": "0b66293b2bc0de63e9e45899347def8892b6d45bbad59e3a15b8c424d29fdb56"
+    },
+    {
+      "id": "3afbd6c2fb73cee116d8f8e95c9b0b40da323bebe7d3b652575d649583d4738e",
+      "text": "This is a constant source of paranoia for me. I always want to be using the minimum amount of context I can, because the more you put in the context window, the worse the AI is going to be.",
+      "hash": "3ee0f47f0b54943f97f8560b8ac602b792e077e5e93e220326ecc03e4dba08ab"
+    },
+    {
+      "id": "902257e7756f83e40d3b82eb2726912d4355567622abda67772b70c4bd417745",
+      "text": "Having this constantly at my fingertips and monitoring it going, \"Ooh, I think about 60 is probably where I want to stop\" is just amazing.",
+      "hash": "0b978925bb988e1ff86b826cb55664a629361ac543ec260ac34625cc6029cb99"
+    },
+    {
+      "id": "d7cf5ce771952e662bf9b0835f1161a5f6bb386b7d86b144625946c5caa37412",
+      "text": "A useful Claude Code status line should show the facts you need before you decide what to do next.",
+      "hash": "c09e2f2fddd637b2348b71f84be0e51f4a1ddf7306e13acfd2e06d3443e4487e"
+    },
+    {
+      "id": "def0a3c819b8f499da8d9d844ae9d528a682fbf02ec0e3708f18524032c7e537",
+      "text": "For me, that means:",
+      "hash": "0bf297b219d405506e23bf6291c8ed4ea799c8376efbdf86e40670f1f5611958"
+    },
+    {
+      "id": "f93df43f3e6396d47f1962658565bf61ff4b89361f8ad37d72d6d002c3fd20aa",
+      "text": "which repo I'm in",
+      "hash": "84a74d49bb0182a28f1aeb3c852ddd8c3734c0bd35ba8142f7a92070f2e25e5f"
+    },
+    {
+      "id": "c1cbe4fa00abef56fdecaf350314daa7e03657124f6e1ab668d178d25eb622d0",
+      "text": "which Git branch I'm on",
+      "hash": "95c09c08fb0dd6158ad37d2281abc84cca45f6097c11968f5ea9164fef75e76f"
+    },
+    {
+      "id": "204b58491d93a13d8310b48135c6820b7e57f633974c85ba39a7ae7f60673ed4",
+      "text": "whether I have staged or unstaged changes",
+      "hash": "f2b9d623e7fe25ff76bd348f8f6730babb5a2b9ae59873e401b965893f1083cf"
+    },
+    {
+      "id": "626e6e02fd22ae27b4ed1c1fab123d63e9b90b1e7f890d8a89b5f89c4a9dfd5c",
+      "text": "how much of the context window this session has used",
+      "hash": "b07d4c241551b8ae97e67db59274242f589f01621a8de471993ef3e364b23695"
+    },
+    {
+      "id": "2a61c52296eacc45ef2c19f2e112cf1f2cc67a02959a80ca91ba00652adaa7f3",
+      "text": "The repo and Git state help me avoid working in the wrong place. The context percentage helps me decide when to keep going, compact, or hand off to a fresh session.",
+      "hash": "5ae4e015e2b3f5876d1946849fb0921fa766df41ec0e6579382505de73d97681"
+    },
+    {
+      "id": "e373810469fae14f27283e6cacd58e35c9f1dd6a28feff61ecbbd5532015b06d",
+      "text": "The exact format matters less than having the important signals visible without asking Claude Code to spend another turn checking them.",
+      "hash": "50ea6984f3c7929af7b5c7705f5aa1083563643b786c2a7ff973f10a39d911c1"
+    },
+    {
+      "id": "adae7a537a5b19500ef0a30ae7119012c2baa12f9d903cfedca10caadcda183d",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "8394fffa19bce15dfabe8d839cf1e8472f8227e67542f4a8eef79c496ef0b49f",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "d6a23ce0b929d464543fd886eeb4b4337b3d92a4d3b9a575097ed30e5041482c",
+      "text": "The way this is set up is by using this",
+      "hash": "6842a1d2c5b88c95ee2cf3f32ea636c8bb41627e4a57c856683f22117a3ad678"
+    },
+    {
+      "id": "7129d00f762699d1a550fc597fba10e842cae1b9d3cd71c4c2e44f78ad9c200e",
+      "text": "file inside",
+      "hash": "d96693ae40a2cedb0c3cd960eb768583dfad39e119d319386cee28d9ec815dbe"
+    },
+    {
+      "id": "c39312eab9d8ab808ccd6d6ea790c41e7e095b00c511dcc01c07dc670640ad6c",
+      "text": "directory:",
+      "hash": "cb76f2a353bd082f988cb18c8fe617f2cd6f84997c6e51e351985b8e69d89611"
+    },
+    {
+      "id": "4150c4727d8ee323c945a0f615b3732139ee8f02cc3bef82044c8a2f9a3b0182",
+      "text": "You can see it runs",
+      "hash": "0660838360243475438d71250595d5236ec6025a6b6cedbba459fd61b3bc4c4a"
+    },
+    {
+      "id": "e3ed007c1475053b0d309be77694400fb9702c4a9844c81c08387e295d57ab20",
+      "text": ". This status line wrapper basically takes one status line command script.",
+      "hash": "ac904e2082949490b4b7c7d33313d5393a5956311def538c99dcacf1e8ca08de"
+    },
+    {
+      "id": "0d5a61231d52caf12c6423829a0b4eac2999bcde9101f91c09a344e69ad341d1",
+      "text": "Then we also take the output from a CLI called",
+      "hash": "ea22f06583416b6f9c7cbef70e31d3b4665e4783fc04b5d2eb500e0d463a1108"
+    },
+    {
+      "id": "8e8a2c2315d5e24e749fbdfe90aaa357fb77e3ed06acc6ebbd77f140b515d0bd",
+      "text": ". This basically lets me get the context percentage from it:",
+      "hash": "9d37043e74f4793ad09b322b6732304811361cee508a0cacfa4817f4044f6a69"
+    },
+    {
+      "id": "dfd841a1e473f645d10be322953b511359323011e50672374b09f6e5250c2617",
+      "text": "Then we combine the outputs of these files.",
+      "hash": "57fe118f974f759523a8050553ca1da593193d20e5827cc2ed051cdcd1a8644b"
+    },
+    {
+      "id": "76ef4ed14bf212c85f8695752519bdbae4a0bb9ddc8454c6301d57bfac0b69d9",
+      "text": "If you want to configure this yourself, here's how to set it up.",
+      "hash": "e3c5a0306cc72fef71b983859b777a1e78e00a3b3db7005a9bbad14d2c6df7b9"
+    },
+    {
+      "id": "0d262eefa24971573113ac89e0fb4e3499e8b6f6bec3ffa6dc5a8e34a18f2666",
+      "text": "Step 1: Install ccstatusline",
+      "hash": "3f61cb91925dce0ea5e5d4caa79e67e21a61e72066345919dfc1f81d93524829"
+    },
+    {
+      "id": "8e60f72acdaec93a3a889c45dbdae775d752b0348253e9a803817d4b5abb42f1",
+      "text": "First, install the ccstatusline package globally:",
+      "hash": "31e95430cd4f72e024480b38cd39b3e0dd597478f99b5753dc3569a0c8821589"
+    },
+    {
+      "id": "ecf64a3cbc5b83193a2b0dbe612c17141267a1b7cb331c164aa3e4217b80804d",
+      "text": "Step 2: Configure ccstatusline",
+      "hash": "f334c18f0d0dbc93b681b6cd7d48b8a6651b447c8d98139a0f9b8269554d219b"
+    },
+    {
+      "id": "551c67559ec07ab93de793f103d3bd247fd652643cedbf6ceaee9c52b18642ca",
+      "text": "Create the config file at",
+      "hash": "557e088cca899aaf7fe5e80efd1e75ae07d2ba95f91231f01ccce87c2f6ec5e8"
+    },
+    {
+      "id": "21cf781a60585badd2adac4bb4a8f6ccade2073ecd36baa99f18fc351e871fc6",
+      "text": "The key part here is",
+      "hash": "81707549dd4d9704b0d7b44856dd627ad5f7dd071884fb2e80c0c3726b196b8b"
+    },
+    {
+      "id": "9cf7b073dc56237a3eaa66608ce6b0a78b565feaaf82ae9db34b9228e191dafc",
+      "text": "which shows just the percentage without the \"Ctx:\" label, and",
+      "hash": "4c7b95753970234d9482fbc8ed91c4519dc7687ee4fcf3e2bc17a143ab136b45"
+    },
+    {
+      "id": "07ae1dd80fcdb8e62cd2f47b820cbe0c85d7b917f06ea306dd7257016b90f294",
+      "text": "to match the color of the git numbers.",
+      "hash": "4071940ab1f2e89f1cd5b6cbf0d74f661c71ea531d0473636cd40974871f7ec5"
+    },
+    {
+      "id": "50afa8cf8b3393e234ddf5183d8e129088a422af2ca98ac4f6b385a22f5388ea",
+      "text": "Step 3: Create the Git Status Script",
+      "hash": "91203a4d98bdd602448300e80162513ab8ca70c593cf721d89c14acef757892f"
+    },
+    {
+      "id": "abc4c232b3adc10918363207322c8a41c41c808332d8f1a221016fd7c801c0a6",
+      "text": "Create",
+      "hash": "4759498ac2a719c619e2c8cf8ee60af2d2407425e95d308eb208425b2a6d427a"
+    },
+    {
+      "id": "e9871282cd7d3e558520636e4159bb4262941fad708417f03e96ed628ab8077d",
+      "text": "Note:",
+      "hash": "1150f05446e4d34452b320c78645f5d7f717b745ab3165abde97c15ddc650da5"
+    },
+    {
+      "id": "4de32a4074fd2fced68a3d7a855efcbfe9458acee4d1489ccc8ee44717f1700c",
+      "text": "Change",
+      "hash": "c0bf75bd78bf9572596720d596bd5a20a5b9145cde0fe50dec1e783cb184d69b"
+    },
+    {
+      "id": "9604a139409276970aa9b2406d5a6a6284d275c0f564751194b32eb0457ad6e2",
+      "text": "on line 12 if your repositories live in a different directory.",
+      "hash": "acb0b37dcd36f5a419ab19d836dd702b3b1d4dbe986f68b7c9dd112eff6a2da9"
+    },
+    {
+      "id": "2acb7875dead00a51aba7890f70aaff573ceda5035a02ddeed478f64f3e4fef4",
+      "text": "Step 4: Create the Wrapper Script",
+      "hash": "87f2d17713ccae30fedb1dbd7914e25ba437b71ca66990efbf1a653bf3483f16"
+    },
+    {
+      "id": "aea458b77a3744cb17183e76f76b73982ec29259050350c2cd7a21672489d311",
+      "text": "Step 5: Make Scripts Executable",
+      "hash": "b9e4098e87e4aaaf04a2042ea2e3bd7f66de25ff347297f5fd0cfd5c3d109a35"
+    },
+    {
+      "id": "0f9fa0d70eb24176a553e7c91a5493cee7c18ab03b93347502e2bd963a959dc9",
+      "text": "Step 6: Update Claude Settings",
+      "hash": "df71393be59755f634b90b5d50c11402d7552df94817bc813ccfff9b6a64631e"
+    },
+    {
+      "id": "27f24e46826e315c64cadf74d60a0c478bd3113c3ea00eb3fe2f7e9f8040805f",
+      "text": "Add this to your",
+      "hash": "06e94ddacc21c1e4c3739d29f249a88d67dda9c9966161e8e137943a8e17bcc5"
+    },
+    {
+      "id": "d543002f839e6211691a2d8798c509ae6c59166e0936e718e26fbd25526ed6b8",
+      "text": "Step 7: Restart Claude Code",
+      "hash": "71180dc7b73b4e13bff815e3dd1d79840748b8529b2aff78d6200e06a49db730"
+    },
+    {
+      "id": "5fe12d75000529f99875321190cf9d70e067e850b2e4ea3d7639849872df5238",
+      "text": "Restart Claude Code to see your new status line in action!",
+      "hash": "468ff188f5a04e9bd4925ae0583ca8db0b2987acabc1ba3b44e901c01595e722"
+    },
+    {
+      "id": "75e3f8b438c465eb25b55456eca3cb7cdffe56df9cdac299664814eb5cb8a6f3",
+      "text": "Build the workflow",
+      "hash": "b9f9b176e1d1637b13440274d5df433cbca5aec05d50e3962a260d356db41910"
+    },
+    {
+      "id": "9024c664971b3c3bdc2fcf4e7a657db8269db558e97eef42d8f913d92e732b61",
+      "text": "Get practical AI coding workflow notes",
+      "hash": "5c8e1e630ae90d7c6e2cbb7c1dea5014c8613b6829112cec2ef8f70ed5f823f3"
+    },
+    {
+      "id": "239bcba213123b7ae2fce8de5fceee5ac6ad775dba7dcd4383b88aff549480ab",
+      "text": "Subscribe for short updates on skills, handoffs, testing, code review, and the parts of AI-assisted engineering that survive real code.",
+      "hash": "f59bbf390662f769270981209be6b40f4e8642a35f9ad7505087882b17579802"
+    },
+    {
+      "id": "34da7b97bbc3fcd07e9d8926c30e0a2f14a9645bbca1d72e62a5bc64bfb9582b",
+      "text": "Subscribe to the Skills newsletter",
+      "hash": "5bb445ca168150161fd442a04797f29b1c286186514466e081aa4a01d0234cea"
+    },
+    {
+      "id": "683178a6a1edf9f3a15e9aa75da9d64c42099037e13fa676b0be4ec564401b48",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "58f0b39ec230da6e5b3f1f05736208abed6452fd08b494b7d96f2d5390f460ba",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "824ef93e816cca389b42a8d210502bb7d5cafd6c7764ca5dc9db06aab7c84d37",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "134facc80e97ff8f4c7f1eb69fae0421bd502dd371ebe62077d659b8ed420215",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "6d48be288dab1f1e6cd5198a2a874299fc31dc51c8e7f5e200d878bf1858fd7e",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "6cdbaa77a2cbe584c4298ba4cc43e6717e23d005528c9fadc776739f9b0dc221",
+      "text": "Real-world feature build with Claude Code: every step explained",
+      "hash": "0fe30f840117b4520c0ce377e3c153c186e0fa94332a946033ab45b08f76a1fe"
+    },
+    {
+      "id": "ff6059662833681a5592b2beda2d426a0a8f75c46ebdff1456d05f3384ad8eec",
+      "text": "My Skill Makes Claude Code GREAT At TDD",
+      "hash": "11975d24aa6419408b2c63b9b0a6903e90fc4f990cb95c7ed247b915710b27e9"
+    },
+    {
+      "id": "74392a3d72e31b0a27773b9034368a10506d1352c082e806571dacedc0adac21",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "345aa7ef1cac0ec04c93d76c3458849d01fb466f2b8b26e5c37bee8d8b564906",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "551e24b94152778e5303c7ac42c3e43fb260d77552451b01a9247d785502968c",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "44b2a5caaa2d6ae77496b54171804f78667938f5bc909e249ef5ed6f151c6aa2",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "a617cd1e271283c5f552d135b6949f80c1f8c74ee0f4f1f9a0c84c644cd97962",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "6b4974d9088a5f30a8e65b2734195b162eb7eeeab69957133eb9aa9aa2342f13",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "120f1cbd7911f7ad46129da3419d0376389b10163da24904f412b1c2e0f7bc23",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "9e0fffe7f6e1780183db05bb748e815c9c6a836e4f24c67755442183d4bf469e",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "c546c32e622b0077a477342441eda8dc2718cfa512813c3e12de55e9ee47dbb4",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "320a2f2b39a66eadac87dee31f3f9911af3c57a1e14504918d32117914cc463d",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "8fea6c0ef286275b639d7911e1a981f49e77e9d66a695767a693fe0c8d9cc381",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "4730d4496e9541d4f9fec117f9a2350e2c82cff20915fe1322168d764c131cc8",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "9b70a65e6763842c853e022946de8d113a4402747f1f592f9de6e168e6dbf509",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "55290fe379b7fe45f89dd38885124b9f224a806300a30c64e9f12979fdffb964",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "9ea10b27c43373aec5edc9f19f8e1656dd1f40c4462f874fb0b208ffcafd92f9",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "491a8526fc0d7479c1181cd76cfa93aef9fb0ca8094d5eed293a642211fbff3b",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "529391e610d7857dc0e3b5f79c82996ead3ed8d7ea6d64de546f0183902a2e7b",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "37e014ba6706381857326c0506336818d8c543e0200d303632d0994976c8b446",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"dn1x7f68xr87lx\"",
+  "lastModified": null
+}

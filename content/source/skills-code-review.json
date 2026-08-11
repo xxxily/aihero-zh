@@ -1,0 +1,993 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-code-review",
+  "pathname": "/skills-code-review",
+  "fetchedAt": "2026-08-11T06:28:08.027Z",
+  "title": "The /code-review Skill",
+  "contentHash": "10ebdc7b4177ac4519b061cf2dd4f2e63dcbbe637e138f760eeb2bdeef7f4337",
+  "textHash": "f43c2cf8e75bf3d19116da9c264a9bcc9b4791c4b52c7b969eb5b44cbffd72e9",
+  "strings": [
+    {
+      "id": "2aa0dfa6a06cf3ae436e51a91977bc34e6e42e7ec490f5ef1a5b510877bbf76f",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "738dbcf0cbeaf1af2b257de007ca49e4f365c33531fb96984b5ed7c12be20886",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "69716afa10a49ec73a7be7fd5233737fca77fc25beaa97a830c0b9f5d435a294",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "4e7f6c299ecf5cef71247a35709095009651c4f337499c74e96d2b23527c3e22",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "32756d776a70f15acbc67103a73f0499ec18181f9ec130dfdd3e614dba1c7cbd",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "f9ed7d61a633d66cfa6d893d1c70bf6908b7e0527fa5c7dad98fefe56e9abe4a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "779f8ed230d351f94dfcfd470887b9acffe00ee09318e7799ebfbe73b557ef7e",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "3c8d672e543ec0aee5e2932cef32017998af21b1bbe4ce817daef004e50e068b",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "982620adf0a89ef91ee024cf57bba79f7f36de7d8b7366aa73d3d3623d64abdf",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "b811163a242fe68792a023305035280f229e57cde4f524b387d0c0fcafd09ce5",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "4f0c153d22773651c4cdde36356196252ee21f8777df38301fa56030a64ae335",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "1d50c6283b33591a6be933ef2e90105a6b70f61dc6418b1547971ffdc8110ef3",
+      "text": "The /grill-with-docs Skill",
+      "hash": "5d7a7a42b472b35c9a5e2adae6230bf8e98d261994d05596e68436cd90d8e6ee"
+    },
+    {
+      "id": "905b82a40db8bbfb2f87cf81f53f61dcd544e8925d63b0d12c56db019caefad9",
+      "text": "The /to-spec Skill",
+      "hash": "a23abd13c89fe79ac0e3626d5d4c722e63235829c4cf6f85d3d4d28039733e86"
+    },
+    {
+      "id": "fd43455d198ca954ab2f64054e4028b107d9b5e824aec4c91e884ef1c19bd3d1",
+      "text": "The /to-tickets Skill",
+      "hash": "edb2e623d3d628ae29e30650179052886b0583e7c6d64c61f4833a0555f5ffb9"
+    },
+    {
+      "id": "11ccb1864a1e96e149fb6dae26688b601496d6a8f1395e8b0ae76770b67dfc03",
+      "text": "The /implement Skill",
+      "hash": "f9c16f5a43a4bc3ee3005e2fe35c9f995067f243d46c0e304c68ca35fc366358"
+    },
+    {
+      "id": "fa83f15eee4e27aa43e0d1c068cc5a799f1364b58d4e501b223af7227b1bf68c",
+      "text": "The /code-review Skill",
+      "hash": "828cf257382b4e1a77ee8dbdd85ef159141d8c34e4942831831d4f70f5ee84e8"
+    },
+    {
+      "id": "5b3005f36ff253c632a398ad49c841c72be1d24bc0db87202674b941b3f970de",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "788e4156506a5e26cc77923109ee51ae3dd4392efb94327a13e7b731ebb77340",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "0d1aab955fc794273779c6be0bbeb887082070bb6950ce943170f7eacc1c07e7",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "c4bbf5a43255df7c4a4cf30ce54449506028b080399276975b23c780a75551c0",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "9a7e5ed435a9017b82ea8ae577279f3c5b31da2a935fc0f2a5d0256bd74ac86e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "599c1ac56d7eac70a6a867d6214a3a721ddafa98aecdbe70b4a311b87f6fb2da",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f76d1609787a16cff08233dee96f54b33c30ae58a51ee20ad003c4008db3b349",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "54b3fc336d756a25f164fe415e09a631472258311413137c1dabdb08b13d5ad0",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "bba381e6c03596c69589c03cebb3e3d2b43c9dbe4e59d096f633025d7347454c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "5364de9c82ffa1d92a2b9de4944ac5093220141733e8afd98367e37ce16d59bc",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "a4f2af995a11e397cfcb61d9cc0fd3b8126e1181974edda9741f0a85aac7450e",
+      "text": "07 / 25",
+      "hash": "da6f995ae5988aa2bd415b574126ea01856a6aec40239f90a259de4914128be4"
+    },
+    {
+      "id": "6977844390c003a51703fbad049d967e49170075265fa43b9631bd2fb43ebd9e",
+      "text": "AI Skills for Real Engineers · 8 min read",
+      "hash": "09f2e9dd39c5c3b4d7e20076529d7e233953ea4a213d7df649a0aea48b37d128"
+    },
+    {
+      "id": "2bafc455059a55b7a446e9070418fa4e8892a69a3ab3a42fa5910df64dfcf5ca",
+      "text": "Review a diff against your standards and against the spec.",
+      "hash": "989b04edac7564ca86e6e4b8c4dc81b9c0f10293b9dca4ad2269fc3a027f2414"
+    },
+    {
+      "id": "2c2216596994abebd08567ab70b5477aa1d98b903253d05abcb744e51bcda454",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "6b30f3f2d7e13326f46e3d799731a6c4ba2182d4e58bfc3f742624ad7115edd2",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "d2ed13dcceae651e1da6cfbd7726455d6c63af51d9a60a3ad3a846b2f0fb4ff6",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "7af618f8cce3f5d52e63cf3e26f6c706a4de1246ecdecc37452518892e0d475a",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "21cfe9c02f4caaf54a433f36d2d387cae5051e5f63c95263ea4ca852ac643e87",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "bea2fcd5ef999f05ea0cc5c1dd6c8b0328f6e9c0f5660b1b1226d9a7e88ec667",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "1a76861f6c4d8fc59d0dd56e9d0c889bf23459ea42dddc6f970403f2b4d9e7a8",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "d51cfe61f6082b55ae63716f575510cd76ec6ef7aa1a4695c6c8c572e571b303",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "23c86c33d10996b57c708161d76b292a9737072cf874770e0eb0dfb4b6162d4c",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "63f9bd372f4762244cd96a65a3409614daf0bd8b64f6ddf760f1ab3bfb774b48",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "ca824f35c4d4e4026c0ad0c150b7d424fff1645c698fa2fcaebcb2e38bc12380",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "c0235befc757c297671d75236ccacd1b1f3b9c5b5cc849f51b7fef948259ea46",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "fee070839e3f5db59ff773c02fa372c68e2b82ca6a9f3374b801a7467c291243",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "2308034a57d093347badc70e444109fdee01876e8db01296d1ace6b99f902543",
+      "text": "The two axes",
+      "hash": "b8078e0da547ef9220a9345ad4cb8458388403e94460a76d92843eac18ce2653"
+    },
+    {
+      "id": "4e37048082d27069b6b1135aa0eacbe0bbfb8855e2b9606e5f26bd2605dde78b",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "c1664697369a83f65cd5dc17bbf081899b61fb69c565afde585432a756ee06c7",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "16b2df50e320d8d5a218875362b64bef7a2526941613ed9677a5da1d0dfe7cec",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "3efffc4102c435880572670b20cef6072e8505a3e41e205b4c7c9cec69ea01f9",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "b5f2c616920ffcb01745b0c38646c9df262a3ba778b6980aa4262389426ddd67",
+      "text": "reviews the diff between",
+      "hash": "644a9aed45e5607a727161299fabfc665ee4d7c055572ec88234924395758749"
+    },
+    {
+      "id": "16ed5c1397d3385bc161d6e4053255042db1005d59360e007de6d7e3991591ea",
+      "text": "and a fixed point you name — a commit, a branch, a tag,",
+      "hash": "1c0792e591bdd65e97e7d1d855c8bb185597ae1cec4810073b1cf5648f44c151"
+    },
+    {
+      "id": "c3f0f9ef82ad4754513102c88c8cbb4aff7603eef3818404d50c501c209cac39",
+      "text": "— along two axes.",
+      "hash": "f1c4f4a1ef9d7766b7a3f1281d8a4c718d245d34bc24c8529eb42283ddc75b1f"
+    },
+    {
+      "id": "a9137e2f6d45004868f37f5348532cfd0ad6735f45a95e68de305783051765f6",
+      "text": "Standards",
+      "hash": "b9a136292f4004e2751cc366f0c263ce15711f79339310963ab5101f26cd6959"
+    },
+    {
+      "id": "f2d859a7a96f79328c25f1ed2ee8d08c96d8075073e1027fb406e75bf247d565",
+      "text": "asks whether the code follows how this repo writes code.",
+      "hash": "df18ced9138525e984f66d03253608c48257f7357627e70fdc23bdac79eafbf5"
+    },
+    {
+      "id": "3a59a4cab3f3b1009a3738ce7dc6f092b357c4c203f17186da870588e9f18672",
+      "text": "Spec",
+      "hash": "9bdc1337d7016d5825e164ca3a90ad5cb013b39396a1a1ee6324f8dc5ed6a1ee"
+    },
+    {
+      "id": "4a0f73afb01a6aeb4d60e6e8bdf3e066eb0709e005c5f2a2f602d1e03ed6fa9d",
+      "text": "asks whether the code does what the originating issue or",
+      "hash": "47cf84e36038b31e5b08bbf303432f15a1acf064191a1a611ca29c95e7056da2"
+    },
+    {
+      "id": "07540478cd903d2c52708801b30adb728e601744f2206e39df24b08bed1d9ab1",
+      "text": "asked for. Each axis runs in its own",
+      "hash": "a601e9e93b4b8f98b736120213470f08c4292d63f624dca38bf42c86a7073ebb"
+    },
+    {
+      "id": "2d14ceca9828713abd77e2b7f0c418b08bd617fcccf50e1b1bea2190b9f8eaea",
+      "text": "so neither sees the other's reasoning.",
+      "hash": "b6eccb5a6663eba4bcb8fc2b352c29d5a8a47cfe0a05eb7bca9bd5d1b15e149b"
+    },
+    {
+      "id": "9255eb06839dae6fc4e105c62d10448d2718fa6d88a9844c9ba13f063534dbb0",
+      "text": "The two axes are never merged and never re-ranked. The report ends with a worst issue",
+      "hash": "7bba9f2b9382b568fe266a9f69d7a12e3c244a5976f58f4af603e5f7bbb17736"
+    },
+    {
+      "id": "d83e19e7522c01d89f80bc985502199d291c177c50841376889fc08812d58e48",
+      "text": "per axis",
+      "hash": "1059e74482830223e1ca1f08bff48cae05cb3923492e879149f136cabd93f285"
+    },
+    {
+      "id": "d0c6a3e058e890ac97aa9ce54dfd16cc3b8b59a06a50682c8c8181950483039f",
+      "text": "and refuses to name a single winner across them, because a change can pass one axis and fail the other: code that follows every convention while implementing the wrong thing passes Standards and fails Spec; code that does exactly what the",
+      "hash": "9b7fc6a20a736ad913f2775e0048f620a511c132ca8049a12260138431725016"
+    },
+    {
+      "id": "a83dde2ca0b5bdec6fad5520ebf0e36ffa7e4fabb4f1c9ab7fa8b27aac6213ee",
+      "text": "asked while breaking the repo's conventions does the reverse. A blended verdict lets the passing axis hide the failing one.",
+      "hash": "e57d8e2654487cb7def5c3ddf2c38ad8b3594c6531348791bbd757d705e92fd5"
+    },
+    {
+      "id": "7bb98973c6859f3fd2b171a4c60802b4666d61aef31da052befc2eea80c988c0",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "c81cb9f214c46c391c48d109bb0206c6b85885ffa4d27a59301a05b2f044c073",
+      "text": ", or the agent reaches for it automatically when you ask to review a branch, a PR, work in progress, or anything \"since X\".",
+      "hash": "5d901a3eac9a5e96461de0fdecc9236b4e9c7ff65b6109066acaeb49d22968ae"
+    },
+    {
+      "id": "ea2819f2da9f5a9611e3d25a1f1e49fa5562549e005b9e73ea6704b1541d5a28",
+      "text": "Your situation",
+      "hash": "07b3fd94bd3286875133769f9375728ce5f18adbe4bf0e864e0bd16633b6e6a5"
+    },
+    {
+      "id": "8cf7e0fa9df6922abcd94686402cd27588f0746ed48580b9ec81699ee7ebeee1",
+      "text": "Reach for",
+      "hash": "119d18af97589b5b0b3d6644e84055cf59088549958ecc3e7c0b7bc727f3160e"
+    },
+    {
+      "id": "96946fe478284caa2d38aaf03c9b69fc44cdd2982f91b494849ac51dc6a044c8",
+      "text": "A diff exists and you want to know if it is built right",
+      "hash": "8026275eb12d166938397fe3d2a0c0313cb6e01a0b24c758a3c88485a93a49c2"
+    },
+    {
+      "id": "7c35ba0242464c4859b2ae9fcba5113c8d143ceb0230e59d73b4ba03495647f1",
+      "text": "is the right thing",
+      "hash": "33a9bff08ae324034979639c93de2e9b27795ac0970bf0c7564be33e1e093882"
+    },
+    {
+      "id": "6c45bac7d4b6facad6001af5183c82cf126572900d4806bfe07d76077cad6ae6",
+      "text": "You want bugs hunted in the diff — null paths, races, off-by-one",
+      "hash": "820a03ed48ad6ba2e8544f590f730ac09502c0b9cffb8cfdec914d3e4517c6a3"
+    },
+    {
+      "id": "7cb26f18b07670ec0579a77d5427b7d8c7f17582d3691cad8dad84f82e6a4915",
+      "text": "Claude Code's own built-in review, not this one (see the name clash below)",
+      "hash": "8d4d40841bb1d558bce0c82d2096fff79892b041d26c06b11f3b915618bcd321"
+    },
+    {
+      "id": "5cc4b418d482d998ec759c803b5564f2d065087bcce451638850a9a38ae2fdf8",
+      "text": "Nothing is written yet and you want it written test-first",
+      "hash": "8de23314996368a855b7ecbf5eaa5cc4b5842645c325060ba2a0a012fe18c4c7"
+    },
+    {
+      "id": "ddffbb9c9a02b1dcdb2019efd9074cd3bd4adb27d23152efef20b95f4a4a1be8",
+      "text": "A whole spec needs building, review included",
+      "hash": "e13ba92e97217c26768de1e95426f3dd3b9d0b669597178c589db1de1a31606c"
+    },
+    {
+      "id": "d47dc4f2925a84b1ca2599265469b654c97adcd4812d2c8fde6ace564c91a235",
+      "text": ", which calls this skill itself",
+      "hash": "a96a08fd2292e5d264d5c3a2791e04d5da41ff08ee1586739ff1474aeebfdee4"
+    },
+    {
+      "id": "2f5edb36e3f8524fc2620f39110ab016c8655ebd1e11eaed4cf4c80f33721c7f",
+      "text": "The whole codebase has drifted, not one diff",
+      "hash": "5da13366c71ff37d20eb27168fc4f130b2eec76d009724f977f18d7ab590107b"
+    },
+    {
+      "id": "cf7841e889b7cd44ba725ffe2f6dfc4dff397f69f02fe30188823fa530a95c77",
+      "text": "Something is broken and you do not know why",
+      "hash": "0ed3e105be9c634021ebe597c3b7b6ee87af292f2bf597b23ca10888a1e32600"
+    },
+    {
+      "id": "3b872e3a206f70cb58ab907be65262859f5f774dd1b3d465dcd0047e3202bf9b",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "6d8b6807aa2e880e0fb708db38c8068812de427743c7bc303667096b4581973c",
+      "text": "You must supply the fixed point. If you do not, the skill asks for one rather than guessing; it then checks the ref resolves and the diff is non-empty before spawning anything, so a typo'd branch name fails in front of you instead of inside two sub-agents.",
+      "hash": "6ac24978d8a84b7ae94f27f6fafe23b7b1eddbeed6d376a4bb4de86a0fe1da75"
+    },
+    {
+      "id": "82032cc4dc7fce3d946017be82685f62d2fb3aec63c71f1d2076c5c1ab36e216",
+      "text": "The Standards axis needs nothing. It reads whatever the repo documents (",
+      "hash": "73d889c409d727aa2d3be4549b56ecda78fc941bba95a12832bdc7d0751944a0"
+    },
+    {
+      "id": "2720b16dddbf457856f98f90149b267502b14a3ab95385780d24b8d31788babd",
+      "text": ", and the like) and falls back on a built-in baseline when the repo documents nothing.",
+      "hash": "3113951c7fe25250246bd6ad35c1f38099bd85bd7bd982a0650297f0933a6c30"
+    },
+    {
+      "id": "3608943baf8a826e10a22b8cd8bfa7db29bf6e3ec0339a475e4a8d3dc5814011",
+      "text": "The Spec axis needs a spec to exist and be findable. It looks in this order:",
+      "hash": "a6e68ea8e1836afecf661ca8fb2717555e5c1066c34c2c873f713aa8d4326d32"
+    },
+    {
+      "id": "64968d93b6f0576d4ce5e3dfd9dddae4f39bc6d9b6fbd8041081b1b45e74f7f8",
+      "text": "Issue references in the commit messages (",
+      "hash": "1265a94fda5ce8097bd9adb831f86f192574eae610caae575089fe87600fd7f5"
+    },
+    {
+      "id": "3bb94da84061d89bcb2eaadba037d479761947345066d9234ec2d9a8be13960e",
+      "text": ", a GitLab",
+      "hash": "54ccc060f37a41408a261228426d3fdf7727e5c0b1a9d434d7f469d7b92f5f6e"
+    },
+    {
+      "id": "8741a35ba01c76469382fe9187a8666065fbf727a5b4d06e9cc98d94e5c43753",
+      "text": "), fetched through",
+      "hash": "177e28f2b391193e54f111dc5c6c3d4d3ae363115250e26c7b327ffd9b5a7339"
+    },
+    {
+      "id": "b6edb813bf7c68d4b5cba34be3ab6acfd24e5f2eb3b7889026b94fd0b748fc50",
+      "text": "A path you pass in as an argument.",
+      "hash": "5541168f2a0ad86b9b9562d3ed4706eb9b5fe609a18b01541c4cd5ba443ade28"
+    },
+    {
+      "id": "edb5e5f2e11f59c990143ff010142b4fcd3f02424bff76510302da8706446815",
+      "text": "A spec file under",
+      "hash": "5aa34a6c42b3b6f58c93dedb5af44f351246bf7ef9dd5d616005df349a795222"
+    },
+    {
+      "id": "1db11b6cf71d56fee55f640cdea2e60fde76c8f9792958061903a01f75c770b7",
+      "text": ", or",
+      "hash": "3d30020b1863441a64e786bdc72745e998a1e3abd32100e1b043bfa7a01b9095"
+    },
+    {
+      "id": "101fa0c07986bb804d4714e87133b29f27ff2c17d1e931ff194ee0f980bc645f",
+      "text": "matching the branch or feature name.",
+      "hash": "6ffeaa3dd42d4f70108922971afaf9b876a25f5651489b15e16278cb591938c3"
+    },
+    {
+      "id": "719e2c91669cb4d14ac6d0efb9688b5c83ea2be769701a0153b3549fa2b066cf",
+      "text": "Asking you.",
+      "hash": "fdc151941ac42bf17d7b9cbde5dfc528c8256db7f9ea0e9e9ab360c6b678c4b1"
+    },
+    {
+      "id": "8aca9501423debf85ae5c176d2475a075b1ffa77df95e618dd1366c6c0b6c388",
+      "text": "Step 1 depends on",
+      "hash": "d115c65d85d644f85de611023d91a45fb0e2f239960a314ea0490f9a0273f0b1"
+    },
+    {
+      "id": "4559e0e0b11fa259fae7dbc083a6c9958ffc5a6900b912b09fb8c501faf8a029",
+      "text": ", which",
+      "hash": "d2972991b232e6ab8faef611d5b420c4648a57aa68918a490fb8d41b69b3ebdd"
+    },
+    {
+      "id": "05d0892c49444db455313b4d0b6c769ae239e920df7ebcbe295a0e3c606ebad5",
+      "text": "writes. Without it the axis still works if you hand it a path. With no spec at all, the Spec sub-agent is skipped and the report says \"no spec available\" rather than inventing requirements.",
+      "hash": "e3a41b78d9cc0a96f1c6153e005bb557f83bee0ca9d1d9cf97b46c276fcba163"
+    },
+    {
+      "id": "d06c0dfe21e4a5f5607f49e7ffdea441cf4eb108c9a1501453e7a85cee20e8e4",
+      "text": "Question",
+      "hash": "289aff12b04274cb04b8f7dbf486ba8b3528c6fd16b60b9a31d31ce23b339236"
+    },
+    {
+      "id": "1f293464daf8a77e1f2bdcf76f7487b8b976338935a11c4552ab9079354b8f9d",
+      "text": "Is it built right?",
+      "hash": "3a3f4c33e551726d9d36ef6814a071e90fc30a5753fda9478f3f6668d45ddfa5"
+    },
+    {
+      "id": "62ec8d654987806510f9110459c0395a9d92aee0ef1c8cdd572e5270154c438b",
+      "text": "Is it the right thing?",
+      "hash": "5d3436ae79be20445df9fa8fd14d8b720176d398c670f696a0984fc0173a6b5e"
+    },
+    {
+      "id": "34eaac1bad8dd505eb9c9ad09c5eaf6782506e75506bcc412cd878e723a0c2cb",
+      "text": "Reads",
+      "hash": "7f3e8bf052d3900e743f7c670197f168ae3649c08144c8cc39c7d666a5f0b92f"
+    },
+    {
+      "id": "a3ac328880a5f3ee2582e74f4923d0d960a514523fa7437ef8a45a56e050472c",
+      "text": "The repo's documented standards, plus the smell baseline",
+      "hash": "6afcbeedb500c52d8c3aebf12941f799ea5fc042355de314adf06a2d28d1f9d7"
+    },
+    {
+      "id": "1f048a90ff6cf71bd793a8a8ac868593d2db160621d8aaa6f05f4eaeae7cd7f7",
+      "text": "The originating issue or spec",
+      "hash": "97bc4f635145371c8dff58435ce43cc49be6e8b08525139a3d07ee23d5699840"
+    },
+    {
+      "id": "844d16f3a3e9e84c0d49ecead540a1b3da0f50c93bdadbd03b83e2617aa2a635",
+      "text": "Reports",
+      "hash": "dacca3cba3f346a40893112b8670f453650a81138e3705c0034d2392024b9797"
+    },
+    {
+      "id": "07760a7f4e9049b14ea37e66d267f27ebbb82296de68b56274ba506a6ec95810",
+      "text": "Documented breaches (can be hard), and smells (always judgement calls)",
+      "hash": "fb3a1c868c59b52b73611b8eb76d4c85f508603b059b27b6243cd2d64123eafb"
+    },
+    {
+      "id": "7525543498b1986f6557e34210c228256bc4c200b41c8bfabc8347acab329707",
+      "text": "Missing or partial requirements, scope creep, requirements implemented wrongly",
+      "hash": "92f72b1483a8009db2192e93e723b7d8b05fdf3d1b787fe7e689726414a9e2b7"
+    },
+    {
+      "id": "9c18561ba10b74161ad3423c66f0dae887abd513c970aa2964a4fe286f7293ae",
+      "text": "Every finding cites",
+      "hash": "1dc4e2756bd907b562bc8f012e7187a073ee1dfb42160fafad83be47b0b0541a"
+    },
+    {
+      "id": "ac663c79dfc8453d09cfbafca72a528d40a84e00ea05302085cda3802a04a832",
+      "text": "The standards file and the rule, or the named smell plus the hunk",
+      "hash": "0d391580f318d44108f2ee566fe978947d9012183d62170cd10d9ed6da97eccd"
+    },
+    {
+      "id": "c5e1fc407511fc3345c989818ceb0ed464c22c63f363e53f89d8530a3320299e",
+      "text": "The line of the spec",
+      "hash": "af481ec7c463049f5087b014ceca2468c66b761d154468a4dc11b6aaf2f2f00c"
+    },
+    {
+      "id": "81aa952208aa0c76da37b36f7671b418d97fe8d199280d852b663e6dc6c92820",
+      "text": "A generic review skill that does not know your standards is the thing this design is trying to avoid — it flags what is deliberate in your codebase and misses the invariants your codebase actually depends on. So the repo's own documentation is the",
+      "hash": "576a95bed5750693bece9b186a788cfcb8d453968a89fbc427175a57e50fbf0b"
+    },
+    {
+      "id": "cb345174d645d2deed9ab570fa33f978d02adf4acb62d2441749933d51e6e96a",
+      "text": "primary source",
+      "hash": "4c3f03bb625194b79deeff56ee12d13258ff531de6eef1fff5529d0fe89a1404"
+    },
+    {
+      "id": "c862b320b2889aa2a761d3ccc28136c5354be1d54994218d906fe33b971874fe",
+      "text": "on the Standards axis, and",
+      "hash": "a6f8b3a7cd85e4ea682db05faf3781b045663b49c90941d0c8c78cf6543327fe"
+    },
+    {
+      "id": "65c21d8d72328be1db9bae5fc17de6b9a069c454c086ad84c46775360c2ec252",
+      "text": "the repo always overrides",
+      "hash": "882ba477d1de8d96c92c640ebcebd8086a31d8096ad395914ffc96ab2b72ee90"
+    },
+    {
+      "id": "52cc4aba86a12434284707162835b956b7782815375ee3aa734d5ea3aa9ebbca",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "6abd4aff780a114a570115b39c121904a1937de6e6591acc0af3c782c4a37b5d",
+      "text": "smell baseline",
+      "hash": "37f93aff1450ae0899e562ed7e0964d8445365861d390050d8c81299a0b0a456"
+    },
+    {
+      "id": "f7d304d35272e48ea067253b32578f0726e76c5772db149a35be2332184f1257",
+      "text": "is the floor underneath it: twelve Fowler code smells from",
+      "hash": "d1aa19b7032b4abd9dea0b8df11316861d470b4f6e24f49b755cb15cc88598a2"
+    },
+    {
+      "id": "fa57a90cdfc1333ada162628b6fd36d61baabb5681b2ede7332401e91e4ca31d",
+      "text": "Refactoring",
+      "hash": "12982ed008b47d4689f881ddb1c16a0d451a0a4f012dca979143bb926e807506"
+    },
+    {
+      "id": "377c18eec6c23ea7d090e76f7534aa9eb7510c5b7c7bc431bbb237e568d5a1fa",
+      "text": "ch.3 — Mysterious Name, Duplicated Code, Feature Envy, Data Clumps, Primitive Obsession, Repeated Switches, Shotgun Surgery, Divergent Change, Speculative Generality, Message Chains, Middle Man, Refused Bequest. Each is a labelled heuristic (\"possible Feature Envy\"), never a hard violation, and each is stated as",
+      "hash": "1c4d30476b8e81966ac02e7c27ea564cad346a9dbca2d8f40c4af477e54996e2"
+    },
+    {
+      "id": "09b76865c29cb2c89fe568ef26cdc830f829d419ecd2a5477639ac8d13d72c76",
+      "text": "what it is",
+      "hash": "63ba9a465c17dc9bad427b053b6135e68249276af88fb1720df7b363b11ea4a3"
+    },
+    {
+      "id": "010f82110f0cd580395c3de7320ffb4199f89893469128958e834de18aa075e4",
+      "text": "how to fix",
+      "hash": "70e0a6ae5cfed084c7739c8ea6b4166ba8217589bccfe2d323f90aa52500a85c"
+    },
+    {
+      "id": "2619de14096c7acac52cd6c2ecac737e2d06ef99a0d2cda16bcb09b7147fc405",
+      "text": ", so a finding arrives with a move attached rather than a complaint. Anything your linter already enforces is skipped by both axes.",
+      "hash": "a079ebb6da79b339c69fe1e2dc84767c66b58d0ee349fe6faa1781f65a75b0dd"
+    },
+    {
+      "id": "cdd8aa58b777838500d9c5c2b9bc0f506daf97c7cc7f171a2e3aa13ea1f7362d",
+      "text": "It collides with Claude Code's own",
+      "hash": "f377ecbd9ebe9e77ca169d4f7feefa499abfe501e844b934a751de574e367d9f"
+    },
+    {
+      "id": "1842fe53ce0e8972a606b1525c40b2c335c3e4488aee2c8229aa7f2b8b0c5755",
+      "text": ". What do I do?",
+      "hash": "76d3b7873e0fe64be1e4bbcefaab17b0a65a3568aa5b2e10a0263275154f59be"
+    },
+    {
+      "id": "6ef9be27982277d63f4b08bf410f2779e6b2f779eab5c4b4f257067b16b90da5",
+      "text": "This is the most reported problem with the skill, and it is not fixed. Claude Code ships its own",
+      "hash": "04defa7980158cdcb8af0171008480dd095aa4c904eb9c1aa4db84bc487a4be4"
+    },
+    {
+      "id": "d0c22f6c0fd6b78a6d4bdf139f85b1b0a2d4aa7a1fc2b60f501351979dd04931",
+      "text": ", which does something different — it hunts bugs in the diff, where this one checks spec compliance and repo standards. Installing this library means one of them wins, and which one wins depends on how you installed. Via the plugin marketplace, everything is aliased under a",
+      "hash": "fea75989b06b73df6b78e04e49b76dfed0afeb120475c2fc372aaae63273e458"
+    },
+    {
+      "id": "7649beae098b6c8eef03aaa92bfd5befbc6deef7f3d0f9922b37e9bb45ebe001",
+      "text": "prefix and the built-in becomes hard to reach at the unqualified name; via a plain skills install, the local file wins and this skill shadows the built-in. One clean answer is to remove Claude Code's built-in skills entirely: a large",
+      "hash": "925ebf612bbd7845f4029c52045cec1e7a65f1981078bc7612fcf72f88581609"
+    },
+    {
+      "id": "f9f3d2d1abbcfb396db75494aa04bea15e782198161906dec89e39984c64dc30",
+      "text": "saving, and the collision stops mattering. The shadowing itself is arguably a Claude Code",
+      "hash": "286690ea8d0580ffa057e6d21eaeb3ea0b84b47f2e150fffb40753e31552611c"
+    },
+    {
+      "id": "58d480df848427652ee7ca5def30a8f57f940a6d63c6f88a16a1e4211223bf31",
+      "text": "bug — a skill author should be free to name a skill anything — so the other answer is to rename the local copy. Editing the frontmatter or renaming the directory gets undone by",
+      "hash": "efb9e4d7e763382d6449aeb748345d3c2ce277f4e47d83cca7bf2c109ba477e1"
+    },
+    {
+      "id": "a4422321192474a0f94b7f6015c6ac4b691bbf1057b227ef7944c04b50862ba2",
+      "text": "; the durable workaround reported by users is to fork the skill to a new name and drop",
+      "hash": "422306f1c3ea5069cf249d4e4e9a5b5555f3a124b5782947eef4c07fcd1d6996"
+    },
+    {
+      "id": "dc96839c6dd1b1da0160f7f748c59185b5f49c02b1ca72db6a6657d0eb39528c",
+      "text": "from the managed set, keeping a note of the commit you forked from so you can re-sync by hand.",
+      "hash": "87b755582bbbd19768190a22f9c2717ae7009184faea58d07cd6014077fcf27b"
+    },
+    {
+      "id": "1c020c9885e876f564cc1f259308ab80e12b5733a860a0a9b1c7dbad0794206c",
+      "text": "Its sub-agents keep invoking",
+      "hash": "c0c02d34a92cd9e85e9637772c1ce1e119574a309f5bc2e43615ae80a2e45f02"
+    },
+    {
+      "id": "1e4e0566024d02cea948e01cf79d1607d7970ae112bec9940a5aa05790af153a",
+      "text": "again and spawn more agents.",
+      "hash": "01bb8b042df10bba053d22832f45b68cb159c34fb002ac673dfa0e23564cebf9"
+    },
+    {
+      "id": "aebbc1aad13d6145399dc3eb2f65349311583dc23e135f9d73e8487ea9facc7b",
+      "text": "Known open bug, reproduced by several people and in more than one harness. The Standards and Spec prompts do not forbid delegation, so a sub-agent can rediscover the skill and fan out again — one report reached 50-plus agents. The fix people have applied on forks is one line appended to both sub-agent briefs: \"Do not invoke",
+      "hash": "4f0b80ed1f7eb4b53f9415b7c0c5028ccd38a1cea926c7021d3cbbddde69385a"
+    },
+    {
+      "id": "13567dce5c6dc1b6e2b1527d02af264f27dc92ddd904baea8ab438fc0bc655af",
+      "text": "or spawn additional agents — perform this review directly.\" Some prefer to handle it at the harness level so every skill inherits the guard. Neither is in the shipped skill yet. If you run this unattended, watch the agent count.",
+      "hash": "4bcb0c92e2edfd6a11cf03603827ca993e5504ac3708663298b02c358e36f193"
+    },
+    {
+      "id": "05e12873084179f48c382bc282fdabdd06110afaa9949a0b18bdf2cb35bc5d25",
+      "text": "Should I run it in the same",
+      "hash": "693110b0e0b90b91c9289ba90acac4c30f0776052b5bb3836209cf117afd92e1"
+    },
+    {
+      "id": "360500bf974408d2abee125914dd95680b3719fb7746d319fe38d36b51716290",
+      "text": "that wrote the code?",
+      "hash": "48b30740265ef4b60aecc06457aa3715e2441daf83a2ded36ef5bc8e977adc19"
+    },
+    {
+      "id": "dea54ff65e46989019acde79d4a1f637dc76eab18d4e5b3dc2a183d82fee2130",
+      "text": "Prefer a fresh one. As one reader put it: \"Same context reviewing itself isn't review, it's confirmation bias with a slash command.\" The reviewing agent in the authoring session holds every assumption that shaped the code, which is exactly the context an independent reviewer would not have. This is also why people ask for",
+      "hash": "929c6578c6986e4dd877001458f1dcef4dac14138374a575a6f4fbb50d7966c8"
+    },
+    {
+      "id": "07050802e3e0e510a87619f84f5802411cc72ca4b1e49aa0f4f9da41cd5e56aa",
+      "text": "without its built-in review step — it runs the review inside the session that just wrote the diff. Invoking",
+      "hash": "2f41235dac30d6d8089738df9996d6d2bd44405dcb475f78bfafba1cb956d03e"
+    },
+    {
+      "id": "ca3bedac210afb9256aa3e0bc0aa5a92b60bcdfc1aeaef8d31fe51804e05c9a7",
+      "text": "yourself from a clean session is the honest version.",
+      "hash": "725018ceb5b509e3e078ec0ecf984a4d6156cbb0d545dff7480c98dcc339150c"
+    },
+    {
+      "id": "db69c9842f9fdc14141103b96d8afadf95bb79d4d0fbe4211b70600eb021066a",
+      "text": "After every ticket, or once at the end?",
+      "hash": "dc3e2d8f80d2c8ed94bc66508495303797d025b3bf961ba7a311545465a704b1"
+    },
+    {
+      "id": "bd18a0bfc8b64335adae84dd512bc5c137deac7dfae81c054660067a3807a678",
+      "text": "Both work, and the skill does not decide for you. Per-ticket keeps each diff small enough that the Spec axis has one clear spec to check against, which is the mode",
+      "hash": "905035c870573cfb20abb636c7bdc938b5e22df18c7dacba10714f0c5c113ce2"
+    },
+    {
+      "id": "b97cc86b345e566eef73e2bb57ffd22a05804755c65812e767f710275e5a1c92",
+      "text": "uses. Batching to the end of a branch catches interactions between tickets that the per-ticket passes each miss. If you are unsure, review per ticket and run one final pass against the branch point.",
+      "hash": "d70a889d7d52df8deac05cf97f36e147688addd0550c764ef9192abe806a91e5"
+    },
+    {
+      "id": "2831a9a663c8f3a7d67329391058570ec43e8a6ee0a312d7c1e1b1cc67c8dada",
+      "text": "Can I trust the findings?",
+      "hash": "c7f126f365e6cfc157302f8c24f4248868668f16ed4ce86f4eaa5c99c2f057f2"
+    },
+    {
+      "id": "fa2b3e3761b06530b2e894c0f7a277369582c3b48c57f46e737430c48bac3e95",
+      "text": "Not without checking. Sub-agent output is a hypothesis, not evidence — one team reported a dozen breaking changes that prose-based reviews had waved through. The skill aggregates the two reports verbatim or lightly cleaned rather than re-verifying each claim against the files, so a finding can cite the wrong location or overstate an impact. Read the citation on each finding before acting on it. That every finding is required to carry one — a standards rule, a smell plus its hunk, or a spec line — is what makes this checkable at all.",
+      "hash": "aa5a41738439212aa09bc810f2b8af1cdc2b32b11d5eb47548e63bdd1e453ff3"
+    },
+    {
+      "id": "a8afa7d14f48b3dbaae85af42c7113068f42a2c61dd9b3e1a344a28ee0f675c5",
+      "text": "Why does it find new problems every single time I run it?",
+      "hash": "db6bb73a1cdef9e03ecde384bb83878a5d8fb984db062bb91cfe220710908d9b"
+    },
+    {
+      "id": "b72c042552753577aa007c62d98aa9635ba0a0005fe76d1bb154bfdeb0047dc9",
+      "text": "Because fixes create new surface, and because the judgement-call half of the Standards axis is not deterministic between runs. One reader described the loop plainly: \"/code-review and /improve-code-architecture always find new stuff every time. I implement fixes, rerun these skills, and again and again.\" There is no convergence guarantee. Treat a pass as a list of leads, act on the ones with a cited rule behind them, and stop — do not run it in a loop until it comes back clean, because it will not.",
+      "hash": "65b60a22cf683545cfcac6c03fa85ae60d3abc8fd15e160283692f54e8295d45"
+    },
+    {
+      "id": "ab5105f072c1084331a262f99e73246938b03d506fe916fbe0277be3a4b22a6f",
+      "text": "Does it review my uncommitted work?",
+      "hash": "6a0478f33a9d71a69c92526fe84174ade5a20185716029f337119918491f0420"
+    },
+    {
+      "id": "6deb7540e71191cde4c5644a06b2b0f94d07c1de082362a30875750eba0dbeb4",
+      "text": "No. It diffs",
+      "hash": "227f557aa538c9366aba0fe49b11308837191162e6689726164c56a95e980379"
+    },
+    {
+      "id": "e5dd6f30bb2c1e98d9c54096865728fdfe862371571e90dbd7ceacaf51160fbd",
+      "text": ", three-dot, which is measured from the merge-base and excludes staged and working-tree changes. If",
+      "hash": "064fb0c59b7094ed6c29ceb57e85053176696544655ef09c0fbc137b7c4414b2"
+    },
+    {
+      "id": "3dbac90b70f8effd885327ac411a4f0129c37ad4dadebddeb08d7ec071db7a2f",
+      "text": "has not made an interim commit, the work about to be committed is invisible to the review. Commit first, then review, then amend or add a fixup.",
+      "hash": "0e3794c5e0ef75a2112500f764f2634098831ea13864918eec922ddb11b16232"
+    },
+    {
+      "id": "f7c990a0b8dadf997539b428595d9d819086d4a8bf4321e2d88ce415ed505415",
+      "text": "It refuses to start on a bad ref or an empty diff, before any sub-agent is spawned.",
+      "hash": "26fb9194a1c1f206bb8d97c200664df239af2dd89674703896dd8737ada90e0d"
+    },
+    {
+      "id": "a7942ebfe403a49a6e9472cee44d8e55836ec7f5499bc8fe902bbfda849e60fc",
+      "text": "The report arrives as two separate blocks under",
+      "hash": "e61c80ce43dee256ec763039b70b4a250786b97541245bece33714023f2c5c49"
+    },
+    {
+      "id": "4a2c257ea5eee36571785fc15db8959f1534bc494a1ea31db5b6330054ebec0b",
+      "text": ", not one merged list.",
+      "hash": "28c3d4a2b64c0904a869c44b54d782eb5fe2d6a6193cf1240df3ff9cb4c88a94"
+    },
+    {
+      "id": "9653f74085068f997532e00eb7c26f16590148a533f29c3d090cbe58ad62d158",
+      "text": "Every Standards finding names either a rule in one of your repo's files or one of the twelve smells, with the hunk quoted; every Spec finding quotes a line of the spec.",
+      "hash": "a4badf57e46c7943b500439f894d66e2ffac2f401d12a27c2463d30cbc429952"
+    },
+    {
+      "id": "cdb68a4104ab7e6f42305c002e9f56e2fa8454c1abe8e8408c6d6a37da2689fd",
+      "text": "The closing summary gives a worst issue per axis and declines to pick an overall winner.",
+      "hash": "7b0d657b9440968c8932f78893aeb210d6b637a15f89da5bd76133e9c83b7d25"
+    },
+    {
+      "id": "a087d6e8ed713e4cfb30b518a54b6a2f705a4d60539cd84e86da1b37e8624bcc",
+      "text": "With no spec available, the Spec block says so instead of listing requirements it inferred from the code.",
+      "hash": "0c6d635ca0f70a9f08e4b2696656aa44427d71d3800dec5f85aad0d1b001c38e"
+    },
+    {
+      "id": "c43b5ba0adcf362ebe3958261d15b7e0fc6430caeaa8bb194c9d3a0113f929e7",
+      "text": "is the review step at the tail of the build chain —",
+      "hash": "aeecca79a8383e0443ef7b90b022a4ba07458e5bb3f3bcb03133a5e2163f6662"
+    },
+    {
+      "id": "6acaaf395f71c6ad983f93e45891d706fd27e4a4735ff48d2f0cc8f857f23806",
+      "text": "— and also stands alone on any branch or PR you point it at.",
+      "hash": "97b1e17f1d8e03a7e91bb8ad42120d1d6d78febcd640e1c9d4e2b5dcbbf6b5af"
+    },
+    {
+      "id": "8c021393a276557b6d324a7dd6a298fd246032b7f75ba03e4db1dd11584525fe",
+      "text": "is the closest neighbour: it drives the build and calls this skill as its own closing review before committing.",
+      "hash": "394367d171c2d36d252bbcc9cdb9d019a4fd82aabcba743340e41d5941bc9ad3"
+    },
+    {
+      "id": "5a4b4e626a8f158063425096855cade9c46a2c09a70bb6e1768aef7ee9013965",
+      "text": "produce the document the Spec axis checks against; a vague spec makes that axis vague.",
+      "hash": "9349385f5c159b1d53556c671fb20570b1f132ff2777f48e99c88f8c8200e98f"
+    },
+    {
+      "id": "e3f8427031c44aeed5670977333eeb514889f1bf80607d7d7a0b355cc17c5148",
+      "text": "is the whole-codebase counterpart — this skill only ever looks at one diff.",
+      "hash": "37604ecfeac8b4a226671dc1d06b95368726f5f83260f8e4aa47b967ca2486df"
+    },
+    {
+      "id": "f4e26f294cb06bdba1a91b8a8a4a9dd9fdbb05bc5678ea06062889f2db00f8ce",
+      "text": "routes across the whole set when you are unsure which skill the situation wants.",
+      "hash": "8c8ccb567b462e1d4debf82d9935ef3644df0a865bdb87c2b967334de7690322"
+    },
+    {
+      "id": "96d2dc6a4edd82a74b82c3c8d89f50c44a46b94833822e6734bda76eb600ff14",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "0e15ec396eee9f02fd5dfcf6bda91d5ca7e93177a5921f695c4159f2b7906c9c",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "234c3c5334cb1eef7e6e0d8adb30a203f95baebd3d8e80bd0e5c0cd8594d106e",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "233aa8127b819010f4c9ea3816f964e780d7e7ee1cc195840ccb98dfc9a4fadb",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "452742a7608525304d7256bfab92ca351d297696710eeee6124833a190009fcf",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "5181147bd84ac5e1f84371987a79c147fc26432eeb7b347896d0a17d986a12f8",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "9088ceb6d3a81e9a7264cb2dafafbf23512357c864c3f090c4f31d6c8043d77b",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "b1b5a2d40a2ad3c075bf1947730fad1ccdd4de33a54f0e548b516e0a61df6b5b",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "0aaab9af90f3c7957178d4c2e859bb84a5397839ff0a5296a5403c0c5776d68c",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "1d2449f83ad24ee53aa739af7c9c8576973702a7fb20ac7f3208fc168fc5387c",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "baee1883ea521e4e106a7afff35a7e546a9de57bfb0f2ce2532e355a47a0eada",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "49e4d2350413430bf4eb8f71197958d9b6ac62ac4c21a7413f39b158c62f681d",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "8bf53eb65a3f9375eac5a001ee66e73693f1588b697fb9a4101d34a357528218",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "346e74e2cc014e306416b297a88865ba97b930b9e06951f4e3c0ad8a71d5d4f1",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "6991dfe90a0658559086ab03eec3b48cc884a2b28eb7f3fa83ddd2c943b02cf6",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "bc410e4d039565b3ee98c573b478037e94d6cf3bdfa416d1c4542c643f9862c1",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "7e8c500b01279f9f4b322a5b74696b664c4d693fa57fca1ed676c80edd5e5333",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "42ca36e1dd4eeceb8ae4f4215e036886c817396b4b8407c6d9f21178ff285208",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "e2ea35db273e3719bfe3a8b589bed45eab3fbdef8c7c5f95cbab10b8b915140e",
+      "text": "The /wayfinder Skill",
+      "hash": "ad5c81cc0127099d818f2a0d357323e62abb1458a56b2b704db6d50303313c48"
+    },
+    {
+      "id": "1a883e2e637457fb40b951a9c6b825bc423c476f53881015fbfb1dece7fe2c9b",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "00021ab304a5708fb22e2a9e1a36256e0e4ba8181bcd7dcdaa91306ab36aba26",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "c5cd0f68f447c2be994a74554216424c2f563124afe78427c25972c9d6d933b0",
+      "text": "My Skill Makes Claude Code GREAT At TDD",
+      "hash": "11975d24aa6419408b2c63b9b0a6903e90fc4f990cb95c7ed247b915710b27e9"
+    },
+    {
+      "id": "e136c12a5653cd1f79ec9ff8eb76df94efc532c735a2c97a76fcb953c485fc81",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "bd21d95aaa7d6679e1e3ae4209a9e4588ce01d8b1a07913c0189f79caa9d6fa3",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "5675a266c47bb16b55e54402a5f7480636e895caa0149ab7c3e0fa541f2c21eb",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "75e0e3c5f939274d05728298b5b5beb3a5094524e8bc3b7ce7638577c3fd8fab",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "422d4bb1432cbaf074ddb7c691e670ce438aefec6bcbafb0e83b2f47f86f97db",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "a9b15229a77b142e25286f86dc0a1a8c419c6a571d2f0317157ebfd3f23b70fd",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "b11a1eec1ee5e870f9cb1deb1134bcef70e86b09a2b7e0eb222756447b4b4b49",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "2c7a8b11ab39848f11a0effb12996c3e9988a548c518da63dabfe302bce7f249",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "be017fe57594dbee33c9869b79ae9c4aceae9ba3ab126941882ebe4a64ccb772",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "279a7e03bd0774dfaae238b19d78483a31662eae2e9dbde3a5ad501842ea783d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "5b769e084542962fa41346af759d3a41f076d51d70ed17b988c5507480061327",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "287389b100e2f063883d174ff2b6bd9b8549705d8bd921046f64ab90705ad585",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "746af048653e00508399b0012a4353c744bdd9facc8136961a8ae721aa4238bf",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "dbfda9d8b74ff40a3b062ad56ab7539cdfdcde18fbeeaea3759f200d7bfa4095",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "2f3ae3b8d4decf0e5182e5eef311fd9225dce682cee6ee95ff0bf82ba6fa2ba4",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "64642914d0b7322bb1270e739f7b4d706b9600a39f1304e56054c9475120b842",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "86017bd9fea09a03bf830028a7e30c25be93cab280d8d6f13b60362e08060f4b",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "d4e58329aef54e003b1b19174ea90e7ef6232e79a52703efe4d12d941e0f952f",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "0b326ef70e3272a6368f3ee3ffcc01c9012c3beeddb7116edf80ad7ea0b86bb7",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "09ef223e65f61bc2b6ddd54f0a918e1bc94354065bb32d762b3784c37e84e966",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"131ea0vpuww7h2i\"",
+  "lastModified": null
+}

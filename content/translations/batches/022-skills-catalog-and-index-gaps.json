@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "技能目录、25 课序号和 Skills 页面结构化残留人工译文",
+  "exact": {
+    "Series · 25 lessons": "系列课程 · 25 节",
+    "What's a skill?": "什么是技能？",
+    "Install": "安装",
+    "How I use them": "我如何使用它们",
+    "Open source": "开源",
+    "Browse the skills": "浏览技能"
+  },
+  "routes": {
+    "/skills-catalog": {
+      ", in order": "，并按顺序使用"
+    },
+    "/skills-ask-matt": {
+      "02 / 25": "02 / 25"
+    },
+    "/skills-code-review": {
+      "07 / 25": "07 / 25"
+    },
+    "/skills-codebase-design": {
+      "22 / 25": "22 / 25",
+      "Issue #458": "Issue #458",
+      "issue #449": "issue #449",
+      "Issue #95": "Issue #95",
+      "issue #564": "issue #564",
+      "Issue #180": "Issue #180",
+      "issue #303": "issue #303"
+    },
+    "/skills-diagnosing-bugs": {
+      "12 / 25": "12 / 25",
+      "issue #578": "issue #578",
+      "Issue #124": "Issue #124",
+      "Issue #674": "Issue #674"
+    },
+    "/skills-domain-modeling": {
+      "23 / 25": "23 / 25"
+    },
+    "/skills-grill-me": {
+      "16 / 25": "16 / 25"
+    },
+    "/skills-grilling": {
+      "24 / 25": "24 / 25"
+    },
+    "/skills-handoff": {
+      "17 / 25": "17 / 25"
+    },
+    "/skills-implement": {
+      "06 / 25": "06 / 25"
+    },
+    "/skills-improve-codebase-architecture": {
+      "11 / 25": "11 / 25"
+    },
+    "/skills-prototype": {
+      "09 / 25": "09 / 25"
+    },
+    "/skills-research": {
+      "10 / 25": "10 / 25",
+      "issue #530": "issue #530",
+      "issue #576": "issue #576"
+    },
+    "/skills-resolving-merge-conflicts": {
+      "13 / 25": "13 / 25"
+    },
+    "/skills-setup-matt-pocock-skills": {
+      "01 / 25": "01 / 25",
+      "CLI": "CLI",
+      "GitLab": "GitLab"
+    },
+    "/skills-tdd": {
+      "25 / 25": "25 / 25",
+      "issue #746": "issue #746",
+      "— \"": "——“",
+      "issue #589": "issue #589",
+      "issue #607": "issue #607",
+      "issue #129": "issue #129"
+    },
+    "/skills-teach": {
+      "19 / 25": "19 / 25",
+      "issue #559": "issue #559",
+      "#377": "#377",
+      ").": "）。",
+      "#335": "#335",
+      "#725": "#725"
+    },
+    "/skills-to-questionnaire": {
+      "18 / 25": "18 / 25"
+    },
+    "/skills-to-tickets": {
+      "05 / 25": "05 / 25"
+    },
+    "/skills-triage": {
+      "14 / 25": "14 / 25",
+      "#468": "#468",
+      ").": "）。",
+      "#616": "#616",
+      "#139": "#139",
+      "#297": "#297",
+      "#200": "#200"
+    },
+    "/skills-wait-what": {
+      "20 / 25": "20 / 25"
+    },
+    "/skills-wayfinder": {
+      "08 / 25": "08 / 25",
+      "\" —": "”——"
+    },
+    "/skills-wizard": {
+      "15 / 25": "15 / 25",
+      "issue #741": "issue #741",
+      "#693": "#693"
+    },
+    "/skills-writing-for-agents": {
+      "21 / 25": "21 / 25"
+    }
+  },
+  "blocks": {
+    "/skills-catalog": {
+      "These are the agent skills I lean on every day. They live in my ~/.claude directory and ship as a public repo so anyone can install them, fork them, or open a PR with their own.": "这些是我每天依赖的智能体技能。它们位于我的 <code>~/.claude</code> 目录，并以公开仓库形式发布，任何人都可以安装、派生，或提交包含自己技能的 PR。",
+      "A skill is a focused, repeatable workflow an agent can run. It bundles a clear instruction set, the inputs it needs, and the outputs you should expect. Skills live as small markdown files that any Claude-compatible agent picks up.": "技能是智能体可以运行的一种聚焦、可重复工作流。它把清晰的指令集、所需输入和预期输出打包在一起。技能以小型 Markdown 文件存在，任何兼容 Claude 的智能体都能读取。",
+      "The point isn't to wrap the agent in scaffolding. It's to write down the exact moves I'd make for a given problem so the agent runs them the same way I would, every time.": "重点不是给智能体套上一层脚手架，而是把我面对某类问题时会采取的确切步骤写下来，让智能体每次都能像我一样执行。",
+      "One command pulls the whole catalog into your global skills directory:": "一条命令即可把整套目录安装到全局技能目录：",
+      "Drop -g to install into the current project only. Once installed, any agent that reads ~/.claude/skills (Claude Code is the obvious one) can pick a skill from the catalog and run it.": "去掉 <code>-g</code> 即可只安装到当前项目。安装后，任何读取 <code>~/.claude/skills</code> 的智能体（最典型的是 Claude Code）都能从目录中选择并运行技能。",
+      "You can also install individual skills if you don't want the whole set. Browse the source for slugs: github.com/mattpocock/skills.": "如果不需要整套技能，也可以单独安装某个技能。可以在源仓库中查看各个 slug：<code>github.com/mattpocock/skills</code>。",
+      "Each skill below is a workflow I reach for in a specific moment: a vague spec to interrogate, a domain to model, a PRD to write, a backlog to break down, a feature to test-drive. They aren't \"AI productivity hacks.\" They're how I keep my taste and standards intact while the agent does the work.": "下面每项技能都是我在特定时刻会使用的一种工作流：追问模糊的规格说明、建立领域模型、编写 PRD、拆分待办，以及用测试驱动功能开发。它们不是“AI 效率秘诀”，而是我在让智能体执行工作的同时，保持个人判断和工程标准的方法。",
+      "The catalog lives at github.com/mattpocock/skills. If you've shaped a skill that's earned its place in your workflow, share it.": "技能目录位于 <code>github.com/mattpocock/skills</code>。如果你打磨出了一项值得纳入工作流的技能，欢迎分享出来。"
+    }
+  }
+}

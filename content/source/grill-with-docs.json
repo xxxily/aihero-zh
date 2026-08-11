@@ -1,0 +1,873 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/grill-with-docs",
+  "pathname": "/grill-with-docs",
+  "fetchedAt": "2026-08-11T06:28:09.038Z",
+  "title": "grill-with-docs: Align Before You Build",
+  "contentHash": "7acbe9c09d7bb94623a509b48d5eff0429ede9f42df5fdb0b673b98ccae44599",
+  "textHash": "bbdaa60733ceb4311e2d0a33fc22dc938a4eb25bc6d32767fdd943a7332d3947",
+  "strings": [
+    {
+      "id": "df6108a384b3d6cfc2de1c91d35a596312c3a7ede88108341c6171788a8f8def",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "2c4116fab822f2d0d4b7b5c7ac9ee296232ba5ccc29e2b4312d9989783a64308",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "b051a6f341bfb564c2df4ddef9cf2d85b77674deff8bb80b1ddf274e10d3b39a",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f06c96ae58e0c9e6317d2cdb60ebf4d2789de45ce72f62cafd198abe5e208aa1",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "9026b92bd8bc4c6fcf1649d6c0182881dc5f191990042d7be3975e94ea350717",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "871d05c8d4f5d97449932290b178d2ca3c06fb458af4cfa207a25fc01f5c04e0",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "7563faa7668139ea1d235dc156f0cab21818d080f194ce33ecf165b0a9791103",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "0d1b9bd4f9a4b512d4646fbcccda639e212575e51a6e97c92e27968c5a88eaf7",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "e925765a5cde45381660dd5f6437ea3e24f91ec578335238b35df86c3e5c21d8",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "2ab4c5e81ab0503e3042aaafa2a4e5d6bcf659cb552b9672f769ffc7c7b8c424",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "1d26010ccf5c852c28e799a32071ccd5e797c75309ac79d69e9f62147e38323c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "dd51e55cccf57187aa6c041cec7083dc4549b2bdb973a08ba18d4f26b3ad3e2d",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e55e9555c5566139113a23bc10556c96fa7275b12582ad4fc89f6d7722e0a9e4",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "fa1f2d173c340f0bb27634d0ad86edf79c57f5f9f554703f60ed6791624d5345",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "51b1b5ab2c8f3606e8c8b94b79a49f47c29c7e9d5fdf8bfed32b0360f1bf9230",
+      "text": "grill-with-docs: Align Before You Build",
+      "hash": "be05d2e43227ed19ed8969d06cfd693562249b8f6e7041e1da1df95519b05489"
+    },
+    {
+      "id": "b61833cb3e6d4f1ec17c84b0791ea66c6deb76e29ab9c7b131630ba50718207e",
+      "text": "Learn /grill-with-docs: combine AI interviewing with domain-driven design to build better codebases with shared language and less repetition.",
+      "hash": "1840800c6322370f11ef090eebbe9a4d9be2c0c34dd7b90031ff374b41c1d3cc"
+    },
+    {
+      "id": "43bd45fd29e262c050ab0054e0baf8c1443c6802faf122f0075a92944021c8f5",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "f7069c979b7630c949a85ee8d2d29987be414c75e8d556093e4c8a5d2eb14fd8",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "3b0e3fca174b7dc3dd95f99397b33abf1727cff573beb0e611fda45abff20d12",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "b3e907a3035adfd8796064237f29f2f8fbcc344a3a524542e452e607957c2460",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "dfe4894eea0081d8586a0b1c4bea449c598e3ef7167c611c1ca22efb36de2393",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "90e837afe83157477ac10d7ff72f15f275a7b16f3e852f112f2b0abb529b8b9b",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "affaf5fc5b38d7c5deb53f49608f22c801eda4171584c87db47c795c7e8176b3",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "37fb457c26ffcac7070b79c9d7e3143a47319d4819ee80342f38f85d9bc36d17",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "4cb91e9ff7f410d6907264cc3e1f8348284e5c9191837fb95c0e354171b80663",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "6f55fac1c35e5446cc2e1d71d39607e4a4f136806bbadc37b4834a5929c3a69d",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "5182229f74388327c82df977352c1c751cd4e2d8c9d561ddba854102236af9ff",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "2cf77af7b2ca43fa29a6124d4c5b1a32408d8af52e99bb5394ce8719334f4329",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "029789c4577988574caa9e290b25637096ec6bcfe4f569dfcf366028777defb7",
+      "text": "The paper trail",
+      "hash": "c2249caf10d0bc899d6ad2a3c2f44a3343872684f758406721dbd077f84f5d5a"
+    },
+    {
+      "id": "4c9b3e69e99cfc048db7af325e1d28dcd5f7b19d7a7c5fbe2f4e83f56350f3a7",
+      "text": "It assumes one writer",
+      "hash": "e071153cfd14e619116ab9b0cd6ae2bbb5d430573659bbc7c065763e19e1f777"
+    },
+    {
+      "id": "efd5514c4d65e104b945483f0755c085c16b485ba3754eb431fe842ad992746e",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "cdac081c51658a9c6b05efc09e429c64983ccb403aa6544d7b332c41e6c3ebe0",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "739e5b6104a00d8c56afddc5269576fe6e7932d4e8b8007b7a70b84111c6fcf9",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "9dc8d7060984a3bf379c919f7ee59ff41bcc6c2818f5920781866d0cec8e3549",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "9f96323998d36f6fcfc5e09458a75227f1207b53166b8746f84f6b8c6fcd4572",
+      "text": "interviews you about a plan or design until you and the",
+      "hash": "f6c2e7db7813adb902b1a4b83283666abff54d382feb0d7d9bba75f90fea4019"
+    },
+    {
+      "id": "b0b7fbf3ffedc6df4dfe8bba2291542da338f735548c94048b36bc6c047301c8",
+      "text": "share one understanding of it, and writes the vocabulary and the hard decisions into your repo while it does. It is the same interview",
+      "hash": "6ec04543ade0f70a464410ffa145ded84c5944063e47fdbadbca0b58e1486c56"
+    },
+    {
+      "id": "d969ed8dc5bf941de37d9b6e1f51a448e415ca63af67b189eb8c0e0c63d1988b",
+      "text": "runs — a round of questions, then wait, then the next round — pointed at a codebase.",
+      "hash": "25de77c26d8863ecbeda26ae6042dfaa0528ba19fbc5e3eac14a21fc997c8e29"
+    },
+    {
+      "id": "ed88d727072756d520c4cb884f3951f2216e161f31e4561da14767434d11d69d",
+      "text": "It is",
+      "hash": "130deb9847838292ff1a52b6c5d57ce4a682e1591c464312f93b83a741a11fd0"
+    },
+    {
+      "id": "e8d3914b4715482a1e0fdfaf4b8ca48c77800949ae9f87d9e0c698ca2312f804",
+      "text": ". Every other",
+      "hash": "b681e044795f343d3a58d0f1318fa451a37752bdf2b04fa0a829fa65a3cbac0c"
+    },
+    {
+      "id": "5681226cbb89b3f3eca137ec7cd1a074050e7b77084f14cdaf43ea5212e3a738",
+      "text": "skill leaves the",
+      "hash": "a695a24b1d5caaf5e9bef5258eba77ac01e0c8769495808806dae81ea004f497"
+    },
+    {
+      "id": "8a0a9fc7c602f9955268c07e3adbd38ab3b072db7757fc060538bf9d043756f1",
+      "text": "in your head; this one leaves files on disk. A term gets resolved and it lands in",
+      "hash": "a755ff5bc6ff6d9cce31f7fbe1be1b27f29a5fff3ea793f163ed21dfcf502f61"
+    },
+    {
+      "id": "7e7a279cb068db785e45684784683c138b5ff652c73f8452a65fd0de29a7d1f9",
+      "text": "the moment it resolves, not batched at the end. A decision passes three gates and it lands as an ADR. That is the whole difference, and it is also the source of most of the trouble people have with the skill: the artifacts are real files in a real repo, so they can be absent when you expected them, and they can drift when more than one person is writing them.",
+      "hash": "d6919e0171cf470574a3d1fef816b6fb01ac4c56a0f89fe662bd9919d3f00dfa"
+    },
+    {
+      "id": "0268ae70feff2723e76d9d6ed6f7becd30a531ff08fb8dbac65c56cfa5e1b180",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "1515ecd5c847ee518ab3f0abfd8df4a4c21d39fe6c754bd26694058a005f4cf6",
+      "text": "— the agent will not reach for it on its own.",
+      "hash": "d798eea98fc48346fc355ec7fd39f7544c7fe00592c2b3c6bc617ec614728a25"
+    },
+    {
+      "id": "965f7ca206e3349af94723567c66f7b6eb5a3bffd88f9d9ea666e59f8aad3221",
+      "text": "Reach for it at the start of a change, in a repo, when the plan is still fuzzy and the words for the thing are not settled yet. It is the single-session tool. Which grilling skill you want depends on what is in front of you:",
+      "hash": "95541eb92823e147f7c7cbebd701b89b697aaf30835b7e403d792b9a97afa8c0"
+    },
+    {
+      "id": "22859f65b308269f00f95a6035979ddcc34b24ca3b23bac771860177dca8217c",
+      "text": "What you have",
+      "hash": "0e5b8bdda06950ae58e0b45e2ca2756a9f85d2d324331cbfb1c6b07cacb16b1f"
+    },
+    {
+      "id": "0d71542661d2880d85d969091502862cc4e20f6940302bbf542f6d1b506cc758",
+      "text": "Reach for",
+      "hash": "119d18af97589b5b0b3d6644e84055cf59088549958ecc3e7c0b7bc727f3160e"
+    },
+    {
+      "id": "c35fc024e9099aa43c62675911bd6a936299a4ffb257f8de3975ec27f460b66f",
+      "text": "You aren't working in a working directory at all",
+      "hash": "ed48f028f8423aeb901bb813af484a799723a6b6dfefa5f9f00f49e1563ecdfd"
+    },
+    {
+      "id": "2ed7a7b18f5cc92f15d5528e65a94df4f0c7d5e93bcf28242701de6a79ada203",
+      "text": "A repo, and a change you can settle in one session",
+      "hash": "9fc6a57d51b20a1feaa2ce480fd491f257704f59a3c9a962cdf721a181c77da8"
+    },
+    {
+      "id": "aa73f1add97e355b2dbdf99fa1627b0e20c65cc6ea18fa7ca8970a9fa89478df",
+      "text": "An effort too big to hold in one session — a greenfield build, a large feature",
+      "hash": "3d8ae85e526f60f622dfacd6eca4df379406c2693dbf1115e657a45017db971a"
+    },
+    {
+      "id": "34521f44235b1e6f2a4cad7777904a49133fff84e965c36fa63ba0fac32c2a8a",
+      "text": "A repo with no domain docs at all, and no particular feature in mind",
+      "hash": "5d96791b456faedb6c6a9054c096375fa58f3be52dc53ada0d2cf029f67d7bb3"
+    },
+    {
+      "id": "5105b942aaa2e5cceb9e6b4f20b16bbf98e9d3dd561f25ae0e67812e54472e6f",
+      "text": ", aimed at the repo rather than a change",
+      "hash": "98406d83524e6c3d7303f63674e4556f212ef60b91e72df33414b17b65e3449a"
+    },
+    {
+      "id": "3b5504f791eea43a4b1610cb50997286bf0661601e9b30f395a473d1521db84e",
+      "text": "A decision blocked on knowledge in someone else's head",
+      "hash": "8585a1070647cc0106935ec84b6f1afd0fe92da3b665a0402cfcf390360d8feb"
+    },
+    {
+      "id": "29a4bb38db2eb9299e4ee1070386010a1b9e75cdc9f776eef09a8ace2f723a9e",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "32ab84e61f44268e9e80e56cf71ad5ae5842afd192df34dc04c882459d2db7e3",
+      "text": "The wayfinder split comes down to session count:",
+      "hash": "cb66e27136647589f1dc5e444aeae12251958af89b02ca081e53be9e5c5bbec5"
+    },
+    {
+      "id": "18caa94491bfce3814e25f7caad4b7d116794032deec408038c4aa72a5c8d65d",
+      "text": "for single-session planning,",
+      "hash": "8a42bfb6c4a5fcae023da18bc870e469c4847989f42a10f26af31bc58771ae61"
+    },
+    {
+      "id": "130fe1c0120c32eb05f9c56147144f644e4118827e44e39b6bb6c414f7c1832f",
+      "text": "for multi-session planning.",
+      "hash": "9732e9eca95d12a3830faa3f93fc018b7a25c632f04b74c05b668833bf36a7d8"
+    },
+    {
+      "id": "675cd2eb11faf0c3c71e06ebc13308889aa82e4e599f955ed663a8d82e42cc19",
+      "text": "The skill writes into your repo, so you need to be somewhere it is safe to write. Resolved terms go to a",
+      "hash": "2b87117875c7e3611342a6f75ea6a8c2bf2aa9887a3b70a323acb1a159bee647"
+    },
+    {
+      "id": "4ce76bb6d27fa2c081cf2f98bb4544465abed3cc2317d836aa716a2aefcdc9da",
+      "text": "glossary at the root — or to the relevant context's",
+      "hash": "fe1effc9c5036d39131151f1d06c22fcd9492687f38126ff9f407ef0698eaa27"
+    },
+    {
+      "id": "e6c7df7393b8a28bdb119df68ec1c0366f05e044c32ada4ae57e9084c7d12570",
+      "text": ", if a",
+      "hash": "e52563e6e8870a67c53f8269ee47843618ffa06b7fe1f1848bb0190eacc965ba"
+    },
+    {
+      "id": "d150131d462746ecc298cd5054b7a1e50e6fecb982f5be3c3993218874149736",
+      "text": "at the root marks the repo as multi-context. Decisions go to",
+      "hash": "3b6f85a44eaca367e45f40de42826051ef43ee29fa82ba3fa647e64940f4c0b4"
+    },
+    {
+      "id": "b03a7ec5bc8e64c28edd4a9f1449fd2108493b91c2e7a0c72a67110be1a1e6cc",
+      "text": ". Both are created lazily; nothing exists until the first term or decision crystallises, so there is nothing to scaffold up front.",
+      "hash": "cc54be0f8cd2fd2ab67a8f03aa683202cbee686bcaaf433e2ace8e9055fb1c00"
+    },
+    {
+      "id": "e7daf02a83b659ea683da2a866624f94cf625ac451073f728700c9ba9a44c8c9",
+      "text": "It also needs two other skills present, because its own",
+      "hash": "6217973c8f276513a098d11d98b87471e8cd9ec73152cc9cfacec5365b5d140a"
+    },
+    {
+      "id": "f5209f5329d6000831cbef56a3ea741cf41302211e3d153d10ce3ec6c6910ba1",
+      "text": "is one line that delegates to them:",
+      "hash": "e5cf7aac91e1a17babb569691f720eaa7c5c4e1c00b7cbe644eceabd2468168a"
+    },
+    {
+      "id": "166378f2b5f281e97b82a3e53207bb8cc5a2b0c19c785f952b29ffb30d6b5ac1",
+      "text": "supplies the interview,",
+      "hash": "339d6cc6058b2b593ca7696cde3e8a1bcd73a3e864142c71a964edd50ec719b1"
+    },
+    {
+      "id": "8c50982cc9512e573e6c282c6b74611fe24d67bf27763359e3efb4801050c6bb",
+      "text": "supplies the writing. Installing",
+      "hash": "ae088095ca7ed07c53a547357555e8b1bd80944d9c6f469bcd68060406cb54f0"
+    },
+    {
+      "id": "3760c86fb1eacd0ab84e7046f29c2fe1fc7827c73726d28ef9fe9023e640bcd3",
+      "text": "alone gets you a skill that does not work.",
+      "hash": "651dac02306213af8a2510e877eb91774ab56b739c5b3eb393ce26aeacd6de0c"
+    },
+    {
+      "id": "81bc827e4206f62e9d7bbc7d4291abec7a57edfe61a86bca47e0fd3acf21bb92",
+      "text": "Three things come out of a session, and they are not equal.",
+      "hash": "518161d13af880810b9a5d8ff294dcd29ec2ff2efb09638c12073e6ef3c9da15"
+    },
+    {
+      "id": "5bea4b012f40ae1a9738578c9e4e16b29beeae852a8b59064034084b62fffd5a",
+      "text": "What resolved",
+      "hash": "909b5753d4edbe4b96c7ff5065788dd0244f1104581f169f442b3e78850b22a4"
+    },
+    {
+      "id": "e507dae24da7b83b8ce23c288cda6a6c894d96b449ee0933594f8a2321772dec",
+      "text": "Where it lands",
+      "hash": "452fbb269fbe60f480ce37ba8e114536c839a12f937b5413dac2e08cd8a509ee"
+    },
+    {
+      "id": "b3b198f13f0f2149c129064e452dc121f117ac2fa7842751661f4949067f9173",
+      "text": "A term — the project's own word for a thing",
+      "hash": "2aaf23bd4e0e6312776c6196a2903ca5ed55451545cccb1f131797ccb7138e8f"
+    },
+    {
+      "id": "5cc1996aa0b04c1168939d27fb95e6457f16c4de4b6d7e1b1d9e0ebc20f38a9c",
+      "text": ", inline, the moment it resolves",
+      "hash": "d4448892486062e47d07cb5b7555746c8195b9e50724b54d3358f78dbb97b141"
+    },
+    {
+      "id": "e4bfcf2881f8652e19f6f7696a7d2daf7fd114b15e09bbe46cd73888dd78d546",
+      "text": "A decision that is hard to reverse, surprising without context, and a real trade-off",
+      "hash": "3c798a29b44a318e48050bab90477c602b87e83d60026beb3fc9f52b550ae523"
+    },
+    {
+      "id": "5401c2ad1df2850bf2e406b08b279363bb30419706faa424fb5b864550299afc",
+      "text": "An ADR under",
+      "hash": "9dc74100354cfa6f80e8a65f7b910821fd982c764ed7387d457ea19176a0452b"
+    },
+    {
+      "id": "c4c7a2613c789cbf14a7bdd20e3a1169446bb113690f91a4435951f90c7f3da8",
+      "text": "Everything else you decided",
+      "hash": "e44151f58f6b45b20d4df3f589815ae45e75acc2742160a1b283c6a69f626496"
+    },
+    {
+      "id": "f6d79a8f0c6691aedf3ec0af236bd2d13aa032c307b582986dd8a285a8318303",
+      "text": "The conversation, and nowhere else",
+      "hash": "44a6a0ccc11959f7e857f64d133162a014a9182e1843c83713a83efc883e57fd"
+    },
+    {
+      "id": "4c3aed9c1650f0e4a1322f276afbebc8f4c621d3c6ff93eb6fae4ceb4980e7c9",
+      "text": "That third row is the one that catches people out.",
+      "hash": "ca1ff9841890d043d9b6d801b8f3ab2f57ecbf3dbae5307228bf47c1abf6bb4b"
+    },
+    {
+      "id": "0deebf33e4b33f91d454c68c6c0bd71c6510990558380bb124a7bd2f7cdfd9e9",
+      "text": "is a glossary and is deliberately kept as one — no implementation details, no",
+      "hash": "d83394b0e0380b299e3419bfb782ba50d2509b4d217edc28c0996dc29a8cb855"
+    },
+    {
+      "id": "672200e2c0e089a5c06e6509a8150416bcc5bf7d26284062cc9ef5130bc7b3c4",
+      "text": ", no scratch notes. ADRs are gated on all three conditions at once, so most decisions do not qualify and most sessions produce none. A session that yields a sharper glossary and zero ADRs is working as designed, but it means the bulk of what you agreed exists only in the",
+      "hash": "858c019cf59e06f874838f2b9a8b17d64072e8e50b2c09693f05c4d0f9aaf2af"
+    },
+    {
+      "id": "fb53b3bcfc4a870062c705d402545327b0651adc4e7a5424bebeba27c710cb98",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "fa76d23a1a9948a44aa369fa06d73c7b38bf19a54df348443aa3452135cf9f46",
+      "text": "you agreed it in. Hand that same conversation to",
+      "hash": "b268a5346d4c53d172e6005eb2684c35f8ba96f0dfe51971dfcc840812bea26f"
+    },
+    {
+      "id": "d1c9214264a702e89aa83c7e5b84b8d63e9a47237ecf354ffee5d2cdd0577b46",
+      "text": "rather than",
+      "hash": "d9c6399d00eec706d6f988779f4540b71307f85594decfd8e5741afb8c2dcaa1"
+    },
+    {
+      "id": "c50e005851a01e394e23d76161e5eccdcd795d64ac59251158e65f6ec263e9f7",
+      "text": "it.",
+      "hash": "5adb68a2c0af946fc0e42453ba7de76214c7d854ac30fb194dc4c033429d4ad8"
+    },
+    {
+      "id": "8441a208bc740c9a4cac0f892d4701d1f4dcc15255b01f8b2ec96d4acc32f7d1",
+      "text": "The glossary is the point. Domain language is the thing this skill is actually building — the project's own words, agreed once, so you, the agent and your colleagues stop paying to re-derive them. It is worth saying that not everyone agrees this buys you agent performance: the sharpest public pushback is that a term and its plain-English expansion get the same result from the",
+      "hash": "07e72f24fba0597f484e3314758ba8a14f4cd9d487c5f27aeed7b5fe27ff4158"
+    },
+    {
+      "id": "a78509c183e3ded02a2b0d770036f24e945cabe100c25c058a314496ecf8b325",
+      "text": ", and that the vocabulary really compresses communication between the humans who share it. That reading still leaves the glossary valuable; it just moves the value.",
+      "hash": "392a0d33f50c43681fc7bf142cd07d898dc991fb75dda1d90e50beb1d43c76b7"
+    },
+    {
+      "id": "e42d30acfce067240a180936047dd465b79577ab37245a5666e98c2cec8b0b65",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "9d409dd2f3132fad3a74f104048226909862f2558f41f561bdd4760f721947cb",
+      "text": "outputs assume a single person curating them. A two-developer team running four months in one repo reported state drift on roughly 20% of sampled merged PRs, with ADR citations and README claims the highest-drift surfaces — deliberate, human-curated docs drifted worse than agent memory did. Pruning the stale docs did not hold; the same sweep was stale again within days. What worked was deleting shadow state outright and adding a deterministic citation and link linter to CI.",
+      "hash": "b8175d31d96030ceda25a17270858708f349e07fdb863cf5fc0b19861070191d"
+    },
+    {
+      "id": "c1eada45d2ec034867818d4b403092b58fa05527e175f67477edece6c16e2a0b",
+      "text": "Related: running the skill repeatedly across unrelated changes in one repo tends to accumulate mixed-topic docs, because nothing separates one session's output from another's. Neither of these is fixed in the skill today.",
+      "hash": "f1ad0a9b60f93870bf965cfc951e2449d59d53878cd693eba7eda90f9d6ed6c6"
+    },
+    {
+      "id": "abe023eae72211e73b37b215480657cdd2942499e5ae6d4d483590bda12784d5",
+      "text": "Should I use this or",
+      "hash": "172c49b837fb174d34eaf0609676d5afb3a0912b3ff1a188cfc57155e521e049"
+    },
+    {
+      "id": "10739f6611074ccd4a727a2cd0d722726188f64a5165f49afacc29ca6751970d",
+      "text": "Scope decides it. Use this for anything you can settle in one session; use",
+      "hash": "243944218653f19c2b8486102144b45448ca6d8f657eeafb78b1df61bec5d8f4"
+    },
+    {
+      "id": "3193de38f37471ae424ddb3eb0cf1d5fe03fb5191c14d8370047ce5aa464042a",
+      "text": "when the effort is too big to hold in one, and it charts the work as a map of decision",
+      "hash": "1f4d589e97cabdbdd698f20c354bdf6f23084b674e1ae7eabe38cb50b501cda8"
+    },
+    {
+      "id": "5f451cf655e570d5d595add7f54b59635f89e85c4d8fe8646a795e3140024b4f",
+      "text": "first. Wayfinder is slower and denser, and reaching for it on a well-scoped feature is the common mistake. It does not replace this skill — it can drop into a grilling session for the parts of the map that suit one.",
+      "hash": "e14f7ec9912852853c8d3a3f4afaf3a510d4061ca7172bbfe349e7b4cc636414"
+    },
+    {
+      "id": "5dc9c48d260b3d17b2850456f6faf5b211fcf325f183c74279c7e1a489ee3256",
+      "text": "It ran, but no",
+      "hash": "c9fba663d83e3c1b73516dc795339b4ed44f54816b3c8b9b6bd7f96436c87717"
+    },
+    {
+      "id": "4e3f4bc97bfde5fb38e36f94c6623409ef64b2b0fb9c8f58abd9e88ff4a6d767",
+      "text": "and no ADRs appeared.",
+      "hash": "6cc6c8ac2047e7f9127fa2c865c80dd15f0b462893b7a48b0fb08f4cf3f41dcf"
+    },
+    {
+      "id": "d06ab6ea2f2444bfabe5023904dd10965e76934227452a86d3f21942cda6aa6b",
+      "text": "Two known causes. The mundane one: nothing qualified. ADRs need all three gates, and a session about a change with no new vocabulary genuinely has nothing to write. The real bug: when the skill runs inside another orchestration layer — a spec-driven-development wrapper, a multi-agent framework, a rule that invokes it as a step in someone else's pipeline — the file-writing half is reported to silently not happen, while the interview still runs. This is filed and unfixed. If you are in that setup, check the working directory before you trust the session's output.",
+      "hash": "21b5da647020405637cb565a749d1b20e2fb59bcf447457ee7dd4211d3246601"
+    },
+    {
+      "id": "b30d43214650602da591836db74a4c36f4178944a6ba8519d0dd70b2dc29a1e6",
+      "text": "It asked everything at once, with no recommendations, and never mentioned",
+      "hash": "1f1fe7de26fb29c18cdfc1a9772939396efbaa8e359c17f27b899ef601c6fa0e"
+    },
+    {
+      "id": "ee135573bebcbe4c8950df9f32010d1d30678c4dd4614689105ca0f231abc341",
+      "text": "That is the skill failing to load its two dependencies. Because",
+      "hash": "38a8c27d22e9bc51b2035b54248584605d3df5f0552258e395b850a677eda348"
+    },
+    {
+      "id": "21f1bfcbdf08abb6518bd5431bece7d913f7ec451bce1306f62208999e3994a5",
+      "text": "is a one-line delegation, an agent that does not pick up",
+      "hash": "c3762b85215105ffe292898e110d349d3b6d1ffcd1f69bd3c7343168c87d943d"
+    },
+    {
+      "id": "0804c6dbb497490da7dc6cf230939eab9dcfb792bf584c6d0229368009b3d893",
+      "text": "guesses at what grilling means, and you get an undifferentiated question dump. Partial loading is the more confusing case —",
+      "hash": "3e8793cf941299ea422cb127247bd7f6afeee1e942a5ec992629dd6e4ec44173"
+    },
+    {
+      "id": "faa1e83bac81c326a8205366d62166b38357a2f84a3062ae6e8958917682c496",
+      "text": "loads,",
+      "hash": "0bbd7da7f49a9560f0aa7eca986c78211a29b9380b649ed74d53b996d740de9d"
+    },
+    {
+      "id": "6afe1dd7a3d306dde67d7f6699795eee5929ab6f65a5403a59b3f57a070a622d",
+      "text": "does not, and you get a good interview with no paper trail. It correlates with model and",
+      "hash": "8c4e47b4a039efa6ee391f616c147c0c5fe463166c4cfa1bef566fc2f6bca66f"
+    },
+    {
+      "id": "4b3df29ff372b0f7e44ab7f8ade8206bce67b7641a6a46c7ff7354ff0fc9eee1",
+      "text": "level, and it is the most reported problem with this skill. If you suspect it, ask the agent directly which skills it loaded.",
+      "hash": "db5fcb3e93bcd504d5d828e37e6a99f877bec799cfd84679cdf5c0db56d111ed"
+    },
+    {
+      "id": "26e2a524336e44482679ce4ef804a82e0107f23b8e7b0bcb26d05263ed646023",
+      "text": "Where did all my other decisions go?",
+      "hash": "5d40fda224272633afba3f9c25fafcdbe3fd5f855e99b0ea32017dd117cdd5ff"
+    },
+    {
+      "id": "88ca9204c093195ca95feb4658ba41c7c66a0b6a8cf9507ce24f257ebbaa83e0",
+      "text": "Into the conversation only. This is the most substantive open complaint about the skill: the glossary is not a spec, most answers do not earn an ADR, and there is no ledger tying each resolved answer through to a spec, a ticket and a test. Precise answers — ordering guarantees, negative requirements, numeric defaults — get softened into weaker prose downstream, and the result can look complete while missing the thing you actually decided. The mitigation available today is to keep the session and feed it straight to",
+      "hash": "9d6f2a9843713bfb3deb041dfc6e8bbf965e1f047906ba8428147bffcf2ad69b"
+    },
+    {
+      "id": "4aefc2f74ea63d9004259ddf0f604fc6da8cf9bee3cf13c07529591215858785",
+      "text": ", and to re-read the spec against your own answers rather than assuming it captured them.",
+      "hash": "bda6cf61fae41e9439d6fa351b12330a46b365ab7046352f7799b1929ef6752c"
+    },
+    {
+      "id": "d33bb49292f366e3f9bd3bdf186258ce8ae3f8911f70a49e15a546ace33a570b",
+      "text": "Can I point it at an existing repo that has no docs at all?",
+      "hash": "5a6fb95f3d26f356c4dff00eb8019f1a252431746fc78c4faf0f7d3464ff6b07"
+    },
+    {
+      "id": "5ce045e8f2f3bfe52c52eeed6cc8ec3916f9df32a97e4402aacca5d919aecf84",
+      "text": "Yes. This is the right skill for a codebase with no ADRs, no domain language and no design principles — invoke it and say \"help me document my repo\". The community pattern pairs it with",
+      "hash": "6a18692c189a76816e58cdfc8169b125edef5b6659d6233efe3d7058a1a04db4"
+    },
+    {
+      "id": "99478c1e3326e3bc88a00d63fc0304779fb6efe9c2814acb7585a9cbf0b6e96b",
+      "text": "for building or repairing a",
+      "hash": "39c6e4d78f7f22e399d30eaa1b53795564ab2275f8bbd7d76bf78dceeaaf99ba"
+    },
+    {
+      "id": "1ac349a2019a07bd1b70ebd0fc99cfdb8cac1a9b2497129f7820d476289a38a8",
+      "text": ". Expect to steer it: it will read code and ask you about what it finds, and you are the one who says which of the words already in the codebase are the right ones.",
+      "hash": "4e053b1b18f8fe00b07844171573611a8b35265eb5b21fed1c8aca057565af11"
+    },
+    {
+      "id": "b841cc85f330dac57de92f674f05c2e90fbcaa33d35e16806616a0f65a052586",
+      "text": "What should I do when the session ends?",
+      "hash": "96407cdc261d704e2476c30aceb2d0b5db2a615e1d655167799126b430ed1136"
+    },
+    {
+      "id": "c64433221889aea86dd700be8eff7540e3ff40cfacbbe61eba960576a8fe0f14",
+      "text": "The skill's closing message tends to be open-ended, which is a known rough edge. In the main flow the answer is",
+      "hash": "dc78967c2897ec9a6516eb86e45bbbf4b0c20b026dc5c5394499e85e91f99b7a"
+    },
+    {
+      "id": "ce686b11dbd524600c1f1228d65c80fc52d49f697a0f8f1bd3a4587fb59fbd41",
+      "text": ", in the same conversation. If the change is small enough to build immediately, go straight to",
+      "hash": "3343c151a12d047638e2b9aeefa8bfb2d4936e03c0a14cba629654735baf601e"
+    },
+    {
+      "id": "fdca452dfa3f68a037d25831e86323aaf2381881b5a59970c470f7fa8dbfb76a",
+      "text": "instead.",
+      "hash": "90b5d13011f6a86532541bbf1ec3c2c9f09d654e267e4e889db77b09b8bbb990"
+    },
+    {
+      "id": "98b17aa735e63bc0c05aee74eeab067fd166473f55cd5ff8f4db624c2e38f248",
+      "text": "Why is it called that?",
+      "hash": "07eaff9963309604d27c4115cf33b243f7943d5bf557c461553c1268117bf121"
+    },
+    {
+      "id": "2024999c20583d53f780789730f1b8bb8cd4bce9a9d23a25b9cc6e427dc0505f",
+      "text": "Nobody is happy with the name. There is an open suggestion to rename it",
+      "hash": "dd754e9cfbf91bb7593c8b6f84962847963374aebd7b6030fb0997e2be5579cf"
+    },
+    {
+      "id": "4f00ae2b7aed70eaf99809ed966f5cc15456f4d185d8f95162db046f7d65a72f",
+      "text": ", which describes the behaviour more honestly. Nothing has moved on it. If a rename ever lands, the docs page moves with it and the URL changes.",
+      "hash": "74d02c152cb3064bc8e3f30617b7de6cd10f696982287318d2d8b26bcce57ce1"
+    },
+    {
+      "id": "0c37042b9d995ce080d20c40795292b723d36a8a33c1a4c136b226bb6a7e5334",
+      "text": "the session, term by term, rather than appearing in one lump at the end.",
+      "hash": "28c75e78a3eba1114a3f96387427f61948095e1e81197ee1ba9e06f5002cf88a"
+    },
+    {
+      "id": "da278725fbeeebf31689310471bc66303a4da15c59a7ae6733f62d97bb314909",
+      "text": "The glossary reads as pure vocabulary — your project's words with tight definitions — and contains no implementation detail or spec-like prose.",
+      "hash": "5bc055419c1afaccbc80606303608ce2767cf349e022632962e196f7cc75bb01"
+    },
+    {
+      "id": "59fb20f760dc6a027509a7f19c612ada5c2a98fc0d408d40617669a70e2e0a80",
+      "text": "Questions the codebase can answer get answered by reading the codebase, not asked of you.",
+      "hash": "1edf1f297c2da12ec83a463d21f769631fb85b372257f225241b11a83518fdd3"
+    },
+    {
+      "id": "813fd29fd429364060ba01603c388628324031f48314c8787216977004cf7249",
+      "text": "You get few or no ADRs, and the ones you get are decisions you would be annoyed to have to re-litigate.",
+      "hash": "8c8116716c57def16b899915e04fe2d4a65f0c7e11aa91e74d2039a3842f9978"
+    },
+    {
+      "id": "1e68c5b652f6ef2d411ce772a77c3619946285a5a85ed98ede1c8ada367137c9",
+      "text": "It challenges a word you used because your existing glossary defines it differently.",
+      "hash": "14c98d38407157bac7969a8f5cd88f7be3b3446692ce9dc73e257a5513e2ade8"
+    },
+    {
+      "id": "d267ced719e3bb26a07d7f8ae587df494b67dca120873f8248d80815ba276178",
+      "text": "is the head of the main build chain:",
+      "hash": "68aaa8533deca00ca624b1306c6c320bad74458e2077701f68bbfe9d424e69fc"
+    },
+    {
+      "id": "c9f676cdede43fbc7f8f86ea49394646c81c22e57a3349c7f4821e3ea95f5d1c",
+      "text": "It comes before anything is written down as a spec — it produces the shared understanding and settled vocabulary that",
+      "hash": "e4d1a9d3f5a7e6faf78a82c8bc604082c39a98bdd196744b165cc9c664ff6cd8"
+    },
+    {
+      "id": "26dfd23adf672c4ee83a7f4a413f2a6f72f3a5c2e0c2e9b6b1e57d7e38032f78",
+      "text": "then synthesises without interviewing you again. Its close neighbours are",
+      "hash": "f49e62e43d79dc46e48e5e3f85b1f7e5724417be428da429a2f7acb43c714a20"
+    },
+    {
+      "id": "5dc64b2bf7cd46764064dbb55227315c4fad5f3c2abbb0b25b8d2a3a627e1c33",
+      "text": ", the same interview with no repo and no files, and",
+      "hash": "28f5eee367d93f8186bf316a218e6aec5e635c8a30e1762db6f83b7cecc7f6c4"
+    },
+    {
+      "id": "ad3df553ea968bb4d3b07a37a8cb5507de43fcc1a648f86206215fbfcf969e26",
+      "text": ", the glossary-and-ADR discipline it drives; both sit on the",
+      "hash": "0f78154cae8b104ac9ca279d781b9ce1274b04c8f2ae11fd473efcdcf862eee6"
+    },
+    {
+      "id": "f91e0ad5e7ad799cf46b65de7dd49dee1cd9f9d17f83b1b3442c150c823dc700",
+      "text": "primitive. Upstream of it,",
+      "hash": "ee7d1b7ff81e8bd5364238fdfe27338df21343496aa613093d6c1a4e18b53a42"
+    },
+    {
+      "id": "74ed508a2b07a0e1a1ce7e066f6458f48a0bcb274496bdb18d9eec2c37f95a69",
+      "text": "charts efforts too large for one session and can hand parts of the map back down to it. When you're unsure which skill or flow fits,",
+      "hash": "6212a14dfe5bfd4aa210bb2087df9e58c6ee411c6ea397c064a1cf35e94c858f"
+    },
+    {
+      "id": "02bd3930d61b833bdde5d121f685e4cef616320a2f41b57c3727e23827723e84",
+      "text": "routes you.",
+      "hash": "7ab0ed124c45755dcf8314c61ea1bf3f8c9926f3cf622e8d67e880128523bfad"
+    },
+    {
+      "id": "54b6173ae4bc70aa99a678bf0e1081238ae40692af844f5cb36c2800b6f78cec",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "c94a8d31c2460c0425df674b17af1f1071f198040549b58c5e4fddc4afb30c11",
+      "text": "Carry those settled decisions all the way into code.",
+      "hash": "776d9a14777a4a0c48ca42708016563724253cf91dd3768ff9115e42381096a0"
+    },
+    {
+      "id": "0d3be7492946a24a66c92b7172b8c7145881c146caa86b985b2a0df6c4a59f94",
+      "text": "One command installs all 22 skills. The free course puts /grill-with-docs inside a seven-lesson loop that ends with a reviewed diff. Go as fast as you want.",
+      "hash": "f2d802391669c1da8a7acc70ec2e0dd33d5e75bebb878524e560b55d5c792a8c"
+    },
+    {
+      "id": "669c9442e565ab57fcacb06fbbe50fe4b58c7c8c4f49c6b9a6192b659ffd33c6",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "c3c88b79dac1f853d4439a6b27bd2473759de618a1f6e53e78818df47a035a97",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "6e8e11bee0fa297bb3efe21d58f29e5848862b440ee4a7976019d1f818120b89",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "65603b17925df1451ea3325eb07d3c6b947f6192e6d26bac3ff67e2c11409c28",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "3c45254c61e9e3ccae19aa2ce93522bdd3d2b35bd791c7d20bff419286f4655b",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "886bc8694b51fdfeb25eb2e611f90a4844d1ce8d50ab1c28b4ffaa0a21dceeff",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "d2dfca00a8549968dc7311caa1caab340937179ade90903508e1499c389a8ac1",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "139223abd542663a1fbe3bd453b391bbf5c3b0e76f52d46a1a2d6a24ac59f30e",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "a38d33efba94971ee59082fc6e4b07d5ab3c6ad6e2d125ceae1bb9cf103349f9",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "fe8f7b880ad82c7ad1c1de0b0e24333578adcd6a09c4d0d5a33aadc9ef271909",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "d39260169fa345edea8f9651bc8dd5864ca3d3bb525099a74d4eeb0d27ae73ef",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "1435afcd5240867e0f80a12362e235a1ab78249134e33910a16ae2503267875d",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "0ea278a2399d18b349d1126de5616bf9d5990c0958958d7634d38f2c09de4a66",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "4f699da202325217d83b34a8780aabeae5299f6aca0311781992fa3ed2d766fe",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "11b46918419d647011ada6d6c8e6ce86a317023699733f9f8db8e8a18452cbef",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "0c364cdf0b2b4a41848057c5752d2b087acca8c1a04ffeb3f390c11b936c1d64",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "be5a4301347f1907a489a29194d9224413b1e28283fe78d7e344505469d37437",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "f2199909a3db635c1abc3da04c2c090092158daa0f535be907b67f0837a198d8",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "cb7ec771703120313316a88e264be7ba4c9766b46828cea3cd4f4084c4f678a1",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "5d57b6111cb90031ed6d79bea9ac3b8b26198743b9cdd92a958cc8eaa37615d4",
+      "text": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+      "hash": "a8132b4f77ca14f2ef5aa84bc8386bb2e8acc3ce746a8209008bcb9af5610bd8"
+    },
+    {
+      "id": "6bcbfa92dec1ae700eba9197762c223ba58c2d6c42542b54a6b65c3ec7ae22db",
+      "text": "The /handoff Skill",
+      "hash": "aa9ef09fd6306628ff648bd617767047dad198c95193321344b3959b78d08f43"
+    },
+    {
+      "id": "f85331dcb6fdccce8c38d19c45783c88f916f141cfd618d8b9a09f21b55704eb",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "d8153e55f2876b3c4a402f76ec403531e0dc5505817744c8e8bf2bd3261f03b9",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "40d9aade2200324c741f3698e8d0053c3e79066c6a19440cbda8603a956e0757",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "1963286993097a00e2fe6f7d50491786e41a54c8f63e776869fa320dd906e1b8",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "eee8cf0a964fd077fb7d7fbfe6b200b6782f82d35f476ac62b75115f19935c85",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "dd6ccbe27d149ec326169ee869804bf2c2284906c2dbda39e2a6cbe24ab8c3e9",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "798729607ff80dcd19b3b0f9c256941fbf089130376389e122970342fbfab71f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "aa22df4897a18c0fc5c7a951c55f8e4192ee3871d0fbc293e900dfceafd68d18",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "adefd177a064475a899cbbb974037c10ce7b8393f533247fcbcf85d2472ba445",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "0d60f2916de838d71a1f38ec117f6f1c7a276b99ab29d98656c086f3603a91ec",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "428583e4351b660600b837ceee0624acbfd7fb430e2d9e99541c034ee45e8170",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "78dd6319267af067bbd41419cf0231b5456f243441991a0dbd998078048dbb40",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "81ec5f7133da872ab89549f5e705b425deea6cc4f1736d1886baa4ccdbc7436d",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "dc8117273ee4a12b30e564bb6af07849e34b4938cd62817dddef91095cff78ae",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "348438205c98b112e33deceedc532b12beba6f70594098c458cca188db1fd78a",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "37c089def8c47e56b76e56e03c55a9cca20c8409923fdfc3f419ab991a55f045",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "11e5cf024cd5edde714d18551fd70c5cfc8b34eff55e4a108b8751ecfe8989c9",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "568312f9382372270b9f9321baa596d9d8ae5b38a481e198d2da41bb9354f844",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "6ce9c054f1b2825a8f05ca7529002e5bbcc9eedb4ea4b1a06c3bce0cb5216e80",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"mty8853i7n78ml\"",
+  "lastModified": null
+}

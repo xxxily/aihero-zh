@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/effort",
+  "pathname": "/ai-coding-dictionary/effort",
+  "fetchedAt": "2026-08-11T06:28:26.544Z",
+  "title": "Effort | AI Coding Dictionary",
+  "contentHash": "1daeb09386a2d2848dc8fa1ab2f4ef79b3c182200e28d66c8e4e4a49ac26cfc7",
+  "textHash": "0f1ed5006b8fd76702599b6a23b9e6de78e5b1de5a06ddf0e15bc336745644f4",
+  "strings": [
+    {
+      "id": "335eeae2d1ce4084258b95e28f247114893385bcf786644fa1cd3e9a9d5edd43",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "701fd7ec26c37385e2efee38e236dd02937b04b8309f68c924b0814d94cacfc9",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "07902916dac3792bf65c112f5a804de9f79ae874bc5a5c45d17ef205bff132fc",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "9f6a97a508e931a814060d01b74f87b973f4d8c0bb9dc2dbd5a4b274eb3a316a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "6f799fa29944e68c15bb1618619b7dfc915e923190aad29be7b0ea2efcffb895",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "95ba224ba9d87b3211ff86cb00588c948957384652984e6725a6aa48d51769a5",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "c9c87042286a0865237ac33e6de12bbfa9130cfbf32cc3ca8adbb4264d348faf",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "1b5fee174c2208e6cc715e1e5bb1baf0647d5e192d8ebf929104c4c97d022fa6",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "4b943cea0b2839d68e0901878fb79fcb39e4c8d19741bf74fe8b0002aaba320c",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "40856c8f5ca1db3a4e983470f75ffd0176362f537b283949490f0ae4885b3623",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "9d3904a41813df7681f25a72ce75980c8560fced74cf5039632acdd566f4e0e9",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "426a8ac6540553ff2486c3298202b5754721978077bd999b44491db7490bda87",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "11ac25df305ea5f0bdc588cea8fae9445893fabaf2568d849f25c62485610178",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b0ceecef571e7cf4518637da0a3de0b2aa180f4742358c1393d31f907462238e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "f754fc64247e216979acaa7e4e4704b61a1d4db9c114389a3e7f12c6f0b6265f",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "7c6f6983624130255426f222c72784c8959d266147d335b16b8b72017ea76464",
+      "text": "Effort",
+      "hash": "4387e5d3966fc436532792769763cd1ab7cccd6464d4c01c2b91261894e96b77"
+    },
+    {
+      "id": "0e4239efcf471bc8100f434c5e81210f41fdb70a929c9719e79e06ec908964b3",
+      "text": "A dial for how much reasoning the model does before it answers. More effort spends more output tokens for a better shot at hard problems.",
+      "hash": "a33f8c75eb99211e1c9a24ae09720fb2ca6f00179b506920989fd2ca3831ea8f"
+    },
+    {
+      "id": "edf28fdceaebc50344a33204216975b72f6c94d1b7c1ded176d03dec62acb230",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "aaa13a12dad8ffc6325a778b3adf9c47b0ec99c8919861613f544dbc871e3fd1",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "dfa227461663f0f820267c597c735c8754ca70b44c5c05010413c52f9e5cd9a2",
+      "text": "Effort is a dial for how much reasoning a",
+      "hash": "c71000ce4efcb5686857aa8101cd93fa0b53dc85937e220408146e1180cad340"
+    },
+    {
+      "id": "6d2121fc5eae9f143c52c1e7362869c94091236cc84415a6d42e034f37daf4c0",
+      "text": "does before it answers. Set per",
+      "hash": "f6e8a66cbff0c8d543610289729baebedeeb36685d2cdb6eeecfe22e2b950107"
+    },
+    {
+      "id": "5eda7deb311d97efabf3c08a0fab8fd3636ea83c452652226b46c213f9b6bc29",
+      "text": "model provider request",
+      "hash": "3004d539f1f0ae7a40070d95ba4a1323d874684827edf4d55b29a1056f8da7a9"
+    },
+    {
+      "id": "69adfee35e4ce6bbe81a452c4a98ad24930d68a5316f8356929a39df8f0d1a73",
+      "text": ", it controls the length of the thinking the model works through before it starts writing the response you see. That thinking is generated at",
+      "hash": "26a8ad6ee87c41f2a591b00d8dc4816bcc1819d3032e543d8fc8a96126632beb"
+    },
+    {
+      "id": "a345ea969dc5ebde6cdc5985712838b453f76f11971a82005958f3bc2ad8544c",
+      "text": "time like everything else; the",
+      "hash": "546bd81f826e790ab6c45f754e443c06872dadbd233433f597d2773b3e890f99"
+    },
+    {
+      "id": "265008f10fd2dcf5df41ee1a00b3b4a15573f8638ff6371020127e4c55630040",
+      "text": "often hides it, but it's real work the model is doing.",
+      "hash": "ee2b4a523c6b4e846e05b90aa5f39b95799d4d388d51ccf2afcab8b096fbbf2b"
+    },
+    {
+      "id": "c85a504d27dd970c5b5a9d85e489f6b11d0dfca8bacd36ac0a5a4590384ee08b",
+      "text": "Higher effort costs more and runs slower. The reasoning is emitted as",
+      "hash": "9642cc205edd9c333724622830e5249be8f6141d0edaa92754599ade9a5e4656"
+    },
+    {
+      "id": "a5c68c0f6990f2dd49b22812ba9893e2e10f84f94cd93812be72abbe49aceb82",
+      "text": ", billed as",
+      "hash": "820b2342f094b1cd469c04c7f6d8138a78bcee9f99b3e285223b5c6917f3ab40"
+    },
+    {
+      "id": "a1a1998c975de8375e1f82991229f38a41b461f85709289803526cbb3f0ea46b",
+      "text": "output tokens",
+      "hash": "b6798bcee84a53a994de8822f2954fb739ce9a8eb119121f36b363fe86182357"
+    },
+    {
+      "id": "b29520c6e348e2e9aa7542d1d38551379906b26366371ddbbc05a6654ce8e865",
+      "text": "even when you never see them, and produced one token at a time — so turning effort up lengthens the wait before the answer arrives and adds to the bill. The trade is more deliberation against speed and cost.",
+      "hash": "aa12dc7df747cdcab2ddd9177085df2e8448f1f63fbd795ddb6cc75e10bc5a28"
+    },
+    {
+      "id": "307dd7513d703089a580f92ed5b00e43ce06d7e4d0a2e2bcab28ca167e368e95",
+      "text": "Most harnesses expose effort as a small ladder:",
+      "hash": "f22ff9e20037d7ee21fc74b17dd898a7bd46c18b51b2d40a6290674fb6f9bbc2"
+    },
+    {
+      "id": "171ec661b63f41261d79c7d309e2a41e79c060b51e183eb86a430cb679dcb273",
+      "text": "Level",
+      "hash": "1709305c9fa966d14f56f0da3c3614bbc10adcf53d72f90341bb96d24afcfca3"
+    },
+    {
+      "id": "1bb6734b2f927c725a276a973f58c77b63a331598f91ca9489251dec4f93d80e",
+      "text": "What it's for",
+      "hash": "ffef8519dce9493d0fbef7507b4e25a1959167a152bf353bed9b60b02b830c6c"
+    },
+    {
+      "id": "0d68bbda0e43ee5a9794f2fafacd694bd7a53f79f39636b4f53c79ff8ca108e3",
+      "text": "Low",
+      "hash": "f793de205ead5ac302c4a1627829dea41f176b1068b993a32373fc869918374b"
+    },
+    {
+      "id": "738ac7483092517ff7552d860b4e3191688aeb2ec699e143b9721021d9009d55",
+      "text": "Mechanical edits, lookups, well-specified changes with one clear path.",
+      "hash": "d2cfb014b2f5ea90e791fda6eecf9e55ff2f4283319b52fede1a79671af2403f"
+    },
+    {
+      "id": "ca86436c4c9cad71687bb81767c76d84c5e76c13bad06dea7225466b83de0220",
+      "text": "Medium",
+      "hash": "8e588cd187741f1cd76f5fab77b7208782a8c21d764ce7d7a4cf3ac4e0968873"
+    },
+    {
+      "id": "964379769759ed0dece3b569459050b3c64470090afca093f415deafba34a7ad",
+      "text": "Everyday coding — the usual default.",
+      "hash": "3f153f0a84b9e0f1caf26746e3659c5525ba03be5e72dc59c03e40b389c6d0a6"
+    },
+    {
+      "id": "19610f9eb5c00b001bab91480519ec062074dc480dd869d8ecada23c138aa1a1",
+      "text": "High",
+      "hash": "c4ebc6d4a5832cd9415f906ad03661110c705a72381c8b8b145761d02e2dd23a"
+    },
+    {
+      "id": "1da312eda3d76b5a93bd94a274a0bce6a218671df94e88c9ab3163b0d034b187",
+      "text": "Tricky bugs, design decisions, multi-step plans.",
+      "hash": "b3650af86771e7412c41562711d5cd372ed347744ddfdcb0ce650d4ff0c89c2e"
+    },
+    {
+      "id": "4fab565ed8d9d514c5d291894ae21e96f3c1d4bfbb7e8d7b7748baa9c49c2868",
+      "text": "Max",
+      "hash": "a1a5936d3b0f8a69fd62c91ed9990d3bd414c5e78c603e2837c65c9f46a93eb8"
+    },
+    {
+      "id": "329859292f4d181ac4531304a86dcc1b20781d6ac100e1f09b24468ee035dcd9",
+      "text": "The hardest problems, where a wrong answer is expensive to unwind.",
+      "hash": "3b97e885990c6e223a39ee257eb7d5ff193fb4d2cf8172e47ded03a2fce7fa18"
+    },
+    {
+      "id": "ce5f17f759ab60e7e5addf110697d798942d8e6beed0549d67479f3838030a6f",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "66dea1a2d7445fe101769edec3070ab893f4f21a9a97c90f208eb578ccc64bf3",
+      "text": "The symptom of getting it wrong cuts both ways. Set effort too low on a hard problem and you get a confident, shallow answer that skipped the reasoning the problem needed — it reads fine and is wrong in a way that costs you later. Set it to max for a one-line rename and you sit through a long think that produces nothing the lowest setting wouldn't have.",
+      "hash": "7217c4e813e6638315f205b09e3289c81d59dc0bc3b5a659876b105489874dfc"
+    },
+    {
+      "id": "ae08a0015e5365cf17faff0a6b4b5db69e5f1cf88c48d7bc084472578985cd8f",
+      "text": "Match effort to the task, not the",
+      "hash": "21ae0c7cddaadefed6bd905e55c696564a330e69b1d2208580fe67c0137cf0d7"
+    },
+    {
+      "id": "bae0d67b00ca1bf84ad153cc04ee5132866d22b374f24e23e3bf30f0ad5f9445",
+      "text": ". Turn it up for the part that's genuinely hard to reason about, and back down for the rote work around it.",
+      "hash": "708f7780de7817d661596b73776ab3332ec8e566961b4fd2496983be1a2c4180"
+    },
+    {
+      "id": "a69f27e0e2d59d32737a5c80a4a877a5cef8cf81abcb9b6bd296eb063da289e7",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "6d941cce17e88b4637f573963802f5e7accf52566ec18fccb7e1b05b8bc2853c",
+      "text": "\"It keeps botching this concurrency fix — I've re-explained it three times.\"",
+      "hash": "ad40d2768a5c1f46b40920c479fedce9ef7ef4ec57102def05ba3c641390a120"
+    },
+    {
+      "id": "f62d6f03ef0b79b58ecfd28f78d49d39a831a4bbeba1efa0883db1401b491e3d",
+      "text": "\"Bump the effort up. That's a reasoning-heavy bug, and on the default setting it's not thinking long enough before it commits to an approach.\"",
+      "hash": "df57f8a559cc10fae6eb838164af22a16dbeee63c4a8c6c5ef4ea06310b32f9f"
+    },
+    {
+      "id": "8e8fbbd3d737de0232e413c4618363b51db51833bbcc9a8e2b6276998b7914e2",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "55517a04352d76bddcbda6eec498be69a3603a6ff7082426ab2a8ddc50a178ce",
+      "text": "Inference",
+      "hash": "ae5b8a4c6ac9aa79b9fa5676a05734984afeba28277a24d2f3baffa9354ccc7f"
+    },
+    {
+      "id": "6ab0be15418f2f2a1791b12ec7e60a30037eaf229ede2cac909d7befab30516f",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "93dfe635d3bc3b7e07a8ef4d49fce27d20db3e8ffff88438cf0d5edd15370d88",
+      "text": "Token",
+      "hash": "d2089be672953d1136faa84079af1b6f3967fed8932dabffba3032d30e3c0618"
+    },
+    {
+      "id": "04c77e4ac2cbcf6e9149ee24a3130cb57e8196a2d936675133605b681754d562",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "c4a5b8e8f541b3eaf882fa4709a319453090b8198ce138066e100b19a3dffee8",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "8ad53de15bf678ba3009bb3d9a299e18e31d5ad8a075a8117a781880e41659a9",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "4e430bf0178b5b7ee1a0103d9bfb381c67a7920c4bcca396019677c514a01074",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "3c922203499e610c66ffe6290a41ed47a73e5f357b5ac9ab23c85db7a9a86436",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "56eaa135de29204860a10d9526e795588370e6faf92bb7f9a28437b08e77c9c1",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "88bafa9fa399df5eb16bbbfa96de68583f0e524ac3a793a21bd68ec497fddc62",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "559b2bc35c9b74ff9a2736a13e9e0a24fad903bc66691c6543dbd51f55ac17d8",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "c89632f05b09bc8b0b96e63b6187ac11bd7dd7eddb8d69d8b967941b6fd157e3",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "1f078696158f7f3ac32d4658a4de2d0915bff6299d09687114034ea73fdb4c57",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "143af30398ae40b247714a1abfb63470f79038bf544f4f397b9b62dc06bbbf57",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "a3da2ad890a975667e80d795350df1ca2115d47e306d6ba0b9821d0784786809",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "a479813b107d306d76e817ebb88fd3e2374d9aea5f16468d7f0e5f1fe14918c1",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "456518f7f2472784239689380346514ebb4fda464339349bde796ae8aeafb043",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b959204ef83cc18c718ab1233b9b1b76b6e5592e2fb2aa719b0cd18487483441",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "a77e2293fde045f03856f7d0909dc2bcf144a004abefde369aa50746c2df137a",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "df30595899f257011fe80658afeda08cf52d971092a39283866f3b6e2620b451",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "89083b4b740ab8772a79faa8f9a38e3c47cb877ef64cbb1490e5c8370d2bad92",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "882dadd0e9475e8f601f5fdc91189ad7de917957ebf6e864730d3cca24597b79",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "87ee7e5485a03c1944bf2095b1c47d38d0702439be8bffb40a2d2ecc4d07e87a",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "cdf924e7a3b72d69d611637611c57371d1a40ff479ed1d78b6cb9884d6225398",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a44136e54ef4d9c84b1592e6930e765d26a64476cd78b423ce5427548fc6328a",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "60fe5b99ba5991923043f518781bb1c0df700f969d2439c6dbbff0c3250731c9",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f3b10fb4ff42af657c184ca615350c8196ebd978b438e0a8b80ae52df6202da8",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "5eeec09c11eef2dd6d2caa73eaa664b6bb88c0a09930e89547f560277d90d9a9",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "077d8b8fff3d42d6aa7cfc5f1e7f109da41a67600acfe3279325efcf4f21f5e7",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"rbqv9gqsju4w80\"",
+  "lastModified": null
+}

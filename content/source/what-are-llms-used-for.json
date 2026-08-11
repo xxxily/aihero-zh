@@ -1,0 +1,658 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/what-are-llms-used-for",
+  "pathname": "/what-are-llms-used-for",
+  "fetchedAt": "2026-08-11T06:28:18.868Z",
+  "title": "What Can You Use LLM's For?",
+  "contentHash": "05d30a71b3798f0b19b43c935a2cc13e32415b5163728ed6d0856dac5cf93888",
+  "textHash": "8982f41aed008a5d88a5a831d7dc356f1d385a8fafce027bcbfc353d55b1b158",
+  "strings": [
+    {
+      "id": "879516a3ce630e5283840a0e1be5b02a7bb54d13e45ed960981d6df1eaa40a3f",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "255964476351b2e07bed634e2778831012d19bc2e0539c4c9597fb3c29014af8",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "b921f66b7628a3c7f40ea4749fce6decfb02d534f7e385f2dffa8df9e24c02d9",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "102960b05d56daa5aa0bb178824f52bacc6b23b6984c023dbc878c40c13fa206",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "a4a16593b029cd7be668502b467fcc64e59fcd82361fa58096cf373442ed7ff5",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "66ce8ee2f58a48a5231980df33fe615f019ca1b8955dcfbed3e85f31c046ce79",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "5f5f8137599f057ef04ba8bd9dd92949fab5df06656034e1f33948214f8b40fe",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "a46192890fb0c50103237bfb7ea3e9951ac1a7083f9413679b96c586d0ab4b97",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "11674659868d6e401d054d9806277d57283605778ddd2575e6f9d3dce01107d7",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "a41b481aef7dc90be6478939afeafee2cb5fcf72e9e5245b51921f39af8eaa1f",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "85fe720c483aeecc7534c5dfe480d9860a5c8be464776eff7b0fc2fc72afb196",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "3a451a6ac356db5fd21af0a0be6267a3f41d11303e3387d0003852761bce2821",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e91702e012a5ac21a977afccd96841b43d0858fc7f789db2fbea8c633f0a81cb",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "8c3f4f2edfbf708dfe4c79e3bd84a96b22654088eb0ab8aaaf955c071c29bab0",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "75ea519eba6845f04dbf83536aa012eae81edf876f92ec9b901d358dad157991",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "c002aa9679a3e48e9bb11b7bd5bafb1b849ea725746dfe68ba898a98ba5f87cd",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "ede233460e57bcb039abb519d0fac3c498ab765f4c01cbccae822f4dc1b1d9ce",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "b6a3fdbde51f379f3e9e1e3e69dbcd339dcb4d28660109644cb4ebbdcb90a892",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "02688887b7f49a9ce731b436fdc3417a031842363fe58ab7c9983bb0aecc17f6",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "b3aaeb64acafb1f48529a163b2ac30653db61494c5b53de3ff5ef91e553812c7",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "2c57419f98d788d090d54933b0e96217a9b24faa731e5058156f07983b562fee",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "ab0920d921d8b35f9ab5beb9b239e747ce9d5f7c14bac2dad4a8c8370daa7d25",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "79bfe7190f8228fc2620dfa96649d7f72e624e1f47fb6306c8880642330d5a13",
+      "text": "02 / 07",
+      "hash": "0ba6b19c6766eee683b7276d890c5acb747958960ed7b467f8d6de8bacf964b2"
+    },
+    {
+      "id": "48d348c12d2141500de383193ba94e5f8296cf27d9554028d6c463474780398b",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "25c4a4bf7b4a05622e8cf47c639849462cb68917ea55a91987df5a6fc2426e37",
+      "text": "Discover when to use LLMs for data tasks like structuring and classification, and when to opt for deterministic systems.",
+      "hash": "cc535db479f82807922e33f68f7f1fe03f1062466deab59986be029bbedc8adf"
+    },
+    {
+      "id": "39ad0dfa621ee3e2439e05cf6e51ba01b43f0f586986b4b4caa8e71bdf6da72b",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "b5ca41e9b4fc2c16690c4a1dc50f9728e5be6bfe08c0ad9ce6ddeba50436bd92",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "704b4b723aeae03f7d5222477483bb38507b83eb6b65fc8b439bce3695df3b71",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "7d95f935d89773c7568a879c6d6e638cc2697a192f6d2edc0dade328236bfc18",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "08de32865f92b7389801d01d3f20b3ed3c24fd22c26ccfa59245d11f475582e8",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "023c4a505ed5cae47116218426d9d6ee9b63a4281f96b8e64bb655879cc42dde",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "2707c9b671d2aea436034887b179d13795e5a5429275fd9a4b53d79ca9bd6ad9",
+      "text": "Use LLMs For...",
+      "hash": "279ed210bb00356d1414a03384cf9ee24ff9b3200466b3a2baf5590d6ba6a9b9"
+    },
+    {
+      "id": "39414386d1136847305449870c28717aed169034e1070e68476a350e67c3677d",
+      "text": "Don't Use LLMs For...",
+      "hash": "7cf966d4f358f27542a88a4dbcf0abfff28e43ab6bbfc550328f0e98c827345b"
+    },
+    {
+      "id": "9e65a90ed5cf7d3c8f7167259a78e925afac540fdb55fc14d9646d121f7972f7",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "a337ab9f35b2425ec46ac31e94ed3ff6b8d7309ff152d8c2ac007fe010872948",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "1eb3e5dbe28cfcf2aa9b67d37200836773d669060bf5c869769b0172f24d3075",
+      "text": "Before we dive into the world of LLMs, and how they work, we first need to know where we're going.",
+      "hash": "8d20f0901b8a1eedc2ddfacd37a10ee1af471fe701322b5d3d6376f136cd2f73"
+    },
+    {
+      "id": "e39ad3fc31ac32a1cfcee1fa622193fac56fddf26948c5f2d6d8fac8bb58016c",
+      "text": "What are LLMs actually used for these days? What utility do they have? What can you build with them?",
+      "hash": "4f34076b4f91b4edf6fd0fde6b10dcfb04d92bcb1d8e2d7aa53cc6a32bb34f59"
+    },
+    {
+      "id": "e32b3c033767817e57937973adae998016eca047216bcdbdb0694145d3a8e095",
+      "text": "In this article, we'll explore the different applications of LLMs. We'll also look at things you shouldn't build with LLMs - things that are better suited to more deterministic tools.",
+      "hash": "387985db5a64f952429ff739b0dbbfeaeba898082efff63db26d2ea867af4fd3"
+    },
+    {
+      "id": "aced8b82dfd248a9e4d88d29a0562e6e8837f44ef09ba00a936c2ac95d2ef110",
+      "text": "Unstructured Data -> Structured Data",
+      "hash": "d0e2e81c1cd3053435b3876d605c9cd80c1f5de1707e773fb5bd547f3fc748f7"
+    },
+    {
+      "id": "8110350fd1c61d7ca4ad411f20b61a7de4c645661bb46af1b3de948a5f21f769",
+      "text": "Most companies have access to a lot of unstructured data. These could be transcripts from support calls, customer emails, invoices, or even just notes from meetings.",
+      "hash": "2ef18d20da2bbf110b33d64eac008ada899064ddaf3718cd786cca4e2bbd2a08"
+    },
+    {
+      "id": "117f39968dcc4209e410c90dc9b3aee2b9e689f9622900ede78d2a42ec7f3eb5",
+      "text": "This data is hard to work with. It's hard to search, hard to analyze, and hard to read.",
+      "hash": "bd183472ebaca8046e3d3459cf2a62525ff22b6db4459eb1a2871a91e6dbf42e"
+    },
+    {
+      "id": "a573abf966b395eb0f2b003550dc98b27fd499f7a2dba8073e3bdf46d2a99bf6",
+      "text": "For example, a friend of mine has started a PhD looking at historical hawk migration patterns. Data for how these hawks moved is recorded in ancient, unstructured logs from the 19th century. Despite being carefully archived and digitized, reading through these logs is an absurdly time-consuming task.",
+      "hash": "0f6ac43c471dbf067a583a284eee3e67d3090097e636b2fe08fd0307c6e19cdd"
+    },
+    {
+      "id": "3d4e3517ab2c01b6d25de461f86dc37f889f7e76ca43e705920958d66edf4ca0",
+      "text": "The solution? To use LLMs to convert these logs into tabular data. LLMs can read the logs, understand the patterns, and convert them into a structured format. This structured format can then be used for analysis, visualization, and further research.",
+      "hash": "8002c339902c0ebb68e80cff68fb5567573f93ba01b6a040aa29b54659196b62"
+    },
+    {
+      "id": "f1097841f418bf57ceaca89f9bfd3e18af136aafe75fb9f8f5aebaf5a1e2d742",
+      "text": "This is perhaps the most common, powerful use case for LLMs. The world has collected vast amounts of data in the past few decades. LLMs are now making that data trawlable and accessible.",
+      "hash": "167d800b178d806c2445c6e5f601c209fc4810f12973e4b0256f4a63b7c1449f"
+    },
+    {
+      "id": "0efcee767100048cdfdc8bcf8bbd97c1e63668f7d0b9024f7588937cf411cded",
+      "text": "This is a common theme—LLMs are often used for data tasks that it would be impractical (or expensive) to hire humans for. This opens up new possibilities for working with previously inaccessible data.",
+      "hash": "d5a2afffbcb44834e4dce16d50353fada65cadbd46f3d89d9637bd60bfed1e8b"
+    },
+    {
+      "id": "f5c725199915efd979c1c0a662dc063d07c6e2ed69cd58699012e3dffb0b6b69",
+      "text": "Labeling & Classification",
+      "hash": "800abfa32c618609c00a9f48eda1f5d4ca3f44a0e268cc0c6c18d36665a767b3"
+    },
+    {
+      "id": "c1c32e1df13a0768418ce36e115989e55817e789ac3cdba71164173ead8843cc",
+      "text": "Another common task for LLMs is classification. They can be fed an input and asked to attach labels to it, which helps in organizing and understanding the data more effectively.",
+      "hash": "30495b16882135a033ae52ffa95303cccbcccba48cf9666fa7187b804836bef9"
+    },
+    {
+      "id": "f2c47f4750e85fd39ccd0282ef25f921dd01ba06c35f73f43192fbecd0913926",
+      "text": "One striking example comes from",
+      "hash": "ee783c30564a34d1a7b58429c7a9adff6564ff772fde56349a23944a5042d576"
+    },
+    {
+      "id": "77a9453fd98371619ed12b2f219fc8c5e92fbe9d7ece62c71ae455b4cb7d1d55",
+      "text": "The Prompt Report",
+      "hash": "b2bfa6605b8502c2824c57f0123ea82b9ea9c238649fd6aac946519ef4fb7366"
+    },
+    {
+      "id": "978edf793c7514c37eede23dec1c6a28dd4c3dbe019386f6d64c314ba4c43e7d",
+      "text": ". In their case study, they attempt to detect \"signal that is predictive of crisis-level suicide risk in text written by a potentially suicidal individual\". They used data from the subreddit",
+      "hash": "10ae7e6e95679bc27c241944ce3a52c6e3b50c2c6410e514296cbcdf9132a83e"
+    },
+    {
+      "id": "54d8f661264eb02882f40bf5778e6a2f5ee8ec2a24559d7aa98851e7d7c583fa",
+      "text": ", and the LLM had to match up with an expert's analysis.",
+      "hash": "9ce03f7bfbd7aad4e3bbc3b0f52cecc1338481ee79dd37525b72537f808667a2"
+    },
+    {
+      "id": "435ffc380654397649863a7fa09c73001c7997b1e15242e6b7aad7578087813b",
+      "text": "The LLM, when provided with the text, would have to classify whether or not it contained elements of either \"frantic hopelessness\" or \"entrapment\". It would reply with \"positive\" (i.e., that the text contained risk signals) or \"negative\".",
+      "hash": "c812386e6b200d22fad77ae8cbaf7064f543aa77397f814412b3d393a5785fc2"
+    },
+    {
+      "id": "a9e2e2a4910e5881a233e2f635a5a5a272538659c694397b7436caffc42101f9",
+      "text": "Classification systems have been around in machine learning for a long time. They usually require significant amounts of data to train. LLMs make this process easier by only requiring a simple prompt to change their behavior to a classifier. Very useful.",
+      "hash": "1ab4866e40b4399515c478a58b0265cdcf1ffe2046145a905cd7ba5377fa8f6b"
+    },
+    {
+      "id": "f75a677e507095939ea1adc4187c85f3f9e61e7cbe108be0917d23031ca84d30",
+      "text": "Recent developments in LLMs also mean it's easier to retrieve structured data from them. Check out a",
+      "hash": "5d728773e165f9c06235c0f5c81074a328439f3b5764b03590a85756dd54c51d"
+    },
+    {
+      "id": "6bdf2227ac6b49a5faa2e72fd8cd4947a6044380c938ac55690fe554ba46abe8",
+      "text": "classification example",
+      "hash": "655914b063346df143b111751cc836b6341303207c36993c264ba64d5a3034c8"
+    },
+    {
+      "id": "badf3837e811631bf7915fc6667e5557a4f08088f68ec108814392580490cb5c",
+      "text": "from the Vercel AI SDK tutorial.",
+      "hash": "25e0944376f804cfdf1e57156f721c73f02614cd6a42d9598602ee0ba967aad0"
+    },
+    {
+      "id": "d8f38d217f6ce9ad705719a9857f5cf0220459162659de2ba6ca516bc069e9b1",
+      "text": "Question Answering",
+      "hash": "33194fe17ac445539919b4a854b45ef9524faa7bd0988ec1ae5512f6c121e9b0"
+    },
+    {
+      "id": "1b2c8d6dcce98aa0f49ff1b6526896603639738917e25cdde21a569ca7186d14",
+      "text": "Another common use case for LLMs is as a question answerer. You can feed an LLM a question, and it will give you a response based on its training data.",
+      "hash": "eacfedae470598eab520561cec2a3bc3952eac0b0798ac83867f0301d03e1e36"
+    },
+    {
+      "id": "d5e52590191ef9fd71d4f1d3c0e95e74965bdc3566258e997fe44db1ccda99a2",
+      "text": "However, LLMs have several downsides when used as a knowledge base. Their training data has a cut-off point, so it doesn't have access to up-to-date information. They often can't cite sources for their answers, which makes it hard to verify their accuracy.",
+      "hash": "9ac3637cdab0c55ff5409d7939cb96de5ccc365d4527f36d58451167b9e54901"
+    },
+    {
+      "id": "c873ba8a83d879592bef2ceff4d29d321786c43a1526fab29819ca42de53d9e2",
+      "text": "Therefore, connecting LLMs to external data sources is a common pattern.",
+      "hash": "2db4cb3505fc6f5a68c2753267fb79c4a726286f8464521b4cc9f0d499d367a1"
+    },
+    {
+      "id": "565ac867eac4e2c89aebc08a07f216f439a8986d6482fdb50ae3880e3d318d88",
+      "text": "This external data source could be a database, a search engine, or any API. LLMs can call external services (using",
+      "hash": "aaec8b91d06b0fd96b30fc8385554d55c81c8a2a865f7f6888e21cf24ad9ab5e"
+    },
+    {
+      "id": "4dcedca67a00352c0bef11c5a979b331968a525cb87b07b9f41c29326411a3f2",
+      "text": ") to get the most up-to-date information.",
+      "hash": "b7eec9b267f7c5ab4da94b257c35b46bf97c184fed59a0285becd800cbdd559f"
+    },
+    {
+      "id": "af08ea02f4590b7ae808adc4f2a7c4efc74906c544a1f769ec49cff780953a8f",
+      "text": "This is not foolproof—careful work is needed to make sure the LLM does not hallucinate or provide incorrect information. But question answerers, in the form of chatbots or search engines, are a common use case for LLMs.",
+      "hash": "9cb49fe3efb9c82bea0e6bfca45bbbbb2a4204a17683745929e628e7331b5706"
+    },
+    {
+      "id": "71c719612c8c8af59a3d5ce7257a9b16d11ca02cc78a71bf8a3d710449215cb6",
+      "text": "DeepResearch, a now-common offering from Perplexity, Google, OpenAI, and others, is a good example of this. It's a pattern where an entire academic-style report is generated from a simple query.",
+      "hash": "f239e8e456d978ee52ec276c4ed17146bb5a52c6294d868b81fb390f83cc5c43"
+    },
+    {
+      "id": "67f111f4d1d1ea43f0d15250ae17a53866d9a4441a7995268ec42064168aa99e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "54fd40d96aafe86ca2747ee72469cb5c3cb9e2b3ff49b0e48e525d1b725f0fe3",
+      "text": "The fact that LLMs can access external tools has a lot of folks very excited. It means that LLMs can be used to",
+      "hash": "4b5434c76e5d1cedf2cc62c22d60e67f95a5031ff8168df4397ecb7de27c8b88"
+    },
+    {
+      "id": "75c410eb2fe1216e18a040d3d0f9b123c03de521bd7e36a8d355d3ebddf3e2de",
+      "text": "do things",
+      "hash": "6cf6e6bcaa3b0484ba6702f745c31345bcb327f7d222b2d9821653734b67a204"
+    },
+    {
+      "id": "acbadfded7ba1950d9078e38b013bf3e306af3cea8e81dbb662f206c2178f69b",
+      "text": "in the world, not just generate text.",
+      "hash": "dc3815ddfcdc3020162f4497e1a03cd9ace3878d15234607a88367a4174fe41f"
+    },
+    {
+      "id": "0ce2f7738c28caefcbc9bc892dec00e63c013620efbbb2ff97219ce520a42209",
+      "text": "This pattern is often called an \"agent\"—a system that can take actions in the world, respond to user inputs, and interact with other systems.",
+      "hash": "f5b879c20b558485451a45f969eeab4dea7d6abedf60ade30c040902a3115106"
+    },
+    {
+      "id": "9147a5efd34af89b1563e0db71e12b9143e8b516e30cb8d0583aa028f753c82b",
+      "text": "One can imagine a coding agent acting like a team member—contactable via Slack, able to write code, deploy it to production, and communicate with the user.",
+      "hash": "d51460d3482f2b180b8b88b20b9fde2591e092f31674345fcd4bd6882a0434a7"
+    },
+    {
+      "id": "082a4082ad9d9cd154a07c2bdf89284dbb05b320d1e1fb68484f87c29599dee2",
+      "text": "This is similar to the promise of agents like",
+      "hash": "659373d72298050583dce4dc8af105080e36c435edaa71ac16f02c2b5da0ba73"
+    },
+    {
+      "id": "a84a0d466011585acc3cdac072ed44723b5c1d0d5ea077f19828b3b3809f5b4c",
+      "text": "Devin",
+      "hash": "32935994eaf7b420493cfa951cc9b694f2503b88bb7187e4051f437dae95abf4"
+    },
+    {
+      "id": "9617f90b9454bc21d5b8351e9b1f97e724c5a411da9658ff1d479eb43c2b43fb",
+      "text": "However, agents have not yet had their breakout moment—certainly not in the way chatbots have. Agents are yet to find their final form in terms of user experience.",
+      "hash": "ff92eadc836faf52e1a04d100d7a5a942a2628cfadc6c8d986b3a61f9765d0f2"
+    },
+    {
+      "id": "c2f3f7864142981633cb4935c03c9fd4721ed84f6f98a7ae6fcee927f0cc7d21",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "8aa2f218775cb0999b4af941fcc7842b8e7a8332aeae5e07dcafa600afc4bddd",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "2e989fc0d73505eee2eb61ee9cd46b2c19e5a173f8d50b9293f5fdd320a8b626",
+      "text": "Naive Chatbots",
+      "hash": "c730255edbdd6e3db00523fc1c2c66ab10a49e2dbd73e777b8aa4a08237ffba9"
+    },
+    {
+      "id": "780431fe65492ed8de57e30af5453708a855bcbb8e9696d5db52c2adb4475c64",
+      "text": "It can feel very tempting to build chatbots with LLMs. It's very simple to set up. You feed the LLM a prompt, give it access to a conversation history, and you're good to go.",
+      "hash": "df3a4c079e3fc66d3d87c3b033818398f0859647879c6b7e9cd007e36a8f82f7"
+    },
+    {
+      "id": "e01fbe37ef12333b799c3773c7d0e1559dd4967eb1046a3aa927f9d617d6ae9e",
+      "text": "\"Chat with our docs.\" \"Chat with our support bot.\" \"Chat with your search results.\" Naive chatbots are thin wrappers around LLMs, hastily thrown together to make a product seem more interactive.",
+      "hash": "cc5b5a4903325aff66121d669f3ebe22e2ad9761e6c48ae63532f8d2e0ecd7a5"
+    },
+    {
+      "id": "ea80cfcda879281f3e27fd1b670eda6ad73167bcfd60919f2af5de67a07caddd",
+      "text": "However, productionizing chatbots is an extremely difficult problem. If you're not careful, they will frustrate your users and damage your brand. It is notoriously difficult to make a chatbot only respond to relevant queries without veering off-topic.",
+      "hash": "0b21a59968035515b9eee3b4eabcc3827a6c24a673038f7c2c637c1e81658fd2"
+    },
+    {
+      "id": "0806da72d0c937dda3a98076baa67506d389acd3f26fcc792ee4f4f7d92367b2",
+      "text": "The big model providers (OpenAI, Anthropic, Google, etc.) come with built-in guardrails to prevent their models from saying anything brand-damaging. But the surface area is so large—any potential conversation you can think of—that these guardrails will likely never be perfect. A famous example is Google's Gemini asking the user to die.",
+      "hash": "456b50b7cd6cb52f1bc3933da5cf9dd1912a78f245e88dd6da600ce2ff833bd3"
+    },
+    {
+      "id": "e7880569df397e2e5554d7473395cbe2d6032400eb8b1a49fa4fab554fe7c204",
+      "text": "It only takes one determined user to jailbreak your chatbot and make it say something inappropriate. Don't ship chatbots without proper safeguards.",
+      "hash": "6182e2186c98a5bac7afc0f30683ef3a1fecfd7ba153283f2889cbfcb123e101"
+    },
+    {
+      "id": "084f93ccb5ed96620235d5a75f6bba39b87520a31f95981627b3d16f4f3086de",
+      "text": "Deterministic Systems",
+      "hash": "bebdf61b329cfb1dbce22fc873b3c81b5e064afd3ce6fece9aba324965345ac2"
+    },
+    {
+      "id": "900b9a36a9afea04e812d608489cf47f390613cc3a4ae37bb2e4d8637f21b0d4",
+      "text": "A good rule of thumb for AI systems is \"if it can be built deterministically, it should be.\"",
+      "hash": "c2ba40d273494f83c62dcae1a0f22378240157ffd7060620ac72a435b8f0ea15"
+    },
+    {
+      "id": "2b2f257627a1f8402d7dae2fd0497a94ede3340d63e2b914ec9c0f8d033e4715",
+      "text": "LLMs are probabilistic systems. They are designed to choose the next word in a piece of text, over and over again, from a choice of many possible options. Depending on how the next word is selected (their \"sampling strategy\"), they can produce different outputs from the same input.",
+      "hash": "bc3c3a2498fc969b1a1b1a557dc237e3ab90f9484de5a9ef874c1848276bc0f5"
+    },
+    {
+      "id": "691661edd1b56443d42565d6ff5c06e44b796f2092e58fef07d2526b72250ba8",
+      "text": "However, this design also makes them prone to several failure modes:",
+      "hash": "172632af320b190672725c86419961c92fd7932ffacd1fa489d2e8c8a78e5410"
+    },
+    {
+      "id": "6a69525ccecbab04b33e0ae27d157bad2ec32c86a2ad432058adf32e19756f2f",
+      "text": "Hallucinations: generating text that is not grounded in reality",
+      "hash": "37ba7731a34fbc7b07ec0ce2fcc36599ba6a2ccbce8b8e715d0f0778b0e017b9"
+    },
+    {
+      "id": "7a8835fac5d64df4c5c218d2210eb8beb5d3746014ab35881088f385afcdeca6",
+      "text": "Sycophancy",
+      "hash": "3ea44487a35802429565ace3d346af85ffa355f51322456406c67ae05fbe8aa5"
+    },
+    {
+      "id": "751a532c6e4a43287df5941c413fe9535ede30755846d29369d4e35d19f3a531",
+      "text": ": overly conforming to the user's point of view, instead of providing a balanced response",
+      "hash": "eb201ed9481866ecc2b1ffec847b7e4da2754f82e9e6e66600ed5758b0a71b8b"
+    },
+    {
+      "id": "8e6b922697c5be4c4a2e63fab4b0370fb2e71caecc7bd66a248a7411033e79a6",
+      "text": "These failure modes can be worked around, but they require careful design and testing. This means that if you can build a system deterministically, you should.",
+      "hash": "5074021c802e0ffcfa1e47bf7de97c2273ffe3037cc3f230815acf0be517cc24"
+    },
+    {
+      "id": "f981397902c335712d5da2b486e1660e32eba0deb2f0c88f5cf4d9d79c559125",
+      "text": "Deterministic systems are far easier to test, debug, and maintain. They are safer to put into production and are often faster and cheaper to run.",
+      "hash": "0af9f730ba187d749d8c0c34c2e0b5188b5271c126dac771914cb161b64ed793"
+    },
+    {
+      "id": "acb1722ae763632e6d3ae50dc6be641f395a4666268d52974077bb154a0ce38f",
+      "text": "Deterministic systems are not going away. They are infinitely easier than AI apps to build, test, and maintain. In a world where folks are throwing LLMs at every problem, being able to sniff out",
+      "hash": "a8896bbd89e445e0b17975748042cacf5f1c2e71e728b1fbf3dba1c701f3494e"
+    },
+    {
+      "id": "6c0361e6695bc38d96b5bf348296b5c71cbdff673f445ea02b00942f0dba6ec4",
+      "text": "when not to use them",
+      "hash": "c93a58400b1b8dd2ee5f2c484eebc977ca09dc0df1d6d61074d5ba8d79318b4b"
+    },
+    {
+      "id": "f2d46adc90783cd2adc612c6a94f6d82be6882c54d4467fd274580d5059f3f76",
+      "text": "is a valuable skill.",
+      "hash": "a013fa3fa6e910248744eaf06c9e9c90a7d69af5e3ebf8472535507f1d4c9aba"
+    },
+    {
+      "id": "00c6b40126b36d11f49672abab21d62bd9b0e824bf2801a37eec997e8d27d1cd",
+      "text": "Deterministic systems should be your default choice for any task",
+      "hash": "76ade82ac3dad65bcc8f5cadc550fce654ff45bc73f23dd5d42149a6fb05dbcd"
+    },
+    {
+      "id": "9d6172a7643a1a2612bcc5433f8b5bd8d02fad436a55e67dccc842c2a803ccc4",
+      "text": ", until you hit a barrier which can only be solved by an LLM.",
+      "hash": "2eeee831f9e6ac9406214a76dece2e4f7eafe75ebf64b979aafb96e11fdf5684"
+    },
+    {
+      "id": "6a039b2b202b1ec550b2d2e3b8e9f49d89dd4f27345f199bbe4c393d8bdb169a",
+      "text": "But LLMs do have their place. Let's take the LLM use cases we've seen so far and put them into two buckets.",
+      "hash": "c815e2eba787f1bd3ef53622be81d9b61b61fdb8b9590839b5728222c7c4f556"
+    },
+    {
+      "id": "3d9b0802857a2bc07b0a14f3f11c0f0551e4b7da23578aba7a1b49bf71924652",
+      "text": "First, there are the tasks that are",
+      "hash": "3c261d064f009220ea30e53c78e7a223ba5792617e7ff40cdeccfada57b41f23"
+    },
+    {
+      "id": "c2becc5e7d67f5024b552fc0fc499526f2dcc7a72b808e880c32d94635046399",
+      "text": "too expensive to hire humans for",
+      "hash": "64eb7775e6c668c98a1089a8411872a363d9d89a992f356eb531f55cdf041e02"
+    },
+    {
+      "id": "f5fd43ca55677e3d2a098f363a17625b7fad258d7ef73f979a0e1ee0ad4e9521",
+      "text": "Converting unstructured data into structured data",
+      "hash": "35a85138eda099c37166637dec6a5ee22b437d513cf69c7fc2f82b30d919c2a8"
+    },
+    {
+      "id": "318fc5ec88a73d68c2dd94548aa8f9db430d25032b5584d9127aad89792c6f90",
+      "text": "Labeling and classification",
+      "hash": "b508a354870e50c415a0b7284b8af44591318a73c1c6dc4918b5d74fb01b8575"
+    },
+    {
+      "id": "33fbb0b0f476afeb9a0d7fe657319eed7ecc8d8e35e700665fa1964862f18ed6",
+      "text": "Then, there are the tasks that are",
+      "hash": "ebb8529d35cb8293f4f7adaf66dd5762dfc2fbbd729c701deb34f2d56143fd2b"
+    },
+    {
+      "id": "988465cb1d1027ef3aa1ea50683a47829629e48ebad94ea76d7d90ef66dd4e5e",
+      "text": "too complex for deterministic systems",
+      "hash": "86c6d7cc56783dfcfbe92ee9176f5ecc51aed9da077c208d64e6deb4bdb45631"
+    },
+    {
+      "id": "263bd88f63db009a3977396a1eae70dd50a94cd53b0ee02b82f085537b2b34a5",
+      "text": "Question answering",
+      "hash": "b25fd1edac8f2af751a3a13976df0a7333c2c4e20c574f0f0fa654be1b0f91dc"
+    },
+    {
+      "id": "49830b16d5d02628a43934e6f4ab3f9f198bf326a9cfd65b7d45fe8ec0927fa0",
+      "text": "Text generation",
+      "hash": "00635fed7b708203e2f2ff94b2f29d7a74774a5f1786c7d22d2318cb3aab09cf"
+    },
+    {
+      "id": "734d980c6c2543a91383e9073af8ec68fe6ef298c3e93079a1791ebfa6842299",
+      "text": "So any task that falls into one of these buckets is a good candidate for an LLM.",
+      "hash": "284afd832ace44224619bce10a67f5d50c66bc7b2c9beb2d9ad9a7b80f41b395"
+    },
+    {
+      "id": "ab2a91e0b6e036a11aa43ea6b7d51c0448018628cc7e0368e902592eb1f66489",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "88185ab8ebe0e828a29ab92e12d9af1b509d157ca61fc8ca87eec000dcfdbbcd",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "b2f60ceca07bd42bd119f67e7209e9d0920e0cb0625a9c7a0ecb1a8929066eb0",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "89c01afa966d528858ffc2508d832c5bb4907646ef97ebcc0259b163c6a0e291",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "81b0f502c0b5448201da831b50e31cf288068560a82c302922f3756d202628b2",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "9cab059ae65adb36bf36cdd107f0ad3ad3845d90064d8b46ca6fac4507af87fa",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "8b85a639839b112bbf7478b51243c54310b2ea70bfb9d4a35c70c19dd217ade1",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "c9a53d2a0909cbc0f2616790f14923d3e0af67764ab32ad3ef096f27657a5af7",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "862a32d5b40f412e8c19e52e6af00322467b7f333ee6f7c03128c8670c4252b6",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "2d127c9cb84e7afb8ae448261a4e8bac1fe1b6b6e933530a9ae36c65c5e2b982",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "335ef56d088ab53f8d3c6efdf350202f62e03fc80dc9ac271b2f7e0cd8096c43",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "953f4a8e65f03db101eb08ed9f115cac5cb88dbd4b2718c0ed1b90aa6eacc156",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ca7df4a3d389d45ab8a78d72f0552532ccbc7df2b5f2c16a67f9d0a7e2e41b88",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "955bf5b28c3d642e31665a87fb646b546a790e6bfa14492a3ec44dba17546d97",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "7bbc7cd1ef0fa10259bb68440aa2e3634a0d0c718321eecff3fc52c994ad62ca",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "a1a46ea9c240b56b5e438c8a4ee35c98995c2b694ad77fc69f5bf421ab4ce2f6",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "c7e6ea67c1b3b76ca4fe9c570a68bf222e678f18068c8d288bb6134930916035",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "5bf75caf31e41dde0ced18118867380c7b20ee90b3c89e3e3315286d1df60ee2",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "48c06cd57091d5667d3b97c05955227d6249ea7b3fdb1bb099c0f2a7fe41f153",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "45ba742d644641b93b00d833526e7d820a6163acfe817e588c26e19fdb0dd979",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "3edbb9fc76b55dd754871f3b64a095cf3e09ee0d3b2c7a96b5bea38fb1d8aa3c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "e4e5adfaea8e0c71dc5b5576a30c8c9cc1da8cb85f838ea739471821b73562d8",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "7eb18da022347499e2ca46c09ec4154510e0b2f0f886fa5561d800849aa3e8c3",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "7cb55bf5609ab6a4461103a491c8c31826b65fbb77514ab5a6e9dc41662a746b",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"r025qlu91j63gj\"",
+  "lastModified": null
+}

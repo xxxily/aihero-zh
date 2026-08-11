@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/use-local-models-with-vercel-ai-sdk",
+  "pathname": "/use-local-models-with-vercel-ai-sdk",
+  "fetchedAt": "2026-08-11T06:28:23.097Z",
+  "title": "Use Local Models With Vercel's AI SDK",
+  "contentHash": "2d57c69944f40743abbb80c6cdabba15f51b92413a1bd4097bca77b52aebfa05",
+  "textHash": "733a735ef715d00ee8e4ca436cb0b2a4343a729320dbc47e79f9a9e50b4dbbe2",
+  "strings": [
+    {
+      "id": "5a97d29acdabc6a660d0fd8f5b34dc0a1a5a06e89ba568ac44f048f4abd19079",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "549f213f9acee746cc7a2a3e228589126d9f33d113cea4fd489ae46f2b8ab3f2",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "471e02799f1c9ca780594d993f0d9b23190791ee15beb4b0ac265e6e7a828c04",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "eab96eacfe2d89943afdefa6343c88cd670e0dbb5c58c9c9b23340d1a7271ef6",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b3f9df8ed122157b39a8d3d71a14032294e73b83bee05a16b24a652745e519b9",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "e8b55f9f75788e93eb1cf319ce1fc624ab0bd6bb06ba936bc1ee3dc9b2dc5960",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "e96700cd09c946e52efeca0943cf482e97e28f55e808378faeb9010f2c93e498",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "c40fc5b424e3b1409855a668bbfc5f9b66993918f9b8b1039dea8d5a8224fef4",
+      "text": "What Is Vercel's AI SDK?",
+      "hash": "1f210434178eaa98b25c4c6b455fa5973f854a1181e1fab9d10a8ce725bed88d"
+    },
+    {
+      "id": "3db720562aff517d74d5f47138e1bf0f542c6ce54730fedede338442be579cd3",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "f71e93aa2fad9993bb6d76754e6b994a8b927046b94340cc0fd9eea52910ea37",
+      "text": "Streaming Text With Vercel's AI SDK",
+      "hash": "c8834e359f3b28f367c74e589c38e2bf98f323e4f89d4e707b88ecc0e812b58c"
+    },
+    {
+      "id": "a54102785eb0a0944a30be1e15f9d5db4c9bd81d9c17d319ab86aca3561a9c30",
+      "text": "Adding System Prompts With Vercel's AI SDK",
+      "hash": "c1856791eb8a9cefc3c85784d7e7865a4fbe03b8e4ce9097e30b44c8382bc0b5"
+    },
+    {
+      "id": "ac4c2fe043895f9edae7e209776ec79736812c7ce9c40ed3d84daf6f7d471a68",
+      "text": "Hot-Swap AI Models With Vercel's AI SDK",
+      "hash": "a2e60e88e6b98f280400b6a6e1ae57cc56e04a4487923179fafbc1691daeaf88"
+    },
+    {
+      "id": "5b16b2ad93d9958e953424e2370f1fda9c0b36b8b2c08bf3ce3e1534e4672c21",
+      "text": "Working With Message Histories In Vercel's AI SDK",
+      "hash": "6836bf9b5242f2374260cc952dcfc713c5b9049e92673765730b88183fcca9b5"
+    },
+    {
+      "id": "a5480a80de080438c907e07c04cc7f69232a6a7ea54fe155a26bd4bec36b463e",
+      "text": "Use Local Models With Vercel's AI SDK",
+      "hash": "2f23462b857b3e2c9ff00eb7cc7ee290ae7b503bf5da369108fbf7f208a2ffee"
+    },
+    {
+      "id": "bc3cd88d0a7ae1d5ca642757180095c03fd368b6b081fe54084e06b3054a65d8",
+      "text": "Structured Outputs with Vercel's AI SDK",
+      "hash": "ee7eb24d53c4be13cfa8480df0adaba3c76bfea676d6937956456cfe1938156a"
+    },
+    {
+      "id": "97ffd2d1b8d2c3dfc42c9c24f8558b2024709a59ee606f44c06148121718a9d8",
+      "text": "Streaming Objects With Vercel's AI SDK",
+      "hash": "dbfc1631aa468169f64909580711d47efe5fbd6c1a8dc7f96f24d8f312775b76"
+    },
+    {
+      "id": "a7e71a272cc9b0ac1f0ca6e077396bd708321705f8906856c03df14deb118b27",
+      "text": "Generate Enums With Vercel's AI SDK",
+      "hash": "0c0888498e8f0728d68d768a855caaaf0407c72679e31a43781b058c580bfd30"
+    },
+    {
+      "id": "5ca35c376a9ccbbd73531df908f97070d99844b7b0bea12af04ce6f5c40f9919",
+      "text": "Generate Arrays With Vercel's AI SDK",
+      "hash": "966b534831ed3ab632d0d4d6fdbac9f5574b7b021619463331f1a040103c3434"
+    },
+    {
+      "id": "275d0f1df2901c01773e3c2354d371efd3621df8e33b86d16d47880e1ce188af",
+      "text": "Build an Alt Text Generator With Vercel's AI SDK",
+      "hash": "e469cbd9ec4e26ff6b524e07b410ae85b176eee38375c531752024cbdb92388e"
+    },
+    {
+      "id": "b0c283e588901646682de1a6d69ee4bb0bb77cc7d65ecd2252c373db9298c04f",
+      "text": "Extract Structured Data From PDF's With Vercel's AI SDK",
+      "hash": "270c0886bdbd409901a9bb1d21cbe52e0e4e6504f3b17a0def44e8e729d3846d"
+    },
+    {
+      "id": "ca983f8fe488571333cec212e58c96fbc48df20e83257645cf1bfbbfbd2fd5ec",
+      "text": "Create Embeddings With Vercel's AI SDK",
+      "hash": "204fae433156e6ac042fc80217c5e8a91fd4e1501d92da5949fad8c62334d1e9"
+    },
+    {
+      "id": "cad85b840a2a2639c1873568c8c6d79c9a0f2e7b994df8fbcd99469590c4028b",
+      "text": "Tool Calling With Vercel's AI SDK",
+      "hash": "90485e2aae316ee7132e932b405c5b1a63f0786e824e08689a3f78e4846c2d13"
+    },
+    {
+      "id": "58614c7c0a53817374fb0817462e73db45491634a0b4928620fb169f1e24270a",
+      "text": "Build Your First Agent With Vercel's AI SDK",
+      "hash": "52e11d029211f26b4245ca878765b7530ded3b5475536900eefe472e424a5f44"
+    },
+    {
+      "id": "b9139255e355cdac62cccb09d260d481a35a4e3618dc4dbdf9aaec8a1924a4b0",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "84ed410b94d92aef529c334c487a24624010ca4f0b5ae771631dc735902f30bd",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "9727ca04970e2578848fa3b03a0ba9bf4c7e5878efdabdd4e9564e70f922c31b",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "84b7ac0003efadb8b96d8b88f770af9369388a1806ed42bdf5c3c90c1038f26a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "b9e6104e54c36b15f92f3d00fe8bb472ce1ff47e036fa181cb782fa2c637b076",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "47617e6c1ebf56ee59a723ecc969dfdeec03942fcc22b1c3951689899dc2e875",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "9e0b539a3548d2682e668587ddb648e930ff81a95d49ac34e883b4a22e2a3322",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ace4f4d0fc83be5b227c3d975727b26dfdb8f56ee43667b4d17702e442ff3bf0",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "3eb7dca282e1396a640e635c590c71e6c0b6e903a874cd4a60cb16d63b2a93fc",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "b0d12f65972e1fed58c899117a808a827d8a6c81e47a37a211315b171f248553",
+      "text": "07 / 16",
+      "hash": "b4614e0334802b98215fba870395f06052ea4da56c587577aed85806efa63aef"
+    },
+    {
+      "id": "19cdfae629b0da1ab0311f41dcb95395f164909c2c23054b1f69a6c6e708ebbe",
+      "text": "Learn how to connect Vercel's AI SDK to local or remote models using OpenAI-compatible APIs, featuring LM Studio integration on localhost.",
+      "hash": "b193029cd2af175bd3cedbd869140260ceec8e7b9518ce1cdfe5c049dd36261f"
+    },
+    {
+      "id": "25ec9afcd64c8afad883dcbb5300fd49f5d63ab01846cd8b81fe4ad6ddb9d02d",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "a3127cf2f89affc6ebc375921a4a347a5fa69a18c2b2d3db6fb3613680444e66",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "8fcfe304dcb0ee63792d224bda052982dd359ab4a9fece2ab3021790340b7bf2",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "5447cc5db9d8af08a20228c2bdab318e6340674d3051498906fd9e1bb6c68a97",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "dcda8e7ef2312c8d1ba1b46ef45df1ab5d434b0204dcbedf5b37d21bc4acff42",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "717dcc398922d14e5ec5e64e2e5bcb9144b8d885b91bb15f33d2db861cedd859",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "bda0db115e6be7d580f440193d0af73e67ae710f6edd54ec691c79074bc6b241",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "e4c49dcbcd2838bf1b2303eb510b2570cc0cb245ecdb9629baaac1fd3b495d37",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "cfb0f198533bbc09ed7ff55b2b2bfe31ec67560a21ea9ac66dbf8412923377f7",
+      "text": "You can use Vercel's AI SDK to connect to locally running models. In fact, not just locally running models but models running at any URL.",
+      "hash": "3ba80e0bb7a79b85286f413cb78ba952a1d1eb5e72711029f0c1086ddb591bb5"
+    },
+    {
+      "id": "2ca1b19702bb60a00d51624228a11bbca49df5c42503e285674a00508f45f251",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "f1c80acd5dabe3f62e76081d880e703c8e4a561ab58ac1da154d406140a7ed96",
+      "text": "The AI SDK has a function called",
+      "hash": "c8df7b98174fe9dc6bf2e12bb46356dd0534cbdae241f28f9f4bb0e34c65663b"
+    },
+    {
+      "id": "10320792701fb150028d1a155b5ce126fa88c648b1536447676f012787ed4925",
+      "text": "which lets you communicate with models that have an OpenAI-compatible API.",
+      "hash": "1ac74b684af9f4db067aefc27a923ce2944ade9ed99c79bcdf367c941f86f02a"
+    },
+    {
+      "id": "a335829740a04299a231a427340bf40448747bafac78feebc3c8de6fe852a020",
+      "text": "In our case, I'm using an app called LM Studio which exposes this API on",
+      "hash": "46e0023ae5408c625b09527860185505da58d412dc3889e090784183484dafdd"
+    },
+    {
+      "id": "bb6b6161bb78b71ca8fbd52e9af7a5c55b3c5e22f352e768a49be13b445f1fff",
+      "text": "So I can install",
+      "hash": "0a78651dc406cfc54ba94dd74e8c933ae3c990dcf9c7c379bacb88a751acc1a1"
+    },
+    {
+      "id": "43fb1eea5c9d065931464a65aaa624cc13d9c1bbe1af73b7db67bb55001c13a6",
+      "text": "and then create an LM Studio provider.",
+      "hash": "40ffa0ffeb9fdee9ecc4af76364b2a659e36b13bcc50cdb4d830443e3047a1c1"
+    },
+    {
+      "id": "5daa7bdd29bfa358d065b0bf2722bfe39d3990f52c84abcfdde1573ca45e0cc7",
+      "text": "And I can use this provider to grab a model.",
+      "hash": "10800a5afa0d9ea07eb6b99a567a6c9f543314df3c6bc18cc7eb1c2e7df0f908"
+    },
+    {
+      "id": "dfeb2df71c300e38f50ece1d6cebda0dda2e2f2d51b7807abedfb2491154fab3",
+      "text": "I'm using an empty string here because if you pass an empty string it will default to choosing the model you have loaded in LM studio.",
+      "hash": "ca25146b9670849342fb8a166b2c6fae200b3887c85861c8fc9e5008ca2813ad"
+    },
+    {
+      "id": "61455dfd63209cfe0676961f2e9d570586ee77d0d36315c93117b6eb367f9303",
+      "text": "I can then use this model by passing it into",
+      "hash": "ef149d7d6c301672aa9b3a3c3ecfc3e4d2cc515acf406d051f68198de6cb4495"
+    },
+    {
+      "id": "dc5bfd6f73a1b573e6fac4921639bb3f25bad42d285d56826defc99a2041d24f",
+      "text": "I've specified",
+      "hash": "73fb5a38076a4837e8d74fbbc2c7a54c4176c2447362140e59e965523ba67be3"
+    },
+    {
+      "id": "c1e1527551b11207837e66307f72c46edb21bd7dbab57df7fd93458980567883",
+      "text": "as zero here. By default, the SDK will retry queries three times to make things more robust and handle any network issues.",
+      "hash": "302dc54b11d67c997ac7a93f7669264d6a52045c71791fd6030238f53a9a799f"
+    },
+    {
+      "id": "f2796f580d95d56e53d453b7af1748fa72a0618f57eeafa8b21e0712d548b621",
+      "text": "But since the model is on our local network, we want it to fail instantly if it can't reach it.",
+      "hash": "8eccbf86a9f3ea2cb86a1fe0a84a4cd6118d906b82a2aa3af104a6b6341d590a"
+    },
+    {
+      "id": "58312d1d8f0c2dec34cffb0e5f0ae67d83155cb6788b09930dc619233d702be7",
+      "text": "Let's give this a go. We're going to ask the LLM a story about its grandmother:",
+      "hash": "311f95aa25f6daac5476759d449114ec7274fc79ea004ab13790bef6ceb7cd94"
+    },
+    {
+      "id": "4de7dcdd62526fea9a537d74aef91902a44abf3327b71dc9520363d980536e42",
+      "text": "And if we run it we get a story about the LLM's grandmother.",
+      "hash": "7d01f65743643d2b53ce3f9e853898c48b45d4212379f69f5d3cf300766b132f"
+    },
+    {
+      "id": "5db8e311a8ee5cab789bac613b2b100857fc236da31aa063aeac780b7915df8a",
+      "text": "So this is a nice simple setup with how you can connect the Vercel AI SDK to a local model.",
+      "hash": "0a20f8d8f85f1f575c99b16382e03d99f021d4900e388276f707b1d4d678348d"
+    },
+    {
+      "id": "237d0c49c3db6e2c2932cdeb8edadee7efcd8acb2ebad4ea041d9bfb1579c646",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "a29425092d9ef6fcf93336162d356235d99c29664dac118f6dd2c6d4ffff2853",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "a8a612f493e6657977a9dc088043bddb421f8224f45581620c1b08fa6126c5da",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "5d99488b27341ad14dff3969f37e302beeb03b8e5cd57558429236284feaf017",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "be43771100fb258112bb22641e92bd659c096468390e8fef3ae7584153fca9e7",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "b279376d2185d9d1353b439e81fbae55dcc87c82c0c3f44dfcd7177f54c6994a",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "909baeed114f9b8b137a50a100080e3537872093a4a65172d712af23ce453684",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "868852ccd4d80b977db642cea3cbd770d4749b72180524e079f46224590109c6",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "575ef378f79d891ca6ab5354b2502a2a91cfec05579fec77faa04470d41e0f9a",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "31cf57612d3052dc0ec2fb44ec334a3db0ef6712bc87ecb6e20b9566b84afb0b",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "02f8700974cca64e59c28c4656450923f6b5d24e4a2d05a797d886469fa2dda9",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "cb01acf9f220ac2f78e28abdebc28b3c2b6ff7fd107083124817f0b4821709ac",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "e436606e105e4629e2a30ddbbdd83cdfcae651e02cd34722fe7c30113f4ec42e",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "12d1cac13c03988f01585c764352f6f429ac32ad0414868de4f974285a03ac85",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "9b2088f685c09836a6aa0de8029f56f0fc2e2d68572d2350fb7a336968f7b548",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8567d45cb6dbca2f6d1aa41d440455cec0469d64e663d1caed24282ca046f5bf",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "5567c854a099dd9fa984bcaf58a739c2fc5538b8ec46e986c2cd785adbbb6b50",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "eadd0c9e277349f8b7daa1e6e29b241332347908cb2c9b948134c830972e2661",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "3eaaeed22379f40e98265d5b7fce796b0462f373a99233aabb55095c0ee4688f",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "b0c22d45abaf654d350cc4649fee0b2383b1d0992ab1e05d8dbab0ece6e40137",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "605e5a06b7e7afe98c3058c8fdd89a31b052287c80ed67ac97919636cfa843c7",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "af280d430d1750d066de59f5cafefb9d5c5bd7d6fd91533f20b9a3e6226ede79",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "fbbf0cfe3f8a1cc0c3ed82244e96e5ee1ca7b5b726e7a76ac67c242b500d1b3f",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "3b29dfce469401d2c8223f428748c509f12b0facddfc5bbf70bf832388086dd5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "c7e6edf56c43a9cd016da3822c74ac2ab2ab97d8f8f048a8a1f743b9aecbf537",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"shfp8yaj0s6tpb\"",
+  "lastModified": null
+}

@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/anthropics-new-model-context-protocol-in-2-minutes~hc0tx",
+  "pathname": "/anthropics-new-model-context-protocol-in-2-minutes~hc0tx",
+  "fetchedAt": "2026-08-11T06:28:24.611Z",
+  "title": "Anthropic's new Model Context Protocol In 2 Minutes",
+  "contentHash": "c0c90cb7eac5e6365d83aac2e6d22253dfd7416bf87fef3444aaa6ee9972d260",
+  "textHash": "00964c8126134adcd15bfe58e483956864bcd7ed5e619458aa810e3573cc401a",
+  "strings": [
+    {
+      "id": "867555e4efdb676956b988240f165e09a6550ee2a0ddf648e5425115c09ed809",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "48fc943428d7cf07341fb6f2ee5bb2f2c0124b0dd9050018d58fe05ba12d0832",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "cf75f617fc980148745c9e14f426728df77d0cb1f81917431681c62d0afdffdb",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d0d93a8fbe1d53237308b506546e2a0c47ec10bfd024d5253d4623c3737f7d49",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "1cfce897d991c5d570e9c0017304074625e0fbb8589b002361271726f4e59518",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "95f7cca82f9dad26425b80c7764f4f0bc00d8972f30404654e6356f6e18197e9",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "27543a0b49a030db22342ad33d92ff8424628ac80afa25a59071439df1bd0f3b",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "48f171a0c6b17c634de21621f34a6caa6759db7856eafcf35573737d46419751",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "b989dd5b98cb3a2d221ed8ad1ad31be4c70a5eefb174c37ab237cd229984c673",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "a67a3498d31a2388897eef11a73f1aded03c29e531e73821cff78169f80b98b6",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "a1033bcb9ea8b0901e968ff259db4023dc156cf62efbd22752450cd1cfbc67c9",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "d38571986a3036c17135bd02b942f3536a63c1ff1ff3963387507f4d3b9d3724",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "c2ba2a0c5524a0f2f100ad76b8ac5cf6d9d53a2cd069c878b0ba3060587152fd",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "98900fc9866e8ed363c67173f34c43cf413120188b87d4b12bf61443107fa3a4",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "2c450e05640d3eb575bb456ac7a501825cadb5073699b2eac92a139cd6a029cc",
+      "text": "Anthropic's new Model Context Protocol In 2 Minutes",
+      "hash": "acb3f3430d4f3b0afbc60715d9a440102057c7da98f6cb7fdb69c6f97ecc5c43"
+    },
+    {
+      "id": "0afa2361ca4718b20c032116390812ec981c3f9ea1fd818e73075c869fda500b",
+      "text": "Connect AI assistants to data systems seamlessly using JSON-RPC, with TypeScript and Python SDKs.",
+      "hash": "ccf46380f9538a5b4cc50ea5e3cc900e453e147a3318108fd6ba09e321083d44"
+    },
+    {
+      "id": "c00fbe19eaaac7b1d2f433c045c4a8645dfbda74b9788040d29b2c74a98e38d9",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "58aac914eb3996a8631dd93eee2b78b27bfb7099815eee53423aa2f559c34dbc",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "971df0c9b8743534fbad57f189be17fc2f4e19d6548a86545ff721a788fe5366",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "2babef018d5056123e322a20a7c9b00afb8a65f8314e7c030af0b1a61da94a49",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "4737d82a4543de8f1691ebdff446ebc3e92d2f6f13c44825ed09f5abdc51bbd8",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "5bc3d9bd02556488e19896589cd38ffceea85a28e871546754580b29cae7ee99",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "e5b0e66d0fc2288d3df911b47662d5f0c5df5ac65f86cdc30b3b00eef7a84543",
+      "text": "Anthropic have",
+      "hash": "8d032c8df57279e5c2f8603cacce93a3a0ddbef443693f5f90852d6d22cf74cb"
+    },
+    {
+      "id": "65aefe7ac240614c952208cad9764451c38e70dfd9cbd3668759427db7edd01a",
+      "text": "released a new open standard",
+      "hash": "d6b25461f2b7f80515118bc42706c4062a7bf3fd01ba64f1066dc2c2bb0513d1"
+    },
+    {
+      "id": "c57ba7085f071f5b91b979ca5260f3d6c64bc6e88460ea5961a7dfa810ca815f",
+      "text": "for connecting \"AI assistants to the systems where data lives\".",
+      "hash": "9cb461d1173aeaaec7dba031483049e4724606b1d6159be26dd3e8d1856f4c30"
+    },
+    {
+      "id": "b08e24b75db935b528c7769ad2aaed810429f7387b33b29e4613d370a6d69ee6",
+      "text": "It's a JSON-RPC-based protocol that lets an LLM (in this case, Claude) communicate with a long-running server. Claude can request what different tools are available to use, and then call them.",
+      "hash": "b12d04f59371b30f976f95a832b501be032c1d334f5e2cf26600dbcbffa4abf0"
+    },
+    {
+      "id": "35ce77ddc67a5e90c47de14d12a1e2ac2082205f411d75952d9649c70d5f66c1",
+      "text": "There's a TypeScript and Python SDK, meaning you can easily create your own MCP servers to connect to your own data sources, or perform custom actions.",
+      "hash": "3c6156aae9f96524478ea04c658ace5a4592b1658ad1964f089779b4c92a3c6f"
+    },
+    {
+      "id": "26c80ef9a2973d674d6d070da9b426add3e8869cc6b5b6e91db880e3eee5b053",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "5cf845d5f27574c10f4235007615390ed44aff1971e5eab7a81ecabc49d8b264",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "2dd17502ab9ac05978afa51bb058f49e2153ca970eefca1e51fa5cb687ac2da8",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "6e2c63a669544a196b0ffebc00a1c08c46f7eddf59e6e0bcd693d88babe82eeb",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "ebf1a9a7f19c5badfd3fa4c5988df773fc1ffd19290594d970cff0a346bfe2b3",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "897734a30fb25b2b5f2f332cc681b46ad4aebaa41db977b29005f3593c6a9183",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "31052ff9a99bfa8e09724d5228c9e9d5bb557e56a33a17f2b475564ead8f8e30",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "2e4985771c6c72d1a38ab9a332601708bf708f4f364dc10d51dddafe069f8de5",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "dec509f6820c720853f8a4cc5a1f24145a30861e9e68d601f6e70720794385d8",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "3f0bc75c1334e988c83e3dc2f0a786eafb9f2cb36f72215c84160bb84ba0668a",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "6142a4b9098034030e6ecb3e7696d6fd4400b3ac32a4801c1055abe778e34b9d",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "0f07bee5e17477c23e105ccd1edc11dc9e271608e8c603729d6fe0f171479d05",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "92031eb016448c44a3f2090ff76e38153657552d7113491a5478ef2f18d112df",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b1a58b5c7eb3590b585cb46492a5975f6a93676d2ad9d9d8357e568fe76bd40d",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "abe45f086c306c2d01fa882c6acb4b02381e03115838bb1bbf292892f790f623",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "16069f864ca5fde523181823bb764a7e6450485db60e9ec96d6d09ad5ca52c1c",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6717eb3d32b03d05385aff591dec92b1b3e24c85da75d94c2c03b5df973519c7",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "eb704487f7a1ea1d9e9dbeca2710abd7bbb8bf2c83cc03c03cff81fcd9838c22",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "82eaa12c9b9cd5b84861aba04522a5ae3b96624d5a25bbccf5762a74bc398c5d",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "cc821d4d6642999800a2ea90c514af14f6dc41f38a0ad05b0460fc3e38549ef4",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "ca1a0b624db61f46f4307b5f19f90127ae863805fee0726f5b5fb06d681bb289",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "1bf21fa51d9610133d2e9c71b2d401bcb0b073d683aa85e8bee2d232ca2ab0f3",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "3aa0e3267e27593d06fb8507a0a9d890fbd5af861d37f7c13761fe94882e1dc8",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "a8b89352559fd32905d9bccdb7f8e284d97dad60584ba1d0ee7d945c8b377705",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "f28ac08ffa081ba72c81df4ede8da4bffd2a8be64b88a4f280527c11867e1c3e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"13tutyvnu774w98\"",
+  "lastModified": null
+}

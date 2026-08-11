@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/knowledge-cutoff",
+  "pathname": "/ai-coding-dictionary/knowledge-cutoff",
+  "fetchedAt": "2026-08-11T06:28:35.211Z",
+  "title": "Knowledge cutoff | AI Coding Dictionary",
+  "contentHash": "dc58876791572205c2e8f1013b2dd7b0f8b0eb795348f028617699f00579012f",
+  "textHash": "21dc90f46927b0b22cf52a195f2ca3cf092eb455daa08f89a74253c74b09161d",
+  "strings": [
+    {
+      "id": "e630c97ce5807d687b353ab5a6fbda206702242c2b925cff640d98b06e0b5b72",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "15dd3cd9ac52fedd0fab8a40f37e3d45dd61a0388e65bebef06af34af7cbe918",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "3c7cce5cf026022a78fd0cabec24ca75543fe38b3078b16ba324fa875324166b",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "fbd6262aef33d57973a700984f92d839fe9f224f78a352787aba618577d139b9",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "d1ac350db67f296f9ce4f7b2d779f8dd2c9aa00de9fd9a22975eafecd5d9c69f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "f113cf311532105b6129d1128a5293eb3e1dd5d258b35169a223a0312f3aa8b6",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "70f50bc219e5304fb0f82da545ac126bdc00a5ca86fe1c26a655ba9a2ee00d95",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "1f11f53e9d9b725c351a64e1f01bd3493dc80bcd5fa57abbb0ee4e75b24f94c4",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "22df9bad60aa96c2e2e74c1ad3a6bae468a7096e115c85d1d0e763b7a51fa5aa",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "adf077eb852c179e87549226d1ef8b6b5b527851a38c8ea4cfc426b31a9ccdf5",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "cd82f13b3f8d298829ba57b8717b2d9269bb9fbb0414a7a115bcf8461ccd144d",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "7eb6a437ab779353c470a7c6ea91af435ff45f1b43c1abee321f881d2a22756e",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "17e9588354eeddadf23dc7fa89fa2b000ce57fcf318e07d1e9ee785498f40087",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "17329e03d3f294a9ac2e6ecbb778ff0a0d77914b13e0fae8d7597ba9e6b2b6a0",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "1641e1d42289e34693a6aa1cc31928e7a35c613322674174b6ed456a3c47193c",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "45cbe4c050db8024f08dcef15762c944cd4da83c9264d88ab1481581581208ce",
+      "text": "Knowledge cutoff",
+      "hash": "da7752dcbdc5ec6cb75299abd8a5293085358a207b7a1383db9e1ce36002d71f"
+    },
+    {
+      "id": "04116ff1aece12e5720c6c53dc334a597df143136104a01009c16d34f4cd503d",
+      "text": "The date past which a model has no parametric knowledge. Post-cutoff libraries and APIs are fabrication traps unless docs are loaded.",
+      "hash": "87a9269ed198acdfd6e7aac285725b4ae882c13628113a10ab64fa3778efa089"
+    },
+    {
+      "id": "f4e0f763d901c55ef4b8a965f1d5a2891013ea7296256f1d66b0f45111674c52",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "85859173202c2ceaa26cd32800179c07ffe44422598626da1f0aa05b150b952c",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "ba4517d9b71e5c74e148498c5dc079f797937ef232bfd9c5977a39508136542e",
+      "text": "The date past which a",
+      "hash": "5efd167805aabb319b7b9493390f77d6ee6e9cdca47b3e3af4eee81f0d469a8e"
+    },
+    {
+      "id": "1ee67c59f06442e4dc4f1420b9aa524a86dc0259a0a71984111385dd65520114",
+      "text": "has no",
+      "hash": "fceb1ce1e7640d6ea930d5a1fa8f64d6bb3e43d07d55eb4e99ac937b2447069f"
+    },
+    {
+      "id": "9ee114f46df58865c145aa038d2faf7e9d75a6ae9a97a4c4d4b079ec8c078b6d",
+      "text": "parametric knowledge",
+      "hash": "af45e8f3199438ecb8e32a5842d362c9e1486e34f1b2d9374b547824e0ceb837"
+    },
+    {
+      "id": "c6532b9c07328fcc7c8f1a81654cc4fc15ee6621e0f90009323868c25165793b",
+      "text": ". Libraries, APIs, and events from after the cutoff are fabrication traps unless their docs are loaded as",
+      "hash": "ef37f4f3921ff6c1377f16270cb5719439346cdf1d23e507450907a9350b464d"
+    },
+    {
+      "id": "dc0ac79ba780768564480293c52c1434658a400f8ae0c9061029798305959ae5",
+      "text": "contextual knowledge",
+      "hash": "c5c07eb508c755a6fe9f4ee4c829877582a9a819c31c8bb16c552c305ddd9600"
+    },
+    {
+      "id": "1166ad2b7dc5b75cd3ed8a90496b8d7ffc12aaa2fabd30c4831944a6177bd4a5",
+      "text": ". Each model release ships with its own cutoff.",
+      "hash": "b760b65534fffc6d7fe1fc239b6d4dd31f72f76afdfd6c3d499b8bf194d44fdd"
+    },
+    {
+      "id": "e1157c3de4972bf2729449be46aba40f75d78260daafa511b6bf6c34ff9e495c",
+      "text": "The cutoff exists because of how models are made:",
+      "hash": "99493ad28c2c0d4023e79fed06a8b94e92ca2bce52741db3a8caf87d30dd8bc9"
+    },
+    {
+      "id": "37d16a66e1f80a3fe0caa918e7d1cfdde2be4158b6588252642c8d5c1415d1ab",
+      "text": "bakes a snapshot of text into the model's",
+      "hash": "3d8bb8720abc6314f8dbb7618c43b1887f0c76c47ee4a9414d3122a6302d1758"
+    },
+    {
+      "id": "c232aa2dc40a552a0f8bbd741922502d3bf66bf1f48b51fa28965a63e45137ba",
+      "text": ", and after that the parameters are frozen. The model doesn't know its knowledge has an edge — asked about something past the cutoff, it doesn't refuse, it extrapolates from the nearest thing it does know. That's what makes the trap quiet: code written against an old version of a library looks plausible, often compiles, and fails on the parts that changed.",
+      "hash": "eeecdd0a83e87f6c32bc00c044672046cd77cfef2d1f7065f29c3b3021011407"
+    },
+    {
+      "id": "2a7975ed56dc17d572ee82ec8bc46d08734ea7796f4ab090d69eb9c97aaddcf3",
+      "text": "The fix is always the same: get current information into",
+      "hash": "599ffaaa40d42f42d778cd25d5898b62240453a2b25a202c8643f5f3e8a6e337"
+    },
+    {
+      "id": "e2bf83ba133a3ed5ba5b4c215791845184090e923005e2ca716560e5ce881537",
+      "text": ". Load the changelog, point at the installed version's type definitions, or have the agent read the docs from the web. Anything in context outranks nothing-in-parameters.",
+      "hash": "4f090d4f536130b7266c3afbb112789574d1a8cac3b835c74cae24de5760e756"
+    },
+    {
+      "id": "5604a73aad9bbba95e0ae3e75534ee4d08f2e3b414b58419816a6605af613797",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "a5f4c827a0889a650f00746ef2ece867d3819b6821ed1815643d97a801eb0d75",
+      "text": "\"It keeps writing the v3 SDK syntax — we're on v5.\"",
+      "hash": "b16de9fffde4e7c192d3b685ca96c313eac754eeb493c4c64ae1551208882c7a"
+    },
+    {
+      "id": "183472bbc9046a06ebd0fde6f02b8efc4570e905edd81f7e8204245eab1911ca",
+      "text": "\"v5 shipped after the knowledge cutoff. Load the v5 changelog as contextual knowledge, otherwise it'll keep fabricating from the older parametric version.\"",
+      "hash": "c37d3fe8511bbd4a83d3fc931b2a92e6dbc91e23f751a0581a125ff646d53f47"
+    },
+    {
+      "id": "5cf31e9dd3988f6bcf94d8b71da9769916708868c2f3223393664c886339e8a1",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "f73bb4c5822a8cb9009885948bacb613c72e62f9992d7f194bb707277253e288",
+      "text": "Parametric knowledge",
+      "hash": "ca4427e58e7eb25fb52c817968346f4b0283569955f17477e050362e47238167"
+    },
+    {
+      "id": "524103b7ccebe8b617673ecee060a6549833de77a5771f730c92e81ad593610c",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "61bc108cd5c1e171c77c3cbe798abfeca87819ebc5002cade6bc9e55fd852713",
+      "text": "Contextual knowledge",
+      "hash": "d6e7abe0383292e093bb86c7be9c6e2a5572caca8fa0e5265c6f14c196b0bd4f"
+    },
+    {
+      "id": "887aa7ffa1214d3fdb9ff7935bfc903ac7d8a6f92913d1af19b98125085d2d63",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "545e77305fae53d31b6bfa684fef9eb5741735ddfbe1157f8c8b293c7bbaf1fa",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "d701ebfc5e3a69446c83b58030ce56a9befb9e07c422c752fe4fc4c2153cf8ba",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "ca3ced82474b5d657540113ce51a3a843d2081f970b4e2a12f3276d2b49e8635",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "f150b6e26f991182178dc232578b3994ff0226628f5c6009a3c16b354167741e",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "707c19e2910d1149e43ac9b9855ea6f5fc8c72490e203ff9b8057ffefa6b659c",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "4b8a497f4abeff27231011c1c94a0f583a89609a15cb92b641909ac48df608d9",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "24b3d03ee9ffcf7a49fac522cf5b5fe378ca4dfcc42569483fffcd24a835c590",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "b8b1bc3f05bc3d3475340f11de3685bf8e924da777bfcde721d56ab049e2d3ed",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "06744a27b4ea505f0bf26d0aa76531543b24ca90ae86631fe4aeadbe6ea81638",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "815de266f16efebcfe319d76aafafcd383197e3b0ef8cdc420946a8b3099c0ac",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "49985647bf5bc06e045645f01bb4a108bccd4c0e87b76b47ca86eca65a1035e0",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "d687c6363a0e856679d0f0b7be91323cd691d6cd1f74db055c984617382c9a20",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "f0fad699d8ee5d456e2c597c5c4f65ea402e0e62e82aed7d215e493fbd935b31",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "cfaa312d1cab2248bd4be6d8f4e8637de0d8e48b1c308bbb0cb445733c908ff8",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "475a8ed16aea928b0c02dac4a47a4a6c122afd25a2f8e0e6354101df6676e6b7",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "db8d9419011c881cc06b17f04a16349ac21dc06b312429e1b0ef3abf4c05433f",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "04e1cc85042441fd68e274722fd1d40a54c0016cdf2a6af54f4fb2b4d6564579",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "7506b8b885c6c6ae1ba80251ed67a5c532b5a9e0f6d538dbba134539eb4d7429",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "70ce39cc3e1c24308094117a773fab3383a3696e5c2c6f33e93b3f8fcafc2bac",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "86a333591cf021734babd42bd96f4ca2927c7545cd15c8960cb10fe0ced614e1",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "c8c901a4944c2c6b1a722d796e0afb6d9eaf21a0852f3d9d7e853a06397f2ff3",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "1dc3a6631a1171e538c37890ef3c447bd68d3a11aea331d10e2145253645402c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "9cc9c1966522f6c9accd6a82b269c7c7b5e3615ba8183e30de5f45ed43fba11e",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "27530727ab3608b7f54e037742312c7b76c7ecb9a0420286f84e0e6cc27d5159",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "b0874a0f069e4fb818bf830d80684c6523d05b9b2637366644c9a92df513c409",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"3yuiicxljm4pbh\"",
+  "lastModified": null
+}

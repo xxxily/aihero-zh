@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/automated-check",
+  "pathname": "/ai-coding-dictionary/automated-check",
+  "fetchedAt": "2026-08-11T06:28:39.488Z",
+  "title": "Automated check | AI Coding Dictionary",
+  "contentHash": "56413f5a04a558783562a5a7d6cd6773d1a22bfbaab671ed5e7ed34c24964143",
+  "textHash": "bf9925cbfbcbe3413f2d29811a3a67631d0dbfcf749e3c05c5955e7333756314",
+  "strings": [
+    {
+      "id": "0b3cf1c727faa5faec43dd155c0b1c12a057257399a76943a49ee75f7c364853",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "528b957e4c15b8a4c1e195eefb98ed82bee0f6ab1266a0d640de564bd69d8212",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "c853b0d84e8cd6ca93c56378f5424cf1e2317ea41ed4b5c32366edc1eb4c1213",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "bc52a49a3984ac9975fec3599f687a7b16935201d376ea6843e77ef89972db71",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "069363326c4de237ccbfa86165870af059e4984283d59dbd114fe783f7a97693",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "cf0dc877ea5457722f867974aa8097e912a23679806984b7177defb5b67db7d6",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "0505fef4f5697f1505a0edb19c71c33ac689df4f489b4c5b5df0f7beb6836b15",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "00996915dbae5fbeafacb992f208f25418314ad8a8d1377bc33c647efe314552",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "978e76406bf7247544dc2eb23fe4ab7aa76fe1a7913961d81f8522ea4aa998cd",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "58b23558991fa915628d3fc7c6e1cf7104e5ebb4ed0d101601dde1852c9a0fd3",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "41d88316084f77c71e30cb68535d189216e4138a10226f4f9be93cd2856ac471",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "2a917a6e9b2748f159a0c2082085aa31edfd3d3611e4eafe9963c7cb72feaf86",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "b5e5b6d5b66a2f5eb25e84a964445fe865e4558020a9f48e0a422061e5534794",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "6be688715c7fdac5611e543de59c4fd9709b481dab50639eb710b6b9bc9dc0a8",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "f12628bf28cae4f8d093c8f933c866be30d7ff6baa20ca2f197e34833d69eb2d",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "e0060b2b98869ef2a64dcf740b9ab43b9051c8dc32692e2b8c55c2affece07d3",
+      "text": "Automated check",
+      "hash": "02f50ca3b316125cc24382d78e247a47971a48880f6655c3cfcfcd84dc3891e9"
+    },
+    {
+      "id": "efead70a4e44b20a6a22ada908abb3c72aec666b3790174076467cabd2f57c5d",
+      "text": "A deterministic verification that runs in the environment — tests, type checks, lints, build, pre-commit hooks. Pass/fail, no judgement.",
+      "hash": "a577c8375fcf8e480f5034cca562e3e1e8aa9220cd77ef0358546487991b1625"
+    },
+    {
+      "id": "08870f3eef6c72958e21707dc84402d4169716c94d96b3781b8a0b153d45c356",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "aa9105efa6887123fd3454f05cdb7df84ab7dfbec2489e28a0556577dd7707a4",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "70644f9d3793ed087768043848d6eb49d3836101a91339d5307c44738a676748",
+      "text": "A deterministic verification that runs in the",
+      "hash": "7c88ee0c97e869ee0f0f7b8f6478035cfe44ee3546bf52a78d8e6b3a78998ee1"
+    },
+    {
+      "id": "3536d7859b1b02b7b956ada104c694d0c314b03e10718440b567e7a1c278281c",
+      "text": "— tests, type checks, lints, build, pre-commit hooks. Pass/fail, no judgement. The signal an",
+      "hash": "2d244c1a6914faa1b4e0ef547e36ce4974dcf4be99174cf72935b9ae352053c5"
+    },
+    {
+      "id": "358870e85cd0a8e2f9754426bd05184b74f21539b28ee2c1d70de9b757a44ef8",
+      "text": "can self-correct from without involving anyone else. A flaky test is a broken check, not a non-check; automated checks are deterministic",
+      "hash": "297399988b35fdaf614387a7968df83093a436704868e062f9cc3cd949f1e010"
+    },
+    {
+      "id": "8411a8e7de3278f934126e7640688ac3b1fa388217f175caee65acbe032aa868",
+      "text": "by design",
+      "hash": "5ea4ac7db1dfd96e3e8b6c15a3489d2670b5afe6e2f5b6db7a5234d2385f6b95"
+    },
+    {
+      "id": "1dba8c39ce61a8b69583ca30e675ebb55c67f8d9b2ce95b58ef260f1f75ca063",
+      "text": "Self-correction works as a loop. The agent makes a change, runs the check as a",
+      "hash": "7325f601735e2f3b1b541159f7a63756a049eadabfeb6306b80c433fb76198fe"
+    },
+    {
+      "id": "5a8737ffa2df6c50c358ba23bd88fae7b246d5181b01bb1ee0d1d89a9aa8f16f",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "444b0a1cacf02a9b90860b84aeb64ba0babd6030eea0060fe2056bf0b4c84bf0",
+      "text": ", and the failure output lands in its",
+      "hash": "93c400315f05a9e6b362e18c828ab395902975e08f149eff4ea01b8a277bf51b"
+    },
+    {
+      "id": "147dddbad36b139cde938f99099c8d25acc89551318d74f7ff15fbf1fb5e3d1c",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "503e804c38073961828704acf1c904b8256d59e0572bf7153c206257b6c049fc",
+      "text": "— a type error with a file and line, a failing assertion with expected and actual values. That's enough for the agent to fix the problem and run the check again, around and around until it passes, with no human in the loop. Determinism is what makes the loop trustworthy: the same code always produces the same verdict, so a pass means something. A flaky check poisons this — the agent \"fixes\" code that was fine, or retries past a real failure.",
+      "hash": "1219be8b99744d04e83ac6948c85c4f6f582288f27d64d3db0b8af636d849d11"
+    },
+    {
+      "id": "3c55e0aea87b7c90d45984b1311384df4d3e8b542cc41d829d60f7932344c0d4",
+      "text": "This is why good checks are a large part of a codebase's",
+      "hash": "56b06612347e5a2ef98ea7c13db40f376c30cdd76483fc90bd25d4bdd4266e7a"
+    },
+    {
+      "id": "dfed61fff60270a937e2160aceb06935426429668f232b8dec1f77b9760efc73",
+      "text": "AX",
+      "hash": "bbe96fa9f44ea0fcf38b0ec729822f37f5cc11e625753b2a250a90a3b59dd098"
+    },
+    {
+      "id": "499ccfa2c37174e389e767c1e22909c058666346c67e83136156dd61eb0a1572",
+      "text": ". An agent in a repo with strict types, a fast test suite, and a linter catches most of its own mistakes before you see them; an agent in a repo with none of those ships whatever it produces. The difference matters most in",
+      "hash": "014a648208bf22814df65df3033a312930b3655e180fadffc49388c8ca1c9128"
+    },
+    {
+      "id": "8f0759b68797f11f0bdd27f929d18023ad38ab97205343cbee815c6ec90cb763",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "36374211717ca7033384c69013bacda57640a75ddfd7e0651f9eae019e82cc31",
+      "text": "runs, where checks are the only verification happening during the run. But a check only catches what it asserts — green checks mean the asserted properties hold, not that the code is right. The judgement-shaped gaps are what",
+      "hash": "366a5030ae1399bc7b3469d823c29c9a7950281fc70553aba106888aa81e72f0"
+    },
+    {
+      "id": "b46feda7211d237f73e886cb5cc741176ab6a5a30a70a801980c80437f7e2dc6",
+      "text": "automated review",
+      "hash": "50f191cd5fc38204b448aef31fe4355cd06753a9cd829931d5b71343757317d6"
+    },
+    {
+      "id": "c65c794cf430c0478bea6fcdf3d4df0a6ec0ef006fba55a6180e5714c0809526",
+      "text": "human review",
+      "hash": "978a8b09ee5844e15ea0661d83702e00e6b4312de7dae44479adf0e8d7f5262b"
+    },
+    {
+      "id": "3843fa2144e1f1357a8535a4868991c57e8293a4f4d8eb90af144db034076e1d",
+      "text": "are for.",
+      "hash": "b7fd68f8d5dc614c5fbd107d3c40c430fbf2a3943f489a4e740f6c661bf1a5d5"
+    },
+    {
+      "id": "30eea4cb4df6cb02a5d01e2b9b92dc1e269b49e452e3975ee8da754e11d714e4",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "f153cbbb76253719113cca6fcc51753d3f3c60df8a070993d0c98ebface3b863",
+      "text": "\"feedback loop\" / \"backpressure\" — both lump checks together with review.",
+      "hash": "b1041a431f67d54ed7c6a51be39d2170899aca22c58f5afa1254f1fb7ecac08e"
+    },
+    {
+      "id": "4e104925d353f94700275ea66d769ce51bd9c5fd63f7d0bb359f0f97b2bc3fa5",
+      "text": "\"test\" — tests are automated checks, but not all automated checks are tests.",
+      "hash": "e4d3d169eae9de98e0006520318f16ac3a0861eddb8f905fd6fdff8d1d4ba543"
+    },
+    {
+      "id": "80d31401513a8c7c0e5bd69acd68255abec982742c269cf10bdfd1e9bd2f67b4",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "d919040a2af8c07bf2d769a0c21e1aad48f6bd31facb6f2de188a60ae6cca96c",
+      "text": "\"The agent keeps shipping broken code in the AFK runs.\"",
+      "hash": "c2f3343dd526583f17360bcd9d8e9fa9fe7242a25853090051d74183ee233b65"
+    },
+    {
+      "id": "98ae7478e25271613e80018005ce410696a070dd64735c221b8fd492cfd2cb52",
+      "text": "\"What automated checks are wired into the",
+      "hash": "48c970f63c61df8826f9b692745c1e78e9a6a96dcb972a1e5f10a8e550e3f559"
+    },
+    {
+      "id": "c0b119e0ae689ca897380ddd8a79d77f130d64eadb01abe397a043ecaf2468b5",
+      "text": "?\"",
+      "hash": "19ea93571d24c1b4a75edb5927269424f305db383b5b4fa0cb71a74252ad701a"
+    },
+    {
+      "id": "b709c479eccf1ab503d315d56d323928196835d764a066cf0debd74cd83290c1",
+      "text": "\"Just the unit tests.\"",
+      "hash": "dba5181fae107498d4968e27e38ffad8f7685d99054573082a599a321d634b64"
+    },
+    {
+      "id": "86fd6000b9bcb0949fe28c4dc426e31d5c1b240ad24c699a25a058be020c6bb0",
+      "text": "\"Add typecheck and lint — it'll self-correct from those before the PR ever lands.\"",
+      "hash": "57f6c454494b1eb57c04110528733ff37240099cd3fdfaf00b334ed7b03d039d"
+    },
+    {
+      "id": "d86fb3385a7494eb70a8cbb6b7df45cc87864c23aacc87b383e86f7bc9bdebb8",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "1fc65eb6ba91d1bf41dc0f715a4da9299ac3df8f8c2971a3199a939c65a63069",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "ba0865cf5f3cc7e23b36c32e4c94a02ad69098b21ad173871d72bbfc47bf099e",
+      "text": "Automated review",
+      "hash": "df3514233adbdec46b793e0c605f72423cd52386b0c05dcd3d604d6f196da301"
+    },
+    {
+      "id": "5b5065b9ed82f417ba9e5e05dc179f913b33cf2eb05310b194cb4944aff20af7",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "131c2de938340c0033b485ec114754499a3296cd491d0e9395e76b932800d572",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "27a6bb21c2cfba0b2c6d820f932f2303b114ed553287b2aa73b9bec095380dcd",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "1614451c7f9999c70483c020bd4280693946ef9238725ff23ea53ce829b30b1b",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "ea1d64899c0205c8d068c4a0d949b1377e6a8d78a18b8d3fbff89c93e3e21c97",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "46b165f85f2180341e630807d3289147ba26e52bd2185063d4f5655a58e13abb",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "15153889867f6e93edbf25de750f656317e6f6fecba2954fb7f20f7e864e3969",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "6ca50bf776404c3ac18d455214cceb454e0b8a5ea833059868e56648a9ecfbca",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "1eba0303c9b84a341dcfda6d053e424cf3042f3eed89ac98b300b24fd776c5c8",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "0488e54508fc0edc859904612edfe8d77b68b27d380d2a602383aa737befa205",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "74bd3ea22270325c0b861ccc9a7f172bf683217a20174eda9a09c51a22ec9ed4",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3d99a8a72a719bae04b81d5ebc5536a88056de11353405350753c82d52c1030c",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "bffd660c7a21fea7993a738c4c030053140764c8b2e779cca54efc443faaa852",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "9772e1e6704a03acd499d8a6ecb659a12c5a30c6f8fd547ae94f58561824e3d8",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "4681b3cc87cb5251162f9ee7bbd18d31d8502ec294295534b29d636724a31f53",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "c2b8c34bd4fe70d177952ea3fcfa39d473824ee864c505943d28e819159d37e4",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "7e4fcbec63a9044a023a21d788c703c68688d4ab26e24bc2ef93fca96b4cf714",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "55e01a27d4f128fb1cecab83dc69444b379803dc89cc6519d08979c675f895a8",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "3b877a42c061c01f11fef684b2f4db4ae3f3068658bcaf83ae7f4e334453063a",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "dd059d37f393cf1ee5ad4145024e36fae3d7ac1c2a6ca64d81ab58d15bc18985",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "07f329164a9ce17a14d0e3fb23065b1dfb9393a14e2f90d4f6b791c87ac683db",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "9fcb8853d9bb6477d0b4ec63f63838fcfa0fb342c5c217999c3cc27ee64bf479",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f1cefa538dc4970c6a7966fd1643fc575731c5bd7e8daf065cc29976e73a47dc",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "0cc1c8e814e65fb303bcafa737f6a25ba8ad10cb3b8e10a7603e7ee4873eb5da",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "7a240b6a21229574a4a3f5a194a7d8c13eb28caed1db693558a599c5944e4648",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "75025fbd7ba5c687116f112505989537a2338385321e3f30d56553c42edd921e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"fv5n6izwyq4sd3\"",
+  "lastModified": null
+}

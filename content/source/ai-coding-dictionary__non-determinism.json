@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/non-determinism",
+  "pathname": "/ai-coding-dictionary/non-determinism",
+  "fetchedAt": "2026-08-11T06:28:30.280Z",
+  "title": "Non-determinism | AI Coding Dictionary",
+  "contentHash": "4292fbcc283e3aa069489faa536463ef652d390b3aefc2707f02a1fc4e8f07ee",
+  "textHash": "85dc432a35000cb56fde2d8c2ecf985f63a13396b54bdbe1bf9bbbf57127424a",
+  "strings": [
+    {
+      "id": "2f7b464368e5b0b0273ab615955c4949718f3fdb258b3cd92da9cfcbccc2598d",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "6d178ad22752ce34b22f234fc516dee6ec276fdcee57ab48b32fbe3a1e31d609",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "5373757f7b107111445067c8ccfb202e1d785434a73f4ba9f7ba0d89b672149a",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "9218bfb1ea0c1075757e30384308e3a8e2ad8326e0ffa03386574f55d11b16da",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "3cdc0c00319fbef9655127932eb3e46b7a7f99eb33e05808dc2a79b130663825",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "9d9d22b408803ad4afe517451cc5940557df914ba04163bc02aa0c7c8c85fb5c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b3a0ea09d19ce2c14ed7a14db6f06211e9a5739f4324749600cc925db82b6c9c",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "88e6f761fca00a2ce5186f385794387201a8552c459f078bd964b28bf2d9fa58",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "596c9d1f1f121a2ed508b9051f7d7061d0ec8f74414f6e1b3fc04c2cf04244e9",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "d224352f994b401217a7390d29da272c30a05cb17710b55d72327b57433001ee",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "56235dea9cfbee324ef9d4cd4dd5165fc34e81e08d093fb9472d295826f79eb7",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0182062d84236ff7950d5fba6fa6b3f44eafc4d590f3f100c82c014849dee92c",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "b9622b577838dc9910ce212ef15f608846d5f98f649a309ede160783492a399c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "af7fe00d547cea738adf55ed636c790e23c4883a51e4b917b5659872cb375cb6",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "63d2d40d3af71c43f5925ee508f9165ba9a955fcd21f1931e94e9bfe18e9630b",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "79113a6cb189d977355e089e94fb967ae98e5cfa6fdbfb8b00325cb7aa3aed0a",
+      "text": "Non-determinism",
+      "hash": "29528d719817ee2e8c9f3bb920e7820ebe1ff4bc1afc1e91f25ef655e25d4b01"
+    },
+    {
+      "id": "fede9d890436b8c8f58e7cbb1b2d083af60e2a594b94ed98e2972564a12d92fd",
+      "text": "The same input can produce different output. A property of how models generate text and how providers serve requests.",
+      "hash": "f1700615d5d5a3a32b8dfecf068a5038783adef2707c4bc73bf149b00b2987ba"
+    },
+    {
+      "id": "c3a446a142209bdb873250bc9958c629598a854fa8a33838534809c33d48d1a9",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "47eadd06d6ea511d593cc39b9ac56d479725d78e0e28be44b6bca62fd13c032e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "41628ef58bd682746f2dd961ca99e47386a2ff9060aaa76f80a591de6be70e1c",
+      "text": "The same input can produce different output. Run a",
+      "hash": "d8738982dee9ff8ae2cca23a64616632916fa05aa12bb21de31f71d9ac643c0d"
+    },
+    {
+      "id": "d7044138b6ad025c1556ac8b90412cfe9c538a281b698fb7dcda5d30906602d3",
+      "text": "twice with identical",
+      "hash": "b00470afab124722caa20766c82c85eac86568f810663ad51cf6092ce96f7591"
+    },
+    {
+      "id": "3a0ca33c7967009f11e7d254da0fe57e4bead8d8d83eb38dbff4952f396640e4",
+      "text": "and you may get two different answers — sometimes a word, sometimes a completely different approach. Nothing in your code has to change for this to happen.",
+      "hash": "822d5cf253b407bf83f9e71059d0ba99906c9de4aa53267671a7e90a19631edc"
+    },
+    {
+      "id": "dc6d2b1d9801848fbc5b0a3bc4679e93a207a19ac4dc3d12c1f79767d2ab65c1",
+      "text": "It's a property of how models generate text, and how",
+      "hash": "e6a9177fe2683bf5bfec49de5695a7163018000cb893ef533c95f7f78601c942"
+    },
+    {
+      "id": "6c290247b7e92ce3833845088c4c68499911490616126d93a1af0d3bff70cf63",
+      "text": "model providers",
+      "hash": "7548fb2cfbf65b3b06af90570f4b0f0cd1fe9d1b679d4f495b31bd5c08cfdbbd"
+    },
+    {
+      "id": "f63dcae39e30411c00ea2ba41db55fbe8c40409443725d8b5d44796bd5d4c22c",
+      "text": ". During",
+      "hash": "49c7a70400c24ee41dd9cf1a66b4412a89bba2443a67a6c32f78aa7fdf35dc2c"
+    },
+    {
+      "id": "6b37fd6ac9ba4c0312bfc5aebe579787f88f95011090f563a7525f28dc5bb411",
+      "text": ", the model produces a probability distribution over possible next",
+      "hash": "9ca4d63bbc7b76fc35b530a15a17fe2f8cc90cf75f3dca4b64be06974358e9be"
+    },
+    {
+      "id": "901798e9dcc4c595594a8f6f53ef0225cca74d82226579cf9aaa6464de98d6a4",
+      "text": "and one is sampled from it — usually with some randomness on purpose, since always picking the most likely token produces repetitive, lower-quality text. One differently-sampled token early in a response changes every token after it, which is how a single different word becomes a completely different approach. Provider-side serving adds more variation on top: requests are batched together on shared hardware, and tiny floating-point differences between batches can tip a close call between two tokens. There's no setting you can flip to make it all go away.",
+      "hash": "d747ca19a3b93629a0eb2de55217a4f40755869a8edb366515aebd92a9fc8543"
+    },
+    {
+      "id": "5c62edc66f511117905f3901ebd5103c1bd2775ef29e757567d8a8cc51bea776",
+      "text": "Expect a spread of results from an",
+      "hash": "bf6666523fb353ff05d1cb1e7513b3a32a75f80ceaafafaf8c6872fc23be9796"
+    },
+    {
+      "id": "cfaca3e0057d434ffb600f815bc5260825957b9fe9f9bfc684b514bd2227f065",
+      "text": "on the same task. Most responses fall within a reasonable bell curve of quality — that's why the non-determinism is tolerable at all — but the tails are real: some days the model will feel sharp; some days it'll feel like it's lost the plot. Same task, different rolls of the dice. This has two practical consequences. Retrying is a legitimate strategy: a failed attempt is one draw from the distribution, and a fresh attempt at the same task may simply land better. And verification matters more than it would with deterministic tools — you can't test an agent's behaviour once and rely on it repeating, so",
+      "hash": "511cd1eb92e686da5f2caffd0bf490669f759f15bbda3061ab89f75b46c9c074"
+    },
+    {
+      "id": "23bec92b199d153dc3747095baf2627b9da5f56aa666474bf8136206c83290fc",
+      "text": "automated checks",
+      "hash": "f748d6acc6e10f9e80812a46b239b1d2f3f145075600d299b6e40632fb06622b"
+    },
+    {
+      "id": "f0a40c52984f7b0b52de014670675ff06e4daf7484d24cf9d074deaec08db9b3",
+      "text": "have to catch the bad draws.",
+      "hash": "b6b61dce81ee03bbb6c2b0487fd7171115526165db5e968605b9f7b175a1e9ca"
+    },
+    {
+      "id": "b35636e31f4e6c0294901a8ae334bbaaacec1ede76c0095846ddff061e783383",
+      "text": "Be careful not to over-narrativize this. Humans are pattern-matching machines, and a string of bad runs can feel like proof that \"the model got worse this week.\" Usually it's just the distribution.",
+      "hash": "2cd73f32e6fd6c2cff365fd8b33b0b43bf15c47c3d79d606a10798624c93cb68"
+    },
+    {
+      "id": "adaa00293ba9a60b8c4d34528f9008d06019f5635ae8e8caea52a78ded277ed2",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "47fd45c36b0cf5da0dfa2fa1eee6ada732fc5d039ff6d0a56a424314bf941c4a",
+      "text": "\"Claude has been awful today. Did they ship a worse version?\"",
+      "hash": "04c1c9449fe83f199725679c5cca7971103ae3f455cc37caedafa3f0c688b384"
+    },
+    {
+      "id": "63098b926d2cef885625f4a3c6eebf030b43fe6ab51b7a938b5ac7e5146a58e5",
+      "text": "\"Probably not — model output is non-deterministic. You're going to have good days and bad days on the same task. Try again tomorrow before you go looking for a cause.\"",
+      "hash": "c78de6cee7095be8a96bec930e5c24d4f55da05216b3a627574a5f2c8c7f7658"
+    },
+    {
+      "id": "7657137d09ed75abed732ee784599d2d1a2a03dd0e66a1fc14fb11d6b9dd50fc",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "23138a5c12873279c032af8fa8b0345033a53a3655cec38e7f7898735f111077",
+      "text": "Next-token prediction",
+      "hash": "db2e13aa671f566f6c582c8ff074e0b702a81659695c239d0634c86b0e328583"
+    },
+    {
+      "id": "12462f91c1835e5c66c8a7dd302a94341ef0e79663b3a98bf1f2c2fb11bfe71c",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "eb3a5112b47a5098fa530257488fb6e6d69622ac4f2a929d921f1b35f7fe447d",
+      "text": "Model provider",
+      "hash": "ea70384c465d5c89fb7cdd19647c540c4025a1c17532dcb8b987d7b753cf8596"
+    },
+    {
+      "id": "1aafc48af92159482cbaf6dbffc131d01d572672fd6f2e4f4baad4f4f19863dd",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "410cde335a2070977e03b2f7f78f7d7cf523740cf063c182f27697f505cd00f0",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "d284981a9960febbffb1381aac5e4faf1be11d7ae35bd42ab43c77452437a755",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "2f8f7391e4764797f656fb1c8296b2fb4f120ec0115130f626fd01e751a3387b",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "6454b9a6f505286d62d56daca86d134bdb6e697b10502e5cda4620c2de58a295",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "5b66ff6bda3e09b8313fa7422e028882907efbef127a531516896c99b676709d",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "6cbc9d71139b7bf40e2e38b4cf23bd4e14791a455d60bec3cd296f30366ca153",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "03f8822d123f8f2562444ad0c78bc806a1f31e373a0fa856b30735d4f504972a",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "30909ba55eb1391d1a53ed99dcb4b9261a27f77794830240628d6165204e6090",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "4fa07504cbc86e33d70aa279c885fe223925325fed51401c573539cf01948639",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "cf94df1581cb1e02a21532f34f22395f95ba20eaa7d4428e0ad4e58978212ba4",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "469a372c047983651fc276cf21f508c149c0980d9490c2a006bf69ac413af9ab",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "531ae7171832d5f448a318cfbd227777c30d635e2dd4a6390b90ddbb21728a58",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "89d3cf766673709bacc2fbe85e0d4913d381a89b1bb10f26cce46f768cf7d56b",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "c97a51c8988aef9b0a9fd186dd94690e16698d92dd3c9917c5334317ee6f884b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "7f8f68f2aa7434dd2f43735e0aed61e51b8203a6dc81a60156900f3845cf58ba",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "ae6d42b8b7d620add6811efee05d569e90a0937daa11c113d4c99494065a5810",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6b400be778f155c0b0809b60beefec01cf43302892579cfe01d55c9fde4b399c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "5fd5de2e09d3417bdaf9ebeb7c6739ea5b44640f481bfc4e27c12995066f8bf3",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "1f03e81cdfb8fd057754e7edcb7a9018a4be6267d5ff2c69040cc3a6f4e19dfc",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "64846725b08b08d657fa15cb931ad4098b9fdff22e75c1caf4b3b997a68489ad",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "c51dab6584b72dd06746c253798ce4d8452c6fa6c2dadc923410ad3265f9535c",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "08cacc81d541103106456f4382df87ebebbfad72bccefd5757f55fced9a9203c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "d9033b712e3736a64d49e1c69848c931d7ffa11747c15866d69d497487e15abb",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "93ca195a3336433c9138e8b225741d46b80dfef855afc627f736946608446705",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "9f3bf6f376ab523f4adfbf28f1118662b8ee768d1783393ee7dffc4a68342f38",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"3qypnxb9fp4s76\"",
+  "lastModified": null
+}

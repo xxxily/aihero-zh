@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/topics/learn-how-llms-think",
+  "pathname": "/topics/learn-how-llms-think",
+  "fetchedAt": "2026-08-11T06:28:46.716Z",
+  "title": "Learn How LLMs Think | AI Hero",
+  "contentHash": "fb04dc8814eea650e1aabde313030114129a46a7d232c514a25682d66fab6906",
+  "textHash": "86546fc0d68f5c428a573c3f96f416840e8f09dd7f3d0b72e2728b8384ec9265",
+  "strings": [
+    {
+      "id": "16cdf5f8e873c8bfd994ba2c9f12d445a25845c0a5598e6569ff192df7cc6507",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "9c95d90f4c1ff13aaaf25453564cb1dec6bd0da5d0ddef23f983eea5f01a361d",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "2495b8bc8d0cbbf93c78b6f29b7752c115ffb954b06c861e4ab053c01704a9b3",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "3c4c1e1174347d213bf43ec078873bbf1154c0adfff7f81770f26eb81707f666",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "5a2b0a02180b089d52b386eefd5ee1a4776c99f6fc25c93245e69b8f5e7c71e5",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "fc63fbd758cfbfc7c0de88f649a7f120fe818aa6156872c33619ec93d3768abe",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "5072db39ee9a57432fa409a399fa470385fbcdca1feb980bdd6f880865e3cb59",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "7a6b98191a7dd08274d18daebe899d5468590a94d6fcc36186a12519f51677ad",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "c3c4643a31c85144f29661e238a71d1ad7b53ff4fdbb5fbb80c9d2f47c28223a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "9b731c763b007bbb747df51079fc446366012703bdb034e85be5b8797696f191",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "b095a1cd435f1364da45fc39b3106243a2b4c793f503e17c4522a768fdda8207",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "8742efa7874e3bb1201093a3ecccf47f05732aae14aa90035c436c01431bafa3",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "0beb2ff040721b2ee3e9d351ea74dc45579667a237b3bf081291f7f430ee3f9a",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "2d79bd960e773522ca559d03fe9b3dd3cdf369822083a986d8d8b2f396a34b52",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "7382102709365cbf8fe2cad2b51877fa9014c1048bb8c5e1dff0153aeca95454",
+      "text": "Topic",
+      "hash": "7e61847d61d65d9e3ac15c6281f7bfe0d80b8d79d3b53125e9fc2bfc25bb81e8"
+    },
+    {
+      "id": "ec07e5093cfdc3a138735ae22b38dc394f9fe4ce45482e4c6b86541c33a0774f",
+      "text": "Learn How LLMs Think",
+      "hash": "ba2c6c60b2161c0c278dd5361903d48f111d0505f0a77ee70466b4e9ee41c30f"
+    },
+    {
+      "id": "dc8d491f7f5bd3470a6c7b5670a8310e7506bbfdd0b81eb9a7cecfd31bb9adee",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "f30dda18106c9a915b6c585d94bc546d6edcb226c8648d181d69ff266f8b2353",
+      "text": "What Is An Agent?",
+      "hash": "4363a0eaad32a30e59832dae65d5ce46e94404b308512b2a6a68c13044d2919e"
+    },
+    {
+      "id": "7f2cbeaf781f898e78b6e5d594fbaa4ae5bd8e7c813f3be0666949f87af964d7",
+      "text": "Discover the power of agents vs workflows in LLM systems. Learn how agents improvise and workflows optimize for predictable, repeatable tasks.",
+      "hash": "fdb63203791f5611615bca7e4f2f2bfb66d7743c34319c9b41fe7edbe460208f"
+    },
+    {
+      "id": "ea6a4baf6220cd9ace827b0b6e06d86dd33b494ef6a26b2b1f6fea121f8d7c5b",
+      "text": "What Are Tools?",
+      "hash": "916742818672edbd799c05eb316ebe7f4750efec5d416b1db6d6348acb761caa"
+    },
+    {
+      "id": "661abcad4e0600d0ccbbfdc5fd2d1cd06f94821b431a90a4ac966f8ce44b8755",
+      "text": "Discover how LLM tools enhance AI capabilities by defining, choosing, and executing tasks via system prompts.",
+      "hash": "2f5e40f09ca9c36cfb5edcc7f844bdc73738b64bb7c75d0a422c04cb064e6abd"
+    },
+    {
+      "id": "94889407bb1889f6ff2ba26e65c46b55572d43233df1435f1b370ba2e45a154d",
+      "text": "What Is The Context Window?",
+      "hash": "424d3b1d346af8ee28ad019515ce974d4455ac38aabd1de0c6f85c80ad006a35"
+    },
+    {
+      "id": "dc0dfb4b5d3da84c84570ce7888eb08dc2a59770f87ce8cf08c08db1d6972333",
+      "text": "Discover the context window in AI: input/output tokens, limits, and the \"lost in the middle\" issue. Optimize token use for better model performance.",
+      "hash": "7224595a17c6b17f78bd56c04f56b2c1756b8f3a995fc58efd2b644bd844010e"
+    },
+    {
+      "id": "93b2432b16ecc2e645bb479893d24aa3336ca0d78cc52502084f54cb1c24aa16",
+      "text": "Messages, System Prompts and Reasoning Tokens",
+      "hash": "3f4abbe2463908b00f5b0843833ac83f093b45c95c2e5ac1c4395162a9512645"
+    },
+    {
+      "id": "a15ebcd2bb1d79d374557df38d947345fbb437bc35ec16c3f4a763ea66b0ea4a",
+      "text": "Learn how conversations with AI work under the hood. Explore user messages, system prompts, reasoning tokens, and tool calls.",
+      "hash": "fafebf76674069c00c19bcead849960fe783fe1c66b8b25de950c9c2b2741469"
+    },
+    {
+      "id": "8697dcf1cf6b8c297618dd62d99ade0a6bf630184907b7ac46d3e69ea4d12156",
+      "text": "What Are Tokens?",
+      "hash": "ee46b60e4092cbeeb7436395b0ac00e00c45ebfd441d53a6c0ad998bad67a625"
+    },
+    {
+      "id": "115fd364ac9e408523645b6017742188388c09347d89c27e14b3106ddd4597e3",
+      "text": "Discover how tokens power LLMs, affecting costs and efficiency. Learn about encoding, decoding, and vocabulary size for optimized text processing.",
+      "hash": "2e5fde99e8431ecca1fa4e6cc83877e4f850daed2787fb9dfc1e179e565e1c3b"
+    },
+    {
+      "id": "6940de8f1873547979f8727af0c7b99a55270108c97fde990af70a3193eb9f71",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "8c978462cd4f3762ac596baab098c47390da5ea1446ab159b1158cf99be35db8",
+      "text": "Discover when to use LLMs for data tasks like structuring and classification, and when to opt for deterministic systems.",
+      "hash": "cc535db479f82807922e33f68f7f1fe03f1062466deab59986be029bbedc8adf"
+    },
+    {
+      "id": "8f8143009d9167cb1577af3b33da36c5de43da5ca7a040cc62697ef34fc7f197",
+      "text": "Article",
+      "hash": "29d94922512b93e8d81ffb4c721e52afd32e80d952ebe753ea2b739159219dab"
+    },
+    {
+      "id": "cb2aa35306cad12093e34c3572411bcc13b7be68a373198273de33923adef410",
+      "text": "Article · 7 min read",
+      "hash": "8993e5483e776e1d3f97ebc6ef952b6370de588bbe9bb9d0a2fdd7d8e6bcee79"
+    },
+    {
+      "id": "4bfc14199c24ed1b2082efb02cd92b2729861b5683145ca72cb0f41e9d17f66d",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "79c69022ba753a63a5458112213f9cfcb11754457a8bbedd1b4614c639f7e49b",
+      "text": "Discover the best way to choose the right LLM for your AI app. Learn about open vs closed models, cost, latency, and hosting options.",
+      "hash": "8310c5c45f15d1e6a78d96a1a6ae70d53216ddab07ce494db0bb800566992b7a"
+    },
+    {
+      "id": "99fcbdd9c356516c0a2e893852cbc0ce48e2c44fc0bb2845eda9ed6a9e483bf5",
+      "text": "Article · 6 min read",
+      "hash": "7ae580c148d942f43333e8d2167ab7f6a0ed57cd2fb39a8fadd9fb24c2b457a3"
+    },
+    {
+      "id": "525ed110729a6d9d98e330b4e590e1f45fa895bee27cc9313e48b1f74eea1144",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "e1b4d9dec4bb896a7bba4695b38ecbfeef5fa6961358802f5e8b87ca803c60de",
+      "text": "Discover the basics of Large Language Models (LLM), their structure, operation, and creation process. Perfect for beginners ready to dive into AI.",
+      "hash": "5b0896cb80221a50e2defa68fbcabda11e84f6af3ff49e4d7de3071fe7ab6929"
+    },
+    {
+      "id": "20ed7c74e23c084de7af161fdf8211fb2b1b28112e06a3a3a2224dcebe829ac4",
+      "text": "Here's 2024's best resource on prompt engineering",
+      "hash": "805a87dad601c14bc44e844b29aedb7074a455e214db4341c49d4420b6d1c27f"
+    },
+    {
+      "id": "5d935477951af917e0574754bf4f4649e6a7d89a480d75a368320ff23c78893f",
+      "text": "Explore the top prompt engineering resource of 2025, featuring a detailed taxonomy and links to further research.",
+      "hash": "2c808b588c9fb805890550f1b5ef3c5add5b3f2044d480a6f2a3ce34099093ca"
+    },
+    {
+      "id": "f61d41e941d13f57f9e996ff9b418cd39a7c3a78b4deffcc010d311800eaba80",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "f0eb618fa451bb27c68205119155c0d61ee9e7c03fe7824e722d8f8e13ca266f",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "4ba9fc0747f99dc4ffa5f05f579adebf98e81f2f17bd3d2b8c78b4d1a7b13a25",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "d36099d8f95aece1d38e1ea7ce04b34a117399fc5a70d42124298aec768f7924",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "e3147464941f7fa59ba1e8043dd489f48b3b3112d07e215206b582c87c257720",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "555e7e7c47d5f02dba9996d3e3f15b45663fe640b2c8d809bed8fa17c8234d7d",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "32a9f5d18018fc0fd21a16dc234089e35404209f2e816970d075e59d27db95d8",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ab5779a6d114175ac04f48208538726b98b7b414a05827b9ec84a94527867971",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "0f1b1dfa28108147f836e7c860d48d2f326cf9519535a4da25b35250ed2c62f3",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "be7f4efab66f4a949292e8f2f6cc0fef754c56c2bf0587231cc70a6272bd3aa7",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "2b7d691abcfbe97e9b429342a99b5a6c74a64f233ab1c4a511db7dc0c05b4f1a",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "e4a23599dd1577e896ccec52d332e2a5c37e1359aa9ec46eb4cc270a435169d9",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "8f5d7c5973e8d9adac04c5d69e733e351a4743a0fc2e14d7c7b5eeb83ac317a6",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "b8eca0604cc74a12531732e5f7d77364da252e0e2ade2aeebbfd4e158010e094",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "ee9e028beb81645b0cfdff1aed531a4e47827ae3092e85fd1de94c692d78839b",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "c522c684c60caf0492b582e0af681a2c62339a995c0b034f8bdb16d7386b5792",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "ea9a1efb29eb2fee2784a424423f41d5f10c6000e0bc93cedf275f95779201bb",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "fa501a209f4219b04c228b298a701a925ddc2c5737e96df40515c9d49e88ef56",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"11z92n8jj7l4oev\"",
+  "lastModified": null
+}

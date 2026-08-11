@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/topics/get-better-results",
+  "pathname": "/topics/get-better-results",
+  "fetchedAt": "2026-08-11T06:28:47.644Z",
+  "title": "Get Better Results | AI Hero",
+  "contentHash": "a95a4f07b926f4263aa0424c9bdf2de3e0447cb506fc54dd311ce90b6ff9d242",
+  "textHash": "ef5cb3655e0b3e85a9ecc44983485f8325d7a66ff74bcc351a86eaa4f15c59fd",
+  "strings": [
+    {
+      "id": "b541d9bfd21748450781124637a07e4645dbcad1ee364ea22bf5af958cddab91",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "de7ce12fd1f0fa4d67f169a3957218f0d634318ab04293f43cbdcd8f742ef381",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "9a7c0b9b8f1c06bdd675f9a00fe2ab659476a3010027553516f140d87133fbff",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0a7073122a7a82bbecc304a3ead668e957c8c859c92dc70bc68ffc6aa2d87c20",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "0dc693046834f422533081ad77519bb699d8635c8e5db1182ec1ba6eaff52a3c",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "9c9856378fb982fba7f355fe3abe41c92f6e32af4b8f5e9995c98c774610c535",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "77b44b25ddfc8a5f4cb512220f767b073511b6bb868ef9398da323793a69df4f",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "dff9c4a4c2038205c0328c6e5a07e61b5d520a94b75a77f1e2e31f5a5bcd39f4",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "90d30219c0c3e42e53059f88167b38120af5cb77b9138342aa6bc8649a4eb58a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "bea31fe0c341d9f39aef221df8f34605f458f2c311eff8e7a884a89619cc03ff",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "ab671bba27889ab2bb4f4f3e2cd7a6fa4c8414f07af6a1711cbad677736ef594",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "9c53ae5a3ce902265a8ee033bb4a2034fa48e2955c65c5d9355c970091078952",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ce6491fe4a67d9e9046c63fa5e717e6346e1a7e733b01691ccd5f7527a4d4894",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "efbf5079fefd3657a54d78c3a5fae74a2f13a711cc9194e8846fb8f8ec0ce12d",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "cf0df4c5ca1816db706abb849473319199e0b9d61cf677985bf62171f7af5d78",
+      "text": "Topic",
+      "hash": "7e61847d61d65d9e3ac15c6281f7bfe0d80b8d79d3b53125e9fc2bfc25bb81e8"
+    },
+    {
+      "id": "a5f37aec61cb418aa4ea42e7d4530c5c9944e7f0ab94f89a95aaf048d291077c",
+      "text": "Get Better Results",
+      "hash": "7fde7fb972dd07e9ce356b02e523b1c8955088ff4b7326b87595af98bdb82561"
+    },
+    {
+      "id": "ec1777b19266f47097b34623c09f50c12a2375ee343d40539f3726ec2ffada07",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "3cdece8de259a455588c45a2a440c782a72aba4fde108682c685586b749299bc",
+      "text": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+      "hash": "a8132b4f77ca14f2ef5aa84bc8386bb2e8acc3ce746a8209008bcb9af5610bd8"
+    },
+    {
+      "id": "1527222abe144dbf5fd053c8043f8b244ed6eb627165a36289fdd734a3d1f12f",
+      "text": "Master the 9 most common mistakes when using /grill-me or /grill-with-docs. Learn scope management, model selection, and planning strategies.",
+      "hash": "0318f8d5c3fefbe6338ee355e621c80ef4fe174e84044b7f802090cfb964d876"
+    },
+    {
+      "id": "86e76f86c9d7af0476ba00e114e8d3f49bc797da6b14d76a1fccfd66347ca932",
+      "text": "The /handoff Skill",
+      "hash": "aa9ef09fd6306628ff648bd617767047dad198c95193321344b3959b78d08f43"
+    },
+    {
+      "id": "77a1b715ac6c10150b9f8b791e0e4887ed356698dff89b1c7a7ea25b620f12e6",
+      "text": "Write up a long session so another agent can continue it.",
+      "hash": "30529631a29471a55854d373399d5a1465bc6d19832e07b1c3aa68049f552821"
+    },
+    {
+      "id": "9a62fccf9fac65213b080305eb62ba67d53c349996dbec878bcad98dc80d7d63",
+      "text": "grill-with-docs: Align Before You Build",
+      "hash": "be05d2e43227ed19ed8969d06cfd693562249b8f6e7041e1da1df95519b05489"
+    },
+    {
+      "id": "1671972a84b9e167608233e651e724a0b80a85cee4c2bf3c9247d1707aeeedae",
+      "text": "Learn /grill-with-docs: combine AI interviewing with domain-driven design to build better codebases with shared language and less repetition.",
+      "hash": "1840800c6322370f11ef090eebbe9a4d9be2c0c34dd7b90031ff374b41c1d3cc"
+    },
+    {
+      "id": "9907105f11050250a3234073d26d126e2660ad2c875485e6a1cfb70cbd3cd6c2",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "6b02067f8798871b8e19e94a44075d8ac883e614e714688ff771af565dc5f088",
+      "text": "The /grill-me Skill",
+      "hash": "5edb548fff722d99ccd268e52fbe25045b7b033143d6caa73359a81daebd7539"
+    },
+    {
+      "id": "0d2f7d6e0d9a89946ee1785e685cb310b157ebbf26a3bc8dde3e4e59d439dd79",
+      "text": "Align on an idea before committing to it.",
+      "hash": "d816c5a0458370f6bcb8c6409646293e818410c2cc0f9de2f1018b9595ec9bb9"
+    },
+    {
+      "id": "8be69eec0786f43d2ec87205580a8600adc1bfb28e8ab43aca14b8cac4afcaaa",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "f693b1947e9fb3b1867921bb9cc8ecfbe33cfb7f810827da8747b2d213132160",
+      "text": "Learn the \"Grill Me\" AI skill—a powerful technique to deeply explore coding plans, requirements, and ideas through structured AI conversations.",
+      "hash": "7897eab685f5c04d9e4639d4d8df700dc0cbf9a833b1801292f83ea34dce7116"
+    },
+    {
+      "id": "8c2b0244884d008334b6e3a37d4a5f76742b3f8e519652214263f607eb06dd6c",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "2ac3a3f49987c9c0cf8750a2d0f8768901379cbf47a42886cc51c3ebdae534cf",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "6b218512e48fdacc6d339ca480bd92d2617d1f3774d74df41dabd420a93101c5",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3363f5e2ec7651b30a3195dcabd59b95f02af2734aa6c921fcff5a35f38e547b",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "ae44ee8ca69527ef015a52d73803df6db10af2112ae08507c0af48521accd88b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0a31b836e712a5fa0cf21e30ecaff0017c86dae1cabb2c72c1e717be3fc5b6a1",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "cb49e9dce6335e7954b416f54e19e9df390dca37ef4f076434fe9002ea496d20",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "51b3f3a888235a63a28ffc4a54772a1c2150e5d78f5b533a61ebb5785d32715b",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f1f4577a8562840c0426b6ad5b71b38a22526b3f3c96040f4753e0d5e3b56f25",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "66b7a08aff8eb8469ab707bd9d21749928e020361436f5f99b0e743f397b1cb1",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "446baf9aa1e8cd76408895cdfb8c0f5642ef7c79c2ed92786c203d64ead5a024",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "6c1f347191ec07f8d945f4297a3c625e8fcdd6a49a03c9ee04dad9bf33d27f19",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "0209b397c5e96a1016c6586856e7d9c7847eb45b6e80f8bd1740405fd720f802",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "6111a094636553875d0a404a01b17d388621b6ada71069db4e9fdaf50509d7ec",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "648dca7707535df8a97459fd3dac90a9bf3950d3141dcae97eae4ce77e3d7824",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "940288c96ec3f832363f2cc8e74a440003c3fa118cb618678f8077c1511e61b5",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "760bf2946f015b31e837e9b59c115132dc32c9fbafa4b21f452100a78640d95d",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "1974450699f6b3b9744745dd13c4efab8e9aa21c663e647c3e1f042b56446657",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"10gu5sfft3a4779\"",
+  "lastModified": null
+}

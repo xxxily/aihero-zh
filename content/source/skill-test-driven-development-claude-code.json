@@ -1,0 +1,733 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skill-test-driven-development-claude-code",
+  "pathname": "/skill-test-driven-development-claude-code",
+  "fetchedAt": "2026-08-11T06:28:13.561Z",
+  "title": "My Skill Makes Claude Code GREAT At TDD",
+  "contentHash": "d4576769b57d83402100cb7401ba0c4b8af3c794f67ef89617ae6b03746e5d09",
+  "textHash": "272a35d8e022f970d26d190e1d8a1a8304ce79f2e00465408b434d414efad391",
+  "strings": [
+    {
+      "id": "47edb5174d6d47fc78549f67cbd8557c313f3c21f80b7e7a7293d6c4586a465c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "f9159ec566b5a4dea31ae5b571fb0da9bdbea67872a1dc4346db50f0702651b5",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "723a1012813c3287e5dcafa2f4f654777a19410134315c298962c6f6fab6e94e",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f04a8d47ccf5b7d8ab92a3ec5fb50cbadfa575b2b04f4b88dabe1902cb9f4550",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "5eae3f4e0d2439190ce9a1bf673b781c44a94355490821248bd2e36b2af2f56e",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "b144c3f55e723e7b3348ab75f6ca61a6f9f4e2c0626aa26e3dd71fd20b74fc68",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "c6dc14ea486dbb695340fd9e16cb5ef355c4ae4ba5ec8bb6c2b5d86c6d96904a",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "21dd99edacd24a1d060ab751541207e33e6badc8b4c6c881b731ac2d417c6c88",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "1242e36aa304d8da483a59ddebb410bac825c488e7a5de3e13d5c8804a7fa662",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "2f359b736ef1e0bbd2a2a0900e05ae8cc7716cc43e4bc6631baba89414db0c15",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "175c72ac72210914c8c872a20bc9e62320805cab438aa71445ce0169654c0698",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "e435c0c26bce42146d81a34d7c9768ef80cdd1a29f4ce4e6a823d42c8481a2e5",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "bbe5683fd2a4d382169b03711034ed040ac655acda89266d86bc1cab12adf0c5",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "8fa4208d31bfbb829b6b61f8f8eb7be627af17850cf640b82a4396120f0b4fc2",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "29cc6f3167a4ed7b8cd40e0e8905ee9e61470137c55e4e37f0ff904573808d18",
+      "text": "My Skill Makes Claude Code GREAT At TDD",
+      "hash": "11975d24aa6419408b2c63b9b0a6903e90fc4f990cb95c7ed247b915710b27e9"
+    },
+    {
+      "id": "0479fed016ffeb1406736ec783d4c0750f4d5dc5a42a63664fc6ebdec979b6c0",
+      "text": "Here's my TDD skill for getting Claude to write honest tests and real implementations using red-green-refactor and vertical slicing.",
+      "hash": "a264d00a69ad9f018bddbef38cb47a383a25062a4a5b26f70cd8a3169106902b"
+    },
+    {
+      "id": "49752d3d57a662e94e7d0bb4069f86e574b0381b386cd0c369f0debab29c4a26",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "8a789ef8500d03c4dbbe4081953f2e2b7e387c0a893ca73226a6d4b3858d4b98",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "167296eb9842ee8767e841e385b41d8fb229b7c203a8f450663f4fc10fbf6f71",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "f5c40b3e10e42666b706548b5188cf51fc45dc35c91fd26fac005a363a41d18f",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "bb662ee8d2295b062970665967c1dbc4f68605b7c6997398b3cf27067a3e34b0",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "b1d6f7af370a227a76f38ae29fa3316abe7a6b2ba1662c5a509ac98bb88232bc",
+      "text": "The Problem: Why LLMs Fail at Tests",
+      "hash": "fbcc122ff825b7878f2854b03ffaf3b3b519272cf768208b5852999f9e61c262"
+    },
+    {
+      "id": "06ca5990a2eb7547b1a65e95d23424c1cedba14c0d79d07206697cadbe29b533",
+      "text": "The Solution: Red-Green-Refactor Vertical Slices",
+      "hash": "cd995d6f8ef89eb5418cec8cc88c9f7f03474154f9b943de22168c5b8b0a2b44"
+    },
+    {
+      "id": "a2c9cece2ab60486fe5c158e7461ae6c710e053c49c47725c148d7dd2348fc94",
+      "text": "How the Skill Changes What Claude Builds",
+      "hash": "5edfcec623cd5a88756051b13728be9c0475fbe2960f43c9ba3d7347ff506859"
+    },
+    {
+      "id": "e148bd9e312d315dd17ee719fa7d5d2f8cc0def5c38daf91a44198be7626b741",
+      "text": "What Makes a Test Good (vs Bad)",
+      "hash": "2b0ee30924ae3004b23a91d4b4b0b53a89f76c9d20dbcfa5d06ec43523ce32e8"
+    },
+    {
+      "id": "2e4e19f343311b856b9293f0c80f3712676df8d7f9f866630f5377f770b530a0",
+      "text": "The Planning Phase (Before Any Code)",
+      "hash": "90faff6279fd042c480c6e641c091d6717c11b2ac5ed33bbba517437777ee9e1"
+    },
+    {
+      "id": "809c381134713e5fd8b1d03fc2bb10828221c6043a0b30b42c4049ecabf59bc3",
+      "text": "Why This Matters for Claude Code Users",
+      "hash": "02a16e83084b6adfde0cfd994377feba42dcf9e4ede03b00844f286a9fd36eeb"
+    },
+    {
+      "id": "3f4855d9cb0f53a377a35685a800123f9ae120dcafdf5276414b2b1a50a13f29",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "8e75a3cc455ab2d5b5ac0b34f05a245bafec801f5e9537ad6d9e237e741e3021",
+      "text": "For the last few weeks, I've been using a TDD skill I wrote to do most of my non-frontend work.",
+      "hash": "677ba597400532e6bb6cdb79edee2cab41208571dedbe9e1a0a7a344e1bbc1b2"
+    },
+    {
+      "id": "acfb1f1764e8bc58448e6c978cb4e2abbe7f16031f6a564b2354069dd62a2a3f",
+      "text": "It solved a lot of the problems that I previously had experienced with LLMs and tests.",
+      "hash": "f60769af3622d61b5f3589702dd51c82e7a10fba9e1ceacb7877d396597a4773"
+    },
+    {
+      "id": "45b0d85a8ed32a96e5776bf83d9e263b34a45776ad65d935ed2f9fc90ddfdb9b",
+      "text": "If you want to try it out, here it is:",
+      "hash": "88c35a7ee4d4dc80094ab7f8b3d1035b8ac682b7e3f5c672d4dda1eb28eb5dae"
+    },
+    {
+      "id": "d8cd8253840f80546a6651b5a588e3a1a8afe6b5a7bb853b2d52c29503ef89b7",
+      "text": "For a longer breakdown, here you go:",
+      "hash": "2039a42eb958f6fb2fe8119caa0c6a933a5b37037d02403fb66fa592d82018fd"
+    },
+    {
+      "id": "4663ebebd4f8469da78d886f6945ea5ee5bdc4c4a70030983cf419f453582ca7",
+      "text": "When you ask an LLM to \"write a feature,\" it tends to work in",
+      "hash": "7ecaf62c0f3b149de6c297b7b67d441f613d8f254950fb28b699e91328a2668d"
+    },
+    {
+      "id": "309ed02b188079470640c68932b8b15a8a68ff22148dbf81296143530592bf97",
+      "text": "horizontal slices",
+      "hash": "9e4e45f1c8c12dccaf73d1bf1f5a0356973d9c919a062766a8b8a1c635c2eaca"
+    },
+    {
+      "id": "1aa6d2d9112a5dc57f42bac1131d73b708eb17177d17574743f4daef38d96c85",
+      "text": ". It writes the entire feature first, then writes tests for that feature afterward. This is problematic because you're not really verifying that the tests are actually testing what they're supposed to.",
+      "hash": "29d3f7d8500ff7d0d7e69af0f47813383052ccc8cc9c137eaf2052f6d33bfbcf"
+    },
+    {
+      "id": "21f39ae1f2acb4f1cca68fda063a2064acc7e6218c13550455943014f522f694",
+      "text": "Here's what happens in practice:",
+      "hash": "6a74ac315d5a900dcf7cf976469aeb86d3101634ebe79b550a35caed7d6463dd"
+    },
+    {
+      "id": "18ab8170c3caf49e11eaf5bec4737cf11607d7c26b01c2bba29791314b75a974",
+      "text": "Horizontal Slicing (❌ Bad)",
+      "hash": "ba8c6b7b0753bbea002171ac025ff785287ba36657d8b169e4aa2bf9d0d4fcbf"
+    },
+    {
+      "id": "ccc71b12d66b12fba6f32ccae71cf23319ff532c618b4877dedbfca298dead85",
+      "text": "Vertical Slicing (✅ Good)",
+      "hash": "ac29a1c02496345c1adeaf83e0c89c37059886a032a7946df2bcede26ec55098"
+    },
+    {
+      "id": "1c46b90e6d9ca13045a31eec4e5335e07be244173e2b6cb78fcd0bcd39333bab",
+      "text": "RED: write all tests",
+      "hash": "ec896cae097bf84711d0ef38213cdf5a952831bc8dbf7511b6296539eff6f3f2"
+    },
+    {
+      "id": "a1e2f6a2a8695e59db3e362ec42f5e28744183c83e3acf67bc5444a69e08c871",
+      "text": "RED→GREEN: test1→impl1",
+      "hash": "d15860ea9826c3d3175d276f893221c824b4e16d2adcc076f37e50b32df1e847"
+    },
+    {
+      "id": "5fda97e698c7cedfc921040c1ece9dc2708b503f3f05a936fe6e609c92368771",
+      "text": "GREEN: write all code",
+      "hash": "3772c984c227c53065bbb26639cd29882aeec56e878a9514cc4e54b3437faa0f"
+    },
+    {
+      "id": "fe5f95753436dc57c48c01f82d58b2ae1fe5c68759c89dfedbedb3f2337f212e",
+      "text": "RED→GREEN: test2→impl2",
+      "hash": "4d8756068eb7366efa112ba836d20ce9872c84cf3615050aeb567686d2848669"
+    },
+    {
+      "id": "eb042518ca21d42d0e25cc8cb0bd3d4fbc9740700c6d88aee5c5522b633051d1",
+      "text": "REFACTOR: cleanup",
+      "hash": "20f2204299b2a08cd67d1eea3fb45cc14f6f0ec3d404bd5c3da0a998e4640e3e"
+    },
+    {
+      "id": "ca42c3093da3d17b79c42d145e12dc85e87f4b0c0b49cf8afde0dbbcfed744ab",
+      "text": "RED→GREEN: test3→impl3",
+      "hash": "794df5ff16bcd9e2f1e02da0f41cee85ad1a804fd08ab9e93de692cad2174b27"
+    },
+    {
+      "id": "7f8232694b2a7e57785fee35ebf131c23fa9cdacf09e4facff8c5c190abad504",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "71a69ec3c861bc5048b7e5a199f3fdece580d47e2a8c03218baf9409c4767aef",
+      "text": "The core issue:",
+      "hash": "c3f61fcf84fe2931305e5f35260101d725e9d82e61db5eb953616095bce2b9c1"
+    },
+    {
+      "id": "2265120955b3259fd555e1db0294968a6d56274888325f3999219dac61749403",
+      "text": "Tests written in bulk test imagined behavior, not observed behavior.",
+      "hash": "fdd384e4d1496f1089af365dfac9e9a11f94c43c179a9ee811997ef4967631b5"
+    },
+    {
+      "id": "fa4de786bd58fd723bac632e52310929552f6517fed39f9b53c952aa1e7b418d",
+      "text": "When an LLM generates 10 tests upfront and then implements to pass them all, several bad things can happen:",
+      "hash": "f9bbd9a37094e99a0d4f1d245b7c8bc860d9189028c2b7e02f0d3e46bdaa12cc"
+    },
+    {
+      "id": "687ccdf566fbfd99a34362df14d09898cd5b645444721c0dfb38a17fcf2b04b5",
+      "text": "Tests verify mocks instead of real code paths",
+      "hash": "9f61a282e417cd9e69631b67f95f29ced809defc8b86ae3bb521c6f72d905b6e"
+    },
+    {
+      "id": "6a561d95ae703d9f1c060ffb66cdc1efe528fe1994b78d85c3ab5913fe1a3063",
+      "text": "Tests might not even run properly or have short circuits built in",
+      "hash": "b018823a14f38bc3077e65f23f60b0a5a9c8c2857e129c9d48d798435c013835"
+    },
+    {
+      "id": "086db9d1d41b6e3484d0406d1a6c2aa6f7b3a08fe608c92666d0b88166e2d10a",
+      "text": "When the LLM's context is running low, it might just rewrite the test to make it pass instead of writing real implementation",
+      "hash": "df6f85f7817711a2b6ba4477e45c66a1b9485a2946077e007299de2ab7586e01"
+    },
+    {
+      "id": "628bf717c10d8aa1eab6a4fbe8ca350ac3b081abc9aa2f7ca1d2933d71707efa",
+      "text": "Bad tests aren't just a review problem, they're a debt problem. Every test you create has to be maintained forever, just like code. Tests that aren't tied to actual behavior or are too coupled to implementation details become expensive liabilities.",
+      "hash": "c4eee902c5490a4a17ef23c9b0ce8c3a158fe84011193ebd72630a93c03b9dd1"
+    },
+    {
+      "id": "e2730b0e7b493c1d4d4f57e0d154aea8198db487b5adeace8ed7e4e718c1fadc",
+      "text": "My TDD skill constrains Claude to work in",
+      "hash": "87f34c833753c8d2a9d4d35000069d3a66d30b112c8c7bfe6cb635cfdb1dcda0"
+    },
+    {
+      "id": "485f62e55cc00170f80da7901a1b0a3c8b5a76f605532b3da71ca0ba0077342c",
+      "text": "vertical slices",
+      "hash": "94da8abb449e2dda47fbc2c45a8e1f7bf1ca4e2f87888695adef058d6fd4fc93"
+    },
+    {
+      "id": "4d0ed64e9e6e404960ccd780ad88ff604cdf88fa9c2e66d79a97df7012c9be5c",
+      "text": "using tracer bullets:",
+      "hash": "906c4df07b9eac127935504ba4379bae522d9f0f9ea6b884fcb3f1c915ecfe6e"
+    },
+    {
+      "id": "a50b168dc0c99b026a43dafb74e39e97b9ed3df10b6d11f8c7af149a167cc4bf",
+      "text": "Each cycle responds to what you learned from the previous cycle. Because you just wrote the code, you know exactly what behavior matters and how to verify it.",
+      "hash": "80905f533bbb25dd0b3e21243ea6b083e1762449809dddc77ad1b22206274341"
+    },
+    {
+      "id": "6009c4af85f24995521136228fe309b4b094e850c4a134fa5b52a8cb83076b1d",
+      "text": "The Three Phases",
+      "hash": "a5fc3aa31145461bcc6de38ed9bff55d33c4f30a1bb491f73e1cd3de54306279"
+    },
+    {
+      "id": "0fc52ffc050ddc5d4febd2a8ae28c74d27ead6a59872213661299dbed1afd1d8",
+      "text": "RED",
+      "hash": "65cbe1e19791d49b023800b3e22714e2589b6339bef5e660b628dd1023506ebd"
+    },
+    {
+      "id": "615146bc620025c1f577ee403c1773890126dbdae3fb852e305d79499c26bb14",
+      "text": ": Write ONE test that fails. Just one.",
+      "hash": "f055baf20a42b07fce1d8023e7d0233123c90c93652b3fe5d7e6db44603077c9"
+    },
+    {
+      "id": "1a24d2beede5333bc0e4e0e01f9a69b02069e5693f8d6224437b4f27d32bd2f4",
+      "text": "GREEN",
+      "hash": "cd9fcbf0c0b40bf7cdb35b1bb9b377dfdb180e0c8aa602fa903c522f6eebcae7"
+    },
+    {
+      "id": "9ed5ae7f239e063429101b9e3cf84dba6ba4beacf305a169056de604760cfc69",
+      "text": ": Write minimal code to pass that test only. Nothing speculative.",
+      "hash": "af7f992056fd25c239161e1569280ef09602659f7efd2182fa3bdc262dcd9c43"
+    },
+    {
+      "id": "f17d067b76c22ca2a4a83e93ea9e9133e7d595dd1b92c133fdcc99e068e1675c",
+      "text": "REFACTOR",
+      "hash": "599d634812fb331582512b6710403c1dbcf8e0ad8f7ebc5989b7909d9975c87e"
+    },
+    {
+      "id": "de79bd4952152d3403cd139dbc13d6abd718380936323f270d474ec9dac6fae9",
+      "text": ": After all tests pass, clean up duplications and simplify.",
+      "hash": "da4d1f0f7e19a8d6b43017fb057d5a7d15f8d960403b611a8429a7dfafe43f63"
+    },
+    {
+      "id": "25d9e446e2965d58ab7fcc16e28443099cea24703a847b2a4beb262d80886399",
+      "text": "This constraint prevents cheating. If a test fails first, the LLM can't fake it, it has to write real implementation.",
+      "hash": "c145873e975183b61c3600b3e7d9404fffb0745b8470bb0aa221937c370b5e1b"
+    },
+    {
+      "id": "eaedd3683b9cdecd2a53e1f494b8b376ffe0fc5545d5f7a6fa2c2688ffa26c9f",
+      "text": "When you use this approach on a real feature, something interesting happens: the tests become a",
+      "hash": "5e28c676293bf0209bd936317398360c6614e26a79def11a9340783c49d8f0a2"
+    },
+    {
+      "id": "884b7eb7d32f23ba0e3de276bef076757542e2828cedc725874227f8dcf91394",
+      "text": "conversation Claude is having with its own code",
+      "hash": "779e6cd220a2ea0e146be39ddf28f444710dab9f3db9569f39209315e036ad3e"
+    },
+    {
+      "id": "01d6a77df567f06db26a0af9116e4701f4021c39af24d74fe0b9f7fac717b2c0",
+      "text": "Each test asks a different question about the implementation:",
+      "hash": "aa7650a3c800368942446ffe7ab1af3fcc34a9ed834fc66b345219a418d59512"
+    },
+    {
+      "id": "52382fcbddc47e1d14e5002cdf1445443c388eb8a9a1f01ed34e9e05e257ed5e",
+      "text": "\"Does this observable behavior work?\"",
+      "hash": "ea112875ad230daa6a2b78b7f0291feff899b64a81e897f36b65c902da002350"
+    },
+    {
+      "id": "b517a6db2e600858225e37fa470e4b615c4dd50b1adaf1c06ab47e93f86109aa",
+      "text": "\"How does the system handle edge cases?\"",
+      "hash": "9a414336ce79c2ae0e611f76df89b4c3596496daa377220a8627f7007efe8248"
+    },
+    {
+      "id": "5456423bbec662f34d19409270c2eef12f0e6129bb17cd04c1531355d5ebf347",
+      "text": "\"What happens when conditions change?\"",
+      "hash": "f2508f82b7b46deb9b7c4542fc5b3cf6bf8d4d79458ad351837888d9331d9e86"
+    },
+    {
+      "id": "bf09c7e5b3796f33aae578ed6f4df882f87e4de9e819f22d9ee9d52dd124ad54",
+      "text": "This interrogation means Claude discovers things about its own implementation as it goes, rather than just checking boxes. And sometimes, a test that you write will pass immediately, not because it's a wasted test, but because the implementation is already robust enough to handle it.",
+      "hash": "7cc6880f814ce53b7a3687d457d173cb7cbeddd92e74e1f80aae10c1ba0dea92"
+    },
+    {
+      "id": "fb728e6ba72da7dac4cc2ceeb7fa8d5caeaf231eddaf698545834f124c8582bc",
+      "text": "I've included details in the skill about good and bad tests - here's what I described:",
+      "hash": "499c3758c7a03d8ea13ede7e63e29b431488796e28480d48173e08c1324a6dc2"
+    },
+    {
+      "id": "a0433d3018cc4e07f9212a13273fd278f72aeb1202ed9140b678ae820041e02c",
+      "text": "Good Tests",
+      "hash": "f9e0fd9acf3e6258f794c0779ca2a270a840677469e8fc38f1a3960944a86f13"
+    },
+    {
+      "id": "744fe74add2e6e071dceabedbe3aaa56c6b316988285df8698aee49dd498d1c2",
+      "text": "Good tests exercise real code paths through",
+      "hash": "ab28a824b90875c5d24f7115df58d23844281b5ad790b88ad42004b26e33884a"
+    },
+    {
+      "id": "5a823185e09561aab81a502dfba10510dfd015528cd977572f6ef66fd6f36d0c",
+      "text": "public interfaces",
+      "hash": "b85c87e7619d83382d81f6efef387eeda4f5ddb32d881117cbfc7d5acfd5380e"
+    },
+    {
+      "id": "114936f478143c8958b8f250c24aecdfb78ae1c340e28c433500fa989e15ff3f",
+      "text": ", not implementation details. They describe WHAT the system does, not HOW it does it.",
+      "hash": "7f7bca2ff3715fb23ce08c1a4be1f8e0cd1afaa12cadaecf10c906b2adc08b80"
+    },
+    {
+      "id": "508e3c429c482b452dfee60d71e8158cde0e6d934a410bdc57ff32850498e24d",
+      "text": "A good test reads like a specification: \"user can checkout with valid cart\" tells you exactly what capability exists. These tests survive complete internal refactors because they don't care about internal structure.",
+      "hash": "9cc87ea4b219b12f8cb51a6cfb96dbf6a833af04f830d73c4657091ec5cb9e11"
+    },
+    {
+      "id": "49739744d9fe75c707948bd0e98bfecb4cc410f9e75c35f196f3cd4b62818996",
+      "text": "Bad Tests",
+      "hash": "be8d90c2ddb8fe87d6100c7ea7fdf5804612910cef1a69d72f53ba88b3fecde3"
+    },
+    {
+      "id": "1245149eadc34add4b10225fce0b4ca922141962f21989c028c7db1ec5ffadbe",
+      "text": "Bad tests are",
+      "hash": "13a0cacd7c5fe9f37d4b30169a92eb87d64987d332dc3f72cf798e2e516f71ec"
+    },
+    {
+      "id": "c5368ad02eabd22645964d8882c344fb2b4661e1ee148f61bbedd247f44f10fe",
+      "text": "coupled to implementation",
+      "hash": "192b40f3ede2ed8123dae20d06d93057254eddb998bd4d07c539391489c9d4d0"
+    },
+    {
+      "id": "b020f775700e20a96d9d228c67e20a947feabebdad3df4cb33a8bb2dfa09d75e",
+      "text": ". They mock internal collaborators, test private methods, or verify through external means instead of using the interface.",
+      "hash": "9d494cf4e5f9ca4074e91aad39da990ed2ee1d6e248b60f38a6061f65b3350de"
+    },
+    {
+      "id": "b6b7d93a7f84b6a4467ab947e267d6ee319e14654e6edcef6bf30b051c9e8cf6",
+      "text": "The warning sign: your test breaks when you refactor, but the behavior hasn't changed. If you rename an internal function and tests fail, those tests were testing implementation, not behavior.",
+      "hash": "9211adc5600653b2fe0d84a7f5c5840a5d8222d4b072bf5928103cee928b6500"
+    },
+    {
+      "id": "b313574db4c4abb6e8c018002c1c97bd7f29688115e95d7603a9eeecfe11050c",
+      "text": "The Key Difference",
+      "hash": "3b6a74001c2cf004c30437017c2f11b3e20d057a2f6f50da2fc991500042d748"
+    },
+    {
+      "id": "8091e3c38d4662d7089dec6119356b0612bb2d2097791a5c3b5afda35e997ed5",
+      "text": "Exercise real code through public interfaces",
+      "hash": "a6bd9d318eb8c5d526055c3e71d1aef36db2fcc509044359abf6028f69d99951"
+    },
+    {
+      "id": "0abb0ff7ef79db597d0b541e2bf4a242dc160c3477da3212c10d4b2b9b8cc1f2",
+      "text": "Mock internal collaborators",
+      "hash": "fa3473ce016f8431b4ff9086e0a7d8d679caf249f77433c5fdffa7abcd9cb3c2"
+    },
+    {
+      "id": "5c20b109b2107d2549a7c9a8a05e890641a1ee5c8928196222578c54e91ef15d",
+      "text": "Describe WHAT the system does",
+      "hash": "31d899ff2f6fb8e4a5515a81bdd82091822ef17dd74d671f10ef4c4a7250ecf6"
+    },
+    {
+      "id": "7bb0b5a0fe0be20ceaec2af02b84ae656f395f4d5450575d58f37c4c21024a3c",
+      "text": "Test HOW it's implemented",
+      "hash": "87c6537936bc89a91d2285cea39b57692ad92235cba53c5e4158d44d9b046d19"
+    },
+    {
+      "id": "a5e651f2d977353122a41cdecbd5b78796feb8b410c98564c1a9141c2d03240d",
+      "text": "Survive internal refactors unchanged",
+      "hash": "1901f59e949c68c4e0cfdb3800c5df32bbecbb7b7bfd8904412b57850aadb1bc"
+    },
+    {
+      "id": "3c2beddb849d51742382e1943ac13131de40831e422bb41dfbefd34449723320",
+      "text": "Break on refactoring without behavior change",
+      "hash": "8f5514b667251e43fc9ba693736ca25d554e55d28e8283fba21beef9710264b2"
+    },
+    {
+      "id": "7af742795608098afde6c2c5aa2cfba676243465983036139846a132e1451063",
+      "text": "Read like specifications",
+      "hash": "25a4fcf83a780cce72474097eb85a08ef6acb34c7ce554ce7312525d5074ba89"
+    },
+    {
+      "id": "9402276ab9fda8e71d74e3c0982b25dd89f87777531bb1baf67303f34e4afb0b",
+      "text": "Test the shape of data structures",
+      "hash": "987b233cc62bd81c26cf71262e28d2306b2502f2163abeb6df1c257a4f4ccfce"
+    },
+    {
+      "id": "2d286317c834dadceb15253e3e02ad59a631c137dd33d935dc0a2ceb5a164a0f",
+      "text": "Focus on user-facing behavior",
+      "hash": "49b6df34b228d6f4d6e0123678cac12ea2d110b45e15070a1d4b45b55f95489a"
+    },
+    {
+      "id": "445be2d8f061c26f7210c6d59a85e31b45b288f668ac43821920b2e5d5502a98",
+      "text": "Verify through external means (DB queries, call counts)",
+      "hash": "00db512ccd44ade026421cc3066c146653f32cd46c1722900a850f00529cad64"
+    },
+    {
+      "id": "5e9ab37a846768b04561af74f16745b27ef23f30c8a5cf28155b5dc3e44d8052",
+      "text": "In the skill, I found that using a planning phase before any code was written was extremely important. I decided to implement it using these questions:",
+      "hash": "d7423520274b39dcc3c3ed485ac63b6d1309d87b2b74fabe4226eedc051a8e3b"
+    },
+    {
+      "id": "98aff19c9b0d562eb936717a2a2e2c5044505d511710b3bfe8a69ceb790f1da2",
+      "text": "What interface changes are needed?",
+      "hash": "55460431952d048f76f9bb3ca9c4d599739cdb64178a0fc342303279f17623b7"
+    },
+    {
+      "id": "3db4a37c85ca47142dbee7a053bb8042f5c3ee3d1cfa5fb8c7db52bc744a79d9",
+      "text": "What functions, methods, or APIs are being added or modified?",
+      "hash": "5beda6bbe895dbac6a7ae73d68032284f2f0965edee70f14822caf856a0252c4"
+    },
+    {
+      "id": "85e5804a4c8a3ef6bdc0882e7d9fa9fc6cb87b2211257c30620eb1ba639c1228",
+      "text": "Which behaviors matter most?",
+      "hash": "c6374cd2c04d2023395b646ed8148c628995ed2a73391e381e4f64afab662572"
+    },
+    {
+      "id": "349e16c722a7cab311748b4a3f5b53be8f16e5bdb9d2c4b217089a2c45896434",
+      "text": "You can't test everything. Prioritize critical paths and complex logic over edge cases.",
+      "hash": "7e71d99f68a6d32cc0645821a8810fd0de1a8a2bc3844d8bc0ea58985e4a0cb2"
+    },
+    {
+      "id": "d38e2caa4cff35e03015e3f10205014b58362e1c9b6fda8c5bb1e3bd39f006fb",
+      "text": "Can we design for deep modules?",
+      "hash": "41c92aa97a45e518160a32ad955ecd56c3c9e1e29c6755d10a65f706b3a36db9"
+    },
+    {
+      "id": "9a25af9e27dfffbe77c984e487d0867bd047dbfd0c6b515e9dd5b0318ebe6499",
+      "text": "A deep module has a small interface but handles complex logic internally. This makes testing simpler and the API cleaner.",
+      "hash": "54b0552aa849dfa606af965305f4d9991f41b0cbdbcfae13b99ef96bf508390b"
+    },
+    {
+      "id": "5b3497ce8079a7dec1ab8cf8a2630e01f0224e0c0d1b291a245988efacabeea3",
+      "text": "Can we design for testability?",
+      "hash": "dd33765b444d3bf50777e83a79f9d9ffd8bb75bd9cd2c81cfa1f99a323b3b84d"
+    },
+    {
+      "id": "82880682be56dd6b8978347b7a8661241a0e4145233afeaa75f93693ea68d262",
+      "text": "Functions should accept dependencies rather than create them. They should return results instead of producing side effects.",
+      "hash": "2150e7cf5a91fa61644e7d7fb944702a2f56609110b00cf767aefab3b21d020c"
+    },
+    {
+      "id": "579f4f25c90391c0adc5b6f3f30a60f7c82043819636fc55402e13ff274efddc",
+      "text": "The better answers the user provided to these questions, the higher the code quality got.",
+      "hash": "3d1ce303574d018f45622c75e73661878448fe323dcf340b8e79757d93d936d9"
+    },
+    {
+      "id": "db065ff5eff164d8650ff707540643accc3025193b0cc13fcbcb414aac07267b",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "7016037dde0a3083b693527e787cf6e86c27f70883dfaba47995a0dee9f43574",
+      "text": "TDD is one. There are more.",
+      "hash": "0e7acd4f18b3a71eb449a32c70ee81c1eacd3ff62ac564ffea4494944e67effe"
+    },
+    {
+      "id": "e2c6575f7d258ec1cd8f4f0a3d2c7e4d96c748636575e993ed0300fc5e0caa4c",
+      "text": "The full skill set I run with Claude Code, day in and day out.",
+      "hash": "0ae1c9125d1a00f277f29779bd194b11a3619b18e18617d5379ad40532131093"
+    },
+    {
+      "id": "3154f14a4d9f7ef9f3d177eb6e88235c91a6cfe8a6cff5020dddd9506babc8d4",
+      "text": "See the skill set",
+      "hash": "dd46869b69c9555abcf3fefb4c764ae30e64692df2ec9a3359dea8d9ddef9b37"
+    },
+    {
+      "id": "a684f30b8881a6e46fa68f8b13cee60e4c2bb917abb3ec5e58a67d5d2dd7d1f5",
+      "text": "The skill isn't about perfect tests. It's about",
+      "hash": "197b7e4b4ea5a72899ade1a2a22fda063b40076b8f5477cd8bcf3c3409b513da"
+    },
+    {
+      "id": "15ca1aa8fc1e37b8c4e3f5c703c1c98ee0074a77043494a34dde1970c171d4fd",
+      "text": "honest tests through forced constraints",
+      "hash": "11c28be17c44601430e507fd4ad31af15b10cb7afa120843ca31a154052fbe84"
+    },
+    {
+      "id": "dd66e62e59c811486e76163236b5ffb7aaa858db36c35ee53c89d2cb426ed601",
+      "text": "By structuring Claude's work as one test, one implementation, repeat, you prevent it from:",
+      "hash": "82015ea2ea74dc9f123cd5dde58b25678b0bccf9e3b47d11c25a7ab0dc09e831"
+    },
+    {
+      "id": "1da978d6e7cf399041f5a67993d915b87aca618b0478e63daa0ce410d08dda49",
+      "text": "Writing imagined behavior instead of observed behavior",
+      "hash": "2bdde69957b26b478d0586b128271d65739cc57742447b65b59d4203aa2245a3"
+    },
+    {
+      "id": "b4ca5d8408708ae2eeef14d1847192eb66f1b7613155ec8ae471189e1e0ee9e0",
+      "text": "Mocking internals and faking test passes",
+      "hash": "609e18dfeebe36232fdca49a1c5cc98e01150263ea4e8536b092a6e1c561d411"
+    },
+    {
+      "id": "241d0f537b2bec3ba55553f5258965791a3471b786766c74f037c64962455875",
+      "text": "Over-engineering the solution upfront",
+      "hash": "580987aefab8fbedfa2109ade7618dec2c26f176424c9c2bc618780bddb22c98"
+    },
+    {
+      "id": "0da37530546e5a1c2297c60beb08d67a168640452305836fadd7ad5022b1a230",
+      "text": "Writing tests that are coupled to implementation details",
+      "hash": "85521317365f613603706624ef19fa05bcb0c4c3759eab8aba4b2197e1d74e1f"
+    },
+    {
+      "id": "2d60eed687a77a6334c445323cd66c9a7bd9815672baf958c1c81dc38d03f1f4",
+      "text": "The tests become trustworthy. You can delegate large parts of your work to Claude, not just code review but actual feature building, because you know the tests are honest.",
+      "hash": "657469165b7a5f970cf30bea4746da81624d14ced07e2a6c37b2762984b2df23"
+    },
+    {
+      "id": "bacec50ade9b7e12e9f76411fa0fe77fa0a40419eb2b207f4ed93839d5b0cf7a",
+      "text": "And when you can trust the tests, you can trust the code.",
+      "hash": "d79b0f8ceec13121abbf331bba471ade34592d45387a3bade42a2e71fa46b9b0"
+    },
+    {
+      "id": "5d222fc1408d5b6e5f2befb1b1f51b852dd835e06daad3bf43db703713ea06de",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "1954036f8da55514fc512326aa100803c542c8ab8c0c3c10a0251339d176b38f",
+      "text": "Honest tests do not rescue a vague task or an unchecked diff.",
+      "hash": "6eb2a3c90490823f8a52c2f82b232e900d79ec3be34ca1c81b9fb54ec543eb70"
+    },
+    {
+      "id": "98011c233610cf4b3bcdd5f4200268158f23bb39eb067da52241e298ede3eb9a",
+      "text": "Keep the test-first loop from this article. One command installs all 22 skills, and seven free lessons order the surrounding work from a clear task to a reviewed diff.",
+      "hash": "72c8fb22032fd820378d84c4aa202b9816cf40eb3181d262b86a516dffc030f2"
+    },
+    {
+      "id": "c39b3c2739ba26e347f0eef876962c5397f574853701c05fcc34ada745e87050",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "3ab35b83edcd8dd31d7a96ce48d8c55e15d31128b11e2dea5eab69e86d5caf3d",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "7b48503e541bd195badc2e33a13f53fae69fe9ad9473778206887dcfb1cea00b",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "f734aff5ccfaa5d6f94d1dcd6c906694fc8bb2a8905e794409007abb7795452b",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "dadb9bb7072a3b582f018c20e1a197f67a8786eee8f0cf3fe219aa56cf924f0c",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "3ee5f5866ccdad58486a29cc79125665fac1bebf22b6bcb6ada4b3cf13ad9778",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "66364a233abadcd2bd1c47d08aaba058154814e4066ffedb0de54b5bd90358e4",
+      "text": "Learn Anything With My /teach Skill",
+      "hash": "087e41020c045ab0508ad79621c0751b424f5d9af028b7d4f3dc64d9a8e0bd63"
+    },
+    {
+      "id": "03fb6cc54171ee29bbe7e56206dd650289c28009044b4d88385fe219a5746d8e",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b3cb2ab7aff101e2064c071645954ae2531ae4a25b4d593d6f4b388ff09765e6",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "effc6fdfa4e45ba3ca9cd2b50f5da6829d99adc5399b6b810e629efdd8587ed9",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "34b86aed3fd441a2ae9e09ff3dda6649acf1ed50e91e8a74ec08a5cf1ca096df",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "da252cdd3e0f5efd57aaa17458043ee99db158a1445780800dfd0f061a0bddbd",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "6fc8ff12ce2aad5cb5875b4181d59f7d2867904cec4f3be7e513ede1297f41c7",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "0128e704ff5bf26953dd2511213d1c55ff1f3547b9f49d2ac2fc16a65388b35b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "5e6506a51b936ab2728033f825def6a881c900d0251af5c3b2ece296c8072a72",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "5c429059d733fcc7e2611f5a53526460cf9c969766a78338d5832ff9a76a43cb",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "746cf0ef9df5f9d67fd25ea9c4e50bfc08deeac86020421131783f9c1b5044e7",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "1a44b92e4c41fa3b90bbac622fb00d8aafeb9963fc8fd62f5a911b8755731490",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "37cf74ce5f02eaa8c94de443b78adba08d394bfcb4df8009a117d63af1ba12ec",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "9f683698386f2951b9226a009736a0bd4f3ea7e3e75a264a3647e010d4a7933d",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "ad21c545672f33ebf761b76c11ee3d7d3a84fb097f5e256b2c5e92045c5d2221",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "08ee5ce11a7a19837b11fda029f5897375a95789a8c4788ec3b504215dc2e7ea",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f154fa4603b3ef9b8c51e6c4322d4c29c66214dc5a9b14be07da0cf4ab6f0378",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "b76085a258b709e3234ab255e9809030669d5ebe86fbee38f06b227bca38864b",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "634e67f3149d57268f9189f8f0eb96f2fbf567b1e5ecafa651a6a70964e7f92f",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"zq5wl0l1qp6p9b\"",
+  "lastModified": null
+}

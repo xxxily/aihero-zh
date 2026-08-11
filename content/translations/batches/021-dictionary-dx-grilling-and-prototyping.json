@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "AI Coding Dictionary：DX、Grilling、Prototyping 人工富文本译文",
+  "exact": {
+    "DX | AI Coding Dictionary": "开发者体验（DX）｜AI 编码词典",
+    "Grilling | AI Coding Dictionary": "深度追问｜AI 编码词典",
+    "Prototyping | AI Coding Dictionary": "原型设计｜AI 编码词典"
+  },
+  "routes": {
+    "/ai-coding-dictionary/subagent": {
+      "Skill": "技能"
+    },
+    "/ai-coding-dictionary/human-in-the-loop": {
+      "Subagent": "子智能体"
+    }
+  },
+  "blocks": {
+    "/ai-coding-dictionary/dx": {
+      "Developer experience — how easy a codebase and its toolchain make it for humans to do good work. Good DX is fast feedback, clear error messages, documentation that answers the question you actually have, and setup that works on the first try. The term long predates AI coding; it's in this dictionary mainly as the contrast for AX.": "DX 即开发者体验（Developer Experience），描述代码库及其工具链让人做好工作的难易程度。良好的 DX 包括快速反馈、清晰错误消息、能够回答实际问题的文档，以及一次设置即可正常工作的开发环境。这个术语早在 AI 编码出现前就已存在；它被收入本词典，主要是为了与 AX 形成对照。",
+      "DX is the interaction between the human and the codebase — nothing more. The main difference between the two audiences is that humans are stateful and agents are stateless. A human learns the codebase once and carries that knowledge into every day after, which is why poor DX is survivable: they route around slow CI by batching their pushes, around missing docs by asking in Slack once, around confusing structure by remembering where things live. The workarounds accumulate, and a team ends up productive in a codebase that fights them.": "DX 就是人与代码库之间的交互，仅此而已。两类使用者的主要区别在于：人是有状态的，而智能体是无状态的。人学习一次代码库后，可以把这份知识带到之后每一天，因此糟糕的 DX 仍然可以被克服：他们通过批量推送绕开缓慢 CI，通过在 Slack 问一次来绕开缺失文档，通过记住文件位置来绕开混乱结构。这些变通办法不断累积，团队最终仍能在一个处处与他们作对的代码库中保持生产力。",
+      "Agents face the same codebase with none of that accumulation. Stateless across sessions, an agent re-learns the codebase from scratch every time — it benefits from the fast test suite and the clear error messages, but anything it figured out yesterday is gone unless it was written into the environment, which the agent only perceives through tool results. That's the gap AX names: the parts of DX that survive when the developer is an agent, plus concerns humans don't have, like keeping the context window free.": "智能体面对同一个代码库时，却没有人类积累的那部分记忆。智能体跨会话无状态，每次都要从头重新学习代码库——它能从快速测试套件和清晰错误消息中受益，但昨天理解的任何内容都会消失，除非被写入<a href=\"/ai-coding-dictionary/environment\">环境</a>；而智能体只能通过工具结果感知环境。这就是 AX 所命名的缺口：当开发者变成智能体后，DX 中仍然有效的部分，再加上人类不需要面对的关注点，例如为上下文窗口保留空间。",
+      "The overlap means DX investment often improves AX for free — strict types, fast tests, and predictable structure help both. The divergence means it doesn't always: a beautiful onboarding doc helps a human for a week and an agent not at all unless it's reachable from AGENTS.md.": "两者的重叠意味着，投入 DX 往往也会顺带改善 AX——严格类型、快速测试和可预测结构对双方都有帮助。但两者的分歧也意味着这种改善并非总会发生：一份精美的入门文档可以帮助人类一周，却完全帮助不了智能体，除非它能从 AGENTS.md 被发现和读取。",
+      "Usage:": "<em>用法：</em>",
+      "\"Our DX is fine — new hires are productive in a week.\"": "“我们的 DX 不错——新人一周内就能开始产出。”",
+      "\"Productive because someone sits with them for that week. The agent doesn't get that week; check the AX separately.\"": "“那是因为有人陪他们过了这一周。智能体没有这一周的适应期，要单独检查 AX。”"
+    },
+    "/ai-coding-dictionary/grilling": {
+      "A technique for developing a design concept with an agent: the agent interviews the user Socratically, one decision at a time, proposing a recommended answer for each. Slows the rush to a finished plan — no handoff artifact is written until the concept stabilises.": "深度追问是一种与<a href=\"/ai-coding-dictionary/agent\">智能体</a>共同发展设计概念的技术：智能体以苏格拉底式方式访谈用户，一次只处理一个决策，并为每个决策提出推荐答案。它会放慢急于完成计划的节奏——只有设计概念稳定下来后，才会写入<a href=\"/ai-coding-dictionary/handoff-artifact\">交接产物</a>。",
+      "The technique exists because agents fill gaps silently. Asked to write a spec from a two-line prompt, the agent doesn't stop at the decisions you haven't made — it picks defaults and writes them in. The result looks complete, and the guesses are indistinguishable from the choices, so you discover them late: at review, or when the built feature handles an edge case in a way you never chose. Grilling inverts this — instead of guessing, the agent has to ask.": "这项技术之所以存在，是因为智能体会默默填补空白。当你让它根据两行提示词编写<a href=\"/ai-coding-dictionary/spec\">规格说明</a>时，它不会停在尚未作出的决策前，而是自行选择默认值并写进去。结果看似完整，猜测与真正选择难以区分，于是你往往很晚才发现——可能是在审查时，也可能是在已构建功能处理某个你从未选择的边界情况时。深度追问将这一过程反转：智能体不再猜，而是必须提问。",
+      "It's a human-in-the-loop technique: your answers are the input. When a question can't be answered in conversation — you'd have to see the thing — switch to prototyping.": "这是一种人工介入技术：你的回答就是输入。当某个问题无法通过对话回答——你必须亲眼看到产物——就切换到<a href=\"/ai-coding-dictionary/prototyping\">原型设计</a>。",
+      "Usage:": "<em>用法：</em>",
+      "\"It went straight to writing the spec and got the cancellation logic wrong.\"": "“它直接开始写规格说明，把取消逻辑做错了。”",
+      "\"Grill it first — make it ask you about partial cancels, refunds, and timing before it commits anything to the doc. Cheaper to resolve in conversation than in code.\"": "“先让它进行深度追问——在把任何内容写进文档前，让它询问部分取消、退款和时序。通过对话解决问题，比写进代码后再返工便宜。”"
+    },
+    "/ai-coding-dictionary/prototyping": {
+      "Having the agent build a quick, rough version of something, for when conversation is too low-fidelity and you need a real artifact to talk about.": "原型设计是让<a href=\"/ai-coding-dictionary/agent\">智能体</a>快速构建某个事物的粗略版本，适用于对话保真度太低、需要一个真实产物作为讨论对象的情况。",
+      "Grilling resolves design decisions in conversation. Conversation is cheap, but it's low-fidelity: some questions can't be answered in words — how an interaction feels, whether an API shape is ergonomic in real calling code, whether the layout works at real data sizes. The interview hits a question and your honest answer is \"I don't know, I'd have to see it.\" Past that point the discussion circles. Instead, have the agent build the thing, look at it, and come back to the conversation with an answer.": "深度追问通过对话解决设计决策。对话成本低，但保真度也低：有些问题无法用语言回答——交互体验如何、某种 API 形状在真实调用代码中是否顺手、布局在真实数据量下是否可行。访谈遇到这类问题时，你的诚实回答是“我不知道，得亲眼看看”。继续讨论只会原地打转。此时不如让智能体把东西构建出来，亲自观察，再带着答案回到对话中。",
+      "Agents lower the cost of building, which is what makes this practical. A rough version that used to take a day to mock up now takes minutes, so it's worth doing routinely. It's a human-in-the-loop technique: the prototype is there for you to react to.": "智能体降低了构建成本，这正是原型设计切实可行的原因。过去需要一天制作的粗略版本，现在几分钟就能完成，因此值得把它作为常规步骤。它是一种人工介入技术：原型的存在就是为了让你作出反应。",
+      "You usually don't stop at one look. Iterate with the prototype — react, ask for a change, react again — so each round resolves another decision against the real artifact, at a higher fidelity than conversation allows.": "通常不会看一眼就结束。围绕原型反复迭代——观察、要求修改、再次观察——让每一轮都以真实产物为依据解决一个新的决策，获得高于纯对话的保真度。",
+      "A prototype doesn't have to be all-scrappy. You can build the pieces you're actually evaluating to production quality, so when the decision lands, the component or API you reacted to can transfer into the real codebase. This makes prototyping essential material for the spec to reference.": "原型不必处处粗糙。你可以把真正需要评估的部分直接构建到生产质量，这样决策确定后，你反馈过的组件或 API 就能迁移进真实代码库。这也使原型成为规格说明需要引用的重要材料。",
+      "Usage:": "<em>用法：</em>",
+      "\"We've spent half an hour arguing about whether the wizard should be one page or three steps.\"": "“我们已经花了半小时争论向导应该是一页，还是分成三步。”",
+      "\"Words won't settle it — have the agent prototype both. We'll click through them and know in five minutes.\"": "“靠文字解决不了——让智能体把两种方案都做成原型。我们实际点一遍，五分钟就知道答案。”"
+    }
+  }
+}

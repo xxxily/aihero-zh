@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/smart-zone",
+  "pathname": "/ai-coding-dictionary/smart-zone",
+  "fetchedAt": "2026-08-11T06:28:36.752Z",
+  "title": "Smart zone | AI Coding Dictionary",
+  "contentHash": "e179a0df4d7e67d5f7afb7586198aa41ca387abeb58efc64bd930f55d7fc65d5",
+  "textHash": "d642940116ccb76adf5ca41a6e100b06938815490396d52c0049b4358f4d1d82",
+  "strings": [
+    {
+      "id": "741383f6f19a07ad2851ac075273c2a0f6d74b8f57034d7606d51274efd1a22f",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "18fc9f8d0beb3938f2a17ad753f0a8796d314ac48bb1f173662905ff113ea9b7",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "152a31f237c393728bd7c1b3cf69c5a31357241d5f91ac551b336d293e955f8e",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "3e3b56b253460f5d2075c724350ae4ee1f896fcb64755500d5e67a6ccf3a56c4",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "80d02a07c499e7ced5841d6a62eb50c5c3f698073a5a2753710108494f64fc2f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "587ca9d584c66c57d3afc583349e16601787f415b0ca85c652079305edf0a474",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "f7b1636eda4939bf9b5aadf50361a48cf6657be3a9a749de5b9de7e868317aa4",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "ef880b3612ddae5aa5ba20f786ed578d8d3002f96e07815ff41c473301cd5b41",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "e6a03a9707f86dd4e8302d70195e9884d7aa71ab2eb16e30e414e965e3fe7198",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "4e85115a333e13efef96d863dd5a71c6dccfa031f4a0b475a425017b75c48e15",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "de1e650144e2cb13f036cfeddd6ecb82c1ce6c5957b4022fbc91dbcaddff4fa5",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "31e2c8f9d02931a2f4496bd6593dc7d103fd13a2f03e1654ff56658031ad1d7d",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "504da0f7192ef9286c631ed934f5e7e7d35a628d95af3624a01ca5b980362e8e",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "7eac5b88d3d50c4f6d2f32e8ea496770b7df34407143c9b3d1407938e9d3231e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "26e7953733e1974d25e1fa063bcb1d40a50fa6ddf7b60bcfa95b1e9f06c74967",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "362dba6ce434b2a31c0951c760bd81326add2fb207dbe589a6cec3da358a18b4",
+      "text": "Smart zone",
+      "hash": "1d6692e2d3e60ff1a5113a02cc9524ca6a226f294b75c980767702844a9240ee"
+    },
+    {
+      "id": "89e1ef42e57cbfec62aa755e9f690f0de509b329f46e58db3ac6513e04e8918a",
+      "text": "Early in a session the agent is sharp and focused. As the session grows it drifts into a dumb zone: sloppier, forgetful, more mistakes.",
+      "hash": "2b165fb0afa5e63c6f16ad81527be0d7a3b8b7767ba8b222b81023030c5e4ae3"
+    },
+    {
+      "id": "dc11f30902cc11c0ab01aa6d411e32833aba763a92f0440298583ebbe3b3f399",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "f59c771cad11a254062c44390f631cda4b06595845f9098070457623ecb9f0c0",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "78d54aa7ed2797454df7e41d8c6e77b5bd0ff606976de6cb4ff8218d5531f567",
+      "text": "Early in a",
+      "hash": "cb1f26d4097491cf89e69a46c51f4d315948b1ec6bd6a33941441ac93c8ea68c"
+    },
+    {
+      "id": "4933bb4466eed1fdd8fafc4b9d4bfdfac7f8109affeb0536af4fa4cb45a9655e",
+      "text": "is in a \"smart zone\" — sharp, focused, recall is good. As the session grows it drifts into a \"dumb zone\": sloppier, forgetful, more mistakes — and more faithfulness",
+      "hash": "8d2a1f439ac6a0bb83349891bd829454d267df47bcbd8e3b4cd86733c71542ae"
+    },
+    {
+      "id": "3e5470ffaecd2293769191c5d28d3f73622570b2189246e64318b11b35d42007",
+      "text": ". Same",
+      "hash": "ec8ae692b770843c90e75d91dbded2def2df357c9b3a8fed19749e600c1f61b7"
+    },
+    {
+      "id": "d6cb1c6bb193b2c030ed884e1281274721b62b8472763d9a756d08469dcd33bc",
+      "text": ", same",
+      "hash": "8cd0e690b9495085fdfcb2e08e72b1bfe0e3257c2daf868c2ca49ee891f61fdd"
+    },
+    {
+      "id": "c664f80ccd98941c782b788bc0031a32234dfe9e3bf78278cee27e1b1f600694",
+      "text": "— just more",
+      "hash": "103f977612654dffc5bb3170e109339cef09cfd9e5d4617d9032f8eb9126958e"
+    },
+    {
+      "id": "2be83676e6fb31e7f8acc3b6c1b8be539095f5d29ae2c9b2834931305b36e1e1",
+      "text": ". The felt effect of",
+      "hash": "08a3f4b17e2a722b98405314434169145d00fb715e505d5f7374a1a82b2f73aa"
+    },
+    {
+      "id": "65ad6f170f640a68149d92b5eb090649c6784c13143a67a8f2bfabe9540d3742",
+      "text": "attention degradation",
+      "hash": "79e5ddec1498a24115fe8cb565695632f5d9c71beafb43cd0a04d319ef44230f"
+    },
+    {
+      "id": "0585208835f3578e850abf03db17e09de879b9c1b437674817377d4e92327915",
+      "text": ". On frontier models, the dumb zone commonly begins around 125K-150K",
+      "hash": "769732ffd7ffee03dfa824f9bd5ca56c0299fbfa9b726a7d648405abaf6dae1b"
+    },
+    {
+      "id": "46a10ad7010df04955994bb5d2ff73638bb61695240f1e2f0d6774c28526d30f",
+      "text": "— though this is debated.",
+      "hash": "5051806f2d0475475bcc15c4ff2afe84b42a71a0be5377ddc8dd2871486465f0"
+    },
+    {
+      "id": "c10aedd597935287b4dcefb9c467cc20e1be264231ecc0d6a88a11ed4b3950e7",
+      "text": "Clear",
+      "hash": "83b12c2216efb4fdc924e1deb5182e905e4926ed0c1c324d467107f46d5a26a9"
+    },
+    {
+      "id": "1a102916e1ccab7ad2b5eef5a8c8a093bf463c8b6336ca3678a23392e7500dfb",
+      "text": "when the session bloats; don't push through.",
+      "hash": "87d920daf00102eb3f7766c107332be5b0bc7351ba62e93986c88928f5685afd"
+    },
+    {
+      "id": "a133f19f2537229c52dbcb083eca7968db6e76b01c43cc84f9827d716005514d",
+      "text": "The decline is gradual, which makes it easy to miss. There's no error message and no visible boundary; the agent just starts performing slightly worse, then noticeably worse. Common signs: it forgets an instruction you gave twenty turns ago, repeats a mistake it had already corrected, or confidently asserts something the context contradicts. Because the slide is smooth, the usual response is to push through and re-explain — which adds more context and makes the problem worse.",
+      "hash": "dff5b080936624a7fad03a016e55f0d0bc041fd3f2a7543203d153688d5e816c"
+    },
+    {
+      "id": "0c3b9ce5277d062cffff535ee1982b2b6872b3efaceacb56046ec456f0b41cab",
+      "text": "The zones don't track the",
+      "hash": "a48a268d63d7517a5885f6ccec5cff2ef9f671082d7a44991ff5b93d5263460c"
+    },
+    {
+      "id": "dfe01ad3149492a28b1c8e08de9cdbf001566ff135903925262f199c203c182d",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "ce9e131524af24ed2d6d1fc92879bc8ef3ea6ddc15b5e9a7652a4618c4db1842",
+      "text": "limit. A session can be deep in the dumb zone with most of the window still free: the limit is where the harness refuses to continue, but quality falls off long before that. Plan around the smart zone, not the window — the practical budget for a task is the tokens the agent works well within, not the tokens it can technically hold.",
+      "hash": "9656c1926ff36fbab7caf0a0472b0fc0faf6932ec91d52ac48072ed97203855c"
+    },
+    {
+      "id": "4faf621b8153bffea3780a1319d4f2ea31b2a743a33b2ed6470c0eb307aebfc3",
+      "text": "The smart zone is a budget, and unrelated work spends it. Every task done in a session uses up tokens, so starting a second task in the same session means starting it closer to the dumb zone. Doing one task per session gives each task the sharpest part of the session. When a single task is bigger than one smart zone, split it:",
+      "hash": "95d10f3d3c868f6ea044a06f7cd094a2b3ebd73ba3b80502bcd5d6408e1d5d71"
+    },
+    {
+      "id": "9fadec64947bd196726b1b08523a8ba5f735764fa3146c506db322a650fe3711",
+      "text": "hand off",
+      "hash": "788b26357616f05b942de01ef730af4ca32e9af141783ec6be65e812ed323ec3"
+    },
+    {
+      "id": "8c7d797d09e8f1c950d1702b263e2db3bdf751d71bc024afa66a9ede7b328daf",
+      "text": "or compact at a natural boundary, and let a fresh session do the next piece.",
+      "hash": "b1f3e31ed8e4d881a43eec2b92477200931f88a3d0ff580388a97056d96731bb"
+    },
+    {
+      "id": "1bf9fa10ce3a41b56e0383ef7e7fd16a7b91ecbf127e685875c7f1912ec9d327",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "a34286935304f2580c63fcf8d7bfe0a0aa69ad4447bb02a0fbf978dac6241f4d",
+      "text": "\"It nailed the first three components and just butchered the fourth.\"",
+      "hash": "16110e944dd01856a61edd0e893199e7979098a7a229369a530c08821f9bc40d"
+    },
+    {
+      "id": "dcf2f23fc49c75167b671dfd87b74ea86bfc3be9b8d38df8426d9ebc758d7a58",
+      "text": "\"You're out of the smart zone — same model, just deep into the dumb zone now. Compact and reload the plan, the next component will land.\"",
+      "hash": "aac502b49d8ceb9e1dc6326b7f7e889720d297c91e97d5a8e849d4b729266ffd"
+    },
+    {
+      "id": "83bfbb49a2c6a79f09fb631a0e145a1a8a8f64cab528c6621f095222b1b96c03",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "e1a3212101b24b5142d4cc49a54e7682aad696b1e8829c5f9e3920d0578c3095",
+      "text": "Attention degradation",
+      "hash": "892a19ca52d75c31194b0b4d50bdbdc67fcce95b1420c662633dbdda562252f7"
+    },
+    {
+      "id": "9d99ce836f582142a42c8d6c5b310c64aba3fcad18be318cd78c00105a05c270",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "fb08f1bf78a4ae4d66ecc051f9c7c758a673744aeab5a169390cdbc90dd245e2",
+      "text": "Clearing",
+      "hash": "06648760a765043c7be785f4e63ebea0fd0dcd056d36d53d153208749e757840"
+    },
+    {
+      "id": "df6959a6a1964529ab2879400016f34784c669c8ab9edc81b14ba7fa3127e82f",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "9f0cacbd15d11608cff6a92932db922d6e1b82e4970ff1c9ae3bfb359ba9457a",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "ffa4b9a979586396169502fade540262535a6c0c80c3a494eb0563a6ddd0b57e",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "8c37d045c8f24c4fbc68aaaaa01b4f5bef0416d9ecbd50570aeedad3ac852d0d",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "447ccc02380fd35c8ab127494a5c919ddf945f12afd18aadcc9a18aee816319c",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "351f02974c22e9a17a8faa89597f59c61d7bc9c0a1c2d2d64d061719c9fc5df2",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "eb8c5eb52a2111b8b9d788532032c6c7d019262ebe5a25f31cfd66ccb60cc922",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "16f25d645884362d6af3350520597eae846fc41fd55759a1c41bbb93f27bb095",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "c84b25d41cbb08e84a2f6f63da52417454bb7ce1afd4b89a37286f7a14d060de",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "a52af3ca361e384849087030d9ccbfa3f2f47becea209518f7b1ae64ff507148",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "877b0706dfbdec93cd7b4f686f941920bfb861a33eccbe6b0c576527e5c417f9",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "06057fd914d13e184570e8011e6634b3c96dad88e025caae33941094a87c4dfe",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "717f98615a7f98eaebae132e3a37aebe8051152ebf1681a000bded677856c5d7",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "589ca3bdc62bf0ed7d40c9ff933727b200b36ef638dc4ec5356afddac9401066",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "1d74f970f985e14166dfbe8d5e73b23b5b8d3f4f0314c1f8928669abe9e0de6e",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "6e582da92a8dfc5bf590a3cd53f9e7a737b0100e90e2ef91155b3afe7d82f3fd",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "6187c482a27c25558146b6ec1aa6edfc7a59a4964316bd5bd6da25cc7e2ba163",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "92c9b5b72d501f5a3e8149f6222d8cf8067ce008f0a3f649395c1b6e3221f23a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "6832b9400c5226b9b12b0fb765663aa86abb0a0bee42fe4e8e901036b27ba648",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "ecacb18a57853d7019b0917c96c888ac41aec49b177fe8b1f1fe2337fe7787c4",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "f02a4cdac6ac9be75d080511001e6279b054ba1d85346ddaa62a8d2b4f281a8f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "0b970f61535232bc4eda9880f39b2e6377318a5e42d2399759ef046c1a878b15",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "74ea055686034825e680a343f48840e7234a915da71eb1d8925b81b843e05fd4",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8c0ef712b7d44bb8022f3c054df72900fc63e932971e3889121a8e90f5ea2815",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "9c6ada4b1d79b34f17107d9b72fa7d15a2db7c99909959923574403de42cfb17",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "7442d87dfe8ab089d8cbf96afb09dacf66d3f026a6be50490d1d0efeebe4dd6b",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"117zuq67j754sfd\"",
+  "lastModified": null
+}

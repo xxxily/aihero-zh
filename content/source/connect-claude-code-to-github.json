@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/connect-claude-code-to-github",
+  "pathname": "/connect-claude-code-to-github",
+  "fetchedAt": "2026-08-11T06:28:18.784Z",
+  "title": "Connect Claude Code To A GitHub MCP Server",
+  "contentHash": "36c3a8980d4721a0b01e80fc413365be59d177ab0811b4d1214bdf4cb8158e5c",
+  "textHash": "97c4b58068f8be4127cba28acf6f4c5d56e99b400e429551c610499b8b7d335e",
+  "strings": [
+    {
+      "id": "84c49895dddc55ca8f19cbe466ad56c524450241d74484ccb74c117be9fb848a",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "b769692e693976cdaa0afb49739d96e80f6a56e00c9950c8b72e4bf3bfffc459",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "92c833a5c17980ecd48a4771e17a391284d984d90c4fd5ec3415622b8cd6f48a",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f740fada995f7f230ed760de2ecf21362c18438f9f77fca0f87a5f8cf8227833",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "bb95cc7fc9d9cedde1e2e98fbe7c26c250ba76ca8c42847bbea52320d57e6ce2",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "0254fca93179180e31ae3c3a4b27682179bfb2474fd55d9f57b1a46ff99cea5a",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "c06a0d16ea7dac844f78001cd202af57b8924a3703bdf1d07c50edaf1afde24c",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "3f80c429023b36407fd8ce1dd2d8d41eae1fcad552b044014c6c81f864d279b8",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "e51a0a63dd8c18dfb1f9988ec4322585b5472c71e4f6429a69bff2363d9aab1a",
+      "text": "Serving MCP Servers Over stdout",
+      "hash": "25fd77f0ed62722c9ebc1bea2143243eca855a07217ce8cdf9fe14f317658187"
+    },
+    {
+      "id": "0fc6dd8c03c9ac4b552ba2fac0bbb625c2a62d16a6bab4a73218acf49c2978ba",
+      "text": "Using MCP Prompts",
+      "hash": "7c27287a9bb5f13bc627cbb86ce2480b2564ada25cbf34e9030283a66b8a0388"
+    },
+    {
+      "id": "4d905151063ee09e23f7f46cf34bb5f8056c0fb35a9a8f502c03ff6cc3c1fafa",
+      "text": "Logging: A Huge MCP Footgun",
+      "hash": "ed10f197b09f511d16fedb38fb5e1f9c6bd89bbbebe5b9b34c2eb69534042bac"
+    },
+    {
+      "id": "de1d87ec6fe5b411149cfbd068a1c6a5ca2ed869c33bd119fbb1f084192ed290",
+      "text": "The Problem With MCP: Stateful Servers",
+      "hash": "06a1a0242df637f6bf20ceeb13ed3c8117a8ce1204c5cbf69948f94c862109b7"
+    },
+    {
+      "id": "1749d51e97562849295a2697c536ea1f1ec9a0c24fd9f0d8f722eab8c9610c91",
+      "text": "Publish Your MCP Server To NPM",
+      "hash": "8ed49330be235e3c82d55ffcfa048a51b21cba0ab8c181ae74b7bfd44e246847"
+    },
+    {
+      "id": "30c7b6a8b948358d0e23935706b3623c3c562afd4ed545bb122b8cba8e304415",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "7ef4af9fba0e8b2153aa4f7c5a73cf5b3d28c8b837bbdcb1535ba5b0f27cae56",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "ddb2e9521adffd25fd6d85ff6d7a1c56e4f9b052bae6b7f4186eeb2ad2a6552b",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "9a6090660096d89208d7713299a26c2c8615fda4102f2b79b897a761cc8f9f5e",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "8f2404e0bbf05579bea1d21239be91c1ab9c8e9ae4d460191eda8f6bdc63bb46",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "b393812565d27032497ce1eba1992264c6416cf487503ead7f6e3a7bb09c2c37",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "984e6f374ad00e7cd1827d668c1282cc167c4c3fe7c67a846b6496e9f49ced13",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "f59aa9d2e26facc4d9e2cdeb41a863982b153492cde8a7117524fd4e88fc64d1",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "e763e00632f655d41d46a1cc9181ce3d50fa5fa6c7c1361c24a64bcef01f4043",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "7d6412280c0ea02035ab9ad879aaed12de839ce7c952b8b567dfae7c1e9d95a3",
+      "text": "01 / 06",
+      "hash": "ee3034eb9550d0d9bf941d63906d7ca33ae745dab80458e8a932c0dfc76d27b2"
+    },
+    {
+      "id": "1316ee1566a6ababb2e464dcd0f2daeb57f5b65a468fbe4a388cb714d0677d74",
+      "text": "Boost Claude Code with GitHub MCP! Discover how developers can seamlessly modify codebases using this powerful terminal app integration.",
+      "hash": "e544ea1b32d1dea7b394284f7490118bd475199f5f14206a9979794ce8f04823"
+    },
+    {
+      "id": "57cc81dedd0c12bdfaef7a9d7b0c43b286f1e7ab791f0f569b0e95bae9342588",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "bcede1c2a3f243017519bd55755a2ffaff020233cc4ec5481109d5d589f48003",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "4b164711552d3827df964b55680019b3c280569467c7ce7eb3dfa49b65a1c8b9",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "895eaa3b1efd4ddaf2fed31e94edb620389449ce18de205f288f94f3bc746fa1",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a1070b87c88cb96dd7482743db97e79d88b53230100c2fef2b5d0e1d44dc1c43",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "6c9e43e183f476ee4b4720681d150368f5180554c61a5a8b09d3f642dfefd2f7",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "4d2d7bb7af12dac690878da0b55fad5a65a24ca67874f4c4d36cf36e5615d68c",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "2f2ff9110deefee826d38bd8d737248c90eaaf0f727b6cfda7b6e3a4cb492721",
+      "text": "Before we get into the abstract details about what MCP is, let's take a look at it working.",
+      "hash": "90dea5a236fdc490a3be313cdf83393315f2dcae87818180a4c44dc014dde0b6"
+    },
+    {
+      "id": "9e8ea229ebae7e8c85c735db1b8ee6bf7fec699a6d3dd88e309d7d1ec04c9444",
+      "text": "I'm a developer and my audience is mostly developers, so let's look at a developer use case.",
+      "hash": "f04698e7b5ba0b389c9079f8e178f7c701e95b8d50fcf58361e1d61155993f3b"
+    },
+    {
+      "id": "8c34a2d6a2dbafd1b6810b925f6843b9dba1f56f46feb99b7e0e2c8519fbd0ad",
+      "text": "Let's connect up a GitHub MCP server to Claude Code. Claude Code is a really powerful terminal app for using an LLM to modify a codebase.",
+      "hash": "b7597917cc63873b76d3ba23ba2b3a1cee4924bd90fa2e3f7fe85852d4e99ae7"
+    },
+    {
+      "id": "69e99a90dfa857a7006c8808f62f66aa871f3af81a99ab463824c195c141db29",
+      "text": "I'll walk through the whole demo in the video above, but here are the steps I followed:",
+      "hash": "7dc255eac9d75306567fe51928ea39c658f160e6b870a7b96637a32b97ef9016"
+    },
+    {
+      "id": "b1635e49c934f1322c962f33233d2e6c5c2757508946782feb23050211e66656",
+      "text": "Install",
+      "hash": "569ca49f4aaf7846e952c1d4aeca72febd0b79fa1c4f9db08fd3127551218572"
+    },
+    {
+      "id": "18e9eca2034bfa1ffddf4ce85be2a4646d802054290afaf6b47bb22febcf7f8d",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "4b1b868efc54a6ceb41e3a5a89d6e3dea5c64e666ccfd05bac2d5942b3c45054",
+      "text": "Get a",
+      "hash": "81726df1d0bf4b89e235d2b2f798f8088c87535949d720fc982a984d8da36886"
+    },
+    {
+      "id": "a787e5f109553a979b5c211f135d5180c6805448e729233567de74d1f88bf17b",
+      "text": "GitHub API Key",
+      "hash": "b2b7cf3acbedee24a5e80abfdefe46d5dd3cc277ddeb2720e4a496320c6e61ec"
+    },
+    {
+      "id": "834c79fc165e2545b32eb38341147021a7831d0e889c3950a42b9fe5e6e6ad7e",
+      "text": "and copy it into my clipboard.",
+      "hash": "8cbcca1934b062030f0867fe87c32bcbde6eefaa69eb63b64dde0c1b80293e28"
+    },
+    {
+      "id": "aa22d92d4ed9f77343def91afe71b02811cfa686e450f7c7debc7f9a4a13aa2a",
+      "text": "Run this command:",
+      "hash": "6b54cfc8e4ad979d4b11f9097d03570955445d7cf090ecb780bc99037e14f061"
+    },
+    {
+      "id": "32b0d59a17fdad4708d308f2700c0911a3210c633b1110ba1c806179513d21b4",
+      "text": "Add",
+      "hash": "9fd728c66c9a256b121472dabf32a34317aed01d8427d70ec830289cf23a7cc8"
+    },
+    {
+      "id": "46c72316531e6c7de0cd13d222c7965cdd08dfd7c37d275b532a0e1b14baeb7b",
+      "text": "as the name of the MCP server.",
+      "hash": "d51cef341c2f8f4b358c49146bad012a6dc1bfc3c0eddc73d5994995d1313546"
+    },
+    {
+      "id": "d627c94d4fe4fbd08327f3e0070af97a871e17dd937a25ed4ead207d049acb56",
+      "text": "Scope it to the project.",
+      "hash": "dcab49482a4635b3ede639c4c5ef02841c42d5beee066db202a5b5604577f25b"
+    },
+    {
+      "id": "2aa19a3fbb39f79b76ebde9f2cf25bc4d2108823df25b649192262adc29803a8",
+      "text": "as the command.",
+      "hash": "fa620e5a26ab251523b6eee4a927707308fb0160f01788b49dba8107c0f20eca"
+    },
+    {
+      "id": "bea4b05223b6c7805c0063d64df9a4be682b0457bec3d035b6090e30f39f1077",
+      "text": "as the args.",
+      "hash": "a5aca503e9060236d4d01315f8540f6304b83ecedaaeaa54fd1a80a0c97f0314"
+    },
+    {
+      "id": "1b8e964899ae4c55c9d10f005a6241b01feb5a20b9d02e4012f4bb672a5faf9e",
+      "text": "for the env.",
+      "hash": "1397ee1ebf894ad29001896fc6c8630d7238c0f1defe81ba33354eba8f77fdfa"
+    },
+    {
+      "id": "69f63c39ab11eaf29b7df786a882e7c7692fce522ba75e6eceefdb74b2f4c4ab",
+      "text": "Your MCP server should now be ready to use.",
+      "hash": "8831bc44e19c72acc240f2affb02d1e56c3cf08b9bdbb1fdd728d808c92eefc9"
+    },
+    {
+      "id": "5716a0205c53494fbba60e6019e8fd4eea8498f7d8c25d50bf1f12946b4eeaf9",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "03619695d3c7282229bfe5a5d15705580181d15f481e8f5a80190460a4e0b432",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "fdf8ebd851072db5f7cf3820e7d68292c62c7b35d81d1a071c93ccc97ff5bd42",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "42ba799e8bfecaca293e00a0c260054b3232149080dce9c7b1da3c02bbc6437a",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "6d21c66eee5e48812196affd0a67af2788f2e40aef240fdbe53e9291fe9ed83d",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "ebc89255239e7c79e1f67bac887bd0dd4a4a9d668a5d06c39e031ef1c34c016f",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "7f89c69eae37f91f26f82ae7517b29d9aa54d65194bd8467f61779bf69a55552",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "1fc61308761d556e770f15e3320dd4edd6f6466daf9a1d77994cbd7eab3f44d3",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "1a26249b81b82b955e0f2609d10baf96d7b38e2c11ffa8d72e64fe72446501c7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "86cfb93f5030f5eded4d99acd066e10aee68b90bbc5086259c951685edee5e40",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "75964e2f76a4e99938b63c39a1d9160140756b957b2e00a704c8e29b631f01d7",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "b2c9eb0a6d6d5b4b915c333d95e3ffe111471ee634ca45f8b32d844d8a66d567",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "d29f1eee64a8c05d7bfafca4c89dce8712b79a5d279f7edfcc677321347c9f2b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "a667bbcd282c6b5266f774f1c72030d44aba7d98dbee2ef50573ba735ecab6f8",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f0e484d5c6a0998ec6b276207bfb3793f0acf5b72418b7097b6665f89216f63f",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6e49e6516f3870d74859d3567b800397bd9feeb7cca13f8804a7d70a50d1ca4a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "8e6fa1d70d26b6c439b350861a8090928ce85873f355c75345e5b0da687f6c88",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "18a75b82c97b8727ee09e898872cbf5e368537244fd9a8f3fb7ce9617d7edca2",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "a0373df5dc7b76e1f5e82f3fdb76dfe5208b901b3cf0d3d14d67b692876e82d8",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "6813ff56fcf33e7f0d2f6f0dad35114b9ea0943def52543920f3c0b9f3b1e8f5",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "42b3edf19096480fcb5ad85edb19311ef0c98bd54026b5d82278c07aad8d8a5f",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "b13971b91c68f7767c61dcf6dd718fbb1878b12d3c73a10e84b0147ed7f63b97",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "c889ba0c670f5723639ddc7a876049a94ef9aaa186ea0a51885c2186f9c8f1f5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "f803452de54736518b28bdbac653083a1b1b21c084efb58ffa0f6fed4e37c398",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"164t2aysotj5db4\"",
+  "lastModified": null
+}

@@ -1,0 +1,748 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/posts",
+  "pathname": "/posts",
+  "fetchedAt": "2026-08-11T06:28:45.724Z",
+  "title": "AI Engineering Posts by Matt Pocock",
+  "contentHash": "107c3efc060c073366a0534189dbaa2bf712d6586adc8e448e826cb367339bae",
+  "textHash": "c299b5fd34d3558cea310ce4d91c515b153840fe3fdd785f34e6b93c6af9153f",
+  "strings": [
+    {
+      "id": "3f471c3f4a6fb721d1348420855bd6cee2b4ecd0d48c0b8b03794ed583c671de",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "95d4744d8a7be35a1f556fbb605e8f2a96b0bf75b9d75470af2f29028b0d1c8c",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "0c18ec4c828aa7ea8e1eca0b4f86462664431d0a986356e5a5684992ba2194ab",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "bfc3ba18196d93c35ce6bfe3afd5b183ec209656afd35eee6ad257babd067e0b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "3a1f746650dac9654e2a47caa1cb9765e094d5a7b6c20bed8d73b4ac787fb93e",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "0602e60fc61c514ff492bac8035a6adc37b0be84db0bdd5607da713c2c100646",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "803af7a0c9b1227205e06c7677647cddd5e4b2d7c3222aeebca82e7e56051832",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "02f137323901e90ee3598a6d1585d38f92ade7bd18ce02a58b48bc4906e26da2",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "3417dc2518597628c6318d6466fbaeae9d326e4b66c5301336746d931fd1cf6a",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "4253d2e062bd3b39b3b735e7a60cbce9437ab57fb89315442d718282aef92fda",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "9d911b400ba805b69e9b5eaa54cbd6269232302b260d1390549e762776fe017c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "9bdab6af03ec5cb6774157237e13027be6cfb4e4589f624509f08d44748cf05e",
+      "text": "All posts",
+      "hash": "3a2e5c2c34923fd59378b934af83e64a872ef512e6dd42d647094e19df08b6a3"
+    },
+    {
+      "id": "c871affbf3ed80b8056255aac50733c7f7141509df1900183016a76103bc6ae7",
+      "text": "Type...",
+      "hash": "81018e322b6da40c8c005b752250054b49134c4482534deb275f8915dca6a490"
+    },
+    {
+      "id": "4a7586ff6ca8d006a2cf8026cdbbf74d458b1886fa21b0624e1664f972c542d4",
+      "text": "Newest first",
+      "hash": "ffb6f5764bddb68c49177c75a9b4a9638878f862bd5d3b1375b8eb1d40538e15"
+    },
+    {
+      "id": "ff7b4414a53144ab170d1b20abacd6c7e6b1922f7e9137a176cb23c2b7547a79",
+      "text": "RSS",
+      "hash": "3bcf9f2bf07261cf5b1c7b72e8b006666acb662b93c7a572ef352ed9edb21a8b"
+    },
+    {
+      "id": "663dea8233b6731c23505b5e0112711d50cc2e8ede6f96d468c9ebace51de3af",
+      "text": "Skill-changelog",
+      "hash": "524ab971d0b5eb63a90939e11e6ec5eacb7a28dc15257bf9aa3446f389fc7cae"
+    },
+    {
+      "id": "04ef1d995f586c4c9a5fe7970a18e528d55f8dfa89925aab4f0aecfbdec81e61",
+      "text": "Skill-changelog · Aug 5, 2026",
+      "hash": "8dffef024cb2e2ba2dab8e8b4ad478a297943d1f636c4437710f7bc3cdeae5c4"
+    },
+    {
+      "id": "09a0a1cdbece82e4606e60246267cf162ee59f463545d107be9543a79ca7840e",
+      "text": "v1.2: /wait-what, /writing-for-agents, Claude Code Plugin, and more",
+      "hash": "7855995cd8dd8160228dde5a165301055a832f9979e382172c2b50afa51dc5e0"
+    },
+    {
+      "id": "23324dd842f596a40cff56b2c65a3b01901e0bfd3357cd71b4ec9a7011ac7219",
+      "text": "Explore Matt Pocock's Skills v1.2.0: new documentation, Claude Code integration, the Wait What skill for Opus verbosity, and more.",
+      "hash": "be96e8fcb29728d0616ce45cd435dc5c57e2724c4edde0c141de6659491abb1f"
+    },
+    {
+      "id": "53ecef218aaec2e68588383f374d9c258004502adb7f51121a4fb18599e61e1e",
+      "text": "Article",
+      "hash": "29d94922512b93e8d81ffb4c721e52afd32e80d952ebe753ea2b739159219dab"
+    },
+    {
+      "id": "db9970552f36780ed5fab333b73dc1c936ec4850ebb2ff3724e61ae81de2ef8e",
+      "text": "Article · Aug 5, 2026",
+      "hash": "527ac00200dad0954c084a932455c6eea1d6a7e15b5926a58cf336d812683a14"
+    },
+    {
+      "id": "ac30f46d1189865e15944b0ed0e6a308d091acf64c6df263d7a8bcdd41915865",
+      "text": "The /wizard Skill",
+      "hash": "dc2a9dfb2e7aafb5b920a374d3edfadca9df74126313b2f8bbd9533e45a3805a"
+    },
+    {
+      "id": "9449cf4832d8ee619a90609949f44fde1a5f7641a0dc2f79ae0d276d802e832d",
+      "text": "Generate a script that walks a human through setup.",
+      "hash": "f8695bcf2f281865859b895a96a161f3668bf098e70bf9fa90e8897e23590a0c"
+    },
+    {
+      "id": "ad0a1f5816b4fee25a82d0b85cd836870721096f7476522e2e215464ffce707c",
+      "text": "The /to-questionnaire Skill",
+      "hash": "3830a182a5231fe3723288a956ef6fc920624202c591cb8eccfc4631443da29d"
+    },
+    {
+      "id": "747752d3dec6d7393e5c7148727d2e65f1e30856995e4c4e776b635c80340366",
+      "text": "Turn open questions into a doc someone else fills in.",
+      "hash": "deb0394f9bc882ce7315d608a1ce70722ab9b53bfa5b88694540a5c88594ca0a"
+    },
+    {
+      "id": "2da526ce5b66adfc08ee56121f81ac8b6f720f56646047fe6be952f48bc84876",
+      "text": "Skill",
+      "hash": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918"
+    },
+    {
+      "id": "0198f9acd4ca0f48896e543a2c85b8eedeff7908e44d2ce283628ad8ed25efd6",
+      "text": "Skill · Aug 5, 2026",
+      "hash": "a0f70fee001e05d7ff1086e6af2b5ed286a812f97331a18644f7ea405e591ad2"
+    },
+    {
+      "id": "0de5d3345de1d394962e19e45ad492829c6ae89bb68b12814695d0a59f15620a",
+      "text": "The /wait-what Skill",
+      "hash": "e6bdcc6683fd9e297ee57882e5d2370d26e6fff3b9b03bd528804cfa7ad01fcf"
+    },
+    {
+      "id": "2e9dcfbd0c1860720e9e40e8f91a99f5e8fdebdb4201753b66618879034e25e6",
+      "text": "Ask the agent to say that again, in plain English.",
+      "hash": "f97ef98c98295b553e6307da02b88fd340d206924528abab09a08aa495568032"
+    },
+    {
+      "id": "dc611e0d17fc07f066cfff480d03c0d64563355d4aa42a6c7dee2214f2fec832",
+      "text": "Skill-changelog · Jul 8, 2026",
+      "hash": "fbcaad0a5c0071a67784f4ed3cfe4ff9ff9917a082895fae0f89541062cce3e5"
+    },
+    {
+      "id": "2c493e2e2b5363b75e40d20363ca0b5d8a7be534db0bf7f831601acbd0c0a20c",
+      "text": "v1.1: /wayfinder, /to-spec, /to-tickets, /grilling improvements, and much more",
+      "hash": "3b71808eca0626a0344f2db4e04b077d0170c41eab8e31ba3b09acb11b195743"
+    },
+    {
+      "id": "4deadff033acba02de48ca60bff7cea346ae94d128b2e457d5cc4555bb9c81c7",
+      "text": "Skills v1.1 released: Learn new agent skills for AI coding including Wayfinder for planning, spec improvements, and TDD refactoring.",
+      "hash": "1f93e2a57fdcb20d59138aeba5e6b3800aa616b7c00026186ebc7e4b369df7af"
+    },
+    {
+      "id": "2411e8753a170d29cd9c499f7da814fd4a409b6c8fe3ca44bd0302d9d319213c",
+      "text": "Skill · Jul 7, 2026",
+      "hash": "c74bcb007fe5a2baefb6f29bd302a3959e69e7b25a1628e785b7b603e635dd40"
+    },
+    {
+      "id": "f69e8173c5dff1e9202b6a9ea818d106e628b1f2a04cbcd67680ba3fb02ff520",
+      "text": "The /writing-for-agents Skill",
+      "hash": "f022e2398dea44aec218f90928e961973c7eaa03026792434aebd61ba6c18cfb"
+    },
+    {
+      "id": "de5f9336882cb1c47880cfeb68591f544806258d1002fea6dd038269b3cb1f4a",
+      "text": "How to write skills and other documents agents read.",
+      "hash": "d41c389a7a27425782655e56c3509c48ff3d87fe630423fc24608b959f19b477"
+    },
+    {
+      "id": "e59fca791be123e534309d1a8f7e79799e1fdfd0e2be81fb8b821ac9da4fc41c",
+      "text": "The /teach Skill",
+      "hash": "3eb25da61522976d76351eb1e464adf19c3c6b07956a325549bd111789da85c1"
+    },
+    {
+      "id": "640b02e4981143469637299efa731511b6bba2836e2859f18d0b84aeacd14139",
+      "text": "Learn a topic across many sessions that build on each other.",
+      "hash": "f68ce258bf643b4a5cf185bb389147450aa13df3da709f20dde866f0012da4ad"
+    },
+    {
+      "id": "96d19f70920288cda08d8d2a3c96974b17ed6870ab7e305ba8dd8a11050460cf",
+      "text": "The /grilling Skill",
+      "hash": "c50755e0e84e83e16e02220d20cbb10f02ac6375a744957c5480bf0b0ae7afbb"
+    },
+    {
+      "id": "04ad9dcf89886eca3c0e8231f1990295d6015a5245f2e63d5e1d17083fe8dd5f",
+      "text": "The interview other skills run to stress-test a plan.",
+      "hash": "95e3e7298316f4eb765ab4036f6b3feb4d47ab9b50ea518cda56e42f6a046b24"
+    },
+    {
+      "id": "605ffd21d3f136e98293844b38701d49c4b054779883fdf6f7b15c7258cd3254",
+      "text": "The /wayfinder Skill",
+      "hash": "ad5c81cc0127099d818f2a0d357323e62abb1458a56b2b704db6d50303313c48"
+    },
+    {
+      "id": "e91858afe285b36ea2753ea4f60874110dc6c6db8914b251b11cef7be729acfe",
+      "text": "Chart a large effort as a map of decisions, and settle them.",
+      "hash": "9b26c847f92a26cc850b923ad33198bed591f0d2303cc2aa584c46f35b0b2b73"
+    },
+    {
+      "id": "2bcdb9342e15550fe81140ee741a21472921772806c1a067490cb12de2594149",
+      "text": "The /triage Skill",
+      "hash": "28ca8c73ddb7e7f15619f62dd65f987942e6e4a625b9bcc743e938d3322893ef"
+    },
+    {
+      "id": "884c4eaf40dde8fa819601070c81afb3d540f94a1ef499cdeed16c3aea62891e",
+      "text": "Sort raw issues into work someone can pick up.",
+      "hash": "e6bd65a2d22d54b2d388915bd6cb13c5b9ec92ceb47864c56f2d77d30ee3e067"
+    },
+    {
+      "id": "8fc9351b1b7e3783c8e0b332a3ad5401842107b1c0b6d69c535c4449326cd917",
+      "text": "The /setup-matt-pocock-skills Skill",
+      "hash": "0674a6df3e473a2f50336ebb738940e032a1a9c5a21617f3a639eccd99c69b49"
+    },
+    {
+      "id": "bb839f77ac3496dfa949bd38d96f59ceb2fc62d95f2d3918e8260fdc53921bd7",
+      "text": "Set up one repo so the other skills know how it works.",
+      "hash": "43e7aab494cb34b6e9f7a6b281e62e52bf5898d82737b0520106430ccdc8a78e"
+    },
+    {
+      "id": "0ab435746ae17ab534a754f37ab33607111807a86fddd4db4fa0289ecb840358",
+      "text": "The /resolving-merge-conflicts Skill",
+      "hash": "503c1d265cd640ce24d1252efc32c21add9fc91cd0c40a7ecf7af547a1f28fd0"
+    },
+    {
+      "id": "5389903097e133621287635e3a429d1c5fc659f28fc4cca37de0eaf42421cc60",
+      "text": "Finish a merge or rebase conflict, hunk by hunk.",
+      "hash": "f0a2531ad701741352b3d7c996df8522dfae50698ebeff40d771a35d0f768fec"
+    },
+    {
+      "id": "4914a786b27a1a4e8988196ad2336cc5665f69b19f01456fd2bb376afe4c61c1",
+      "text": "The /implement Skill",
+      "hash": "f9c16f5a43a4bc3ee3005e2fe35c9f995067f243d46c0e304c68ca35fc366358"
+    },
+    {
+      "id": "f65a09937d0a78ad5dbeaed280fc50bff28a998a967ad085194bca551abfde65",
+      "text": "Build a finished spec into code, test-first.",
+      "hash": "17c81dd1b6d0fe3f9916834f8da1797bc90e00e8c13a04c5e5ea075df068295e"
+    },
+    {
+      "id": "b3e50c242e6ec70663eedd763fe9fccd02acf4400e0c2cf3224480ab0dbde8f0",
+      "text": "The /grill-with-docs Skill",
+      "hash": "5d7a7a42b472b35c9a5e2adae6230bf8e98d261994d05596e68436cd90d8e6ee"
+    },
+    {
+      "id": "e0bf1242e2a42478d6861e07af2d84d96d1c775e2ad98c0b0f2c11908eb97b52",
+      "text": "Get interviewed about a plan, and record the decisions.",
+      "hash": "e0613e7faf7d5debd6ba99e4d64d86953a6440666da603540e579ed0d5ba6e4a"
+    },
+    {
+      "id": "b8704a4324917286046e4f3375f5db1c87533e0de07082d1110651c1b7bce946",
+      "text": "The /domain-modeling Skill",
+      "hash": "f616ad2f4b341b188201e3bffd4995711ab6ed10305f53e7830d2ca72690ed70"
+    },
+    {
+      "id": "a12f469f0d09dd88f9304143edc9b24425fd9183d6f618baa4e1d00cdd28ac44",
+      "text": "Sharpen the words a project uses, and write them down.",
+      "hash": "999bf23db2c00b8722516f86a422ce6d94f653a20bce304cf8117203f93dd91b"
+    },
+    {
+      "id": "041a8378c688e49803f4024e15512df886956d20944ac17a730a74fd13ddf576",
+      "text": "The /diagnosing-bugs Skill",
+      "hash": "82d22e5c3f7a145e0c607c7003a935a563d1e107a030000f3aa33cbcb8f1f676"
+    },
+    {
+      "id": "13a1c76d99d269f3c948c81f1dc0e05fd4a0f55176cc097f3fe0896df487077f",
+      "text": "Diagnose a hard bug, starting from a repro that fails.",
+      "hash": "06a7fabf29ccfc91b67039ea29118eb89146a7a5ff46a87b6c1a85510c7c2eae"
+    },
+    {
+      "id": "d96649e121c792ee9c79e0118acf2033760741e4854aadae100c6034d305d008",
+      "text": "The /codebase-design Skill",
+      "hash": "51bb7c310f0738596f89fd052f1aad809c7bf9022eda80f5040c899abf348c99"
+    },
+    {
+      "id": "5661471846553c813fb4767ef2730d8219619b4ad11a7bbbafd105bc887dca3f",
+      "text": "The vocabulary for designing deep modules.",
+      "hash": "5bf30d95f6dfd104381cf84adc51103005c5b0af9de518fa3f59bae5b080bcd9"
+    },
+    {
+      "id": "b3fa831ae7b52f263e01b4aa9f4764f86e3da25645c2419bea0805ea170b1af3",
+      "text": "The /code-review Skill",
+      "hash": "828cf257382b4e1a77ee8dbdd85ef159141d8c34e4942831831d4f70f5ee84e8"
+    },
+    {
+      "id": "ef9729f1489bcfe9a8469cd19ac510f632a91829ffc46d98b75f591c96a84376",
+      "text": "Review a diff against your standards and against the spec.",
+      "hash": "989b04edac7564ca86e6e4b8c4dc81b9c0f10293b9dca4ad2269fc3a027f2414"
+    },
+    {
+      "id": "6975bf8dbe282fe86edb24216a93b55ca93a347dc718ad450ea367cf30aa2124",
+      "text": "The /ask-matt Skill",
+      "hash": "e33293398b90952072fe7083e0cff6ee94d84e49d6ed9c02486551ec483ab2a1"
+    },
+    {
+      "id": "05a4a379cbd0978d3280b887ff0861e30029fe4c017d1048a1dd9d3d4a922379",
+      "text": "Find out which skill to use for the situation you are in.",
+      "hash": "e7a2a8ffa79450713b534c7006b5b5a83146beb7b5ca92b0e9f5274bc3acae66"
+    },
+    {
+      "id": "70e168f3cf0c56889b25687844a685eb5bb840b00518c99d4f7ebadc0defa584",
+      "text": "The /research Skill",
+      "hash": "d44fca1fd1a3bf52e4677b6e3793c990ea7f8b12508f0fe03d7bc328c60ad562"
+    },
+    {
+      "id": "953d585087b14b60115166fc9ebccf268642431fa1ed7d87ec9768ca8e98299d",
+      "text": "Get a cited answer, read from primary sources.",
+      "hash": "8729edd445e908272061a117df0331369ced9bb9953c13740aac5c062166b2d5"
+    },
+    {
+      "id": "fcbedbb94415e58493af45d892ec7d335d1c3d23823b904633996c787848e929",
+      "text": "Article · Jul 7, 2026",
+      "hash": "d5f1c6065a0661f282ad48e0cb647655275f7a54d689ac7f26766a3be51073cc"
+    },
+    {
+      "id": "63b39e21d7828cd435dba5f4929fa6515a600d4e18533f3bc77add2adca3afd8",
+      "text": "How To Kill The Bloat In Claude Code's System Prompt",
+      "hash": "5eac9e5a312a96c69fd9db284f014acaa848ba97a6d1604e82adc50188d9d0f6"
+    },
+    {
+      "id": "82e2d6a7d7b7a3d3cf9f8da586760addc381f5077b70adad5b6ac2f13ee7ea7c",
+      "text": "Skill-changelog · Jun 18, 2026",
+      "hash": "904853cbdc48af61853556824572421a0975b38d0452807d1ac8f80f1848b13c"
+    },
+    {
+      "id": "7eb3afe2ede2614cab192019001c742dc04d42e943dd48aaf1df88e5134569dd",
+      "text": "v1: 63% Token Reduction, /ask-matt, /writing-great-skills",
+      "hash": "0e257aef4ba32b497a98e46415b02574c23239d3a9a6410978ab8076de4caac6"
+    },
+    {
+      "id": "85cfa7c2a436462328a1d5ab71693dcc6b4a8c2ba9c459eca0479bcc9a7a46d9",
+      "text": "Skills v1.0 update: 63% token reduction, new routing skills, domain modeling & codebase design. Install with npx now.",
+      "hash": "92a7010fb2daf0d545672301fdb2f2356b0ccd4c031e5aaa80d20b20a579c7d8"
+    },
+    {
+      "id": "43704e7a4167c343d39519b6032f1b21c712ecce0686e413bb40869252f1ec25",
+      "text": "Article · Jun 8, 2026",
+      "hash": "cd7681d1832670a0df0a9782f54e71e2b992f401debd1b66319cd25bfd4cd746"
+    },
+    {
+      "id": "0eb3d72d0d59003ae9aec1569a2ab51b1b1b61c620b2caa6eaf1963ab98bca44",
+      "text": "Learn Anything With My /teach Skill",
+      "hash": "087e41020c045ab0508ad79621c0751b424f5d9af028b7d4f3dc64d9a8e0bd63"
+    },
+    {
+      "id": "ae0a29db573c4d1c5666e808b85455855684e1ffc96fc96f09409dc6dc563dfa",
+      "text": "Learn to use the /teach skill in Claude Code to create personalized AI-powered lessons on anything—languages, coding, skills—with interactive exercises.",
+      "hash": "07837a3e6a399027c6fe45b077dcbecfeb60ad3bf324fc16d1a8ca3bd552d76c"
+    },
+    {
+      "id": "287f295ea4dc1507aeb795c13b892b6b94620a139539089754660018c1848d92",
+      "text": "Article · May 25, 2026",
+      "hash": "46aeb14af9d9bb8867fe0df7e0ef2c332f0894d29158ae1a6bedf43176bd79e2"
+    },
+    {
+      "id": "8c85fd2faeba9740529c8d9d75e479f5ff8d86469644e79a25bbc4cb294033c8",
+      "text": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+      "hash": "a8132b4f77ca14f2ef5aa84bc8386bb2e8acc3ce746a8209008bcb9af5610bd8"
+    },
+    {
+      "id": "fe797a9f4f1f055dd7554d9394ff7f2bb8ace9a0a3c519f7af49ea8de7f088ea",
+      "text": "Master the 9 most common mistakes when using /grill-me or /grill-with-docs. Learn scope management, model selection, and planning strategies.",
+      "hash": "0318f8d5c3fefbe6338ee355e621c80ef4fe174e84044b7f802090cfb964d876"
+    },
+    {
+      "id": "77f03b82148cc8630bb8118608e3cfd2a3a4cd1775134143a472785ab3d56b5e",
+      "text": "Skill · May 13, 2026",
+      "hash": "35c3bffedc68b48a5d0bd73191e98cfa37bc239065a80e9b84c029e625d04533"
+    },
+    {
+      "id": "b6aa3627f790cff06c84fd46be583b90fa1380f7d54ced851b71bf4290dd4cc8",
+      "text": "The /improve-codebase-architecture Skill",
+      "hash": "1d2feca177f8d2a2229e95a3f013777630bd379b24ca132a89d1c87623d2d722"
+    },
+    {
+      "id": "a190dd42247cf3698e62766771d18e584751257d14bc08e41a0e3b4026d7a7e4",
+      "text": "Find the modules worth refactoring, as a visual report.",
+      "hash": "e68f7f37b834194faceb91a5decd54e183228e21ce907c7fc6f4f1957d2b0885"
+    },
+    {
+      "id": "8d4df0fc05ffadac6ce0adb71ec62d97bf700bd85dc5565e9f5c0397498e0b92",
+      "text": "Ship Solid Code",
+      "hash": "8ed3c25507fabf4ea1fbc7bb4830ff9aca0ca0086c89f048cbfa7acd285be7f0"
+    },
+    {
+      "id": "b5977adf301988de6b1e98474f3b15ad5bca7aa26cefe52dfea1c51b04e04015",
+      "text": "The /handoff Skill",
+      "hash": "aa9ef09fd6306628ff648bd617767047dad198c95193321344b3959b78d08f43"
+    },
+    {
+      "id": "0bc808e7e8fbf4e1240abc260a163bb46815af734f492fb67e4402a6390910fd",
+      "text": "Write up a long session so another agent can continue it.",
+      "hash": "30529631a29471a55854d373399d5a1465bc6d19832e07b1c3aa68049f552821"
+    },
+    {
+      "id": "e8f17f869eaf412c3792019d78a8e93a05381716a603354827280a3de1aff518",
+      "text": "Phase 6: Build",
+      "hash": "938b3ff5c7fe8729b39f9694843ecd5b4fc72e42fdd08a347f0d91c41e3cb0a6"
+    },
+    {
+      "id": "ed124d51aefaeddc9d1355a5b23728691e9bc56991ff93647f1a6e6aa283c99c",
+      "text": "Get Better Results",
+      "hash": "7fde7fb972dd07e9ce356b02e523b1c8955088ff4b7326b87595af98bdb82561"
+    },
+    {
+      "id": "bfecfe0118515769ad7be4bf346f40b230a8cc288eaf522555409118326f702c",
+      "text": "The /prototype Skill",
+      "hash": "0704c2a7f3f21081c77a25eda1e8be09a3e7cf6c6bcd5111b05f143302886d01"
+    },
+    {
+      "id": "0d9a69268d2034cf8475121e487f293c0958f49ee1597c6bb900db422427bd57",
+      "text": "Answer a design question with code you then delete.",
+      "hash": "f58ced05a5a15609081a9a33dea4bd0f49667c79024c4c6276ca5fbb7755dac8"
+    },
+    {
+      "id": "773ece77a674b6341587efad6936a22111284e8e751c9d1b0a037b9b96bb039d",
+      "text": "Phase 3: Prototype",
+      "hash": "36dd0aa8e506d9ae732e6f930cccf70e10ea631f533475b26e9c59c3055c9988"
+    },
+    {
+      "id": "fefbc819e827c33ee2d90d0ec8c8749a1bcf56fec21af757f49627778f8efb0f",
+      "text": "Build the Right Thing",
+      "hash": "7c933420f3070cf5fc985d09a2ce800f99b8022478f2a3bc1f3e1b439931170e"
+    },
+    {
+      "id": "987724c8bc9fa3d07418cf48db6f2da0ae20d28f0958a831d74469e4ceeaff31",
+      "text": "Skill-changelog · May 11, 2026",
+      "hash": "3d96ac708f6c9ea2e463df4a81f1c1db1c7c8d22124d7c57d7a5bccb46f4d29c"
+    },
+    {
+      "id": "52ce4d1d50d86be7b3ddfa885d5a8cea75a5c3610f882cfaef397ccb88b5babe",
+      "text": "Skills Changelog: /handoff, /prototype, /review and /writing",
+      "hash": "f448e61361c1509f756ad0d593b493e56a34dcc7d00b943cf03458c4db3241b1"
+    },
+    {
+      "id": "63d2be742d1a36e646935abfaa4c48ffe588471e76fa776ee85c178f97d74f92",
+      "text": "Two new AI agent skills: /handoff for passing context between agents, and /prototype for building throwaway prototypes to test design decisions.",
+      "hash": "06f7d083b3b259fd5b8a01a8144505f52064582d354e5c12c989ecfcbd6db8e6"
+    },
+    {
+      "id": "d6239d34eac1b7bb54511d2545a2da90a7ed40bc96b773120269126ef78f0350",
+      "text": "Cohort · May 8, 2026",
+      "hash": "4f3fbe0925523e47f037718973771647e6ddd5ba8b01820ed302da3f00b1236f"
+    },
+    {
+      "id": "441f177b476666541ce4167d000dfb045deace435d711b3eb35d81ee5bb2b9c1",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ea45905bf87d3370ec03624a7e1fdb8a54cf8ec44136c799a777c51e32d41006",
+      "text": "A two-week cohort for developers who want to use AI coding tools on real production-style work: context gathering, planning, steering, feedback loops, AFK agents, and human-in-the-loop review.",
+      "hash": "1b742e3d3bc3ecf3cb86e40eabbe98aad504077a686920d546c281490f192e8b"
+    },
+    {
+      "id": "b8eae663999ae440a73f1ab03e33ff76dcde6c48d12ae4d6ae9be99b356b6f33",
+      "text": "NextUp · May 5, 2026",
+      "hash": "8d3d7559d96c6f6d88b02c486576b923dd05e01e30042c4117f40a6355465565"
+    },
+    {
+      "id": "85338c7e675ff8cfc1fd9c0e1f183584e146ee5b28eafcff99715b97e12fa96b",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "48cdfc5efa11d7918d7e69bdaee9bdb9e2322d030ad96e98ceb62cd4feee7ccb",
+      "text": "A practical skill system for engineers who want to use AI without giving up their standards.",
+      "hash": "a827ebc64bb5d1abf029a637befc55e88c4701964856e50f279b9870c0e555ce"
+    },
+    {
+      "id": "3d6d5aeabdcbf4ff17b8e7c016b7fff9c251c6dbc512efaa4deab87d686cb023",
+      "text": "Skill · May 5, 2026",
+      "hash": "38924f6f2b0695a0db20fb67dc440e8af359c38d22dc9d0506ef9f94f2b5cce6"
+    },
+    {
+      "id": "529c738f812f70ba8e942c3845e901b0a5544b355dbdbd6f894684407ff3a5c9",
+      "text": "grill-with-docs: Align Before You Build",
+      "hash": "be05d2e43227ed19ed8969d06cfd693562249b8f6e7041e1da1df95519b05489"
+    },
+    {
+      "id": "7e368b59c484ee663ec8c6fbc033f4d15481ec878189a67e0a45d5150fbbcafc",
+      "text": "Learn /grill-with-docs: combine AI interviewing with domain-driven design to build better codebases with shared language and less repetition.",
+      "hash": "1840800c6322370f11ef090eebbe9a4d9be2c0c34dd7b90031ff374b41c1d3cc"
+    },
+    {
+      "id": "f1afa5ddf63b34fba5f1920a0e20287bf5873b58a6f4e3a580a504f6582cfbe5",
+      "text": "Phase 2: Context",
+      "hash": "2b7bb768fd5c354328df908bc67256ee2e8c7c9c30acef2405a2870544a32364"
+    },
+    {
+      "id": "0c877f6b597ac46a58915af3faf1279170b0b15cab8213d045952cc60b9555eb",
+      "text": "triage: Turn Backlog Mess Into Agent-Ready Work",
+      "hash": "01694fa1e3057407ecb33b84383432ff8ed99da51a0252951a5570fb40231ae6"
+    },
+    {
+      "id": "3e426d228a2a3dc1782f114bff63812ddc9241f8f53bce200b0eef317c3ed0e2",
+      "text": "Learn how to use the Triage skill to organize GitHub issues, turn messy ideas into actionable tasks for AI agents, and manage backlogs efficiently.",
+      "hash": "c20b2b7059f77f3087d7f290079122e626849fbd5ddef4fe8885345f6d12d392"
+    },
+    {
+      "id": "5f8f821bb63212a18f41be4264c5bc8534ba04e21d7d7767715a630682fbf4e5",
+      "text": "Phase 7: Review",
+      "hash": "43768c480a189f467e2c53b7b686acc152cbf6518cf8e67c017aac4ded5700f4"
+    },
+    {
+      "id": "24134c932b0321c8e8a51c272adc61a017e72e625df7c11a06f47dbee88a7b1d",
+      "text": "Post · Apr 30, 2026",
+      "hash": "f817e9bb91e01369b00e78c30dbc9882b21b11cdb5810ce22a70031792ad47d4"
+    },
+    {
+      "id": "af6ece574741f61aeda6e044818818822239ccae8da602a1ccee24c0d585749c",
+      "text": "Skills Changelog: Ubiquitous Language -> /grill-with-docs",
+      "hash": "16871b3b1183f645db5de412027120e346828c7585da50274743857b037ec722"
+    },
+    {
+      "id": "7815b975ed72d21dd24ff006e4ffbdca12e9728112025a32111c052a0789c3db",
+      "text": "Skills repo changelog: /grill-with-docs, ADRs, improved architecture language, multi-tracker support & new debugging skills. Updates inside.",
+      "hash": "adbcfdff2f1ba52b253f6763a872a5655890bcc65d499fd4c2d2047b97e0543a"
+    },
+    {
+      "id": "e0c97bf2e0a6f4339daa8564894af0ea8ad85fdb807a9f990c2224ba2288c0d8",
+      "text": "Skill · Apr 27, 2026",
+      "hash": "e00ab02f6649bfdccc876533cdeb10533c1091d759e93e830b6ada20cd880b43"
+    },
+    {
+      "id": "e9e2f5e8d1c2a59c629e8294c69d993e0d2c5a4efaf0d8983250fb6f84cfee93",
+      "text": "The /tdd Skill",
+      "hash": "c37d71d36e49748d5850616b6cddf4ce32b9eb909f487b9e1b5fcddc163ac66e"
+    },
+    {
+      "id": "8ee9b2ffb9879ec441bd395da066653ddf865121a2e5022c66488045ff3df7bc",
+      "text": "The rules of the red-green-refactor loop.",
+      "hash": "e330493b0b0172bcafe6be11a239cd9bef43b052271271314ef0e35d8585af60"
+    },
+    {
+      "id": "8aa6aa3a9856ba5011adb62689700e2b8ee0d0fd36c3e6d2a08f7a9ab0e8d712",
+      "text": "Test & Evaluate",
+      "hash": "2d5686ae1b26afcf43393724188a2a3774fd9d0ba3ae777a08f5a17354dc7c28"
+    },
+    {
+      "id": "7e8da51a856df934e1f5190ef449b7fed9641294ae65a530d502e76ed9c1c531",
+      "text": "The /to-tickets Skill",
+      "hash": "edb2e623d3d628ae29e30650179052886b0583e7c6d64c61f4833a0555f5ffb9"
+    },
+    {
+      "id": "6791ae95cfdb2ab446c6cf50511203aa7fc6dbae69aa0170a398169322325bba",
+      "text": "Split a spec into small tickets an agent can build.",
+      "hash": "2f7eb91d6e60d230c1053c9c1c182268d8c19bf636462ec19f83fcf5389f31e0"
+    },
+    {
+      "id": "0f05d0c66bbf6417de9b8813cce08e3649682706cbe7dd9b3dba143fdb97b141",
+      "text": "Phase 5: Issues",
+      "hash": "639b107ffd70c4af9da24011aa3b34a7aa1346bef86caa0b5a58391cd4834c40"
+    },
+    {
+      "id": "55f5f5d55973f36cd52ea645ae6bc60c45d7b686b960b87364a725040446648c",
+      "text": "The /to-spec Skill",
+      "hash": "a23abd13c89fe79ac0e3626d5d4c722e63235829c4cf6f85d3d4d28039733e86"
+    },
+    {
+      "id": "d0f54dcfbeca4063cacd6c10e8e3935176573a2adfc39e7a96a92d4036bedf42",
+      "text": "Turn an agreed conversation into a written spec.",
+      "hash": "91e6f3a80003384410be4fb29eed873433a2671fa358ddc13d9306be7fbc89df"
+    },
+    {
+      "id": "33efb974f06a6396365d23e874a646ede503df93072181b09126b519aca696d0",
+      "text": "Phase 4: PRD",
+      "hash": "77b23a40112cb0ac2301f48482964bedaa1bbd23bd0c14a4540b69c1b7c160d8"
+    },
+    {
+      "id": "a30b606a51c27494269e8bad61499963cc19abd3508c248fa2517d9e0ae3d7a7",
+      "text": "The /grill-me Skill",
+      "hash": "5edb548fff722d99ccd268e52fbe25045b7b033143d6caa73359a81daebd7539"
+    },
+    {
+      "id": "19fe14079afba6e192aa5dadec96a5a90776a241f8831d35b2dbd62b7876b27b",
+      "text": "Align on an idea before committing to it.",
+      "hash": "d816c5a0458370f6bcb8c6409646293e818410c2cc0f9de2f1018b9595ec9bb9"
+    },
+    {
+      "id": "fa7a1f24577470509c764156c311b831cb35ac5ae72602a4cd904e98d6af1cb8",
+      "text": "Phase 1: Idea",
+      "hash": "6912c7f8d79b033d5f432f030afaba3893c6295a6d71b67f88529229b548d5c3"
+    },
+    {
+      "id": "47e7ace173559c7d10140d03c8c6df49bf6fd66cbda7ce1ea65d4f5acca2b924",
+      "text": "Post · Mar 23, 2026",
+      "hash": "3b5b99fa4d0407866856d19dbb3e8c20dd14307e98d46c7244a0e82c91bb1214"
+    },
+    {
+      "id": "f89d0d2309479823f48ee08a89b1116613563dfdf9ed43b17d1fdc7b0fb0c564",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "4f1418929af8599bf7e3e6fcd5b55245e18d61dba6150aa83fb91228bf30d8ea",
+      "text": "Learn the \"Grill Me\" AI skill—a powerful technique to deeply explore coding plans, requirements, and ideas through structured AI conversations.",
+      "hash": "7897eab685f5c04d9e4639d4d8df700dc0cbf9a833b1801292f83ea34dce7116"
+    },
+    {
+      "id": "f3d6d1334e3cfbb7cbb24fceb995aa5585c5ea6a3233244ca175a32d57e8cd05",
+      "text": "Post · Mar 20, 2026",
+      "hash": "0030dac48ddb721983a4205bb5501edb4134b9607f8fb12ae2203d77c7275604"
+    },
+    {
+      "id": "e33bde11d0d3f4f0145d1ac7b2ea901958fa477bfb8c68b26374478162a51631",
+      "text": "Real-world feature build with Claude Code: every step explained",
+      "hash": "0fe30f840117b4520c0ce377e3c153c186e0fa94332a946033ab45b08f76a1fe"
+    },
+    {
+      "id": "80f9cfb8894f48422e96f78c8479f3cc640b11caeae4d8809118533896066019",
+      "text": "Learn Claude Code workflow: grill sessions, PRDs, GitHub issues, AFK agents, and QA loops for building features efficiently with AI.",
+      "hash": "aa9389345ab2b17958a021bf6039499c20bb276e549c95ecfd637ca250431c6b"
+    },
+    {
+      "id": "9537a264244c099c64ebb409413cc0829683d700d6609e6af996fec849e4037d",
+      "text": "Article · Mar 16, 2026",
+      "hash": "9ccfbc557f20f3034fbaa83335367279528c935cb0b1057f17167132d28c2f74"
+    },
+    {
+      "id": "8bfc70ab9069bd10f0c3538896e32f9bc83f3b7f06053dc21cbe7c0fa614d293",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "42b8761604f20507c8b20c7bfbbe7fc676a92c2bb8a1f46372887f9a91612eb0",
+      "text": "Master AI code quality with proven engineering skills: prompt techniques, TDD, architecture design, and spec workflows for Claude Code agents.",
+      "hash": "58de2c6c88ce25ab0d52b91f403d1cb62256bfd82a7dd4672400569adde862eb"
+    },
+    {
+      "id": "d46e44bbb37cc243fc94960f9b1340e14b773a344e9144d7bb092666887c03e0",
+      "text": "Score First Wins",
+      "hash": "9b30319ffbb4c9de622fb6f91f97be545e9fc323b502984496d6e1b16d9c1e74"
+    },
+    {
+      "id": "1f1b970cf84a08c07605186fb80200dd952772656101f1b2e10ba3505a622782",
+      "text": "Code with AI Agents",
+      "hash": "149f00fd47ce8c11542c626ebc6b774ee19f9f91acfb9276a356d778052ef31b"
+    },
+    {
+      "id": "fa0369e8e5948aba9a0e6152849fac031a97aba8cfad8b2998b7b8edc4861848",
+      "text": "Show More",
+      "hash": "ba8a80fdd7376631dea931d6e15deaba127c4ba3532e223decbb86018ce7aa5d"
+    },
+    {
+      "id": "36987f0d72e561d5323a8f00f1db41c6c6d8f69aef5e33a647c2b53313995d7c",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "00cc42ff206edfb488870e2864ee1235804756323c3fce94a06b36f4350369bf",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "269fdd0e7c2e52d0ccfad647b83a009754e96a519a8645164413644bcf082ce3",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "27f112c9bce22416c87fcfc22d450304cd57b545ae9d03f371b12f815bdf5a5d",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "0bcf4b90ee146e43ffab94d3cc00e93de2a81f81a37df2423dfc8593f49bb478",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "b2fd82e49142e2119fd75712295055041711f8b7e396096057053c35d6fb1893",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "27a7b9802357e6a703bce14325c9bf171acf92f6dffa71127ebfb389ecdbf8b3",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "5362bf21ca260d0d6ee9a74f788d44b94efa5f3cb3cd0891887f2aa8ae4a4ce4",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6384185e381552e8f3a94eb98f02f9a38867b35d1869c148c8c70378acf57c58",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "e28ac39848a41e35544f47a8ea02a9bc59dc16b3178c611ea96ca422ef0b5166",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "ee9af15e1f4a310d340ce53b9ca368a69c17bd9ff1a29d15a75dc90ffb65633b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "3fcdf49c4868710da337ad5ffac1e181ad15bebc2ac937998da87f7aa3139976",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a2e4d399c796a66ca251041080fe8acba073b5670c360427f395138a2b13f881",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "8a2afe4b574dec65d13f6e52abe6cd68a906e58dcaeabe4fc86ecca49df4cbb2",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "d6c8c7a360cfb8859387b1f23c540ab791d30afa324ad0c087a3289b0c4b4893",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "26d4fae954c1d6f160bd9fbee9747fa7ae1add936106d3971ed07fd7496e3f61",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "97511ea4711f9378c25a8f43744afe6224a1568dc0b61551e4ee32752a453e22",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"kmunujznod17awc\"",
+  "lastModified": null
+}

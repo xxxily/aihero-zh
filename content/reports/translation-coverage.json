@@ -1,0 +1,1405 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-11T00:32:47.527Z",
+  "pages": [
+    {
+      "pathname": "/2025-the-year-building-with-gen-ais-gets-boring~d53hd",
+      "reviewable": 78,
+      "covered": 78,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/5-agent-skills-i-use-every-day",
+      "reviewable": 139,
+      "covered": 139,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/a-complete-guide-to-agents-md",
+      "reviewable": 206,
+      "covered": 206,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/agents-with-vercel-ai-sdk",
+      "reviewable": 137,
+      "covered": 137,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary",
+      "reviewable": 187,
+      "covered": 187,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/afk",
+      "reviewable": 74,
+      "covered": 74,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agent-mode",
+      "reviewable": 76,
+      "covered": 76,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agent",
+      "reviewable": 66,
+      "covered": 66,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/agents-md",
+      "reviewable": 70,
+      "covered": 70,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ai",
+      "reviewable": 68,
+      "covered": 68,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-budget",
+      "reviewable": 68,
+      "covered": 68,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-degradation",
+      "reviewable": 71,
+      "covered": 71,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/attention-relationship",
+      "reviewable": 82,
+      "covered": 82,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/autocompact",
+      "reviewable": 65,
+      "covered": 65,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/automated-check",
+      "reviewable": 74,
+      "covered": 74,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/automated-review",
+      "reviewable": 71,
+      "covered": 71,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ax",
+      "reviewable": 78,
+      "covered": 78,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/cache-tokens",
+      "reviewable": 79,
+      "covered": 79,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/clearing",
+      "reviewable": 70,
+      "covered": 70,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/compaction",
+      "reviewable": 71,
+      "covered": 71,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context-pointer",
+      "reviewable": 77,
+      "covered": 77,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context-window",
+      "reviewable": 73,
+      "covered": 73,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/context",
+      "reviewable": 72,
+      "covered": 72,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/contextual-knowledge",
+      "reviewable": 81,
+      "covered": 81,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/design-concept",
+      "reviewable": 63,
+      "covered": 63,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/dx",
+      "reviewable": 64,
+      "covered": 64,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/effort",
+      "reviewable": 77,
+      "covered": 77,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/environment",
+      "reviewable": 80,
+      "covered": 80,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/filesystem",
+      "reviewable": 67,
+      "covered": 67,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/grilling",
+      "reviewable": 62,
+      "covered": 62,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/hallucination",
+      "reviewable": 81,
+      "covered": 81,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/handoff-artifact",
+      "reviewable": 71,
+      "covered": 71,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/handoff",
+      "reviewable": 76,
+      "covered": 76,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/harness",
+      "reviewable": 75,
+      "covered": 75,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/human-in-the-loop",
+      "reviewable": 67,
+      "covered": 67,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/human-review",
+      "reviewable": 71,
+      "covered": 71,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/inference",
+      "reviewable": 85,
+      "covered": 85,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/input-tokens",
+      "reviewable": 75,
+      "covered": 75,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/knowledge-cutoff",
+      "reviewable": 63,
+      "covered": 63,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/mcp",
+      "reviewable": 69,
+      "covered": 69,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/memory-system",
+      "reviewable": 70,
+      "covered": 70,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model-provider-request",
+      "reviewable": 91,
+      "covered": 91,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model-provider",
+      "reviewable": 68,
+      "covered": 68,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/model",
+      "reviewable": 68,
+      "covered": 68,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/next-token-prediction",
+      "reviewable": 71,
+      "covered": 71,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/non-determinism",
+      "reviewable": 65,
+      "covered": 65,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/output-tokens",
+      "reviewable": 64,
+      "covered": 64,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/parameters",
+      "reviewable": 70,
+      "covered": 70,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/parametric-knowledge",
+      "reviewable": 64,
+      "covered": 64,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/permission-mode",
+      "reviewable": 86,
+      "covered": 86,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/permission-request",
+      "reviewable": 83,
+      "covered": 83,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/prefix-cache",
+      "reviewable": 67,
+      "covered": 67,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/primary-source",
+      "reviewable": 65,
+      "covered": 65,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/progressive-disclosure",
+      "reviewable": 67,
+      "covered": 67,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/prototyping",
+      "reviewable": 60,
+      "covered": 60,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/sandbox",
+      "reviewable": 78,
+      "covered": 78,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/secondary-source",
+      "reviewable": 72,
+      "covered": 72,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/session",
+      "reviewable": 71,
+      "covered": 71,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/skill",
+      "reviewable": 77,
+      "covered": 77,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/smart-zone",
+      "reviewable": 70,
+      "covered": 70,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/spec",
+      "reviewable": 71,
+      "covered": 71,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/stateful",
+      "reviewable": 90,
+      "covered": 90,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/stateless",
+      "reviewable": 72,
+      "covered": 72,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/subagent",
+      "reviewable": 69,
+      "covered": 69,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/sycophancy",
+      "reviewable": 72,
+      "covered": 72,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/system-prompt",
+      "reviewable": 69,
+      "covered": 69,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/ticket",
+      "reviewable": 64,
+      "covered": 64,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/token",
+      "reviewable": 69,
+      "covered": 69,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool-call",
+      "reviewable": 78,
+      "covered": 78,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool-result",
+      "reviewable": 80,
+      "covered": 80,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/tool",
+      "reviewable": 81,
+      "covered": 81,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/training",
+      "reviewable": 66,
+      "covered": 66,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/turn",
+      "reviewable": 65,
+      "covered": 65,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-coding-dictionary/vibe-coding",
+      "reviewable": 68,
+      "covered": 68,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ai-engineer-roadmap",
+      "reviewable": 76,
+      "covered": 76,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/anthropics-new-model-context-protocol-in-2-minutes~hc0tx",
+      "reviewable": 56,
+      "covered": 56,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/building-effective-agents",
+      "reviewable": 90,
+      "covered": 90,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/burn-through-your-backlog-with-my-triage-skill",
+      "reviewable": 221,
+      "covered": 221,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/connect-claude-code-to-github",
+      "reviewable": 76,
+      "covered": 76,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/create-embeddings-with-vercel-ai-sdk",
+      "reviewable": 110,
+      "covered": 110,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/creating-the-perfect-claude-code-status-line",
+      "reviewable": 104,
+      "covered": 104,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/describe-images-with-vercel-ai-sdk",
+      "reviewable": 113,
+      "covered": 113,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/essential-ai-coding-feedback-loops-for-type-script-projects",
+      "reviewable": 95,
+      "covered": 95,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/evalite-an-early-preview",
+      "reviewable": 61,
+      "covered": 61,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/evalite-v1-preview",
+      "reviewable": 137,
+      "covered": 137,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/generate-arrays-with-vercel-ai-sdk",
+      "reviewable": 95,
+      "covered": 95,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/generate-enums-with-vercel-ai-sdk",
+      "reviewable": 89,
+      "covered": 89,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/generate-text-with-vercel-ai-sdk",
+      "reviewable": 84,
+      "covered": 84,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/getting-started-with-ralph",
+      "reviewable": 156,
+      "covered": 156,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/google-agents-whitepaper-review",
+      "reviewable": 102,
+      "covered": 102,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/grill-with-docs",
+      "reviewable": 172,
+      "covered": 172,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/heres-how-to-stream-claude-code-with-afk-ralph",
+      "reviewable": 98,
+      "covered": 98,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/how-does-the-model-context-protocol-work",
+      "reviewable": 113,
+      "covered": 113,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/how-to-choose-an-llm",
+      "reviewable": 162,
+      "covered": 162,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/how-to-improve-your-llm-powered-app",
+      "reviewable": 309,
+      "covered": 309,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/how-to-kill-the-bloat-in-claude-codes-system-prompt",
+      "reviewable": 113,
+      "covered": 113,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/how-to-make-codebases-ai-agents-love",
+      "reviewable": 98,
+      "covered": 98,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/how-to-use-claude-code-hooks-to-enforce-the-right-cli",
+      "reviewable": 90,
+      "covered": 90,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/implementing-anthropics-think-tool-in-typescript",
+      "reviewable": 92,
+      "covered": 92,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/",
+      "reviewable": 121,
+      "covered": 121,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/learn-anything-with-my-teach-skill",
+      "reviewable": 107,
+      "covered": 107,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/learn",
+      "reviewable": 103,
+      "covered": 103,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/llm-fundamentals",
+      "reviewable": 68,
+      "covered": 68,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/logging-a-huge-mcp-footgun",
+      "reviewable": 112,
+      "covered": 112,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/mcp-server-from-a-single-typescript-file",
+      "reviewable": 97,
+      "covered": 97,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/messages-system-prompts-and-reasoning-tokens",
+      "reviewable": 92,
+      "covered": 92,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/model-context-protocol-tutorial",
+      "reviewable": 80,
+      "covered": 80,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/my-7-phases-of-ai-development",
+      "reviewable": 162,
+      "covered": 162,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/my-agents-md-file-for-building-plans-you-actually-read",
+      "reviewable": 84,
+      "covered": 84,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/my-claude-code-cohort-a-teaser",
+      "reviewable": 111,
+      "covered": 111,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/my-grill-me-skill-has-gone-viral",
+      "reviewable": 84,
+      "covered": 84,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/never-run-claude-init",
+      "reviewable": 140,
+      "covered": 140,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/newsletter",
+      "reviewable": 32,
+      "covered": 32,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/open-source",
+      "reviewable": 46,
+      "covered": 46,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/personal-software-is-insane-in-the-age-of-ai-u2hx2",
+      "reviewable": 70,
+      "covered": 70,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/plan-mode-introduction",
+      "reviewable": 147,
+      "covered": 147,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/posts",
+      "reviewable": 147,
+      "covered": 147,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/publish-your-mcp-server-to-npm",
+      "reviewable": 133,
+      "covered": 133,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/real-world-feature-build-with-claude-code",
+      "reviewable": 58,
+      "covered": 58,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/securing-your-ai-app-with-guardrails",
+      "reviewable": 81,
+      "covered": 81,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skill-test-driven-development-claude-code",
+      "reviewable": 144,
+      "covered": 144,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-ask-matt",
+      "reviewable": 197,
+      "covered": 197,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-catalog",
+      "reviewable": 120,
+      "covered": 120,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-changelog-ubiquitous-language-grill-with-docs",
+      "reviewable": 158,
+      "covered": 158,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-code-review",
+      "reviewable": 196,
+      "covered": 196,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-codebase-design",
+      "reviewable": 211,
+      "covered": 211,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-diagnosing-bugs",
+      "reviewable": 189,
+      "covered": 189,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-domain-modeling",
+      "reviewable": 210,
+      "covered": 210,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-grill-me",
+      "reviewable": 163,
+      "covered": 163,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-grill-with-docs",
+      "reviewable": 185,
+      "covered": 185,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-grilling",
+      "reviewable": 187,
+      "covered": 187,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-handoff",
+      "reviewable": 184,
+      "covered": 184,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-implement",
+      "reviewable": 189,
+      "covered": 189,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-improve-codebase-architecture",
+      "reviewable": 194,
+      "covered": 194,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-prototype",
+      "reviewable": 165,
+      "covered": 165,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-research",
+      "reviewable": 165,
+      "covered": 165,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-resolving-merge-conflicts",
+      "reviewable": 129,
+      "covered": 129,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-setup-matt-pocock-skills",
+      "reviewable": 206,
+      "covered": 206,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-tdd",
+      "reviewable": 194,
+      "covered": 194,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-teach",
+      "reviewable": 208,
+      "covered": 208,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-to-questionnaire",
+      "reviewable": 156,
+      "covered": 156,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-to-spec",
+      "reviewable": 171,
+      "covered": 171,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-to-tickets",
+      "reviewable": 204,
+      "covered": 204,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-triage",
+      "reviewable": 234,
+      "covered": 234,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-wait-what",
+      "reviewable": 128,
+      "covered": 128,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-wayfinder",
+      "reviewable": 230,
+      "covered": 230,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-wizard",
+      "reviewable": 188,
+      "covered": 188,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills-writing-for-agents",
+      "reviewable": 166,
+      "covered": 166,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills",
+      "reviewable": 156,
+      "covered": 156,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills/skills-changelog-handoff-prototype-review-and-writing",
+      "reviewable": 72,
+      "covered": 72,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills/skills-changelog-ubiquitous-language-grill-with-docs",
+      "reviewable": 147,
+      "covered": 147,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills/skills-changelog-v1-1-wayfinder-to-spec-to-tickets-grilling-improvements",
+      "reviewable": 205,
+      "covered": 205,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills/skills-changelog-v1-announcement",
+      "reviewable": 137,
+      "covered": 137,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more",
+      "reviewable": 191,
+      "covered": 191,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/skills/subscribe",
+      "reviewable": 67,
+      "covered": 67,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/storm-generate-high-quality-articles-based-on-real-research",
+      "reviewable": 59,
+      "covered": 59,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/streaming-in-next-question-suggestions-with-the-ai-sdk",
+      "reviewable": 98,
+      "covered": 98,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/streaming-objects-with-vercel-ai-sdk",
+      "reviewable": 96,
+      "covered": 96,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/streaming-text-with-vercel-ai-sdk",
+      "reviewable": 93,
+      "covered": 93,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/structured-data-from-pdfs-with-vercel-ai-sdk",
+      "reviewable": 98,
+      "covered": 98,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/structured-outputs-with-vercel-ai-sdk",
+      "reviewable": 105,
+      "covered": 105,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/swap-ai-models-with-vercel-ai-sdk",
+      "reviewable": 84,
+      "covered": 84,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/system-prompts-with-vercel-ai-sdk",
+      "reviewable": 86,
+      "covered": 86,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/the-ai-engineer-mindset",
+      "reviewable": 105,
+      "covered": 105,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/the-problem-with-mcp-stateful-server",
+      "reviewable": 107,
+      "covered": 107,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/the-prompt-report",
+      "reviewable": 58,
+      "covered": 58,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/things-people-get-wrong-with-grill-me-and-grill-with-docs",
+      "reviewable": 179,
+      "covered": 179,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/this-hook-stops-claude-code-running-dangerous-git-commands",
+      "reviewable": 96,
+      "covered": 96,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/three-types-of-evals",
+      "reviewable": 72,
+      "covered": 72,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/tips-for-ai-coding-with-ralph-wiggum",
+      "reviewable": 388,
+      "covered": 388,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/tool-calls-with-vercel-ai-sdk",
+      "reviewable": 124,
+      "covered": 124,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/build-a-software-factory",
+      "reviewable": 45,
+      "covered": 45,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/build-the-right-thing",
+      "reviewable": 45,
+      "covered": 45,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/get-better-results",
+      "reviewable": 46,
+      "covered": 46,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/learn-how-llms-think",
+      "reviewable": 56,
+      "covered": 56,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/meta-announcements",
+      "reviewable": 40,
+      "covered": 40,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/score-first-wins",
+      "reviewable": 41,
+      "covered": 41,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/set-up-your-agent",
+      "reviewable": 55,
+      "covered": 55,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/ship-solid-code",
+      "reviewable": 46,
+      "covered": 46,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/topics/think-like-an-ai-engineer",
+      "reviewable": 51,
+      "covered": 51,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/tracer-bullets",
+      "reviewable": 103,
+      "covered": 103,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/use-local-models-with-vercel-ai-sdk",
+      "reviewable": 87,
+      "covered": 87,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/using-mcp-prompts",
+      "reviewable": 100,
+      "covered": 100,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/vercel-ai-sdk-messages-array",
+      "reviewable": 134,
+      "covered": 134,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/vercel-ai-sdk-tutorial",
+      "reviewable": 95,
+      "covered": 95,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/vercel-ai-sdk",
+      "reviewable": 108,
+      "covered": 108,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/ways-ai-coding-has-rewired-my-brain",
+      "reviewable": 115,
+      "covered": 115,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-are-evals",
+      "reviewable": 160,
+      "covered": 160,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-are-llms-used-for",
+      "reviewable": 133,
+      "covered": 133,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-are-tokens",
+      "reviewable": 107,
+      "covered": 107,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-are-tools",
+      "reviewable": 101,
+      "covered": 101,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-is-an-agent",
+      "reviewable": 79,
+      "covered": 79,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-is-an-ai-engineer",
+      "reviewable": 135,
+      "covered": 135,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-is-an-llm",
+      "reviewable": 131,
+      "covered": 131,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-is-the-ai-sdk",
+      "reviewable": 117,
+      "covered": 117,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/what-is-the-context-window",
+      "reviewable": 83,
+      "covered": 83,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/why-the-anthropic-ralph-plugin-sucks",
+      "reviewable": 116,
+      "covered": 116,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/workshops/ai-sdk-v6-crash-course",
+      "reviewable": 180,
+      "covered": 180,
+      "missing": 0,
+      "percentage": 100
+    },
+    {
+      "pathname": "/workshops/ai-sdk-v6-crash-course/generating-objects-via-output~dkm2k",
+      "reviewable": 54,
+      "covered": 54,
+      "missing": 0,
+      "percentage": 100
+    }
+  ],
+  "pageCount": 199,
+  "completePages": 199,
+  "reviewable": 21164,
+  "covered": 21164,
+  "missing": 0,
+  "percentage": 100
+}

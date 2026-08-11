@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/agents-md",
+  "pathname": "/ai-coding-dictionary/agents-md",
+  "fetchedAt": "2026-08-11T06:28:38.191Z",
+  "title": "AGENTS.md | AI Coding Dictionary",
+  "contentHash": "abf59fe94f93283516d0d8abda51efbd1fae3a5dcb367c946858c396f083b14a",
+  "textHash": "bb77cc1c85d7c81e7e8775966950939945a62bfea3a14819af9a24b7374653eb",
+  "strings": [
+    {
+      "id": "5734d5cc3fa8b840cffa256b9c41cd5df8351d00b7a6b3be8ad4a76197a24271",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "90b88ef3290e987e8894e933f41af80cc1b4dc6c3f6af2ec6c61e4399f5698a4",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ae517d6fdae807b8298089a5b5b7175c5aa4c5e1e328fbbceaa3b89cde8092cb",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "49dd6eb5e66c9ec1e41d169f18ca0b10f83f69372e1ca78678f00b9ad7000a2d",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "f635b39bc82edeace331b1585f2762c245a76d625e7b0631b9feae1f091bd8d2",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "a5f4ab2e1a65e3bf18d73e225339950bb5b3b298837585349b15b7318efe47a5",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "ba194fda24433eae98a5c003a29aa303d08eb22d98dbc07085a03f205c52e5b6",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "233df8cced5b25ffe4d06dbca4e0df7ec4c7f686346e9fa48d1afa75acb0b20c",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "6901a8064d44784282ecb37dc0b2d1971d08c8cf137dc7c40100e17d6d00ae3f",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "07204cfed43d72476076172b21003d542f4f746b63ddb4eb7ca09c9676d87738",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "3618504ea7fdcfc2993f2f303ef4c720bb66373bb723059b61afc4e905e212e3",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "5564e6372342f3a64d6ccc2e423ca3a41f6f102f444b6a1889208acf76dc2283",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ff7c9de06a73dbb68dde94e918596539ad122d76b4c604d6a196a857beb30ae2",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "c942df9b1e9712aeb1221ebbeb94273e604fcf506a86ed5e2cfd9f6ac647dc51",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "d5350e2615f144aad06c9910c78a2a3b526e5837988301ccd9b3ac83351c7789",
+      "text": "Memory and Steering",
+      "hash": "e9396c915a0fb1c9f188708920573d4a5b1ec0a09639049682989999ecbdf3de"
+    },
+    {
+      "id": "36494268ee48b9eea35ac35947f0a7fa3cf2503144fac6dff71510a1fe589d37",
+      "text": "A file in the environment that the harness loads into the context window at session start — the project's standing brief to the agent.",
+      "hash": "a1fcdbc29a02f700f77a1ad3793e6f196e207186642419719c9d492d48ad89c5"
+    },
+    {
+      "id": "c71a47d2806a52bd4e87bc1d9351612347d918d2464541824adb05559d897d1f",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "41b9c7dcb0a5d709acc84e2906bb2f89afe2cfcfe68dfd4fd2936665ea412355",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "e8b92f01391443871394396f5dada2b8214853a8da859a3e479941259bce95db",
+      "text": "A file in the",
+      "hash": "16add85f68c4eab785147460efe28443031769716ea2799440311ab67e1bfa6f"
+    },
+    {
+      "id": "5e75295775806767bfc51f92d9fc78a87ab02b7a8ab57db7032dfb0ac0b991c0",
+      "text": "that the",
+      "hash": "3dcd878494b700b9af17ffe4822d91bcb8f0b1d1b2c9f664872b951be025dff3"
+    },
+    {
+      "id": "5678979be02f91d32b99c084ab48abec04c0ad47f0420c8d1de8a918e40cdc29",
+      "text": "loads into the",
+      "hash": "09330faeb3c42f6feabfb09cd64418c9f5c4d07504c6cfc75203fcdc8b4031c7"
+    },
+    {
+      "id": "c6696e25c8095cedbd361760918f8852048ce4c2475eb8e6160f2fe2aa8dd127",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "00579b5126a0982901c25489d5d906cb1a6c00d39938f11925c9c682f645dd94",
+      "text": "start — the project's standing brief to the",
+      "hash": "c2bb44d25a0a4d2dc6e75335076e951bb2740847ea1403792dfe7b8cb53647ce"
+    },
+    {
+      "id": "b57b5118ca604cd47b18bbf3cc488723d9750620f65677c62c0bc229c9fcce4d",
+      "text": ". Cross-harness convention; some harnesses also have their own variant (Claude Code's is CLAUDE.md).",
+      "hash": "b24baf4bfe082eb775f381d66ba22d1217fdca1a01a64cbc65efb2f65f2cb2d1"
+    },
+    {
+      "id": "e7a314be18c4e00e34c1365649d21df9dbd5566b41ec5f6ea8ccc2867eeb3a54",
+      "text": "Because it loads automatically, it's one way to avoid repeating yourself across sessions. The",
+      "hash": "57794d4722dd87796b3da3dbd12eca37d9e1ab5f60d52669c97a7f15db3ac5c1"
+    },
+    {
+      "id": "0a8e351cd95c09f427b6d7e2f1430be3442778b7736b0ae49bb024a0515f74ea",
+      "text": "— a correction you give in one session is gone in the next, and you end up telling every fresh session that the project uses pnpm, that tests run with a particular flag, that a directory is generated and shouldn't be touched. When you've corrected the agent for the same thing twice, that correction is a candidate line for AGENTS.md.",
+      "hash": "975e56a0b8f62331972d3e82b0c6408ff74bebf914f0b7b91ba5d26d6da78835"
+    },
+    {
+      "id": "861135e9a12805d2bfc51f3b23cb65c52ba22b16571832f2914f33f5a16fdbd7",
+      "text": "Suitable content is whatever the agent can't derive from the code: build and test commands, conventions the codebase doesn't make obvious, hard constraints (\"never edit the generated client\"). Short and declarative — it's a brief, not documentation.",
+      "hash": "6b18f9607ed366e2684d56510d76ccb5aca8f97da992405000cccd045d8030c6"
+    },
+    {
+      "id": "12ba110ce686312883a7478ff24dde7cf6e8bfdc5a41a8b61decb72322c3f688",
+      "text": "The trade-off is that everything in it is always loaded. Instructions accumulate, most of them irrelevant to any given task, and a long AGENTS.md both costs tokens and dilutes itself — the more instructions in context, the less reliably the model follows any one of them.",
+      "hash": "0092c695fa2a1adeab9032434da477675f1be0f93148bc968337900e65abaf20"
+    },
+    {
+      "id": "cd4d8a947863ee673694c803db47d5ceba25ad5f66d762523837f7a01d4eb08b",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "57452aede18b9498ade109ff6bc7bccb869e1b25b617a2fa39079bd776bf88a3",
+      "text": "using AGENTS.md for content that should be",
+      "hash": "0dd627f081be440e43ffcbeaed803b5621011b3f797871935f2408177f5b9961"
+    },
+    {
+      "id": "fa9dc8ca78bb90b33b261d943ae27d6e83b367afa5164a467bd358285516e5f0",
+      "text": "progressively disclosed",
+      "hash": "45a142f3d761dd2c770826d4657d02893c1d980d6132338651f7a5c6f59784ba"
+    },
+    {
+      "id": "24b30998300b84cc2c09c2ec5b1ec4b1145b02529a2a935351f3678a305a37de",
+      "text": "— anything in it pays a",
+      "hash": "43b13b424791a31b37c225b3a4dfa1b8b7c968f70b46b15f500dea5fcc31486c"
+    },
+    {
+      "id": "d3259255e23d9fdc1bc176da8f640453401cfce6f276bfb07ee74cb422698156",
+      "text": "cost every",
+      "hash": "dbadb2394bab08c83d049478a94f767566a8121b44cbf5393b3edcdca67900ff"
+    },
+    {
+      "id": "69d0185b39e6897757867b330485e8124e09377e85da9924b6723523ed78d513",
+      "text": ", in every session, whether or not that session needs it. A style guide can go behind a",
+      "hash": "4c8394a207acc49d4655bf4e1e116281fdb21c0227058b338b536957f95b4472"
+    },
+    {
+      "id": "2fd1b16bb3fc931b878bdd0709c9507e259d0e5f93a619401e6a41189bfd7ca6",
+      "text": "or a",
+      "hash": "38596115fa6292b5ec3e278f4289002f38a7e8760fba7e7c9e5d6e35c0b38820"
+    },
+    {
+      "id": "b4d5cbd3149d4fb0c2a3b444eedb7115f01ba23173902f36dbd8af4efa277538",
+      "text": "context pointer",
+      "hash": "7fb80893d92cf9accaa94f3b2f011e80e1ed58eb0ec3e161e07b14e34c36ca1b"
+    },
+    {
+      "id": "db052013725e3c55ed7dae04f8e83d5760ce46e149a027e20247789c444e8b37",
+      "text": "instead; keep AGENTS.md for the lines that apply everywhere.",
+      "hash": "238f4fb956d830fd100cca9418709dcbdfef7c1963bdaabdca8e10a35edb97c3"
+    },
+    {
+      "id": "40a5243617f8a634760590b50d5b62b3876db2f2cebbaf606da5b72f0f3b1829",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "8e75d854de201e9c3e287f4f1a0833b1d302feea6bab2bdc4cebe822a49cb827",
+      "text": "\"Why is every session starting with 4k tokens already burned?\"",
+      "hash": "b802fa1b0fb774c16abcf6e431bf9ef136c1eaa8b98506aefa1493f0b27b4a76"
+    },
+    {
+      "id": "8aaa8a8ad95bf6c2284feeacb115002c92705fd13c732fb70c255ef017e3e193",
+      "text": "\"Check AGENTS.md — someone pasted the entire style guide in there instead of putting it behind a skill.\"",
+      "hash": "72967d41be19d5790c2af8bb2114248a59f95de82d5266693c8826fbefad9263"
+    },
+    {
+      "id": "dcebbdd1fddb07c70bfd5fd19e5f1586225589dc11c6a7bc388a28936ef751ef",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "e960c1d229093894122bc0ed89b32fb42f8c2bfc1b95c31a0f63a971c4422e5d",
+      "text": "Memory system",
+      "hash": "0262e82db5dfb849a70a2a6a94c1afd575205f2d24d5f001afa96f4d8dcb47d7"
+    },
+    {
+      "id": "8fb1bb110360faf756f9882846fd5669e73144732596f37eba79ed680c9314f9",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "4a0320f7d1408fff91226c023070ceb1a87ff174b3104ab0c9bea7a6052d2b06",
+      "text": "Progressive disclosure",
+      "hash": "cc1b70611c98675e8e42c8d6246c2f13f869540b48c6abd18713bd25ecc7611b"
+    },
+    {
+      "id": "ea62bcafdf92c3734666433027ff02ca5307efc1d45199c560af89a01624d64f",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "d4d9b18fe1b32b3c25739c4588770159cb5b454d8623e39708208354864d6b42",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "a83bc4c5a9896a1590cecd81cf0b571fb6beed9649cbab6c5c7bfde264179630",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "2280dc9146fdb3ffc3f1e0991a4dcb340dad363094b9d972e247be47b007491d",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "69fdb3471dec938bf96b73e6bdd3b647aaa9ae511f5d8386865f6b59e42ca9fd",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "8ace76b43ee767eed687c7047ab37c2ac92a542bbf475ea517d5504308eefccf",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "4a58a037004cf2f23074f6ecc2075e8eb48f046fe8a1962d91dbf016b06793a8",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "dc27f5caf21cbee060a392e7221d3c8e8c3b7f1bfe0e4f0bec4f0c235d6155e1",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "6d5c171c5765c162752a6b2095ee8c5dcb0c034ff11530d1802a315ef5779923",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "8bcea0c746b6085aa181aca9db64359e2879d25af225254b782bfdb58aa9cb29",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "50381bd2a2aa7062a0da89341a8e05d15ee7e681e4c4ddd0120bd1a54b9ffc89",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "470030c443d3f6bb83fce214ce08f9d35223bb8e87c9556e263e788398c283eb",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "3b49174f8c832eb660849cb304a66f1eb86940756b609e2068fb6a8b9f398376",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "39ab7a5c739b0ea03a388dea6a9df25cccbeb25c07b55b24a2388fb55456878f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b2a3ddc40a37289d322609d260e9347f53dbd96de99f7e40dcce9a53472120be",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "05e70fabab011a2d2d86875a2cfd04d08de96c9777b00abef166a68184bec9ee",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "5a62319386243d93694216dcc4abe3d33985786e61ef9415cab4032f7409024b",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "9c81a71a1416555900a20979de9cb803bb702f84232880662b3b1bdc88c29569",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "c077081afe74483086a74f73b1788bc7786e21cf41a6fc59f181f8143b4c1807",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "9c72b729262f50cfb53f83228654de1b838b2b555ea9831276349876ed4bcc44",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "8a6544b5feb6ebbb2c0844149dc704738655d11769d2322f6efb092299875312",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "3b6a55dc77a93a210c9605ac5ff0a1b39b263fb5d4382cf9b1ace61b79551217",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "62971ade891303cc85527d7859dc8dcf7f8c28f50f329b20f739bf07e06028bb",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8f37d655ddd7cdcd55b504d0f913e472a3b708f441f7fec9e68c580a4130d064",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "a1601b239d405afde9a1deae5666da03c3b1308d94cf04d708d516053e3f3875",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "59f0b47c2fe8e121fa40e7133b413605a76774af9f589793eb0fedd9b8cace9e",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"un402eaaxt4rr3\"",
+  "lastModified": null
+}

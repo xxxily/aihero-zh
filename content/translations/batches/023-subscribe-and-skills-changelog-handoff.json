@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "免费课程订阅页与 Skills /handoff、/prototype 更新日志人工译文",
+  "exact": {},
+  "routes": {
+    "/skills/skills-changelog-handoff-prototype-review-and-writing": {
+      "Bug Fixes": "问题修复",
+      "In-Progress Preview": "开发中功能预览"
+    },
+    "/skills/subscribe": {
+      "Free 7-day email course": "免费 7 天邮件课程",
+      "Build a repeatable workflow for working with coding agents without giving up your engineering standards.": "在不降低工程标准的前提下，为编码智能体建立可重复执行的工作流。",
+      "One practical lesson each day. Learn the skill, try it on real work, and finish the week with a workflow you can reuse.": "每天一节实践课程：学习一项技能，在真实工作中尝试，并在一周结束时拥有一套可以复用的工作流。",
+      "Developers subscribed": "已有开发者订阅",
+      "No account needed": "无需账号",
+      "Start the course": "开始课程",
+      "Get lesson one in your inbox": "把第一课送到你的收件箱",
+      "Start the free course": "开始免费课程",
+      "I respect your privacy. Unsubscribe any time.": "我尊重你的隐私，你可以随时退订。",
+      "From fuzzy idea to a workflow you trust": "从模糊想法到值得信赖的工作流",
+      "Each day is one skill and one small exercise on work you already have. Nothing here is theory you can't run the same afternoon.": "每天学习一项技能，并在手头已有的工作上完成一个小练习。这里没有那种当天无法亲自运行的空泛理论。",
+      "Day": "第",
+      "Choose your workflow path": "选择你的工作流路径",
+      "Start with reusable agent workflows instead of one-off prompts.": "从可复用的智能体工作流开始，而不是依赖一次性提示词。",
+      "Clarify the work with": "使用以下技能澄清工作：",
+      "Find the fuzzy decisions before an agent starts building.": "在智能体开始构建前，先找出模糊的决策。",
+      "Test uncertain ideas with": "使用以下技能验证不确定想法：",
+      "Make the unknown visible in a small, throwaway context.": "在一个小型、可丢弃的上下文中，让未知变得可见。",
+      "Turn decisions into": "把决策转化为：",
+      "Break large work into reviewable vertical slices.": "把大型工作拆成可审查的垂直切片。",
+      "Run safer AFK agents with Sandcastle": "使用 Sandcastle 运行更安全的 AFK 智能体",
+      "Scoped tasks, isolation, visible logs, and reviewable commits.": "范围明确的任务、隔离环境、可见日志，以及可审查的提交。",
+      "Review the result with": "使用以下技能审查结果：",
+      "Find avoidable mistakes and improve the system around the diff.": "发现本可避免的错误，并改进 diff 周围的系统。",
+      "Put the full workflow together": "把完整工作流串起来",
+      "Run the loop from fuzzy idea to a better next agent run.": "运行从模糊想法到下一次更好智能体执行的完整循环。",
+      "Day 7, what you'll have": "第 7 天结束时，你将拥有",
+      "One written workflow, the slash commands that run it, and a review habit that keeps your codebase one an agent still performs well in.": "一套写下来的工作流、运行它所需的斜杠命令，以及一种持续审查的习惯，让你的代码库始终处于智能体能够良好工作的状态。",
+      "Built from Matt Pocock's working AI skills": "基于 Matt Pocock 的实用 AI 技能构建",
+      "Matt created AI Hero and the practical agent skills taught in this course. Before that, Total TypeScript.": "Matt 创建了 AI Hero，以及本课程教授的实用智能体技能。在此之前，他创建了 Total TypeScript。",
+      "Matt is one of the best developer educators in the world.": "Matt 是世界上最优秀的开发者教育者之一。",
+      "Vercel CEO": "Vercel CEO",
+      "Lesson one lands the moment you sign up": "注册后立即收到第一课",
+      "Seven days, then you're on the AI Hero list for new skills and Matt's coding letters. Leave any time.": "连续七天学习，之后你会加入 AI Hero 新技能和 Matt 编码通讯的订阅列表。随时都可以退出。"
+    }
+  },
+  "blocks": {
+    "/skills/skills-changelog-handoff-prototype-review-and-writing": {
+      "I've added two brand new skills to my skills repo: /handoff and /prototype. Both have been great upgrades to how I work with agents, especially during planning.": "我在<a href=\"/skills\">技能仓库</a>中新增了两个技能：<code>/handoff</code> 和 <code>/prototype</code>。它们显著改善了我与智能体协作的方式，尤其是在规划阶段。",
+      "The repo has been growing like crazy - the response has been incredible.": "仓库增长得非常快，大家的反馈也令人难以置信。",
+      "I've also fixed some bugs in /grill-with-docs, /to-prd, and /to-issues. And I'm sharing a sneak peek at some in-progress skills for writing and code review.": "我还修复了 <code>/grill-with-docs</code>、<code>/to-prd</code> 和 <code>/to-issues</code> 中的一些问题，并提前分享几个正在开发中的写作和代码审查技能。",
+      "The new /handoff skill compacts your current conversation into a handoff document for another agent to pick up. It creates a temporary file that summarizes the context, captures the vibe and intent of the session, and suggests which skills the next agent should use.": "新的 <code>/handoff</code> 技能会把当前对话压缩成一份交接文档，供另一个智能体接手。它会创建临时文件，总结上下文、捕捉会话的氛围与意图，并建议下一个智能体应该使用哪些技能。",
+      "This solves a common problem: you're deep into a grilling session at 60K tokens, and you need to prototype something or fix a bug. Instead of cramming that work into your remaining context window, you can hand off to a fresh agent with full context. You can even hand back to the original session afterward with what you learned.": "它解决了一个常见问题：深度追问会话已经进行到 60K Token，而你突然需要制作原型或修复缺陷。与其把工作硬塞进剩余上下文窗口，不如把它交接给一个拥有完整背景的新智能体。完成后，你甚至可以把学到的内容再交还给原始会话。",
+      "There are two main patterns: fire and forget (spin up an agent to fix a bug mid-session) and DIY sub-agent (hand off during planning, do some work, then hand back). The skill lives in the productivity section because it's useful beyond just engineering work.": "主要有两种模式：即发即忘（会话中途启动一个智能体修复缺陷）和 DIY 子智能体（规划期间交接出去，完成一部分工作后再交还）。这个技能被放在效率分类中，因为它的用途并不局限于工程工作。",
+      "The new /prototype skill builds throwaway prototypes to flush out design decisions before committing to them. It's critical for AI engineering because you need to use prototypes as research and spikes to answer unknown unknowns that you can only figure out by looking at code.": "新的 <code>/prototype</code> 技能会构建可丢弃的原型，在正式作出设计决策前把问题暴露出来。对于 AI 工程，这一点至关重要：你需要把原型当作研究和技术尖峰，用代码实际观察那些只有亲自看过才能回答的未知问题。",
+      "While UI prototypes are the obvious use case, the skill also handles business logic prototypes. When you have complex state machines or entities that change over time, you can build a tiny interactive terminal app that pushes the state through edge cases that are hard to reason about on paper.": "UI 原型是最直观的用途，但这个技能也适用于业务逻辑原型。当面对复杂状态机或会随时间变化的实体时，可以构建一个小型交互式终端应用，让状态经过那些在纸面上很难推理的边界情况。",
+      "For UI work, it generates several radically different variations with a floating button to toggle between them. You can walk down the design tree, combining elements from different variations and discarding others. This is essential for making AFK agents good at front-end - you need a human in the loop to apply taste, because AI often can't see what it's building.": "对于 UI 工作，它会生成多个差异极大的方案，并提供浮动按钮在方案之间切换。你可以沿着设计树逐步探索，把不同方案中的元素组合起来，舍弃其他部分。要让 AFK 智能体做好前端，这一点不可或缺——必须有人介入并运用审美判断，因为 AI 往往看不见自己正在构建什么。",
+      "The /grill-with-docs skill was sometimes too eager to implement instead of asking questions. The fix was wrapping the supporting information in XML tags to reduce its \"loudness\" compared to the core instructions. This signals to the LLM that the content inside <supporting-info> should be slightly less prioritized.": "<code>/grill-with-docs</code> 技能有时过于急于实现，而不是先提问。修复方式是用 XML 标签包裹辅助信息，降低它相对于核心指令的“音量”。这样可以告诉 LLM，<code>&lt;supporting-info&gt;</code> 内的内容优先级应略低。",
+      "Both /to-prd and /to-issues now apply the ready-for-agent-triage label instead of needs-triage. Once you've created issues with these skills, they're ready for agents - no additional triage needed.": "<code>/to-prd</code> 和 <code>/to-issues</code> 现在都会使用 <code>ready-for-agent-triage</code> 标签，而不再使用 <code>needs-triage</code>。用这些技能创建任务后，它们已经可以交给智能体处理，无需额外分诊。",
+      "There's a tri-part writing skill in development: fragments, beats, and shape. The theory is based on how authors keep journals of ideas that eventually work their way into stories. You dictate fragments (ideas), then write beats (a path through the story), then do a final shaping pass to make sure it doesn't sound AI-generated.": "目前正在开发一种三阶段写作技能：片段、节拍和成形。其理论借鉴作者记录灵感、最终将灵感发展成故事的方式。先口述片段（想法），再写节拍（穿过故事的路径），最后进行成形润色，确保成品听起来不像 AI 生成。",
+      "There's also a review skill coming that will kick off two parallel sub-agents: one checking if the diff follows the repo's coding standards, and another checking if it faithfully implements the original issue or PRD. A separate skill will extract coding standards from your repo to make the standards check more effective.": "另一个审查技能也即将推出，它会启动两个并行子智能体：一个检查 diff 是否遵循仓库的编码标准，另一个检查是否忠实实现了原始任务或 PRD。还有一个独立技能会从仓库中提取编码标准，让标准检查更加有效。"
+    }
+  }
+}

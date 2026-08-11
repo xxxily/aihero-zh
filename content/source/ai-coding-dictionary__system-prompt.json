@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/system-prompt",
+  "pathname": "/ai-coding-dictionary/system-prompt",
+  "fetchedAt": "2026-08-11T06:28:32.135Z",
+  "title": "System prompt | AI Coding Dictionary",
+  "contentHash": "63f4c7babcd48a2f48a87237f283769ebb226ee5a4fde9c78c41cea27cd3ddb1",
+  "textHash": "96c928678d16af99ab07a9b7cb66f8b2e0d6b9cdfe1bfb1b9ce2359eb123494f",
+  "strings": [
+    {
+      "id": "ae223a5369650680b85039df79dd64b54ccd71719da8b9626bd6fe7d8257b746",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "4d9cc9410e7501d0c1d6f8ef4920f1b85a3e50f883836c6e72695b5e3f212cea",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "8268e1633dff69b9fb8cfb0398234ae4136658f6570463fd2ca9da62282810d6",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "fd87d691c3f2b69409f3e890a9f88b555dd73f6c5f4020e3b73d34c17a3239a0",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "9570287069233843b73fcc10c813fb6af078bc224e73ecbaf8f1f45662e6d788",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "17d56d49d7f3b7dcfe9631c961ad17cd92e7fb0d2fb8c7675f09797971448a09",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b68cdfef48db78bb79fca4a9f2c93889d9a045eadd241564238e6c9bad5054c4",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "050304292330adb7d47df9e8176ff1c968c328b308510ebfdab1f08b086cfc7d",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "eac0bc681da4e5f352377da9f0ec34f4800bad0acc5d229089f8f04d214ee5b5",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "227b300f3f22b3165b904cbce6c38a2d5f8df113f06c6e79b8eecb88fccc5daa",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "9eabff1f507ce742fc83e7207122d542c8ffea56eb81514159340866a552c70e",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "1d9957df4bcad89ead9dac704b2b5733ec98ce2fc6af2579d959973c05e50dd3",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "10ef4b263b93d26d7c3696f7b622cb798ea87344f9206e7049d60be212db3556",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "54d52c197b52b2fb7b4fe0cfcc0f699688186406519ea3de0125e8115cefabe3",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "6ec5c7397709826a85a85611b74ab3b43e3477ed8e28d808730ab5b64eb84b03",
+      "text": "Sessions, Context Windows & Turns",
+      "hash": "6ba86329848f193a00922dde232ac1e483d8805be061a48f5580560ee54d0b69"
+    },
+    {
+      "id": "661e3a973e4c185504a890b2a6141e12cd75ca8a8c798587bb9263e56d8cbaf2",
+      "text": "System prompt",
+      "hash": "561257c019e5e351b341fcb53a45a61e2748698f14404bd38a3dbe58a957ec30"
+    },
+    {
+      "id": "6eaac613ce37be8bcb2c0bac042775a5fccd739739540552d1a172454acac454",
+      "text": "The instructions the harness prepends to every model provider request — the agent's standing brief. Usually stable across a session.",
+      "hash": "c6bc37b61f974149ed93ba4b8d5550a57d5cc059d5475332cb082bf59bf8ec4e"
+    },
+    {
+      "id": "6648ce32e9b1799a3f613abbc80aa70d513b7a44a13b9db761aacccd0ec23c0e",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "344494ea5e44b69563c9ee4c3face980d49a903d98690c9e3a9e8dbe13633062",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "b4ec3550efe1860546325a4e39b229f4a9af8b789fd2413faf4eb89efa12c927",
+      "text": "The instructions the",
+      "hash": "2a17fb1539d7817abde7b635bb710eae43564b6aa1db29113823b5685225821d"
+    },
+    {
+      "id": "2a622522a84fa5f899cacf32dcb31b7506bfb1b20843f4f61e297ca711634b1e",
+      "text": "prepends to every",
+      "hash": "9de0a4c4aadf0c514b2879ddc6bb31c1f7cf00dc4fabc6c2405dcd68beabc957"
+    },
+    {
+      "id": "d0e7c8af2e97fe05b3b400e56e79a757a2508a5250ad39f3631e2549be7d1342",
+      "text": "model provider request",
+      "hash": "3004d539f1f0ae7a40070d95ba4a1323d874684827edf4d55b29a1056f8da7a9"
+    },
+    {
+      "id": "c0089df2ed08ed0cd9a08afb2756dabdebc6128e705246e5e9148b5cffaf5468",
+      "text": "— the",
+      "hash": "4b4c2edaae377e0f86cfdaebcd2d63a27f6438259b3bb97065b79332660fe2d1"
+    },
+    {
+      "id": "3e12e1a6f6620253b852b20da9cd8605eb0f0a3bef0914c517779f528b725652",
+      "text": "'s standing brief: who it is, how to behave, which",
+      "hash": "326a60cff733a49379dc1cd13b44f1cdc4f6ea1cb1ed571f6f19219b7ac3d812"
+    },
+    {
+      "id": "537e00d8a4cacd15f8bc0706d65fb9506d2b7d0bb3bd08354da8551e503a4838",
+      "text": "it can call, what conventions to follow. Usually stable across a",
+      "hash": "70e6a28adf20caca641a67e569b4b83c7dc94d5f54159061376b20733bb0b0c4"
+    },
+    {
+      "id": "32503ef63ed7d15f94f3d43cc160b8516501a61f5015bc79864a317539f8ee93",
+      "text": "The system prompt is written by the harness vendor, not by you, and in coding harnesses it's big — often tens of thousands of",
+      "hash": "6c9f043fdeaf54069ee7b546f93d0f2f2cd0fa08df2dcb8ad0d252c967410cf9"
+    },
+    {
+      "id": "d23cedbfcd8ff1d181a02d0dd0c6186f79b35f6d8e45acf81979247600db95ed",
+      "text": "of behavioural rules, tool descriptions, and edge-case handling, all paid as",
+      "hash": "164de730740cb337aba7ea4f613615e9c97ae9cfaa3c8356266c650e4ca6cb5f"
+    },
+    {
+      "id": "bd8146860b7a98c3f49007d0e7befe3193d5cd05e87598b9fc62ac0e5a54d204",
+      "text": "input tokens",
+      "hash": "f0c1cb4cda1985a408b12908c01227b01065a8cdfc2a03e2106ca60275f27d16"
+    },
+    {
+      "id": "9678bbd696636bd02d2abb0118e9ba4bc9ee8ba8239444178aeb41210da9b66d",
+      "text": "on every",
+      "hash": "9c34ac1fbff22cab4932baa69eb90745f947cf422eff5ee836621fb87edec310"
+    },
+    {
+      "id": "9017f03124ecb0f27a473b4b21e968679ec750d6e6a479762b4ba02597de18e6",
+      "text": ". Your own standing instructions ride along with it: files like",
+      "hash": "9d8c94a05c2a3450b15f69e8e2a30b9806f630e551c5dcc1e3ed005a4e82b362"
+    },
+    {
+      "id": "20c9d88e55ed711294e9de1d17028390c08971b28e89f14e96251cb7a07112a4",
+      "text": "are loaded next to the system prompt at the start of the session, so the",
+      "hash": "d2be1da9b6392a836454d095bdd592ba8c67e180ac9e957b98f33095c43bccaf"
+    },
+    {
+      "id": "10afb718e9248962e1aab5ab597c29bec41898dcd037805f1f052725c77bb0ba",
+      "text": "reads the vendor's brief and yours together before it ever sees your message.",
+      "hash": "7999333062007eac0317aa347704e4e4b2c1377e672ebabb576dea1eb58fdd83"
+    },
+    {
+      "id": "f8603daaeed9943c94585a9ba1486760332b58997a0a1abb5b4b4a7215bf948a",
+      "text": "Because it's identical on every request, it forms the start of the",
+      "hash": "138ed60b579d7102084d0a97d8902b356d8bf6690c9bc01e58399f80fbdfeaf9"
+    },
+    {
+      "id": "edf7e6c9aed4cc2c2ea162df2fcf568b512bc53da08f54f8ed78b941b443b992",
+      "text": "prefix cache",
+      "hash": "2cdfb6c2d97e750050af7ef5f0ed3c788737a1776e6c1f740f856462592ba13a"
+    },
+    {
+      "id": "afe7669cdf3363c6f1120d59e053cfd1dd4ef610bd1051196719b447830a6257",
+      "text": "— which is part of why harnesses keep it fixed for a whole session rather than editing it as they go.",
+      "hash": "332c0df290c1001d5fc0fa82a60a1e33e528ac9cc883c25facb0e5184f125ec4"
+    },
+    {
+      "id": "efeab80f2b439d6e0e522cfc962e900a805a1b9c4a37b53ca63c9a75296c17d4",
+      "text": "Models are trained to prioritise the system prompt over user messages. So when an agent insists on a convention you never asked for, or formats output in a way you can't shake, it's usually obeying its system prompt — and your message is losing the argument. Some harnesses are customisable: they give you full access to the system prompt, so you can read what the agent is actually being told and change it.",
+      "hash": "47bba831f4f47d717e01d15f31e678fd194f0227864f29ffeaff0d664fc00061"
+    },
+    {
+      "id": "eefb73ceaf9a7c3fb65ff330538c287a2bd6d35fff4c65f82f96d5463ac470f7",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "a7e40586f4d3267f97df8f388b954cc7ed7c8fb17ae4f6ea3347c2e7fbb98f80",
+      "text": "\"Two harnesses, same model, totally different behavior on the same prompt.\"",
+      "hash": "d208949603e32defe3dae15636e4b1b7f9d3210dc55c38f23780f6ee18d2ab91"
+    },
+    {
+      "id": "abd4cf4c669a4ce184cbf95acd2f599c434559767cf3da4fd41fc0cc59582d0e",
+      "text": "\"Different system prompts. One's tuned for terse code edits, the other for explaining — that's where the divergence lives, before your message even arrives.\"",
+      "hash": "ac51bad67630d795c33ab2f374bc936281052ff26b37a6d09900feaa9ef8d302"
+    },
+    {
+      "id": "c9d969aea14521f948e7fe9b402338c31109f115dfad733fe101cc0520548b4d",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "f2438eecbb77b5210036efb14a18959c0e05c39068be0996dacad24f6549c14d",
+      "text": "Agent",
+      "hash": "11b39c93777e8f1f3983bdba7c72b22fe68cfea20c677e9de53e17cb7dbfb19f"
+    },
+    {
+      "id": "76340b94efa369241e24da98a926f55e1a05bfaa195c1caffdeb38c6b56f5082",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "35350cf084e2858b393dfe03b4f5d0db10911633e49b1d0770a5cca482d8848e",
+      "text": "Session",
+      "hash": "6959b4159575d8dd76d9f3bbe2c6437904f861e7860c35abd18deffb1c3425a0"
+    },
+    {
+      "id": "dc8f3818c473a5a40c3bccd153c269f3d02d5414c7109dd391ab499bdcc8a096",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "c00b98c79b49bcfd23c744e8f1f9b3f229c3d512404f1041dd52d45f4fa9025f",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "92161cb661b198cc230ad86698283585eec8dc524fedb0ff0f81ca65ef1ffdd3",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "699afd6de986a413dfb39cbda66bee40a20460a20352473a11ea76aabe7456d6",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "b0b80e2aae2402d948194557efdd8d132b8b5b921f046aea1a5e77b7b841bf9b",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "c987a95e9477a7e4523d69e1f34431666749f5f7de970da11e9dc24ef4544137",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "5c06bfcf430c4591df54de90f1b8fc931473a1e04896f2466815ece78a0c63ce",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "fe14fd4b54c69b7b161c8da79e6db3c8bc9b08b2e1c1b48da13c4a9a0bdf57e3",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "69161d3272fd82536d1b1905478e5dba8d579214427139f67c17f48506210942",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "6328b6c7847a54fa2bb8f37ea0ef58911d815e1b6df97c22d327831564076ad6",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "70573411bb54e4c934e594cce44e69638e791358d99a318013e6609b6a1673f3",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "4c85bed1312f95fc30581cdf5e576211995ccb37d3b4de8184bb76911b0cc6a9",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "64263b61e50a6676f5175fca4ba462c13df495c3157fe93d495aff447d631925",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0847712b53b529891d00215c2cb127a7a437ce0a78fa9f07ddd4af74df4ebca2",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "d580aee01f67dd68ddda89a367b5e4914fb707bd9035c0e07333ad22408c5054",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "fcae7f4c9401882a78c3fc0010d6426c013f2e10303bbead5b66c25565b91029",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "dc182f3bb0ae71e738c8f419a4f09f8564f44d89dac4f07ac72d77e3b10b17b4",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6a824164971a02015ddd5633ba2887f25b52032c7eb663ae25cbddee66782cb2",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "c16472725927abc08cf976018b5c06cb2b6a0567c7491db3bbe589aec9758a0f",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "71ade689884fd92d765d118af44422233bbd50b80ecbc8364a80596632d2d3da",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "a8806f32dbb10de98f5e4a7d85319ef4632c3fce226e31a3e7e79e62a53c97f3",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "ee7191339256427646b163c20a61e0e969363677f864897087d9798a59045a44",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "18174f3c3c448c1d3f5b20046007338286f5500aa61404d4a91c435b629dd5ac",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "477eaaf8598c3662b809356115bd57a6ecf1907d3a44de742e0bdc0e2e8d6956",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "1c2c0996a422bfc2c820c8404334023f392396931838d1531679442a90d02fdd",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "69e87a6d6f56c6176d7975629f6a973de432d50f71a4f5ae0e014f3e9d4444e9",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"ezvczzhh564rl5\"",
+  "lastModified": null
+}

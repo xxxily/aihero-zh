@@ -1,0 +1,793 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/what-are-evals",
+  "pathname": "/what-are-evals",
+  "fetchedAt": "2026-08-11T06:28:24.889Z",
+  "title": "Your App Is Only As Good As Its Evals",
+  "contentHash": "0646e05d63139918cdbdaa1290cf782b3b7fe9d53574ae9cfcac55e0e55b7b06",
+  "textHash": "a9ec5b66b57fe46806159079b2d4d1e6e480d5dda4d6d907926bb41cb6391731",
+  "strings": [
+    {
+      "id": "584151fc7c9782b1af92e6733b2f6ba3ce9d3dd5a3d8d0a210b29f170c98d502",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "31399f1ff5bad3497144929b2d6966c0a749c31b29db1c047cdd5b4dd9c43fcd",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "f8b39d0d47b97bfc2c46210122180600c19784b5a54ba376efdd5b1020a22ca8",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "8c78be4e0561ccedcb3782731caa947307d05f1f6281d4d844086c82db18888e",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "eeedd4058ebcc6b01de911509d37b2b422055fd858b5352a7bf8bae0b6da2d63",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "3a7a36b595b90ce6df975a539b676281fa01bc1e44adf7b177a8bc9d248bc7e4",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "3729183c63a0379dabd928fe13c47ebb453acd371e047d66020cf78ec7b7d14b",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "48e2f2fc29477f5e1ea7986e908ed2010079bb7e56a53e52fa29e8a9f2431f46",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "a6272a64efac222f765f1c9e82e7a73f715db379c44392e93c2cfbf596427598",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "3930e6eb390a2329353638cd9e63fd955e37af62e74da6e3a77fa0ad82fb1de4",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f9af52f933f872563fdb85319e6b6e89a76fa9623179bb6e81f59cc10466dd4e",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "01a3b9789d35699879d2a31e437a319a2fcc9611a26db1c7c9f10f50631a35f1",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "36f61be5d893df4cc71009f075d208ca316fad6e9cf5886a2e47dd706642963a",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "af4c410447968ff1905f59780f897097abc012213e4aece3533276eb687a0089",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "3f75c297455b32f17df058f16c237404999c48bb47c1efff811dd14a126b6701",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "3e4ee9a5001af2ee80ff96976ab3bb792ab4b52d123b5883273cb56f3643f26c",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "69aba61a1773765df142a26d85ab3ab939f17c6ee693d0b5e5962d5793c6f74c",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "ffaf62252dd8067dc0c34b51115f9d37e158b6a53cd73675ff64f685f39c3cf8",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "194865cf0f5299c8f466dc45d3bd404293743b0f630fb87dfd7cad51fbab20e3",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "123bb65f744beae505f861563cd7690c0bed23f391ba0933a88e0780516f7468",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "9978c1cdd721e5419106b6aeba63703ce64677e8bddf61d28675a3d9b350ff0c",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "d58c8321970ab11189e5d22d905f13374b60ef4acc132e665f88aff09a93f58b",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "20990d46485df07b68dda93445d646d5579659cb802aaf93ed1b09711bdd179a",
+      "text": "06 / 07",
+      "hash": "ccbb928ae3c5277f05e72785f37cfa18728aa1889cdb2a6dc5957925cc038e21"
+    },
+    {
+      "id": "cf774d50a10c1ac4e6afce3bee83176f8820c4430a5aa33ad39146d37f1807bd",
+      "text": "The AI Engineer Roadmap · 8 min read",
+      "hash": "76b7645cc73b8619b3b16cd1c99c62f074f5c4ba6ed5747fd444122e4ea7486b"
+    },
+    {
+      "id": "ab72a47db7b46e1cb3a7a0039123767f489072998c914446ca56c3b8d3140f88",
+      "text": "How do you know if your AI application is hallucinating? How do you ensure it's outputting what you want it to? Evals are the answer.",
+      "hash": "1f678e4c3ce147fc0ff2d8ffa1f7321ed744547d3d26009f89bd5ee66e54853d"
+    },
+    {
+      "id": "425d36649077be98ccb5248f4cc38ecf4ddae3f9f3b458de5f61d76c31d45468",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "f31e89831d1ac3dc6ae5ea16616f185a371f31251be6089fc9cd433569b6972f",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "8a08e882dbb9c9d03153529c218fb8550c2a708074e21b2972ff7002865c73ed",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "c90eb344d523c13ace0435602a061f9e58f28d68c9e62d26f06f60607972fa34",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "d726557918a342326af72eff1dfd3c2d10a386510e6b4c36af3f4aeb92de2de8",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "c5e2e478f9c46b1249e544bad499a6db8026eb642342cbd70630652a8cd98b21",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "09df20060b3c15a9e6f7daab1821677830e78f2f20f2c8c33b4157bcc88f77fe",
+      "text": "Why Traditional Testing Isn't Enough",
+      "hash": "6c945739b12f9b4a1ebdcfdfc61314b7fcf6454a8421a411056924c53e9a2326"
+    },
+    {
+      "id": "e8aa3c46f1150beb0b22d4c1b1cc73f0f63349e5d29b8b0af423fefd6a3329f8",
+      "text": "Manual QA Is Not Enough",
+      "hash": "359fe64f156e2be8e84bad51e47d3328bfc0b40b115f25c0b4f8f94e022e4775"
+    },
+    {
+      "id": "fe069e7053405fe6940fe983c0775935975075ff348374d364f29da50a3439ca",
+      "text": "Evals",
+      "hash": "fff553f218c706a60a576218f987e844b20dc46585a30badca578d0ed42fd80b"
+    },
+    {
+      "id": "7718162323b9da4e62cea1f287d8a15babe9209809fb3bb05c4c790738f24920",
+      "text": "Three Types Of Evals",
+      "hash": "03bfa27bb0efa741bcfcd0e418de160902998684ba8f9c9400e73b57c89afdfe"
+    },
+    {
+      "id": "77fd7d9ca06094c298c9d65cb0c99036d3ae3117306b4689f77b67d23b886ede",
+      "text": "How Do I Improve My Evals Over Time?",
+      "hash": "aa84dcf2e0ed2011771de1ce34bd3f1d8677140b1048ca585d4c6ab6fda54697"
+    },
+    {
+      "id": "140ba21d7f08b859068a2cf2a53ad90287b6c2d29ffa8083d1b801e79c140a65",
+      "text": "How Do I Run Evals?",
+      "hash": "161b8f1593ed78beadc5101f1da20342fc6c44542c0363b7280bc1ef0c2d6c79"
+    },
+    {
+      "id": "18d9b41b583b115552c2162cb916d27696d982eb6fab31737a9f76a1bc5115dd",
+      "text": "How Evals Work In Practice",
+      "hash": "854edc62037d4780ca12d8bbf2bf69b4dd3f86dc5bf3d77fd28e197cae05ca60"
+    },
+    {
+      "id": "6e43ce74b962d6c9416cea3637fbaca2897ac94e784bdaf77dd9dc28cb4d403f",
+      "text": "It's The Evals, Stupid",
+      "hash": "c0a623737699d63af08c62a542e1ebe6b76848c33de3be6f71178b650777bb9b"
+    },
+    {
+      "id": "10b07670e37d2df260c254b96f873bbf571b72ac111bd76c0b05e5642d3e0777",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "9ad1ec0325c392da4db6413890003cdafd8c8333c93dd48b1f32984ade801e46",
+      "text": "As we discussed in our",
+      "hash": "1924f95c829a3b0e9f5140f2aa7a64351a08c90219e77a50db2fead9872d00c3"
+    },
+    {
+      "id": "384afe80cd7843e718e980fd0ced0e6d91b9d84344c53d2fa184f971a5705bd6",
+      "text": "previous article",
+      "hash": "153d3e70327392c6fc6e52675bea1c9b46bb492501f523deb7a6cea024837370"
+    },
+    {
+      "id": "791f73f5feec772f08ea49cb72de57dd0054a986ca9d760c7b9654ba62071fb5",
+      "text": ", building with LLMs requires a fundamental shift in how you think about software development. You're no longer designing deterministic systems where inputs map to predictable outputs. Instead, you're working with probabilistic systems which are inherently unpredictable.",
+      "hash": "2070d2206593dc6d4319b01f2598a75a27a9e0ec17e2579091d399b7a60058cf"
+    },
+    {
+      "id": "081735c772007eff97812633b9ce73ea801bb72d5733c7a6fd835c5033e68b85",
+      "text": "The key tool for managing this uncertainty is evals. Evals are the AI engineer's unit tests. They are how you wrangle predictability from a probabilistic system. They are an indispensable part of productionizing any AI app.",
+      "hash": "f4b5e0d0b48348f13d53d522a7d95032cdd730f0ef60e9a867283a3120cd6799"
+    },
+    {
+      "id": "77524c2f213dd0635ebf0cccc9c03bfd15231f47e2dc057014c34971078c0c11",
+      "text": "Let's break down what evals are, and why AI apps need them so badly.",
+      "hash": "db3b18dd11f0447325d8c0a5056f545891e95eb45a4cda09aeb984e481086486"
+    },
+    {
+      "id": "b4ab5b6b663981edd3641f8e8d4bbe8ad24673c2212d9ad1655fa233c234cf48",
+      "text": "Traditional software testing relies on deterministic relationships between inputs and outputs. Each component has a clear domain of responsibility:",
+      "hash": "7fc53f0ce46663b41b780c6800a03426d90aa354381872ec4fedbc4d38745294"
+    },
+    {
+      "id": "1428242005e1d7e2eb8d4ac064f1a6ff8d1b754c870847b0059a14e581b2b6f1",
+      "text": "But LLM-powered systems are different. Every input goes through a complex transformation process that's hard to predict:",
+      "hash": "282751e75174f62443c1bdca55d283492791852456275539f4e6760124fd9939"
+    },
+    {
+      "id": "548591ca774a7c9981f7823e1dd2f938cdbf7cb65e54abfea7b37384e4d268c4",
+      "text": "In AI systems, no change is small. Their attention and transformation mechanisms are inscrutable. Whether the butterfly \"flaps\" or \"Flaps\" its wings may change the output. To put it mildly, building robust systems with them requires care.",
+      "hash": "3ba058a724f5897f6757248aad3c207ca3c4153523370bc634db4604e8c16aa7"
+    },
+    {
+      "id": "157e9c15b70ffcdd3a2772a9de5c1ad3b54376f6eb106070d0b6349419f778e0",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "a6005d711e79d467e5e0aa407665e040f24c339d6be5bcafa37291cc42700ca6",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "9433f55000caae72fecdba65b8e579f3a93cdd476cc4c09f3b6f8270fa5cdd83",
+      "text": "It's easy to get an impressive AI demo working quickly. But getting that AI system to production is not easy.",
+      "hash": "59f0818091488e619b42df046863db215f2d48c2ea2400e3449c331dc401558b"
+    },
+    {
+      "id": "cb54eb3105a4d0c6285cfcde371ad7a107f3e847d5d1d47b6c6c9bc577e53968",
+      "text": "Specifically, it's hard to know whether the things you're changing about your app are getting better or worse. You make a change, try a few favourite prompts and see if it \"feels\" better. But this is a dangerous way to work.",
+      "hash": "b206b094c52006be33a3c54dbe786cc6ed38241e80fc160e615ce983ea2b541a"
+    },
+    {
+      "id": "1f907a0ea80169b2f725e6df9aa0495a3dc4d66049778e91112dc131acc99ece",
+      "text": "A \"Manual QA-only\" approach in deterministic software is usually doable. You say \"I added a new page\" and the QA team can rigorously test the new page, and smoke test the previous pages.",
+      "hash": "a0585a140a10d752a6050e81851a4869277c4e1e742fd468424e52585053824b"
+    },
+    {
+      "id": "ae8e101933672eb07ca84e8c70ad49ffc246706a2f9d9f6156d64bed94e4eb7e",
+      "text": "But in probabilistic systems, it is a killer. When any change can affect the entire system, you need a way to know if your system is getting better or worse.",
+      "hash": "93751c30e91e7fdb3865bad8f9afc4a526de869d2355e1c3d3c9af279cadb106"
+    },
+    {
+      "id": "8bf7fd8ae8c1738a512f3d4f7951a4686a450eac2dcf725b66767b40b32dde56",
+      "text": "This is especially true for large changes, like which model you use, or the design of your prompt.",
+      "hash": "364f94980f2564b8848268872e6dec81c14cac129662aee72e15594c716293ba"
+    },
+    {
+      "id": "637cd3fb3609a6a52f2e7a0122fcf1c889ccff080f5a46c11256b3cb66d90665",
+      "text": "The key is automation. We need to evaluate our app every time we make a change, or every time the underlying model changes.",
+      "hash": "00b9d8a8f9bd205740555f71748f2582639a62903855af80d3a78e7af976e1dc"
+    },
+    {
+      "id": "9de0d359822f176ba895fdcd435d8a1c86f4e145d29000d5bd41ed7907519920",
+      "text": "Traditional, Deterministic Systems",
+      "hash": "1da3e5f61b6b3fc4368d8cf47e89faef40dc4b5551f80ee8e50d3c28dff056e6"
+    },
+    {
+      "id": "b7b64eff1a33b85f16915784606b9d678d81e3cdb83387f4a45ca2c6c5064e0b",
+      "text": "In deterministic systems, automating testing is relatively straightforward. You can feed some inputs in and check the outputs.",
+      "hash": "e75b2df57459d044e64feb0d0f8b904b357f607128da63fe1b2ca204df2327c6"
+    },
+    {
+      "id": "77e9a6fb646d8ec3eae3b6cd1525a9962aa7804308b0ec383d88f46efbb91098",
+      "text": "These assertions are 'pass' or 'fail'. And usually, an app has to pass every test to be considered production-ready.",
+      "hash": "640975ca3fe4638c309e8ad20e33d0a32c0fadc45e65fada6b6423d8d68651ed"
+    },
+    {
+      "id": "4e47a6db7af7ae62c38137a13a1fe6bf773a4e7b61cf3c944bea26944afb94d8",
+      "text": "Probabilistic Systems",
+      "hash": "52be0a8b052d9e9a7cd6afaab35d409c58fa697edef92dcf6c956f735a951dae"
+    },
+    {
+      "id": "14976c3cff892ed997b8ce30a9bcace575e6a9bae1aae72185d4915ee9b54212",
+      "text": "But writing these tests for AI isn't as straightforward.",
+      "hash": "29ffde61e99504db6bf6d5c9c0416ae614f8802025db9b8df3af73db48648cf4"
+    },
+    {
+      "id": "64b7ac8bc2ccf412f181dd9d6d7d3444d3ac42c057a2f2f03d465ce2a44c1dcd",
+      "text": "Let's say your app generates written articles. You want to check that the output is good enough for production. You might need to write assertions for:",
+      "hash": "563afbcc9dfa023f26708c275e00dcf8516c72a7ac0df38746f6f6532a86525f"
+    },
+    {
+      "id": "3837cd684c21b1624125667dd9817ab004f4f0008ac78c62faf8fc75536021f1",
+      "text": "Factuality",
+      "hash": "0a468514356ff9b6f781024ae13a94ec77af4a3e5d5337c274050a951f88b150"
+    },
+    {
+      "id": "a39d4c6fe34a5220c2e6aa22a420096c7d0051902e19a88c266d7f33bc27cbfd",
+      "text": ": checking if all statements in the output are factually correct",
+      "hash": "2ea9e22727c5ff4c9c9881d6122c57b66b2c1d34d377b51b82ea43ceb8317d73"
+    },
+    {
+      "id": "4c08f94c1174078b19aa3fd67f5363d696422c9c35dd3c77005689096fbde515",
+      "text": "Writing style",
+      "hash": "a6aebbd9c23e3ed1d2dfa206ea5d76a58f6263ec161e4e54dd0c2ad2e6d34eda"
+    },
+    {
+      "id": "848fb69fb2dbb0198de18396abbaf3df23b6b37e0a8e603a05845d2a5deabf89",
+      "text": ": ensuring that the text is elegant and well-written",
+      "hash": "e6b4020c309d05587c36c0f7543efff0be52721f637a112a8efc3d63903ddca7"
+    },
+    {
+      "id": "6323fd3a6b79d40361a307b9d46f114d435dfcc64f5f337dcef65ce0bf856a7a",
+      "text": "Prompt fidelity",
+      "hash": "fa2b6e99d958089f4690b8839329264b9d013e5a00bd9a808dc1b840c2d96f3b"
+    },
+    {
+      "id": "a313e4e08cc07fadf5f9fa2aa00233fad954099bb0e36017f299032dd758bca3",
+      "text": ": ensuring that the output actually corresponds to what the user asked.",
+      "hash": "544eee1eb1555be9ff65834376ce0c074c373d5ffb3f0ab0cc1410bdeaf99c9c"
+    },
+    {
+      "id": "0f38de3ce9d66b73f6d16e125931a86e63dbcb2bc339f84d70f9f05440c70b4d",
+      "text": "These are qualitative metrics. Instead of a pass/fail, they need to be represented by a",
+      "hash": "ad0113ae6b9075ed6e05039d1f09bbc471cb548114f18b1957905dbbe8d4ef01"
+    },
+    {
+      "id": "eec85694e6e9d4082cb95f672d33a0150e2f209cb1953a9cd59335b8e92d85db",
+      "text": ". Each time you change your app, you need to know if it made the system 5% better, or 50% worse.",
+      "hash": "44acf23d73cf02b4f88909e333ad3b28e4081ab28acf97c3c60ec71d86fb1196"
+    },
+    {
+      "id": "1609f324bfe34ff5a8cc739c1f85796db1c2fff49be776f7576a4fd617dab93b",
+      "text": "This is what evals do - they give you a score you can use to see how well your AI system is performing.",
+      "hash": "12cc8c671fa1ce8c0d9e85561214ed9510392b1df0e6522e4659370b648b6189"
+    },
+    {
+      "id": "1ec51738bf89a7713d9613cb31ee4a21fa63a4b43d95e70edc68c4b240b2d905",
+      "text": "There are three main types of evals you can run on your AI system.",
+      "hash": "043db7df9457117ed737fc7945deddbffc35f0c42cea5920eab1dda44eedd9d6"
+    },
+    {
+      "id": "f5996053b35b6de7144eb994f40a8e7c927f183a9a9a9b133e4efe3582546164",
+      "text": "Deterministic Evals",
+      "hash": "ddbfd76057afa8fb206a1cb033ce8530c3f7a9054f8e6ff8958047d270f65b37"
+    },
+    {
+      "id": "c08de0dcf11d8a9de4da15d9f3f529a6eaacdcfce8d93ea8e245607c61778c3d",
+      "text": "There are",
+      "hash": "a16d1aeb2ffd1b127e443eb0271ee1fee18e286bc2771b86cef44d831d5e889f"
+    },
+    {
+      "id": "fe1fefcd2edaed461f1754700916115668b46cad9ef6e480c52736c98ecaff0c",
+      "text": "deterministic evals",
+      "hash": "9b3c69a90b44b03e34a77303772f53ece3ddefb15dc12754aabcef2780bae05c"
+    },
+    {
+      "id": "9c2652e609061851642c5f63f6b74372d91f1cde6f7c6a2d9c72b40de23470e8",
+      "text": ", which can be written as simple assertions.",
+      "hash": "e5faacfe7d34cd0629253d646adca5f856bf2b54d0655bcc8df48900ead90c6b"
+    },
+    {
+      "id": "2445471ade049a9bf6d13d3e5c7e241514b1044581e433002d8bdb61cbdad601",
+      "text": "These are traditional pass/fail checks. You would pass a wide variety of prompts into your system, and check each time if they pass these tests.",
+      "hash": "77a61a628da698a36c805af7d15461a9474cc77936b701e6848371faf56aeca2"
+    },
+    {
+      "id": "788c7d50182c60e586ddd709620b1d324505721806ee552c13d05b349b4009de",
+      "text": "They're simple to write, but only cover a subset of what you want to evaluate.",
+      "hash": "8064d502300b6355a972d7821fca91996ad8d4c602527dbce0414489c42b3a39"
+    },
+    {
+      "id": "1df270f9fe853a3bc603fd5195e72c2862b34039b704094afe884b8fe53b4fe0",
+      "text": "Human Evaluation",
+      "hash": "0c3c0379c08909730bc24a88b4ba400965804dee5c120cb595caa36be4eea094"
+    },
+    {
+      "id": "dc1eb3591c5d243a3c08e11f74343bd175290721f9ec2c4bd1a80a1863e621f0",
+      "text": "For more probabilistic metrics, you have two choices.",
+      "hash": "4cc6e549bfb5f3a911cff2d52fa5610317a65b082088ac2364760dd199b7c0a2"
+    },
+    {
+      "id": "41e9e4203914d64bc7a88a553226ad1eb751faa4da4eb934904131ccf5b402bb",
+      "text": "You can use human evaluation to check whether your system is performing correctly. This is often your only choice early on, when you don't have a lot of data.",
+      "hash": "2d3fed852ef510e61370643e051fd701660856858f8672c11df5cc64c762e8f9"
+    },
+    {
+      "id": "0380375c2ea36a6c5b4b9bd40eafeaefef7f8c9fdcfc52267e810d323b8a9b05",
+      "text": "This is expensive, and time consuming - but all AI systems will rely on human input to some extent.",
+      "hash": "fa5eacc7f17e6343d6863197d7c2b7624afc581f952c8c928ed62ead734936a4"
+    },
+    {
+      "id": "25651fa7d103d6d724d4a671f95234fd679df4811e8cd54f32283f9c27db8efa",
+      "text": "LLM As A Judge",
+      "hash": "e0982b9377f0fe15e2f26b7909ca67d9e93e2b56508e2170dab1345cb807110e"
+    },
+    {
+      "id": "059f758d6a94a3d8a2179e30bec10d4b12fcf170d880f23624e960cbe3c1eb4e",
+      "text": "Another technique is to pass the results of your prompts into another LLM, and use that",
+      "hash": "7cd8ce210967ac95d6bc7080c40541de724853566d98990fb24f7733c99ff3c8"
+    },
+    {
+      "id": "0bb0d43b9537581d27637424b9ed6147318757a2a653fb908ca7d041ec39f0d3",
+      "text": "LLM as a judge",
+      "hash": "a1c1fe54c25593bf5ed609022daec7826e3af541b382c13b0d18b132dd5c822b"
+    },
+    {
+      "id": "628625155a3a8516b3ef2498de874fb932fce5adbb9cf6a9f775f6228114fff9",
+      "text": ". This is currently a very fashionable way to evaluate AI systems.",
+      "hash": "d15c554ca86d51cc120193641eeee07b931f22724088c5884e5578a96706b285"
+    },
+    {
+      "id": "64431d2be56716a1c2aca45a0147a05b38187e2b21a351c358108ffef5d396fe",
+      "text": "Let's imagine you may want to make sure your app is telling the truth. You can do that by passing your system's output into a LLM, along with some ground truth.",
+      "hash": "28c3e2a899c1a27766fca13c800068d3f20361044a9d9a786a878acde42d09a2"
+    },
+    {
+      "id": "eb43b624edea94e9d59061bbe1796df929fc7de51cf942f3253c11b51cc6aa21",
+      "text": "An example of this in action can be found on the",
+      "hash": "4e8c0c420bd0c48fd1fae5d3349cfb2d75730133c52ca39137cc89d671504980"
+    },
+    {
+      "id": "f6325dd02b5e1ddf33868c6c9e8da7713727eea0e62a609bb659ab5d9d0e7e7a",
+      "text": "Evalite",
+      "hash": "ad07b438500666918b715a1856b1814f6ab9e111b8012341139e4572c6b8157f"
+    },
+    {
+      "id": "5bb41f0f6a32ed11a25a12b06064f2aaba7e19970315682fce355edaf219aeb6",
+      "text": "docs.",
+      "hash": "7bfc13fce2d8378e4fd74bb072bbf972fd491729ed21988cab62209ff699baed"
+    },
+    {
+      "id": "f6fb10c9389540a3974fdfd9544ddd80413ba45c10a4b9ed5e9bbb0168edf2b8",
+      "text": "LLM-as-a-judge makes certain evaluations possible - but at a cost. Running LLMs is expensive, so you need to think carefully about what cadence you run them at. Running your evals every time your files change, for example, would be prohibitively expensive.",
+      "hash": "87341ead40b5f1975b8b133c732fa82814841050eb4f254a3a50e0ffbd9e1734"
+    },
+    {
+      "id": "88dfa578a784ad8b7946d577fb230b332df974f75108d751eeee7caddf44ddcb",
+      "text": "Common strategies include splitting your evals into two sets - a smaller group for local testing, and a larger group to be run daily.",
+      "hash": "03ddba0fa8f8dd4969e5cb0331eb3e89c95d5360df4c964ac992f0435c3936b4"
+    },
+    {
+      "id": "937a026ba121b271def6583d060a5849faa0c3013ebd0b2d756c921072547d0f",
+      "text": "Your evals are the method by which you monitor and improve your AI system. This also means that the dataset you use to evaluate your system is crucial.",
+      "hash": "662a3debfc55d4e70eec69f360aeeedb8ef9660aa3dff89e784df6308ae9c4a8"
+    },
+    {
+      "id": "02c8cdf45b8209a169470310e8f533fef91341a5d9115f7b45b318224083a6cd",
+      "text": "You need to make sure that your evals are representative of the data your system will see in production. If you're building a classifier, you need to make sure your evals cover all the edge cases your system will see.",
+      "hash": "68ee41646b0b2e7da859f67a24339a51ba26b199954d111027a902b13a675ca5"
+    },
+    {
+      "id": "db790b740d1f932e2b6647872d34138eacb96ce5964d8dac175dc63c5349010b",
+      "text": "This means it's crucial to build in observability and feedback systems into your application. Once your app is deployed, your users will be the judge of whether your system is working or not. Simple feedback buttons, like upvotes and downvotes, can give you extremely valuable insights into how your system is performing.",
+      "hash": "c8c764996e5dfe2efaaed37213f17ccd1b8c1371daacd79445bcbed029d5e6aa"
+    },
+    {
+      "id": "bdbc2f1b196e4516801e29c9efcaf1210ee5096b24da4a6dc4b6da9f69810976",
+      "text": "The Data Flywheel",
+      "hash": "9c6cb30ef4147c645937e58835badd994865f463b48cd317a8862132ea33d1d6"
+    },
+    {
+      "id": "a625acdc985c89f54a0299ecfbb8b01b7bc2172a047694af4910883a2a9f8f8d",
+      "text": "Vercel, creators of",
+      "hash": "3cacab6e3e2bc39c6a97b5cc4c77601cc02b75ea16c6b4aed1c42228380e228c"
+    },
+    {
+      "id": "f073544619b251f843e60449c6262bad21ce02bc5ff50a10ebfa2bf6eb6b5bce",
+      "text": ", have written about the",
+      "hash": "9be2d7c1a63e4cadd902acbc6366f7c749b686201184c721da676fd5396c79b3"
+    },
+    {
+      "id": "12fc4bdd0d5288eae5631e6d4718e50676d2e17df90ef0833cad2f7e1ac3898f",
+      "text": "AI Native Flywheel",
+      "hash": "d0643991a7a4ad035814dd37c6b5ef2efd250974a46c98104c6347de56204c7f"
+    },
+    {
+      "id": "ebed95cf9d3a6d2609e2980a2d34df5ee7b9efadadc6fddc21a1dc651884f739",
+      "text": ". They describe the importance of evals in the AI development process.",
+      "hash": "0d6dc964f12c4b46d50b20f7b637d00b679dbcf9a3f3bb0c039b1f90a0d3d73b"
+    },
+    {
+      "id": "9144b2379d3ad3c10bf28a9d58be307e9000197ede14afbcb2cfb482de677ef6",
+      "text": "The best data for your evals comes from your users. By carefully monitoring how users are using your app, you can build a feedback loop that will help you improve your system over time. Let's take an example:",
+      "hash": "09afc11f09cac8c8f3826e8005ad77fa41552621109b94a32c4c78a35bc0387d"
+    },
+    {
+      "id": "6d63ff56f76eca34fd10608e1f43b83a2c5c6311bcd5b67af8729bf9b6254f04",
+      "text": "user asks",
+      "hash": "7a23671acb8d135c82232bf5adb2fdcff498956753fd80d92c57c8b597d94c45"
+    },
+    {
+      "id": "8e9ff984db4d6e10a2c08bf622a3366a08375b3c88c8f0b2cd37435b8f7f5577",
+      "text": "your app \"build me a classy React application\"",
+      "hash": "656a9dff0577420f8c497db6cdcb74af47898ae39697a78306470f41370932a8"
+    },
+    {
+      "id": "33f1e822b7e3bfa6953ede277da9b10daf5128bb885fe3eb01c91b782aff0617",
+      "text": "Your app",
+      "hash": "9c3728a79757345b39efb2dfb111b06977f8afa689b6ceb7f97dcb5a7d6355e8"
+    },
+    {
+      "id": "d834c60e82156bfeef0661500eb2bf7b2b14ae190448bb63fa987894e0827d2a",
+      "text": "generates some React code. But instead of making the UI look \"classy\", it uses classes in the code.",
+      "hash": "e48ef405f2d627a84c0253ad615b6c3eda69936ffbf8001938738b6f6c21e4bc"
+    },
+    {
+      "id": "38466e97c07e10833db1ae3c78aebc18a7557ad71593cee82d09353c4a52121a",
+      "text": "The user downvotes",
+      "hash": "3add1bce3401149e12317567e8bc0580ce84a50e3b2f876ec61ff4116b37a263"
+    },
+    {
+      "id": "1dacabaf2917927bd176059ddf6dcb9e2845ad800d557b4b2a6b0f6f123b3768",
+      "text": "the response. Perhaps they even leave a comment explaining why.",
+      "hash": "f8076e9ef7f2d23bc2e9158232fc4d652966ed8aa1848329f9cb56ec890b9851"
+    },
+    {
+      "id": "6381c7ea1a2b2cff836f2a900cca5a7a88079d049ce6bb5736e15205409ff3e8",
+      "text": "You take the prompt \"build me a classy React application\", and",
+      "hash": "67501206eb9307de2dab574096191750e2eb0257af19464a3ecfba52cf10274c"
+    },
+    {
+      "id": "274e34708708f934031fd425e81cbf54fecbf51b65c237b8b4131fe60254ef3c",
+      "text": "create a new eval",
+      "hash": "a6969ec6479be3e876827be33544deb4604f746b40dfa81f969284614ff8fc7c"
+    },
+    {
+      "id": "9bc079fcb1497396d6cfceed1ac4e1480982e59e47e5cb9fe84aaf71ac84f2ab",
+      "text": "for it. You add it to your eval suite.",
+      "hash": "e1df996086377e4ea89cd36414bc659bd8add047e333e67b8e1ed44f4717a319"
+    },
+    {
+      "id": "f43ab7ec70f66a5f1ccef5128df9e705ff13ab2ad7c4c1fab0066f25939c3218",
+      "text": "You",
+      "hash": "08b041935798fbf6fd6ff51099ffedb140a475889986d14f5559ff8e7fc571dd"
+    },
+    {
+      "id": "286b0b331957f1c2574758b2e7eebcca076df83b9e15951a41db5a0933812a2c",
+      "text": "improve the system",
+      "hash": "701ebbd32533151261720b1ffff27a3c1030ea2e2d6d3df36e1ff1927f170bd7"
+    },
+    {
+      "id": "19df4bedb9bce96004d6f52510df83c4e42e3b53ea255614d1782a3494de7a7a",
+      "text": "until it passes the eval.",
+      "hash": "0eb56c7e1b70f390748e8cc6ae253b563aa6cf4716f963e148528cca156077d9"
+    },
+    {
+      "id": "81426dce37ed719bdc585260b8b2d71f7ccbbabaf755641f8509d906bcd9afd3",
+      "text": ". The next time a user hits this prompt, they get a better response.",
+      "hash": "d4e611ca84f8598327cc4112a06a971a48ced17359d398cb2b9f796f0ed03b38"
+    },
+    {
+      "id": "ad2707124870b4eb9194baddf8b132e9a7dfeea2703757c950d1783717e83d6a",
+      "text": "This is the data flywheel in action. By carefully monitoring your system, and building in feedback loops, you can ensure your system is always improving.",
+      "hash": "2f00fa055845db11de943ed3440fef5d8e718c1169c55bbd14666c5dc304bca2"
+    },
+    {
+      "id": "de5ae1186fd5206a4cf8d6951108ee8b317ddacf6dceb3228a724bddeb6b5a32",
+      "text": "There are many methods for running evals. A large number of startups have entered the space, offering tools to run your evals and view them online.",
+      "hash": "7377b389c8b2e72da67f82327016789353afc5137b4e994334e7f6c14139951b"
+    },
+    {
+      "id": "a280bd310b92c1cf4bf0fe913c639384d1d0245b496903a7dc5649b9713c1827",
+      "text": "Braintrust",
+      "hash": "53191979361af8b634cc5da1e6248fcf401666ac1568c47c36915ef6893f11f6"
+    },
+    {
+      "id": "5da26f279660bac0bedd6d0fc334a9f4392929bcc4c342bd477ec206513b10a7",
+      "text": "is a popular choice. They provide a cloud platform for running evals and sharing the results with your team, along with many other features. You can write your evals in TypeScript using their SDK. However, they use rate limits on your evals - which can be frustrating when you're trying to iterate quickly.",
+      "hash": "7b1691965b4d70219b72a11f748195bc83f797ea52ae1dc6d3dc4eb13e117541"
+    },
+    {
+      "id": "0f76fd0b6d8ec8df89347973da700c6462acacb266dda853d3941943ebd4092e",
+      "text": "I maintain a library called",
+      "hash": "99cf0d48faf03432b266f86fbfc110507379ccb859d756123b9966ac3740f6cc"
+    },
+    {
+      "id": "e312b89d267ff91621011cbdbdc4da9bef135a978332058e37ff6b99f6f2fc8a",
+      "text": ", which is a lightweight eval runner based on the TypeScript test runner",
+      "hash": "ba5e78647ef0cc0ef8d9c6ac0a79bf9e037558d936a77dac7aadfabeb551bee6"
+    },
+    {
+      "id": "0193be1f672b0143d3e8950410685f12324a0f05cdba18a9a9a04804822f0e6f",
+      "text": "Vitest",
+      "hash": "7fc39eb9c7e0008f216f56c52cfd70cadbfd8ec27d051a8af9dc6f5a8a23e293"
+    },
+    {
+      "id": "6774de6636014b42e5d208c3b6d6aa3df1757ec36f3d8ac1f496b9fc4a6ffc48",
+      "text": "Evalite is designed to allow you to run your evals locally. There's no cloud platform attached, so you can run your evals as often as you like. It's a good choice if you're just starting out.",
+      "hash": "8fcbb19bca3c299cf17c9e4e83f77bdede6dbbee4241ec31cd85eb193018fcd4"
+    },
+    {
+      "id": "593c5032104d7fcbaba97d86b8dbf7ad2c354b4a342a96531a2f4d8593bfecda",
+      "text": "Imagine an eval kind of like a function:",
+      "hash": "ab0114e3b6e0c0ea012217e47077b42277a91b43e42365bbe6b9f89dc57eda43"
+    },
+    {
+      "id": "45b5717c5637302f3c7b4b62eaea454336cd0cbb62c95dca50ff36f9b5a123ea",
+      "text": "We pass in a set of prompts (1), then the task to run (2), then the methods we're using to score our output (3).",
+      "hash": "73a4eb7012dd33386452c5e2027218f008cc3f395d6af261a261cf8cbff9c199"
+    },
+    {
+      "id": "6d0cc6449afcce85f2ff239630b35c60b08e3371726926c52986bc08d94d642f",
+      "text": "Finally, we get back a score on how well our function performed (4).",
+      "hash": "c4ae73e1cecf05a4e29fb1a3f47ae7eee657666b80a1e2e5e82220cce9da683c"
+    },
+    {
+      "id": "67a65e3f85b14a2ecde2e1377bd365d29b49c6bc30f2103cc23f9cce3b28d05a",
+      "text": "This, at its heart, is what an eval is. This API is loosely inspired by Braintrust's",
+      "hash": "46fc9a3e2f0c14ddf6a32e8888ba3dc0796bbada14c380644c53aa24e6df0fb1"
+    },
+    {
+      "id": "b0b9bf474823544115ee9828cf95e1a6cd25cc64145d94abdf7a276b01a0b5dd",
+      "text": "autoevals library",
+      "hash": "4d6b46e4a90442fdf105dc8f0cecfb4a4816caef068cded6d2cc981b44e7d997"
+    },
+    {
+      "id": "cc6ba88599e56fc4c4b153378a74fe368999ca3035a16871c2d10ea39b3c9419",
+      "text": "This image, based on Vercel's AI Native Flywheel, captures the impact evals have on your application.",
+      "hash": "f8f39443eacece7a8990d45e2a1bb6ef1d7e1464e6d5401860ef4ed8a4bdd8e6"
+    },
+    {
+      "id": "ced97f8ba3f242826d40207c2cea47a7ca60b9400351a040727d9d51a55d4bff",
+      "text": "They should be the center of your feedback loop. As more users use your app (distribution), they'll give you more data (usage). You can use this data to improve your app (data), and then run your evals again (evals).",
+      "hash": "dc82f3c2ac31e59c5156d634482a4ce8c3a1671ba5e0ff0889a57180e209ddd6"
+    },
+    {
+      "id": "4161007595b73910422a60b16687bc779ec6eb94f3410a932b92bf7c4dc8a45d",
+      "text": "These evals let you respond to new techniques and models, and put you on a constant path of improvement.",
+      "hash": "2125c7c3873e5cdc8e295211d8d9a13a48149521cb951b53a6981e59788bf813"
+    },
+    {
+      "id": "794a6e4a9dfa57eb239f05162ffa7a62ec6581abf7dca264d462485b37246493",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "d3714c877434f49c076bc1d6de1efb257b1f9550113b12bc76f9974327355fbc",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "50fcb740fef5497656a5b30736e5aac23cf4aa7b965bc330bdd2be07050e9a1d",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "64e44a493e7252fb3cad222a295ce581324e951532fb1f8584c8723bbe3a2ae5",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "4ed43898f75a0ab9cdbefa6657251a18b99e29ef492e423d992b734bf4c0810a",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "9f23256aa050293e2fa58f4041b9a816655f6592db56e97a2c168d4f33151d04",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "b2931d8522a8151030bf7599e2ff08077107a4d40be2bf830282a28705b91dab",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "4716ef41e0abb3890df6c8d83fab3aa5583483704cfb9cd06a77e0b4cbeee5ce",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "bf697123ada3d38e4cd5e5d487191f1a78ad9cbe4adc8dccdeec9cc3c12dbc39",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "379a67df08fe598fae4f51b469875e425cb27b65d5cdda0d785598a9098f9adc",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "b913467d5b09f5473eaa5465d045c7d5e4d5f9d3316e520909e127d30bc31c9b",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "528929e36f58bab8c0c7ab34a1de4236492b4e23305a44d5ddfa9328402eb4b6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "d8c93a0f347dfbafbc2d9cc825dafbc67095829911af3ed14ed5ea35446c7da2",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ff1aeb04b47cd49c138527d566ba95f40a6f09e3129eb945c9a0a9518e94fbb9",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "57bcc3596e2d99727609c94af23afa578331fcb69c41265fa4b5a978bf375c5f",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ed79fb100b497fe2c63a8ff0461528e41832ab48ac78b209e3333559ff05a1d8",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "0ba4af3f5c7f22e0e56dca13cfb371da5b99dd82048f5e79a8f2a3b423495b16",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e4da3489c9648d29c210261b429b82b81aee9eae21d1fa197b57e3198980faa2",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "874229b53c806460f705b89fec0fced708257d36c0e0ae00b94d22f56250ea5c",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "43afc5730c66c7c0595b75ccad93351de0bf1602d41bd00a6e51633b987a10b2",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "a18f90155a524b62116563e396299141e31f1ef1d751fbcde0a2559f953fa0a4",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "bde714e2cfe187705a96d72883cd5e463b6f53d15a3ee63a4d1c7d135c2e8350",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "0370a78d393bd62734cbafa63d8c2264bad133313814323925a1eaf6ae6ecd1e",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "eb49cd47aa6278b40284eb0e921feae5cc6ae2b7d002c92feb9914d06de39ee7",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "a13e9422db10aae9dc830dfcf0997b3b0a292973bed37367d82574ff5376f54c",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "1a1ab1b462e262f368e6d73138229768bd4fe8f99dfb3bf0fad607219307baf9",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"xsxojvzu6x6qn5\"",
+  "lastModified": null
+}

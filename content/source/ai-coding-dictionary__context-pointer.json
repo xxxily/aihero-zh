@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/context-pointer",
+  "pathname": "/ai-coding-dictionary/context-pointer",
+  "fetchedAt": "2026-08-11T06:28:39.469Z",
+  "title": "Context pointer | AI Coding Dictionary",
+  "contentHash": "12d738461f4e738a3eece51044e61717b809e62e8416b66e0984b8880982c303",
+  "textHash": "f73b1fe1db372c52d478cf6231cec4252ff5ec0ad7a682b8a156545dd045f500",
+  "strings": [
+    {
+      "id": "fded20bb38c5b062e0491600bc4b282536278acd75ccc9d6e2b7f88cdb0670a5",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "502b17bd791fa752cae99c94502484fd8a7092d6fd1410368dfb49873118b10d",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "590aa75389a5cf043185a849d36b756ff253a3b649639ab6c935046cdf94c566",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "43687ad4df57f06eb65e79781f467860c380818dfcf48b4a6d2dfadc44333a4c",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "a6fb358abbe66f437e494deb1f1ca70502c9201a24940a97ddf35c1a7983844b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "ab8f1f3af03648117e40f59ef228d65c91cb3f9c26633050c91546f82ddd9082",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "acff2803b039132aefd0cfaf327dd4257580212a360087b83fae901366c81128",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "0efc0106d109afec06a53efbeb859c17dbce8431454d30c67fc2e88508fb7822",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "d43a1a502c7fac045b01b2e5b2e094e0e2527bc5dfe10e5fad706d56224395b7",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "c9778eefb27eccc04a410a898d0a1bc0ff3dc59eab019fd9409be0135ac2d83c",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "1955153f95429330aa33fccf9fc7d72adc85d6c0d3ce49ebd61e23982ffa5cfa",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "613545825498e808f962e36818d1dcca20ea5cc439a58acb135c6b40797bca24",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "b320321c83722cec43c9dfdd6caeb3a5c33f079966f1bd4bc56410a431678e44",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "6c59fa296bf61cd62cae9c7b56ffac3a72ccd5eb3917ea9d6eec263ddcafe71e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "02acd5c550e216d179d81a384c2edbb654268ba5ea8d8eca205c780fe310cae0",
+      "text": "Memory and Steering",
+      "hash": "e9396c915a0fb1c9f188708920573d4a5b1ec0a09639049682989999ecbdf3de"
+    },
+    {
+      "id": "df0b6771e7f84a50c3d7eaf8bd148b8bd69b558383546ece0b9dee872227df73",
+      "text": "Context pointer",
+      "hash": "d95bc371d100339c0ab85461467e2c00939ce2b4d26a5c74d8a927ccfab4b271"
+    },
+    {
+      "id": "6e890989c00cb4f65f659888b3075ffcaa46ee1df4d849b1cd558ebddc86b320",
+      "text": "A mention in one document that points to another, so the agent can pull it into context only when the task calls for it.",
+      "hash": "c5c3d458259d658ef5d90434a86ac39a4779b384a900f44b9b6bafae0534dbfa"
+    },
+    {
+      "id": "fb1b7e564154e9218fececfb549f91d750e99d7befaa0852b9dd591f0ffff3b8",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "873f62543c74b0f3fbd472043187ee6323c8119ae102614c3a87a805e5bbcca4",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "c74c2e5cb2d24ba6f16d0252afbc6e86d68f75390e736f9bbae3a8c6d99a7b69",
+      "text": "A mention in one document that points to another, so the",
+      "hash": "e8ee5eec96b3ae1ccc4c4c4d5a9394fef242f39f3b0f88787d0faa2a986b885c"
+    },
+    {
+      "id": "d247374770be964db51a2fd058535ad2eb76b2d3f42c343a4b4ee82741f4a587",
+      "text": "can pull it into the",
+      "hash": "cae3711c19139be90fb95aa4c125edbedcd7346c6d745d75c6cb4208048ebc39"
+    },
+    {
+      "id": "00eca3153022442189f6eb200eefca68420d99ed2a919d80224a721040aa1480",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "2bbfd551ea8cee21129710e9ca37ba338be8fa72f49e87620f34a4cab3e3431d",
+      "text": "only when the task calls for it. The unit",
+      "hash": "55f6fa95d5331cc7bf9563191c670d625a5104958e71d88ebebd8c06160d791e"
+    },
+    {
+      "id": "ecca2d75841e12bf942043b329c2c0e114aa7e0cd53de773bef4846a303da66d",
+      "text": "progressive disclosure",
+      "hash": "6da46646b127888c91f582c85bba28941b74cdb2da40e92e62e2157d47644c4c"
+    },
+    {
+      "id": "eb3529974f8b95814abf4988d6503f9a00de3393e9d65f9c542b2cd787b5bba9",
+      "text": "is built from.",
+      "hash": "861d84fbfd2dde9276531f9d97595aa2f7845340adaf0fc39ac69df32dfa3b64"
+    },
+    {
+      "id": "a33e3744a086745f21cc5c43d6b91c03402b91c832b2d5b4dc55fd8e50b8ace3",
+      "text": "The reason to use a pointer (instead of inlining the content) is cost. A pointer is one line in the context window. The document behind it might be thousands of",
+      "hash": "6a27833ad6406331d57c144bb54d36ea673b20d0e499335e5640ab4e873d2bd1"
+    },
+    {
+      "id": "87c41c471742a3d57d8fd8cbe7b82befbc4d60cdbd61af4952319970d5b79b47",
+      "text": ", but those tokens cost nothing until the agent actually follows the pointer. Inline a 2,000-token runbook in",
+      "hash": "73dc003d16d584c764b88f87ac400055168bfc50f7b9c38ba3ea309c31d37cab"
+    },
+    {
+      "id": "1a1fe979d799be868c2dd9dafd579b5f7d9dd54e51087fb44400544d343a38af",
+      "text": "and every",
+      "hash": "da84e4451da91188332045444f5184eb518f14d9f829c4645dea4f5dc5a86bd0"
+    },
+    {
+      "id": "3328f2759c3842aa3be73d9459b21f006a9a4e30dfed252321b6eea4b199eed0",
+      "text": "pays for it; replace it with \"deploy process: see",
+      "hash": "656d7491a7971487a7c21efd4bbb7d41c949087673bb8072873f6f293dccf15f"
+    },
+    {
+      "id": "82993af7c0675af02c027dad22a28c55fe9ea9bacd4bdb46e7f893e50fa2c7fc",
+      "text": "\" and only the sessions that deploy ever load it. The agent follows the pointer with a",
+      "hash": "649948a1deef25a9e4f296a39ed96231410d38a4b3d9d2e2fedc9e7e8f54cf5e"
+    },
+    {
+      "id": "760435522510ea67bb64573166c022cd103567aadeed155134dca09bbf6962bc",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "98e9d78bef17949b3f7326dfe3f3975516c5529e62af5a6e7f65a05543233eea",
+      "text": "when the task matches.",
+      "hash": "e40b94dd29db168e794ed7c53859d34386396988b3340cf59bb94244dee9088b"
+    },
+    {
+      "id": "7ce5eb4bf66d2a1abcd0f5cf0ef476ba89d7970e1ae1d641618573eb2c1cff94",
+      "text": "A pointer needs two parts to work: a stable path, and enough description for the agent to know when following it is worth it. A bare path is a pointer the agent has no reason to follow; \"see",
+      "hash": "3a79915d40d62e7cbaeda3c78e52a8a376e5bd6038e18a84ea59aef91c2735ce"
+    },
+    {
+      "id": "dcc8978fbd9bd4d8afb8bee5a7ee270c4df8137a6a337659f81a1dffa9eeace1",
+      "text": "\" with no hint of what's inside gets skipped by a session that needed it. Write the line so it matches how tasks present: \"release, deploy, or rollback — read",
+      "hash": "ee858026f80d0a6b8f8aaf299e991809c3974a9c993625fdd2f8ae44d65efad6"
+    },
+    {
+      "id": "ff0c2ed45ba7eaafe66dad90bf797ea6e9e497acdaff64225a5c40974dbf3351",
+      "text": "first\".",
+      "hash": "97f195b79799a53f73bd52fa756387eb9c845c65cbe5041139471c9eca65c887"
+    },
+    {
+      "id": "2c6a4d0970e2ddbe0d21c20be3aca87f81fddf6f024e128af5c6049bef678480",
+      "text": "Pointers are everywhere once you look: lines in AGENTS.md,",
+      "hash": "b3138938826367248c5c53d5a2d34daa10656ca26e6985cd4b480de859808751"
+    },
+    {
+      "id": "8837c456c57a6a2a5ddb4efc4d837cc4965c7b9c6cd11033ad733e816790e5a1",
+      "text": "descriptions (the harness loads the description; the skill body waits behind it), filenames in a directory listing, links between docs.",
+      "hash": "674468984788af7ae73351124e8d5ddbbd74c6ee3c0b81db2df048b7be410091"
+    },
+    {
+      "id": "a134ab1080436f15000be12fc71d834010fa7c5b6e8c96a51c4eec72e5c19d33",
+      "text": "A pointer can also tie a",
+      "hash": "9adc545acca5f265fa0dc69b01653903a663fe8e9000343a3335c101c9e16eb7"
+    },
+    {
+      "id": "315a8ac6127b2ccf4fa4ba7b7d0000a4aae0f653a5de7c81fe4b3b5642fc32e6",
+      "text": "secondary source",
+      "hash": "130ab3f910dec4f94436851c6b9a50abec9e6cb96e7aadf7c47be2e57da1c894"
+    },
+    {
+      "id": "9f954f76b58d932ed341167bad86b43b76aad08fecc1c1de9b2fd5425b0482c6",
+      "text": "back to the",
+      "hash": "9689362403ad463c112a0e87c93c93277546e805af16d5d31c66c04c869570f2"
+    },
+    {
+      "id": "42eca41ea14e0fedca7df7579eb59fcb526359b48fa62c66d5daba12a84be766",
+      "text": "primary source",
+      "hash": "4c3f03bb625194b79deeff56ee12d13258ff531de6eef1fff5529d0fe89a1404"
+    },
+    {
+      "id": "f32b1a90220318dcbfdb29abf9266d7271a0a944cfa88434f57d32de12c938fd",
+      "text": "it was derived from — the compaction summary that names the original transcript, the doc that names the source file it describes. This makes the secondary source's lossiness recoverable: when the summary turns out not to be enough, the agent follows the pointer and reads the original, instead of working from whatever the summary kept.",
+      "hash": "2a417bdcf51dc9309a5f0bea421f0c46346964ace845e1e68090181dd7aa3805"
+    },
+    {
+      "id": "c84d70b7e097a5a28e98423316f8b69f72c40da64543f268e608cb6d11bba3fd",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "a5d8556460b204bf1f96e75c992cca353f6e59581627fb76b76552df7fadc5a5",
+      "text": "\"reference\" — too dry; doesn't convey that following it pulls more context in. \"Portal\" — too florid.",
+      "hash": "d8b5631ebb0a7fb4d2958e233e66f82a972c611e2d29fc58ab6b6f39460d1478"
+    },
+    {
+      "id": "4b10c6f2f381ec83251750fe741fd3ab19fee4402fd90ddd577a85dd7249cce5",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "34759286d1f8156d7978c7e023bf812b5f29d6950b6a02e76f46da24fb92e671",
+      "text": "\"AGENTS.md is getting huge.\"",
+      "hash": "4d2f0bebbe739103d4632e45c9239b36483a7cc74d84dfbf65d64a6fdfc5b5f5"
+    },
+    {
+      "id": "18887dab73656976cfd879f19f2aac1fafcda7b15bebbe593f51ac0daca9bdd5",
+      "text": "\"Most of it should be context pointers, not content. Keep the always-on rules inline; turn the deploy runbook and the style guide into skills and leave a context pointer behind.\"",
+      "hash": "911dedac48aebad24582f75d4e40c72812f876c3f8ff15c01f020482d33ad790"
+    },
+    {
+      "id": "2fe9fc707979d197ce2ed10650e87b633150744f2ec59149d03713a7c0db25fb",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "44dcd7af2a5c79cea14681f3ebfc6b8ff5edd4526ef7b027e8747eaba3e524d3",
+      "text": "Progressive disclosure",
+      "hash": "cc1b70611c98675e8e42c8d6246c2f13f869540b48c6abd18713bd25ecc7611b"
+    },
+    {
+      "id": "eb4019a8e77683e616bd7f4438993200d0f356c359dc256ee18deb90297375a8",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "7f694460d8bf47cd22b76019b7a46d368a2a472c1df68b86d561a9995cf4d52c",
+      "text": "Skill",
+      "hash": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918"
+    },
+    {
+      "id": "9871451f975316a18bfdcd745140d0e38850767d89756a32fcd0e736c189cb66",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "c06e9b4f0371d4a0750a2277f27d2774be51b721fca888f834d46b5f15a1243e",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "2689bd88f33705141ccbe7a356d12394600495a6d9e35c5538e63d19daad8053",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "8cd039a673661a501338444f5c9902478f9a2a9fada855053744741382428193",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "05f0b96b3472e5972337f6c790d16a71d1e574374e6fdb2fafb9b74cd683432c",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "f5d999c94217f7aeed43ffb0196fe093db44b2db0a3d35f0265464a4c67059dc",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "b09bc10603d628d4aad6fa8180693d86e34dbe73d1f7f4a04783cdc68dd838be",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "2a6fe965516c8a329b04546a6c0c3973a513ec312ee727e536881587852d2573",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "5f6093ebebc2e8ae6655361f9714061275ca40a1126993751c7b8b92fd121a49",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d196dfed063b62d1c1381e612b50cb1470d748213b9b04c5afeca45703a07e6a",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "6ecc2a91fb6e66d9055839ac05193dee1b3fc3aa4d78fe851e7702d7d5755159",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "9f647235262fc1a04d2525cf49e590fae6e4511567bb80200cdbe2d59d3f1d9d",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "f475e8a3131728fb9aa29db2a23a715fd1ac2568fed56ffe84e67f4d1a79f289",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "d713a3c86b4861162df8eb78c0b94696999a503bac2e2d404732d92a20fa1173",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "70bb89d1694750438e0f5819d1de8dedb341476b1dea815f3ceea31376f67a74",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "0eb6a327e8aa699f4542d5545ebd5ae20563e11eb140d1e499c4a01ba966546e",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "e2c1ffc2713467dd7372d19131c7605bae70c39577f6bab250194264ef8a6606",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "332fb0cf059cedf353a17b97b51ef9c4b14477f99054e54176ba409aed2ff9cd",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "be6ab455f8f422e6803850f42e71b99620f1d6e1b4f328aa1e8b1303dc007277",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "59febb9600b8ba0f953d7087fac3976bf4e7ea4fca22ce653d94b267177789c6",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "4b7f3ec43041c70141db26968d8f8b5db0c2bee9658ada1020a421d361e1b05f",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "d9ef69c4a87ba3782572110ff5bdbbae45aa1a7ac339047b9b191844fc1b1c73",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "fdccc70d86a12b341195b7b05e018412e0959620aa5e534b241786be4f12bed1",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "fb98b66e6e71818a740e47542254e1b78eb2acc32b7cc22105993a970f6ecd1d",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "86f6d7cbad2156d828666f380c223e826c93d78560ca29543c5320a451c97c9d",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "198b013462153545762fe775e3378743cae108ca9277c7203cee9590535a70cd",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"p32jwxinnh4tal\"",
+  "lastModified": null
+}

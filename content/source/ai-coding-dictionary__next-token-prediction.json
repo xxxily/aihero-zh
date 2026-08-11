@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/next-token-prediction",
+  "pathname": "/ai-coding-dictionary/next-token-prediction",
+  "fetchedAt": "2026-08-11T06:28:30.494Z",
+  "title": "Next-token prediction | AI Coding Dictionary",
+  "contentHash": "09409cd8e3f8def10913a198c9a2a533ba3671bbecd52e754b03129e6c349cf3",
+  "textHash": "d665f53b48b16ad6598e871f0d68f5b8a9371ab55ef44cb8ac5362e30d8ade0c",
+  "strings": [
+    {
+      "id": "b66938742763a1a9e92d3a722191ea7f08d03131ec848c7909ee91eb0fa7156f",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "7c91e0cfbe34409daeadcba5ddae74aac209481e33f4ecdd654a609b9e1ac0e9",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a05611733775a78083dc2003b11018204cef816695960e39277b117000a9358d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "081cf4b323ed2b4c820a623a10106fcd066dce694ba33062b05bee396981f4fc",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b8b4dde5df3b7ac77317f8a226a9230efb998169e0a5eea0fdc23de1b0c9c032",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "227651cd3936bcaf5d5d6f0bc943941ec0c1ba26dbf8c929edc698b2c21e0b17",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "fb994328a45246586fa1f096057003e88eb0bd7fd3cd8440d226a5bdac388338",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "644af995d4d6eb191e7f40df1517e987a9c0b4f29e4f8294acaf682b5c30995a",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "8a88a7ecb18d8d1cc877f1b81fb8658f7cdd6daaf28e87cded8562f1ccd9e93c",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "2e7c86e8b644ab91c347d9b27811c6103dd6bee658074b347e2a00e0595b94a8",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f25034a64bc6d9d52b324d475e8d3be2ceb8da59361d668bca3da9dc2c41eee6",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "3fa7a1645f1d3de300efa6922cdc0354bd7630a205431bcf433d9f3ff9d2cf00",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "33763f9c5107d08868567b3845d1402d7717f71c13bef8f60c58e14d540348c8",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "6a2f251fdcdef28c76ae5b8d28e2cbfcda1af50479e56abdbf9fb950950f8de0",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "99bc1db441b7bd0dbfee3e514130115fc1bb2b5641a1dab49091fc15a2bc222c",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "2b7141dbb1102924da16c6409884d0f2a99f30369029a52ae4c6bea78194bbdf",
+      "text": "Next-token prediction",
+      "hash": "db2e13aa671f566f6c582c8ff074e0b702a81659695c239d0634c86b0e328583"
+    },
+    {
+      "id": "34c6910d4eb80afd896eb64d4092f7231869ba9b25836920821cfa84f5882a2d",
+      "text": "What the model actually does. Samples one next token from the context, appends it, and runs again. Its only mode of operation.",
+      "hash": "4ff0db2922d8c5a13fb5c81106a04cfaf59b1fe4ec859c783598961511fc1640"
+    },
+    {
+      "id": "ac73b3ebd9012beeef45092ea37ea9264249649d8d1330ed42f4fb2cdb2361d7",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2d7a561530a8d43a65f50caa9dbb87c22f5f24f4ef543c2bb49b5148c7328fa7",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "8f77e46299e5251ddad4ea435fb118a602659198842ae554bb099ccc81bd7dc2",
+      "text": "What the",
+      "hash": "189c15422c5662ff85fb5713fc395b018a66512173d8807e268f186519692a92"
+    },
+    {
+      "id": "f3e26015078fd36bb7f5eb6a6420c8369f394ce8e610f7316dac064011f65254",
+      "text": "actually does. Given a",
+      "hash": "4e67ec2676afa72d7427e9b99ab8bb5b2dbef7df63db0fd08ea46d940a54f555"
+    },
+    {
+      "id": "edbac400e3df4aeef67850096dc4c52df391069d019d7b6dfc1d59c139332a4a",
+      "text": ", it samples one next",
+      "hash": "cf02a98c8726a5ff439dee723e6a8582b9d4746bec4f2576d4f16d41f2184c7d"
+    },
+    {
+      "id": "e5f1b9c872d9741db790a7c706a8163601b8e861123e94aaadd0a456f1998b3f",
+      "text": ", appends it, and runs again. Every output — a sentence, a",
+      "hash": "ac7be652e2154cca968f03a30d108516332e6238cf983f7fb7ed4a132d2a58df"
+    },
+    {
+      "id": "61b4dc6c53cb6a6b27458160160b11717b9e2c13278d67e9dc705e6131f47a26",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "cbdb6797f7fad29a1d691b9cc0f29c2c799036d43f56f379c9e1cc91d740b67d",
+      "text": ", a thousand-line file — is built one token at a time. The model has no other mode of operation.",
+      "hash": "5b7b68a14ad2024f63c2b3b34d15b9ccdcd145412b6cbec0395458585083e9d2"
+    },
+    {
+      "id": "79a4ce0e55457a88511c2a575de96dfab8d90251962281524f97ef47f4df9755",
+      "text": "Each step works the same way: the tokens in the",
+      "hash": "b043002fff253bc8a8d42adb06d467189dc704ff114f65bc35533e96fd95b0d6"
+    },
+    {
+      "id": "38ddc6f436defa642125da246d3e6db67703a0e60f00c72c80ff6100958e796a",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "afcd986afa848035c4050563347214988e175063fb731c3aef8163cd8491d7a8",
+      "text": "are run through the",
+      "hash": "ee9688390f229cd72299e0f0d77edc90919bad30c5a0437d2c30b81df769f228"
+    },
+    {
+      "id": "8a580ff2dc1a6d0eeaa3c3922ed720f44a736e51e8f8d05b58365dc307a367df",
+      "text": ", which produce a probability for every token in the vocabulary — this one is very likely next, that one less so. One token is sampled from those probabilities, appended, and the loop runs again with the slightly longer context. That sampling step is why the same prompt produces different output on different runs:",
+      "hash": "df664e86e7a878012d5ebbcdcf3944b423785f95017ba9cddfc02287b2d1b997"
+    },
+    {
+      "id": "98d584853b80fb189d6b6034c366c3e8e7c5687a97ae5ae5b41becf32c01a15b",
+      "text": "is built into the mechanism, not a bug layered on top.",
+      "hash": "55c5722fe16a737ef35383f11a826cbbd7f3fa71ed7e129619cd2af84765926a"
+    },
+    {
+      "id": "cd05d65c0c52f0c61644b4bdfa010e67daa261902297a9816741f53eb880a605",
+      "text": "Holding onto this mechanism explains behaviour that otherwise looks strange. The model never checks whether a token is",
+      "hash": "7be75bbe6949b8cf5b624f7b171b0633ffdd0304a41fcb92bdfe7dd5013eaf86"
+    },
+    {
+      "id": "b17849385872f2d04ab54bafd80fa63f0f5669a4ee88606aa0b53019d2bfca00",
+      "text": "before emitting it — only whether it's",
+      "hash": "8093e348d50c17ea2d71c9919cbe51e3b486b43ba5c9db6eca44976f94a42611"
+    },
+    {
+      "id": "c8296d33ff5e175f64e339b275b68feef01ae0bdd65e4dfb37830540f6b16ba4",
+      "text": "— which is the root of",
+      "hash": "512709e36a593e04a07f16bcdd06bd69094f70ccbe00a21b5a6c201b52bdeafc"
+    },
+    {
+      "id": "20635603adc8796aa39365d037186c7268eb24cc73dad3f2f427fd1bc67108c3",
+      "text": ". It commits to each token as it goes, so a confident-sounding opening sentence can steer the rest of the answer wrong. And because",
+      "hash": "7d9b04cd259ec40b01fa0a3f5450b6a732ef5fd083756bcb37c9ff36173c02a7"
+    },
+    {
+      "id": "2db912ffc3b41e68376d38ed311fc2dede1d9753b41ea8274ab994636b234e76",
+      "text": "output tokens",
+      "hash": "b6798bcee84a53a994de8822f2954fb739ce9a8eb119121f36b363fe86182357"
+    },
+    {
+      "id": "cda8e78a2d2a2a44def6045112c8b9913f3edf88dfce10b798d0a10d6e9fe6ed",
+      "text": "are produced strictly one at a time, generation speed puts a floor on how fast any",
+      "hash": "51efde8463530993d3fa77facfbc4f105c9d3cd27881ae2e533be30d0057d072"
+    },
+    {
+      "id": "ba0fde03a5e982bab0a1bad6392d6e004f1c082f3c20eabc086a8c9132afef23",
+      "text": "can work.",
+      "hash": "d0932bf946f08dbb76db1070980da9d34dc5874dda4fa1ee39bac60c76d58f81"
+    },
+    {
+      "id": "3ac2379d8196e2bdff4bcee60bf8823feba5fffc9259440c1d8f2a529af41fbd",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "3f48396960891a9d80ff4663dc73165f3c716a9602b8aa8f5fdb5c88fedd4f25",
+      "text": "\"How does the agent 'decide' to call a tool?\"",
+      "hash": "8de96018f851dc4675ed8fc8730a8d96a87219ed1d1ddb7da24a271070ce2c58"
+    },
+    {
+      "id": "17a9a827dbd9b886a0ffd6463517228d824bc178a56720c4d7b97774d320657d",
+      "text": "\"It doesn't — it's next-token prediction all the way down. The tool call is just a structured string the",
+      "hash": "f7095c06f0013d04aff02a4bc70b3b4b2e461c9c0e55d084eb1734a4f9a87efa"
+    },
+    {
+      "id": "b8211728b90b3bbb04fe8057312bc791a99f3002647fca27388938536bcfdecf",
+      "text": "parses out of the output stream.\"",
+      "hash": "5a35d511787668904390cfe54435bec65e26c5cd79cfc19c5e054fb80dc77430"
+    },
+    {
+      "id": "1ef72f35a41103297a469dacb5132733acae429e77e80e36176cdd64d270f39f",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "9409134715cef01aa14af867de07a1fb40c9bffb8d791c32adcd822dd05ec3d8",
+      "text": "Token",
+      "hash": "d2089be672953d1136faa84079af1b6f3967fed8932dabffba3032d30e3c0618"
+    },
+    {
+      "id": "f85b3e58437f91a36bf3eed8260ef4bfdb21634ad629d3196266e74268368550",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "c8562a70e5301c220aa37a9a47303fb06a8dd88c5ee6752c9d8789bb41af66cf",
+      "text": "Non-determinism",
+      "hash": "29528d719817ee2e8c9f3bb920e7820ebe1ff4bc1afc1e91f25ef655e25d4b01"
+    },
+    {
+      "id": "7f370d586115031b86665c900b486693a474e8c738c4c23dfc7a82cd796efbd9",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "103f86b0a51c4e96a5a7579096010991e61d6cbc29c719fa7097e8d65b4b32bc",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "82e8ca46c5766355846e55a0d1ea07add253b63c62fa8aafccf1545aa07dd7d0",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "8897169278757106a4f4041b8919ffa962d1f053e259cf9e024eb16c227c74a6",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "5c955c5309719d1aa415d983a77147372fa2d025d79da6095c3bb5acd5db30bf",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "b465b9dd1f83e33ae4ba01d45727531b4b9035a31397a7092e263b9e6519f82b",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "c55e110e612bece194a4be6e44156e4008e0b192bd6736d0a1b4250887b94020",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "1c0a2a67bbbaee5e616117c577f1b285c6311212254c06bbf3619f1b12bf2d13",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "acd966c174802a44de6137ccbb81fb4459e00f61a6773397e8f6cec49c68325a",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "3d12e4d4d7637a0af4efb7b34853f2736450f25ca565a6884c870e5e3015f0a5",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "8d1dcd5031746736b4cb747f4410e5089e19f2ee8294f1c4cadebf1d70a24023",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "e8beacb775e27993bc6ebef0c1c0967c4d2889774caf1258fc5b140a85ef03cf",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "dc6e0690e7046589c9bd8e4b9b03000b19616c8f52e4c99d3a856130052da3b1",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "93cd2b7aac441eb8677720d1cfe6dc381e843e683ec8a1bb97699c87645ddffa",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "1f8144a7b99a68331b642e565fae87fab139d25f262bd207dcd36f387e553022",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "e99017bdc9be91d34ccd843b8012cfd0545011dd05cfb87ef9642414d0e5ead8",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8ac7f41c39daaa5fc548f0fa95002135444f749d8da5b0c0714b35f4efc3b78a",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "c8866da6ab92465cc841b6c63a278618f8bce3680db2cbe63009e7fc1adca07f",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "31d6e92f1761ab5a8937313af26b997960ee612f0a61b913820f568da994d92c",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "33b85a0cc2b4c4c29ab8e232d926babb4788dfdc0fa271aa3b3f07f6d70a0fae",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "a9582f7fe721182dd7571473bb916301d4f9496361d81166191f19fcbf326518",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "47c206581b2edacfd17ed242606cefadd1a0dc3cde9d4114176c599ee3311fdf",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "0c89bf60c64431b42767803cdb2969e8bddf06f579546934dd11f5b1e2a9f921",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f68447e72f54ad9e5bf5dbf36d6c9011e363996baafc05dceec88fc50e7c9e74",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "587e4252eabe007b86f046edf6b476bb3212333f73e07c4e856a0a9ad5c53b84",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "932028e22342d6e968849fa0adf4ba73f8127bb62862b0cfae02a632553c18b4",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"ny9rjn67nn4rgv\"",
+  "lastModified": null
+}

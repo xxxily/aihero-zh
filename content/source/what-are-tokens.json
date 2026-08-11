@@ -1,0 +1,528 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/what-are-tokens",
+  "pathname": "/what-are-tokens",
+  "fetchedAt": "2026-08-11T06:28:17.021Z",
+  "title": "What Are Tokens?",
+  "contentHash": "888133e53a58bdba21cc4ea0bc0a15a1e02482db828114ae220e36a664ea3676",
+  "textHash": "8b329eac7696b336b1656ecad047628045abda555b41f0696fa108209c0816c4",
+  "strings": [
+    {
+      "id": "040ff2c62b702f3e9cb499142af36129d9060377f8aaaa226b7592d62169190b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "3a7904e577044725ce1eac25ce26e0d5352f089c346e1bb4d55edc2185817a76",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "12dc87bdefb75be67d4336a8b4c70e037b00bb265bb8c9c21581a45970792e09",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c8219b2e2ebb1dbb2597f33fd3e7037d138e5c8b6e1cbaf92763685e59cbfc46",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "bfeca3310b54e7e32b595947cb601382ff60a632f096c0ffd44517b5d1a166f8",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "dc209901f79762c1073ef3c5bcb667965b0203c86e8cfeaff435dd46a5533101",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8b9ccdab351094d7a330a5f2c56c71f1b5a9164e60562c39b1788f3e4d1b01b0",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "2659f4bb2a4a25f8501a184ab7dfa297230824dc683f17f7e8dca428229a073d",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "abd4d8bef991b7eb6ab7a564dd87a97bbe6746f51118a503c009de387fe02fb0",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "0a4063762f218df3234fb2e85c37b0502f0052ba7af6015af6b3f8596e1d70b8",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "201ba57b8580057f94b79d9a8e8ff3e40a87b4dbab5700a0f32f2e3df4a49299",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "d0a8d105c5e82858290035ff6199bc580112e7aca29ee77e305505308845f9ae",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "ae48ca73cd89c7c5c7c8a45df4ccbc6c4823d28cf281e345586619168354867c",
+      "text": "Messages, System Prompts and Reasoning Tokens",
+      "hash": "3f4abbe2463908b00f5b0843833ac83f093b45c95c2e5ac1c4395162a9512645"
+    },
+    {
+      "id": "0b5faf364c09e3f4669fa85350a782f7f52746fdec2b1b567833d0fb0a72d178",
+      "text": "What Are Tokens?",
+      "hash": "ee46b60e4092cbeeb7436395b0ac00e00c45ebfd441d53a6c0ad998bad67a625"
+    },
+    {
+      "id": "7b143431b6f3ad03834916c8e3e08b0f2d5014431d6f1caea6b7cebc827d72c7",
+      "text": "What Is The Context Window?",
+      "hash": "424d3b1d346af8ee28ad019515ce974d4455ac38aabd1de0c6f85c80ad006a35"
+    },
+    {
+      "id": "bf5febb3e9a485d84d6a861b2e816b22998d04440966ac678c34e87e2b4b7fc5",
+      "text": "What Are Tools?",
+      "hash": "916742818672edbd799c05eb316ebe7f4750efec5d416b1db6d6348acb761caa"
+    },
+    {
+      "id": "9e8126e626640f1382b66247e00e1971cb45afbcbfd138323db9b3d75cabbb8f",
+      "text": "What Is An Agent?",
+      "hash": "4363a0eaad32a30e59832dae65d5ce46e94404b308512b2a6a68c13044d2919e"
+    },
+    {
+      "id": "245315e4646860dc7517e532169a90cabf18c7a0e75c9c0d0f5a25c1eeb777e5",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "5d33808bb5364d4abcab608db813f42992da2cf5857737f86aa80a701d01c946",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "089cf64374c58230a71cc7074e2dd5dfa5bb69caadf2cdd008f6578e93294814",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "d19d0a302b41bc829fd3896848275fd8f1b2aa544c268850bbf58809604590d1",
+      "text": "02 / 05",
+      "hash": "509c42814075aad7a4fc95e0dec3a0ce48f157c5e09020d6207d7a38d608f8e8"
+    },
+    {
+      "id": "043344daa6f2ab04251b82e871041d8dbe0a2be046842fff7b02a2c0e2a9075f",
+      "text": "Discover how tokens power LLMs, affecting costs and efficiency. Learn about encoding, decoding, and vocabulary size for optimized text processing.",
+      "hash": "2e5fde99e8431ecca1fa4e6cc83877e4f850daed2787fb9dfc1e179e565e1c3b"
+    },
+    {
+      "id": "7a45e233a2733ab033f1ecfbc33b05298c5030c2b21be426d63e86afcea9fff1",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "9b0c53f8395a17364c51c49126b4ee5e90f561fdffbc0d4bb580b05ad278a8f8",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "51b3c7bbaf6d0f081e6c64b859bce7c41df13b1bf588a17cc1051d39b111dff1",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "f36340e89a8f8d38582c14c211d7739cee4f9b9e1a0c8996bf5b0bae2fcb192c",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "ddcb31afe2fbf9708bc56dcc7bb85a9982808f7461dc63195ff37e13ae8d2420",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "741dfeb3db63554db311a403ffa48fb19127a94c0eab9cee74b13321bc86420b",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "a1164639c161b0b93ca4f4d4f63fd5da95cc13def9b46b258c35bbd374fde943",
+      "text": "The LLM Process Flow",
+      "hash": "b3abace2f7fba51398d795acf056d126b31d35d0f5c814a9cde2e54d9fe14e73"
+    },
+    {
+      "id": "5c5b3ac8937e9261b70b4839932a5ca8144858862eeafc4ef74527bea271f869",
+      "text": "How Tokens Are Created",
+      "hash": "81da73eda1d0da2770d8471f242df7565cad5444b1a0c3436ae9befe2c4757e2"
+    },
+    {
+      "id": "294bb437191841faaa77c3af69fd7f553cc4ad0892906248bab1cd201ac9971b",
+      "text": "Vocabulary Size Matters",
+      "hash": "7e73de4aa7de0f1941751b7298841c6ce194bd7d7463516fbd3c1f734434507b"
+    },
+    {
+      "id": "9316f6f7157d8ae3677340309ba8dc11c3a790ba7cdcd7296fa2a9edfd1b4f48",
+      "text": "Handling Unusual Words",
+      "hash": "811d29318abebba0aeea021e3461a56c462f70fb3d4a969c595897487e508ba6"
+    },
+    {
+      "id": "f96c8f5e30cc8bc43f2a6c712247dfd36590a7bd1f89ac43a308e561a2630693",
+      "text": "Final Thoughts",
+      "hash": "68b600e35257625a075203d67c077abd17cd76aa581e447d55d5fcb061be4f5b"
+    },
+    {
+      "id": "73b9a2695b3418258182ba5d836efa05622eac2bfcbc564f24873aaf66db83c2",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "073f5a1fb0ddccba751577c31134a7a4742bdcd34e463d72ed4042aec0524b87",
+      "text": "Tokens are the fundamental building blocks that help Large Language Models (LLMs) process text. Understanding them is essential, especially since you're billed based on token usage.",
+      "hash": "6af0e3f4450d31ac2cbd9252fe37c8aed34ae4bfc9ff1dec1245cb64eb51dac5"
+    },
+    {
+      "id": "23b346154794bccee1c56430e5de424654df87ba829c9928a35c89f3473adf6e",
+      "text": "Tokens are simply numbers that represent how the LLM \"thinks\" about the text you provide. The process of converting text into tokens is called",
+      "hash": "fb3917ce78c30a023e271d958e9e78bdd073441c39f3aa5ffa5c5f7199b1a289"
+    },
+    {
+      "id": "7519e0c2234439e9ef0b18f1937b0c3b11079c8e9eea23ea096a10fab1b34453",
+      "text": "The tokenization process works in two parts:",
+      "hash": "e954dafee3f3d0f9928eb24f0d7073cdce9c8a6257a2a5ff021d91ecba2b1a17"
+    },
+    {
+      "id": "af8e3e359454218997871f7c29fccef6190e93aa4c8d599b56e3e73a2db7ae64",
+      "text": "The tokenizer splits text into tokens it recognizes",
+      "hash": "1a6378cb3d6221158b0672394b47aae08ae2773feb27f284b50675a59b30ce6a"
+    },
+    {
+      "id": "194edf60940ca59f3cf9d630970ef066afb743c490bfcda966a49334f101af07",
+      "text": "These tokens are converted into numbers",
+      "hash": "eaee1e523bdbb4a6f5214c88b0e6fa6e417cbe2f903d23a6fc73f0e219f89a17"
+    },
+    {
+      "id": "8ce81ee06f5fb222693844444e9373e1d8645b5a33137802cc18e5b607c43e8f",
+      "text": "Decoding is the reverse process:",
+      "hash": "dd64e876afc79952712d8e2f0457f9bb58a6373551c77a8e29ddd49a692aa0b4"
+    },
+    {
+      "id": "bfe8327c5911166179c15ba94873442fc09e85dfcfc341366fde72e96d91c4b8",
+      "text": "Numbers are converted back into text tokens",
+      "hash": "97dfa1eb83727ec5a012142a902d355e84bb5f6f5c94bc389ea1eb9037b891ae"
+    },
+    {
+      "id": "ce1fb40c98d3df80ca8e28ce384ac01c39c10b05fc89bbc227788035fb8adb58",
+      "text": "The tokens are joined together to form the output",
+      "hash": "eefd28b68c6b813df9585f50a4e5780340eb6015406601a5b9205525816f86aa"
+    },
+    {
+      "id": "e5043973031355d986887db548ee34b01fbf4cb21d3da6d28245c2a90ac47c5d",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "942c89df2fe78c89bba9ed6a54174514f333e43be86352d6dbe1a583ff4c4ca7",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "befaaa67cca37942f1e2a167256f657479ade2548587031d4fbff4e9bd5fe140",
+      "text": "The complete LLM process looks like this:",
+      "hash": "bfbc9844f3482f1618d2d6f09d48ee614e6a7b53741ee105f952f92f4b1bcbcd"
+    },
+    {
+      "id": "b1b36ffd3250d780acdddcce3a7efe7655127b87a81be254149c66d9d7e9dab3",
+      "text": "Tokenizer encodes your input text into tokens",
+      "hash": "3808a70d4fe67580b5e99bf132eb22a24492de3c60b97582be828ce0697baed9"
+    },
+    {
+      "id": "8a51e303eb37bd489d978db904db7b162f433e82715910d76899b9c1ab08b07e",
+      "text": "LLM processes your tokens",
+      "hash": "55460ac1ae4e49a0b1160392b00d242bf40636fdb37a85d2eabf864385c4903b"
+    },
+    {
+      "id": "5de9bcaa10d93ec69b394bdeb5931ad1900e890ed05a5b7a426ec5e51cc45693",
+      "text": "LLM produces",
+      "hash": "f53de0887c1c4b5c41c59855c4c17b0b2c4f9ad15c0f9c5a89ed9573e5b45ddf"
+    },
+    {
+      "id": "23a32a503749e1432549f4798416b5c3a9b8302844eb266a1e7433bd45926538",
+      "text": "output tokens",
+      "hash": "b6798bcee84a53a994de8822f2954fb739ce9a8eb119121f36b363fe86182357"
+    },
+    {
+      "id": "3f428d8cb722fd33af01a8e58ff68f808430f39c1991373c95c0ffaeae716ff2",
+      "text": "Output tokens are decoded back into readable text",
+      "hash": "1d7abf667a87131ea5896cec26b70c22ddf6f42fc5d9849456222f0b238d2f0f"
+    },
+    {
+      "id": "11e7620ee672d265d048fcc99704fcd601c627930358467bd76ec86ed620331f",
+      "text": "To clarify,",
+      "hash": "021a4a3894b6f35d83d5bbd7aed869fe23a1c2132086f1ff9f5ff7f3c7d52d2e"
+    },
+    {
+      "id": "ac9e4bcf3db785adba1256ca2a8532f6adca906c80b913fa20b1865597d887ed",
+      "text": "input tokens",
+      "hash": "f0c1cb4cda1985a408b12908c01227b01065a8cdfc2a03e2106ca60275f27d16"
+    },
+    {
+      "id": "2e09d0cdf511f1c834a64547155538f0c8b994c6e8d931cfd85586a5681f76d1",
+      "text": "include:",
+      "hash": "e97a9b64df0d7f6f7f8afff0654bf2a55ba57ffb9b7ed288e06122b0ea5ce203"
+    },
+    {
+      "id": "49bdcc493306a9ddfb6b3fa9667dfe7d0a51e46c04b4a6eb722ec98d7df81120",
+      "text": "Your conversation history with the LLM",
+      "hash": "0a121ffd97ef56497228efca25d277bb36ae901872a6fa26c61307de5f82f41c"
+    },
+    {
+      "id": "0dfa83b7ac1954f5064b935c468f160bcee405fd7028644040c094165b1da520",
+      "text": "System prompts",
+      "hash": "3a5be058243d495fa1b1699f22599a16af68d85e4684f88ab5fb6657b150556e"
+    },
+    {
+      "id": "da4aad9763512d450f45882d0a969a09e1007299c302ee61de255504e38602f0",
+      "text": "Tool definitions",
+      "hash": "4c78eb66d53b16f7fea3bac69ced9fb54c0756be848bebb64125305f95538d20"
+    },
+    {
+      "id": "eb642023257afec5d7be3921581af141dc749ff905d189cdd5bfd64a29316055",
+      "text": "Output tokens are what the LLM sends back as a response.",
+      "hash": "3abc654af74bc201b8eafe12936f949ac34d3e977becd85f1b03e250f25dd21a"
+    },
+    {
+      "id": "09899714227af964a131f5e6e9e991f81680e4b6a1f636fa83896eec166871d6",
+      "text": "You're billed for both input and output tokens, typically at different rates. One way to save money is to design your prompts to generate fewer output tokens.",
+      "hash": "013e137909c502668b20c0e63c7e277454094f9db7be0372184ff8aad56e7f27"
+    },
+    {
+      "id": "c81dfa261dbfefd38a5488008fd0e3707d523a1ecabed4aa013653c8583cfb94",
+      "text": "The tokenization process starts with a large corpus of text - similar to what's used to train the LLM itself. Let's imagine a tiny corpus consisting of just one sentence: \"the cat sat on the mat.\"",
+      "hash": "7e9f23f78d87ffa8ac62eba63bd7693cc6c7a46cfdf242e2e154c1af6078b15d"
+    },
+    {
+      "id": "7b2671b638ed9db421436651e11b8adc7558e8f1ceeb98047225d8c951adda2b",
+      "text": "First, all individual characters are extracted:",
+      "hash": "9a67937640ecee89e1400bccf59add54472cca4fc9f70e102dabe49d625d4efa"
+    },
+    {
+      "id": "77446d7c77784fb97134399f6144614c0db3516751cfc3a8ee0209ac337bce43",
+      "text": "Each of these characters becomes its own token in the vocabulary.",
+      "hash": "16710a25fa5e05a65a9a9756e2888f134e897ea289f6db57a2352b12393342c3"
+    },
+    {
+      "id": "28077dff94a47a364d4142753f519bcb6257e5ef74a3bc84691ed54f6aaee45b",
+      "text": "Next, common groupings of characters are identified:",
+      "hash": "0e3b0f5f766076b55f19896cd5e76df1d8d441d68bf9029dd471db7b2075ef29"
+    },
+    {
+      "id": "6125d14cb13539d7cf7c6484d50fc32c20a9283adee78a6af4b309e372e43b95",
+      "text": "\"TH\" appears in \"the\" (twice)",
+      "hash": "ec1f26cf9c5c8cb6580192a4ecc772f499f4d8150cf468da75734a466fe7d321"
+    },
+    {
+      "id": "7671ecf3e4e72de6d69ab7d1662c9a5afe9bd76573cf06ab3980c3ecfd00ddf9",
+      "text": "\"HE\" appears in \"the\" (twice)",
+      "hash": "6b66eac3334ae6994bd43324fff6315c52f13a5a481cbbcea28edd0c29426888"
+    },
+    {
+      "id": "9129913435379df79b0b8e94cc1efb2a9e6b93ba04d5e211fea0e49af1780553",
+      "text": "\"AT\" appears in \"cat\", \"sat\", and \"mat\"",
+      "hash": "4833d69a741855bd7a7421e0764694e3d9530df3a3e882548c6e00bc2ccd9aa7"
+    },
+    {
+      "id": "0675063163cdffd6c0952cab53468e4167151a507400715923a1040677396a6d",
+      "text": "Each of these groupings also gets assigned its own token.",
+      "hash": "5f6ef0ade7a093ea0f29be917d7d551c94bbb9a9efbebe599ccc488ed14ca7dc"
+    },
+    {
+      "id": "a472fd8505518daa239bfba4dca14fdaf72f224a644f4ec1203bf0aa5efc5cb8",
+      "text": "Then, groups of groups are identified - like \"TH\" + \"HE\" creating \"THE\" (the word \"the\"), which gets its own token.",
+      "hash": "dc14f39f560ffad3a77b389052e789dbbbd850b8cfa613674b3c66b9efcfac98"
+    },
+    {
+      "id": "8969d0fd6559305dc455e854e52c26e12412968989258c978b8a5387d52162ad",
+      "text": "The goal is to create a large vocabulary of tokens because larger vocabularies can split words into fewer tokens, making processing more efficient.",
+      "hash": "a36d9cf5c22ea46cb6cbf1b94e21f73a22027a4503a2cf90dc764edfb39d7251"
+    },
+    {
+      "id": "fc1a194620b31a3a7169a6a6d841592c6ac7b590bf2bea4d268227fbdc8f5150",
+      "text": "For example, a vocabulary size of 1,000 tokens might split \"understanding\" into 5 tokens. A vocabulary size of 50,000 tokens might split it into 3 tokens, and a vocabulary size of 200,000 tokens might split it into 2 tokens.",
+      "hash": "e71249da508055c86c4c3d53ce86eb0b894551f7c5fdc7c8503fe9af68ddbf0f"
+    },
+    {
+      "id": "d9937d8d5a528bfacdd616a6d49e79c3da61e7d350b263b2089a8e787dd862ae",
+      "text": "Having a larger vocabulary means you can split words into fewer tokens, making processing more efficient.",
+      "hash": "d56ee286b0ae5bc8e833712b820cb465a96452c2b7330e385cc1a535fca8daf2"
+    },
+    {
+      "id": "4e2a0db892a86e9a558b2ed5f61fbd86a99dbd5506f68fa382c1d6eab9cbdbe2",
+      "text": "The tokenizer struggles with uncommon words. For example, \"O Frabjous Day\" from Lewis Carroll's poem gets split into many tokens because \"Frabjous\" is a made-up word that doesn't appear frequently in the training corpus.",
+      "hash": "e57555aeaeba7a8af7665219ce87df78d9b1820a16c2a8d143013fea10740264"
+    },
+    {
+      "id": "11ae16c68644f9daa74ac1d6ebbdd279f31205b6ca2035d54e935e8c2e7afdc6",
+      "text": "We can see that it turns it into 7 tokens - more than we'd expect from only 15 characters.",
+      "hash": "551b6681c464a72491c72c273d98c44ec6f5df21681e6a4b9ad90401244ff7c6"
+    },
+    {
+      "id": "7bd850640503464d6c9eeddd1fbaec7b95c700caa6c9592d9c5cacdc70b68b9a",
+      "text": "I hope that helps demystify tokens a bit. I found the",
+      "hash": "dc39810fc2c580a63e86a86d2032da3c47702ec7b91db4ed91e9e80be2ad6731"
+    },
+    {
+      "id": "f5e052a77ea92949f7fd540718a7f4e08bcdfd5b73f8de0449ceb056124f9c21",
+      "text": "tiktokenizer playground",
+      "hash": "b5ee71d176844595289dde181c5fcda141e38bd0d84560705e608bb4d8aa4a87"
+    },
+    {
+      "id": "d36559400e57ac9ca12519080169b1db32567e328f5e9c89bd9bc7abf59f04ee",
+      "text": "really useful for understanding this stuff.",
+      "hash": "ace9253a7cd1de6d38b1359aa6d51c4baf6e72cf5115d497ce90ac8a6293a277"
+    },
+    {
+      "id": "09fb49a8710538765de282ce9b4f29c6667547bdc0797a7a8dfe18212f65f519",
+      "text": "Let me know if you have any questions - and what else would you like me to cover next?",
+      "hash": "8980581c7fd33ee1873cef31d811e27445a99a96ff06156edfa5621ff7721094"
+    },
+    {
+      "id": "4c1d4ce603c0732924389fc18fe9097d5261a2aa27175aca54703943b466546e",
+      "text": "Matt",
+      "hash": "84a4b19e19aa4e2a562ae0286b1e188ef4f4f9a98a92b8730d20a1e0f2882523"
+    },
+    {
+      "id": "03732a8f56b6227cf0e36eeb4bfc7d56e1946b3240e1775137fee589f8dd996f",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "765ca69b5e216127eebc9cf1ffdabb348cf7d5b3bfa3f0b298252065f0d93267",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "89e68b10948fbb1f2d60edea5475c35955bc1f53188a627fe12187fcd31743a7",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "ffe25b9c69ba9442ea687d8798390ba1da6ff37e4d460d916bbc131bacd6e2b7",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "98e4d6011b13149cf18562a3764a13889b7febf1c1eec1856856a4d9be66b397",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "64698b931f801f9d98a90f9badbb37f829bcb809f3298761527c53844ddeb817",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "874f9ebb0bf644807b79998bdce47b19b3676d6ee91494fb3bef7311110447bc",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "91e24f87982f42ce82c2828d758ad21a303a55682eecc0400ca11f913c8ebdf5",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "1c3638d2cdbdddadc6b3297e2fd34ab4156cf8f16b8eb4d085169311d386555b",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b8f465a6f5952d8d26312261ea6350aefc595227f5530f43ef44fe95b4aa752d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "8c78ce51329f5ee048e6862367e6d22b91765954667a35cdbac8e1fa0a99e48b",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "d4a222d4a01ff3937befacf5eee8e45a3f5fbac611c8e7f2cf102207fbdb2392",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "90fdb1b600ef0d85f5bcaf599e58037d0bf1f9a25337f1fab25cef8caac07b4c",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "bb5b6ca74e19a577d12ba5b83fbd151a7ceba4818808813496f18e0eaded0677",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "1ef098c976133bb8d75e32f3d881194e60962cc8bc67ca2d72ed6ba1887c6655",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "4bebf0ddc3510a32ac0675576c59b02e246b4736450774da2ec10b26dbb6fae8",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8599f202ccb06b3124b3c2d5b5b3396ab115a33687097c877e89b14830f76c84",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "3e7195d48b5852db900cc2848f02f400f33bb35b2513d056566ac84b261c005b",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "317637969fa6fb29b9c87ab7293405b6b12a410a7f21dbe075c233c9aa6a9853",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d4b319699d1681a29e61c61f3df6888a0cc68ec9e9c71906c8259acc5f54009b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "9169ca877125d1d2047d6990e61e79577d844f7ba0d4af1b8ed3def43c9e6eef",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "f8dafde200e481fabf5b4f4523c30a3fdc9cbef0a24b3cba58c9df70fa28c242",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "b76df5512868ce44f8301f1f13031698b1e71510b1ca1d00eb85a2f048f4769e",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "01dd1b732fd706b6ef8ebc79866e169b7f742426f1e0bb0d04c7d8ad54adb468",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "6ab4a2d11ae208a993fd61140f0d226f594d73dc6b0a523dc69c6d587cdf9969",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "3351f95ca8fc84d3b17b88d47915e833d4fd278e7e1c7fe4f0e01181d8c535cd",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"owc7y5z91a641k\"",
+  "lastModified": null
+}

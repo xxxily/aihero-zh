@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "AI Coding Dictionary：Context、Context window、Next-token prediction、Model provider request、Input/Output tokens 人工译文",
+  "exact": {
+    "Context | AI Coding Dictionary": "上下文｜AI 编码词典",
+    "Context window | AI Coding Dictionary": "上下文窗口｜AI 编码词典",
+    "Next-token prediction | AI Coding Dictionary": "下一 Token 预测｜AI 编码词典",
+    "Model provider request | AI Coding Dictionary": "模型提供商请求｜AI 编码词典",
+    "Input tokens | AI Coding Dictionary": "输入 Token｜AI 编码词典",
+    "Output tokens | AI Coding Dictionary": "输出 Token｜AI 编码词典"
+  },
+  "routes": {
+    "/ai-coding-dictionary/context": {
+      "Term": "术语",
+      "What it names": "指代内容",
+      "The task-relevant information the agent currently has": "智能体当前掌握的任务相关信息",
+      "The literal token sequence the model sees per request": "模型在每个请求中实际看到的 Token 序列",
+      "The running conversation the harness stores": "运行框架保存的持续对话",
+      "The literal": "模型在每个请求中实际看到的",
+      "token": "Token",
+      "sequence the model sees per request": "序列",
+      "The running conversation the": "由",
+      "harness": "运行框架",
+      "stores": "保存的持续对话"
+    },
+    "/ai-coding-dictionary/model-provider-request": {
+      "Request": "请求",
+      "Model returns": "模型返回",
+      "Harness then": "运行框架随后",
+      "Tool call: run the tests": "工具调用：运行测试",
+      "Runs them, appends the failure output": "运行测试，并追加失败输出",
+      "Tool call: read the test file": "工具调用：读取测试文件",
+      "Appends the file contents": "追加文件内容",
+      "Tool call: read the source file": "工具调用：读取源文件",
+      "Tool call: edit the source file": "工具调用：编辑源文件",
+      "Applies the edit, appends the result": "应用编辑，并追加结果",
+      "Tool call: run the tests again": "工具调用：再次运行测试",
+      "Runs them, appends the pass output": "运行测试，并追加通过输出",
+      "Final answer: \"fixed, tests pass\"": "最终回答：“已修复，测试通过”",
+      "Shows it to you": "向你展示结果"
+    }
+  },
+  "blocks": {
+    "/ai-coding-dictionary/context": {
+      "The relevant information the agent has access to right now. The abstract noun — not the raw input the model sees (that's the context window), not the running history (that's the session), but what the agent knows that's pertinent to the task. \"Loading something into context\" means making it part of this set; \"context engineering\" is the discipline of curating it.": "上下文是<a href=\"/ai-coding-dictionary/agent\">智能体</a>当前能够访问的相关信息。它是一个抽象概念：既不是<a href=\"/ai-coding-dictionary/model\">模型</a>实际看到的原始输入——那是<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>；也不是持续运行的历史——那是<a href=\"/ai-coding-dictionary/session\">会话</a>；而是智能体掌握的、与当前任务有关的信息。“把某物加载进上下文”就是让它成为这组信息的一部分；“上下文工程”则是筛选和组织这些信息的工作。",
+      "The three terms separate cleanly:": "这三个术语可以清楚地区分：",
+      "The separation matters because context is a measure of quality, not quantity. A context window can be nearly full and the context still poor — thousands of tokens of stale tool output, none of it about the task at hand. It can also be nearly empty and the context excellent: the one type definition the task turns on.": "区分它们很重要，因为上下文衡量的是质量，而不是数量。上下文窗口可能几乎装满，上下文质量却依然很差——其中有数千个 Token 的过时工具输出，却没有任何内容与当前任务有关。反过来，窗口也可能几乎为空，上下文却非常优秀：只包含决定当前任务的那一个类型定义。",
+      "Most day-to-day failures trace back to context. When the agent invents an API, contradicts a decision, or guesses at a schema, the first question is what was in context when it did — usually the relevant fact was never loaded, or was buried under attention degradation. The fix is curation: load what the task needs, keep out what it doesn't.": "大多数日常失败都能追溯到上下文。当智能体编造 API、违背既有决定或猜测 schema 时，首先要问的是：它当时的上下文里有什么？通常是相关事实从未被加载，或被<a href=\"/ai-coding-dictionary/attention-degradation\">注意力退化</a>淹没。解决办法是筛选：加载任务需要的内容，把不需要的内容留在外面。",
+      "Usage:": "<em>用法：</em>",
+      "\"It keeps inventing fields that aren't in the type.\"": "“它一直在编造类型中不存在的字段。”",
+      "\"The type file isn't in context — it's reading the call sites and guessing. Read the definition in first.\"": "“类型文件不在上下文里——它只是在读取调用位置并进行猜测。先把定义读进来。”"
+    },
+    "/ai-coding-dictionary/context-window": {
+      "Everything the model sees on each model provider request. Finite, model-specific, and the only surface through which the model perceives anything.": "上下文窗口是<a href=\"/ai-coding-dictionary/model\">模型</a>在每次<a href=\"/ai-coding-dictionary/model-provider-request\">模型提供商请求</a>中看到的全部内容。它容量有限、因模型而异，也是模型感知任何事物的唯一界面。",
+      "It's a single sequence of tokens: the system prompt, the conversation so far, every tool result the harness has fed back in. If something is in that sequence, the model can use it; if it isn't, the model doesn't know it exists — not your codebase, not the file you edited yesterday, not the instruction you gave three sessions ago. Anything outside the window has to be brought in, usually via a tool call, before it can affect anything.": "它是一条连续的 Token 序列，其中包含<a href=\"/ai-coding-dictionary/system-prompt\">系统提示词</a>、截至当前的对话，以及<a href=\"/ai-coding-dictionary/harness\">运行框架</a>反馈回来的每个<a href=\"/ai-coding-dictionary/tool-result\">工具结果</a>。如果某项内容在这条序列中，模型就能使用它；如果不在，模型就不知道它存在——无论是你的代码库、昨天编辑的文件，还是三个会话前给出的指令。窗口之外的任何内容，都必须先被带进来，通常通过一次<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>完成，之后才能产生影响。",
+      "Finite means it fills up. Every turn appends more — your messages, the model's responses, tool results — and a long session will eventually hit the limit, forcing compaction or clearing. It also means everything in the window competes: each token you load is one less available for the rest, and content you didn't need still occupies the model's attention. The practical stance is to treat the window as a budget — load what the task needs, leave the rest out.": "容量有限意味着窗口终会装满。每个<a href=\"/ai-coding-dictionary/turn\">轮次</a>都会追加内容——你的消息、模型回复和工具结果——长会话最终会触及上限，被迫进行<a href=\"/ai-coding-dictionary/compaction\">压缩</a>或<a href=\"/ai-coding-dictionary/clearing\">清空</a>。这也意味着窗口中的所有内容都在相互竞争：每加载一个 Token，留给其他内容的空间就少一个；不需要的内容仍会占用模型的注意力。实践中应把上下文窗口当成预算——加载任务所需内容，其余内容留在外面。",
+      "Avoid: \"memory\" — the context window is working state and doesn't persist across sessions. Memory is a separate concept layered on top.": "<em>避免：</em>把上下文窗口称为“记忆”——上下文窗口只是工作状态，不会跨会话保留。记忆是在其上另行构建的概念。",
+      "Usage:": "<em>用法：</em>",
+      "\"Can I just paste the whole monorepo into the prompt?\"": "“我能不能把整个 monorepo 都粘贴进提示词？”",
+      "\"The context window's 200k tokens — that's maybe a fifth of the repo. Pick the files the task touches, leave the rest behind a tool call.\"": "“上下文窗口只有 200k Token——可能只装得下仓库的五分之一。选择任务会涉及的文件，其余内容留在工具调用之后按需读取。”"
+    },
+    "/ai-coding-dictionary/next-token-prediction": {
+      "What the model actually does. Given a context, it samples one next token, appends it, and runs again. Every output — a sentence, a tool call, a thousand-line file — is built one token at a time. The model has no other mode of operation.": "这就是<a href=\"/ai-coding-dictionary/model\">模型</a>真正执行的操作。给定一份<a href=\"/ai-coding-dictionary/context\">上下文</a>，它会采样出下一个 Token，将其追加进去，然后再次运行。所有输出——一句话、一次<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>，或一个上千行的文件——都是逐个 Token 构建出来的。模型没有其他运行方式。",
+      "Each step works the same way: the tokens in the context window are run through the parameters, which produce a probability for every token in the vocabulary — this one is very likely next, that one less so. One token is sampled from those probabilities, appended, and the loop runs again with the slightly longer context. That sampling step is why the same prompt produces different output on different runs: non-determinism is built into the mechanism, not a bug layered on top.": "每一步的工作方式都相同：<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>中的 Token 经过<a href=\"/ai-coding-dictionary/parameters\">参数</a>运算，为词表中的每个 Token 生成一个概率——这个很可能是下一个，另一个则没那么可能。模型从这些概率中采样一个 Token，将其追加到上下文中，再用稍长一些的上下文继续循环。正是这个采样步骤，使同一个提示词在不同运行中产生不同输出：<a href=\"/ai-coding-dictionary/non-determinism\">非确定性</a>内置于机制之中，并不是后来叠加的缺陷。",
+      "Holding onto this mechanism explains behaviour that otherwise looks strange. The model never checks whether a token is true before emitting it — only whether it's likely — which is the root of hallucination. It commits to each token as it goes, so a confident-sounding opening sentence can steer the rest of the answer wrong. And because output tokens are produced strictly one at a time, generation speed puts a floor on how fast any agent can work.": "理解这一机制，就能解释许多看似奇怪的行为。模型在输出 Token 前从不会检查它是否真实，只会判断它是否可能——这正是<a href=\"/ai-coding-dictionary/hallucination\">幻觉</a>的根源。模型会逐个承诺已经生成的 Token，因此一句听起来很自信、实际却错误的开场，就可能把后续回答全部带偏。由于<a href=\"/ai-coding-dictionary/output-tokens\">输出 Token</a>严格逐个生成，生成速度也为任何<a href=\"/ai-coding-dictionary/agent\">智能体</a>的工作速度设定了下限。",
+      "Usage:": "<em>用法：</em>",
+      "\"How does the agent 'decide' to call a tool?\"": "“智能体是怎么‘决定’调用工具的？”",
+      "\"It doesn't — it's next-token prediction all the way down. The tool call is just a structured string the harness parses out of the output stream.\"": "“它并没有做决定——从头到尾都是下一 Token 预测。工具调用只是一段结构化字符串，由运行框架从输出流中解析出来。”"
+    },
+    "/ai-coding-dictionary/model-provider-request": {
+      "One round-trip from the harness to the model provider. The harness sends the current context; the provider returns one response (a tool call or a final answer). A single user message can spawn many model provider requests if the agent calls tools — each tool result triggers another request.": "模型提供商请求是<a href=\"/ai-coding-dictionary/harness\">运行框架</a>与<a href=\"/ai-coding-dictionary/model-provider\">模型提供商</a>之间的一次往返。运行框架发送当前<a href=\"/ai-coding-dictionary/context\">上下文</a>，提供商返回一个响应（一次<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>或最终答案）。如果<a href=\"/ai-coding-dictionary/agent\">智能体</a>调用工具，一条用户消息就可能产生许多个模型提供商请求——每个<a href=\"/ai-coding-dictionary/tool-result\">工具结果</a>都会触发下一个请求。",
+      "Each request carries everything: the system prompt, the full conversation so far, every tool result. The model is stateless, so the provider keeps nothing between requests — request forty re-sends what request thirty-nine sent, plus one more tool result. The prefix cache exists to make this repetition affordable.": "每个请求都会携带全部内容：<a href=\"/ai-coding-dictionary/system-prompt\">系统提示词</a>、截至当前的完整对话和每个工具结果。<a href=\"/ai-coding-dictionary/model\">模型</a>是<a href=\"/ai-coding-dictionary/stateless\">无状态</a>的，因此提供商不会在请求之间保留任何内容——第 40 个请求会重新发送第 39 个请求发送的全部内容，再多加一个工具结果。<a href=\"/ai-coding-dictionary/prefix-cache\">前缀缓存</a>正是为了降低这种重复的成本。",
+      "The request is also the unit of billing. Input tokens, output tokens, and cache discounts are all counted per request, which is why an innocuous-looking question can cost a surprising amount: the cost isn't proportional to your message, it's proportional to the number of requests times the size of the context each one carries.": "请求也是计费单位。<a href=\"/ai-coding-dictionary/input-tokens\">输入 Token</a>、<a href=\"/ai-coding-dictionary/output-tokens\">输出 Token</a>和缓存折扣都按请求计算。这就是为什么一个看起来无害的问题可能产生出乎意料的费用：成本并不与你的消息长度成正比，而取决于请求数量乘以每个请求携带的上下文大小。",
+      "It's worth keeping the request distinct from the turn. A turn is one exchange with you, and a single turn — \"fix the failing test\" — plays out as a chain of requests:": "应当把请求与<a href=\"/ai-coding-dictionary/turn\">轮次</a>区分开。轮次是与你的一次交互，而单个轮次——“修复失败的测试”——可能展开成一连串请求：",
+      "Six requests for one turn — each one re-sending the whole context. When you wonder where the tokens went, count the requests, not the turns.": "一个轮次产生了六个请求——每个请求都会重新发送完整上下文。当你想知道 Token 都花到哪里去了，应当数请求，而不是数轮次。",
+      "Usage:": "<em>用法：</em>",
+      "\"One question burned forty thousand tokens?\"": "“一个问题就消耗了四万个 Token？”",
+      "\"Look at the tool calls — twelve grep, eight read, four edits. Each tool result spawns another model provider request, and the whole session prefix re-sends every time.\"": "“看看工具调用——12 次 grep、8 次读取、4 次编辑。每个工具结果都会产生新的模型提供商请求，而且每次都会重新发送整个会话前缀。”"
+    },
+    "/ai-coding-dictionary/input-tokens": {
+      "Tokens the harness sends on each model provider request — the system prompt, the conversation history, tool results, everything the model reads before it writes. Billed at a lower rate than output tokens, because they are less expensive to process than output tokens.": "输入 Token 是<a href=\"/ai-coding-dictionary/harness\">运行框架</a>在每次<a href=\"/ai-coding-dictionary/model-provider-request\">模型提供商请求</a>中发送的 Token——包括<a href=\"/ai-coding-dictionary/system-prompt\">系统提示词</a>、对话历史、<a href=\"/ai-coding-dictionary/tool-result\">工具结果</a>，也就是<a href=\"/ai-coding-dictionary/model\">模型</a>在写出内容前读取的一切。输入 Token 的费率低于<a href=\"/ai-coding-dictionary/output-tokens\">输出 Token</a>，因为处理输入的计算成本更低。",
+      "When doing AI coding, input tokens make up most of your bill. The model is stateless, so each turn re-sends the entire session as input: your first message, every response, every tool result since. The input for turn fifty contains the previous forty-nine turns. A single model provider request might produce a few hundred output tokens but re-send a hundred thousand input tokens of accumulated history.": "进行 AI 编程时，账单的大部分通常来自输入 Token。模型是<a href=\"/ai-coding-dictionary/stateless\">无状态</a>的，因此每个<a href=\"/ai-coding-dictionary/turn\">轮次</a>都会把整个<a href=\"/ai-coding-dictionary/session\">会话</a>重新作为输入发送：你的第一条消息、此后的每个回复和每个工具结果。第 50 个轮次的输入包含之前 49 个轮次。一次模型提供商请求可能只生成几百个输出 Token，却会重新发送十万个由历史累积而来的输入 Token。",
+      "The prefix cache reduces the cost: history that exactly matches a previous request is billed as cheap cache tokens rather than full-price input. When input costs still hurt, the fix is to shrink what gets re-sent — clearing or compacting between tasks.": "<a href=\"/ai-coding-dictionary/prefix-cache\">前缀缓存</a>会降低这部分成本：与先前请求完全匹配的历史，会按更便宜的<a href=\"/ai-coding-dictionary/cache-tokens\">缓存 Token</a>计费，而不是按原价输入计费。如果输入成本仍然过高，解决办法是缩小每次重发的内容——在任务之间进行<a href=\"/ai-coding-dictionary/clearing\">清空</a>或<a href=\"/ai-coding-dictionary/compaction\">压缩</a>。",
+      "Usage:": "<em>用法：</em>",
+      "\"Bill's high but the agent's barely writing anything.\"": "“账单很高，但智能体几乎没写什么内容。”",
+      "\"It's the input tokens — every turn re-sends the whole session. Without the prefix cache you re-pay for the history each request.\"": "“成本来自输入 Token——每个轮次都会重新发送整个会话。没有前缀缓存时，每个请求都要再次为这段历史付费。”"
+    },
+    "/ai-coding-dictionary/output-tokens": {
+      "Tokens the model generates back. Billed at a higher rate than input tokens — commonly around five times the rate — since they cost more compute to produce.": "输出 Token 是<a href=\"/ai-coding-dictionary/model\">模型</a>生成并返回的 Token。它们的费率高于<a href=\"/ai-coding-dictionary/input-tokens\">输入 Token</a>——通常约为后者的五倍——因为生成输出需要更多计算。",
+      "Everything the model writes counts: the prose you read, the code it emits, tool calls, and any extended thinking the model does before answering. That last one surprises people — reasoning tokens are billed as output even when the harness often doesn't show them to you, and turning up effort spends more of them.": "模型写出的所有内容都会计入：你读到的文字、它生成的代码、<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>，以及回答前进行的任何扩展思考。最后一项常让人意外——即使<a href=\"/ai-coding-dictionary/harness\">运行框架</a>通常不向你展示<a href=\"/ai-coding-dictionary/reasoning-tokens\">推理 Token</a>，它们仍按输出计费；提高<a href=\"/ai-coding-dictionary/effort\">推理投入</a>会消耗更多这类 Token。",
+      "Output tokens also set the pace of a session. The model reads input quickly but generates output one token at a time, so when a turn feels slow, it's almost always the output being written, not the input being read. A long wait usually means a long answer is coming.": "输出 Token 也决定<a href=\"/ai-coding-dictionary/session\">会话</a>的速度。模型读取输入很快，但输出必须逐个 Token 生成；因此，当一个<a href=\"/ai-coding-dictionary/turn\">轮次</a>感觉很慢时，几乎总是因为模型正在写出输出，而不是正在读取输入。等待时间很长，通常意味着即将得到一个很长的回答。",
+      "Usage:": "<em>用法：</em>",
+      "\"The refactor session is burning through credit even though the inputs are small.\"": "“重构会话的输入明明很少，却在快速消耗额度。”",
+      "\"Agent's rewriting whole files instead of patching. Output tokens cost roughly five times the input rate — get it emitting edits and the bill drops.\"": "“智能体在重写整个文件，而不是打补丁。输出 Token 的费率大约是输入的五倍——让它只输出编辑内容，账单就会下降。”"
+    }
+  }
+}

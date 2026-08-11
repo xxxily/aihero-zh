@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/topics/set-up-your-agent",
+  "pathname": "/topics/set-up-your-agent",
+  "fetchedAt": "2026-08-11T06:28:46.755Z",
+  "title": "Set Up Your Agent | AI Hero",
+  "contentHash": "e45396104516ad2480542c04e3c8bebb8dd806a332aaf7c78a2cf80f3765224b",
+  "textHash": "7167b5b312c712485f1e4a868e007088d381ae1592461be6d0f8d6fab6bbe144",
+  "strings": [
+    {
+      "id": "7979e08987aec0d28edcf12d2fb9669a6bb465a99e527dc35c2de32578f47749",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "5266d75407ab8d65e9eea15274061fc99093b35843212285f88caf364f9c7fcf",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "31fa1907cbcba3fe058e7a7f79c343bdbae72cd9ba3878a026c7ffe5d1b26362",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "4e468ab3ef23189b8f46a203f0bb47954f4853193df480b3354e3bb707154646",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "8b7e34818d4d0fa8f0f3e4fcfc693fde428c7f5bbeff0f72c808f4f26b4bfa8f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "51b2aaf5eb357b751183c77631b1b4f8755fd6e87aaf2689a73bbd5b6265c106",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "dd17bc6fdc73cc82dfcd061edaf03db654bf2c2d0b15ad9f1c0be22790467151",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "f33d7814c719b3a65031246795f2f0879d8e7f38cd9aad2e911905507877ff11",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "974ad2718a38fd868311b03c8eff86e61bad48790f19d5756052070b9ef8a5c8",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "614a227b3b38fe83d655e8d0fea518ea71e8a79d958cca39a39f37fbc2ae87d7",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "5926bda4403f076e9ae27e7c893a44cd3aa56225f827d0257f07230c9ee84ec5",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0bc48fe74f2146f9e08d543069fe191528716cfac95cdf29cf06dc1a6c428617",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "4a7051c39472f18a22445cb46d59662b2693d9ac985407a49402273d81f40392",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "6dee630500798d72df713b49fc024f77b629ccf6a11a6658aa1371290dc9f399",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "95e5d01d213cd5d234ecdf1787863bc8b097c49f5bcdda8522e191fdc94b1fb4",
+      "text": "Topic",
+      "hash": "7e61847d61d65d9e3ac15c6281f7bfe0d80b8d79d3b53125e9fc2bfc25bb81e8"
+    },
+    {
+      "id": "3b6525e5d50cf287a5d7f4596f8252663f9e16d6d47d9045d55109fbcbe85b55",
+      "text": "Set Up Your Agent",
+      "hash": "2d8fdbae236287dfdb909fdf36aaeca57625cd351cddfd8df045199440e5aca7"
+    },
+    {
+      "id": "34aa5608496e13d529df82318a2b410fd2742f5554f79a192fb885b41a522265",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "89ebe068c1037eef801e0f0dd5d81c7dc2f9becbedbf35a57dbfe132a5a5c9b2",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "7f48c38a459ccb82a0da06a7dfd7f9f7e196a6022c6ac7ef759171efee01cf9d",
+      "text": "Learn how deep modules and proper codebase architecture make AI coding more effective. Master software design principles for AI-ready codebases.",
+      "hash": "eeb8ae5ecf3d35091e35263c0661f5f97159ea77e2adddc0d4f09066b01bfdd6"
+    },
+    {
+      "id": "58fe0a9a61f747516c53d47a7db7306178187f8809bb2587eff55950d913e80c",
+      "text": "How To Use Claude Code Hooks To Enforce The Right CLI",
+      "hash": "5572493237be23c97fa34a15a2252d791fa744c0866e12b5672f3cf7da797594"
+    },
+    {
+      "id": "b442988e265321002dab3439293a68c26f5a5a0f7510762ac96f94f32467d7ea",
+      "text": "Learn how to use Claude Code hooks to prevent unwanted CLI commands and guide your AI coding agent to use the right tools instead of CLAUDE.md.",
+      "hash": "2f4b913d8e98d3501072124db7724be91930424037762db03590a2cdadbc8bf9"
+    },
+    {
+      "id": "5b3ef4959ecc5aa27931f8f8184cec6bbda7012d9cd507ed09a64c8f9e888931",
+      "text": "Never Run Claude /init",
+      "hash": "c400d82a0dd5436539b5000bf2628b3ffe606d2d0e3a6df65c26c685c66b96a3"
+    },
+    {
+      "id": "aea4545379fd52312caacba1f61269d549e14311848b125bb80d526b3d074559",
+      "text": "Learn why auto-generated Claude.md files hurt your coding agents and what to use instead for better performance and lower costs.",
+      "hash": "9ed9a5e6543bdffaa343758f098231cad57c8d92350c80f4897d7fb1841c9e11"
+    },
+    {
+      "id": "d04bd62a8204e59047f0deb85dfa409dc349c3de54aaa1121d054f1f3e7a2105",
+      "text": "Article",
+      "hash": "29d94922512b93e8d81ffb4c721e52afd32e80d952ebe753ea2b739159219dab"
+    },
+    {
+      "id": "d78ea39428219e39dbc90c6022967a32d2793b5c7ceb172bcb385b03095d3678",
+      "text": "This Hook Stops Claude Code Running Dangerous Git Commands",
+      "hash": "bece2dfa71670e0dba50ef01a35087b4bfd34004db429177a1d484837dc5ee9d"
+    },
+    {
+      "id": "44f9c2535d4ec8ffcfd15dc8967d2bd4e8219cef74b78d94799cea53bdf7c0ef",
+      "text": "Learn how to block dangerous git commands in Claude Code using a PreToolUse hook. Prevent accidental data loss with git guardrails.",
+      "hash": "8184b4752dcf4e1adeda4aca08c0c363db688429d5c9f1859c33323295a27f87"
+    },
+    {
+      "id": "c571c4fc7a4bb8a27c3d551e9b7837fd3c14d04076db4484717a08bb75eadcc0",
+      "text": "Article · 7 min read",
+      "hash": "8993e5483e776e1d3f97ebc6ef952b6370de588bbe9bb9d0a2fdd7d8e6bcee79"
+    },
+    {
+      "id": "11be243ebfe867bf1d0bb0f6d7ef98455103fca839844eaad1cd6ef4ccbe1a86",
+      "text": "Learn how to optimize your AGENTS.md file for AI coding agents. Master progressive disclosure, keep instructions focused, and maximize agent performance.",
+      "hash": "64911cacef4fc5519600ebcdf7234d51c541c208299e1e40c575f0bb1e76212b"
+    },
+    {
+      "id": "74fcff48ec03088b05ec468985739cf6771deb827e7f010a740198d990ddfdd9",
+      "text": "Article · 2 min read",
+      "hash": "cd2d276c7b65bcb702e22d03913c0fda0d78f7283aa6d8ab48aea35c9c5fe3ff"
+    },
+    {
+      "id": "e4efdcb6edacf761a62316f0006ea505b758a7561dac2b9133b21059cfdf4416",
+      "text": "My AGENTS.md file for building plans you actually read",
+      "hash": "6a43bbd925c25839075ee8cc8c120f809dae06b7bcf7576409fbad8ce557e290"
+    },
+    {
+      "id": "61e5a6a93d4b4256513bef2e018829a5edfad4e0d25a7aff96b100949c4422a2",
+      "text": "Here are the key rules from my AGENTS.md file that make plan mode effective.",
+      "hash": "5d8806185cc46766a0fa4c70ac311e797a64fe7d5998f7cfe7c9652b7193f37a"
+    },
+    {
+      "id": "68cfded7c076492a65414461f0f3af67467701f84d69fcdc2c3a9e6e0f297eb0",
+      "text": "An Introduction To Plan Mode",
+      "hash": "7a84f5a163a628fd891f9904f554a6429b0435ea8897649b90485aba2d455ec0"
+    },
+    {
+      "id": "8905a5d42f1e15bd656f147cad7294e2a01cf8cb6696f6f6e546ab6f96ce0c66",
+      "text": "Learn how plan mode transforms AI coding agents. Iterate on requirements before writing code, build context, and get better results from tools like Claude Code.",
+      "hash": "f5750cb4c514d7bd2677c9a5445d6b5cc7b15d6473d195e62dc61c4d9e3f3fc0"
+    },
+    {
+      "id": "9491980463b9ab22297f31e50cba692a373b908fc385b209d8e285bfed64799c",
+      "text": "Creating The Perfect Claude Code Status Line",
+      "hash": "bc4c57542ded814b79775d72e1dc31fc4a80cdc8c55f4fa34da5bf9cc9ba522f"
+    },
+    {
+      "id": "20f2fc2b686b2553f3530f697bb19c074f0a1f99d9975da8e9b9a1cf450dd385",
+      "text": "I've created the perfect Claude Code statusline - including git info and context used. Here's a step-by-step guide.",
+      "hash": "e53b9912e35daeb89aec46d0bf82f9fa86ff6afba88d3d120ab3ec2b6581488b"
+    },
+    {
+      "id": "ca04116bfe9f4cdff73cee80f4adc0ff89c401b00246f25635d3d9ca290c458a",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "9b18496903d7e60725294a9c26878bc1ac77f4731383c3c7c12388086b221af5",
+      "text": "Boost Claude Code with GitHub MCP! Discover how developers can seamlessly modify codebases using this powerful terminal app integration.",
+      "hash": "e544ea1b32d1dea7b394284f7490118bd475199f5f14206a9979794ce8f04823"
+    },
+    {
+      "id": "13515365ce0a0e5ac7238920f8bade19961dd2eb968f000cde1b5a0d79c5529d",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "22d5bc747668a8bad5e8a370082d197550996bcfe8de2a0add5ee2edf9ea283e",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "f3040a4e79ea1170c7d121bb0f817edab8c904381736dbc262522d10fe631334",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "772dbe79a203b0221f570572c379fc24a5280d42553391c3de4481aef19ff030",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "444143112f788e8b7ae28d0934e0775c19cec1abf9b137f6d279af9f645edc82",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "7181250914ec74fd7288974fadccabc8ae66d626f6a871be58a61f95fd067a27",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "0b6d56316e52a1a5aa8c749189180d5460244bc1f57bf449f78013414b9a96a2",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "1aeca8e1807c94660a7bebd4154fe2d89a64636ec61cbe2d090bde028658e2e0",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "6f60b85be2e5f4c122b090ef574e21567d057ab6dfd06157484730918ab20854",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "b1cec6322523e890c926c9fd1f023d9e661406ecde2a560c85b28e4735080b3b",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "8800c5863faf7dca71a2b6f9809c9035558a7274be88b36614f53c2086cc5642",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "cb9b947d194cacb0837b07444ac1251b8b4d934f8ed5dce45938d7e5de253355",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "d1644e807a8db1411b1e8c76784db7d6f9358bf851a5256da631527388a5a936",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "0057257b126efcc32212dd98527f1ff08da1aab2908a8237757c898a18345976",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "289fb6a61f87b577486f1018fb58f95e9d85863811e4468103cb93aaca16c879",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "fb218fbcfc66aab2322233c74a51a4e366ae854e642e169dba193a6cd79b05a4",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "a2df84983fcec07e05f1341a3ad9e5b720af0cb2989a478f2ad3d25ad101a9df",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "e07c0413ebe59bcb1acfcddcbde19bf286c240d068352f87c8eee012a0bb6808",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"5cb77zu9va4pcv\"",
+  "lastModified": null
+}

@@ -1,0 +1,548 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/my-claude-code-cohort-a-teaser",
+  "pathname": "/my-claude-code-cohort-a-teaser",
+  "fetchedAt": "2026-08-11T06:28:12.154Z",
+  "title": "My Claude Code Cohort - A Teaser",
+  "contentHash": "ebdb251876b671230d0edb4373b659b8f6ec4f01ede97464feedb273c15206f2",
+  "textHash": "990245b104eadc7f0b976419b7b05f50c999d724b854c2aac97b0f39fe69d642",
+  "strings": [
+    {
+      "id": "2822c3a6a73d9000ecd05b7cc144e3e08467d3747fa0bc2020279839e6723081",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "85db453e988953dfd475f925b24e0016eea31fdb956e2ff06443f6f6706c89fe",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "394ed1dc5715436330d9bf94ed66f3aa0279f6db46d90947b81db4082d5af147",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "cd63a8791ae9e807ad1e566072e971c6fbea3b7b7ccd0cfce45173a63d6e1925",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "00bb3c1d997fdda50cc57a402097db6a08584102d0815336fff8ba93fe04ac37",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "cb5d654bbd3c9ed0fa707ccd6d49cfbf99405c9efb937891aa785c82b78a155c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8740d874b4cc2d2fa8ab2cdb266f60cb534256a5f910f1927f50636bbf954c2b",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "f30bf4a5445c2ea68a1646eac8b65d20d96936e0a424bdf61db3bf88445b9ba5",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "6a3af13be245b8bb6916a5474a85a247962278e1011c6aa00d64a4915b4a156f",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "a83266defd6c9a19ff14a8f1c5de983c587fc99e5bcb9dd2279422a1d182cd3c",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "a789a5047475578a4ca7e655ae4b1338075cbac7b07c24155d62929295dc1ef4",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "4c89193988cb13d47142f211979120ff3090150455c445e0aa3bb5d0a6e1aad0",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "5c1630e39a0ae658c37063db83d8ef2a914c5f95c8e729ba75872a147f57ea13",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "387159f3fc4c25c6b3192fd01d8b3dcd1397f806673f1b59407a45d621a1a860",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e74487c16cb0c5d3a80a0b17fe8b18c335040c56263daf0baebaf3396b57ef16",
+      "text": "My Claude Code Cohort - A Teaser",
+      "hash": "0b4347eeb97ed4903f95255dbe45349a7097648527631379eedeed360d85b975"
+    },
+    {
+      "id": "a9366288b742d56a5ddf2d656c436e917f341a7ef71cfba5363b6a53a317b42b",
+      "text": "Here's a teaser to my Claude Code course: covering LLM constraints, planning, steering, feedback loops, autonomous agents, and human-in-the-loop techniques.",
+      "hash": "1376fe53d39e6ef0dbf80f037f4a05e9809379b05166670a9c526bf54d597168"
+    },
+    {
+      "id": "5e1836b41273c9ef45807a6d215b878c982e1619e924ff91f1265821dcdf8883",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "e9bb6d4358a67e9e17648d4444600942156abe0c417eeb562a370fcfbabf78e4",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "3fb9ac6cadf8bfe914f87e5d998c04ae5df027fd1e2e1ebf716bd97e4ed9818f",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "4f8d56c768729f145919f2c8ae5663c15a5431a4699cfc6ce1657307275c0c0b",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "68d5a87ee36c8f178cc06b8f2aacd5c0320c3c7905d6e404acdc460e1d2cc117",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "556b8ddec9f064785121fc36f24036dcd80775729c9e4a37949d328d060cabd4",
+      "text": "Start with the Fundamentals (Before You Touch Claude Code)",
+      "hash": "95a615efeee67b61d2d32d1cbfe5e1b307c9eecea0abf093011267e4d7d0ecdd"
+    },
+    {
+      "id": "113a19ad911ab35ac04304d9fd59bd3b52db3013fd689e6ebfd82e280f4489a4",
+      "text": "Master the Core Loop: Explore, Build, Clear",
+      "hash": "23d9c2f10f7dffb07c93cf75e5475afd01275a64131731c3d9c8d2bf016662d0"
+    },
+    {
+      "id": "4e9055233f89c90153baad0391de7989fb7e9f5422bef53dca46792026f5a833",
+      "text": "Learn to Steer with AGENTS.md and Skills",
+      "hash": "1b34da31849721353574601177037827de36c5f861449928a295530e93ea8e30"
+    },
+    {
+      "id": "e27b238f0ac8376f4a29a3ea169f16cd336403669f94842ca2a809e086d560d7",
+      "text": "Break Massive Tasks into Multi-Phase Plans",
+      "hash": "b8a2208a41e16e130c50aaaacb90bc788116ece2ffb8990f31f0980945756d65"
+    },
+    {
+      "id": "3e6324dc7ffe8087098a31cdb104e25fd58e8b7931febd75330e79f192b12f36",
+      "text": "Build Tight Feedback Loops",
+      "hash": "8c1bb1624cef3edc8611878cec2d9e2730c9c23a01d4cd0f2acabbeb16295233"
+    },
+    {
+      "id": "9607a9c3414617402b4e04e143cc121b63aefbc3e76743fc40f8dfc40c1b9038",
+      "text": "Graduate to Autonomous Agents with Ralph",
+      "hash": "6f759fe0a199005960f1b0b504b3034b6ab45d2a3fb94a0f6ca246a60edfbcee"
+    },
+    {
+      "id": "ca59cfcb568480755fe39913d99831d558693717f0b9d8335ef3d645bb79b256",
+      "text": "Bring Humans Back In (When It Matters)",
+      "hash": "47882c14a2559786fc140887250bafc888be8ad0f1d47573cb741a35cb02a1f7"
+    },
+    {
+      "id": "93607cc2f374412c4613a675090625c7d156899859e2dba6f0bb0bd3a226b56a",
+      "text": "Course Format: Self-Paced Plus Cohort Benefits",
+      "hash": "a0cd41070724ba4f517c2094f602fb0d83f7ce4cf4f350173114693019e322e1"
+    },
+    {
+      "id": "efc9bf0a3cb4bbe4f7c270b7a4610a51e949e9fd847fb285506bac17074b8be7",
+      "text": "The Big Picture",
+      "hash": "130b55fca4d26d7ea6c50b2436e8ae66cafda4232d5b91f543079122e2658f99"
+    },
+    {
+      "id": "9b41edcdfa7cd6b88ec9df7a92a0d67cdc5ce8a921251f8bd2946d70004c2be5",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "dc52df81a2160167f12a8974f4f6f45d50e18e0ee1dac75010c77d1237556f33",
+      "text": "2-week learning cohort • Starting March 30",
+      "hash": "7983955127bf2e84e1f35eaf5706c26a64fd1ebefa652c4926e980f708edfb11"
+    },
+    {
+      "id": "2de519c298230637bee78dd7ef0c0cbad3935143fddb3f0b690139c53a11c732",
+      "text": "I've spent the last few months building a comprehensive course that goes beyond the basics of Claude Code. It's a framework for becoming a more effective AI-assisted developer.",
+      "hash": "9ead0ec87ee1dabe37cb1c0780ec582d15e2c81431187b6d9144e5e68989b17b"
+    },
+    {
+      "id": "1dd6fcfb628c03577f59dbec6ff9db3b2b9c9f51f772cd7c655daa809753f4ed",
+      "text": "Here's what you'll find inside.",
+      "hash": "c528eb7efda60f59a29ed3ddc3e98ecaebb7338bb57d01c0c80b0e69e0864853"
+    },
+    {
+      "id": "15aa851f88595e44a8be749b71cd3681132ad12b958c4e2bb28b7e619e76941f",
+      "text": "1. Start with the Fundamentals (Before You Touch Claude Code)",
+      "hash": "e3cee556f38dbb8b6120b5338e8c5d52c72f344679dbcdf3ec909bb74d3bbf13"
+    },
+    {
+      "id": "823c7275094fd28371c22e1e805c35c10f9c3ead8ca5cac90b3cd00f4302c066",
+      "text": "Before diving into Claude Code itself, the course tackles two essential lessons on LLM constraints and sub-agents. This might seem backwards, but it's intentional.",
+      "hash": "c93a444cd802f649f283066ede95713a20555d02c176d0b138888fd7acbe4b48"
+    },
+    {
+      "id": "41aa25dfd7e439773b22c06d0ed0324f21cde8d1a2ed101f6929bdb8c4b12782",
+      "text": "Most developers jump straight into writing prompts without understanding why LLMs behave the way they do. Starting here helps you avoid frustration later when things don't work as expected.",
+      "hash": "61bb426b4a343fcbabd24f3186a28808043aa0faaf5dc1ed6dbbcfa6cd7a2b1d"
+    },
+    {
+      "id": "b7ef31e88648e8c806cdfdd002055a63346ee7db3f62fd5f6a0e4c9710f2f3ba",
+      "text": "Sub-agents deserve special attention because they're central to how Claude Code works. Understanding them will inform how you structure your tasks.",
+      "hash": "56a9dbaca4cc7664798ebe4c8bb30c6f114867825be836f10bda7e506a2c7556"
+    },
+    {
+      "id": "861b27864b9cb0fcc79f765c65b09ecd06146adf83a8c061253b448da3596e88",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "03fed54a25d0ffa4bf9d7d08852b9f8161c8c6890a8d0e7e777d2f084de460ee",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "f8d99e9e1ac2bec1ba613bff3c98b5830fe8424d756f994372dd1efcbbc4dc8a",
+      "text": "2. Master the Core Loop: Explore, Build, Clear",
+      "hash": "f8fe0b9c8f231e0812c9ea25b5139586729ca4cb782a5dc56ec7437a3f47f4c4"
+    },
+    {
+      "id": "7cf3c76cdd5048ca344fdda344355ad7ada1e2a13b062aa5787b3f095eee1521",
+      "text": "Day one focuses on code-based exploration as the fundamental primitive. This is where everything else builds from.",
+      "hash": "0fd9649704e248cec5217cfe18820f0e99280ddd69f882f68ef08838c633001e"
+    },
+    {
+      "id": "ea6c8551f5747cbe785e5ff5f08883a84880410d58e5eb0ec42c9abff98df5a8",
+      "text": "You'll learn to:",
+      "hash": "8eb6d216574c6add06cd27a1ceecf380b27af3125c02e3d4105e1f4a88278d48"
+    },
+    {
+      "id": "03aa76ba87ed3c4e13f4b632a48e33e9b6c249e8a842407426840a4c05934662",
+      "text": "Explore your codebase systematically",
+      "hash": "68a2a9eef01e9d47d6d0a147b19039d68555ed41738b5d354949e422bd80943e"
+    },
+    {
+      "id": "cd3865fdc35dd0047ba9309dda5ac7f662067b35d21eba1e1124c117ba5353a9",
+      "text": "Build individual features with Claude Code",
+      "hash": "3675c99d7435b27e4418858d05385471f73cd6ebfeed54442b92b11a2f9eddd0"
+    },
+    {
+      "id": "8d1fc9d013357c85984444d92b07766919453bfbc526dbc3e9945a17bd020e89",
+      "text": "Hook up context awareness",
+      "hash": "b0a5aebb8828ef5dda662efee7ab228a7142e6512c326e8fc0f26c9d0a6f429c"
+    },
+    {
+      "id": "bedfcfccf2c2785389f274d6a4301c24e59b71f1047dca964697b253cd456bcd",
+      "text": "Use",
+      "hash": "c36d819e7bc6d2b7da51394411c733db89c395987885ca6770167a3b9bc45c3c"
+    },
+    {
+      "id": "36959a5b7c1b075e68227d1adbcf340efe7ba22d77a589474ec2a01ae1a4d695",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "714573ebb3914f162127cc95dd0bfbf6c4560f62311b9c3c949adcff3b12c125",
+      "text": "Implement",
+      "hash": "c7a2b3bc051ae2eff75f6ed2dc13bdd9afbe8d9b6c3f0c86d3ae7cb2496256d3"
+    },
+    {
+      "id": "114e6ef622f77c6e7135f7c197a6da2e36e636a49c7ae740efb16b64e005ee4b",
+      "text": "to clear context windows",
+      "hash": "47586d3fbcd3b061f87203a220fa990a20958e38b21e501ffc4b29ac080aa7c3"
+    },
+    {
+      "id": "7709fcfbb7a42266315e66795fba243ae9c15d723b10d2d6ced6513421a1e643",
+      "text": "By the end of day one, you can ship a complete feature. But you won't yet know how to steer Claude Code consistently toward your vision.",
+      "hash": "8055d09b42cb5ae0f33a34857e0ff64998921e79ede81519b708e73edd01faee"
+    },
+    {
+      "id": "92fbbc0e300c65979dbcfb92cfc316589304ce33419a332702ba510e03729946",
+      "text": "3. Learn to Steer with AGENTS.md and Skills",
+      "hash": "97b579cb42e1ea0496653d67b2cb37d794d1082f12ed04eb1cc98760a915bca8"
+    },
+    {
+      "id": "4d23903fff0018e296053445570c83c5c81fd829893d09f4be53e0b07161f7df",
+      "text": "Day two introduces steering, which solves the statelessness problem that affects LLMs.",
+      "hash": "0de6fabc3593afb98b1848d5f6a860e19191a01be1051cee565d02c2a3574d4d"
+    },
+    {
+      "id": "fe708b9cb7a6eddd06faad27e90c34ce40680f567988ca856cf45e48ae0ea7d1",
+      "text": "Since language models don't retain memory between sessions, you need mechanisms to guide their behavior. The course teaches you to use",
+      "hash": "b9945cb943dbbb5ef2e394d74ed0e25d3d07a763820bae54283d563fbdd4a6e8"
+    },
+    {
+      "id": "b5377be49068ebf1a433051b9a5b77867560b701c0d1f0954f000dde67e1b01c",
+      "text": "files and custom Agent Skills.",
+      "hash": "ba17ca85ed59640cf10b034eaca289410fed178cf94217d028da9689f17cc18f"
+    },
+    {
+      "id": "70cee7c12440af9f6176b1a8efa47376181b5b6086e19326cfacca43b57e8dda",
+      "text": "Skills encode your development practices into reusable tools that Claude Code can invoke repeatedly, ensuring consistency across your codebase.",
+      "hash": "8f3d7fbb008fe65cada0cb45cdcc158c5dabfdfd5359175fd1b9970e4b36943c"
+    },
+    {
+      "id": "4716c2c2d114942ee7abca35e3449e83e7fd932f77fa87ae9eebd11570da784b",
+      "text": "4. Break Massive Tasks into Multi-Phase Plans",
+      "hash": "fe780f56344a2b6b6273227202250ea499fd3957f136d09faf0c5856ecbf1a5f"
+    },
+    {
+      "id": "c0415a1e45c75dddefcc39011595a58544ef1b98dd9ab77a57af11bdcb6b9488",
+      "text": "Most developers hit a wall when tasks exceed the",
+      "hash": "2c935e92eb5d3d32e83167482c787ae13c2f53263244907a5174f95b2b5fe23f"
+    },
+    {
+      "id": "4f66ed7f1a5c4950b923b10c8085f820f6bec487346087d96ed2940150438dc4",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "88d9a80e7d2bef03a4eb18a7a61fdef5cc00a62971c0c601eb243a99c7d75aa5",
+      "text": ". Day three shows you how to split massive features into multiple phases.",
+      "hash": "0db08113e56aa0d0320326287348f505d3b61882103957b95db5f2a9ce4a7202"
+    },
+    {
+      "id": "d6b0fe55a2a79e4e6b67288586fd8790d94366f6b670ccd301ebd6b1be7654ea",
+      "text": "You'll learn the PRD framework for describing what you're building, then how to structure multi-phase plans that clear the context window between phases.",
+      "hash": "4e8efcfaeb74192dca7e5382e7e4f3ed305f320b1662a447a48f3ef143ac6ed1"
+    },
+    {
+      "id": "d5ebb33204522b17e3c9fa368033b73a11b1f1079cc5483f25d4f7601c91b927",
+      "text": "Tracer bullets (borrowed from the Pragmatic Programmer) help you tackle the valuable parts first. This approach reduces the likelihood of getting stuck in implementation details without shipping anything useful.",
+      "hash": "1c249353c4dafdf10fee40c23c5844f1befae2e58c386dc02cdcbafd12fce2d5"
+    },
+    {
+      "id": "1bf3b791c155e8a5694f36f91fb23445f517d07092f92f87421c1ecd115d3a7a",
+      "text": "5. Build Tight Feedback Loops",
+      "hash": "1b396435041250c03131d8a785ec17bf6c399638946a5a7855b9b8ac1c20b7bc"
+    },
+    {
+      "id": "bc09770b2dc59c9cfa72c7a7178ecf166fef5218fe230b82e9dfbe0581256e1e",
+      "text": "Day four reframes how you think about code quality.",
+      "hash": "a28325e90beed6a61fae71d191e7672546c6416635b069f72f0274561eca202f"
+    },
+    {
+      "id": "19cc328574b12c584140ae86ba57b4f153f46ae6b5633d2e669e6def5412c0e6",
+      "text": "Every line of code you add carries a maintenance burden. You can't simply ask Claude Code to churn through problems and expect good results. Instead, you need feedback loops that guide the agent toward better solutions.",
+      "hash": "541931e08fe1dc23888e825630e50bf84687787263d6d8649fa00f7a7afd3610"
+    },
+    {
+      "id": "236b2f99215df9ad5a2297c63901b4d1c3b945db549a846a3007e261fcc680ee",
+      "text": "The course introduces a \"do work\" skill that encodes your development cycle: debugging, exploring, building, running feedback loops, and testing. Claude Code follows this process each time you invoke it.",
+      "hash": "9454373568d84789fdfcfe2518c62d97a8f523bf53216f7c9f4b183e38e80717"
+    },
+    {
+      "id": "cc0e3212f545fab7c749bda72063cc8252e7309a87d35c7aec9085109a05765c",
+      "text": "Test-driven development (TDD) matters here. LLMs already understand these concepts from their training data. Red-green-refactor cycles naturally emerge from good prompting, and better tests lead to better agent performance.",
+      "hash": "12eee34728a5b7b53d09651e8da2c1735f66bdfb7c48043b6407eefbab567977"
+    },
+    {
+      "id": "00944ec9d4723f9f7a55d3e4071297bd79acda68ff44d7ce518fbc968088d189",
+      "text": "6. Graduate to Autonomous Agents with Ralph",
+      "hash": "31c1d23ad19a1ed1197211648c578bb0a2e9fd8d6d275745148997fab74a6a30"
+    },
+    {
+      "id": "885760b99ef45a3eb6855278bad32b1ca400ca82b35f7a94fab7859dd206fe27",
+      "text": "Ralph is the course's term for autonomous AI agents that commit code to your repository without human intervention.",
+      "hash": "85150901bf4922584e506c7e8edd9f3f4d11fbba9ab0262eb817647d90edb038"
+    },
+    {
+      "id": "2c18562cc15c7675cf715f37337ae10b915fb73eb62a5e44c72becde73c21768",
+      "text": "Everything you've learned feeds into this. The steering mechanisms, feedback loops, and architecture patterns become essential. Ralph runs autonomously because your feedback loops and",
+      "hash": "18d817df18d00c123837db7f5121636daae6c707568286b1cf273bc5354f412f"
+    },
+    {
+      "id": "5e6362a8aef1f2103471ac3b33bc74d9b4f01a94e8cb65dbdfdcd3d667f118b9",
+      "text": "file constrain it effectively.",
+      "hash": "3afe5d088abcedb93685271354a5e6a8c5f98f2bf541daafa1e4014aa45e4643"
+    },
+    {
+      "id": "47db9a8af10e5ae1a05c48c3d00345b5a05eb6d1825b6a141805020c781c612b",
+      "text": "The final step is wiring Ralph to your GitHub issue backlog, so you create issues and the agent works through them.",
+      "hash": "0a2c7fdb2f3d7f1e09b0c944f378e9e66a0589ae3f299be9e7c6d5683fe946af"
+    },
+    {
+      "id": "cd4e86deffd6998e1a4c4e26a3f82662e7ddbb7db143363faf794875e2d1e57e",
+      "text": "7. Bring Humans Back In (When It Matters)",
+      "hash": "f3ce5ee2b37c71f7d9c7e911f6e1cccf411cc1f99976afa1cd1ec656ee84d4e4"
+    },
+    {
+      "id": "102499108ba48c80a939756048ccff5a997bd3f21af3057c4f9af976939d0965",
+      "text": "The final day acknowledges that autonomous agents can't handle everything.",
+      "hash": "11255d6e345c14ba660a58d5f3c9a8f026c4cde2b78529df38a61b1c0601f2e1"
+    },
+    {
+      "id": "9f47be25973d349251227dc61fcbc0b78f2d7e0337a51175241d68764808ab5f",
+      "text": "Certain tasks work better in human-in-the-loop mode: research phases let you apply your taste before Ralph executes, prototyping lets you explore design space, and QA plans ensure quality before code lands.",
+      "hash": "1ad21e5b85e1ccce1582524199856250aa229fea770f56d869da2d1547cf2baa"
+    },
+    {
+      "id": "701ed6372cb5a9a4d80911931f2fa0fb3400fd89d3078d8f867b02a12bba1715",
+      "text": "You'll also learn how to architect codebases that AI agents work well with, treating software architecture as part of your development taste.",
+      "hash": "ce6064ed5e476ecd60ab5aea1f983b3082b4c1d749d4bcbc12d8f9bb88ded412"
+    },
+    {
+      "id": "c25fcbf520b8ffccd2042ef5b2162aab23c39f963e05df317441c242fa430df8",
+      "text": "This is a self-paced course where you keep all materials forever. But it's also structured as a cohort, with material dropping over two weeks.",
+      "hash": "24054c31a50728156cfbedf14f6aa25ce84be30a73bde72e9ee35dc743345f86"
+    },
+    {
+      "id": "6f77dd8c206490aa7718862524ac00bea89a04d7d8b2f0f372fee3b580c4d3e3",
+      "text": "This hybrid approach works well. You'll have access to live office hours and a Discord full of developers working through similar problems. You can't just follow a framework blindly; you need to apply it to your own codebase and constraints. That's where the cohort becomes useful.",
+      "hash": "832c2a1da1ccf44f6fb6508432fa91d407785084c7c108f7df98a1b6d5cf7e0b"
+    },
+    {
+      "id": "14da7c9a319d1cd663219aeaad28b582245c3225ffa4c0c7a2ba216fdb0dce4b",
+      "text": "This course builds a complete system. Multi-phase plans lead to better Ralph execution. Steering mechanisms improve code quality. Feedback loops guide agents toward better solutions. Each piece reinforces the others.",
+      "hash": "995110b382bde82e78b99e94578aa966f769bfb406bb0bd1187f95afdcabf0d0"
+    },
+    {
+      "id": "97970fabc055ba079012e31384ef40a24255d3dbd0d71416c1302b6b2096c9ee",
+      "text": "By the end, you'll understand the software engineering principles that make AI-assisted development work at scale.",
+      "hash": "93764200b67d08be4e2eb6b5f8356287c9fcbb0648141ab9a0920902d9525e10"
+    },
+    {
+      "id": "5427f278f6a8c44065ab88b2a2b0d5fe0cf9e7e49b8ac2840e4adea70f0e32f4",
+      "text": "If this resonates with you, I'll see you in the cohort.",
+      "hash": "d8d4769478ffed0650d88a3da923e535d5edb9f40cbb1ebdc800063403615692"
+    },
+    {
+      "id": "687ed890ef87d6a8e55e1ac6fc79d54a3863b57eee9789398f2760fdbf500748",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "f5ba0b94dbdd005b77162ede3bc22a02ce41a83aa7a3d64d83db27633f714b74",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "0ce3a4e382da027379b763fc8a67b2c303ce4e436fb9df69ed378fdda784ee30",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "dcd8bdbb76cecfed662efaa5c9f4f1904c3a2b6510a82c061abac8e41169ab38",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "6802486dd2d64e1f4b49222f78b865167b7832a552c8d80214af6ea5b2d93643",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "569604e1b90c5cc089dd5fb8dd6292ccb3fbaeca129f1c0fa1345cb2d7727107",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "ed1defd12b8e229e27173bbdaed1398e5ae8f9e618eb22de8f2da61f4b50d088",
+      "text": "Article · 20 min read",
+      "hash": "e9c3d63753a037bdaac540f3fa2056699022f1b6029d92cc9bc69b1e4f863a18"
+    },
+    {
+      "id": "2bf6e1f7db7107ad1b5ba600e8d2323cc9df3205537b7efb8880a555930ccdc6",
+      "text": "11 Tips For AI Coding With Ralph Wiggum",
+      "hash": "59a78eefe41a098856366e524a8d5b33baab13286f03e8fba9106fea52bbe4ae"
+    },
+    {
+      "id": "05f27521653fe5ca927851d458b5abe0dfa760ba54505fd00b710b6dacd3aad1",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "458fe43b6743268bed944fa3403fae4563fc952b1d26aabb6739d98a15689aef",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "29a4b1d17b102103074b9d10fa7580204f31c15e4705a19bc7d2e131c5228684",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3b5ad6b28e1e792804677fb6bf3611f58f813070920b78d64b102471ed3a68f4",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "ac37ee5290c0bc9b1d19fd9b3d6d1b970a75ba0fa46ad37414e67fa4ed6fda3f",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ec39bb8733c18e90c85c8382b63e494fd16d9954537a0a6c3e8cb1f5705c5e38",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "8ba8c628a708017ab500176e031d6dc2d99b160b26582d6395bc04af39e6c507",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "2ef806024cb28e523f1434f4b4427d978c91ead4c18169153ffa77c23db0a13f",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f106013f3a62ee227424380c33a9fce8c3a0372ab89d52172d22a76c7984718e",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "397de42a2e2bc5167c76297e5e7a73cd5daf752f6deaba3c9dcdceb0cc057a05",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "da7cea2aee167bfea3b7ea2ca3f0d38363e516b443f4011bcc7480347157ef4d",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "5bd29a2b6d7a7c428610a51e4c5cdf2925c17ac0f5dddde842d6fbbee1bdb4b3",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "3e8bdbb8b41d5308966a3923cf7afe02f018fc5755c80fe663cc07cc3b1debf1",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "4f23cc95c07120aad5a3dea5eb82d41a9ef979525a554b7da3be1fd019243fa6",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "0a6f4d830aba989cef154e409de15e2e001d23d350d87a0559b0980f87ccb111",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "c842ee331e596cd142db5c4cdde66a0f309010d52ed8be472b8c36808f6b0b49",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "c0ccbbecfac96c510d278c492f8ae368b03cce518a9e9fd25ffc0a58bf6ffb92",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "67ac0d02c2de9b26caa867801bc8ae8f61afb9b8e94dce9949feac98243fca89",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"i6gj34qd8h5yzr\"",
+  "lastModified": null
+}

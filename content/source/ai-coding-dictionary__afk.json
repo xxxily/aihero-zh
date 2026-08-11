@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/afk",
+  "pathname": "/ai-coding-dictionary/afk",
+  "fetchedAt": "2026-08-11T06:28:39.651Z",
+  "title": "AFK | AI Coding Dictionary",
+  "contentHash": "e5360a30c8dae223a15e04c6090d13b60fd1ffe78d8ac90197fb9f3236dd8a6c",
+  "textHash": "79ceafd87ec9bc784d0a42c545c7fdb03869dc623314950db9372fe5ea4f6d56",
+  "strings": [
+    {
+      "id": "e91d000da327c947194379c8cdf46bca769e0abe5e52430375013e158ca372f9",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "3ec10135fcfc27e25cd2e16970992092a2d9f8308b3449d2d56578b8a945ecbf",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "b17a26261cabe9553ec9f2658a61c6ee150d96ba4c86848e0d2af9b34a28e752",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f6d41d42951ca2e3cb04015f90d1f2dd9e822f49ef44aa54da1f60465ee6d89a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "ec3ee9da5a3881d49164ca63be2a91a1f74049b2f9d305b971748d7eea1ebda4",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "97a295d7cb5d678e38f2c9fa9536bded323bcf40cf7070e477e20cd07ae00d00",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "abe20d1aa1af5093b81267fc2f8368767009a9aa12eba352b7828413cd2af717",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "af8feedb6a82270c615e938e91f20d20438cf12c5fbc10b06b57720fd38253bd",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "8e45333d011f49d84c348e502c4517e7daba12e68abdd1048ca03298ec3e2382",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "baf9900f01c4f149a38c5913b08b959ebea129401d56155d33571b4d7898f59d",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "89c0badbf6a5983a3cd635c2e703a4cc41efffb74d6ed1a265a2e80dd6ad7c29",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "5d5c2a696720feed470d44f0b71ce82bef5746dcbd638dcaab4e61c178858443",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "fc018c4676d1dcb899f5c1ef6aa390b3ce86f98229595658e5afc1c1e776443a",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "74d28a9852b8f532707eb7171cc03b5c9d588e05cab68bd2c72e3e809f2ca8aa",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e08479c9ee49eead685aff3ce6108eec1a63aadd0fdb49eaed760394f3a5b40e",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "1a464d5262aad4c244c6bb8f9035167ecfb296c8436f71a2264221cbe0727ef8",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "90ba83eddaa59851646d62cdf27147c980cdf09c77dd3ab93492753e1cc78afe",
+      "text": "A working pattern where the user kicks off a session and leaves the agent to run unattended (away from keyboard).",
+      "hash": "5af849e6da5f286b228b0e7f36c6c7ea2ac98dea488706213c6a9b8d052b37ad"
+    },
+    {
+      "id": "5e75556d8e38b935c27c56648db5d288e10f2b75fddf064019d6e493a7d5c1f1",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "88970f1c8ad5eefa7188a644feb217cf3b146aee4a562953cb9ccc5dc3ad74b6",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "e224551ef4cb983eb34f9426186a315a001959d7ec530d1c2cbb64cb1ca559e8",
+      "text": "Away from keyboard. A working pattern where the user kicks off a",
+      "hash": "8da5dc1f30665835e0a78a761f871c57da42b0debb3d08f926b969bf136113b3"
+    },
+    {
+      "id": "c9deadda39763bb182fe6e1c57623eeca95cd4159836a83323709f2bec24e768",
+      "text": "and leaves the",
+      "hash": "dfb5a83d2aac8ba37c8b2a3f3c6b20f49cf209629f5cd97b8094988738f86886"
+    },
+    {
+      "id": "b86c4bd4c7c44cdfdda1fe5b8293aa139a6a7f01b6c680344ed2c3ef413236f2",
+      "text": "to run unattended. The throughput multiplier of",
+      "hash": "4eea73a886c0d2c8878e9751a7cfc32359d0a6ce4530aae7d55b7e76b2f7aa16"
+    },
+    {
+      "id": "41a30d0bf86d75199105b0f63c138124ff2ca01332e9e352f2c2417dd8999b31",
+      "text": "coding — many AFK sessions can run in parallel while you sleep, eat, or work on something else. Usually requires a permissive",
+      "hash": "ca342243c758ef13e806c2baa542e5573497fdeeaec31947fc1572493a5d3b9c"
+    },
+    {
+      "id": "f53b50d42da09fe5740ff85ec74673ecc1fddc14f47bbced9880972a637b2b87",
+      "text": "permission mode",
+      "hash": "2ea04b3cff63e2308414a5e48abbef0b69336f0b9902d10bd8b81d8ff46aae26"
+    },
+    {
+      "id": "e465a68ba46c0fa0a615521a9d00b95abad044465c5d1207ad277db8ff14c1f5",
+      "text": "to be safe.",
+      "hash": "23de20c03096eeef910582e09028f4035e7a1fcb69c40f3433c734ff35d7c3a3"
+    },
+    {
+      "id": "ab1633ca54cfb679d69b659b2d847466bff19f2925fad743400538ccd19f40e4",
+      "text": "When you're not there, the agent handles ambiguity differently. While you're watching, an ambiguous decision surfaces as a question and you answer it; once you've walked away, the agent picks a default and keeps going, and every later decision builds on that guess. The characteristic failure is coming back to hours of finished, confident work built on a wrong call made in the first ten minutes. The work isn't sloppy — it's coherent, just coherent about the wrong thing.",
+      "hash": "0160c7e1750641a4bfe825984e0cdaf751f9f3e21022caeea513d623e62344f2"
+    },
+    {
+      "id": "936ca11294699969db271f01e29a170baa1d03adf9c10a231c288b2a9f412b49",
+      "text": "Since you can't give input during the run, give it before and after instead. Before: resolve the ambiguity up front — a",
+      "hash": "57a559231fddea286978d56f3e7d97ec49f504e3387617480798cae94f026173"
+    },
+    {
+      "id": "32a20dc55b0721520a7c086389395a70e60d7b7c9a443392037afdad9f7e8827",
+      "text": "session, a written",
+      "hash": "7548ee3612328aad5995025a721bd11bd5c51f9a802706518a9cacb707b5e8c1"
+    },
+    {
+      "id": "223c01cc7d0fe8bf6b87becc7bdc6cdaf4b7efbbec3d56511b353b1e9bd4fc7a",
+      "text": "— so there are fewer gaps for the agent to fill alone. During:",
+      "hash": "6f2e94bd177d950b7192a602248ee8fb755e5b83160ea80bb4fc3f0b31bf57d5"
+    },
+    {
+      "id": "62c44023527534ffe0891ae1a7927f04367975f96e7b35abb13662c4e6e6aba0",
+      "text": "automated checks",
+      "hash": "f748d6acc6e10f9e80812a46b239b1d2f3f145075600d299b6e40632fb06622b"
+    },
+    {
+      "id": "237fd79ed1b7047f45f3374d2fd68de2d3d81e1176df55c558858e5dfae358cc",
+      "text": "automated review",
+      "hash": "50f191cd5fc38204b448aef31fe4355cd06753a9cd829931d5b71343757317d6"
+    },
+    {
+      "id": "d38f3bb58e7dd1ea67d5d39a5934efc6afdd2efccf825df55f328bb58e9a52d0",
+      "text": "stand in for the attention you're not giving, failing fast on what can be caught mechanically. After: the run ends in something reviewable — a PR, not changes already merged. AFK doesn't remove",
+      "hash": "e03073b15bca1180267b776c5f05d04228fc3e5e13bf9197d31fb7b5fde1442a"
+    },
+    {
+      "id": "b0dcbe91bcc33d99be9b94472197d4a9930cf1e9ad2748509c5d9e52147789b2",
+      "text": "human review",
+      "hash": "978a8b09ee5844e15ea0661d83702e00e6b4312de7dae44479adf0e8d7f5262b"
+    },
+    {
+      "id": "254d5416c5351a41a007614153434fec4b4de10fff1c4e1eef327360464dd21a",
+      "text": "; it defers all of it to the end, which is why what arrives at the end has to be worth reviewing. This is also why",
+      "hash": "81230a6ac4afb55cefd3d9aab671b4b7d59e7f7c91af4bb3ae131b17dedca3ec"
+    },
+    {
+      "id": "f9e82c9b9b7b8329961b543ee447a404444d9128c8a357f52f4f48a215e9f057",
+      "text": "AX",
+      "hash": "bbe96fa9f44ea0fcf38b0ec729822f37f5cc11e625753b2a250a90a3b59dd098"
+    },
+    {
+      "id": "039aee86c612a0e89a3c3a4bfae3db98c2ce656d528b8c41403126b7e103fdc2",
+      "text": "matters most in AFK runs — with no one watching, the environment is the only support the agent gets.",
+      "hash": "54be29659474262554441131084287117052248f27c29ce6be13465018d6ad4e"
+    },
+    {
+      "id": "d2fe39da9eeff652c6f55ba2c8078213bfa9d3b16a422b5d3c136c44612b0ee5",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "62d10380efccf9d01631b087c0e911a9ebeb7fc242f2aac2efb982e12440533c",
+      "text": "\"background agent\" — centers the machine (\"running in the background\") rather than the human pattern (\"user has walked away\"). AFK names the fact that matters: the user isn't watching.",
+      "hash": "fac9e4afa6e2251c8da1f699880689648a4d5418c5186802f2a1c61e100490b8"
+    },
+    {
+      "id": "ab2272de7fa2ccdfa7e47a7ed47de6ee6568333ae86feacc745ca452e5650996",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "324b1938abff31243d07a96b8c09aa2be58678df3cf6c756fe46fd3e16bb82cb",
+      "text": "\"I'm running this AFK — three sandboxed agents on the refactor, reviewing the PRs in the morning.\"",
+      "hash": "2dd966be5bf35f6f694123526f704d9c71d277d10f21a4f48658cf2de876a20b"
+    },
+    {
+      "id": "4f54c3d8ae866cc3def7a8576f2faed39d2f3a546e86c57d1f91cf430759988e",
+      "text": "Bypass permissions",
+      "hash": "8f7a3f7fdc58c366e963f56ef977c9b987337235c76304ead6ae285df44f0204"
+    },
+    {
+      "id": "8939fa8e68922ce56fcd08760d41eb83f5961de5b7704165ebd77e125672543b",
+      "text": "?\"",
+      "hash": "19ea93571d24c1b4a75edb5927269424f305db383b5b4fa0cb71a74252ad701a"
+    },
+    {
+      "id": "f587ff3012e0d103c1b873cf33e5fd6b3bdaf511a7f9e995ba6475e979f0bda6",
+      "text": "\"Yeah, read-only",
+      "hash": "00fb1013de45e8fae3983d172c184e1b4e92635f95ca65b34e9297f102befd10"
+    },
+    {
+      "id": "30181991cadbefee726c59204fd7acb2750342ac79a964e821ea5b683fed8daa",
+      "text": ", no network.\"",
+      "hash": "032498134d67c04791c6fafc1d97f5f831dcb0b9aed99a10b5b74dd507994422"
+    },
+    {
+      "id": "72a06f8c87e22eb4d2a9c70ffb3092aeb25a04092ce5e29673fa18da4410d55d",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "213cf8e42184f6dc2a182a796b36905752fa25eec816e3e11809c9016be7c2a8",
+      "text": "Human-in-the-loop",
+      "hash": "014893d767fb10c9f698bbc84894647de33135dacd220fcf7b22451b55c64e6f"
+    },
+    {
+      "id": "5b394a62e37e453fa5876599ba5ab872d5c6e17c61159c85daba396fdf33589e",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "716aa0b29b4d25cbe70efeb422182f74e422499b9e00ef27a8b92e77f56ca361",
+      "text": "Automated check",
+      "hash": "02f50ca3b316125cc24382d78e247a47971a48880f6655c3cfcfcd84dc3891e9"
+    },
+    {
+      "id": "bde9bc3fb4b5f300577cdc0e2c60b32803678dd55abb52fa0bbd82a0bc1b4e2a",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "2bfd2f2af110cb4dde332bc3ce4a45911ef46934b99f924d1d46039c593e69d7",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "3a433b550df66193accb5870580cf25c5365555e636936a9dd00448c18d77ce3",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "f28afcd3b82ee13149becfd63cb7afad45c324aa874099ceb03103acfba7cc22",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "912528f0992e15fa4682031c2ae49ed2610192d6912d653ed72a4d0a6649e439",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "3ba1e9d3cdd89118850b90a4890187c71c23e94baa781f37dabebb4ad5e0eb78",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "adaec109898cf147dbaecc3f8a658441e376e19f2563ee54fa3e5e9fe6c71e99",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "5e78d15f8f2000f0e9085db584c77048cd989c58847c81c923dd88f9d3c8e482",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "c8897fb6b8c610baac8f610bc297eba420a52d61317b1c9d194e001ae1db9a47",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "5f88703e6082a22b1b9ede2252ee106cd964c4d9cea7bcd5fc779e6cba0ced12",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "6c2aa3cd96f47ff3a69661190c4e3c5b528ffbe0c23f1c95ed861000085747f9",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "21268604402a71006a707055b2b0891297d93785b0a048d6697abdf014ddd33b",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "5c40d95a17b75cc05732b1e45927139bd66e0a2991aefb60d104b66beba5c7a1",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "dde74ebe59c6983d90572457f160480dc2494bbaa843fc3d04146987d47b1515",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "a029a08e001fb07182f577d52df00d3fbb77ab2f637655accd313c1e7d5b186b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "830d93abd814fcf3b773bfe5435b26cc4ca3433c8aa8c0aed9cfaaa590f0837d",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "fca54cbcb5b4cd952c38ac385c8ee78c19eb00d62d1c45936d220f0e164e724d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "d593303618792e0f6f2d9cca1a5750761e7bcf38860fab40481590f831089031",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "0b108d015a6b13557f0e0f4393c560ea2b7dc05eecf7c066ec3df2ea8ea7de99",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "b24f7479345907c763103ed74f0eab32f77ea35595af29966880be3023c0db34",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "fdf6f2db4bec79a67d4de2dd0984b753e444f01a1d0ef2919b04130644f87020",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "8e087216226a959a95a3a6551ca3017d4bf1a9b3e8ac05e7e9ce4d27b0a8771b",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "82b66949f51c853e58bf411abfcf49c7b7e4c98783e2a004e275cfb58eb9c61d",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "eeccd441f665fd19a338ac68251245c73f1a82b18c2f3f4d753eb98a9b76179a",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "6e9812f3d850bf15feb3d06433e2ae367829163758fd073ba9fb57e95c60f9c4",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "6b6e91a36360d71d161d59b0d45a78ad03e27d8e481bbf4ef6916ee57aa7b3d5",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"dorcpzl2zx4rwq\"",
+  "lastModified": null
+}

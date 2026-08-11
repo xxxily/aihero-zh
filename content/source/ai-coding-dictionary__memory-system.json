@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/memory-system",
+  "pathname": "/ai-coding-dictionary/memory-system",
+  "fetchedAt": "2026-08-11T06:28:38.361Z",
+  "title": "Memory system | AI Coding Dictionary",
+  "contentHash": "70fbee5cd4d0affebbaba069f8fec3280b10c82670c79910679a6c71199049a6",
+  "textHash": "56e7183ef335769555d8ac8f92666257de8b1308439020e10adca302d5f96fb3",
+  "strings": [
+    {
+      "id": "6fff0180e2c8f0631e8fa944c5e64d6e601d75c80a597c8df05ccc695bc1f12e",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "dd0d86503c44f17c7146c48eebfa90bd714bb8c90255b0cf60e8c8c5d3df641a",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "94e0bd4854682122b38736232881f018550c621a3067e812c1f2d855d5aff73d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "983e42545eb95a5ae30308e67a67a3e094a507a7f26a73fb44ed27d877f16fec",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "45d0fce2aa27b0a10ecbce3786df56a039c22efa47f590d0545bdbcbec080a85",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "ba6119aabfbb18c947acd2675e9d05a19e7cb231bee5994f6fdf2bda5fab54e3",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8ebd5e0cdab4d333446f5e9192cbf80b1adccc59e2b010edf90481574da2f037",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "8d6b18468813143718b7ed9af9791b920d3609e1845527509ae527166ab364e3",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "7521ca104b8d2ec0d073058a69c533882f9eef4352e08afc9ed791040f8a6b36",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "6a9b493a919a58570ee22975805c755077bb2da44c1b177a18f85bfa430b1bb9",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "5fc41c197fa7330b8fedfe8e21e8f9dbdf081e7d171f77a56abfb875d6107a9e",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "2c3ed53ac346848958a85a810418ac3110df1c7782f19ac5fcacb43713fa1a0c",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "80542aa3e383c544878638ec412c5b5e5b4ec61205119fbbdb7ade1cbb6dc06d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "7e26b729cd4bcb99fe1db9301011924068255f7b8710da0dc7127bc70fcb7ec4",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "4f0afdf3bab4a573bd05e58a72f5bc48bfae83654f922dd228f5e1b2fdae9c40",
+      "text": "Memory and Steering",
+      "hash": "e9396c915a0fb1c9f188708920573d4a5b1ec0a09639049682989999ecbdf3de"
+    },
+    {
+      "id": "f808f548a154b4c8edbaf44bff86133efbd4490b9c592845d104377690fb4573",
+      "text": "Memory system",
+      "hash": "0262e82db5dfb849a70a2a6a94c1afd575205f2d24d5f001afa96f4d8dcb47d7"
+    },
+    {
+      "id": "a601f7941a19f8b8504bc641108ee99d1ca84b613ff068cce8b99298944dfa6a",
+      "text": "A system that attempts to make an agent stateful across sessions by persisting to the environment and reloading at session start.",
+      "hash": "0da6aa86553264fd3252a69391b29d866ec079baa42e4c0ddef78b7e7834f6eb"
+    },
+    {
+      "id": "4c96b54d54338bc7f408370b4fd263a2a87034838dbb2a94b0d96e2db7eb5b76",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "a7d0633cc87b8f74696e7e610ef3f4891e491670ec1be15cf2c65b8fb514fa18",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "701797f927bf47a1bbb0c2b4421b97ae6a45d9d8206757df05face78e8e710ee",
+      "text": "A system that attempts to make an",
+      "hash": "4e3948baf79c38a8975c3e0958d87b7ee79e683f91e72e729f1c2d68269e580e"
+    },
+    {
+      "id": "898a2a1d27e51b479c2fe26d727a6b79a0ad7b71f3d660d376676f628b638996",
+      "text": ". Persists information into the",
+      "hash": "0815d4fd241b72eb65c47509efb358f5f31b3a13ade054bd5b620e146a5c9ffd"
+    },
+    {
+      "id": "9870d6dde220fb07f6cf9898588ee8f120f0b503fe47ca39cfa6e6f283df3e34",
+      "text": "during a session and reloads it into the",
+      "hash": "4af303fc82bf74127810cb0d8270d4b206bd4c2ce1ede94e5f6da40f51bf058d"
+    },
+    {
+      "id": "08b0bb3069f2096234f0ad2df97aeadd6543e65ee6d3903d44d58a9e07c9b8ba",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "d32fc24b64e31622ab6f111d717c78dae39ba0370ef23520db204fbc4fc73461",
+      "text": "at the start of future ones, so the agent carries continuity beyond the user",
+      "hash": "6104ac897bd70e3f85978acbe99740792529474030cd1e0aa6f89bd94f67c3a0"
+    },
+    {
+      "id": "5e34cfd010fc4b37c8b6e2a1176236d124fe817945c53b8ff47a17a71fc65395",
+      "text": "the session.",
+      "hash": "4ddb3e02f10efe5a7468169e0810d21976b194c83f16aae5b93c5fe4fbcc4495"
+    },
+    {
+      "id": "a61324802ad972cfd2f1b08efe1c82ecb248dc210ecc72b2d6de43f7d92a4cce",
+      "text": "A memory system has two halves. The write path: during a session, the agent records what it learned — a preference you stated, a fact about the project — as files in the environment. The read path: at session start, the",
+      "hash": "d29dbf8640895a3c8f510440b025bbd5599fe2f938e994e5e23f9e0b036dae7d"
+    },
+    {
+      "id": "feb0047f2764afcb0e2327881966a0995eadd0a5f2d6eae9ec49f096b1959da3",
+      "text": "loads those files, or an index of them, back into the context window. Many harnesses ship their own memory system — Claude Code's",
+      "hash": "544f5f0be171a953f1ea64af32f25ec31622801f0c721d23d4c104841f1798cb"
+    },
+    {
+      "id": "aee4e0e8e7301e4d0f814db4d3519c3bb5b583738fd2013659543872dab850c0",
+      "text": "is one — but you can also build one yourself: a directory of notes plus an instruction in",
+      "hash": "c8becb680294d53495db41b267d80981d0a700eca4449395b44cd98dc613c10b"
+    },
+    {
+      "id": "95e54d37ec381f2687dc3467858826a94d5c280152242af6509532db73486966",
+      "text": "to consult it.",
+      "hash": "e7ad44b0357316ad00c7d84f96cef820a3bc2ccf27ef105878f416bcee42bc7e"
+    },
+    {
+      "id": "e678af9dd488bb31dec4d75f7191af5df3c290b3d1f26462ea7579d8cd175084",
+      "text": "The same trade-offs as any always-loaded content apply. Memories accumulate, so most systems load a one-line index and leave the bodies behind",
+      "hash": "8282964751c0ea8ea4d6afde37519b0b39eeb610e4b1afaa5ec16230f13bffb4"
+    },
+    {
+      "id": "655a1a8be2ca47b9fce0dec1ba2359baa6f14824b8a8cb82eac5ec63e461ccc5",
+      "text": "context pointers",
+      "hash": "82528bbf7c9c348f2db59980c707a48c7c85c4ea3d7f7f63f107a209445930c8"
+    },
+    {
+      "id": "b8fc2eb2949c50a2dbb02a69f476709c43738f0ddf75fb382c5d23a32741ddc8",
+      "text": "rather than inlining everything. And memories are",
+      "hash": "506e79681f4796857e57bb3d626f5df43813f86b74e7eef5930a4dbafcd1e5e3"
+    },
+    {
+      "id": "4cb396198317655bb7458f18f29ceb0f4fc45345a9c85181210a1a636088a432",
+      "text": "secondary sources",
+      "hash": "1d16243e15ba0bee2085aec99e4b25d95dcef3906bfe8a42ed5a1f94a8aa04e7"
+    },
+    {
+      "id": "a30ddaddb7bb3e6ef5789c25e1d046e18b584e71f93f5634ae3902dd2f8c26df",
+      "text": ", so they drift: a fact recorded in March is loaded with equal confidence in June, after the project has moved on. A memory system needs pruning, the same way AGENTS.md does.",
+      "hash": "31a07588191c726ef70e56fbcaca0c65452917e7422c05f6330d0ba0d1808a85"
+    },
+    {
+      "id": "8305ef1bb01e2d9293e465ceb46d8639277a0afa4a9dddfe74a13c4691f8011f",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "aa81775d17e43f60443ac6ab44109eb07fd91980949f0b450bd5b5e55aad5e51",
+      "text": "\"I keep having to re-tell it I'm on Postgres, not MySQL.\"",
+      "hash": "fe3a14fc85bd060b010210e5b35119aff9f4db0d6f635513545ef314071d1be8"
+    },
+    {
+      "id": "456ec29e15772ffc6d2c5996a16e2e0ed87fef0bade14385794893c0b66cd9b4",
+      "text": "\"Wire up a memory system — write what it learns to the",
+      "hash": "c9978bf583cba5931878f1ffa76a58861923b78b72f1f75177c1b9010bfd7809"
+    },
+    {
+      "id": "2fbf13ed79a421a85ce87914df0d60c18416f23cdaa275035e267f19340a7e0f",
+      "text": "on the first",
+      "hash": "5f0b3eae178d568aa0b27d35493f85175bfda2e2bf3de11f7546722b3d08e333"
+    },
+    {
+      "id": "a6647307dddfc00e5684fa9c5dbdfe533f657fc8ef52b887eadbc4d1cfc54fef",
+      "text": ", reload it at session start. The",
+      "hash": "a2a3c54d6ccfff84cedff5468d760d0610bf0cb31122c3e0e99991f3bf88226c"
+    },
+    {
+      "id": "f34274fad184675d54215a787dae3c6e33af93bd05492d96183af86ca5c73552",
+      "text": "itself is",
+      "hash": "c47154caa3f8bb09360c30c795c23d5d391e450c21843d0e602e7e857c85daee"
+    },
+    {
+      "id": "75fc4f7121e8bf3898101621118a0fef0548fbe43a0854317a629e844d396254",
+      "text": "; the memory layer fakes continuity.\"",
+      "hash": "2dff34cddeb1f20632b82ba7dea1c7fc5b51fb38c5e883ec25f9009761f94ba5"
+    },
+    {
+      "id": "61646326f77a3ec09221cd0f599e06cb77144a65650bc5786cbd3474cb0bba7c",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "6e249544dd4eca1364e523ff520876e7be90e4918b8c27ec49ddd7f22b1082e7",
+      "text": "Autocompact",
+      "hash": "8a36ad552d898798dd978db0b1b2d4e568ae7f3c3b3295eedb4df69ab8604e0d"
+    },
+    {
+      "id": "60dfc4dc7fcce50166e2113fcba19dd585408cc343ac3693565d59ad7700f5b4",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "b826777aa14f34f802723a99f3a2b7a00b1d910ed64ae54531172a5fe75f7d7f",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "e6f6ac904f7d1f73a39921fa5f49e81033cbe8f96e05e1808054357ee5392fc3",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "5ae59694bc7c0fe05bc0e25c284ad531012de6d7981e65f370773977642e44ff",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "be60ac706639790d3990440b160b6f624ddd93b9b685875215e9c10f70308f01",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "2d2bf2c1ff9df2df3eb67be2441456f5305b513f343d3ddb2b950f1505126d67",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "23831833919d6af4df1c8c774d4537c91e40091321a49ad9044f6a74ea3ce018",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "e4cbbb84f158d66fe6969113318832b34cbbb257aaf422ad61dfebdb47009328",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "126772eaf8430457e6442d694bda5f32e9fcea573b4674dceaca5ec4106b75b3",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "88a2fd7cbab8b5bc0492e72107c3e77c0ce389f3d94199dabf3925803ac80a44",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "a68e87e2313a44d9f45727191fd27b94d7acd1b6c4ed21f1230ce60220267fe6",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "416b993c35beff42538f55c466f72576f835a9b86e7bd56591db0db5661f1840",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "56b6f9105e0dc547a82f27e142c82e511736742aae25d52231481674b3a5ff00",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "7cb860e5004ff5f67b4cad18b61a0b71b873a8d68cd498a62765eaf276cffd76",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "761d3bcf1e20fdfa4f5271e9d1831bebe761dca48093fcaf8af30bc816f7e156",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "256f14ab2e77be9d6ae21a7486dd52335c347eb7e51b0e45b9783c8ee27202a0",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "1b1522dba5c07a89d84de480d940c7f9c46178396037fc1a2275711bdc71a58c",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "46d7b5b1719a0a3b3f57980805dc4a3debb0e32d8c8246fd73e0e0c4cd56ca34",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "cfae2051cb075b62766e37e0184dd053629ae851ea0034223cb8b81f90181dd8",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "8a112f48051f2f4d8c490b9617573d067f073bb82e2d8b533c9a4dd0b2b358a6",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "4d734f544e6aa66ecaec34eedc7dcfabee740de81b480e77c1b71cb11367cb93",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "0a71c8c2001c16cdc992b2db3b602d5e127aaa547940540d38fbf6fe78e8c711",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "2ef8e349fb93707ea48bd7c60837bb9a3467c659c9e43c4c2e1a3749593e41f9",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d98f5b5d811c4bd077d1fbdd635aa70975072b40c5b7e3f325d8054eec5a288d",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "00a3576a2a9717d0592a9e45989f0e158ea67230135457d7fc1060f3269ae036",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "6c42e8abe57aa4a3365c490e625c8666378ac2a389b41422274322240bf64b3c",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "15e06e0018ca07e717173c71a0675c7b5d3de3853a112cfa16c56aadba5f3742",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"1813ucmc9qa4rk9\"",
+  "lastModified": null
+}

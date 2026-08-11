@@ -1,0 +1,568 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ways-ai-coding-has-rewired-my-brain",
+  "pathname": "/ways-ai-coding-has-rewired-my-brain",
+  "fetchedAt": "2026-08-11T06:28:13.037Z",
+  "title": "9 Ways AI Coding Has Rewired My Brain",
+  "contentHash": "c4cd21db7204b7607e32dd188fb56c0610a3c21ef85ea9603412f550dd3eb859",
+  "textHash": "b2ab3b5e835b5104911d7bf228ee1bf5adfda58f376f2558b4e6ad3f851f3591",
+  "strings": [
+    {
+      "id": "310859cd9e802a33f9bea1daa311084aae33f5d5b756a159e7e1ea6d1323c2c4",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d0a59b60c621a3b58827deca3b5faae5c1a8a33e5bb40ec5cb89ef57a8e715fb",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "194579d5fe2e76b426bb22a488ce6bb8176fd4d8d426eb2f1716397225faad8f",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d29eb50bb8874f1a67e2d757ab1dd71b10bc24f2c6aa5db42878f8a070b06f03",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "0e2f6e8ecb6b1dd6be1a3766c4ff64cd76218f98c528065e4f458c0c8a9520ee",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "d86fdedb4caf78773530577b2244a9618c41288f205385115f78e8fcd88a1b6c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "e9bc12dbacb3101a86828d961e3c48854690118a78c2c7e89d84be7081c1c683",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "0501f23a8974349091532203714df05a7ef422213cb452bb05f85feaa565ed1d",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "3f29013bdf83d7670e4a721d4d9c8bfcd7443ae4fa9615edbbe74f47dea4c57d",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "1e07a96b65f7350af6b2c06c762873c0b65b3f888bde548ec553a34fc9e9d072",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "3d88eabf72bbf2f08b7b81bcfc4753c186200a154e5b496192b6924f8ad35a54",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "3159d7b5c0e2f653cac5f56a9747c206adfeef01a31a761f3aa476b1d9eaf54b",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "b1ddd89ab2342696689436434eda9c9bab1045f8f3a8a6f8b4139610d0be8565",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "e0a0d0b432dbfa887172ffb6c98a47500ceaee03b4b4e39009a8ef14bc72999f",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "cc0eb0fee83a1fd11a117e818e0b26fce4c9134ef0464a10e8a5f40880c84c1a",
+      "text": "9 Ways AI Coding Has Rewired My Brain",
+      "hash": "4ca6b86a61a59212b2818f7fd2edd2acbd0a438bb45c5bfbc73a2152074c0663"
+    },
+    {
+      "id": "7d4bebb54ccc92874f84efd904a606008741d613e0f524321ec8eef40f6d2cd4",
+      "text": "Discover 9 ways AI-assisted coding rewires your development mindset: integration testing, architecture, modules, and strategies for managing cognitive load.",
+      "hash": "c608be5e55488a0b465d49a792599b7b58d823e0eac0e4587b3cdbb77d739340"
+    },
+    {
+      "id": "6266e1c2d1dd0ee57ac98be978039de47a7e2074be04f14dd45375ac23a28b68",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "b1cf5542d7baf69e7ef8dc5dee1b2503332ea3a3a8e073c3769fb0fd1aecee05",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "bafbea582460baab7b7bb783e4193cf439c2f50ca83d778369c2948650359626",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "e54e4f1c344056f51b1eafb8a8cbb0d1319912dad50c6dabf32109b7aede8fde",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "4f5ec2d2ba33b46e721f5e7a66d285a757bf9a39c26743e42ca7002a5c1202c2",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "b7f013dc729321b6bbc0ca7bf6141ecf71ae57bbb8ea8d86ff3585f4c3453239",
+      "text": "Way More Time Thinking About Integration Testing",
+      "hash": "d0837a2b9de6e36ce090b655968b7d515921ab299ee97783b885f7783641d4cd"
+    },
+    {
+      "id": "ad431302ecf09e890367d08e04f5f822bc788b3ed418c67300d69913c6b556cc",
+      "text": "Friction Via Pre-Commit Hooks, CI, and Strong Types is Super Desirable",
+      "hash": "f73c057c83cb698017dc895464beb7f05390fc79a3e221c141f7bbf86b32742e"
+    },
+    {
+      "id": "7e1203082eb7c70357692bac4fc7651b76cf9a1efcbbdfc8037223df3484f073",
+      "text": "AI Has No Taste for UI - Prototype Extremely Aggressively",
+      "hash": "3052a4beb04a59e7f26bf5787b2d75c4367a66858248a860961f68406d956038"
+    },
+    {
+      "id": "67d6d500e6ac1514dfe2b9b4832639a950de8b681846df967e96fde373e707e1",
+      "text": "AI Has No Taste for Software Architecture",
+      "hash": "a79e7121e084f5aa51435ad7a6bb2db3ad12f91f624653c61970812234686670"
+    },
+    {
+      "id": "003b34e780e80885ec507fba369d1b1d07ddbeea45e1a2f651a6ad1e18432bd8",
+      "text": "Deep, Grey-Box Modules with Simple Interfaces Are the King",
+      "hash": "dd9f4795e8bf42b605bf441e219ce51168e248ea69bf9d676527f04a30ea3d02"
+    },
+    {
+      "id": "5d0403d4f07e5273553dcc9645218eeb30aa4e4222453664075f93aa6bfacbef",
+      "text": "Use Effect.ts for Dependency Injection",
+      "hash": "7e2b75004732a2f4567d82cba55f0a8f70963de2eeb29fcdba6f28fa24027a3c"
+    },
+    {
+      "id": "60632a7ebceeea9fc867ecf4fc66ed91dead03443af350bc5d2f37a69de50b09",
+      "text": "Much More Meta-Programming",
+      "hash": "a153fbc04c7c78e91571c1c38feaa9cb79e45386fc0ec7bff02d9e6dc7dec266"
+    },
+    {
+      "id": "4f6636ecdcc70b38d473f008bead25809e3f5469f4a942103340f2f39fee054e",
+      "text": "Beware of Doc Rot",
+      "hash": "274ecd82ceaf73ba2f0dbde2e5193f6afb6d7686240822dbd09016ad03ec850a"
+    },
+    {
+      "id": "9a6415babb936576538c393d960df1a5ce0848c81377d6f551744563c9983908",
+      "text": "Much Higher Cognitive Load to Keep Up with Changes",
+      "hash": "9aff29418ec77417079cc774dd5d0c7c1fa57d3258405ac026a4794f12679d0f"
+    },
+    {
+      "id": "d03026d37c54879bebbd8a6493d6970e5a96abc53502fa0cd9af3742ac976881",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "fb15dcfc0e9329cb1df4c4705f9825466a81283edc6a5fbe5ea1c62339b886d6",
+      "text": "I have been writing all the software that I work on completely 100% AI-contributed for a few months now.",
+      "hash": "0c2968cb5274a8970ae908d49ebc327d7e38969087f97bd95d98252c36821d33"
+    },
+    {
+      "id": "b679b5471ffddb7f351e99368b5cea3f77a3ba2ba25c3fb13479e160bb960a74",
+      "text": "I tweeted about it",
+      "hash": "bf174d1cf3ea9d0a0cec2b33abd67321df75440b6051fef2bbcee4962c8b7442"
+    },
+    {
+      "id": "c377ac2e3ae9e65e33ee01fec5fccac916ba0d89297e665398978659620d6840",
+      "text": ", and people have been asking for more details.",
+      "hash": "27874c2d903ca77c9af5f7a79175c24f9ad77038a62f85958a3258d88cfa81d9"
+    },
+    {
+      "id": "902ef639de0cd324bcc56272eee8bc7fb8c8730ce871383c6226ae8acfa7ee85",
+      "text": "People have been asking for more details on the nine ways it's changed how I think about coding. Let's break down each one.",
+      "hash": "a994390215f8611727a327f8c2f17859d59f8e7f9689f45e2809b0a99f3076dd"
+    },
+    {
+      "id": "4c6a1727a144b72ca6dca37530a9a9d510b107019e447509bef3e06a45931f23",
+      "text": "1. Way More Time Thinking About Integration Testing",
+      "hash": "9b4e07ec929e77e49d65701e37833b66a74eb6cafbf45badb111875459e66375"
+    },
+    {
+      "id": "46c38b26160a94892e7c2e7e8adf460802849b3ab2d3ceba12914baa740967a1",
+      "text": "This is literally true even this morning. I was working on a CLI tool I use for teaching lessons and wanted to make updates with an AI agent.",
+      "hash": "3a94867a76da06eddd16227b96dfb5a7de41e040a5d53ea12c6ef8b494abe458"
+    },
+    {
+      "id": "12cbbf6daa82d3943f4613689d355464b4bbefeca53ea37e3f4f9a83046c638b",
+      "text": "I realized the testing was mostly done by manual QA. The reason? It's very Git-dependent, so I thought I would need to use GitHub to test it properly.",
+      "hash": "aa005afb87d542ddc9302f609ad35c81dafe2df30fee515fac1c4bc64617939d"
+    },
+    {
+      "id": "242c0b043b56e878ea045637bf54bbc93cb484b4947dae466fa7c5bbdf99145f",
+      "text": "It turns out I was wrong. I can test it completely locally.",
+      "hash": "b8bc06a9847d6d0ee6590866231da8f509dd2d8d606f24faf54c5a0ff2049775"
+    },
+    {
+      "id": "131dbe1078273b6144fcdfd9a6c9c76ab9a135707d6d2a7cf84830d1ebc44361",
+      "text": "Here's what I did:",
+      "hash": "20c2a3bc511e6b7b9059dc59c4ba9087cdcc84e595d449b25888f9a7864f2022"
+    },
+    {
+      "id": "43eadf956e923ac79213dbc45153bbaced06a193f4e2b002cc8c31785df5d803",
+      "text": "Added an end-to-end test suite describing all user stories for how testing should operate",
+      "hash": "96932fe9be36e605f4531d5f07cb87af7185260f2e7944e9b62568b27ed6f472"
+    },
+    {
+      "id": "20296a9b1f306429ec544773e06ca5accd5b8382f78695f3841722500e80ef68",
+      "text": "Built a utility for creating temporary Git environments so the AI could test everything properly",
+      "hash": "7052d450d02495734ba4a7ddd19e47e929b0009f11089651a980a3b3a0d8392c"
+    },
+    {
+      "id": "7fa14abcf22336086be9eaf60978897068a3c26fd271e54c5c2c2d4b980ea461",
+      "text": "Ran the entire suite automatically with every change the AI made",
+      "hash": "e350de651bb83063bda710d1172e419d4e43d2743195d0a5e96a830d6a5df45b"
+    },
+    {
+      "id": "d6a6740e7e538b9a00191f0f2c1ef6cb6de48e596c00bc37e749bc667cc78f9b",
+      "text": "Raising test boundaries lets you catch more bugs and work more comfortably with AI agents running code automatically.",
+      "hash": "1e386a7679748ec5bb84ac251433c7abcfb05abbaf65ed6f947ca9cd2ee56126"
+    },
+    {
+      "id": "8b68cc72b997242f7eb13ed35f96a79ce1e54d95dfb4ef45b96e87c2a1db6998",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "e5feb3ff9abbdf91ca0ee7799d59ad086d8946b43d76fe865caa84c0b012009b",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "1a6309a12396df02ad0da4764323eb2e428c63d951227cb3dba4bb3f25a99dee",
+      "text": "2. Friction Via Pre-Commit Hooks, CI, and Strong Types is Super Desirable",
+      "hash": "cc6289dc2f31fa193920a11fe548872329f5361a51891a3b76917ff6666458f8"
+    },
+    {
+      "id": "371e6029cc7c4ad6daa90cdeb17578e8d1bf67e52680b1ea0689ae8cce7c29e2",
+      "text": "Feedback loops are super important. They give the agent actual context about what's working and what's not in the real world.",
+      "hash": "b470360bc739dd252fb21d075457c21bc666a4a7a94b19afe6c2133da1c1c931"
+    },
+    {
+      "id": "6a41b1a489ab7f6c7a88d3d81e8dd92b1aa88361a8697fab33eb351cb9f9e902",
+      "text": "Every single change the AI makes should trigger your pre-commit hooks, CI, and type checking so bugs get caught immediately. The more immediate the feedback, the better decisions the agent can make.",
+      "hash": "9c0941a87be82d7b75d9e7c43572ed1a8562ab865c5981fd71aefc930f06bc00"
+    },
+    {
+      "id": "7a4fdf467e97ba4d2a066e21f6539815525a3f58ae5c495b89c3103adba877cd",
+      "text": "3. AI Has No Taste for UI - Prototype Extremely Aggressively",
+      "hash": "804fcba29b73368c2ff412a2ac8a46b39ef038129aa0ee2746f72e1a9fa13a55"
+    },
+    {
+      "id": "871ce5425fd29e0d3405038ba724a1d1b266c8dea4966d8ada84ad7708caa8e8",
+      "text": "You see demos of AI creating beautiful one-shot UIs all the time. But AI struggles with iterating on existing brownfield UI.",
+      "hash": "a242dfb09713e00e505d0d40fd39ff83d2c4cc9fc96fd996e81cdac0bc72c9c3"
+    },
+    {
+      "id": "3c26a5a4db15e5e027277e665b1b290cbbf2fe924e4f2fae2d7bea30dd03b4dd",
+      "text": "Before committing to a PRD:",
+      "hash": "7b49fcb5f7894be768aac04e4419384aa3babb3ad1f94a6b6cacf0a72afb7d47"
+    },
+    {
+      "id": "5a4a323f3fc22164ca14bfac9b11e541e2a73bcb167860a1f0ba8cb3016e42fc",
+      "text": "Ask the LLM for five different options for the UI change. Put them on throwaway routes so you can look at them. Iterate on the prototype without touching real code. Once you land on something you like, the AI can implement it properly.",
+      "hash": "de1a4f18d69cea8860df3d836e0e37bd9e2dc34d97b3214d8964e21fecdc58a7"
+    },
+    {
+      "id": "74506c90af734c85937d6facc5c8552f4d0e4c660c6838b30529ff4cf7578de8",
+      "text": "4. AI Has No Taste for Software Architecture",
+      "hash": "08f58816aa532f70f78d2023b37d812ad625af119ef9f39f0367abd7aa25163f"
+    },
+    {
+      "id": "18004f91ebc24ae7f9a0ae09ea99f4a83e3898dc2b8a23b182e9ff528aef2209",
+      "text": "Bad codebases have lots of shallow modules with big interfaces. Good codebases have a few big modules with simple interfaces.",
+      "hash": "c25a60a44bdd657ff232a82dd48eeb09dc3737efcf7f5d91b8b3078cb2abab58"
+    },
+    {
+      "id": "538d18cf022baaf5809567d3697cb9e68063eef246a6e874aa6607be10368a3f",
+      "text": "Deep vs shallow modules:",
+      "hash": "3861fcf5ed0e53076afa826c220a6ee6ca63bc77ab0b73a628fde56d872eb786"
+    },
+    {
+      "id": "5c173b24e9ec08c6f8eec8913c3ad65013e6dcc931740405cd9df33dc631f748",
+      "text": "Deep modules:",
+      "hash": "a92e284cbd711c787e287360f397dbfe089bfc523178e92a21fe93076f0ce18e"
+    },
+    {
+      "id": "4ab105601e6e8feec79a2a5ddb6df7a217fb37ae1ff7ed5fd4f8430fe670e799",
+      "text": "tiny interface with lots of implementation",
+      "hash": "ed923e7c87ba8766bae92fb409788d7454e0e0ec2d79c5dd03107c7534064a9e"
+    },
+    {
+      "id": "1f17df883d2fd3cb95e9d3ae4401790b65538cfbe0e7917f13ac980c440b8472",
+      "text": "Shallow modules:",
+      "hash": "dab22ffb484d993ac68d811f2ca8d98cb8611bd3687f9b91baeb467d8c3c382f"
+    },
+    {
+      "id": "2d67d237b8b7947e3efd15aa412b5f122f2a550d238ebb3723dbfa856c6e389b",
+      "text": "big interface with little implementation",
+      "hash": "7fc304eb8697fff3688fefbb73eafbfaafc64d5eb1b4cbe9e322b2f1d9c59d69"
+    },
+    {
+      "id": "3d3d63d0620c69c4334edb5f0ace3af9007a3d1aa26bf00d7fc287a39a24f9cd",
+      "text": "Deep modules are super important for this approach. They're easier to test and easier for the AI to work on without you needing to understand every implementation detail.",
+      "hash": "129ec8e16291f184b6007a13d94028b33ba2612c8181d38a9da62f782af3662a"
+    },
+    {
+      "id": "a9cc84ac228e595f8b77c9bcf1c2f177c6c49416047df892559483ab9d350a39",
+      "text": "5. Deep, Grey-Box Modules with Simple Interfaces Are the King",
+      "hash": "91ce91ccf9ce6206054f0cd397aeb8792a248afe26f873352f69e3bc24fe777e"
+    },
+    {
+      "id": "c4a1da8f6744edf342907b1a9ea3a4e294d46e633f69d6c0402d87d54789b65a",
+      "text": "If a module is deep enough, it becomes really easy to test around the box without worrying about what's inside.",
+      "hash": "c7baa551301f8a8f49232d77a4e7c715f2165c815972382d1b2ce355c7b95175"
+    },
+    {
+      "id": "3b7803fab32e0a450f6c9aebc6e45c3e9f37e46459599f8ad3fb01928f74815f",
+      "text": "Break your codebase into large modules and test at the boundaries. Then leave the implementation to the AI. I call them \"grey-box modules\" because you can look inside if you want to, but you're not really supposed to. Test at the right boundaries and you can ignore what's inside.",
+      "hash": "4af3659e9e42576bbcde4b1f3ed30c67c876cfd12bbe1c3a5d03c6e9466f87d0"
+    },
+    {
+      "id": "aee5ccbd4edae3faea7c3c54f958849188f5154e32ff5813247bf7cd27b284ac",
+      "text": "6. Use Effect.ts for Dependency Injection",
+      "hash": "49534878d0e5a9268e9fd68f764c8060611f99f3e73f273c708e01e8cb4a0e24"
+    },
+    {
+      "id": "f3c1054bc234abc00475afec5b8df0ba77076d51a2ceb5e713b156677dcaa069",
+      "text": "has a first-class concept called",
+      "hash": "a4dc2c9571670d9d52edf48e20b27a2740e0d22e05f37982d044fe516a2a56ec"
+    },
+    {
+      "id": "01a2a5db81f5ca9e85d4ca6f00a515260d239a5b5db9790a02c7334485069aaf",
+      "text": "- reusable components that encapsulate common tasks across your application.",
+      "hash": "156e2c1deaee5b3d4c4a9b59bdce9cbb90a38ccce45edcf69e2d0bd7ed017365"
+    },
+    {
+      "id": "b424d0e5eb2f4efdd298fa08022f45a12f27b920c4f6038d7ead5a8b7e4cc5d7",
+      "text": "They're complex, deep modules with simple interfaces. If you're building backend in TypeScript, I really cannot recommend",
+      "hash": "2b519741fc3f520dd04c95533095fd0334155c053f05162ac8e6ae0abfce43b2"
+    },
+    {
+      "id": "042840084a7b6bad68374b3b8287b9dfe750e6d255c5b3f053f179670fe03c5f",
+      "text": "enough. It makes this pattern incredibly straightforward and has been invaluable for my work with AI agents.",
+      "hash": "0bd9f94612e302af1d7021a164f0e10cb45258c4edf9bf609ea6812dfea38e11"
+    },
+    {
+      "id": "1c1f57f6e8e46fcd216dbc8685dc2f959ac5c924129491e29d08a7c14c00f2bf",
+      "text": "7. Much More Meta-Programming",
+      "hash": "82148f1fe20952685c97cf585ef7c8e3613694712407f0dcd588ae52a151ee70"
+    },
+    {
+      "id": "51f36e88894e23e24e767d5fe6bf00f6053859717efce39239e90ed3abd91b76",
+      "text": "I'm always thinking about how to make my agent run automatically. This means defining my own processes and figuring out what I do.",
+      "hash": "d657987da878401a9da37af5dd9de8bec7c4da70828a09412be5f3547bc9ef32"
+    },
+    {
+      "id": "b064599fad8659d79f4dee5e3d6e5832384909a2dbdeaaec7bd2c90953ef81e0",
+      "text": "Building features is simple:",
+      "hash": "09ae7ccc823969167750e83f53e942a3754f98aa2ef66a4d3c2642c44cef2442"
+    },
+    {
+      "id": "2646e44d852b005b9ec7949f03e92842cd2fb09c65a6a5f424c7494f4c654b51",
+      "text": "Add the tests",
+      "hash": "250a56c3877f99957126159ece78b676ecbbcdb9e1d603ffe05f65c557f85e1c"
+    },
+    {
+      "id": "2f486a6ef3ea6795f66ead435c2ab35322e49c5c46ec397c73668895301658ca",
+      "text": "Build the feature",
+      "hash": "3f18888f896dfade8a460ac037b5a9e0e95f746dea8005aad9d0864e8069dd88"
+    },
+    {
+      "id": "571e4e530bedce72d32bc6579781283e1f3dd0f0e9d128c5d3452311be381cee",
+      "text": "Run the tests and types",
+      "hash": "b4cb6f8b22ed1d9b0d7d07a39795078ddcd70e582228e65a2d1ba215e80d8a18"
+    },
+    {
+      "id": "c2379f31c403329c10499d18c74910a32d75a20e1cee8d4858e91e4e72de4d1e",
+      "text": "Commit",
+      "hash": "82a9c46ffa4789945d9f2359d75891558ef6faa8dee09e4b25e4e0597704f5bd"
+    },
+    {
+      "id": "aa26df1f716753f124ac55397f7bc6a47237a4a140529b01ade91876ef0506e1",
+      "text": "But what about everything else?",
+      "hash": "9271b21556f704bbd2b82087e80812abdd859edd3b466f208080ff68b93684c1"
+    },
+    {
+      "id": "51c2e5361485a8b1b37f16ab579668425eb25573ca58ea5d794ba93a2e9f8e99",
+      "text": "Triaging issues, backlog pruning, task prioritization - these are all things you can delegate to AI or make the grunt work automatic while retaining control.",
+      "hash": "b976afcbe359f0817538160d01e313e032ec2f1341500e56361dec407acfea09"
+    },
+    {
+      "id": "4c8978885809c02a96605e40a6b020b65dfbe9a1ed1ea48be2f2f2954a040ee1",
+      "text": "8. Beware of Doc Rot",
+      "hash": "33a892f36c7ea1558a4c4201e14e33d423bdf3fff21ea00001e18a7e919de27d"
+    },
+    {
+      "id": "6d166e5d7e4479d3d14e1e7c44d485e6a6abc4a0a6b002187c6e90a007f6a708",
+      "text": "Lots of people stuff their repos with markdown docs. Every time the LLM searches for something, it finds docs that might be outdated.",
+      "hash": "2cbb4ef28ecae8094416720f76ec81f5d8c72d114847882fb37ad471e8ac6ae0"
+    },
+    {
+      "id": "3cef12633e2d559ddbdd27318f7752987c960e4be71f2514cd5383e789bad5e5",
+      "text": "You end up with \"doc rot\" - where the codebase and documentation have diverged. The LLM doesn't know which to trust. Let the AI generate its own docs during the exploration phase instead. Those docs never go out of date because they're just-in-time generated.",
+      "hash": "a586d998efd4261c0e0594e9594ee03734b465ceefd6a49918a052144b9537c4"
+    },
+    {
+      "id": "9378e5021fad5299e33e2d37e64fd312a846ec14ce36ee5aac3bbbb91a400711",
+      "text": "9. Much Higher Cognitive Load to Keep Up with Changes",
+      "hash": "906d04b5afd9869346e20afd67b8953a0da3e93f55dc3dd4c6067d650fb9e19b"
+    },
+    {
+      "id": "6c86d9a350238b5458decb5db81ee8a9f8028d936c0336807842f038642d71b6",
+      "text": "This is true. But deep grey-box modules help by letting you trust the tests and give a cursory glance without understanding every detail.",
+      "hash": "d46f17fb70bcab0846d71f272aaa2e1c7e3d03fcc0dcc9df346c3542c06daa21"
+    },
+    {
+      "id": "b832420deadf7df21deb4f416da1b32a1ca47b61435cb3a7be2936bbd35a0b84",
+      "text": "I've noticed less cognitive load when I do this. I'm also mostly not parallelizing - the stuff I'm building doesn't need multiple agents running in parallel. But if you were running four or five projects in parallel, I could see that being gnarly.",
+      "hash": "b5a67e73d1cc884c43b3d8b776b2dfffaeca835f07f7a735a0d5fc4548748987"
+    },
+    {
+      "id": "1e082583b81a3054e196c6140bd462dce602d2f51eac374d9343acd86db5ca97",
+      "text": "That's how AI has rewired my brain - thinking more about testing, the shape of modules, my own processes, being skeptical of docs, and reducing cognitive load.",
+      "hash": "6182aeaaf9a6ac0ae9285755a216e678f0f4ab491890bc8a1aeb62568682645f"
+    },
+    {
+      "id": "5d750ad89b989de1c9af956d1043c02ac49845a3a113e7c3844e661114bd0515",
+      "text": "How has AI coding rewired your brain? What are you paying more attention to now than you used to?",
+      "hash": "e20863aac1d19d912f8caf95aec8c55bc97f7066273cd0a52dcf92833ec8e8d5"
+    },
+    {
+      "id": "916502fbf00d51a0f2d5db59fda9bb68fdb87f7553dd597282ade77a9303373e",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "973f884cce870c0b48fb5b338cfd94b7a152be3b8839ca5425297e83ccd4adeb",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "64c94de9bac7f5eceb56a6682c3fd4c5a904bb7a03f24b227cfd4940c20147f1",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "073dd422d687cd88c4278b9ce508311e04b59554d1d8dd2411032dad67697879",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "9ce142030ff9df0622f844336433a34084b5101d14fbb8834499bc326f7f7a60",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "4d9f7237574be9c8a36e0ff4ac46ebcdd27057eef8812ce3b58e8e06b280f5d1",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "c1bf9eaf1266733b9447417bd50b19e3675416607d6c007472850a76df39cd59",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "2495f54bc311af69314f0798cd6b36253b7b291c6b74b6f1124d5e77cbb04627",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "4cdd0ca4930e1a807c3df84219bc959ed8774349b84c89479961d78430582842",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "060cc036c1bfa05cc709f3c810d734dff49f863d2e80110c1e960ce8636a0fb3",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "20665ad981017b51778b6cfc359c2e747202c04197c33b252a99351b55fcc3b3",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "93676cf66335a0f2923c66208556ab20f22522a4312af61042af73f94e3c653f",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "70bd33879c0145815b6fbf205e7c24724c3ec4b25e6b14f2db9c647e7507cdf6",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "bb2feca9aa4a656c31d048171b95554bc3f5369f0213adf478d65451d02aab5a",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "2e78a70022fc93842f2a7103447597640d0d81967e60877e9988dd50657c1097",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "e8ded4b017d79f89037f7602389471400a0fb53d9fc17b5f4ce2c9c6e06a3727",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "afff0da69dec284af3734e59ba19b12ecce549649323be0679288b90baac4765",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "83c7d866e5ee444023c8bbed71976da9932b8ea3a1d9c95cab0e8498141bd668",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "08143601067ec8efe4627097cd482737976ec73bd0334ec629207ca6e61d1381",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "cf36b8444cca4016d95d02fb3c1dbf71770cef5d300290df84bb79a69a8b3a25",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "10ac94f2bc8396e3375ae3ca5ae708b0f9246d113a444ca0d0d3c269a7f7dbe8",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "948e5e82ada041c2aa6f6b1c8a14c7c71b15b5a3c4c48d42e3fd2b40da16befa",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "d2d598275698ce4a599aa7f8fa8eb88541aa479c753b7fae0b8f5ce3c7d28747",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "27c213476b8a3a9876b7aa9527ea0a2549861b1fb6bb21fd4f46befd96836611",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "e082d58de618dfa290978d1ce4e47c4f4f6361bcf1cf5e4613301c87df290d4f",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"rtcl0vxltg5zq4\"",
+  "lastModified": null
+}

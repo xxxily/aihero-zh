@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-10T05:57:42.997Z",
+  "origin": "https://www.aihero.dev",
+  "scope": "tracked",
+  "pageCount": 29,
+  "changedPages": 0,
+  "untranslated": 0,
+  "homeCoverage": {
+    "total": 117,
+    "covered": 117,
+    "missing": 0,
+    "percentage": 100
+  },
+  "pages": [
+    {
+      "pathname": "/",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 121
+      }
+    },
+    {
+      "pathname": "/skills",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 156
+      }
+    },
+    {
+      "pathname": "/skills-catalog",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 120
+      }
+    },
+    {
+      "pathname": "/skills-wizard",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 188
+      }
+    },
+    {
+      "pathname": "/skills-to-questionnaire",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 156
+      }
+    },
+    {
+      "pathname": "/skills-wait-what",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 128
+      }
+    },
+    {
+      "pathname": "/skills-writing-for-agents",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 166
+      }
+    },
+    {
+      "pathname": "/skills-teach",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 208
+      }
+    },
+    {
+      "pathname": "/skills-grilling",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 187
+      }
+    },
+    {
+      "pathname": "/skills-wayfinder",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 230
+      }
+    },
+    {
+      "pathname": "/skills-triage",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 234
+      }
+    },
+    {
+      "pathname": "/skills-setup-matt-pocock-skills",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 206
+      }
+    },
+    {
+      "pathname": "/skills-resolving-merge-conflicts",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 129
+      }
+    },
+    {
+      "pathname": "/skills-implement",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 189
+      }
+    },
+    {
+      "pathname": "/skills-grill-with-docs",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 185
+      }
+    },
+    {
+      "pathname": "/skills-domain-modeling",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 210
+      }
+    },
+    {
+      "pathname": "/skills-diagnosing-bugs",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 189
+      }
+    },
+    {
+      "pathname": "/skills-codebase-design",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 211
+      }
+    },
+    {
+      "pathname": "/skills-code-review",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 196
+      }
+    },
+    {
+      "pathname": "/skills-ask-matt",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 197
+      }
+    },
+    {
+      "pathname": "/skills-research",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 165
+      }
+    },
+    {
+      "pathname": "/skills-improve-codebase-architecture",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 194
+      }
+    },
+    {
+      "pathname": "/skills-handoff",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 184
+      }
+    },
+    {
+      "pathname": "/skills-prototype",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 165
+      }
+    },
+    {
+      "pathname": "/skills-changelog-ubiquitous-language-grill-with-docs",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 158
+      }
+    },
+    {
+      "pathname": "/skills-tdd",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 194
+      }
+    },
+    {
+      "pathname": "/skills-to-tickets",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 204
+      }
+    },
+    {
+      "pathname": "/skills-to-spec",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 171
+      }
+    },
+    {
+      "pathname": "/skills-grill-me",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [],
+        "unchangedCount": 163
+      }
+    }
+  ]
+}

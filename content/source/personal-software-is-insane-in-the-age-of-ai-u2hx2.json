@@ -1,0 +1,343 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/personal-software-is-insane-in-the-age-of-ai-u2hx2",
+  "pathname": "/personal-software-is-insane-in-the-age-of-ai-u2hx2",
+  "fetchedAt": "2026-08-11T06:28:16.685Z",
+  "title": "Personal software is INSANE in the age of AI",
+  "contentHash": "a8a56681739039756f78d7af1132ce434e5b062b1f5219eda5f5b9ccb8bd2876",
+  "textHash": "f812657ff5f80ee419f2785e1af44e9f3df72f7caec9627ad11b741787bf906a",
+  "strings": [
+    {
+      "id": "41a1f8ca461fbe14791d952cb618ff9a029cf31c803be5e608d72a71fa16c709",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "a024989399ba5e18450aa79b893200b8fb9072e0bb406753c683f464e061c5e9",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "0f3909fbade70767039c8ccfb4fcb2cb66833358ebf60c69bfad878f21e49747",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c5f1060a74caef0bd7fc91f6d6ed711b64d30dc712a6a4f2ded3f62a7990c719",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "54be7d949d946e14f53b4a46b23dcd7241a14decdf300c91d0f31dfd64d1e695",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "46e3af2363f5cfa841ebf8b5bb536dbfef47afe1cd1019b349247c80734af1e6",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b70d2f3436833b881f81ad9db1afaa6bca6e1ef33fed835f49e46a44bb83979f",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "137bea4f1512278289fcacb4af5ca8d12bdfcb0c3429d2448ce5da2af7e0de3d",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "1accaad4b893e167da8d79bc36d6770d7440b87870db242fe97a8074b0040bcd",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "be742c8a796df718540047b814152c042be87d4e7f52b2187f66a50bda12f856",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "9aaada000162ee9de62a05d0dc95fa70f9e4479650ceda8fe49433e01751fd95",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ef66622219b482f1d3ff7fb5252edc8b9465a0a1081261cd0a75543c59b5c5e5",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "1eec1427cdbfad96a45ac77567b792f430a0d4e01f47f5a277b91f14a3cd9fc3",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "78b0d53a904237469fc5c7751861eddc8ff6f084dfd59bc9a44e21eb27ce013b",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "61e6ad4eadf4eecbaecc70f785f56d6c583e023fd52dd4dfb2eac7ff744e3f62",
+      "text": "Personal software is INSANE in the age of AI",
+      "hash": "81634f3dc1c8467ebe5925ba88e5bafeccb90ac2a80ac3db4018d839a4a7b743"
+    },
+    {
+      "id": "c97668241f7897cac19aba4d7bf5f86a776a5abb622fab7ec6371898823d2cd6",
+      "text": "Don't delegate your thinking to LLMs. Use AI for grunt work in personal software built for your workflow. Keep the judgment for yourself.",
+      "hash": "730c5d1cf614ecfcb92ce437779140981a9cb1bf6a69c06ea78d97c7192b2230"
+    },
+    {
+      "id": "eda2680ec12e62606d8792876ab2df7ec132b712d439b88407ce6230506fc90a",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "d37d3aac1f290a21d0d8977dc0c318f8484fe2b84491da59899838961c4601a3",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "85aae4d220c62b89e98776c0d66f38389cb33a971e6a6c754609e7422de50e0f",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "c11aeefb3a196447410d8aa87628380db3b81d97a0393a640d229f4fc6cdc04b",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "83c764b1dea50837e246d9d02fff3df5d8ddc4bed03d59f800a3bdc309f24424",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "af61d5d3f111a79f8d0a9e1e40c5e694cc975bc57eb9f3cf0dc175fd0e984c2a",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "4ff90ce159a83939ffa3928d63886ddd0d6b263eb7462f118b31b0ec92932df5",
+      "text": "AI Handles the Grunt Work",
+      "hash": "275f2d8b4d9867a161d1f4bb6da57f7fbd1a96df35b152485675f177a87344d7"
+    },
+    {
+      "id": "37caaf5a59c96af0a380f77abb42cade5b095e88e7c9b69ac200faf4c909037b",
+      "text": "Personal Software That Knows Your Workflow",
+      "hash": "23f5a96e69f8cdb863bdae28f2423b4e54458ff95b68f2b88e72516bfd71621e"
+    },
+    {
+      "id": "0866a7ced3cbd59f1370105d484f901aecafb117ee5c239842bc774fb4d16222",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "7b99dd64ac3a7074b9e598faa403486dea83a8c40e66ae4e183dbb191a5980b4",
+      "text": "I built a personal course video manager. It handles 105 videos across 41 lessons for my courses. Nothing fancy. Just software adapted to exactly how I work.",
+      "hash": "cfa53d8353533c498aaa2906cc2194426945a8c676d0392de3dfa7c066fb7ac6"
+    },
+    {
+      "id": "58d57c8bdf412e43356e87a3840c9726ec323590fa1810491e78de0984fbd5d8",
+      "text": "Here's what it does: I record a video. The app grabs the transcript and the local files I used during recording. I select an LLM (usually Haiku 4.5), choose the output format (steps to complete, skill building text, whatever), and hit go.",
+      "hash": "1a5dc66a80f57209411a738a199bff869d57649470b27da869731354ba50609d"
+    },
+    {
+      "id": "04503f18bb2b24ecd9b8039df80ed4a557f64d90d3efb2946c1734c7b39e1f1e",
+      "text": "The LLM churns out accompanying text that I review and either save directly to the repo as a README or copy to my clipboard. Then I can immediately turn that transcript into an article or edit the video description.",
+      "hash": "568586d7e1cfed9e938e02a07af23776b3df98fa506bf85c881d0fd773f912f0"
+    },
+    {
+      "id": "758445736b3aa212a43e66638173c0b23639cbd0a42497c242e1b6f44113a092",
+      "text": "The whole workflow lives in one place. I recorded this article's source video in the same software I'm describing right now.",
+      "hash": "2b47ba7db22bdb59198924d0f9eeb2c6488da7274a2338be2fb256b56704f98f"
+    },
+    {
+      "id": "71e6e0ffcd475f9357dcc8cf0d70d8713fa165b0ea00632ae07e22e804b6a31d",
+      "text": "I have zero interest in making this a commercial application. I'm showing you this because it demonstrates something critical about AI-powered personal software.",
+      "hash": "87a7e85e6387b711354c29ad428367536b504c171ce031233ed3cad183be4857"
+    },
+    {
+      "id": "61d0f09de1ee031e1c3a77799e4f5bd794837de4801c67f11a3de045e175f765",
+      "text": "Everything the AI touches in my workflow is pure grunt work. Transcription. Text generation. Repurposing content from one format into another.",
+      "hash": "b2501efdeafefa78b33f8106ce708ce480cbe67fc4f7bb8537a4969f362dec49"
+    },
+    {
+      "id": "48688ebf2ad48334247d0ee08be1f95e51316f503c52393c05ee97ea6a1308c4",
+      "text": "I'm not delegating any of my thinking to the LLM. I review all of its outputs closely—at least the stuff my users see.",
+      "hash": "6dd9453ee6fa1fb39fc0d82aff2d66d0db78bdb6d2da981e02cd188737fd3859"
+    },
+    {
+      "id": "098e91fe0ccab318a1c1bd190edd8bf0ddec23ff5e5082a9806bf6feaffcaa12",
+      "text": "The moment you start delegating your thinking to an LLM, you're screwed.",
+      "hash": "7139cf6181c5adab882fcbb6bac1020e284f4184c55d912611b1835a02831698"
+    },
+    {
+      "id": "e9b2cd1c9be612269104347743793dbba6059620530bd4079e4848720188f3cf",
+      "text": "But if you build a system that integrates AI into workflows you already have? That's when it gets powerful.",
+      "hash": "99bd94595f890ece5d9f4bcfdb1a3c93b12cb1b014d55f76551547a8244c5682"
+    },
+    {
+      "id": "91c74d9df08e6b5c8a416ce3da2d4ed13a345d205c712d1740fc70ab8e47abf0",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "7e1f2bc8ae33bfa9b193a0c509d37c200b26dcfa46370928883cbe1372f0d338",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "c0e4d2625959217147a95a49ed849602c72e4a2b60db686d8d724e757f6736c6",
+      "text": "Generic AI tools make impressive demos. They fall flat in daily use because they don't know who you are, what you're working on, or how you work.",
+      "hash": "e8c3c2cece7210523c9204b27aafbfc63bd42a570a701e71053b6be0cc642ada"
+    },
+    {
+      "id": "b13115bbd29027bd754a0bd1bfb9d43f65d7f3c1e858fc8114eb0e110d04c981",
+      "text": "My course manager is optimized for me. It knows my file structure. It understands my content formats. It plugs into my existing repos.",
+      "hash": "23ffa897ad5be4b61adf10e539b2a182db0df9405216768d30c131d09475ce04"
+    },
+    {
+      "id": "46725b3d88abaafde0d09d27b2c6cf98ec82445ddc01d79f407808117d560249",
+      "text": "That's the future I'm betting on. Not generic tools everyone uses the same way. Bespoke applications that deeply integrate with your specific needs and projects.",
+      "hash": "d9059989e9dc41e2ff5190ae72df2897c84156c68577a2533d16387f8c69aeb6"
+    },
+    {
+      "id": "52a7ebb27ce5e44392ff33b15a3ebe82deca6cc17b5ca944f9905e317eccf93b",
+      "text": "The AI helps me move faster. It doesn't replace my judgment. It takes work off my hands without taking over my thinking.",
+      "hash": "95964e5650759009a352045413d6b518980f8a9d60d25231ccf3e8a2f513a524"
+    },
+    {
+      "id": "ac319448fc7a2fb48c47cde66c9e4e74feb2b3be0fd694d158eb8250e8482e85",
+      "text": "Build systems that leverage AI for the repetitive stuff. Keep the thinking for yourself.",
+      "hash": "211c8677078b3da0493b428e4db99f8161653c70c029d1d5f021d7cfb8d89b15"
+    },
+    {
+      "id": "d353a7c9045932e666d7bec240c0ba91f3d0b06b22bfce56c099fecb00f42a48",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "acb5a45b7c81347c420c4a090855df38946c248bf4e8851b72fb169fbb193572",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "acedc5f423bc789ea58d047da2ef8378d30c6d619df01982568c79fe83abdf8e",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "1bc42be059d55f4b9e525f607a70977ddc359e1c4c60a7516e43adbfa2d36ae0",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "cf4e1e64b08b3247c9596b5db352f080738e58a1104d165fa4bdc86f52336321",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "b9d40c81e33182344153b7a4a9242040b295e71fa45c7940d3eddcec338eb4dc",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "021e2dc787a6f4a2e6c5979d9697638d242bfb1286118738a2784aedb8e5e9d1",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "851175b0aac2c02e1953d8cc0b6e7e2d74bac73057d933e02a202272c42e0069",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b05b77a1f1f864e3493ebd0ceff7c4a916e166e2a0945587286bb548afa02061",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "768d436932daa52678cce59c447804a422242c4099dc7d0eba1f86e158287ba5",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "899c08e30f749ffe5d9f6414ff69b42fcf9dc86a4259a796db5aa40f9993ce8c",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "4169fce5c348360207f916090ee3cc57e7b02e180940be8a2296b3df157c9b8b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "68da81c969427339da7911d9854a9b11311f1e4e8d0eb84852e31eeeb90116b9",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "a202fd8927f71fcb4d6dd0c92488a565ad474f82a85d3f8f6ef2ab6cfc91ba19",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "bc2edab146649a518c8f1ef653834a0ba6b40b0d54b23f50573524f0b66ebec2",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "96561df87133fa52ffcd59a2923455cdbfa13735b8cba4fc195ab145d63bde22",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "a3cc03dd597be32790bc2ecfa512679433f6a8e8cff2ec844acf3ae916938e30",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "fbd78a3d1082ab8b95f8f20c49bf7e23d046d9c9c032c7705f4c81f700d087bb",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "042dad9be8261485c50240312ff2761304c884a6fa16b405d33871edd747003f",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "eb3682e467c75b3c29962e6c2bf136341f9ea1d98f34eabed924f90d80201c55",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "6266a6dc94fb2edb18798a1b86df0c35f86849dc5e6fcf2ad77abbe9adf8dcfa",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "2a4ac5663a862b10ff0030def6569699f983cc948231da4a181e1ebd64e12b1a",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "6d03d5076a8bad210aba12e9ebe3ece91d3c1da4f9c61909c0cdd07a4e274e03",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "8d85ab61a4a7eab29c05961e4895af18005493c6dff4090b2cec32f83a69d34a",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "637e6ae53721fc5beb0f410d0922441de726da4d9ebc38d02b7ea93a40ea44b4",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"zhqfxg71kx5h5y\"",
+  "lastModified": null
+}

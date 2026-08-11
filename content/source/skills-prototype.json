@@ -1,0 +1,838 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-prototype",
+  "pathname": "/skills-prototype",
+  "fetchedAt": "2026-08-11T06:28:09.621Z",
+  "title": "The /prototype Skill",
+  "contentHash": "86a24bc7fc7cea43825339a7856ff0829cdd7d7711fbc612a758f57a7af8ef12",
+  "textHash": "58585e8ecefa83c42cf06b2883922e902478e7e4fb28cf50afdfe86b0d63f546",
+  "strings": [
+    {
+      "id": "ecd080891098ca16231fc0bb97f8675f810722d72ae5f6c19fa4c7603cd4f9f9",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "d89a3eaf207c70e76cd3e881fa355682204722aaab3e14e0861136d2bde40ea3",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "953bc2c7bad4c4696fa3b926a42316d8f633de8ae330874a42e730d7b751e78a",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "10d33cf82b2e0178759a19410966204153a1a3cd2bfe56f3b3ffb25032ace781",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "9782aba666da2daf6311ca21856cf1e0dcbbc1ce2edc014d1a50c6115c4476b8",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "a20833a939e92e92614c4bacf485d67efa7924bf2eed52f10cc2395db9d0df5d",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "c89c4fa5d2c18f864e8f09632f49d33ff47d795181ed7d71bfac72602571f759",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "836700f4df33a0e01d91293b58571e13b37977e10106b8b12d1360e8c57799e4",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "47104c348ad93923a6ac4032805baef437e1596711a10149c86ad117db0f24b1",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "b958ade3715e426dc427ad277cbd9e97b49270da0f9cf480796a887b5ee2cc1c",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "fdac347feafb3d44fa7bf3c3d18343255845190ea10404c9edd4662128751564",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "07ce067263906efbc49eb2cc40ba63018ddbf821ce3d70ccaa6c87be64b602ff",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "83cf0a5f367d2fec95748c4199ad70c23aa539a020a3c8d04ccc40a7759ac83b",
+      "text": "The /wayfinder Skill",
+      "hash": "ad5c81cc0127099d818f2a0d357323e62abb1458a56b2b704db6d50303313c48"
+    },
+    {
+      "id": "2e1b699b17d89caea20f0256cc628989cfca6749c37460e2c6aa77e7c4efb480",
+      "text": "The /prototype Skill",
+      "hash": "0704c2a7f3f21081c77a25eda1e8be09a3e7cf6c6bcd5111b05f143302886d01"
+    },
+    {
+      "id": "c6312d3fe40e76cb552a1c7031d9c24af0add94b3e3290a0dc5c8fdb23bf4885",
+      "text": "The /research Skill",
+      "hash": "d44fca1fd1a3bf52e4677b6e3793c990ea7f8b12508f0fe03d7bc328c60ad562"
+    },
+    {
+      "id": "3f11ff74fd789b2963268e6658218f4f5b651d0cb587bbfd1093bd631952f6b6",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "94d7ee622695d26b4570aa7a46288e3eec8deec4d71044b5a6b9d2b5c0cf1898",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "ebd9dd8aa4b77f7593b43f2680db826590cd4233d23c312cfe98e7dd1e0f2f55",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "5ae67160fb0330bc2a261bdf8ef34e5b6d221d77754caf26f7db2c1f372fa222",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "79cbc80293cafec8d04d84132f550db23e3dd781c44a5fbe4cb4b68f94730cf1",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "5c3249943213c09cd4f2ba8f659363184146e3cd841670d78566e1c4136acfe0",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a1efb650c8a8b07c96263812cc49b5fe1ed614217c9fcc883de706e34f0d0240",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e31b0b73db2c5f23f558f77679a5bf2d8a7d7f2e8aac69be07a7beaffdb9cd0f",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "1bc62c7ba278727a048b4175e5c82849c4aac453917d77104c55851466174561",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "3f56470af936a04538a5accc6dfcfce3e0392cbaeeb344e43eba84016564ce66",
+      "text": "09 / 25",
+      "hash": "d88e3efd6ea3ee53cac8c4588c23bdca181fb59510a71d72a64eec61eee008cc"
+    },
+    {
+      "id": "be56c5e904c057cadb2291b9de722cdf7bf6946500575041f50c2f6bbf549f9b",
+      "text": "AI Skills for Real Engineers · 8 min read",
+      "hash": "09f2e9dd39c5c3b4d7e20076529d7e233953ea4a213d7df649a0aea48b37d128"
+    },
+    {
+      "id": "e0f0abdf600b193d4800866e6a024f0288bfe535b2287a7218dbc9bdf1970e3d",
+      "text": "Answer a design question with code you then delete.",
+      "hash": "f58ced05a5a15609081a9a33dea4bd0f49667c79024c4c6276ca5fbb7755dac8"
+    },
+    {
+      "id": "918dbd87883733a8adbf86664b1e97e2a2c432e7601b9cd2601ba1d05ccd9f72",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "d131ad48b43daffc650467e9ec271f84d04f9c2fe484aa2bd54bae8aefa8853e",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "450d75d3d560666b413dd7f0a8372eb1f766a3dd0509b42ee1b9c06986c78ebc",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "b72d920b65083cd54d69e89edf76e7772eeb5d70633e525d74ec4d6510991bba",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "beebc2ecadefa076b0b7c8d57cfd0fb7c6e5f0a29608ecfc788486feeffaeb20",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "c561d3527e5b7d8bcfe8d2ebe7c0e742c93f479e6a13c4429150478a110820d1",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "08fc5b6be390c40e2e0da6dd73590d0926684770c7d5ee8097640238bc37dc0e",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "f2e50c3a429741bf203576775e1b695516f47683e5444e5e702804fa608ad3c1",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "c8484700d9afd492ea0752bc95913fb8703bbf5291eb38b83510a9bc18c99b12",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "681d06355d8d6bf576ba3d0e25de1008200219a40d1f3613b3e59b12a0b46d9c",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "6a9d4c47754203c20335ed5ea283b93084b0d68cfb7e33f9b49a8708acfea66a",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "a3df8d4f069a9223478ae461c0356f784d60c6fab7e221b0222e19fb7e3486eb",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "53af23f517567173ecd40e73fb477fafd30d26137edc077b903017215f847ce5",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "89694b46b5ea359e69b90428dbc16c90f7891494b32661a0947ea09d5cdfefce",
+      "text": "Two branches",
+      "hash": "5762baa8ff8c69f004be0735c56a93354857d3b9961bd8102acf7624e8a9365b"
+    },
+    {
+      "id": "4c060caf6d68c252ac161214321c6ba495b00a166ce9f35b9c36a19ae136c579",
+      "text": "The prototype is a primary source",
+      "hash": "e94ddf39b16431c670de1702e977d776125c2b1c44abdaa3fdf7a0437800e442"
+    },
+    {
+      "id": "2167399befb8278b2b8bfa11217681b61a2edf37a51802649af3da8e2e97ed9f",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "8ae3f39daea1eb261b8fbbd63d2f827a5a4bf3ac4ee7c29a4ade0a8f9388e81d",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "fa6b9070ff3565cfafb5f15e3c63b6256f60f3651fc7a3faf2425a3534cc89f3",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "9cd15d7a4bb2000160c883e30a85cf68f3fbae42e6945b411fa28a766dd86b50",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "c5e36ce77169088dba870be224d31cff8fe25fe9f707b8c6e620304710f6eeb4",
+      "text": "throwaway code that answers a question",
+      "hash": "5deb6dddbfda10eacb4809a972f3de5b28eda4883822a668f3bf2978abd3f0a9"
+    },
+    {
+      "id": "8685f696393bb030b910a8d15ca1ea1c243cdbedd76e47e00e6b8f1ae89f4511",
+      "text": "— does this state model feel right, or what should this screen look like. The question comes first and decides the shape of everything that follows; a prototype that answers the wrong question is pure waste, however good it looks.",
+      "hash": "183bcef2d68e46dc16e737ae7767c5d26c5be96938767f7f1f3d347e225c73f6"
+    },
+    {
+      "id": "dbd37fcb5c3c0e17097d5b75313483d7b246b0bf7f180d7286c10108770b015f",
+      "text": "Throwaway is a constraint on how the code is",
+      "hash": "9f118ffd72f5b43c06b188663bef8aeb961f1d4dabeb3e7e5d9e9b52ff01243e"
+    },
+    {
+      "id": "6b4d7eb7a35df97e53f5389de3dee3470d6a41654675ffd842a7c626adf8dc33",
+      "text": ", not a promise to destroy it. No tests, no error handling beyond what makes it run, no abstractions, no persistence — because none of that helps you learn the one thing you're trying to learn. What survives is the answer, folded into the real code, and the prototype itself, parked on a branch out of main as the evidence the answer came from.",
+      "hash": "28d86cda0e60e8c297fbd3ec194782235395af70452e53c647f383d2d2a36524"
+    },
+    {
+      "id": "c32b33fcdfd5df592a9edfab34bad2def95d6e3af0a8bfbe5ef429b8cce9e97c",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "6f9dddfbb92a80b9e65a62e1ffd4db8c6fc21593e46f1173acdb2e095e8756c7",
+      "text": ", or the",
+      "hash": "d7803b9e27c4ba4e9bc3fa5bccb50a060fc421b5f16fb9525cba2a46e0529dea"
+    },
+    {
+      "id": "219918a8d322a1fd12cc9f18ae5ecd3d25fd0173b87433ec8cd673f9d32fed47",
+      "text": "reaches for it automatically when a task fits.",
+      "hash": "fec67ec8c846ef71d6790d7f0230af6d9dc8f393ae73db4166acf42c64f1b4ce"
+    },
+    {
+      "id": "18d694db874e8a6f55608f5bdbbbaf9756d0b8c7c4cd696b7fd54bb77b20d5d5",
+      "text": "Reach for it the moment you hit a question you can't settle by talking — a state machine whose edge cases you can't hold in your head, a screen you can't picture until you see three versions side by side.",
+      "hash": "21b7b41d3ff82389703f1ea04b6376e8fa973b885ecc20bfedb02ef75787a9c8"
+    },
+    {
+      "id": "95b3e895977e30ddb0ea416e3f31c64435aeb9b1e53f7770c47af3bc26656a65",
+      "text": "Grilling",
+      "hash": "78318482b2ed0e5dd1aa46addef2c3b1c379b1f3b213eac3337b8fe2b40ab6aa"
+    },
+    {
+      "id": "952f9e646097318bcbad1e6a196f16ca5f666ec972f6fdccc79de8d599c794c1",
+      "text": "sessions balloon on exactly these questions: the agent rephrases, you guess, and the scope grows to fill the uncertainty. Stop",
+      "hash": "242b6ac832d52f35357d29dd268647bbee158c2f0b37b68ddc6e5db2da11898f"
+    },
+    {
+      "id": "2a18a36a5534b2439bda07f2afc00d588af52a093e0656feaa5b618b3152c8fd",
+      "text": ", build the throwaway version, look at it, then answer in one line. If instead something already built is misbehaving and you want to know why, use",
+      "hash": "cc39c68abf559850de931231081cd6aacd96428beae7a50889b145922286399e"
+    },
+    {
+      "id": "dbaaf8138248bc84cc235c722b053da6cf58c0e361c11fb193cd83d226a73bfa",
+      "text": "— prototyping explores what to build, not why the built thing is broken.",
+      "hash": "88b1244a1715d8d132403c9e6ea67bad2ad8e929f1f57b01313482864be9c5d1"
+    },
+    {
+      "id": "fc465f88cb3225000fc3a098af9142f7a3b7466dcfd48aab27360c11a514a088",
+      "text": "You will also arrive here without choosing to.",
+      "hash": "b6a2e33b9de4fb92f658d753c5b7bd2f31a473ba0bdd73c8bd26c0d90a9b60cc"
+    },
+    {
+      "id": "c84b15e178f2c5f16130ab1a6b6dbf3e73fe399ab87a99d29af121bc60c120c4",
+      "text": "on its map, and working one is this skill.",
+      "hash": "4a711515e9c6e80c631f7b07807e3397f5100e71a9e3c52d5888bc99941be539"
+    },
+    {
+      "id": "b54b2a8b4921fc75419534249b0d0e9bbca7c94d033ddfb282bd26995d773b4e",
+      "text": "The question picks the branch, and the branches produce very different artifacts:",
+      "hash": "ce475e2563b8aca77eedc511cec65f9ddb2377b7864fa3162fa0f3b75a1d307b"
+    },
+    {
+      "id": "ffce2139ac4cd85edd8c73718d5d8e0cb626a7d9a5a9b6998caf885ebf7217ff",
+      "text": "\"Does this logic / state model feel right?\"",
+      "hash": "99db11cd54df7752d642eddf4151ceb2c38ed0501310e04cd9301d850458b653"
+    },
+    {
+      "id": "dd110f607787c6bf66ba4d06058121e981f805730a105f67f8bfa71d104469f2",
+      "text": "— a",
+      "hash": "2387e132f0c6fbc2a886d3400d59f5b29e71340af4f593c41e92020cc6fdfd31"
+    },
+    {
+      "id": "eb555b8cb4e48d382d3349c4994ca6d7eba60373e9373141ac6e5154f8a73d75",
+      "text": "single shareable HTML file",
+      "hash": "064944e94d77371eac5602fcde64e512b5375539f6252988f4e0a6d7241930ca"
+    },
+    {
+      "id": "bc7a3c68b8b13ec5a4981e396b212575ddde788975afa018e38a0fea42e61913",
+      "text": ". One self-contained page, no build and no server, that someone opens by double-clicking. It carries a labelled state panel that re-renders after every click, free-play buttons for poking at the model in any order, and tabbed",
+      "hash": "83be19b569e698b1b660b9f4d1ce2afd0e0992c247f0de2b99537d8087160ef0"
+    },
+    {
+      "id": "6a886df2542a2a31d857a8e18cab45d41158f640613f518fc281601bdbb5c670",
+      "text": "guided walkthroughs",
+      "hash": "9d33beeb02a8afcbb930b62d4b5bbf506a860ff24ac6b2036dedbc8cbe8d4135"
+    },
+    {
+      "id": "4c5f8d9168ced9d3d17468b26a66c537d364e83c0f9328cfab49df1e1386ef3f",
+      "text": "— one scenario per tab, each with the ordered buttons to press underneath it. Everything is labelled in domain language, so you can hand it to a designer, a PM or a domain expert and let them feel the model themselves. The logic behind the page is a small pure module — a reducer, a machine, a set of functions — kept clean of the DOM so the validated version lifts straight into the real code.",
+      "hash": "5983e46bd61f8a4be0f4cb8016fcd44811ff3954695cefac027e3203d2952bbb"
+    },
+    {
+      "id": "cc238864318acd0d384027cfe44ed4171803f64ef6ed6505ef3e2ad78d413d02",
+      "text": "\"What should this look like?\"",
+      "hash": "21f5136a190f9abeb7d078abd8a9a47538892a841e985ec14b9832edbd639b26"
+    },
+    {
+      "id": "19377dbba45a612a1b6f560da4ac3c318baf3daf8b35d500eecebdfa690d156a",
+      "text": "— several",
+      "hash": "2fefef28b114803117be3fb7701362c96e251e2665f1f1f64ae2c0c170696738"
+    },
+    {
+      "id": "691e533be1f74070630e0dcff95c5582cebc73a8e592d1e931efad2822504bd8",
+      "text": "radically different",
+      "hash": "9b55aa0c7d8cb90386b1dab77c937fed721371c7ebafdffbe07591d2aa483df4"
+    },
+    {
+      "id": "171d76679d5aa52d2dffa948ca48a1b4e795e1eca54e8b155ca07cc7f6e58c48",
+      "text": "UI variations on one route, switchable from a floating bottom bar and a",
+      "hash": "a64a663eaa53056fe8da7136ec72455ad580d424d1d4f86d9ab24c0958ae04f9"
+    },
+    {
+      "id": "029c9fade072dceedbd6fe65eb88b41a709f62b3f9e519b8086ade968b876cf3",
+      "text": "URL param. Variants must disagree about structure, not colour; three tweaked card grids is wallpaper, not a prototype. They render inside a real page wherever possible, against real data and real density, because a variant judged in a vacuum always looks fine.",
+      "hash": "33a106e46363b3589d2b07194e47eecb0d2df45f18ed02662391cd426b2a5137"
+    },
+    {
+      "id": "591b09e64cace75410db5a637cad5fd3a82fd07403da77f5a5a3ffa7d942d06b",
+      "text": "Both keep state in memory, start with no thinking required, and show you the full state after every step. The moment you find yourself hardening one — adding a test, wiring the real database, generalising for a case you might want later — you have stopped prototyping.",
+      "hash": "8b027c9b70c49152c41fddbcdb32e34b5a65855a76c0143411f6009a43c43245"
+    },
+    {
+      "id": "8bdd80ec8650ad829aa0b5cdc2f979b69bc59312bef27403973cbb6757fa5254",
+      "text": "A finished prototype leaves two things, and they go to different places.",
+      "hash": "d9e63b7b4a7363663a250556ed8d8b729a4b0e3523efe0cec7cb095c530bd653"
+    },
+    {
+      "id": "caf34bb11bcbacb3b2249453b83e59f1d2d1c3af3170676261cfc812365d9d49",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "c8c64fec097a53523b27cd8740c78ea49306ef00a93df638f7a87ba3a15f32c1",
+      "text": "— the verdict plus the question it settled — is captured durably: a commit message, an ADR, the implementation issue. That is what the main branch keeps, folded into the real code.",
+      "hash": "9abe34f69ce0e329cf49c72b9d31859406bf4e5762a4b616773fbd595a18745f"
+    },
+    {
+      "id": "f6c2a07f088aacc65b81f3ac33da713dfa496b7aa22a8282361e6c3833523d5b",
+      "text": "is the runnable evidence the answer came from, and it is not deleted. It doesn't belong in main either — there is nothing there to maintain and it rots fast — so it is committed to a throwaway",
+      "hash": "6f4d2b235ef6f06e98546831b6177e388da9d41db448fd625f0a02bda84592d4"
+    },
+    {
+      "id": "1ce0db3861a5ec6c74c43850fcad5b2f0adbfda4691513944a2448c02f56032c",
+      "text": "branch out of main, never merged, with a",
+      "hash": "aeb873adfebd2931c01d542f02a0ca31b29a6988a0bf3c1cd8d6d11a06975025"
+    },
+    {
+      "id": "a76f309b965632583f67140753ce621389738bcd83181b38281430d5348f046e",
+      "text": "context pointer",
+      "hash": "7fb80893d92cf9accaa94f3b2f011e80e1ed58eb0ec3e161e07b14e34c36ca1b"
+    },
+    {
+      "id": "0c225dab0d81df9355fc259596cca8730eb4b80fdfd1157807e78819616d29cd",
+      "text": "to that branch left on the implementation issue. Main stays clean; the exploration stays findable and re-runnable by whoever picks the work up next.",
+      "hash": "7ad88c565283addd6b16617f69625c6e34c120829ea06205bb5ecbc0f8b23adf"
+    },
+    {
+      "id": "dbb9f785a7cc835afdeebee72cdb363b4dbfe9453b500d4e3295eca15189e648",
+      "text": "Wait — isn't the prototype supposed to be deleted?",
+      "hash": "5769c4b03a9e921c81ca4bcdf135db5f5d578f87796b579baed68d460ede5547"
+    },
+    {
+      "id": "920d0bd87c35970438b50bba5483c6512ae62daf61795ec98413797d7e189679",
+      "text": "Not any more. It used to be: build it, keep the answer, bin the code. The sharpest objection to that was never about speed — it was",
+      "hash": "fecf8ad9787c06aa6d9f8435c285c52bb939f9576a75f328b6eaccdad7e377d3"
+    },
+    {
+      "id": "fd7ed2a555d0b3252f68261e08a7e6007b7c6b9bba1d0e72938e6c09ef169cfc",
+      "text": "who picks up the work next",
+      "hash": "75075b91a518d8025ce77daa2469088060fce886e37a7e5c3a1e6256fceafee9"
+    },
+    {
+      "id": "5a6c7390d42afea5eb969d354e0ca5fd5ab66a0eeae3e00597258b952b7f8358",
+      "text": ", and what do they have to work from?",
+      "hash": "fc50628ea85a6cd075431a9590acfa3a842992f05669e98cca73eec985567abd"
+    },
+    {
+      "id": "7e1dd05d227c36ff5db1a5a602a30bb0a8296376ac274e7083104501fb76bff7",
+      "text": "A prose summary of a prototype loses the thing that made it convincing. So the prototype is now treated as a",
+      "hash": "740d46668c54b8a7ce9a5dbce7c9b1f1123371a17c08957932d9de4b4b3cc594"
+    },
+    {
+      "id": "e63cff0d2ca6f445441cfc217f7749d05e340e5150b5584a6d17334803abdd68",
+      "text": "primary source",
+      "hash": "4c3f03bb625194b79deeff56ee12d13258ff531de6eef1fff5529d0fe89a1404"
+    },
+    {
+      "id": "0cf65248a472538774e4336879c614d2f3af1916cb62849467104dfbc52b55e8",
+      "text": ": it lands on a",
+      "hash": "d7599e86ec227cce3e5d9c5586c4e84e7971007b07b75ba86f69f8dc0a64c358"
+    },
+    {
+      "id": "3d81bc2ef7f2dec3ac2d68af8f9f70906148873cca2871ebf37efb218eafa0f7",
+      "text": "branch out of main and the implementation issue points at it. What changed is where the code lives, not the discipline — it still never merges into main.",
+      "hash": "6a6e5c094da0656f4144dfe122ddda0cc3ae7150086a443813ea543e579cdd46"
+    },
+    {
+      "id": "a19251e8b16dd715da23c62cb2981bf85b3bdb0ba104aef2c9381ead5df0062b",
+      "text": "It used to build a terminal app. Where did that go?",
+      "hash": "903fae43bea51a23f94ccd472a84534bcf529b1ab710537e02ee91fd12f064e8"
+    },
+    {
+      "id": "a00e14631f5b17e658ce2d6067756b7ff90075ce2c1785a8952ecd24d969ac31",
+      "text": "The logic branch now emits a single shareable HTML file instead. A terminal app can only be driven by someone with the repo cloned and a runtime installed, which rules out exactly the people whose opinion the prototype needs — the designer, the PM, the domain expert who knows what the state model is supposed to mean. One self-contained file that opens by double-click and survives being emailed can be driven by anyone. The pure logic module underneath is unchanged, and is still the part that lifts into the real code.",
+      "hash": "d20d3ab8db9db74369c5e73286d9aea681337c9f0156be8803b5867cfb886fd1"
+    },
+    {
+      "id": "f6c76ddd623d228898632b43aba43cadea3d5a1167408c50bf94a0e5a8a0edec",
+      "text": "An agent told me to",
+      "hash": "16c3e1c617932b9686ff854474a8442a5ad37659da37847eae87c45bbc60f06c"
+    },
+    {
+      "id": "9c5c164bfbc9a774da0c9375a06de8ecbb8c07bf72609561c56245d567f5a21a",
+      "text": "when I should have been implementing.",
+      "hash": "252d5dc1ce12248f9c73424bd189db6a66bb0293638b28e274038f4121c81710"
+    },
+    {
+      "id": "ba366ea70c51990b2cd60816f96670e78902dc839197d670344a3efdc9e6cc6f",
+      "text": "Known, and it is a naming problem.",
+      "hash": "6fecdb535768e7b12e784afa56b0eb205d333fc0fb36381ea0c576171fdaebc9"
+    },
+    {
+      "id": "bc6ed0e8c9b1341f76642f8febccf3c7962cc03e879f62b7b2d0f4bb2a693d35",
+      "text": "is a generic, appealing word that reads to a flow-unaware agent as \"the obvious next step\" once tickets exist, so it gets recommended by name even where the design was fully settled in conversation. If you already know what to build, the next step is",
+      "hash": "d8d6712027c2be6c7aa660217f88faeee8b11d69a1734782fcf23d850975cff2"
+    },
+    {
+      "id": "413d9c938d20d2821f6dac6a216921d25a91c13f0859f93ef878d5056d867776",
+      "text": ", per ticket. Reach for a prototype only when a specific design question is genuinely unresolved and talking won't resolve it.",
+      "hash": "fb7ec66de747014f8b174c5ef6fde9e1d1ad97593a78637d1d9d22e859139479"
+    },
+    {
+      "id": "295c89ce6ac518f5a6a172b64ac828d9ea2e28475b2dcc86df30aeed384bf529",
+      "text": "Should I prototype the whole application before building any of its production features — say, to demo it to prospects?",
+      "hash": "4e523e593b2acc0cc0a5a673dc1cfe9df82584c908a5e8f46bbf4b08a552742b"
+    },
+    {
+      "id": "bbea151e2f196eab1aa965f2c096113ba4a2f3e85d9809aef89d1539bb429776",
+      "text": "That is a different artifact wearing this skill's name. A prototype here is scoped to one question, and \"what is the whole app?\" isn't one. A full-app prototype has no natural stopping point, so it becomes the production app by momentum: the cleanup pass never happens, and code written under prototype rules — no tests, no error handling — ends up in front of users. If you need a sales demo, build it deliberately as a demo and be explicit that none of it is production. If you need to settle a design question, cut it down to that question.",
+      "hash": "7d2ad31adea3e5d6a5dd1ac00e9551781815a5562eea5253f14c4ebf22885d43"
+    },
+    {
+      "id": "a72a0e1a0f991ec35a24e48e99a350da817a257603a9acad6de7e960996d8d80",
+      "text": "How do I run it in its own session?",
+      "hash": "d7b7b4bc306a00eda7c15d6903684a2ddb065f329ffd4a17c3aee885558a6347"
+    },
+    {
+      "id": "a19efc82a102f592aee7066b0031b2c9c04b5e25f6adda2d5600df36f2ff7ecd",
+      "text": "A prototype lives in its own directory and generates a lot of",
+      "hash": "3bc827d3aa5d98562ea0c52cf79038490b3d6416e1baa53d657658e08d5e87f7"
+    },
+    {
+      "id": "358026010f1d15114a8edae2b339f18fed351b820d3f892459206c4cd6251979",
+      "text": "you don't want in the thread that asked the question, so run it somewhere else and bring back only the answer.",
+      "hash": "26eba57d8c2de5bd81381663c8269432c774e6e94ed9b1935d54825f58af6336"
+    },
+    {
+      "id": "9957c4cd135c2f31c8e890492be1ad5f894d4fc883b883a41eb25d6fc74dd0fa",
+      "text": "is the bridge in both directions.",
+      "hash": "f0b00a56315eac6d9f4f4ac8466aee1a0f56b97427379ce4baf2d534d6c30cbc"
+    },
+    {
+      "id": "466f2a8eed7afd147c1e5b740c85eabe3319221c7f1b480e5b18360c3bea6307",
+      "text": "Isn't this the fastest possible way to burn tokens?",
+      "hash": "641a9e3d83091666de8aaa800a9438997ace5077c761c0a2aa0a68c11da7783c"
+    },
+    {
+      "id": "3762919089a7524e8aa2bcdc7fa7d843e18d84c8db9b8af048ec501bd4d4323b",
+      "text": "It can be, if you prototype questions you could have answered by talking, or let one prototype sprawl across a whole feature. The comparison that matters isn't tokens against zero; it's",
+      "hash": "b8965ecb54541b7e2b82b1eb8a407cc14ddc60c67b358b30355d8caba8579930"
+    },
+    {
+      "id": "e74528bc35491729ad0d39a37295235dce9ae7e57943a3aed1bb638ed2d09d66",
+      "text": "against building the wrong state model and finding out after it has production callers. Keep the question narrow and the run short, and the spend stays proportionate.",
+      "hash": "2d11b3e355b7c7ce765a00d3dc931b4a85b7691408fa8cf2d6baa1cf5f4dea2d"
+    },
+    {
+      "id": "bf4d52c9de0670a6c0893c28a13b10ef1fc79d938005d707641dcc270a68fdf2",
+      "text": "You can say in one sentence what question the prototype exists to answer — and it's written at the top of the demo, not just in your head.",
+      "hash": "f9c37f648f848e26d9dfe614f86948a3f78fa23520550bac908c870de11aac72"
+    },
+    {
+      "id": "a9d90fcf291e98ce12e5b927c63d0cd699a10fed044aff1ff2daefe1f6e2443d",
+      "text": "Someone who doesn't read code can drive the logic demo. They open the file, press the buttons in a walkthrough tab, and describe what they see in their own words.",
+      "hash": "1b6352ba8c86340f34a8ed0c099ec97f09da3a94365f0a735a0a4a41514c1b8d"
+    },
+    {
+      "id": "40d0f6cbcc0114868eee1dee3cc0e58b7b8427d1dd621e46cfd509ce7c6b061e",
+      "text": "Someone says \"wait, that shouldn't be possible\" or \"huh, I assumed X\". That's a bug in the",
+      "hash": "52adb58a831bd1ab84882d2953cc20f4b8d8d945e24efb0e40f90c50ccc64a50"
+    },
+    {
+      "id": "4248856f8223085ed4e29741f0859ea123aab7daccf2b1335d28c68e81970a72",
+      "text": ", which is the entire point.",
+      "hash": "d7a16168f559c74779903cd078949340172cf0e1484de7ef9be4804569db55f9"
+    },
+    {
+      "id": "7f11afa91c53e3c77a01f29859492ebdf834295d7620f37ebe6c7da2cbea61df",
+      "text": "The UI variants disagree about layout and information hierarchy, not just colour and copy — and the feedback you get is \"the header from B with the sidebar from C\".",
+      "hash": "eb7be9894e0cda85c2463939f94d59fe3ccc0f6278b52500d86792054c66e55b"
+    },
+    {
+      "id": "f7e43449c2f05dcccf60a794fa13db49f5f12038b3612c081097abd1c3a62294",
+      "text": "It is answered in one sitting. If you're still building it a day later, the question was too big; split it.",
+      "hash": "f75b57ef9e91909f3878dca5ce65dd3eb5d374f81d90348362d5b8cf5a47ea03"
+    },
+    {
+      "id": "afdce0a9dc21e40b98f049dc0f38e27216cebb4a6f937802c9c3800f901e41ef",
+      "text": "When it's over, main contains the decision and none of the prototype, and the implementation issue points at the branch that still holds it.",
+      "hash": "bb705bcb7247c609d2646636b0697394635c443499b9b24e332895c2ff29c353"
+    },
+    {
+      "id": "a1c3f043a70b6642fefd14649623bc6820aa38ad52de6047e83829c4235258cd",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "fb3500d12f367018400320d98824ee543fea799f8812c1e4b469b2524d4387ce",
+      "text": "reach-for-it-anytime standalone",
+      "hash": "d866ad9486e99acfa51e5496845af40b9f5c567e601074f82f3789e87f077dee"
+    },
+    {
+      "id": "bf60a6633dcd21253784fc08f15100bcaedb91e321dd52df1357b24c5bf1ed14",
+      "text": "— you drop into it to settle one design question, then drop back out — and it is also machinery another skill runs on.",
+      "hash": "7f4ed91aaae1dd8d90226aab9ab03a7e51dfa96f0e2fe6336f37502e650cbe9a"
+    },
+    {
+      "id": "d75091e3a4c1eb663e61fa992b832df6769a25cb2c4bfcdb252829713a4c6960",
+      "text": "Its largest consumer is",
+      "hash": "9d1886d2dbadf26f83ec364965eb48f83bf2cb75a7d6f59ef9e52132d5545317"
+    },
+    {
+      "id": "2561fedc7884535a16d11ee9094a1773c0c954fd9660af7634f423fe7cf7137e",
+      "text": ". A wayfinder map is made of",
+      "hash": "dd69f23c742c759bc574930b57803dbb353660f950b380086532908a43033c38"
+    },
+    {
+      "id": "fd3a81c7872dc19297ec8fa7dad48df741742f926cace512bbcb1324992c993e",
+      "text": "decision tickets",
+      "hash": "74d73f9111d889f565576fbc2b5cd8c0b8a5b3521054edd4467a534c9883bd28"
+    },
+    {
+      "id": "4b755284cd9e2f896c67faff68250da11a295615f8f3f233412afe4a3a27ec34",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "47dfc4efeff4e1757bf7d975d5d46f11f328e7c42068379e232cbb9735af68f1",
+      "text": "is one of the four types a ticket can be: the one used when the blocking question is \"how should this look\" or \"how should it behave\", which no amount of discussion resolves. Wayfinder raises the fidelity of a foggy discussion by making something concrete to react to, and this skill is how that concrete thing gets built. A prototype ticket is resolved by the answer, and the prototype is linked from the map as an asset.",
+      "hash": "2a7c707cede2dd3cf6f835204b181ad379613fc1e6009776e454a967e8f85d7f"
+    },
+    {
+      "id": "23c25485d4a8bf81ae87017ea90f35eab986959dcbd561529ef577d58633a5a2",
+      "text": "The other neighbours are upstream and downstream of that.",
+      "hash": "6eac0eb62e057c21638a812b9b3b504c8070fadaecfabb4a370dd878965f49f3"
+    },
+    {
+      "id": "ceba472e114388ac38851c4177098c3bdc12816bfd7dfda4e0900defd394307d",
+      "text": "answer grillable questions; the ungrillable ones come here instead, and the one-line answer goes back into the interview. Downstream, a validated state model or UI direction becomes settled input for",
+      "hash": "3d9503d2915c69c8610351b5f231d5a138c1e354ad39be6668e2e14edabd627a"
+    },
+    {
+      "id": "4604727242215ca6484f51677b38b55858003fc5d91881483c74e910ce075e71",
+      "text": ", which can inline the decision-rich snippet the prototype produced rather than describing it in prose. For anything else,",
+      "hash": "eb26042135a30e51d474459fd4c5d2f1ae40a80540ad23deab508d955f72f5a7"
+    },
+    {
+      "id": "32114c24f987871a34f94acaa6e454cd1913835b3a7c0bb1ed538afab1375e7b",
+      "text": "routes you over the whole set.",
+      "hash": "c9f618706ecab708e274534db3c3664077c6d7574ba87aeed5ad9a7e2b153296"
+    },
+    {
+      "id": "c3a8c2f61fe4c6787fb9f17a8115897d122d7e7eb6bc7fb5b223c49cea8109ca",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "4538313132af3d0fb867458281173fc9755438149b2a733e6aa8d711f53e280f",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "35d043508d6ad99963fb45382af5a77e416c66318b47178009f1e39594aa64cc",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "8c387cf3e8e796de45a69956ebc19d3beccde1e1f3f52e9693799c49ab2fd9ef",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "e09b376356f6a06c0fb53f7bca8a10f32cd64eaf32a5322f7bb2677178dbdeea",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "32f4b5025b17e9824f4df6f0de00cb8804fb450737ec20ad82c7e025208bdbca",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "bfc10dfbd0ee435eb1aa05140b8e4e9c3788da9d20618d182801eaaf0dc44a51",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "58dd63c9a7a286b591506038c8bcdb130e17b92749afeea6fa399221aff5fab2",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "0604e2513255d7566381ad3127099c21b86e44661ae1bf6b11fe955dd21df87a",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "069dbb96e85942bcc3ba01d52ddc6550ca18d1d9bf36ac41784216e0836c5336",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "83d72fea4514ea36edf349f751eb7f6ef6a22bfdea6141ebbb0d4b1234072f8b",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "45ec811e16055f7425c6520b77f7965b6f10a6e2ef37e264dca9ffcbba3a1fc2",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "d9d1ec4bf4ca5220a46fd65ee445ddedd4c1a7ea986ac1d6de2454768ae6e51b",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "ae5dd056583ef9d1e9750081183bc2b6f88d9cd18b29fc9eed0879449bbafc77",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "be8d0ff206997141e3cf08c7282bfe88990766cf882270ace3f4d670bcf0a789",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "fa5e7e7c915715ded7b50c32000f8e04f2c922811a305cd3be06db7b726e5b04",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "922a99b3d762712862dd6c8840097866413e17de8b31ebf00d579fa99e4815cf",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "cf0e88cb35801c50a71a7c5675edddf010cf5c5a8db6e88c77fec9cd8c4558ae",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "97556509cad4931cf09c56d3773d7a76980bec487b63c7205d6694a35f2be399",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "36ef772ff32072b8f7e9feaa3d913fbcfae99335a8683b4cd3790d4a46e513f1",
+      "text": "triage: Turn Backlog Mess Into Agent-Ready Work",
+      "hash": "01694fa1e3057407ecb33b84383432ff8ed99da51a0252951a5570fb40231ae6"
+    },
+    {
+      "id": "88bf23ae5eaffaded18fb82e7718361bd906487af9ad5e115e520545d85f2376",
+      "text": "Skill · 8 min read",
+      "hash": "8cd38e76c0cc03067bbb33f0f69804d982d39b3c33de124fb20669cbb60b3889"
+    },
+    {
+      "id": "3a1c217c90b94819e7be179abf25d3f877841f50566798e3a87802cd6040337a",
+      "text": "The /to-tickets Skill",
+      "hash": "edb2e623d3d628ae29e30650179052886b0583e7c6d64c61f4833a0555f5ffb9"
+    },
+    {
+      "id": "d9390466ba719f9ca6f63d08b137c465a0b794437ccde482e40f8e91bb899f60",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "7589ba91db36bc7596b21754cc37920cc63b9c3f3a66fa0a5cbb2611b2163382",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d77b13943add0a232ce5d3f44437b16316710cc8c05309d8651261e30393730f",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "42c8796b79f18c695908071bed63436f118ce7dfbfcf766f8625e5a776503c36",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "9b0dcfd7d2ae1c708fe953d4ee0428b322cddebbf6ef23c4ddc954135fd3e8d5",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "dd0e694d245c2dca373069fe96df8ebfe641bbce42260b627daf6977f6fdb9ee",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "39f0adc93e73a94bb1d33ab938dc54b1c210a1b4f3922bebb9d9c030105f3f93",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "d1bc4b644f5e744bb0623686aa3a3f068ee8bfdb02e6e05ec82102f274cd1430",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "4dedbb8e8db9e13ebb81c0cb41579ce2765174d4ddaa1e9908aace2e2ad2fc1e",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "dcd7e49837b316fcc917d308b348b161d9b1d29238fc8b1105787f65df09ff8e",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e72fa240511eee0cff17e97ddb70c137cf40217a94dc379702727197f94a6ad6",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "fd36c2b6e0d01f1dadcb64bd5b9776d05aa4b5efc8e7a0513b7b538e6b46a524",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "c4430a0737566a2f4db139d6d47bd6fc8e6da5b8e025b201dc3ebe97e5320162",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "d94793a3c70854574593b0905561f6af547fd1d3c632d0bd0097d2db749d91db",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "4c826bb80c50acf0edec43e63a1f2bb18585ec79022a33aaa1606a2fd4db3698",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "63acdf389f4d56650452a1cc624bf4f8640f83b910bf607c5385c348700bee31",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "49bd408a73f1ee1fb8e5c41f76711b7c420dbaa8df07f351dd9151a537d08578",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "6d989f3da5b649365b599e58a1d8771a8d5b5d84f59a02c8d0e70c1aefdb6152",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "6a6ad1c8b0a2b14659d016aea30245d73bcd755fb9c441b0121f3b72cc2008e6",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "a1fecad148bc6bd93239e63282d3a098916c19e989ebfd76c04eb8670c9968d9",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"o2rermpc4p732m\"",
+  "lastModified": null
+}

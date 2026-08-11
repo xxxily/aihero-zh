@@ -1,0 +1,528 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/learn",
+  "pathname": "/learn",
+  "fetchedAt": "2026-08-11T06:28:43.019Z",
+  "title": "Map | AI Hero",
+  "contentHash": "9075f08708fc90c694dd32a48193b710d00331a30dc266a61ec0f9b71d2531e5",
+  "textHash": "2eea6caa995b53662fae4457cc457e53d57aca6ea3a8cef5274da954ec17a32f",
+  "strings": [
+    {
+      "id": "ee0bf04dd1cc4082f5754af024df7d014975098029371e3ece3f82a33388bdfd",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "e2d6d24c956157fc0ac09a8f062c20e5547ac81dac5a67039c51185eaceb22dc",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a5d44a8ed8d236bec9399ed1fad6c862c3625a8580d8a32307aafbed0722b414",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "5bb6394791fc803a481e3a7bc83253ac74365ab3d43f16e04e421a80a82bdf5a",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "f7d10a82f5583dbd4e41427137effe99d297eb9bb5ecaa19f47647cfdf0be6c9",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "34c219420d6f23628300c9f3dbd3ad6369b80ad3f0a3de36a16bf8494f07ebc1",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8f0bdad8e65ce4328f1c474ea912ef5886336bd6f9b524b1812c477d40af3b6e",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "655f3af3d335566c93851ea692593494f4b3d3d0e58abdab47814587e2c226a6",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "7bdc82cf5e46d7260ccbdc6c2a49dfb130ae776968f7eb11fca506ba225e5f3b",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "8e8632619cc65003c7ff487311eac94487de8e965c111c86ebae0c915466d91e",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "38556c88906b6e224cca4112f8f02d6f6ae43d99d61bdaca74fb8f38ea1b1a16",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "c1c3a496089b65ed62454c9c61a411aea9bb40653815bdcb5bbe5571a61beeb0",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "aad57e976fc725e3449b1ad168e133287d90e56c1364020bc096d6cdd9695c5b",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "615b24a4fc2f907f0b623ebff3c0ae5efa916acc23c7d733e75a6d4b3dcbcabb",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "de63f26381a57e1cf5e5d9c8d4081e841715115b8a6d133ddfb4ddc89138f4ec",
+      "text": "Not sure where to start?",
+      "hash": "ebe2c8cc1ee9fbeef55f74efd208a54b77e184251a9ecd5c8986effccbf014e3"
+    },
+    {
+      "id": "86b871552657831b1edc0000af396962b9f9081f68f33b68fe107c831c90cbda",
+      "text": "Ask the bot. It knows every article, video and skill on the site.",
+      "hash": "64587d32ddd97042940772a00277db494b2773dbc910d11a74680c4b9388177b"
+    },
+    {
+      "id": "cc857211aac3a05469b216e3dc44c8b657e2160ac45540a85ae04eb79885f068",
+      "text": "Ask AIHero Bot",
+      "hash": "506d61175461d8d3f3d8aa625b0a7a0cd5985a6c84efb826ea77fcacfa2d4e58"
+    },
+    {
+      "id": "967b053969c7e0a8ca9a87aab429f7da0515bf5e2141bea571b2669cb7e4eeb8",
+      "text": "The Map",
+      "hash": "030205671760759a2cda42e60c43efd600f9832fdad4e5cb2b1e18fbd786467d"
+    },
+    {
+      "id": "8f592768f9d5c3daeef22b88a971ae2765a054e42ae52b7754786dba0d8cbfba",
+      "text": "What would you like to do with AI coding?",
+      "hash": "43081592a363f606db23fbebf095afa98e03d587c4da22bdb0b29fc075b715db"
+    },
+    {
+      "id": "4bdda0b6254276a6ac0178b60785231ff649d9bac6e41653269802fb08419af4",
+      "text": "Pick the question that sounds like you. Each one opens onto the articles, videos, and skills that answer it, in the order they make sense.",
+      "hash": "35ce24e51c8ad47e8b4dcde78802e51512a22c42540b336b323002ea56f2d97a"
+    },
+    {
+      "id": "095ecfa9b2a8eef0ca8e2d9eac51d8bbe52eabebb2e3ac90e35cd44d2406c094",
+      "text": "How do I get started?",
+      "hash": "c69a5211cd6cd0f4f357b922d8efd6a43e358555d84ee3dd390c12cb72ee100a"
+    },
+    {
+      "id": "1c3d094e5b0ac9b23495161387128565eb214e870064d75634918da3fea9319e",
+      "text": "How can I get AI to write code like me?",
+      "hash": "fdadf642baf8236ec4d0194d03905e83d54e79ef2388619d5f8d365972846062"
+    },
+    {
+      "id": "ee46ea45c3182d198becd764ae68d2a7c695188349eba5565f67e5cca634f7da",
+      "text": "How can I get the most out of AI coding?",
+      "hash": "68684deb15523f93efa02785d135cc8c52092a3b4e66804794017d851a312cd7"
+    },
+    {
+      "id": "7c39aad8fff809d3f2c270b9a5e04713870f0a20ffc2893bb8bd1604fd25efd4",
+      "text": "What's new?",
+      "hash": "623aab5c4dfa719932006c292084dab024941989723760ea686c2e46ac2ee44a"
+    },
+    {
+      "id": "6a8c4762d00fb0d319a7f519444403cea4279dcdf20014a72724a4c530b4bc12",
+      "text": "Never written code? Start here — what an LLM actually is, what it can do for you, and why there's never been a better time to build your own software.",
+      "hash": "9923c7252660403de3b6946649e5e5ae8eede758d4d7052c7977dfb224c7870d"
+    },
+    {
+      "id": "b7701b45899b07eabe67e1459707b8c2f0b2ee94a1ef5622f46db350341f1ca0",
+      "text": "Article · 6 min read",
+      "hash": "7ae580c148d942f43333e8d2167ab7f6a0ed57cd2fb39a8fadd9fb24c2b457a3"
+    },
+    {
+      "id": "6ba4252a9efed14077e7f2eafc3b1e3e87d55ef0101d0203633710f73bd68a7d",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "9089c1509403c72aba4fa14d31e6a2cd74c5193eb3d70b93a2e176b979871818",
+      "text": "Discover the basics of Large Language Models (LLM), their structure, operation, and creation process. Perfect for beginners ready to dive into AI.",
+      "hash": "5b0896cb80221a50e2defa68fbcabda11e84f6af3ff49e4d7de3071fe7ab6929"
+    },
+    {
+      "id": "469a0b121fe80792d82fb0853d78ed0dcda4139da6c1aff04b387a0667d4bee0",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "5248bb0e8a98f625b2827b555445285293e8b10cc7e51d890cd73fe8dbb7a6f8",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "5880545c054898c3c22c2d2e2aeae7ad37b133c85134808aeaf37712f1c6d41c",
+      "text": "Discover when to use LLMs for data tasks like structuring and classification, and when to opt for deterministic systems.",
+      "hash": "cc535db479f82807922e33f68f7f1fe03f1062466deab59986be029bbedc8adf"
+    },
+    {
+      "id": "7a164fd416568a3a178b989a7b636951cf4af15b5e3be9430c1d5cc9cffc0488",
+      "text": "What Is An Agent?",
+      "hash": "4363a0eaad32a30e59832dae65d5ce46e94404b308512b2a6a68c13044d2919e"
+    },
+    {
+      "id": "dde182e377924f5c298a48a0e471534901197d08ab311546ae34265ed121181e",
+      "text": "Discover the power of agents vs workflows in LLM systems. Learn how agents improvise and workflows optimize for predictable, repeatable tasks.",
+      "hash": "fdb63203791f5611615bca7e4f2f2bfb66d7743c34319c9b41fe7edbe460208f"
+    },
+    {
+      "id": "f527f0a74b7ce4c65d7cebad737066ee79c82fdc85256858f5276f963b27b3a0",
+      "text": "Personal software is INSANE in the age of AI",
+      "hash": "81634f3dc1c8467ebe5925ba88e5bafeccb90ac2a80ac3db4018d839a4a7b743"
+    },
+    {
+      "id": "81612f6fd75674670a93884c027e82879c1b338ca83c59e94d19757a9f337c23",
+      "text": "Don't delegate your thinking to LLMs. Use AI for grunt work in personal software built for your workflow. Keep the judgment for yourself.",
+      "hash": "730c5d1cf614ecfcb92ce437779140981a9cb1bf6a69c06ea78d97c7192b2230"
+    },
+    {
+      "id": "69092e8441f1ad3f4024226f8a05fcd8902b1828472cb5706df1cbf07a7bfab5",
+      "text": "More fundamentals",
+      "hash": "d2b8922c3b9e2594c0218de80050eff646618b74ee0630611019ce8441bc1fc0"
+    },
+    {
+      "id": "0f0589c4fe82320b7f189085c88eecf30d49c30ae115f9094ef96f3d39d57712",
+      "text": "You can already code — now get the agent coding to your standard. Set up the rules, the context, and the workflow so its output reads like yours.",
+      "hash": "b215aec6491b81fede2ec2047d473a4dcd70a646f2fc42480886fafda021dad0"
+    },
+    {
+      "id": "3d4b433c86ce007af481487974b054cf8e38f2e5aa35a9ab6b4fad400c878fd7",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "4f16bd050822b224f24269f4ddcda530ab503aec202782b4abe32bd0154beee6",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "eccad4d0de890d1dce582562e81c4fb86ee3b142f8ff90e8e761d55cdc9f5f52",
+      "text": "Learn how to build successful LLM applications by defining clear success metrics, and creating a data-driven culture of continuous improvement.",
+      "hash": "02ecdd3a3757c036153f2cee64b1e2607642a9a7191df28163c403e926d02735"
+    },
+    {
+      "id": "3990c1bec492f6e48d64f82cf52725684924ace9e4230b8f8328c0576c9c4600",
+      "text": "Article · 7 min read",
+      "hash": "8993e5483e776e1d3f97ebc6ef952b6370de588bbe9bb9d0a2fdd7d8e6bcee79"
+    },
+    {
+      "id": "e6d3e79217308cd1d50e2c0a8ee47930c2b72a7179b2b124102d0d149b3ae73d",
+      "text": "Learn how to optimize your AGENTS.md file for AI coding agents. Master progressive disclosure, keep instructions focused, and maximize agent performance.",
+      "hash": "64911cacef4fc5519600ebcdf7234d51c541c208299e1e40c575f0bb1e76212b"
+    },
+    {
+      "id": "6aae40996f39fb75e2236899746bf67baff8b9011f9217c5e0cb9ab179d854b2",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "0f489ee2f76bdc7022b779856045422d1a1100d3d2c85944bb4eb66ea5e9986c",
+      "text": "Learn how deep modules and proper codebase architecture make AI coding more effective. Master software design principles for AI-ready codebases.",
+      "hash": "eeb8ae5ecf3d35091e35263c0661f5f97159ea77e2adddc0d4f09066b01bfdd6"
+    },
+    {
+      "id": "8ff76c8c230e159fd01d2ac8b976fafac9b56ef27dae98e9d92178bc70020b84",
+      "text": "Article",
+      "hash": "29d94922512b93e8d81ffb4c721e52afd32e80d952ebe753ea2b739159219dab"
+    },
+    {
+      "id": "c23e97d590719083305d05ef1e448285e43821452a7f98ce957917f896386af1",
+      "text": "An Introduction To Plan Mode",
+      "hash": "7a84f5a163a628fd891f9904f554a6429b0435ea8897649b90485aba2d455ec0"
+    },
+    {
+      "id": "c0c160b36642f8931d080b7760e68415840dfc3b3f46cf8a18c961ee2f8d9a8e",
+      "text": "Learn how plan mode transforms AI coding agents. Iterate on requirements before writing code, build context, and get better results from tools like Claude Code.",
+      "hash": "f5750cb4c514d7bd2677c9a5445d6b5cc7b15d6473d195e62dc61c4d9e3f3fc0"
+    },
+    {
+      "id": "2b959f0a07920ce736529ad346a1d5f13c5981baeae5e80a491303869b05fd07",
+      "text": "Do this with",
+      "hash": "a59a1c31949b5d94079d47f8327053bbea637de069174cc58f6aceb00cd1ddee"
+    },
+    {
+      "id": "566cf18126e980a52f595cb8be427917170b0807e1bcbd2761eecafe0d9ef0d1",
+      "text": "Set up one repo so the other skills know how it works.",
+      "hash": "43e7aab494cb34b6e9f7a6b281e62e52bf5898d82737b0520106430ccdc8a78e"
+    },
+    {
+      "id": "572f8db625750fad0ddb6193b8467b8668afb6abddc41169ac9b8df4bbb8fa17",
+      "text": "More ways to set up your agent",
+      "hash": "8b5470f14fa13884a09bea29d1580b0d06ddd47735b450d603ced39a4543c87e"
+    },
+    {
+      "id": "351e1fcc128303d878ef6b37f33de4f9f0c20dfdf31ab5a626ea5e1da101fb2b",
+      "text": "Already fluent with a coding agent? Sharpen the loop — grill your plans, fire tracer bullets, keep the context lean, and keep the architecture clean.",
+      "hash": "f01a00b4a1db9baafac92d98cd7a61027491f51b7fa1206446e5c1c39d015739"
+    },
+    {
+      "id": "cb996c1fb8a142f0d9f3d97050f3498c4a44328a02fcd11b05900b07f47551d6",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "ff8c8963a080b12e2f624d3ae606dcb7b01fc4f94e38fc11cd990f921e0313e2",
+      "text": "Master AI code quality with proven engineering skills: prompt techniques, TDD, architecture design, and spec workflows for Claude Code agents.",
+      "hash": "58de2c6c88ce25ab0d52b91f403d1cb62256bfd82a7dd4672400569adde862eb"
+    },
+    {
+      "id": "65bb0b3285a133ae6d7c0f9f6888a8cefe2ca0e8d2fe5521d39a7df8b5fbcf68",
+      "text": "Real-world feature build with Claude Code: every step explained",
+      "hash": "0fe30f840117b4520c0ce377e3c153c186e0fa94332a946033ab45b08f76a1fe"
+    },
+    {
+      "id": "dc9253b8f4eed54a8f312b947fa9b2ced5373d171d1aa078ee8a3ff65bc3ba97",
+      "text": "Learn Claude Code workflow: grill sessions, PRDs, GitHub issues, AFK agents, and QA loops for building features efficiently with AI.",
+      "hash": "aa9389345ab2b17958a021bf6039499c20bb276e549c95ecfd637ca250431c6b"
+    },
+    {
+      "id": "50b7b3965ef491107975f2389c026f36b3adac92dc0522bd0da93c0d981e01d2",
+      "text": "Tracer Bullets: Keeping AI Slop Under Control",
+      "hash": "101bb0727324d9d69bceb21e311f6c1a249476cd67d543aa61741f8dea277187"
+    },
+    {
+      "id": "c3e1fdcdbf055d345780d3a8bdcbafc49b1efba569d4c1dc5ad3838d43a8d6df",
+      "text": "Learn how tracer bullets can help you control AI code quality by building small, end-to-end features and getting feedback early instead of bloated solutions.",
+      "hash": "d6461f405d60c3273eb973e4474d7a7016d89fe1c5f7409e70a7765dc87d1d1b"
+    },
+    {
+      "id": "d1cf6e43f650fc31eec57e4daf0733d1387c2be0572303a5afa6ba537717ec6f",
+      "text": "Article · 4 min read",
+      "hash": "8d437eb414a7fa8f57889d78f05cd08f83482d4f93356ba481096cf36d5469de"
+    },
+    {
+      "id": "f1ac5aa1a609b4e4ceb6d3d1b04ac596050c6298317b06ac2aa1356d4bcaa0d8",
+      "text": "How To Kill The Bloat In Claude Code's System Prompt",
+      "hash": "5eac9e5a312a96c69fd9db284f014acaa848ba97a6d1604e82adc50188d9d0f6"
+    },
+    {
+      "id": "ab58aeec5fec8f73116c4f71cf31356d68dbbf853c5333def75bd6b9c0ea901c",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "4c06545863dbb7aecea745134e49fd1d163ae2326985aca747a8747a2c684d42",
+      "text": "Learn to run AI coding agents in a loop. Set up Claude Code, create a PRD, and let the AI ship features while you're AFK. Step-by-step guide included.",
+      "hash": "0e51f29a70e066ba64658c068d41eca4417e148b7516ba57e0400542a003f82b"
+    },
+    {
+      "id": "1c97c9ad4a424bde0fa09b2d60ea205e3294b9c97c7794f9b17d55547ea84ef9",
+      "text": "Align on an idea before committing to it.",
+      "hash": "d816c5a0458370f6bcb8c6409646293e818410c2cc0f9de2f1018b9595ec9bb9"
+    },
+    {
+      "id": "5b925c63f48711e992f19bf4a233e53f2f8c59c1ba90e71dfe6694c55ff967df",
+      "text": "More ways to get better results",
+      "hash": "958364d4246959c6df51b760cf487ba770e6cd11df3aeb48ed55db12c714ba9d"
+    },
+    {
+      "id": "c76204c7329b3cc7f854218464ef0e8f56f7bae213c88e4290b6bde8decd73c4",
+      "text": "Fresh from the blog",
+      "hash": "4bf88024cafdcb76435e99b3c996017bfc3245af9315876b99eb78638f9b6333"
+    },
+    {
+      "id": "b0d8477e2864b196c2619bcfeb4de895adc15cd30b86c831d80990c52fd5d27d",
+      "text": "See all posts",
+      "hash": "a67a82b37683dcb72ddb20bd45ffa61911a336b1cdf4d20a45ddb0fe4ad93318"
+    },
+    {
+      "id": "505a89a91e1f8bc7bafa42cdf37e0342548d0502188c6e3542575c7ea20ab0c1",
+      "text": "Article · 9 min read",
+      "hash": "fc64af39fb03a15711ee02ee513016e321de28307251c95d0ccc4a13bc9bceef"
+    },
+    {
+      "id": "532240ad8707fa0011aa508037ea1db67f983ee26e947635c2a1b8f2ab61de5d",
+      "text": "The /wizard Skill",
+      "hash": "dc2a9dfb2e7aafb5b920a374d3edfadca9df74126313b2f8bbd9533e45a3805a"
+    },
+    {
+      "id": "ed47b9a6b1ae16acf0bb19c71be4c019947f3e4e6788944aa10454644e4bf142",
+      "text": "Generate a script that walks a human through setup.",
+      "hash": "f8695bcf2f281865859b895a96a161f3668bf098e70bf9fa90e8897e23590a0c"
+    },
+    {
+      "id": "bddb8130c33def94b4a83396b4a1c8acfa971906a345daa2dccd00b623b77550",
+      "text": "The /to-questionnaire Skill",
+      "hash": "3830a182a5231fe3723288a956ef6fc920624202c591cb8eccfc4631443da29d"
+    },
+    {
+      "id": "642efe07a8202d798a59aa9978eaf252d7df782f264cce02e6e35dd9dfadf059",
+      "text": "Turn open questions into a doc someone else fills in.",
+      "hash": "deb0394f9bc882ce7315d608a1ce70722ab9b53bfa5b88694540a5c88594ca0a"
+    },
+    {
+      "id": "281d0c6ae77c199da795f3619b1fed21c2cc15a0eeffe75e37712327aacd9004",
+      "text": "Skill",
+      "hash": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918"
+    },
+    {
+      "id": "3f3ddaab3d5fd0a0da448c8211ecaf92a02e7318d68f3930b24a63d39e5f1b23",
+      "text": "Skill · 3 min read",
+      "hash": "15c7b9d7b33451d656fa6a8d7569117e46bcba4c0b809d5d989bb6d291db5f05"
+    },
+    {
+      "id": "4b2d3b68ab3e1328e7585e4fc7ae4677c57ccc71886e802cea41a9495bff3750",
+      "text": "The /wait-what Skill",
+      "hash": "e6bdcc6683fd9e297ee57882e5d2370d26e6fff3b9b03bd528804cfa7ad01fcf"
+    },
+    {
+      "id": "45bc52ec6c58b9156a7af57aa475000424d42f80f43c5af81d4394843ff29919",
+      "text": "Ask the agent to say that again, in plain English.",
+      "hash": "f97ef98c98295b553e6307da02b88fd340d206924528abab09a08aa495568032"
+    },
+    {
+      "id": "c3f3e20eef017610f10fd97c56351867b49b1cde8f64583752ab1898dfb568dc",
+      "text": "Join over",
+      "hash": "7d06bd815f2bcb99ff2c1914bed45bf2ffd3b7da9d4dda608dcd34a5e8a73358"
+    },
+    {
+      "id": "3a2ad0096d000529696a33d2c504fdb5881261be5d05c71008f24ca3f0da9c36",
+      "text": "Developers Becoming AI Heroes",
+      "hash": "0899a15f14afa255c9b7e453d7a2a5a3c7ffe2ba5501226d822a6569180a80d2"
+    },
+    {
+      "id": "b59908d5a2681efae866ac26e829502b3dfa11aa0ffa655e963ed11355fa58d1",
+      "text": "Engineering fundamentals are your biggest advantage. Learn how to leverage them and leave vibe coding behind.",
+      "hash": "d78ac9742e1d379e2ddcc25819cda0117556cee33e4f0777ba0613a77905f9eb"
+    },
+    {
+      "id": "b7d394c0a819eff8560948a57f1d5e09d0fff7ab65fc8b9aa34862e463dad741",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "cc7b17e55fb6cb18e6975ed92b2060daada8e395634725249b5ae09977952605",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "d9e21554fc8269b4c7c3fdcf461ab3ed0d52a41c40012f30addc2c0f38e8b44c",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "8fa918160068c313e8087bbebb711f3944283262e92ec1fd593811757c2d07dd",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "ef9497f6b74028b59d3214cd0043195c5ef0699d9b438f662b515ebc0ff68607",
+      "text": "Next · The Skill System",
+      "hash": "e149fce26adefffe25f70a8e7288e75a7adf1e1f228932f968d1ba0a5dd35629"
+    },
+    {
+      "id": "5f17c5a6f2130036a06563848b3f2cb1782db612fbf20cfdb4809947acf4c756",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "522609af9acb2e5b951b68d91d734b95e524134aed962a27685617e2b18b44ba",
+      "text": "A practical skill system for engineers who want to use AI without giving up their standards.",
+      "hash": "a827ebc64bb5d1abf029a637befc55e88c4701964856e50f279b9870c0e555ce"
+    },
+    {
+      "id": "4cd92588cfe73e1aa82aa91ea11e469d009685982612d1334ad91ab7bc86a4b3",
+      "text": "Install the ones you want, then type a slash command.",
+      "hash": "2b5b2fd2da66e27bdff5cc33f5f21c545c473f409501ecc7951723a4ca05570c"
+    },
+    {
+      "id": "1ff6b2525f9672844d91d28f18be57c54727baf3876cd4546d824ee0b91d3f15",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "fe2e4b3dbe18229fd46387e98f11aeeb7d8937627a2e269fce703c2f0d85ead0",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "51d8f86f29d27f561de3d20c6440bd540dca66d1294b9a940f06bfb5ddd3cc70",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "308ceafd80347fd29722504ab169c994bf9d7a2ea906f856a15504d58a580de6",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "6bdfc47884ca7793503119c789997613974c3648f6a38c54bc87ff2684713ec8",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "715187d41cab19fbfde0e786e91a49b4634e3c2ec015f1d246b438e872866486",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "2031690f35cdd128be87519696274a09c3e28b5ddd0f34ebd3d684acefb29a79",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "481298f613866871e7b532f014396d44365328db1ad31d1f7f444b5873150efb",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f58f599fce90a2b6d165fd7e4460ca9d0af29405eac01b6019acf6cb43a2465f",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "41b01cc81478c439a8f17a32dc96bd5d06d00cfb1c5e19e6a8b1ba60b2afdc4c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "ef58ef61fae45e5a8bb6f1542431eea449f5b939c139496ec087700bc1bcd334",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "b00bc94d7ae616db76a83981efab4f6033c07e9c70ae7357499d0fffb34c73e7",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "b8c5b1f4781e925a2b3cd4bd5a280832ee5b86388efd5ec930aeb20946f68d63",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "ff0c04fe6ebaa44d3bc17d2c5c0e8df1be7bb5ca4e509c2a95895ed2c5903b03",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "c421bef9ec69f5d36f989fdd12f2e970e6e1453395a9ce5138e0bf1a9b9a55b4",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "c4e9a943c26437fbe9ce889497b3154ede9b3f8a1d9e5e9b00a5402d00d8c505",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "b0e81d34961dbe751ce2edb168681a69c0ccebde91273dfb15a617d58ed4d821",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "3f00fed293b1b475aa249e93b4c71275db9b92c431566a4a0c74d95fc60b9253",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"r322n4u4ts5y88\"",
+  "lastModified": null
+}

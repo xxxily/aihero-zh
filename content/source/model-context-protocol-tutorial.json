@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/model-context-protocol-tutorial",
+  "pathname": "/model-context-protocol-tutorial",
+  "fetchedAt": "2026-08-11T06:28:04.271Z",
+  "title": "Model Context Protocol Tutorial",
+  "contentHash": "5e9df81772a9b20f7ddadc43dfb71dfed37e12d5d9acdc79a5921a317b232582",
+  "textHash": "90abbb6c9c72b3650b945d9baf81fce347ea52002481738846c3a7311cb3490a",
+  "strings": [
+    {
+      "id": "9b150fe3e045833ea9cf3a4d124ba1f5209789a79a048af2b94ee4aecd7ab14e",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "a22b0ad5ae09d40ccf396037d5c102922dafb0a2bbfdbf9334bcd88ac7af0aca",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "4cfa5dcdcff1d2bd7fbb2e62a5ca48461b2579802eab0c0ca936b28f6d43c723",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "99aea3ec0094c9edb861029262c4f7578e862d8f40d6ef0e5474431909613f4c",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "ba1a6ff6d48556c99ed7a557e14524be9b3bd39774442d5ca2d6d9b5adeb4951",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "e032e3b1013e32d22ab76408dce773536bd9de1df364958b7955cf2f5ec561e2",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "f8f6eed42761e6cfee6401cfd1c88b9857fb1376eb142825eb02384570f43227",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ca09abd222eb835955b6f7e28442dce842b061e9d789854ba0120cc102d47432",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "1cdc427d16bdbc9ec5ffcddf1bac683fb07ad1e9b147965807592306dfdff159",
+      "text": "Serving MCP Servers Over stdout",
+      "hash": "25fd77f0ed62722c9ebc1bea2143243eca855a07217ce8cdf9fe14f317658187"
+    },
+    {
+      "id": "ae2f3cf97b66cbe31d27c04cadce43b733921a66671fb291538f9fd9f2c3bb37",
+      "text": "Using MCP Prompts",
+      "hash": "7c27287a9bb5f13bc627cbb86ce2480b2564ada25cbf34e9030283a66b8a0388"
+    },
+    {
+      "id": "4b708765a2aa22488289f26b50f3448459807f1fb4482e9d39115211d631b82d",
+      "text": "Logging: A Huge MCP Footgun",
+      "hash": "ed10f197b09f511d16fedb38fb5e1f9c6bd89bbbebe5b9b34c2eb69534042bac"
+    },
+    {
+      "id": "6983640cf7d2739836d0a3f80206b6a2ce3cb5b7a4eadbd5f3963912211ae282",
+      "text": "The Problem With MCP: Stateful Servers",
+      "hash": "06a1a0242df637f6bf20ceeb13ed3c8117a8ce1204c5cbf69948f94c862109b7"
+    },
+    {
+      "id": "7af012a99e621a7a891790bfbbc76edfd853b73a1f5f155172b5cea0db7fbdbd",
+      "text": "Publish Your MCP Server To NPM",
+      "hash": "8ed49330be235e3c82d55ffcfa048a51b21cba0ab8c181ae74b7bfd44e246847"
+    },
+    {
+      "id": "0af48af81d882db489385b2190b8401b6a3f2188863e36343b6ef1bff6efa54e",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "f80418517a6b6b1104c001c0bd1ca10d90cdbd201c9c2cfc429c5df793c0dd33",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e54d252f542fea9b50920b65fbe9671c245d6524f0bd5cd65004c6b6d8d0947a",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "f0145a6269a9dfd739826a3199964a50fe96bb5cd06d6c1456077acffd0aed32",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "708193315cfebc22f8055e0af2ccec2aff5b99b92d59dc83f85cb2727a656d4c",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "cd85cc31e1351ae278febefe7712e22572abff66c3afc937f40bed8089044252",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "316a001a5ba2bf18348d52c7d3863bd69d24434d83b3688f7a33b03001237690",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "0f3d4a7927995946794a60e801ae1019e612b0bf8eb5dcfbd22bd7aaeaaa5072",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "f568a0b2539b9a0f527ab258bde88b2bc11e49130cdeb44a4367b3060a237e6f",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "244403cbcf9ac7f32acfaf6bd47e5e8e79e7e03a9462fe921ad959618fc7f478",
+      "text": "Free",
+      "hash": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d"
+    },
+    {
+      "id": "b419df914cdf0c800dd79f70f767bb929326107384a717301e7a5eaf594a08b9",
+      "text": "Series · 6 lessons",
+      "hash": "67f68e860c0f46bb59b773bf101eee04e81e367faa95465dbec5e3e8db4f6a6e"
+    },
+    {
+      "id": "bc9f1f747728dde134e98f49aff3278e868ecffbf720bd900b6361a674640bc6",
+      "text": "The Model Context Protocol is driving a new wave of innovation in the world of AI. In this tutorial, I'll break down everything you need to know to get started.",
+      "hash": "ed86522bf4e13dc5facfacdc1c3b782d4a1291f6167986c63b98df27c85366bf"
+    },
+    {
+      "id": "083bf261987965531902cc75f8093f48b63506473f0a8609731c631323ed7efd",
+      "text": "Start lesson 1",
+      "hash": "4807b65f9294479053540a531b017e8fc8e9abafa633eff06fc9e6f29557bf05"
+    },
+    {
+      "id": "c374256c106380e127ead5329821fc38340bd05b98f6e3fcdb9c3e88c067fbdb",
+      "text": "Code",
+      "hash": "340f463033e0fd5ddeabb922df4d4f1b5747494d0f5ed9894f13b6e13ca831f5"
+    },
+    {
+      "id": "59f228771cb1e0365c06e71746a0b7e73e7356189f0edb3a69a249759a1de40d",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "6b5dbe16d500e1303f1d4e09806395d8217287a934913d6ae06785ce00b4b1e9",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "9c4dd11634b301635dcdf6fc183ee72e88411123a944f991b24510f69cad68c3",
+      "text": "The model context protocol, released by Anthropic, is exploding across the world of AI.",
+      "hash": "e9d91b57ec031d1a2b9732772f96ec0dd960bdc6d7c1f11d9701fc46f7519b18"
+    },
+    {
+      "id": "573605070318d2f8c67609dc5f7cd29fb7917521eb462d9d1441a423560427f5",
+      "text": "It's",
+      "hash": "1d315be944a93f1944421a84f83ce04365bebc1824798f7338ce639423a09547"
+    },
+    {
+      "id": "c304631513dbeb49e3f3888d683d1fe8f5900780f16224d3d68ab1125adf5c9d",
+      "text": "the USB-C of AI",
+      "hash": "7149a419d0c215f8be78d701da9482b268388c9967a918d3b773a0a2c4677f58"
+    },
+    {
+      "id": "1e2b5bf7e28c75f68a5128e7aab8da35714f6dd1695e975c1fa3b96f371946e6",
+      "text": ". It helps link user-facing applications to powerful API's.",
+      "hash": "087d98589263d05695c10a91ce2c130a1ce1f0b5f1290c41491566f900cca86f"
+    },
+    {
+      "id": "0df5c57feb689d30248ba385af9ba582aaa099a7e0462f9319d67cc74528a533",
+      "text": "Link Cursor to your GitHub account. Link Claude Desktop to your email.",
+      "hash": "8507075b98e394b4ee37d003fa78c1b084c4cee20cefff990ce8b03d6009c306"
+    },
+    {
+      "id": "72feddcbd40acf4f9e806289e6eb8fb46166b7d5dc9bbe49ca90e14bb61b0b94",
+      "text": "The possibilities are endless",
+      "hash": "ec0b657a4812972ff02d256bf001fd8066bbfaa83d8d988cf7fe9f9b961a9bb5"
+    },
+    {
+      "id": "d8248154472f5494f9929e9eccb7f60f8afeb35327094a9576ff8b8224a02a8e",
+      "text": "In this tutorial, we'll cover",
+      "hash": "954776f834b212ea902032e68a58b26b4415391a5f9c4dac5664ee8fc75e3829"
+    },
+    {
+      "id": "d9c00d9094761f7da7f5527c76afa09d030ae92cecc5c3ec53452c245d27bdb0",
+      "text": "everything you need to know to start shipping MCP servers",
+      "hash": "3f7471825a9d2911cdb0d99fde3d2aacd8214cedb769323a66b77733a2fde404"
+    },
+    {
+      "id": "9f754e2ec099d25ec8147375a52c31497309d7fd2730b9ca2541726f4b86f0d5",
+      "text": "By the end, you will be able to",
+      "hash": "d721bb021c98a18bb2a7384857747a8d6b2005ac9484da141e271c4311b4011c"
+    },
+    {
+      "id": "9496334f2db57897df8610d24454aed61a67b4cc173708a9ae06597c4dac13a0",
+      "text": "ship your MCP idea",
+      "hash": "ef227ce9e5eb8bbf25c386ad37bd7d37c93dcde5dc02683777ca87bbd3e52548"
+    },
+    {
+      "id": "dad4a37d52a646ce8df08a7736b3a5bdfb92d93d71859e6ebfcef10738fbff8b",
+      "text": "so that anyone around the world will be able to use it.",
+      "hash": "7af6e527f34b1c529408b25547d474869af528949cbfff9f9e04d7e320dbde1e"
+    },
+    {
+      "id": "588d34db97eb82a0b5fe0e379103214602cbe361057af1bc70df44421ba291b5",
+      "text": "Head to",
+      "hash": "e09821d2451111ed94d62830c10f7e3e5745dd89da4292656a705beba2730b52"
+    },
+    {
+      "id": "f8c7262475bb7887bb3333c1619d7661218fdd2933531ba495e99ac49c9bb648",
+      "text": "AI Hero's GitHub repo",
+      "hash": "4e37d6933bf864a8a766476f37384e20e2fe247079b33b72faee09dfab6a189a"
+    },
+    {
+      "id": "f6743d718eefb7a479c59c07607490a57b1b2a4353b1b0ec8376417b002b8fb5",
+      "text": "for all the code, and to run the examples.",
+      "hash": "a551453bb47a0c30ba090a7721b4060e00396017032f3859ce16952e5c632af4"
+    },
+    {
+      "id": "ccfba805571470101f1cd59bc3eb5d0c1da09bde47642daa1fd94a0b6c09ef44",
+      "text": "What you'll learn",
+      "hash": "1c1710e31c7cf7c4421ebf663e9209d95ec55b980e98f279320019664bbd157e"
+    },
+    {
+      "id": "e32448af9cb5a01864600f19c8d23def436332a448b8eb3572e6005dd574faee",
+      "text": "Why the Model Context Protocol exists",
+      "hash": "7c14bdd042762fca52b4ab08be3c97c6c84e2bad8a0e57b43b7065230521bc3e"
+    },
+    {
+      "id": "ec052a8529e5ff73d6038545d4fa9361ddfee735da5d848043e9875ce1fa9533",
+      "text": "Choosing an MCP Client",
+      "hash": "bd073e0bb9487ebd705cf4dd0f3b1a3b0d75125b339808a01643e964d74d8431"
+    },
+    {
+      "id": "4231bc04ecd54e2e40732e70502d6a9d0c84d7de7a5d3ac52807e40adad5c563",
+      "text": "Building MCP Servers in TypeScript",
+      "hash": "9aca5551fc70817e30bb279349e2e49183748f8cf6c5fb616853cddf84f600b3"
+    },
+    {
+      "id": "8439469f551eed262e4b3827286542dd6954b721a263dde9eb06bb1295e64ec3",
+      "text": "Distributing MCP Servers on NPM",
+      "hash": "7ec99f88403971c1c338366f21c8e680d2ee544ebf31514d3392a14084a8cfdb"
+    },
+    {
+      "id": "6c4c8beb37dcd77952b7b14f83cebd1d806606d4f1cf49aac0f94eb4510f0931",
+      "text": "Hosting MCP Servers on serverless platforms",
+      "hash": "b02f0bfab57e8d6f777751c7e2f87d72d8f5d8d11bb8ecc5df53aa616fb8eca7"
+    },
+    {
+      "id": "bd8c3f594151b09a11f1d547d9a19ca8e938b81324bd2605153cb46960e533e7",
+      "text": ", in order",
+      "hash": "68cba9003488304327954a8e8befa73118d6753600a5c8ba21d2b99194e0ee1e"
+    },
+    {
+      "id": "05b7d1b0d244679689162e0d14bd0d0c79ad029e6bd4f6092555eb58008e652b",
+      "text": "Boost Claude Code with GitHub MCP! Discover how developers can seamlessly modify codebases using this powerful terminal app integration.",
+      "hash": "e544ea1b32d1dea7b394284f7490118bd475199f5f14206a9979794ce8f04823"
+    },
+    {
+      "id": "530825fdc8bd3cf5a9ef046ab826f5c8131d683b1f079dd041bbe9b541deb239",
+      "text": "Set up an MCP server with a single TypeScript file; connect to Claude Code & run scripts seamlessly.",
+      "hash": "fe2d273c78759b015be95f55ee0d5d78a4f29a83776dee3119eb32d46465af82"
+    },
+    {
+      "id": "6037e5c1e050a9f628c0d2b46e30ff416b40d6818cfccfd1a3d5dbd5c09235fd",
+      "text": "Lesson",
+      "hash": "6e2b26d9de4033b952bd242f69b798420ee887151b937f394efc23252c78af74"
+    },
+    {
+      "id": "0b3f8be89bd066394a84cc2a2c6ac03bf3c8332da0583c1f5f4da880f7b09dea",
+      "text": "Unlock MCP server power by using prompt templates. Perfect for enhancing LLM workflows and boosting productivity with custom commands.",
+      "hash": "50c53a39b97b5d6795a51e6b5a27ae50386a21a7d2d0fa2dfafd2d2b3e3b6f53"
+    },
+    {
+      "id": "2d210491678b153f159d33c1a82c7d94a99a64ea9ef8e3d6473aeb0528789fe7",
+      "text": "Avoid console.log in MCP servers to prevent client issues. Use a custom logger or",
+      "hash": "846cb8917066b0de1bdfb3eda583bec3e09dd495261f36ea4dab46764c71b713"
+    },
+    {
+      "id": "bb8865728213f1bda50df6366b6b3c6c6bf16adebf1f356ebbf81ceff4c1baab",
+      "text": "transport for effective logging without protocol interference.",
+      "hash": "e96e716db5d2381f31503445790ec0d8bfdc7640605b53a742fe4f4dd82c7e50"
+    },
+    {
+      "id": "1dddf682e9b614a68d59354e3beadbff4828bc500c3b7b5a4f64340f6ebe78f4",
+      "text": "Discover how to deploy MCP servers statelessly using Redis, enabling compatibility with serverless platforms like Vercel and AWS Lambda.",
+      "hash": "c2f7f1578657060a1d4db55203bb7164b05363787b0eb2ab70a8e2833ec834ce"
+    },
+    {
+      "id": "f563b76ef7c553f6af9f6153407fc5d8c346ddb8507ad69806e8d74f695b280b",
+      "text": "Easily publish your MCP server to NPM using Node.js. Share updates globally with simple commands. Distribute effortlessly with our step-by-step guide.",
+      "hash": "f73a1a773d93f97282a6215742f408aea8cf6aeece99f2766df9e05f51b6f7c8"
+    },
+    {
+      "id": "0c43c0f193b5aa9384204f24e0727da588879d46fa6605312ff04e2927e02c48",
+      "text": "After this series",
+      "hash": "75f6cb80aa7bdad3183593378875eef704e6283a499b6ff6abbd23b39e102b7e"
+    },
+    {
+      "id": "ed235bdbdccbb3fa7749e4389f4ca0aeb672544ebb59b150444a3f5f39e2a4df",
+      "text": "Put it to work with the skills",
+      "hash": "afafc559c8d1f99ee7bd9bd45410e1e6f25996b6cdf3f2aa2b79e4a49ed21789"
+    },
+    {
+      "id": "0c39a592e8249512c76a960097aa8384dfbdec9da2b33887c7e31d17f9d97ac3",
+      "text": "Free, open-source skills that turn these fundamentals into a real engineering workflow with your agent.",
+      "hash": "6fd3244b26a73522c328b991ada3b3cbbcdf48ce9e567250ed819b685d43664e"
+    },
+    {
+      "id": "abb0284072b6717378e15c0cfea43636adc1f4175f80c2d028e1324ec1fbadf9",
+      "text": "Browse the skills",
+      "hash": "ff3445acb23655f25884c073ab7ed242d2977509db6aad1bf39a651bd4c82db7"
+    },
+    {
+      "id": "69059a1f3d47d7b7fb5876f9631ea5f4fc30f5c66e29450f70e537452aab2287",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "bedf0f5b52b77f8e47a277d15f9de76605bdff48aad826df79965ccf1cc44329",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "bdf13322f1932d07ec7b756c1e75bde6102ca3fa2ff26f6aa5ef95ccbad4965e",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "8c2f9517d147f6de5b0b55dd8ac7f914b3122dba52347b709db880642b6c91fb",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "bc0dbfcd4c069fe6bda3a62c0346d00e8ff5806f87515d30ebe547361b3ddd32",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "7805c6100d902c74d3834b71a8f4e292b425c62c9f872101da01cd7be4a27ca0",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ed0496b134d537ddc7b675e75f1913e1d110f3e15359f8b813d1710cb3d8f04b",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "31ea2282a6edc6990e1bfdfc5bc9b96a14931d24697143e0de83d03affa5012b",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "1cda421a5b8fd045c90d3979af1054f1175cd659cede0aa829f583a4a2955647",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "74ccdc89dc228855886ccc2772308baebaa8b527009eae1b439cf1d4d47aa788",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "10226991afbc4b83f04c314354e756159d3522edf171fbaf4a5af3427dcc5dfa",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "c40725eee60196e39a885d28424305c2e89d14c4981f05a115516193bd273f28",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "150db37139c000768cb3804a3a55134270d39e78ebb0961a7ba65537ea5875a3",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "c3ea9ae8f8850d5834354b93821bedd196d8ad9f89a013398a764c534edab102",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "fe9af06f40bf4e57f1494c66ebeb3a991f0fb363bb838a134e5e9dd937cf1a18",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "8dc5526f6eef275dc56ae561d605a141bd717c2bd2b7b2a452983e93cff43c79",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "6f3d7888c90b53967e268fa76699f08f423c638f615dfa73c677c82c3a5d1b53",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "c879943a19aff0fadf4110d1a3a783cd5cff443b6a6409d76226c6504e271b34",
+      "text": "Lessons",
+      "hash": "cb4ad503e340ebd1a921e3ed6dcbfc0a80660936d8bfc9d190f70694b9ccb51b"
+    }
+  ],
+  "etag": "W/\"jzlwoghpbs5ddi\"",
+  "lastModified": null
+}

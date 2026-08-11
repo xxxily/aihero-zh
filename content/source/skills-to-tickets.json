@@ -1,0 +1,1033 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-to-tickets",
+  "pathname": "/skills-to-tickets",
+  "fetchedAt": "2026-08-11T06:28:11.796Z",
+  "title": "The /to-tickets Skill",
+  "contentHash": "ce76c132ec3ed2303dfd0173467bd7879bf826eb76ced56cebfa11257cebed15",
+  "textHash": "52aa2b9219bcc948ecba5a8cf5d4d49b703cae92170e3653eead8f93234507e9",
+  "strings": [
+    {
+      "id": "335b50ea21f555696ef176596e0392577714d8397091d2251744d650fa45501b",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "09a21b3780369148e59307eaf690379a6100a9b7902b3d797561dabbe3c30874",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "d5c33d75d09c0621c75cac5e1fe2e4ddaf1dd48f72d871d2e6cd50812f275c24",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "cbba473795057a534117752f8a22342a21a7381b771c73a059467012ec13ee56",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "466453cec5acccd08ef1abfe2330a5621c914f31e642194f3537d50914d40e26",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "dc5b29022fc54e3dcf61995a8beff0de3beebd7aeaa0e86069d1b32ad05e6b02",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "d86da42fc25f5b0b5587bc8352d97458a62cbb79e826df4b226f6f5583e95621",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "08ec521f8d6bd2a41ca6829598d00367ee31786e2b9480cd00b798b7ae961d5a",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "5fca0e3e6f88de33451e777f71bd6874517888f9d10fbb57d3279a97091b1acb",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "a4eeaaeaf18180b1d416bfd3c8358758d37cde00ea39083882d9a1a8909c91e1",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "e0946df9d56636819d992c83c0577c829ab577c52257b9f68dceaaaa17a54c4b",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "311f42802909ac9622a36aaea9b6e2c0114a1f7396c8aa3671e917c195687fde",
+      "text": "The /grill-with-docs Skill",
+      "hash": "5d7a7a42b472b35c9a5e2adae6230bf8e98d261994d05596e68436cd90d8e6ee"
+    },
+    {
+      "id": "5d05f8537f711c34cd87c79e6aae71fb085f5cac10cf737325795648ab544da5",
+      "text": "The /to-spec Skill",
+      "hash": "a23abd13c89fe79ac0e3626d5d4c722e63235829c4cf6f85d3d4d28039733e86"
+    },
+    {
+      "id": "b8ac62975639610d25a04eb8698b5c9f49899c58ee7a512e97e6183cc663ae49",
+      "text": "The /to-tickets Skill",
+      "hash": "edb2e623d3d628ae29e30650179052886b0583e7c6d64c61f4833a0555f5ffb9"
+    },
+    {
+      "id": "e23b18d3f72d107506d72b8c0730ff952b41101e6a3f253e97bad1568669120e",
+      "text": "The /implement Skill",
+      "hash": "f9c16f5a43a4bc3ee3005e2fe35c9f995067f243d46c0e304c68ca35fc366358"
+    },
+    {
+      "id": "61d33d261909f5f3090fb68e553dcd4a29b81cc4a2dd9eceddf5dc4d0090567e",
+      "text": "The /code-review Skill",
+      "hash": "828cf257382b4e1a77ee8dbdd85ef159141d8c34e4942831831d4f70f5ee84e8"
+    },
+    {
+      "id": "7de14ef49deea5e16a90a30c6856f96d4695cfb8e606017d290f662d4d47407b",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "7ee8f20e0581d836bd5b67bbf81d09da7dbee4d108ff970aad692e5d22b3245c",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "019b21ee1cb568109ad09fd771f2f781dc9d21a073928504afe90bda603a9a3a",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "915897e809709eb82dcc4280fb8f6f59163e7701e8751104eb3d713c69a1367e",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "71b96f7b3c62b8b9eb81940db4dad7d524b98a2fee38e45319dbb44da5d3f54a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "0c8dbb41cfb9f61294cb4b746551dfad46df48d461d71f3d640cba1b23fa29a8",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f8588408d13d94387033a918ff22fea2148d47bb5825a9640de5bf24243bcf75",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "c7501410a4f77c60727a08e17925ed99a99d52fa8469495db82b2a9645d12d93",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "3ed1fe645dd7183056e244e3deec38a1e9fc918a159b9f4b61197da57f233ae1",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "b298be73847abc11b8dc7fc1458aa87bb7bc95f706d409d3d8cccfda3cb23c8b",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "a15effa94a1210367041d316e40e0c4b0e10fc4f0dcc95c1635529c0353743c7",
+      "text": "05 / 25",
+      "hash": "b7a538d46ea71c7f0925807ca4cd7394cb530a2faa2607fd530750ef57a48a94"
+    },
+    {
+      "id": "93dead5bfe77ca830d36c37816e82066f1088799c35a5ccc3492c0c0f6d9a038",
+      "text": "AI Skills for Real Engineers · 8 min read",
+      "hash": "09f2e9dd39c5c3b4d7e20076529d7e233953ea4a213d7df649a0aea48b37d128"
+    },
+    {
+      "id": "566eb80a3648b65904e790fb7a667d3bf47fd87fc9debd570b666c800ae3e6cc",
+      "text": "Split a spec into small tickets an agent can build.",
+      "hash": "2f7eb91d6e60d230c1053c9c1c182268d8c19bf636462ec19f83fcf5389f31e0"
+    },
+    {
+      "id": "ac0cffba8d36b301e536a294ea7ef7e8b070ae27c03653efe0cc85b78851bbe8",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "66e639a15272c2217e5097c44635b7abc496f2cd051a6ea44ff236ac0fbdefe4",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "3a58ed4c26c17c48d4562a05c07f410a3240c057dd17c8465355ee80aad259c4",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "068805179a1a1f4eced66303211fe31fe404d1413d84d8929b211c3862431c14",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "e9ebb4d47d65ca708c479f540cd1f0cef5a114a285233e4fd5d05faa5ff61094",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "fecc4df71f0cff2771ae2860dd415633d7a3e23178d498d617f6e6646bcba334",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "6a239d44e9bc5a354a077f08ae688417052121fdd24ce485a73a3a31cec5fc47",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "94d55faba0bd9dc7f0643f41cf08d3c0e602529e9021e4cb338537c2ef8ce489",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "31a423aa0eb43d03413b7589fd1bc9a67320ca3aa843d5c93df795a4f32682e3",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "daa7999b536e8bedc489f4ce286295301daa2c248bf516ac24d66d7d3e66df87",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "81e6c8349e1082973b36ec0f5168f18ddf1a00bb3fd6aadfe0ea4dfdf61a5457",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "62d40ace73d37e045e57cb1219b1078fae5a9839ecf3cd43d10e2e3fa28f3035",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "cade10227834595c39f110a30f6629fc5842c1309f6810df057a356e57a15549",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "dd972e75a23ec07a7ff730d59943beb8704bcd9ca8410156789ac87ca0a75881",
+      "text": "Tracer bullets, not layers",
+      "hash": "5c1ce015cc575c185fb5b94a47ded97f2934a5daaf6b4050efe5f310aaa39d29"
+    },
+    {
+      "id": "6baccdca8c095f450cecf86e768109714561d1ef341ee0e7ad895b3fe257eb44",
+      "text": "Blocking edges",
+      "hash": "d4b70015de7d109a1b6759cd8dcfefc544ec16a8a4b28e6b124f8f7c55ef0687"
+    },
+    {
+      "id": "d9ca13c09f6bf41a419788ad3915d600341c6578e25ef218e7d3ecf5ce2360fe",
+      "text": "The wide-refactor exception",
+      "hash": "f0b14a903c1ee375ec14cc0bfddbe52c30aee973d3814fb1efbb0806446f2152"
+    },
+    {
+      "id": "6819193010fa43dc437d20d13ec13675eb18219d038ee391e85824b2d92a5616",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "3896ec4184d75ca7d8d4e4da4a64e46837b4c99006fbe7806fe87a422362f6ef",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "c9dafdda28d6f864d3b19622e6b77202f63327bb69d153bbd05adc91150ccab1",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "3a79b596b7ee44e6edfccdd4d9d063738d52df9482f62006f51552c42c57b6eb",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "ffc502b3fcc16767a1e342d122d695df5af3636c7d69cffd78954b9b9b9e0c88",
+      "text": "takes a plan, a",
+      "hash": "0355c9441a1894d3a123105fbd9d5ae4445b316a2ad79a7efd256590433fb13d"
+    },
+    {
+      "id": "cc7d998986b4bc72d156b3f82559617d07331ff901334880acf40360199447cc",
+      "text": ", or the conversation you are in, and breaks it into a set of",
+      "hash": "6c4ec0e78965d52a56642eb34532e7902d054fe7657f7d6128cdd5704d9c8f8d"
+    },
+    {
+      "id": "1a3d29d91724def019bfce73d09fae279a47277ea92f953dc91305c7875dd4e2",
+      "text": "on your issue tracker. Each ticket declares its",
+      "hash": "7f0b88c5d042913d92eee2b1ee301b26a5ce9a32f4407a6497018231c48e8110"
+    },
+    {
+      "id": "278182c69bce62016ed3a9ab73de922ee36784a64d77e23db9d1e6b353710607",
+      "text": "blocking edges",
+      "hash": "951ed3a94822f92ab0a4beaa525167c3f4fb382c2f1ffe6d0ed7fb3db4c0d531"
+    },
+    {
+      "id": "569ffe575a2cadfb1db70ff8d37ecd6add40cf7dac8f3947fa4776e94877e68d",
+      "text": "— the other tickets that have to finish before it can start.",
+      "hash": "11761bb000d3a44d92a9b1c10ddd51f3ef500c56428f8ac3cf29de90363336f3"
+    },
+    {
+      "id": "0f6bfb2f1ef5cf88af177d4ef7f809890df3f3e31feca35945fb169d3a450f93",
+      "text": "Every ticket is a",
+      "hash": "b674d9de0bf1b4901dcb05d9dc3a5650e41331c6ac9624842e20e89bfa543152"
+    },
+    {
+      "id": "5c857ff57d5fb6b8899be99f5f7bcc1d616d32557367cd24934c319782f52c9a",
+      "text": "tracer bullet",
+      "hash": "393b6f6cdab8e06443785e4d4fbf204c578903ead2aa26ebb26d7d2707ed25d7"
+    },
+    {
+      "id": "a33acaf83745bbc9ee331c74856acf82537711ab4fb58a750267bf91b473c627",
+      "text": ": a narrow but complete path through every layer of the change — schema, API, UI, tests — that can be demoed on its own the moment it lands. That is the constraint that makes it behave differently from the obvious way to split work, which is to cut one layer at a time and integrate at the end. It also sizes each ticket to fit in a single fresh",
+      "hash": "8505a774bde1abb0ad1c46d1fac5801a4c5b67f4621777de1aa36c4390629b49"
+    },
+    {
+      "id": "c1f732a09cb06092fe1fc394933872662bfdcfe3b58026a95626eea7bb5cc678",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "d10db29136a61983db133cc4eb44586e44135893c6cffe09dba82bf53285cfa3",
+      "text": ", because the thing that will pick the ticket up is a",
+      "hash": "23a135243d81d361d463e0d78a01b5db1f933cc7a1c421a062b4b77b39e247f7"
+    },
+    {
+      "id": "6d95e8924016117a05111c08b5d855fbbdc39c52a19e0e6ecef4e7506203c0f1",
+      "text": "that has never seen your spec.",
+      "hash": "bb00aef39d6f037133567d4bc587625dadf910aad8ab370465b908da57ecd77c"
+    },
+    {
+      "id": "8f72b15d836d9ac4ea39152d4d62c316e06afe706a112859704e63baf0a75319",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "4ed8e35c220f737e82fea9bd967ef045ea87d8fbba13165a7eee3f65f6282d32",
+      "text": "— the",
+      "hash": "4b4c2edaae377e0f86cfdaebcd2d63a27f6438259b3bb97065b79332660fe2d1"
+    },
+    {
+      "id": "9fb08bf7419e02e84047854eeb677424a03d715101382165a89e105633da3a85",
+      "text": "won't reach for it on its own.",
+      "hash": "4df2e2b70e321619d23c1e07895e6e8a647d4c0c4882d1fc2cb660ec45febb43"
+    },
+    {
+      "id": "34bf22e5fc40296586113ff2c971efe2235b7647fdd748fd01135b60ffad9240",
+      "text": "Where you are",
+      "hash": "54cd982fb2dd57a997d942e877c530e78addcbcd842358acd8ebc0cc332b6ccb"
+    },
+    {
+      "id": "801def85aaf35b36fab5831d596c943b66964ef0dceedd4d016541d2e0f7b4bc",
+      "text": "What to run",
+      "hash": "5256318973c4788880bc6b9ffd7e53c52b3c546b2ad03b74efadf89676a904fa"
+    },
+    {
+      "id": "fd34368eb1bbdb5ccf4abecd502bb219b08d3219686dd80ba2596947d1cf38f3",
+      "text": "You have a spec issue and the build spans several sessions",
+      "hash": "f01e4ecad7e333e21eb8df65f3360cc0b4cbb384ee49bf1c89110353556b8d42"
+    },
+    {
+      "id": "c2eb01c567b81b4c64ee1699f162deab7fdf33ea83404aa9ff9aa2ebc6d81f69",
+      "text": ", or",
+      "hash": "3d30020b1863441a64e786bdc72745e998a1e3abd32100e1b043bfa7a01b9095"
+    },
+    {
+      "id": "3e4fce56f4a2e654b11d452f0628afe91800bdd753de7c64eaeb327aee996866",
+      "text": "The plan is only in the conversation, never written up",
+      "hash": "7de0eb42ca3d7a2f0e621e8c9ff64b5c8c6d425782c29e3cc7c8c0e9c128e6fe"
+    },
+    {
+      "id": "aeaddb8c6fd614b388526151cf046b91ba54afcaa422d0c11844d88c63c4f4e8",
+      "text": "reads the thread directly — no spec needed",
+      "hash": "59d24b89cf63100de010977413472fa15b3d7d35f880291f728557cb417825c3"
+    },
+    {
+      "id": "9e85490e8675d901bea542e8ab21fae1c175c82a5ccfcc2e9de066ca697ffcce",
+      "text": "The whole change fits in one context window",
+      "hash": "249cd42d9c1a8579ffd21d2ea7a71fc303511ea1bf84715264156f2c6f43df89"
+    },
+    {
+      "id": "b9a904ceb84838ccab2618174feb2bba9e5d1c1b315b7d8836e64e48539acf00",
+      "text": "— skip the tickets",
+      "hash": "61df5c070f219f35b22a5cc15882eaef6b82ede0bbd9b954460150817bc38b86"
+    },
+    {
+      "id": "63f3c2af062825c7896b4ece8fd4f33a7d1939e1515e0bf62a0483f7a6079b71",
+      "text": "Nothing is decided yet",
+      "hash": "a618883fb400421f2467fb9e7c750fd2d7e95a92fe8c02c1a5170188f7b3ec0e"
+    },
+    {
+      "id": "15b0026c5cd339697a140a9a8a2bab57c753a837e2d2dbb1833060015a32d92a",
+      "text": ", then",
+      "hash": "aae687415b64628689a47f7a9d38150eb22a0a82d1e615ef8ede3a603a1d0b4b"
+    },
+    {
+      "id": "0d520c3872e58f2b8cb68ccfdc262b6eddc290cf237ecfb8f836f8e525bea467",
+      "text": "map has cleared",
+      "hash": "b08a867fe6cff1bea47bb17464388c7ccced9b5a65c083f9b4c12ecc42a54f93"
+    },
+    {
+      "id": "3c777aef2b170baedcb89b4bd458fc881f4b6d551ef5033efce8cb0e9dd39bf8",
+      "text": "first, to collapse the map, then",
+      "hash": "33e76e3011c9915beed8a7238f060c9b8b1487f47f292bf56fab819ae95c6243"
+    },
+    {
+      "id": "885c3228fa6c9158d7720f366b55065945a5c94f3c8053357d28403ab28ef5aa",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "6a7b0de784b3e5e1384d52452684e3df44896ae2c3185fd4d0786e5c809c663d",
+      "text": "Tickets that",
+      "hash": "93519e0a4fad45d0a9c4c2e6907ae46000c9c88e65cd85320ae19aa22e22a117"
+    },
+    {
+      "id": "b90d08cc0141a9023c2e609cb52d1c44eed18db8acd35402f0de66887b67f01e",
+      "text": "produced are agent-ready by construction. Don't run",
+      "hash": "f7995a4d5ed4a87fc3e4bad16cbc5f0229cc74ba4faf7cd3124ceb494cff2f82"
+    },
+    {
+      "id": "2c72ab2adef6b638a684f9f8d0a9d925c4cd7b7210d4f2831b8cadab421cef1c",
+      "text": "over them — triage is for work that arrived from someone else.",
+      "hash": "6a9456b49d9a889c48fb2c9d3ae4701716ba11933aa7b4ebca9206530f62eb22"
+    },
+    {
+      "id": "c1569a186f628a11ee5412c0b06e758645b859157c03a0dea4d55af09a941e37",
+      "text": "publishes into a tracker, so",
+      "hash": "61c335c21b872ab9080e7f2639102d7825e9cda5b60e1137a296285d892f821a"
+    },
+    {
+      "id": "84f141e1366f833bc4c6d909d3d5bd1bfe9c8425fb66fd7e02d66b8a1b5694c4",
+      "text": "must have configured one for this repo, along with the triage-label vocabulary. Either kind works: a real tracker like GitHub or Linear, or local markdown files under",
+      "hash": "f5bfb9b45ac88e2b30238f5385e1a478bafbd69ec35721bc4fc75d389e22b37c"
+    },
+    {
+      "id": "23f1e9c5c53f54a975465559b7242e021996a023168d934a38d7de8c3443cb2d",
+      "text": ", which is supported out of the box.",
+      "hash": "c3036aa1013a4c09dfa16ed26eb8af8eb3dd60b2733a5f47b9db0f706a08fd65"
+    },
+    {
+      "id": "d6771d748358bb3072c16434468de9117e87deaa9fd595094762b4441ff908b6",
+      "text": "slice ships one layer of the change. Nothing works until every layer has landed, and each ticket's acceptance criteria have to reach into work that another ticket owns. A",
+      "hash": "30373e7f8e1c7f8d6a1eac3755d640588481f0884533c7d74afe50fd7fb9adb8"
+    },
+    {
+      "id": "82fecbbeaf75e9b655b4dab261225bfba86323606275e464cfbdd9aecdeff4b5",
+      "text": "slice — the tracer bullet — ships one thin path through all the layers at once, so it is verifiable alone and owns everything it grades.",
+      "hash": "ed249d7f9c2b2f007b9ebfe589920094911df819e1b46402c2944ee226f3de74"
+    },
+    {
+      "id": "9ddc79ae77d6f12d97fecad8781ce05d44640ca1bb190497d970cd427992ce17",
+      "text": "This is the rule people break most often, and the consequences are well documented. One team ran a 26-ticket stack sliced by layer — corpus, producer, aggregator, selector — and got roughly twenty agent runs per closed ticket, about three quarters of them rework. Their own post-mortem traced every failure class back to the horizontal slicing rather than to the implementations.",
+      "hash": "89c0baf2e58e34ceda5e659692cec585a280911ba72253873c7d21cdfda951ff"
+    },
+    {
+      "id": "d2c9df2c21f7e2d79b8a22106cf2b5d37c0704290bcdb1af185e17fd0b9eab97",
+      "text": "Two things happen before anything is published.",
+      "hash": "9aa238c0c34739915996808b7b3acfef455999c5fb051cce1eb893fdc6ed7081"
+    },
+    {
+      "id": "dcde53df6b0aa1f7a7e8aacf9f6ae313c30122b44ec09de6d4b5af7ffa37f227",
+      "text": "looks for prefactoring — \"make the change easy, then make the easy change\" — and orders that work first. Then it presents the breakdown as a numbered list and quizzes you on it: is the granularity right, are the blocking edges real, should anything merge or split. Nothing reaches the tracker until you approve, and that quiz is the place to push back.",
+      "hash": "27356ab4c418717888715abbcd0789386dbc091c1eb138b794bc379ae296f9ef"
+    },
+    {
+      "id": "03ee12388c8fab0d71cf86a3e5ff672f72d18ccaf3ac83f1070c7c2728cc9279",
+      "text": "The edges are the point of the artifact. They read two ways depending on the tracker:",
+      "hash": "250dcd6be3c99b8ad2e4438b4d7f7fe34db93ca11a30db10eaae58870a7a10ab"
+    },
+    {
+      "id": "0582b76e700a171d321818ba2014b35daeed016caf0d6aea773559bdc69c6fc5",
+      "text": "Tracker",
+      "hash": "1d87e1c4de97aaa0a711fbec00cbc5289be757d97b742ba60e9ed57ca184f85b"
+    },
+    {
+      "id": "01d753b914a5fa97bc787e08ba751908d428c1a93be4d595de03deed49673199",
+      "text": "Where the edges live",
+      "hash": "04bbb2dedb54c8fcfddb70c13bba0bd1c7df2ab501566518f5ef2a1840adf34c"
+    },
+    {
+      "id": "da54eb4b6c8a9c2d48fa54b63966106c66053856e8aee618f1737d03b73750a4",
+      "text": "How you work them",
+      "hash": "cb14f690ddb7d11235da5ca41acd01bf6e75cc9596506921781c87cc8e3749c9"
+    },
+    {
+      "id": "9b8a398eb11000410c5005d55cb3da4776ec786d78eb7a6ebfe43d4557744ed1",
+      "text": "Local markdown",
+      "hash": "a6e171b764c56ddb9befd2a0efb428133bc169fd0ce799f78216f589094bfe65"
+    },
+    {
+      "id": "dbecab6bdf0f6726786ad86516fc5e30924e13fcb87c77b7629d9cbc81927f31",
+      "text": "Text in one file per ticket under",
+      "hash": "36311d9ea0f04eedfd64684ba543bf437c99500eea94a90b56f89c929bf28275"
+    },
+    {
+      "id": "e7030b9e8493a0d42310f89c4ec08a966917dfd4c3e4efd7110e19099d7e9ffd",
+      "text": ", numbered blockers-first",
+      "hash": "4ec9504d0d3921aebbe63a4682053b5019c5bff6ad0f360b5a62a2699ab2f554"
+    },
+    {
+      "id": "3727bedb23ce36a23605316ce6026ad62ad98352b38ac21118c45b4f58d15374",
+      "text": "Top to bottom, by hand",
+      "hash": "8d5192edbe70e4d072b6bc1e44f5b1f30fc22158d59e9458aeb3be442867ae88"
+    },
+    {
+      "id": "10e7917eee62a6e9f1a5eceacf5ab005cac122698dbf3d02985a3b2b7d9874b3",
+      "text": "A real tracker (GitHub, Linear)",
+      "hash": "2fe550e7ccc8491175c9b1c735011f8d0d953812d17beb51b38a527fe341c88e"
+    },
+    {
+      "id": "0b6d0ec71a06e601292ed6a1a8f0d12df7535d9af4e3fef1af143e787387b261",
+      "text": "Native blocking links, or sub-issues where the tracker has them",
+      "hash": "043dee8b6c6c205b67acf3367dacd9f5b78294ca9779c68b9834a685a36b4f42"
+    },
+    {
+      "id": "eecb1cf04585c9b96e7dd670ba40091a678c969159ce6d054586c3c77b6a91ea",
+      "text": "Any ticket whose blockers are done is on the",
+      "hash": "056244427d1d61185d4a335ab87a670dcc26dc0964c099ce50813bfbf873de62"
+    },
+    {
+      "id": "7084b05e438e666988f6353192c433d3273f10ddc12e9389a062e9f7ff386930",
+      "text": "and can be grabbed",
+      "hash": "94baf1adec30b9b8462e8013e8373bc4d5a1034e24f2fe8cc60e77ddeefb23e1"
+    },
+    {
+      "id": "8342daa39121a6d6e1a96637b9800359538590f1654a768336b57c3d71b0cc0b",
+      "text": "The edges live in the ticket either way. The medium only decides whether anything can act on them in parallel.",
+      "hash": "ef2714f895fd67b503f3733377389b4978de845df878ac4474c6e5c29030ef01"
+    },
+    {
+      "id": "71bd280dce6956efaeb03a5396b69488a5b5585856dec82153843a7c128605ad",
+      "text": "produces the artifact; running it — one session at a time, or a fleet — is your job, not the skill's.",
+      "hash": "a23398d4ba5dfb4c82ae12dd9a6f20f791bab9a979523d942c5d2c093459684f"
+    },
+    {
+      "id": "18a338661740185a791e382814199664f20671a4f876f2cb2df71426a84097bf",
+      "text": "One shape breaks the tracer-bullet rule. A",
+      "hash": "b6ab1acbcaa0acfa2b01213430c79c63e5b9708d1a4a4a2c94d642b228b381aa"
+    },
+    {
+      "id": "981b0891f0e4e2a90b6e43cdca35c2fabb4c79ec7987290328eccdfedb569827",
+      "text": "wide refactor",
+      "hash": "67d666b2f4b3421c41ed47ab2099854a85dd025603ec572f65f15d786f1cebc6"
+    },
+    {
+      "id": "11cbbc3f0b342fa3c9eab8ddd416b9e8cee70f7c4d432a9947a29bbd72efaacb",
+      "text": "is a single mechanical change — rename a column, retype a shared symbol — whose",
+      "hash": "0dca0729d6b83d28e05da725e7225b05b87de260f1c6d5778c1f25a13daa30f5"
+    },
+    {
+      "id": "e4be372c928033580c77605705f0df4179bb055595a0d61e64a65210b9d36590",
+      "text": "blast radius",
+      "hash": "cbcfb2e123bc1d2abb199891bbe72b0c8c677ee885794647368aa30304eb355e"
+    },
+    {
+      "id": "df9eddda24077ccec6682ef9a3680729c462b01370998c3a27ce1b8946d0fb03",
+      "text": "fans across the whole codebase, so one edit breaks thousands of call sites and no vertical slice can land green.",
+      "hash": "069d4cb7e4f61cb873457385a72d3f1a75886b1c9b9a463c7028fe8242ae9ebd"
+    },
+    {
+      "id": "6db524f43dc0e5848634b434312aee459cd53cdf37d71c162f15a061147490ea",
+      "text": "sequences that as",
+      "hash": "fc759fc630ba5eb63cf25df006948a4a3e6e738690bbff3ace449ccf1470c970"
+    },
+    {
+      "id": "ea8bb0aba29d179f9a50356bc75cba368739cb5955236d01a0ced4e5cac2c0f9",
+      "text": "expand–contract",
+      "hash": "0a4f3a47b08e7233a6800bcb247d8a5d2f607e0a8c6896365e0e39cbc17f0dcc"
+    },
+    {
+      "id": "ae58d02d8d80fb6a611faf9f51512b1488d65b2f8aa199791e6d943f531dff75",
+      "text": "instead:",
+      "hash": "ce57dbfc8106498e8032820a02c8986d4cf6a8c40c60d908baf2032777d01a00"
+    },
+    {
+      "id": "3ddf7a6bd65fa6017a937ddd760282afa62bf975656daf08dfbfd48440b491c8",
+      "text": "Expand",
+      "hash": "07548c2c6511d4d1780564de8a237a1966cf9c99a97cf5c8a185e6c2aeacff09"
+    },
+    {
+      "id": "421cb822651cedd9a6920cdb42bcade0d58ffab9db682c178043eccd276b1b5c",
+      "text": "— add the new form beside the old, so nothing breaks.",
+      "hash": "82e071f4ebe1470c0afd9847ef1bc17fa0c84f5fdce4f1d452e4522b84061bb8"
+    },
+    {
+      "id": "f5022208f95f4e8c2f3f1cd777888c6713bd3d686cf82fa043dedc26ca50a92a",
+      "text": "Migrate",
+      "hash": "f988ed29d81b7bb6144200368b6bd765f7818dfad88acd9acb37e5dfb9840aab"
+    },
+    {
+      "id": "6b8efc6b71993915fbaa6f44237a26f7bfba79eb7ad912fe1678a9979a823682",
+      "text": "— move call sites over in batches sized by blast radius (per package, per directory), one ticket per batch, each blocked by the expand. CI stays green because the old form still exists.",
+      "hash": "6438cccce2230d0256727a5ee1fbe684d3aebd5b6a7b106655fa775bed480f6b"
+    },
+    {
+      "id": "b274fcbeb9de53590b47b63e7f752a2067486bce05a717b0ec98bee7bb971df4",
+      "text": "Contract",
+      "hash": "a6f5b0e592fa68e4ba8014ad5f62214f41153de6a5d51c78fc6148c54a1d6deb"
+    },
+    {
+      "id": "c0a340d77668479b9740f4ee1ed57c63942b5598273a7034d61d127b8e3cd396",
+      "text": "— delete the old form once no caller remains, in a ticket blocked by every migrate batch.",
+      "hash": "887c2c15023725002dbc9b67d1987f36a4518c32f41cb2d0952d76bf016d8fd2"
+    },
+    {
+      "id": "e1b80827d57c6e6f6483f3619a12ac5502b0ccd3af439e883cee22fcd3f00e71",
+      "text": "Where even the batches can't stay green alone, they share an integration branch and all block a final integrate-and-verify ticket. Green is promised only there.",
+      "hash": "28792771c9ff579aaa0d10d554e2869300340e05df1a474a63cab279d95ffe65"
+    },
+    {
+      "id": "13e4bc1fca1504104ca57e24bbcc7dba2f15eb038815884d6688215987105832",
+      "text": "It produced twelve tickets for a three-line change.",
+      "hash": "1534884cb921ecbac5db438f26258cf99575a83f28ccd8bde346a075962d33c4"
+    },
+    {
+      "id": "e3cfe097f151fdb81b4f8e0c7ca6eb14708bf5c325790ccd7c09f05a534220e8",
+      "text": "Over-decomposition is the most reported friction on this skill, and it is consistent across practitioners: the",
+      "hash": "ae01665b184c935af0936c58933ba5042e106cfa7e1c3998e5dae4992e031bb1"
+    },
+    {
+      "id": "21b3ea861fb7a6e454e4a26d2e3b61fe280de133d78d054bff53d2441f1dd542",
+      "text": "defaults to atomic units and loses the grouping that would make them meaningful. The quiz step exists for exactly this — ask it to merge, and it will. The deeper answer is that the tickets have a floor: if the whole change fits in one",
+      "hash": "27f77bc0320ba8c91071cc40b93109f258ede1bc7647f24d5c53f0026e4c785b"
+    },
+    {
+      "id": "67cf9dce7ba431dc8d214cb43fd19d9109e78314560107bc9bb5e8f63e579d22",
+      "text": ", you don't need this skill at all. Go straight to",
+      "hash": "cc2f84c96385e81609e2c51141c5277a931d629352bf7e7210bec2e1ccdabcbf"
+    },
+    {
+      "id": "44796b787cc719346acf79ca3231c3826f5ab4b58f3d5bf8c499167dfae3a6ba",
+      "text": "The tickets came out one per layer — all the schema in one, all the API in another.",
+      "hash": "356079e37ac8e16e506c4fbdea6415088ace3d509694725408574b94da820c34"
+    },
+    {
+      "id": "d654f9efcefb810e86516094e8ffca7cbbe778f8be0c2d433eeceb136b5a0aa0",
+      "text": "This is the failure the vertical-slice rule is written against, and the skill still produces it sometimes. Catch it at the quiz step by asking one question per ticket: what can I demo when this is done? A ticket with no answer is a horizontal slice. Some people add a \"demo path\" line to each ticket for this reason, and report it nudges the model toward vertical decomposition.",
+      "hash": "63c1c5b76b02ba834234ed03e4a096267707b4a12204c0acc03f47cb4534b996"
+    },
+    {
+      "id": "eac516fcd687e5527763b9db9f010d3a7c7bf230e4962fe66ba60d49b1c51848",
+      "text": "On GitHub the tickets weren't created as sub-issues of the spec issue.",
+      "hash": "14a50d56e9600b3f53b53279d2cf312b903b4f06b35d61fdce580c266b8c4f21"
+    },
+    {
+      "id": "ff457275c6d0be62d687108755a6d03b90f74e79799a9be00745d498514fd548",
+      "text": "Known and unfixed. It has been reported across a dozen runs and several models,",
+      "hash": "941ed8154bcc89ec6e8915b476f7674a80eb391ebce17fc16fe518003097ffec"
+    },
+    {
+      "id": "52f90c29e0504e7afa0adb8c7fbe10fad8b483019858d91fb80084288b5886a7",
+      "text": "most fully in issue #554",
+      "hash": "acd4e940a1c07200ed6f195cf1082f28e850cec04df4e9c7b526abd91fd0ed75"
+    },
+    {
+      "id": "4d6ccc613de246c8cd024c4c654e8a50ce226f15c29becf8850331a97b0d9391",
+      "text": ", and it is worse on Codex than on Claude.",
+      "hash": "9299bec6e60fd7f616a08ed5296b3a97cd4a1eec9d63274c5636e99f2172dc20"
+    },
+    {
+      "id": "1aec3d69aa6b93b5249b80b6034912035685ed467e16724a11fcb1769dfdc92f",
+      "text": "has supported this natively since v2.94:",
+      "hash": "2838f5dc5c6540796743bed1995f9ba59cc064c7a8563260598496b100a187e0"
+    },
+    {
+      "id": "52d73046bbbc144b9df94378c1e4d2f733a87ad5e14bec4ac9f555897535b856",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "9e3b5632f5aa9b1c199c924b82a5bcc581c39ed77522140d294b70d026349eae",
+      "text": "after the fact. Until the tracker template prefers those, wiring the parent links yourself after a run is the reliable move.",
+      "hash": "46be0e44fa82033855df9c3f9e051c70d1822cd63a508b456ea45fe245bdec00"
+    },
+    {
+      "id": "8347c854124ae9863f795be20c8fa3c8ce53b6fab83ec9f39302c0e4cc1b708a",
+      "text": "\"Blocked by\" was written into the issue body instead of a real blocking link.",
+      "hash": "16e0a73c3d67180bb5652136ef18c84c058bc255fddf9e5ce861491e8fb4e2dc"
+    },
+    {
+      "id": "19cc5d1dace78eada12c64602976a981c3cd85214844614194a20e78a4936e2b",
+      "text": "Same class of problem,",
+      "hash": "14925cd7a8935f768ae995bdedbf9bb4ce498b7a1177cb1bf9ffd3bc1a8d3217"
+    },
+    {
+      "id": "7c12a068197bdfc73cb5f15fea0a8355b38d9af47bb9ed9865fdf31fe2396175",
+      "text": "reported in issue #513",
+      "hash": "b5e2df8fec3192fd810a2892a7442d547f2e8255f9530aee4ac0db7a61f54ab5"
+    },
+    {
+      "id": "25ea393f7848a84f69fd2edef51e96f97cdc577e7825556366b87a54de51061a",
+      "text": ", where the agent went as far as asserting GitHub has no native blocking relationship at all. It does —",
+      "hash": "c25f0da7afeb490d9f7a3ba6626eed5c3ca83d5fd3adad0ea2a1641378e1024c"
+    },
+    {
+      "id": "7cadee2178c3e9bc38c62b982c451c1fc22cdc4b7c4b6443ba25eb2d67d098f0",
+      "text": ". Because blockers are published first, their numbers are always available at creation time. The body text is meant to be the fallback for trackers with no native edge, not the default.",
+      "hash": "36f92e1f415a2410953ac82cd1ff0fb0147b7b66ebde40260b26f86afa2a58de"
+    },
+    {
+      "id": "7ef6bf8e8a3c2fa0a38f8cae49a19dddfe5dd86ca2a45480cb5aec93260c3aca",
+      "text": "Where do the local tickets go? The v1.1 notes said a root-level",
+      "hash": "3f80b918cc91418452d03d3dbc63c64364e8f6cbff8cf81facd55915e1130e55"
+    },
+    {
+      "id": "e67ded7574b2ec75100bfd3e4af3adc023aab637bb22711a1030f4a278e8bfa4",
+      "text": "They did, and that was a bug — a single shared file also raced when parallel agents wrote to it. Local mode now writes one file per ticket under",
+      "hash": "487a0ae3c9d0ee85a78e6110be32cf9e011b062213e5cb60a4af9117633710f3"
+    },
+    {
+      "id": "5feeb065388c550d9540bf7f15833c911ca0f6d990d9d732ad1aa66cd95f7c63",
+      "text": ", in dependency order, matching the layout the local tracker template already described. The",
+      "hash": "a6c17d36ada89c2cd582713ab68a2eb11b11b6b5de8e99de8683743adc0037c3"
+    },
+    {
+      "id": "7916fc33924e27d927dd7276c4b263968065fb37fd20f987871805db00c54dfb",
+      "text": "prefix is a real ticket ID, so",
+      "hash": "0dead35913c234b00a9c67b812188319cce71f64c2819ff12979ffaa5e02187b"
+    },
+    {
+      "id": "64ccd5dd65ae309a772b4d2cc48187daa2095ab656c4178598cbeac132771148",
+      "text": "works instead of retyping a long title.",
+      "hash": "00d21bb7528956e32e90be0c7f41cfcc1878a0558f69db6335d1206cbcf8eab2"
+    },
+    {
+      "id": "d3d791124ff40a7a4b1b7187e132d8ad7b0c04f634c124bd9ede5f20cf0fd1c3",
+      "text": "It kept truncating when it tried to read my spec.",
+      "hash": "f121532dafa293198f5c05e46076dc28c6653151538a00feef8e4e45367a5ad3"
+    },
+    {
+      "id": "2a0341db9320d51eb802c9d8518e79a419d71ecaeb1096fce0bb5c35210dd5a3",
+      "text": "A very large spec can outgrow what a tracker issue serves back cleanly, and there is no local copy to fall back on — the agent then burns",
+      "hash": "4be5576a4be37b4b2aef61d491e23384a8ba22defc6ce80c850a4efc9458edeb"
+    },
+    {
+      "id": "7576a524c5af1af0df1b220722855cf8ff139e517371a8dd4cee30e56171787b",
+      "text": "tool calls",
+      "hash": "b102cdc6032df9ca67169a6d620fba86a9b0344b8dab71565a5b230deadb5e68"
+    },
+    {
+      "id": "5f5c5e67fe287011d8410ea3b546f7d3d7cad0b81a855540a647d9b33ca61813",
+      "text": "re-fetching chunks and never reaches the end. Don't",
+      "hash": "cd7444745ae4df08a779026d186684c5af2085cf5f56ba88e37f0a5424ac58e1"
+    },
+    {
+      "id": "a728a7c431809c6b697efa14976b24105c49d496882bc3e7c360f382c34046a8",
+      "text": ". Run them in the same context window and the spec never has to be fetched back at all.",
+      "hash": "c5cb0c551725eb3373c157c5e12598f3c2f2858fcf3b3234a607a00583f6dc5e"
+    },
+    {
+      "id": "5fd8211aa7639b97185c5c1434329dd8b1d484fb0cfbf97fbf51de6960fc1fce",
+      "text": "The acceptance criteria graded nothing — some passed before any work was done.",
+      "hash": "deb10d0747292b4993277cb857e7d34fa5655e4d3031afa58dc7b02ecfc66f73"
+    },
+    {
+      "id": "b6c468f8a8e4570e304af990bf01a086aad10b53d511255cf1be5f8a6eda2508",
+      "text": "The template asks for criteria and says nothing about whether they can fail, so this happens. Three shapes recur: a criterion already true at the base commit, a criterion that can only be satisfied by work another ticket owns, and one that restates the request rather than deriving from the artifact. Vertical slicing prevents most of it — a slice that delivers behaviour which didn't exist before is red at the base commit by construction — but the check is worth doing by hand. For each criterion, name the observation that would show it false, and confirm it fails at the commit the implementer starts from.",
+      "hash": "321c6b027afbdc69e7ebd1c5a953f93955854243bf6b9adee31ad2b327762fe0"
+    },
+    {
+      "id": "8acff3d7bd9b890d0e4d1e621b353781d3c087a390275615a384b8b1802136c5",
+      "text": "The tickets are published. How do I actually run them?",
+      "hash": "a096217c90763121ee464cd093abc1faf6853a56e07eb0e28be8c8bbb868e9a1"
+    },
+    {
+      "id": "7111594ad75476dffaa7207639ce7863c2cb364d50a30d8bb80bdc820d5150b8",
+      "text": "The skill stops at the artifact, and there is no auto-dispatch mode. Dispatch is manual: look at the board, count the tickets with no open blockers, and open that many agent sessions. One ticket per fresh context, cleared between them. Be aware that",
+      "hash": "89da9d34a5f62e652aa4b314e171363a56838c59bfd39680a3164c0bb6fbb443"
+    },
+    {
+      "id": "2e3baf69389ca8655a34ecec3b850ae2863680a41869eed4db4b01ccd8444fe7",
+      "text": "does not reliably close or check off the ticket when it finishes, on GitHub or in local markdown, so the ticket's state is yours to update.",
+      "hash": "5627e6e8849e230760bc239bc4fbd12635175533d0965fc03508a79bc9b5d923"
+    },
+    {
+      "id": "8eb4a2d1281f9f844348f4a6646d867c855db41a492283cbfb9a301de8d56d7e",
+      "text": "Every ticket has an answer to \"what can I demo when this is done?\" — and the answer is behaviour, not a layer.",
+      "hash": "7067b07d61a5fbc68f364c29a33a73f3df2caa25db920f1576e7c5207f3d0745"
+    },
+    {
+      "id": "dc9ad13c769eb95476d78f41774e0b5d6d88595e7b27eec8f0ed54c1b582296e",
+      "text": "The list comes back to you numbered, with a \"Blocked by\" line on each, before anything is published.",
+      "hash": "8e51119419491120b417b7a9552d8c134f1fb287c25ea358cf6a32b3ec1a2801"
+    },
+    {
+      "id": "f9f43a3d84df6cef86d5b69cd3c6b7531c46462aee014efd61f2f872b84b9a03",
+      "text": "The ticket at the top has no blockers and can be started immediately.",
+      "hash": "1c4dc44d05f4f7205d478c6873038c56e2655a9fe31e1f457473a65acb23556f"
+    },
+    {
+      "id": "8da8d61ac898e7440de28ce8ea5f1dbea14a7f37c70a8d5edebc92f2b544f5f1",
+      "text": "Nothing in a ticket body is a file path or a line number, except a snippet a prototype produced.",
+      "hash": "8cc0bfca4d21bf04a456d9bf930146c21fc0c5bb48162d3e306b7ee7b1002694"
+    },
+    {
+      "id": "b0fe803a6a85599f54a20049bd8df08e7a477ace918036b786dcab29cc940b07",
+      "text": "Each ticket reads like something a fresh session could finish without you in the room.",
+      "hash": "da9e7f8edcde1b8fedc10a03617a6b9a3af954680ed73bab15bc5d4f799bb0a8"
+    },
+    {
+      "id": "f9863211cb01bcbe81aaafede54165ccfd276c93259baeeaefc028b7d0efbfef",
+      "text": "Prefactoring, where it found any, is at the front of the order rather than mixed into feature tickets.",
+      "hash": "cc62972a409b6ba6ce67af0e1fdea773b256e7cd0bd9d39906c6f4f9a29ef727"
+    },
+    {
+      "id": "19fb9a607a63a6e3a5dd1f783ace8fe0878e67c28fb5730b24fc500d45defb5d",
+      "text": "is a step in the main build chain:",
+      "hash": "ebfba8c3e8f9f9cfc3874e9a11c75da82cf617d089e388d1ddeeda89085b2bb9"
+    },
+    {
+      "id": "572a51eee29861e299d4389555329d67b1b5e7d9d601e3b6fbcef4940cbdadaf",
+      "text": "Upstream is",
+      "hash": "c70301e1b9d806fd32ada8cbea5ccaa8ef71aff95d8de47529fbee337574283c"
+    },
+    {
+      "id": "4c232e4d00090654fb35e9897de5baf9774a582d798a6f8347457728d2454f66",
+      "text": ", which hands it a settled spec to slice against — keep both in one unbroken context window. Downstream is",
+      "hash": "0121b8c12877b89b44b605ef3cefc5c91590dd1c17bf95f6ef4bb9ed90ff3b2d"
+    },
+    {
+      "id": "501ffc0004ec1bd433a931e0d69d093bbc45f20efd02f08794971b795bfb3ba1",
+      "text": ", which builds one ticket per fresh session, driving",
+      "hash": "83e058d51d00dc899b0dc9e25eba7178a84def0d5e4890858ce456fda0b60362"
+    },
+    {
+      "id": "549fd80745eda531c9051e7840afb72953db7c6c45a4e8734f4256d97b57c200",
+      "text": "for the tests and closing with",
+      "hash": "c2257e5eb0dcc7cc43e04e2ce83e98b7db2f0250bc3bcd855d4eefdd817729d6"
+    },
+    {
+      "id": "c30f2f53671907d807db35930baa4f74aa2b2f0508745209a514bdf1def6d8d5",
+      "text": ". When you're unsure which skill or flow fits,",
+      "hash": "3e11ee23b189d5ca54b667d753772ff021dd61948677651d5824d2fbfd0450eb"
+    },
+    {
+      "id": "9618124612f62b8a35453187ac8d3abad00af3e58d17f753b5df1e27cf130da7",
+      "text": "routes you.",
+      "hash": "7ab0ed124c45755dcf8314c61ea1bf3f8c9926f3cf622e8d67e880128523bfad"
+    },
+    {
+      "id": "da27d25c69446c18f0b0e076162a55019d5b5aff0e4875bc861ea5d39d76f889",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "9ca97ec83d573287e5c3ff2ecb46bbb188bf75182c4a38b8aac583518caabd8b",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "f7f68e2b4298a2aa30aaddc1ba336db368336766c8d2acedc030237e2da887ba",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "f34dcbfa42c83caec56559fedae761669409e0aead6dc4cb18dbe31cc8334b1d",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "2701e6c02b80aed7522effc444ae02786429c8a3c276529f14b377a5211719ab",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "90e1c1987f89d8bd5d7e38862616bf7828caa4f72b8f1311ccafc19edc499ca1",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "ea0116cc0a74a1eb0d1df8faa7bad37c8febecc6d0f4860e1eb01466a1bacc18",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "65eb60e96c62cf00bf0d5b3390caffcecd24949765ea2c09bd8d3327df40d6a8",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "d7efc0f8d3ce4a33eaa19c7c839afef9a3fe994314334db2e7d6adca780593b3",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "330a717cbf4b68aa942bedc3ed63ff08c0212d89358cf0591b78cfa19ecf74a4",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "c0afc4e44c0d440ab77c8bee1d1c246d9b6c093b11605bf5dc32eb7f189865ff",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "bf6f4f4ea5e8918cc697e3cf0f51f2938843d02f2f8f108692495f5abbf00652",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "8b086b25c2995919e7d473ed709e6576ab8eef4d032d2d1d1de3e4bccbf8007f",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "6e953afd593ad6b0a4ab6c1837e491c2c6c56b4c9e23719b172f8d84563988e5",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "3f8b6928da34f525025097ace00667d7c99f3efd85bfb229f05f354bae547e86",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "0dd17e45dc5e762fa0f1e42cd5ffdd93a21d1c6e74aa00f441fc1671e002546d",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "b0ed3678c5eeef7b9f7d8bb898a532dcb9ac520a2025a691176998c5a299abf3",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "2a24600783e34e5bc518ded167608b7b8d0d4c072cae49d1a3cc2fab7fd5111d",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "51abf20b1d4e9f02ba980a19feb3a2c87215ad154aaf5ad0087456ac7c8a090c",
+      "text": "Skill · 8 min read",
+      "hash": "8cd38e76c0cc03067bbb33f0f69804d982d39b3c33de124fb20669cbb60b3889"
+    },
+    {
+      "id": "a6c3354b1655fe27fa73b5c75d1826f13b0128b7b206b56b08bc350d41f1ca1c",
+      "text": "The /prototype Skill",
+      "hash": "0704c2a7f3f21081c77a25eda1e8be09a3e7cf6c6bcd5111b05f143302886d01"
+    },
+    {
+      "id": "eb0fffd849d3044a99af567f64e490562e0de90c90904354ae3a7e5cc7992ae9",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "74bac57e6c05f8e6aaf0b7801244f7403641156004be6da68f4187eaa420dd50",
+      "text": "triage: Turn Backlog Mess Into Agent-Ready Work",
+      "hash": "01694fa1e3057407ecb33b84383432ff8ed99da51a0252951a5570fb40231ae6"
+    },
+    {
+      "id": "cbd9a4cac7af1cad6636284f6e40207d375abf8c00c2396571a2291e98a128e3",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "6ccce409bb8800ef484049242340cc60659d27d626c8f1d9ef4d6d53c5430a27",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "735999a4b9c8b717d7a76615939a5c719217d10b7191f7c468df5593a5ea133e",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "a9a01ed94992e03d54193fb67e027bafb0255d302dcbe88e7a081e4f5760c5cb",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "f57acf73e54d829a001b2214377f1bbe6485541f73ee9275aff6cb6c43910713",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "1b4abf0c8cac850289d10bcc19fa11f6903637245c5c530fd3a5883540221564",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "e15e9bf182a4458ab6953ed3a5cfe14f151f02acb8bcbad540ed66b12e9069c6",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "bec20eb46e394442ffc0882a4704ded9c6d01dba0e3a043b897632d35e56b5db",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "6f5eda7fb0335e54f479caeadcd9a7418176c901f77ee7ea6936007eb024275d",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "d820aa8701dc3fabf5db009c35ea464f7c76cf35c7ebf9698491bcede984f0e4",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "9e28e8abfc4384236eef248d2179d6fe5938b8881d5bcf73d0327fdba9ae9a62",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "a70d709054b91ef8a4286cc34df5506a449215b1a94a822b0bba394a0d914589",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "70f472b5295608f0b944df18acd5b1b559d5b20c6a8a38e6813c62ed876a5348",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "6c0b9cacb952a357c1a0909a5ecbfed76a96b556e43059a0c6f80990dcaa02e6",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "c9183d3bcba4f9a16ddeb69c6133f0c94ab9a27c1c9a71ab9ed66b608ba63293",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "37f8782ec7caaa573120078b5975fd73ce867f68b27377c0f6631a82a9da1a89",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "834185afddfec3c6594c0b63585592117bb30e9a0eee3eded7bc2184533d37fd",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "7d2c221a438cf74c1b030919ba8dcef23ce940e9f2e66eb0c7a08dc73ef9c122",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "393abbf233ab2a96a30afe686600c968ac91676bd58a2c6746cf521d7edcce57",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "42e329452177458f2ab6defd72c82ce80147eb2e8619363a40ed34d89d0927cf",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"tofivv7ijg7mst\"",
+  "lastModified": null
+}

@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/contextual-knowledge",
+  "pathname": "/ai-coding-dictionary/contextual-knowledge",
+  "fetchedAt": "2026-08-11T06:28:35.411Z",
+  "title": "Contextual knowledge | AI Coding Dictionary",
+  "contentHash": "2009c59f128ff504b16769e11393fbce89d9b406ad4da8275fb41fd8488eff2a",
+  "textHash": "8600908e225e29aa8546088f1499e6099727cb284ba97fb567051b3b59d98436",
+  "strings": [
+    {
+      "id": "d967563a3f7aba2fc8835f39803b71b27952b7dbfe6720bfa2cd47f5226784e7",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "7a3ef589d497c610e94bba3f65a96200d19d52716b28c84901dc013df302acae",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "119fab94475e8e736bded6758cb038be1dde1b8c67c6da08cf06317219a00cbb",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "b7530c77c73b413a9861300853aa453fb225b89f4aa5747585733f9328d369dd",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "24c7c335398097267043d562e58bb044115257ec48e49734adab982228f6eacd",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "fe4e35bfd9dc7f11ce5ad3725278e16be41376119ef8429bd24961bdd53c3b5a",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b57450c0e90243acace3aef955a5f5060a877375d2112d3b28d924eb9498e560",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "52d8e7ff5584565434c21441411e5704be9e44b109f158e0dd599116c19c033f",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "2002ba7ad86b7525139156803abed0380f3301df131c3f64fb9c729a69033c60",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "f07eed1dbadb3e86f3fb153d131fa0b9833b60db18d68f29863e126b384ae2eb",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "8e423c6cd1aec10010876b0a499aa2b5a72b5aef92fa2b211b971374fa4c9220",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "7612ab6a37e3df6834302be29e4280b0503da3057fa247f34ab5bef1f59911fc",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "04c5c59069b2304f21f88e07be1ae7486adac920b95696c2ecf96486ac8033db",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "7bb6a61ede07a5d48bb392314ed27a849cf51a244d101f02da2d9bd0b92688a6",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "1f64ad884c5c21acb8066ce8a1eebdb52baf2383f1a02067c51a232d3351a7e2",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "7b3133e2f122f8865be8a02c1f1f57c09fbe585ecfa0113b6de8b09d71e1f7f8",
+      "text": "Contextual knowledge",
+      "hash": "d6e7abe0383292e093bb86c7be9c6e2a5572caca8fa0e5265c6f14c196b0bd4f"
+    },
+    {
+      "id": "61a67892ee553a9d3af5336053ca50b4eab8709ae1245828aa88c5695005f58b",
+      "text": "Facts the agent can read directly from the context right now. Counterpart to parametric knowledge.",
+      "hash": "73c00ed4b125d42a134ab302ad5bdfe555b1a597b851113d2c6e8b08763ef347"
+    },
+    {
+      "id": "9647e11608f50b31bec7c01c419e124f607109dc2511912d8afe1cb0dbe42484",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "a823de3d0ae1a8d5eb42e664ef99d61ba6452c4ddadf0214fc638e70ce834cae",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "8fc3ce879a7ca4fd548aa0924f2b83fa90c66dbd602a19ffad20529915a3499a",
+      "text": "Facts the",
+      "hash": "154b03b9d9eab60b38616f5190349c8adb266a4720f7642c328273951f7b6dc0"
+    },
+    {
+      "id": "1c27677d6e04d3569bed6b3b583b43783e781eec0176a0fd658d63aa72382c9a",
+      "text": "can read directly from the",
+      "hash": "a29eabdefb271f3c6535185bdf8af50d7843fbaf63ac0138cd64dd9e20b96875"
+    },
+    {
+      "id": "be88819c49e25e80a30f5bf71b4c926dd97f6da60d89d8e5c6b70b22394cd14d",
+      "text": "right now — the user's task, files the agent has read in,",
+      "hash": "43db9b72e0ffacbbb03ea67eb502599a33e781360d012db6c21c121cc5a688bb"
+    },
+    {
+      "id": "bcb611eaa4a839cdd5d5c3abf0e6aef2b02223c16551dd779b36538129f457bb",
+      "text": "tool results",
+      "hash": "a5594e12dfffd8e54c36d9b99bc31c7d41f0389d2251790338f34e836a3211fe"
+    },
+    {
+      "id": "ac50e494230d46965fa31dd0c58e84035ec507f4b85f61bc15c77fce50a059a5",
+      "text": "content loaded at",
+      "hash": "83b90cfa48fe348e62687e8f9e1279229e1883963fbadd14820f3464cc04f2ec"
+    },
+    {
+      "id": "b32adeebf5b48de4a26bfc2789c954f7f9b8980235d74c10b9e55d44f648cfd0",
+      "text": "start. Counterpart to",
+      "hash": "5d37972691a47f85aad00117e8d118ef5caed065718a269c25eb2b3cc3063cbf"
+    },
+    {
+      "id": "f6466bb8d50b87739b5a135b541927144b8fe21d91eaaa6aa3f30ee75f20ef10",
+      "text": "parametric knowledge",
+      "hash": "af45e8f3199438ecb8e32a5842d362c9e1486e34f1b2d9374b547824e0ceb837"
+    },
+    {
+      "id": "181a2212c7335371b67a5246b6105d7f26d90a1b9d4ca7d2367fe6212cb3fef6",
+      "text": ": parametric is",
+      "hash": "93987a4ffce3e6c20ea7b4c24b26f7020cb225c7df499f0708f7421399738d69"
+    },
+    {
+      "id": "a602efa7e6adb3147ea9a50a388161f13975e37937b54e5c7f79ba05c2eb86f0",
+      "text": "from the parameters; contextual is",
+      "hash": "863a6cf7aa89bfa4332d110582998ade2cd5a4e1915fc8550bd537141d43073d"
+    },
+    {
+      "id": "979865255c8a41e6d5728e998ae33014ae11cd764ae2a45f289b9753cd7cd6ff",
+      "text": "from the",
+      "hash": "4f56bf5fd8e4753ba57720268f0333576ac22c9387534579f73848a433d99a1b"
+    },
+    {
+      "id": "8e13f4284e6665a02571ebff27ed048fd64537f9b1c7333c46191d2d1c8ab3f5",
+      "text": "Hallucinations",
+      "hash": "51e5f9cee92898df8c93730c2ca8b5154a37dba6f44f907c601733cfaf215288"
+    },
+    {
+      "id": "0ef22a0140017166f44d3d562049b373703ac9213b27a828ca911d42d8817c77",
+      "text": "are much less common when the agent works from contextual knowledge — the answer is right in front of it, not dredged up from a blurred memory.",
+      "hash": "ef3c0120de8924e4862ad86ef31cf1674e51c90a5583d2885ff882992b1583d9"
+    },
+    {
+      "id": "0fdce7fab87e941b55763b6c67abbd98952b41c41d422de9acde7a6e7192560c",
+      "text": "Of the two kinds of knowledge, only contextual knowledge is in your control. The parameters are frozen, so the only way to give the",
+      "hash": "12f4af3935908d9631e98e5b3a627007b81ed169f4e6b8db7f7c0415e232bf30"
+    },
+    {
+      "id": "21379c5f5404b56cc1cf8bfba56949561eb5646bae61f60a80a6fc309cb49c38",
+      "text": "knowledge it lacks — an internal SDK, a library released after the",
+      "hash": "23f7f3488d44c9ffdeb0446e99a3a5817ad595dc24c3963b127fd11664bd3226"
+    },
+    {
+      "id": "2a78c5e4301325fab986381fba135e623748cf259b53fc8c2ce7084e4f7ba121",
+      "text": "knowledge cutoff",
+      "hash": "46f1820f6339cd5450653d0018ffb90af1d929a074ed2e211dfa39e52b7cc408"
+    },
+    {
+      "id": "3a71b25facf9d2a95f763e298e166f9b45c98de84874e4e2fc016802519278c0",
+      "text": ", a decision made yesterday — is to put it in the context. A lot of practical",
+      "hash": "ac1b8671ae703baf2c1aa16febaa028147ee4cfb1fdf33b94ccf7b23326625dd"
+    },
+    {
+      "id": "8b9b097266e2f04916b4dfd441488e453f00e393a79ba8533dfc72b1e65643af",
+      "text": "coding work reduces to this: getting the right facts in front of the model at the moment it needs them.",
+      "hash": "86f8d722a960c8a85bbabe88f1256ffe48db214fed10c25da2d23f095a83a1ae"
+    },
+    {
+      "id": "567e5ae11123877bb7e754c78c501c5815aff9443b9435080fad82c8741d9c6e",
+      "text": "When contextual and parametric knowledge conflict, the contextual usually wins. Paste the current API docs and the model follows them rather than its stale memory of the old API — though the old version can still bleed through, especially deep into a long session. If the agent keeps reverting to an outdated pattern despite the docs being loaded, that's parametric knowledge leaking past the contextual; restating the correction or moving it closer to the work helps.",
+      "hash": "8e054b6e88f40aa7d902e691b77f4bcbfe5439a81a67476be4573f0f75af8538"
+    },
+    {
+      "id": "4073e991317ef50f15dbd6ab10f6dd8d86219dbc9c6806a4db6a3e6557e56652",
+      "text": "Unlike parametric knowledge, contextual knowledge costs something to use. Everything loaded into the window spends",
+      "hash": "8a9a283aea7cc81f6b4c83a57a6afbe3ae065bac575330a96489573c701cd17d"
+    },
+    {
+      "id": "cae2a70cf803a3813da396d6a1c2424d4c1ad11b5f73ede78ff07b076ae66858",
+      "text": "and competes for the model's",
+      "hash": "aa85115cece46406f805a2c5085248fea9740b5096931bd2ede23e5e175ccfc2"
+    },
+    {
+      "id": "b3d1867a66826f7e7216d130f6fcfbee23497c02860586935f512705ea669dcb",
+      "text": "attention budget",
+      "hash": "4f0ecd6ea97f18771cbd4203a929018449d8dbd4c6cce6f90fd7511b5c34cc81"
+    },
+    {
+      "id": "0a52854c3a329db8b2a28b03c5d90d5d00088affdff75ccc0d84bc553d7f17d3",
+      "text": ", so loading more is not automatically better — the aim is the relevant facts in the window, not all the facts.",
+      "hash": "a0cf4bed2f7cdd6f4f70fee09075522024c3fd70632515e971c402f7c17e6f4f"
+    },
+    {
+      "id": "0bcae47b43bfb6176a0ada7bc9fa9763b09ce1a2c3e2468899d02eca44f6759b",
+      "text": "Reach for this term",
+      "hash": "b33179c4ccbcb441a97156de3308e5004745922eeccf4d3576e408777255948e"
+    },
+    {
+      "id": "0179d3f7e233109ec1084cbd2d8327101e46a0c2f2daba40de23aa8bbda82036",
+      "text": "only when contrasting with parametric knowledge; otherwise just say",
+      "hash": "907532fe6eb9f9338d6c3556c3af9e11994a9d942b74c05319f3ad7dc716aac2"
+    },
+    {
+      "id": "1436a114934b49f34539bc89c3fdd623100b10bd0cc0e3c4c47b7f2e6115b3f9",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "1cd6339fbc270292b1622af6c44d7610afb3b9fd8d94c654efec7356dcea94a3",
+      "text": "\"working memory\" — contextual knowledge is what's in the window",
+      "hash": "dfdf2d4fecc0680c75b2eec37a5ce607f199d8ea987af1e7c072c591a1bbd108"
+    },
+    {
+      "id": "cb90326b85ec4b3b23a978dafadc28722ca8795f37f53305f803b4ee3f32e424",
+      "text": "; a",
+      "hash": "eac5668a91b57ee54ef2c528536cadac6ec07af7312a00144a910af4707bae2e"
+    },
+    {
+      "id": "68c7081608a946edada25603229dec8492b2c044b90ca16454c577b34ef07b01",
+      "text": "memory system",
+      "hash": "e89086a24d844403482b5bbecd8bfa90d974a15a37aba1fb8ca8206a143f75f2"
+    },
+    {
+      "id": "b7de4734c262509c991c497c80ba26ef464314292a3f57c2a6d21a0c2d570273",
+      "text": "is what gets cross-session content into it. Different scales, don't conflate.",
+      "hash": "3bd2af6ea6402c6c762c25731b2ec7507191f5b67e1abca146a718536db8ba70"
+    },
+    {
+      "id": "b084c301de1a1f3d1686854044242e95f18f7ea9d8abc67e95300ce51cfae98c",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "373d39509d24936d96a0847e28c1d71709f815cdc1cdc57e3000c58e7f451485",
+      "text": "\"Why does it nail the API when I paste the docs and fabricate it when I don't?\"",
+      "hash": "ce94bfee84316e483e99dd7109957f6c7f6038bb74aac66b0807194ef65a8b19"
+    },
+    {
+      "id": "4f3943d6fbcb13858fd83720f2c208757c7fe867ca0b07bc4898213c09d7b4a7",
+      "text": "\"With the docs in, it's contextual knowledge — reading off the page. Without, it's parametric and the rare endpoints blur.\"",
+      "hash": "a8d4fd2d3333729d1f111fc2b9a196d6debbbf472c093f6ccc68741f285f4c90"
+    },
+    {
+      "id": "c4e061e1d3adfe8b782d7d749ebbbd287f5e9d5f88de32514eaf6a469435856b",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "6d5d3ee14c2fef4760082344e88f7e3a7ccc9f51a47f797ea5ca13a0bcf22931",
+      "text": "Knowledge cutoff",
+      "hash": "da7752dcbdc5ec6cb75299abd8a5293085358a207b7a1383db9e1ce36002d71f"
+    },
+    {
+      "id": "51c526225feede8707d2f522afbf15c4edb4932af9e3a9d35d5e3322509be02a",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "cc1811fee384b33569d99cb51348999af66ce4b479b0fed1044f3b2dc362e9cd",
+      "text": "Attention relationship",
+      "hash": "3326352af9343a5dd603549ddc399a87efaec24216defa5bbbf745688a6eb302"
+    },
+    {
+      "id": "fd7fe60ad63e84c08006949758fb7918452a4bff4aab9c67c5fbc9d74df433b9",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "5fe95d7a36f6ef1da26e092493e5e1ab4e792166e06ebc6c61deb68aa68fbe80",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "d808b1f86bbaab5c24381b93186594a33acdeec679a8c6c436355dae9cfd607b",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "f4c904c18b0c5d3b23719b55d2cbd6b72cccf429642355afb768c823a92f5c6a",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "4a822046067d8da1ad9a0905906342171c60b8eebb1f6c9290d331c36d012d74",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "9b3ae9931686b919c35ca757564c7f0b73cdb0b8fc767fab1392b62092c60568",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "2cdf95052353e5e531cf47f875f7aa3c5e612c01b433c7b555f26635668d794d",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "e620993f9daf4a1c96505ed2d8833612cdfc61a8ac9060bebb44e8bb50163fe1",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "f3a50a0010031dd7b9c8252e2716601b18137495c0f634a62c20730761b6a3cb",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "5157c3fafe26079f0a06503a0ba3d450dbab07c47396324699d23f2068041f7e",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "7d00357e2302f0f4e51a05ffbce2ffb6b0aca3e43ce12cfaea971d00ae394650",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "a3343b1ee10ee8fa4a943a7492ff4231a7d1240bfe67521521782c68f0696997",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "48372374e803d6a0a941d1636c7e5d5e080e05fb930bd972f1bc36e7a31418e3",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "7497b5ec1e79354272e61db5432c45dbc0baf7e96f8c88939b54e29d2a2a7423",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b4026748b1b73bed5e9e05503576d47afca049d5ea67f1acaecba26fe678a184",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "c7d0fc07bbe4922dcce077a5977524341a7c28c8b1b154c20a983b8020d6015c",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "991b0d7b4e3e955222101a8a7578cd1527d0bc90a5bbd544aaf9dd8345e71ffd",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "359a1fe37225f60b2081eddc88ec5e9fd48e7eea238fcca3b7fd95d98dcaa3ef",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "27240900a7e48ba7357b55c05a7829ec8932da2c5e0210c0fe2a90c9765edc65",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "f7de5c352941770987f02e390f8c22b82fca97233253b31903a49c4c7c1786be",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "4236894872e15fba1977a65df24adccf7ba0151a15721c9e2db9c54cb3ab6a55",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "dbe6a5c88c9d57c86dc93d4c363d48c42d0fb1ece19e28e0c151850b7aad7eab",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "8c11ce4ad12116f769a646392440d0a8284f427450863516a2438d69f103347a",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "d6a392cc8ef171db787fc0bc9699dd7bc4331bd0ea8a6c5c3fee2389db12e160",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "ea4af1b53cc10811b2676d37dfc9ef224f71fa41b605461e2bc64184620d282d",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "5bd0f659f0cc8e97c50d01c3aa2db450657a3e240e6b1f0d9ecf437ed9bf39a5",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"16zkrzniv0p4u0p\"",
+  "lastModified": null
+}

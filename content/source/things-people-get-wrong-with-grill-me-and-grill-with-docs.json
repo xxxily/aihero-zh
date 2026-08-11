@@ -1,0 +1,908 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/things-people-get-wrong-with-grill-me-and-grill-with-docs",
+  "pathname": "/things-people-get-wrong-with-grill-me-and-grill-with-docs",
+  "fetchedAt": "2026-08-11T06:28:07.434Z",
+  "title": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+  "contentHash": "e3619207266bac333482b6a99fcf1d375f6d3a1ba760dda645f5f8f1cdbce3ac",
+  "textHash": "d2c9832136b52fadd126f27158d771faee3682202d6febe2f9d58d51e580b45d",
+  "strings": [
+    {
+      "id": "aea31c9c0d912942f163178d23b7ec1f3e420fc89d65099dc5fbc37e91dbee81",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "66ad652e24f0934e6e3cc96ac4460782388fdaf13a1f3b21d04b9b3e0adcf2ac",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "f28a869a57163e4e00a16117dde6d43042fdc7428c0400a94dbf8809d441c652",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c07933da406e47e9f2568ec0b86fcdb83b9737e3561bfd7b45e93338b9450e88",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "2c3edea987d63d999f397b26c3d4efb1ddd64c0b82096bd18e9c5ae48ace1b14",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "09700efb8427a92d86fe392082315faa77b0168712c0bbe5c40ddc1349f92dea",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "6f14f17f95d1496d766dd01da489cdc33ef6383c6b77b1459a83a60f19914e04",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "c5b5e3e3633bd79dd468d01054a4dd322ad1d48830d284f36c96c3893db4dae7",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "6681cd1e8889aee373d82ef9f61711791541caa5820db5435d4749fc2383654b",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "12aa6dd0d9693f3d08dd02b0dff29d8da08e25d9f43ceb0c59127de3c976cf21",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "c881ba63b3635443011ac77790a9569a9a3376dbee509f3162b83362e3bd6675",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "1e0af13fffff3dd3c0a714fbd58ce8d0290cf43222eb44d3db11276ea974f276",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "66d6e4ce79ccc77a4da3f1f4777616a48133ab803e386e4c7f923a567d96bd93",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "1a2e37a46c8a90a77e6cd697bfcb23ace5a224be4e742dd847a4f2275ff46a83",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "002d0de06746ba9c2e475f45562d7b20d935ac2304f8b255156d34a1321b959c",
+      "text": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+      "hash": "a8132b4f77ca14f2ef5aa84bc8386bb2e8acc3ce746a8209008bcb9af5610bd8"
+    },
+    {
+      "id": "499978e0a01d2e3ff208953e3efb0418dd26da53976a83855db6c6da33fbdaea",
+      "text": "Master the 9 most common mistakes when using /grill-me or /grill-with-docs. Learn scope management, model selection, and planning strategies.",
+      "hash": "0318f8d5c3fefbe6338ee355e621c80ef4fe174e84044b7f802090cfb964d876"
+    },
+    {
+      "id": "f9bdfab3b6d734660e0cba0c713e87302aa30556d80725bf78d4d81493ae75ab",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "640e9dfc5d0502c84fc53f8fbf69e9fc193188d5b35cedf3bd3f9edec8209e1f",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "b32d63d53270ebe681e699bcfb0d83cd7c7ad2cd3e08f3b962ada769d4ad8eb9",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "9f186cedd8b7137b098750983b9420dc1216a78352f7042160a4220a0960de5c",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "6d6fd1178d24865201c732ce2fdbf41000b66fe71504320d89126fafa7ee1774",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "0d1da832b7546a406577d3e23bbec1a23ad3ca42e2f20f8bf5bf4b0d0611741f",
+      "text": "Understanding Questions: Low vs High Fidelity",
+      "hash": "1c163cb94b72b1403412557421cebe9dce602c1d5d4194bbdbd1fb2a4e9fc84f"
+    },
+    {
+      "id": "54c6c1d36feba8e2079fdb1a1408d115d84d8c4682ac4ef30f9aced0d099ca50",
+      "text": "Choosing the Right Scope",
+      "hash": "edbd0c887f976312549c2a1ec0a2629f0260b9d1db189f07f5a6d2f10a337e04"
+    },
+    {
+      "id": "bf24c070ec1ac606dba6cc8d6b8960a3f8ba556a4a8ea1eb3150ea07288a6e8d",
+      "text": "Being Active, Not Passive",
+      "hash": "ae5dedaa7bf440ebe61aef109531007aad1b696b6cb0c2f806d4f25fdac5f627"
+    },
+    {
+      "id": "ec04c542f21bd8e82413328634eca4fc7a81d5ceb3f66563bf771cb035980cf0",
+      "text": "Preserving Your Design Decisions",
+      "hash": "c5571d42cd908bba1b74a13f04934531173cac4d517374ab10a4a7a5c372814b"
+    },
+    {
+      "id": "658ba99b956da93cd7b69b462549035c7ec53eadc0d8d99901f16224c3c68576",
+      "text": "Using Smart Models for Grilling",
+      "hash": "6c044928730c625a278029ca28b6586907f748a74eb899a633379944855397c6"
+    },
+    {
+      "id": "e5fb61245202ea77bc71283b0a39fbf975348ff6155d6a2924910c71882f4dd5",
+      "text": "Running Parallel Grilling Sessions",
+      "hash": "8b791ceabb3fef42cae9cf4945a8af49442a1336a15b7120e5cc084dcc06495d"
+    },
+    {
+      "id": "38b45051b742cbc07a88a81d817f3b436a0b69cb48f5cddd4b1dbc2f07fffff3",
+      "text": "Key Takeaways",
+      "hash": "cc3f7f0f4513969e418b56fb93ec0876fd96dd6498395b04301f70dbddff8a45"
+    },
+    {
+      "id": "bf939885a840686a46797f9e77c84a4241ed51344308759e0480af37fc941f82",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "a1af6a526ecf329cbdb7a33f720e64f27e0652e2e9c13230afe7b9813fc5087d",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "79a84a4841296d50ca26a7f7dbdd67b8af1890cca5a68ffdc1ba678837936096",
+      "text": "skill has become a popular replacement for",
+      "hash": "e5389bcfacd839b60ba6e8c25753bbb1bb7815d4eb399381bccd52a589550f14"
+    },
+    {
+      "id": "fd4a0b1c87bcdde2f56382cfc0daf4ce8cfae0fe0c30b7bdc50cf63ec50b8b71",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "fb55618890232d384b25b586bd4833a99bd0fb6a1e6d55c012d1f24d91dbf5cc",
+      "text": "in agent workflows. However, many people struggle with using it effectively. The skill works by asking you relentless questions until you reach a shared understanding, but",
+      "hash": "b81f1dfdcd42d6ff0a24e04e545b4f6887ba400f3ba28f7c79a3b46db99dc5f0"
+    },
+    {
+      "id": "cc9eb6d361dde1906194cc8dd2b751ee54aaf346e3477caaa26c1147092ac78f",
+      "text": "this requires good planning skills on your part",
+      "hash": "b09b63c16746be407305c9577f97a37e1058c560d6e5c40b27365d08dbc650ba"
+    },
+    {
+      "id": "bad71da7c1613365e2c3a6a30410e65a5c5f478e16ef59963122abd7675bf8e6",
+      "text": "These skills aren't meant to replace engineers - they're designed to aid you. The goal of this guide is to help you master them by understanding the nine most common failure modes.",
+      "hash": "937ed06cd8ed5179dbd33e175ab3615af923a708844bb25ab50980e2a2982a15"
+    },
+    {
+      "id": "a3e3a8bb86f5ab4e1d59f1db9909959371655c2db7893615288834300157a10a",
+      "text": "When you enter a",
+      "hash": "3528c6bfc18c0615425089a3c1c066e5dfb1b2499e23cccb3c93d3367e11fbe8"
+    },
+    {
+      "id": "02795e9563d0b9aa58a92ae85199778210c3ad5b4eaa958001419166373c7db3",
+      "text": "session, your goal is to answer questions about the thing you're going to build. But not all questions are equal.",
+      "hash": "b08076d42b6e81f925df69dd2d1e2aeb7461713e5219270d2bf9474dc079e5b7"
+    },
+    {
+      "id": "978d57c0eba90faac7dd661a3119dfe23891fdd47aa67fc150821936d1b7bb71",
+      "text": "Question Type",
+      "hash": "cb38ff91243be92f7cafae21e39d3ab3c6ea99565ef635e715184cc1a247194b"
+    },
+    {
+      "id": "4d721ab2382116fc9e2a395e738cee3bd538fbdcc00a6393e3b5df9fe155d933",
+      "text": "Definition",
+      "hash": "9813fafb098c218090536790280a91ee70062a8490eb3615395ee731cdd40023"
+    },
+    {
+      "id": "a62033fc82b52a4405cceb779b4771da64061a6f70646b5253bc9e1cd9d4e0d5",
+      "text": "Example",
+      "hash": "d029f87e3d80f8fd9b1be67c7426b4cc1ff47b4a9d0a8461c826a59d8c5eb6cd"
+    },
+    {
+      "id": "0a2ebfba6c31a0fcefcca100dcd0ebfbf84d47431240a8e77888e0600bacf2e3",
+      "text": "Grillable?",
+      "hash": "2714ca55ffb8ae181e3677bdb4206aa020cf938eb840e6e0021aa884d10c3045"
+    },
+    {
+      "id": "87d219226d04ea5e847528bdc7126bd7b996a6359865f1b632f00ff8d812d35f",
+      "text": "Low Fidelity",
+      "hash": "3b99b74aece916618c290dfe8d1b26c516e5bc0679bc56523ef6cbcdd8692c29"
+    },
+    {
+      "id": "fd5bdfbc97f4038327ede829860398f76df056881c94016e3492dc8e3005c7e6",
+      "text": "Questions that don't require detailed prototypes or images to answer",
+      "hash": "735ac88c6931a7895cb9791d8bb2583c048bcec781c433ba7c487df65cf23d60"
+    },
+    {
+      "id": "e318755640ef884e538df27f7190ceba51e6a32704eabd190860b63a5e2a4fbc",
+      "text": "\"What URL should this route live on?\"",
+      "hash": "c22e4cd51ae26d53eeed910ca6eba78138559134b1066b12ffb8765c44eae937"
+    },
+    {
+      "id": "f101fd3cb032e05eb74ed9a615b10cc88430ff18d6847b6562c53b30e134be4d",
+      "text": "✓ Yes",
+      "hash": "8512ccdb9c95e5f466647d9f583a1a653e94680e3d4de4c4e3e19830ee3b1a3b"
+    },
+    {
+      "id": "de1f73505911e23da6aee5d032191926acfc35d9a721fdcf8b3439f7eb40c086",
+      "text": "High Fidelity",
+      "hash": "fc7ec8e28b762956718f3d5fd51e3feb7efe750ac3f20213b1c7568e322d347c"
+    },
+    {
+      "id": "f12a4587db66685e470c21b3e9219656affbace956130534ae216a2fb97242e3",
+      "text": "Questions that need zoomed-in, detailed images or prototypes to answer",
+      "hash": "5133497bdf053d44ed48ba51658cb9ca12ff227d47361abe4d5f14f9a53f6202"
+    },
+    {
+      "id": "4b7e1027794ed1f67bf7e838469b507cf151f0d2fbb76f0a4e583af98b726ff7",
+      "text": "\"How should this UI feel when we're using it?\"",
+      "hash": "575955f8f05ab8baf005950bbe92b5efb5b200c2034eeafec796c510a3dc94e2"
+    },
+    {
+      "id": "87bd53ac99f3cbc2dd0a9cf88280ea5e0cc975026211f63e2df5ab21747066bb",
+      "text": "✗ No",
+      "hash": "aa298d9e24137213cf6e9ecbfc605f2a344407397f6856116c358b8fb82b7676"
+    },
+    {
+      "id": "178233f79b6be49f416f4cb0462bfdf0f5dbd572c72eb8b303b924fb5e55ae5e",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "16c69e5d5ff3b32a53fb68d68384cf3b085fdef3f8c02452bcbe6e64dc7b9a2d",
+      "text": "Form field layout is a good example of a high-fidelity question. Should you split form fields across multiple pages, or use one enormous form? You really need to see a prototype or build the whole thing to answer that properly.",
+      "hash": "2e46154d0d6ced1779748711f4483a71f5555a846852eb19e3e1f882319110a2"
+    },
+    {
+      "id": "a57bec0d2b2e212087290db30a2d9debb67172068b03444c1db3e503c29526ab",
+      "text": "Handling Ungrillable Questions",
+      "hash": "2899b07bde755fef9d8186a6274d3c40f38c9950c2c8f0e133e2f0073569455c"
+    },
+    {
+      "id": "68b0b4701689021fb0df07ed31814c39863f745a6762e6bb7bef1686ab2d46c4",
+      "text": "The first major failure mode is trying to answer high-fidelity questions during a grilling session.",
+      "hash": "3818b9529c09345e031a4d0e018a99c32c5b9d49e16840c8bc5569a09b6e2fda"
+    },
+    {
+      "id": "ed58e2272ada24ce99f15d84199d7aae4764a2896bae156dae702e98884a05f5",
+      "text": "When you hit an ungrillable question, something that needs higher fidelity to understand, use the",
+      "hash": "98c6412c19cbaa42e9a136b097e7937a89501161b5dc32dad0588669cad08c31"
+    },
+    {
+      "id": "df8aad285147b4590dd2e49117ca5e7d8383b86e860d17b5b7e0c08946e161cf",
+      "text": "pattern:",
+      "hash": "ecd3cf508c59988b5ca100aa7f35775d2692a6766f507e587b9d1f3015453ee1"
+    },
+    {
+      "id": "28f794cedf173cf27959ded90d3b4ac0de2fe3640a66ae3e5322522ff35e262d",
+      "text": "Continue grilling low-fidelity questions in your first session (the blue session)",
+      "hash": "ea1c73b6bda034fdaca52f4eafdc174170d52fb0347ba5d559b5a21d9a1e16f8"
+    },
+    {
+      "id": "13dbd80cbb93c00d56a5b55b5cf19a61c36368e335d7ee1131253cd4b5864153",
+      "text": "When you hit a high-fidelity question, hand off to a prototyping session",
+      "hash": "62ab76a35236cd973bbe1bb94f06b914b10e68941d7a235cd281d38c08e49d70"
+    },
+    {
+      "id": "7837beb6d823e7d472e81d8ef66d04a7409689642f07f07d34061ce438754c11",
+      "text": "Build or prototype in that separate session to understand the question better",
+      "hash": "bb35187770a1c1da98e587f0e71410730732e68d07da487fac138f34d8b9b213"
+    },
+    {
+      "id": "809d6b36070b9bb2be32307f9fa8fd27390960d3432cbf6db77cb8dff8c89822",
+      "text": "Hand back off to your original grilling session to continue with grillable questions",
+      "hash": "cf7ebbee9650eb0e602f03323b593db2532dd5d4f6b276be7b1408f375a902fb"
+    },
+    {
+      "id": "27ef4d44532a8bfbb6cdf2e9c363f39b5a348511e13b4f3d2c0bb70f56f53ab4",
+      "text": "This pattern looks like:",
+      "hash": "decf2b37a840817ebade022ae499d6f1ede2a4157afbc50eea47ac50274b7335"
+    },
+    {
+      "id": "b632904d9ba465ab6a99b8f18b26ead6730980159e7522c851de0b81aa7c437a",
+      "text": "grill → prototype → grill again",
+      "hash": "9973e63753eb5e5025f92bf220ed088e96037029cb0f729f4da4cfbbacadbe2f"
+    },
+    {
+      "id": "5e02889b39b80f09c32c74a9814936eb3de69dbc28be3596749842507185d57f",
+      "text": ". It lets you answer high-fidelity questions without breaking your grilling flow.",
+      "hash": "836d00bce54ae3aa0c14a2c1acdf081574d8f3a2ce90befb372aaf1c9ebfcfd4"
+    },
+    {
+      "id": "09f60b207d11d18cc75c65f5665b74d0631d2d8cee88e1c67b489552f65db1f9",
+      "text": "Scope, how large a thing you're grilling, is absolutely critical.",
+      "hash": "62bdbdc4bd7f6b9b8a26c351f960539065dc09e5b2bc172cc94b9920183bc20c"
+    },
+    {
+      "id": "e442832559188421935b009881b61c187d77565a05cbe5c8d00f31bda9f01ebe",
+      "text": "If your scope is too large, two problems emerge:",
+      "hash": "c3e4b31d09ed04c47c9b3c14f2a477d2b1ae8377cafe85da5a4aa0dc979c7a9d"
+    },
+    {
+      "id": "e001073db21b9ad74788504f511cd49d3077069582b746232a2d182964e8c9e5",
+      "text": "Problem 1: Hidden high-fidelity questions",
+      "hash": "cf5fa546a2e1e796758a9c2cb92c2fe585f01308ed24befd0ee0fc3474b077c9"
+    },
+    {
+      "id": "840253abf3bf3ec4315c743c24049afdc9e6f5ca502232d1fc783729e1ac4bc0",
+      "text": "It's always easier to build off something you know works rather than endlessly planning into the future. When people try to schedule days of tasks for their AI to work on, they often end up with poor results because they're not building on a solid foundation they understand.",
+      "hash": "abe8e4eb433d37531198ac7d3d9465e46f24a29ef8830bb5f0daf476eb230740"
+    },
+    {
+      "id": "e7dfb410bcdfaa77d8b8570fbf7bc0947f22877630ac9784fb2fcb381b22e888",
+      "text": "Problem 2: Context window limits",
+      "hash": "146cf576fb897c6c81dbcbdb3ecd794dc6997d09ec026844c428e7296a74ed27"
+    },
+    {
+      "id": "43d2e6dc64998f736e96ebb8992d2292232c3eff7e0cf655f5641da69608835e",
+      "text": "You might start with a nearly empty",
+      "hash": "4cef604b6f6f16f085284932d960276e14f25c43fad34159400286cec03d48ac"
+    },
+    {
+      "id": "337a17d5130695b70a3ceb140c037f82477ecfb7d5b019dacce4c3c2d1a17551",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "bfab294952a2fb206089eae890394c47d94383291ac0dfd8966053911731e73b",
+      "text": ", but as you keep grilling and grilling, you'll hit the model's \"dumb zone\" - around 120k tokens for most state-of-the-art models. Once you pass this threshold, the model's attention relationships get strained and it starts making worse decisions.",
+      "hash": "5a6ff5de8a0e1ba269d5726877c94a00a979d917fc52e40d5e76433569128b96"
+    },
+    {
+      "id": "916d915ffd03901b32ef6f2b30549eebfe9b8aec21413d9e07e7716da27dd92c",
+      "text": "Breaking Down Large Scopes",
+      "hash": "2174c680239697a53355f6f9858b9e13c1bd1ec8964db3e26fc558651ec079ba"
+    },
+    {
+      "id": "4f0dbd5ddb26dc4c23eb674fde65f6b55ddb02a7f3f5cebdebc0272dfd68aaa7",
+      "text": "Instead of grilling on one massive scope, ask the agent upfront to break it down:",
+      "hash": "01df6447fb05ddae6cf0a6e03e3ff6b2a414d552e30e1b7ae63f6edbb1b3dcbb"
+    },
+    {
+      "id": "34705d4dfc253727b552180e6419ce70918c08ae650fff865094bc18c59b1c4b",
+      "text": "Start with a large scope",
+      "hash": "0a40d82df7279a94390899f8a3624605426059b93bdd4b90a130aa676d11b2f3"
+    },
+    {
+      "id": "e80519f8ab68a19dffb8c1f91777276a87b0744c144a8fb99f7efdcee8ef7075",
+      "text": "Have the agent break it into smaller, grillable chunks",
+      "hash": "e2d489a1ece998110c94503ae771db35f439044138c51d0cb140d8d4b4012de1"
+    },
+    {
+      "id": "4df6adbe325a7985ef4e6010fcfa8ec5b0fb00e30b5b4eadd0d6e4c62d0a2ee4",
+      "text": "Grill on each smaller scope individually",
+      "hash": "913d282b60a598b4bc6849306ecc3729a572211dd8d51af798e8209389f9a6f3"
+    },
+    {
+      "id": "e7993a01e2bc56ab819170877c14bbebed8d03fcb6918b9c5d1fb2eb23481f4b",
+      "text": "Answer all the questions across those separate sessions",
+      "hash": "dfdbb9324b211d3c78f46d4f9ad3d8a14c456aaf83663a29a0605eeba5c76fae"
+    },
+    {
+      "id": "fe598eb0c21bfdb2726147e29e5436a4361d0be18343e30b79652fec7b5276d9",
+      "text": "This keeps you comfortably within the \"smart zone\" and avoids hitting the context window wall mid-session.",
+      "hash": "5abacb10c7fa8a269bf1517cc1c9a7a8472cc2fccd4151f70249d7c35cb15a10"
+    },
+    {
+      "id": "209593cf3e22b44c13ad050618e91ae36091e98b74816db8eb259f7e580bac29",
+      "text": "Many long grilling sessions fail because people are too passive with their agent. Remember:",
+      "hash": "dc45ac05f70728a907acb651b3a38ce763e44e20b8eb0630f01cea5af0b409a2"
+    },
+    {
+      "id": "12e1b62969e7abdfca128ec08473cb2663141ebe151b842683125761eaa7638d",
+      "text": "it's a conversation, not an interview",
+      "hash": "b1947bbc8492b962cef490e7c2ebe8469a439821ef58393ccc3f5b202cebd5a9"
+    },
+    {
+      "id": "86d79a567e6107e375908dfd19137e5d9f8383dad7c40864d0f9594436e44fcd",
+      "text": "The agent asks questions, but",
+      "hash": "b51eda5de7f06dd6624c4743ba6af50321ca72f5415a39b0cf467ddbc6371b5e"
+    },
+    {
+      "id": "33fd63df19b12c455415d36598dd8e4dba433361f3957741f31db600eeb6ff72",
+      "text": "need to:",
+      "hash": "2846d174fa3f627535fcd66698ba9e91c8a3c00dda5822ab7bae831717d8d3d3"
+    },
+    {
+      "id": "c44a80c78181bc10377d26cca73c75d3c7b0624078e67d9f3408b20de6795acb",
+      "text": "Figure out where you're going",
+      "hash": "4b170684caf04b3fba9f30cbb4b9c3910eba202599d490dd7e4bc901f6d76366"
+    },
+    {
+      "id": "33fd0dd4824b487682b60b0378f911760b1f1e9a5d9cc483db5c63fb28fe6820",
+      "text": "Understand the scope",
+      "hash": "6a3f811b895acb214cf7afe5d5ce3f1263631d86d015cf50ec4c32235318cf21"
+    },
+    {
+      "id": "3ce3952f20f0553827f253b59ad7682a95a279e77638a63f25baa23425c48eb2",
+      "text": "Keep things on track",
+      "hash": "5db17e01f87c136868f12287ad5046aadc9f75aa94a1b739f4a233327989241b"
+    },
+    {
+      "id": "f87deef11ec9e3ec238001983b84a1db1698d1c9c1d887084f2dd8c7b8e0e992",
+      "text": "Steer the conversation actively",
+      "hash": "3828cfad8345633017f7bd8028f3e22dd1da38159ed42a400497d041dc1160fa"
+    },
+    {
+      "id": "44b00e4d9a03a480dbd396979a7087bc90e4e0fe4a7c6064742dc9f6806d4c9f",
+      "text": "If you're too passive, the agent will bombard you with 540 questions and explode the scope with requests about things that are way too low-fidelity.",
+      "hash": "129a7ffd274b5fd78d227906deaa360910ba3a3750eda727dd426ab32377ed6e"
+    },
+    {
+      "id": "00450719c0a3fcefe25234b69ed0f9aac305aea6cc716e8991114353ab0d6923",
+      "text": "But there's a balance. Being too active means grilling endlessly on low-fidelity details when you should actually be writing code. If you're just planning and planning without building, you're over-grilling.",
+      "hash": "e4cf666ef59ce8e0b9c2d3f5eef7db029da3ee1abd3bf6c37453b23ae2b999c2"
+    },
+    {
+      "id": "5b20fb9c1ed08a74d58bf12398ac8c6bb7cbac15cac6abdb207588014f0bbfa5",
+      "text": "Find the middle ground",
+      "hash": "e02f3f0e0b23efe1e6c902d905e55e62207a59e5f33a031455d05efe20a0567c"
+    },
+    {
+      "id": "c5f58d35e1d3ec7a1463107c630e9d1e564bdcf56f086948bf727d82943e839d",
+      "text": ": Be actively involved in steering the session while knowing when to stop planning and start implementing.",
+      "hash": "d260fa35e26c8eddba8e269345a6f9bf873b4a8982f487e78ea0cc7175fb0b13"
+    },
+    {
+      "id": "b8860bf5bdc36e260a35ae6fd2ab02bf14b00a4ebd5e26773b5e17bc74a92d5d",
+      "text": "This is a critical but often overlooked failure mode. When you grill, you create an incredibly valuable artifact:",
+      "hash": "d02c52b0fa83c7ac3e01a426b498bfd0bda5576123a223f70f8214f136974672"
+    },
+    {
+      "id": "771aa168659aa678da38fba7def60a0ab22cc382d97c9bf500f761a0247a4782",
+      "text": "a context window full of design decisions",
+      "hash": "b610d05f42dcd1185827db31c1e384f173e4ced339590cb84f4f2cdd8f9e12f7"
+    },
+    {
+      "id": "19930704f069d87939fda0e815c4a364a7bfd3c735f4b86b9788238e80208722",
+      "text": "By the time you finish grilling, you've made hundreds of tokens worth of choices about how your system should work. This is pure gold.",
+      "hash": "6e7aa07ce85bafaca81073f61722eb137c7d1a4de4d58acffced3d7c635c3067"
+    },
+    {
+      "id": "d02ac33e8b9b128144328c68b404f3d7612c3f85b271e501fc4b90883222b1e0",
+      "text": "Your options:",
+      "hash": "db6c09b99cdeeb7a83b51662343847f0b622ef5f94cd95bc85d7d962cc03aaa8"
+    },
+    {
+      "id": "a266c23513f9c6a047c06c4d70f25707cf81b1a2ee97589a8e63ab3190bb12f5",
+      "text": "If you have context budget left",
+      "hash": "9418e602197c8f0072829263d3128a881a66bcf400a07720d90883e3247fc7d4"
+    },
+    {
+      "id": "58fdafd1a635744925d8d8e64c51c2cac6389af90731bc3a98f172519cfe23dc",
+      "text": ": Implement directly in the same session without handing off",
+      "hash": "81a2847cfc87a746902189a7bfbf89f9e580f397eddfef367f4c55107f80fd54"
+    },
+    {
+      "id": "b627198e979b8bf44c580eb19c70580eabe7291445c582cd350b0b25b9319671",
+      "text": "If you're running out of context",
+      "hash": "2fcb5dcbc5e84bd4cc6831f30316d21c41e3fcb94341c9fb9142d941ee1c88f5"
+    },
+    {
+      "id": "62822e2e7aad73a1a3da32b588c36b337fe8c75b764fa3572345148aadcce394",
+      "text": ": Create a PRD (product requirements document) using the",
+      "hash": "330fc1ca3713c79ef455f1dfd5c02a182947c161ee1034de66480ad45f60efba"
+    },
+    {
+      "id": "543790af5c13e79ac47f5397f6817860345e24f04c27ff373e1b818827f9288a",
+      "text": "skill as a handoff artifact",
+      "hash": "1526cec75800618c586efc8e94ae4a22e0e5d30c347727dfb18fec476b0b1306"
+    },
+    {
+      "id": "82f1d5a6b9faf3a6be6d9d072980c32e86012527a2a30d82efa00f66263ed4da",
+      "text": "Do not",
+      "hash": "3ed6722b3d1c6efbf987143e0253dc881bd1c5f45f8b3ebc57bc660324740332"
+    },
+    {
+      "id": "1807cad93dd273c38ad392c3253dd3788647404cd899c88e6c101896e61cb0d8",
+      "text": "clear the context and start fresh just to write a PRD. That's throwing away all your design work. Every decision in that grilling session has value and should either become code or be documented in a handoff artifact.",
+      "hash": "17ddbe98d11ed69c036c9d65149bce975bb2fa01c54d1561b0d5b32e9ad442e7"
+    },
+    {
+      "id": "bbbcedc39df24c2ffaa965e8aaef92af0647e4c4a6e168c1a0a78723b93ba9b8",
+      "text": "Using a \"dumb\" model for grilling is a common mistake. Here's why it matters:",
+      "hash": "364fc8c266e9e0a74a206d5517b1857b39a9b4350c33c3fcf51233242c448249"
+    },
+    {
+      "id": "841537581b6c432d16c266152b28112160acef7bab8ab10ff2e71473e264287d",
+      "text": "When you grill, you rely on two sources of knowledge:",
+      "hash": "b3479cc3f4e5e212b858a7efdca67bd3af8856ec52dd31adeee195799ba1bea0"
+    },
+    {
+      "id": "7aca97dcebd63c3be9f3d7f3edaf250f572bfb9e0912a014f7652c6d00ad6e95",
+      "text": "Knowledge Type",
+      "hash": "3bc21a91be45c4f90fd25c3c2ef8f8d11278341d083224805d078956b6283f6a"
+    },
+    {
+      "id": "8969aff8d0ec930dc0d0f17e452934d9a1d693dae1e2269cdf539ebacb43891c",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "1f5086821a019e01fc95c06c7f9da89d11e45e9489f07110d347787eafcf3462",
+      "text": "Reliability",
+      "hash": "71d0acd46556424657f3866a5dc46d45d66b0849904e0a66d712764f95fa16bb"
+    },
+    {
+      "id": "7a12e1a543e6d6113b225c07f57025ac0cb534c09f4b8bcb12b9e5cd8ff74057",
+      "text": "When It Matters",
+      "hash": "f8bb16646870586addb9c124dd4878a634bd681db3e5470d24f23b457f3d8aec"
+    },
+    {
+      "id": "5f28df642cd63411b3d40f00aa277b96729546b196ead28e5bbceed02c1c5586",
+      "text": "Contextual",
+      "hash": "ac86bbd25a3482cd543674bf639a29ce2d55c083329c9ec6872f610eab32c001"
+    },
+    {
+      "id": "647989f4cd90eacf6ffa7fbb152737b4c34db0e0f7e7396f41a7db645ff19401",
+      "text": "Files you pass, prompts, tool results",
+      "hash": "fc33b8f5c203a1bfe3977c51e5b599d220a0ed27764dd3970b9228de982f6982"
+    },
+    {
+      "id": "a963fda4b2fb6f3f50443f587fd40b52a2e8facd07269bdb03eb02bb362728a0",
+      "text": "Very reliable",
+      "hash": "3d17f3942c1ecd23211d842c095a66c36ed5c2effbee458dafefed8386b8763c"
+    },
+    {
+      "id": "1aee5e482591a7c952e115253bc3afb658aed4d5138f5e0416d01af83c5e3a1f",
+      "text": "Implementation phase",
+      "hash": "938f610411b5e769a77992bb69634b7d9aa1dca4e4ddc56fd5fe0d3d1f122d52"
+    },
+    {
+      "id": "fcba94c274ecde05321f980fc55062454dd723b86eb45e57448b90665ab7daab",
+      "text": "Parametric",
+      "hash": "b25e8ee1fffd5eb0ae5d14f838516fdb718bc2cca30e15a8113389925b9612da"
+    },
+    {
+      "id": "bab1db8c75fe9dff4a780d6ed9e25a10aab66bb3b58cf06a0c7e418d9e952a53",
+      "text": "The model's training data and parameters",
+      "hash": "ab7587e867404780359e4c407d3a1813577152529e51dccbc5b55bc304002e59"
+    },
+    {
+      "id": "78a1240a4b5c9eb979ca8ebd4a51916ad83ba7ec563899243a9ea2a56fc1ba63",
+      "text": "Less reliable, but creative",
+      "hash": "13252cf43bd458778e998e13662be41a3356633cc753c69c2489b8c2c891cbe3"
+    },
+    {
+      "id": "e8d5b24b8009349e610f90e07ac03fe0ec29a1afba1d0efc16d344748d5f77e4",
+      "text": "Grilling phase",
+      "hash": "a0a72243cc6213dce251319fc07aa2ad6a4ae60f0efc60fe25be1a3722bd64b2"
+    },
+    {
+      "id": "b5a01a5dba4b18ad7b3f06e6e86a7e64d86c51a8d11c525fc09586d9c343776b",
+      "text": "During grilling, you're relying on the model's",
+      "hash": "3c51d20cc969cd23a0f8c1cfd603c55fb3831c30997659baeef6bf9c84da6010"
+    },
+    {
+      "id": "e06d49c86b103415f96c5651c02e56231cea38fc3bfdb911ea2b9aa216dde94b",
+      "text": "parametric knowledge",
+      "hash": "af45e8f3199438ecb8e32a5842d362c9e1486e34f1b2d9374b547824e0ceb837"
+    },
+    {
+      "id": "a7464584824e45306468e472c2234ba324b69e1160a6354e7e1df0c075c72204",
+      "text": "- its innate understanding of systems and applications to suggest things you might not have considered. If you had thought of them, you would have passed them in as context.",
+      "hash": "1ace5a57c0e07d9ae38de571fea0e218a701c6fab0d8de1c4e7d94b4cfc33cef"
+    },
+    {
+      "id": "30af75aba879b61e93df7123b2486551ccfea97f9184383d256111474748eb44",
+      "text": "A dumb model won't give you good ideas.",
+      "hash": "0495cd9a6bf7972afa2a4e940e4e6f1f69a17f145657e1a5d37727c05d86f6c0"
+    },
+    {
+      "id": "2f7eb3c664e3e5114a039fd94b061fd3c9a5d2a9491b14338070ab5996d5db45",
+      "text": "You need a model with lots of parameters - usually the big frontier models - to get creative suggestions and thought-provoking questions.",
+      "hash": "136caad57705c00402123f5ae130cecd6ee7c6dbc15dfda9b614fa56d20f68b5"
+    },
+    {
+      "id": "5a12d6c2982f6d9e3cc262162d6421ad87d0769521ee252f6cbf63a901b7207d",
+      "text": "However, for implementation, you can use a smaller model since most information there is contextual (your detailed plan, the codebase, etc.).",
+      "hash": "c7c9016cd1900cc7f6effe603a17ef647e433535f81b024a45c67deb93089740"
+    },
+    {
+      "id": "6f0e78f14789d6ad639745ad1a5c4fb9d8e1a9e3cf15f13a5171e5ce4518006d",
+      "text": "Finally, one simple but powerful technique:",
+      "hash": "d721e654e37eb1957f3cf5aede14d1664978a9c43be8092ecc2fd863f46ca3ed"
+    },
+    {
+      "id": "605abe0821abe58f096c39f5de862d95508cb9ca621cc79a4d47a9f34609acdb",
+      "text": "grill multiple sessions in parallel",
+      "hash": "e1bc07c38220dbfe4444a797ab8e7730bd24583a432bf261bfac8557b4f59dad"
+    },
+    {
+      "id": "8f588bb274d3dcdcfb343ff35ddee6e3d83e798bef989e37d544a2f18410c83a",
+      "text": "Here's how it works:",
+      "hash": "2fc3e378d1da30c3f453940b1286c6eaaa00afa290e159ccbef7af8788cfe3ba"
+    },
+    {
+      "id": "fd0913e0be9b5c1b4ca5e2b26abe1d04ad582e3d85bb0d04d4d98cbc4c2391b7",
+      "text": "You're grilling in session A",
+      "hash": "607d7fff7d6fd2ac2606dea4a2d37c3212426fbf5944baede8f9f10851a6f8e3"
+    },
+    {
+      "id": "311430941a71a752db9f5dde92e8a38ae53152b1a3c0b35639140fe015861d84",
+      "text": "The agent asks you a question",
+      "hash": "ade4fc24a2c36b7f8eb3aa1dd5cd77a934e3a1e099d85f013ae431e63200f4a6"
+    },
+    {
+      "id": "307d458a90c3ff66d05f04669fa04597b4ff5317307f3c9adf63b3144fe3a37d",
+      "text": "You answer it",
+      "hash": "fce64e9bf0b8c078b8c07459a92330c81ed9528d18ca1fbd3fa5f407a149ad9a"
+    },
+    {
+      "id": "6b40db8919b626b0739fa6199a1c6b8026964c1f7aecc2fc289c067ccedf4896",
+      "text": "While the agent is thinking, switch to session B",
+      "hash": "35f0086ce1e4849e7a6ebf3673ef28430d3d6f066170ece37d3d932ed5be116e"
+    },
+    {
+      "id": "39ae52eaaebef7bd1569c05bf6e18aa5274474a5ab09bd8cc2cf3a6da2d5866e",
+      "text": "Answer the question there",
+      "hash": "abc943f95431071c91eb2a82134827913b33e00fd121811c02b0fceddc3d1c59"
+    },
+    {
+      "id": "07dc8553ad265aec86c4f7b078a5d5dcaa73c49266e89e615a88bbef76a447ae",
+      "text": "Session A is ready; switch back",
+      "hash": "11e343eb1ec5fb81185802c8977c96de19bf578d8ab33d1d3669b707d683fbcb"
+    },
+    {
+      "id": "a32ecbf6146e291a40b36cce37d8fbfb94e13d6f3f9b30ea15bd7452908a5fe4",
+      "text": "Repeat",
+      "hash": "b6b7a0065808a62e7d5781b356c5ddba4e000433c34b5d561d200158a4443eb1"
+    },
+    {
+      "id": "d8d8ade18f5bbd9e32b586445fecc578b71ccb40676c24817343108ff0416ca2",
+      "text": "This is just like managing two Slack threads at once. You're not actually context-switching heavily - you're managing separate conversations.",
+      "hash": "e778665b5535f6243b8e575e037b7bb8f81d5558f2c1ceec9ea1de656b2acf82"
+    },
+    {
+      "id": "bec0aa2896137bd1990e63474e0b90637a07ef21e3468d503463977c0f549e5e",
+      "text": "Benefits:",
+      "hash": "e13f018c0a9f7e5011b6c79ab6215057d199598ec541b240e087d1e1c9b1acfb"
+    },
+    {
+      "id": "89f20aad1376d8a1ca254ae834f6e0acc272a1655f5b474b3c5e1d44b4a8a756",
+      "text": "You double your throughput",
+      "hash": "15b1b481324be72e81f679b4574c42966d0dd25ed7299bb76731892919efe8b1"
+    },
+    {
+      "id": "bfb87e01fd7b2eebb0cd1f2751dbd951254646607b40063d0ae8665e4baae026",
+      "text": "You get more planning done in less time",
+      "hash": "3c4973fd0121bf1dc5c0091e4f5c48a7f51da53dc0b45fa2cbc4327e7525e5a2"
+    },
+    {
+      "id": "7cbcd04bd9effbcbca0fe83e81774ec394c8f6b68aaf89b74081a3e9ccfc6c10",
+      "text": "You can keep multiple design decisions flowing",
+      "hash": "ec4ab26f3e4043e8418b2c53a57cbfebf1c7c6707d096f4b2f51b1ffaf4106ee"
+    },
+    {
+      "id": "fbb05e48e96647e2e265161e853823598d012002eabf3b9b0fed191f4a2fcfed",
+      "text": "Most people max out at two sessions comfortably. If one session is doing a long-running task like research, you might handle three. As you get better at grilling, you can increase parallelism.",
+      "hash": "3cd3fda62dd52e97dab1bbe7e606506349f1839407203351aae2cb072330e129"
+    },
+    {
+      "id": "800fb7ebedfb88c15b0e30901f43118e6748d65d8cd4660930603b0de83928e1",
+      "text": "New to the grilling workflow? Start with",
+      "hash": "b7ea3509bcfd87be77c792cff48d40118886d03aeb0b7214c5a14faa325298b1"
+    },
+    {
+      "id": "8f47f0e95ad33b1c301900a22df7afb3c7f0897e3f6c4575ea4a6810ec4e29fc",
+      "text": "— align on the docs before you build.",
+      "hash": "84483f61995d5b0927c43fe90440c63f652d0854dc344c825c9f968d613a749a"
+    },
+    {
+      "id": "b9d909de51ef8be07ab665755442d975f8ac68e421c7ca57a5cd1df2b929c5f8",
+      "text": "Grilling is about questions.",
+      "hash": "6334fd6bd14e12d30ce36b74585b3634961080cb8087bbe1a14c2f67c64d4a75"
+    },
+    {
+      "id": "bf00e887ad968cd9aa0e6aca4607d558adfe335e7e875fb37b30f75494ed1d67",
+      "text": "Low-fidelity questions are grillable; high-fidelity ones require prototyping",
+      "hash": "e512eb5c44a444b6fda6e69cc07a2bca63971dd265757a033d7ced443e79431f"
+    },
+    {
+      "id": "c727cdfb39198bec6425db86ed4bb7eedf7e73c1c9928ec5dbcd4f5703bff1ac",
+      "text": "Scope matters.",
+      "hash": "8cf86eac6bb2cb73377a3938fb119c3af0670676be96f6480e70115e4273f132"
+    },
+    {
+      "id": "22ed561dc6dfd871b34539031df2280e7cc13eb7a969c4aff4ccc3702e8fdea2",
+      "text": "Choose smaller scopes to avoid blowing through your context window",
+      "hash": "509215021a5895cd09d61e40151a3ca8f79712dc3dfd2aebb3c2ee7427293ff7"
+    },
+    {
+      "id": "ba421e5e7a4065cf037bcf669563c7eeb61aa869357088957c072b054b823487",
+      "text": "Be active.",
+      "hash": "3475ba6b9b9592e7b85316c0d2dab3b119d7887512883f7add20d2749bdb3ec6"
+    },
+    {
+      "id": "8a977dd8acd0f6f8a5b548d80dc68ea6d4176d740c9513c2f5035b43feca5f6c",
+      "text": "Guide the conversation while knowing when to stop planning and start coding",
+      "hash": "39b39c37c7a22ebda53886d2c05c7166d05ca1e8a55734907066eb067eea44fc"
+    },
+    {
+      "id": "cd888f6d42a58d9e2a88846a11a9c4da582421a667608e57545622c2daab7855",
+      "text": "Preserve value.",
+      "hash": "5f64040cfd20cca16f9339ca2e3b849f4dba18949d6cb27b356ea6c5c04097f5"
+    },
+    {
+      "id": "7afd30ca195e2f2a4df6830e6554ceaa811ee5fa15e34c1e528933859b90ba0c",
+      "text": "Every decision you make in grilling should be recorded somewhere",
+      "hash": "edc0486fdffd3b4ccf544c4c2c7cc2be3656c2a201e06a659ef45f1e766fcef1"
+    },
+    {
+      "id": "516999a19d8cc35fe12fc17af682331a5ffe7e9da436afbad6b3e6214dda1727",
+      "text": "Use smart models.",
+      "hash": "6fb5754c732c9bac8e7200b4867ab0de51f4ca71591a9732a8e41cc5a8662ccd"
+    },
+    {
+      "id": "49859c44daa91848989cc2a9def76d66e6dfb93df7274dc5e2a7e9f68ad7cf7f",
+      "text": "You need parametric knowledge to get creative suggestions",
+      "hash": "72e9a40efbfcb965a7623021750af179d88bcda392d66a087e18bd201a7373f8"
+    },
+    {
+      "id": "9b747b75883785449008727ea3a9826fcac31e5becbc4a069eb025b8a8aca92c",
+      "text": "Run in parallel.",
+      "hash": "45c160127e9ebd30d43cdce1e2de0dd8578fe8827cd28ebe02beae9849569c5e"
+    },
+    {
+      "id": "7b697cbaacc7b6e1bbc7e28b02639bfeeb034f23bfa15bb10da5d9bee74c5ad7",
+      "text": "Once you understand what each session does, flip between them efficiently",
+      "hash": "37c93228d6e1c54d5b140b82b69cb1df5b54ff53ec7c9be65104e00b928edf5e"
+    },
+    {
+      "id": "70a9791dd55e469a8f47375e1556f059304c46d47814ca9e97c46e64d56dd482",
+      "text": "The better you understand these failure modes, the more effectively you can use grilling sessions to design before you code.",
+      "hash": "496c7089e340c818f1e16250d488db2bf93f3ee92eb97ecbd2b59c0d48a20be4"
+    },
+    {
+      "id": "78dd422efefbf263041324092c5703fbcb2f61d75b3ec216a33ea49a711e7ab3",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "a6838e4be9af21dd2fb4d9f45b5b60a60500b4a307a9675090b17dd3e81a6e95",
+      "text": "If your grill keeps growing, the scope is too big.",
+      "hash": "f9f4633f67b6eda50f90430724060abdea3018d57db0e2389609dbefa2c4ff53"
+    },
+    {
+      "id": "e4f4d299e6e80cdf1d74d637ad0ef83c10d1b551f3b4cf7a0c46c3f7fa05d9a6",
+      "text": "One command installs all 22 skills. Seven free lessons draw the line between grilling, prototyping, handoff, and one scoped run. Answer each and move as fast as you like.",
+      "hash": "5cb0117e9e0ecb8cb3b6f67b5cb71e21c33d0fe582a85fdeb811e20264cabffc"
+    },
+    {
+      "id": "9449696aa4e3936fc7284f471e1095af5301f9a632c01815fc20cfd287cf25b1",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "2fef9de81807645ffb122e0e7b27ea3579153ed1d9369ec34eb7cac0d02dc341",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "090ef77d560a5eebc95082c6af4b54f5e137b5185f9d705a1ac04c9dabf63a59",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "5a502a0e730a3300d80e7a15cd00e9a69b32483cfdbbd96ba9a6e0e3a9ccb0c5",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "0fefc71085408dfbd089409e59d1cb42aca423abfdda3652841b65c84e8bb1a6",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "e647e187a7487f1f63c539d36a291c4fd288abeb01aea1dc1af6c390018bf20e",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "802a7c2a3c5d3c659f19fd381e7acb262eb84a975f5d8f1aa2a8a7b9ece5957b",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "d311197f4571d42b00a2e61674238f4c5ff0790bac10e57ae57bef9abcb3a0b2",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d2b7d683b5a2a9dda58b4837c103c3251aca89d4d3a13fa3a4e2a207cc1fc9ea",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "6bed4b61fb4b83c508fe9b944be101b4b165bc48e5fa59d25b51f5e28b0e5834",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "c78a9fcae3d12b9c3effbf1fb6573663830f58ac0271752435b4f35fe3dca58a",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "5aa5eb2866f2bc0183fb8a7f1f6e963386c7ab28b579c2f6d89e0bd08b9c4439",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "813e63f0372a971c9e9d67ae9f9c5322e53d5512cf4e89c716552bbfe69ac932",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b9a9c906b857adb263c677f0e3324d5c5403564d63cb430e0a7c1b3b0321b041",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "b88a1f17361157d41bd429a50737ac9df33f34552500d00a162222b3ddacbce2",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "6333c58f42448766e5a1628bf5341c0f4b1138487b7abd9f8fb1c34287cb011f",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "90f979b8d1ca607470899592a272665228f927bcf6cee702888e8690795ce15a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "ca26de124418701c17f9240be7f6d80d2a8229a34ffa36d6a6227a92b0e981b1",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "59484df07a2e95a60d1922366f8ff5193054ddc5f9813918d03c22f928b6cbc2",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "5b8cb770771902f4e8cbc6a8080f492f514d9d935d16404af571205ec917ae03",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "6c3a5f5dcff5bfe50faab986d264cef2e31a517abbec5031092c0febf192f284",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "9bfb3a05b0f6c0710ee1be59e5c09f5bfac86b3dfdeb5ea1d17c899b7d7883e7",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "1fe8963dbb6e36bbf4b0cd337598fce58075c9dc2a26c875d1453fe8fb862383",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "aa8a62b88ea5b4e02a2814f03a25c10baf388021fa775bd848b464bfde4bf4cd",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "4e1c04acb1087ce84ed7112d48e56a81483d2fb0d9d9d0c95db687971d7d8edd",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"14047rc4xdr6sk3\"",
+  "lastModified": null
+}

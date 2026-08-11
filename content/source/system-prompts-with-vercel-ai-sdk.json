@@ -1,0 +1,423 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/system-prompts-with-vercel-ai-sdk",
+  "pathname": "/system-prompts-with-vercel-ai-sdk",
+  "fetchedAt": "2026-08-11T06:28:23.363Z",
+  "title": "Adding System Prompts With Vercel's AI SDK",
+  "contentHash": "27d1adf0ea2faf08dd2b2d94a4e5b2df384fe87a679586e954fcdbf83a920e62",
+  "textHash": "53af0c24dd1e65b1628b2df1055c1ac59091ecdfb39046946b99de1abf6229aa",
+  "strings": [
+    {
+      "id": "e512f8774d670d7febd9d4081484d866e777ebf21df0fc40fc93d285b0c5137d",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "3ccf134740d0e8305c0779a31262f972c6b4a85a63feead1f7b885152981b5f7",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "0e1edc11d045c4d56cc8a86390c1b0d1c260778507a71d8689141fff722a33b8",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "3d631a911d59e45f59093cf838cfb7aed264e62d65501223537a57682b0043ee",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "d683dfe7a88b1707dfc86d4f91f127fd947d7846fb179e254d3331da2297753f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "da851a9d5f8552e40b094ffe3e0ca5e6f26ed6aae70423362b2957355ac383df",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "f87eec86d34e22efa176c258c84ef72d952f4f7bf721091dae8039e5718596b9",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "6316047329fb4d24ef7bf3aa21aa35dc7da826c409f41d894de6a58a826c9ef6",
+      "text": "What Is Vercel's AI SDK?",
+      "hash": "1f210434178eaa98b25c4c6b455fa5973f854a1181e1fab9d10a8ce725bed88d"
+    },
+    {
+      "id": "e5d5f93e7c66fcb5770034a95985aa95eb7dcaec7f45e7c94cc2214304d532d3",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "5c5c239474df52fe81741d3d3f8d89f3b9a4c06eeb8d6f2eb9ce1d3ceb56469a",
+      "text": "Streaming Text With Vercel's AI SDK",
+      "hash": "c8834e359f3b28f367c74e589c38e2bf98f323e4f89d4e707b88ecc0e812b58c"
+    },
+    {
+      "id": "673dd71b0762d3e3b6f310e5b335759655021afa7375699bc0ac4ad74dfd6da5",
+      "text": "Adding System Prompts With Vercel's AI SDK",
+      "hash": "c1856791eb8a9cefc3c85784d7e7865a4fbe03b8e4ce9097e30b44c8382bc0b5"
+    },
+    {
+      "id": "13c0f41b51870cbb367584606e9e877066a9f639462a57e1a1280cb5aa62325c",
+      "text": "Hot-Swap AI Models With Vercel's AI SDK",
+      "hash": "a2e60e88e6b98f280400b6a6e1ae57cc56e04a4487923179fafbc1691daeaf88"
+    },
+    {
+      "id": "c2831ef7e290b855e2ae9ade17db448f757b736d0cd38161cd7331b2ef4cc116",
+      "text": "Working With Message Histories In Vercel's AI SDK",
+      "hash": "6836bf9b5242f2374260cc952dcfc713c5b9049e92673765730b88183fcca9b5"
+    },
+    {
+      "id": "c282db0d475dd536d48597ed74dff844e586c1770cc66d02a611d5151f0ce64c",
+      "text": "Use Local Models With Vercel's AI SDK",
+      "hash": "2f23462b857b3e2c9ff00eb7cc7ee290ae7b503bf5da369108fbf7f208a2ffee"
+    },
+    {
+      "id": "a2848d255843f31e8d9085635aa602d5d1abfade1f0e5d45be9bf92d47425e52",
+      "text": "Structured Outputs with Vercel's AI SDK",
+      "hash": "ee7eb24d53c4be13cfa8480df0adaba3c76bfea676d6937956456cfe1938156a"
+    },
+    {
+      "id": "e5a3371a4a9e6727739e0ff01fcb915867070e971e096ab40d4a2d50d7a4ddd6",
+      "text": "Streaming Objects With Vercel's AI SDK",
+      "hash": "dbfc1631aa468169f64909580711d47efe5fbd6c1a8dc7f96f24d8f312775b76"
+    },
+    {
+      "id": "2d4b6b08d3eac57ed2e6ce35fe575cadd1edb580944e120688a4278fdf3109b8",
+      "text": "Generate Enums With Vercel's AI SDK",
+      "hash": "0c0888498e8f0728d68d768a855caaaf0407c72679e31a43781b058c580bfd30"
+    },
+    {
+      "id": "3c202ce7317109224b83e2daa019f3bd8801331644774a8f40e5cbcbee1bc71a",
+      "text": "Generate Arrays With Vercel's AI SDK",
+      "hash": "966b534831ed3ab632d0d4d6fdbac9f5574b7b021619463331f1a040103c3434"
+    },
+    {
+      "id": "023f3f2af2e7d5ad7c748ab6af61e52f3d0777e9ffad85adb4bcc19232e22e54",
+      "text": "Build an Alt Text Generator With Vercel's AI SDK",
+      "hash": "e469cbd9ec4e26ff6b524e07b410ae85b176eee38375c531752024cbdb92388e"
+    },
+    {
+      "id": "121f9ee6bc59c9a2ab228d3b16035a718f550ab9fbc6a1bb32a10c9cfb420307",
+      "text": "Extract Structured Data From PDF's With Vercel's AI SDK",
+      "hash": "270c0886bdbd409901a9bb1d21cbe52e0e4e6504f3b17a0def44e8e729d3846d"
+    },
+    {
+      "id": "246c509e0b2bfe613d8ea590fc7b7cfb175969eeac20c3e62ffd977fa882fa65",
+      "text": "Create Embeddings With Vercel's AI SDK",
+      "hash": "204fae433156e6ac042fc80217c5e8a91fd4e1501d92da5949fad8c62334d1e9"
+    },
+    {
+      "id": "86ef625b01d79c558063775c7388da702577a3e53259866755fcd5ddeb4f3beb",
+      "text": "Tool Calling With Vercel's AI SDK",
+      "hash": "90485e2aae316ee7132e932b405c5b1a63f0786e824e08689a3f78e4846c2d13"
+    },
+    {
+      "id": "1d31bb6072edb4dcf033f67128c321d7fb8105ca4d735831f2a7d00e1b335388",
+      "text": "Build Your First Agent With Vercel's AI SDK",
+      "hash": "52e11d029211f26b4245ca878765b7530ded3b5475536900eefe472e424a5f44"
+    },
+    {
+      "id": "a11d1660ef7f99387fac105368d9c6abc1e25538ea0a55d64559cbb21b30eb0c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "25690551c24f649e807195e59480b7b222a6729a636cd036bd4d0ed0c50be7a0",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b2ba731cd2f8318e2985e4826d6707371ad78fe4f7d92acc3f89be1651ede182",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "2f33eb2eabbe83947f7135723485c77d2b30d5a46a2960576a42bf5aa0f3aead",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "5f40bca38592a0d2e08c55df18a53d366c46a6577fbfc4014b5e67f288d5a4fe",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "d7a15eb70073e938a588be196d135f36030a76de05db39491a25f6feaa29ceb3",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "55e68c436337cd9d979ba0f271b4042b218ff81ecfe5e014cda8479a8d5a1a25",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "15e150301408beefd9dfe4ed6554b851357427ccc4d46f057d5ff9bbc828e53d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "720d0f2e71f8e41909db7032906eb97e1db3eddac2697b51ccfa537a8a19966e",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "20cef38185ddddf7268c9a89f79c1e11af90d9051fef6fc8e29d8b8f1097ece7",
+      "text": "04 / 16",
+      "hash": "2b91b6932802bb244a0c59fa0c556622e403b90027580e3182c785d8cd31257a"
+    },
+    {
+      "id": "c4c6eeaf1ba936a698c63c7d1d297a214be530da0dea168bc1d24ee33ed4c5a2",
+      "text": "Learn how to use system prompts with Vercel's AI SDK to customise the LLM's behavior.",
+      "hash": "4df8a6cc65c8083dbf2611efbde0e7b5a87667600eaeb653d16a664987c43892"
+    },
+    {
+      "id": "92cba7c06b90b0f5e8cd27231d46a3ba0db60ed389afe83e76460647a3cc95ee",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "468f135bfcbfbd6ed8b1c09c756cdf7384302536d47ee376992cbadcb8abd0d6",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "12510859e41f48017d377bfbe2a687b7932c8e17689be55157c41e85dfbaa908",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "6bc34367ff0db7ffb27957bd9d4e8f01752505ef0f256bb9180b77e705744dcd",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "216e0d03e0d9d29086570b186aace8b88e0ea4c2ca6b98a1f8b14396e9bd033b",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "d0d9d15ddf0dec90119d0b90be20583ccbdd2ae929b2ed499914fc0d1815d09e",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "d9471c4a3c47f21f2c09e2ee99ddd86a6e858facc9d2675930c93ba15f52d1fd",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "e50404cac99dea12609ca04a651d4eeab71dabd661dd303539c9c5e236131e67",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "58f80983be891a4dee79c80b5ae119d79abf23a5964b64dd7e2c938b433b3079",
+      "text": "Sometimes you need the AI to act in a certain way no matter what prompt it receives.",
+      "hash": "8fdf7e3a31269d06a232b2385047860ec2b4c47494fc6d32c44b04ca1aef40a3"
+    },
+    {
+      "id": "550d691fbcb19e5d760a10d3f0fa0766df33429bdc95c3726c1032b85ae34096",
+      "text": "In this example, we want the AI to summarize the text that it receives.",
+      "hash": "c4b9b5d9c47a34c63de43ac48819830a1cdc9d03f1bf349efccc46f505626961"
+    },
+    {
+      "id": "4905e05f6cef19b9d68a7672cdbd41047f75b3ab7df7b59927a084a1f414f559",
+      "text": "We want to give it a role. We want to give it instructions.",
+      "hash": "ae045809c342eb9b8eb80d951fdd2b787121bc82e1c4ae557bcf6aa8c18272a8"
+    },
+    {
+      "id": "5d7d5d3058535224a7a18a82b0f16147b35a569d6c33fb2a38856f56114bf249",
+      "text": "And we want to do all of that before it receives the prompt from the user.",
+      "hash": "13f1c59a8148922c8efce2510f9cf8aecbe5799de85971f6db53fb94c8325b0e"
+    },
+    {
+      "id": "abefd6430f2af13f69fe048dbc61403cbde6d5de955ab0c1c061a8a18ff217f8",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "51e0c7dac2b0a72d24d24150c189945dfaacf2c02f05b5dcbba52e44015994d7",
+      "text": "To do that, we can use a system prompt.",
+      "hash": "b7e9935c7107fbb0c4b391189552c3974f719d339ee28d3e4776b0e1d5535ccc"
+    },
+    {
+      "id": "2011f1ed8f335e934d663373bddfdc6075a3aa762d92a2357e1657992795b36b",
+      "text": "Doing that in Vercel's AI SDK is as simple as passing a",
+      "hash": "79600361bef2c1451656f65c6bbf0d880a0c3d7487a83d40d995d6aa1977bdd5"
+    },
+    {
+      "id": "b49d1e0394025196f1934b8a5f2a2744b1ccee3e13b12b34c69b718c0311919b",
+      "text": "property.",
+      "hash": "7175742fec0f0c94cd846ee7acdbca87716ab60ff1bb6e12b208623d7d84d1a3"
+    },
+    {
+      "id": "d1ee1288cd3c777bd75c76b21649e8856d184072010682d18aaf4d65da7dcbae",
+      "text": "Under the hood, this prepends a special message with a role of \"system\" that has our system prompt in it.",
+      "hash": "423ee8e5fc41041fe2de396396bfdf21da8b453ce6ccb410308e521318b42dff"
+    },
+    {
+      "id": "834c1f1a355c0e40479d7b11a3af3c6b61b8f61116bfe095a1ac77c234d0018b",
+      "text": "We could do that in the AI SDK as well if we wanted to. You can pass a",
+      "hash": "a8be81384792db02b2d14a5bdda7f8f43171b13ad5379b288fa67e6bd93bb9ef"
+    },
+    {
+      "id": "1ba78c1e6eab73df5da75960443124ad01808a0ea0f2981f74c34594036b1f62",
+      "text": "property that has an array of messages.",
+      "hash": "5b14d309e7f8a65f377340044f4aa832e7b8bb5ec1acf11c227fb763476831a3"
+    },
+    {
+      "id": "2bb41722ec655b8e666c65bb917e7e16d66ce7ae1553f149b64f5388d729cdab",
+      "text": "This can be done in",
+      "hash": "523e408ca0218213cc161b7233e10a87dd6fcf0c65011af5ef2e474c6b5e7f57"
+    },
+    {
+      "id": "363f43bb6501ee9f2a514c9c0d98f9a26d5b9d18d291a7d3c370d2e780b62a33",
+      "text": ", and all of the other APIs that contact LLMs and GenAI.",
+      "hash": "ecff27b96548c09d11b68128f6d1c048281d38ea530a17b6f5697e7a70bf8bf6"
+    },
+    {
+      "id": "b66b20893eac1cc7f16f85d0af6394b7e260809abf52afa56420a9e9333fde98",
+      "text": "Working with system prompts is one of the key parts of working with LLMs, so it's really nice that the AI SDK makes it so easy.",
+      "hash": "4f49a000da184d42a822bb6d34f9c84e29f94e856100445f12e6318191ab6677"
+    },
+    {
+      "id": "cd8e5a023e3ace80d190b4abdee73aa4a4dd4ce7e2ec58153e7b95d3f4966330",
+      "text": "In our next example, we're going to see how easy it is to swap out your models whenever you need to.",
+      "hash": "b2578333308c239c92ad6935d6ab7c076eced18979ed589537cdfe9c2291191d"
+    },
+    {
+      "id": "f7c38471a95b5a0adec8664b5e3f84198038e1d93239626dc1b1ef4759d5a92b",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "13b995bd4073fab7c4fc1096ed6c05fe3a792c3efafd952fb987c3eed34c7239",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "c528c2963391bf84a89b38b0072f45d9feb728c4edb2f014fe280789ad97fbbf",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "86a0aa56daa230b5a4a4e2e100b11e9392f6c0fbaa8d2d6bada5f6fa546f3b46",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "ad2ca5e8999d82c9e4f5e7c35e86879d69242a4d1088f84ddec4f90d855e54e2",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "985868ad23dc30624e0242fae5cf11bdf8b7da2223c9d5f21d3349922434e661",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "56ac3bccb83dae39075aaa9d7edf464d3f6ce978da1027a2bb8df1f234f54375",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "88faf7ec8ce04a64928c87d584b07a9b4577c34f13bd6cdcd79d294cab7b4086",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "02634c1fd775ba6dca00ce946ce5cbfc2ca9cd33f4293f93140c11b438bb94af",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "551cd720aa006e6fac5aa883480b9d2036ab46e07f23742fc75398bedc8bbc3a",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "bca14426bbd2a409b0c95eea56313960ce95a837a1c1672f665d16e7d2a2744b",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "895dc22ef325fd447a30afc374a9e37fc127b37ee44cf081ea85512bc804d6da",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "ca448139190246f2e828da99c766f0856eb02996bdf37747d4038bf30ef689b9",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "55864539a19bfece82295c286ac0c3c5c2401172181b343a3c7c16d0b47154ec",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "3968d79e9fc6a044f8db8c1beb80821ffed129e9ff520f8be795e9108e0bbf27",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "034e4c5b59b2e6a44165bd4b8b67d6fee440a07fa90fe817946d68fbefdcfd3f",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "6b5c1d86097d593497fca1335034fdeaa1e8728104e1cbdd4e1aaff9dd77eb81",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "0bd7e86f3b66079c5c48ea65f0fd20431167792e3c8d9fc711cdd46c63d81b10",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "ded8be9f59a1979cfe182c93bd5c5f04d3a79d0a32274a1eff2a0694d9a80bb4",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "b9e5f1e25d3918c85285e54cc04b2c23562456854435166536a7cce7418674cc",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "96ed82bd8070e987b54614584d860b263a84e2408920971a2f3859d0b0fcfc2e",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "197901b1d8f4761b7ac831b2ddafd1b6ee10bdf2cdb263a7c2d5196389e428c3",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "1862fb6faf56b51fa15067d2886976e026554f7f6a563fae527dc70a3ac9c71d",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "010f3ccbb8b448de01668a209e8a4361548ae317fb2edcca842210b34dc0ecc6",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "bdad9244b8d849134c94616e74909b8b46e735b0980451617a2841b87be1c8a5",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"xqh98nqyr26dnw\"",
+  "lastModified": null
+}

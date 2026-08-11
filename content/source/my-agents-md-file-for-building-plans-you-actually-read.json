@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/my-agents-md-file-for-building-plans-you-actually-read",
+  "pathname": "/my-agents-md-file-for-building-plans-you-actually-read",
+  "fetchedAt": "2026-08-11T06:28:15.577Z",
+  "title": "My AGENTS.md file for building plans you actually read",
+  "contentHash": "d1752fb31f54b5a68559790eacf14668369fc6617a7f2204e0820f6b57c86a72",
+  "textHash": "ff03e20cac7be84e8bf61f31e73b10826d1b94c2fa826648ec17c800932080da",
+  "strings": [
+    {
+      "id": "4c0667bfa59cb82c7ee141f3b60eb82e3647ac6fbd44c1a26fd5da66fb23c721",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "190975fabb1540b243a01556ff29fc0ac753b676624c1893e4c7a58236ba5cbb",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "4a7278940697538c5651dc68a88a2949fd73566f361f1f3a63e4ace67bd385b5",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0e7b1647d5cac61ea05032f35257306a7106fb3ff7007bc14e7c7ed709acaabd",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "9d854ee81bc7b91452c84c3764165cd6519ee8eb716f69aa880c14f1dac650bf",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "f67c48c69d4c6cf876aba1b3c53d83b645b01a7077119afc06265a5eaf7ca34c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "3b5eb161cf172d355eb0bd0de4125810a857bca137dbf9a0f3196cb9ea2a048e",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e390e3b6e2572332f927b62c861ddc59e93284c9432838ee1c83251cd8076c37",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "9b1f7ecf9c726e53a4cc580a2ddeb0b10c4dc4a67e1707bacc4a6dd2c936c49a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "856673a7d848c7190cf825857aecac21081066c8e4a8b267c6c9ef60774fadc2",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "8b1f8a6e9bb0efd7bc21e1c057e7a94d344bafa50164813e843d2254e65bd189",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0591475ba3098b4d37586e4e9d6cb2771502da3ec0aae774de7e885b72714348",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "5bdb8b7652a665357bb25afa61ea503f8c65a0f55e90908667557e8805e26198",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "4e1ff33437d518f051e4d41d3b07a46a35e8c057fa73d7c2d01073b324e9cb39",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "7fbae7c6b19080b820c4a05be051c11ab5cfb74d3d60625aaf332ae001be2bfb",
+      "text": "2 min read",
+      "hash": "57fa55d8639e7b457369a0a45c052a54cae2a4245f13103d07cc398757baccd2"
+    },
+    {
+      "id": "3ce9e538f52cc501ed6a1a44fe88c905f3de0b898650068a7a2e1cd574fc002c",
+      "text": "My AGENTS.md file for building plans you actually read",
+      "hash": "6a43bbd925c25839075ee8cc8c120f809dae06b7bcf7576409fbad8ce557e290"
+    },
+    {
+      "id": "e9184017e18cf0b3a3fb8bce33c842bf22aecac2467b66f674e9226a0ae3581e",
+      "text": "Here are the key rules from my AGENTS.md file that make plan mode effective.",
+      "hash": "5d8806185cc46766a0fa4c70ac311e797a64fe7d5998f7cfe7c9652b7193f37a"
+    },
+    {
+      "id": "f4616dfb600c167b39145f86a6a02f66267e2442d8f8ead9367d422eadb076d6",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "4a0fc35cfb1c20c8d3efec14835b7a0e358cf0ec2f72317a8b7915c9ccc62034",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "289a9084dc3e75f278f7aafeb8dfaf592f62e7b18e65c15830595d48de6b419b",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "00c2db028b3cd24c6a7856c4c30734006d636b778b826c9f7c318b717d5bd539",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "635751a284a00add79f54f27af4873f1409cf7a94526a5fcbcc86f882055a143",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "58725be273a78503a0502a8608d974b8155b31f4a820a117f714542ce6880fb0",
+      "text": "The Plan Loop: A Four-Step Process",
+      "hash": "45f2e4075b317b45d6cc50fc2ca1be1b533bad5ec300277c3a5d4aec8c24d6c2"
+    },
+    {
+      "id": "3418b28d25e164234af7ab47cff4d46ff268d93d362ee440b319013b1c0e7703",
+      "text": "Why This Matters",
+      "hash": "7aff51aa464a270d43dffe837cf839e169599078b160bc480e8cba1ce0c3832f"
+    },
+    {
+      "id": "cc9d54fa473dd44f708cc45a44be17c5c534b4d46fb428104a505381fc08178f",
+      "text": "Rules for Creating Great Plans",
+      "hash": "3e799681ba6ff9d512dfda23327788913115fc04c8dcb51a458566cbebacde7d"
+    },
+    {
+      "id": "879a9811d2d22f83876d26f525aa61a4fbe2b292aa30e273346206e3cc79d2e7",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "89fb6fe0754227d97abc8f849f7a3dfafd2b1c125d3b3ef59fbade2d09494bb2",
+      "text": "Most developers are skeptical about AI code generation at first. It seems impossible that an AI could understand your codebase the way you do, or match the instincts you've built up over years of experience.",
+      "hash": "85d102c94a185e57d5c429eebd796fd3e00e5c8dded8ceac1f88d3d0ea3d6072"
+    },
+    {
+      "id": "a685dcf1a6416699406bec355a073bf636ddebb76bcef27629e5ea43d4d12506",
+      "text": "But there's a technique that changes everything: the planning loop. Instead of asking AI to write code directly, you work through a structured cycle that dramatically improves the quality of what you get.",
+      "hash": "bfa9cd6436edf2b4003f57b96724147056cb3abfcafae558e95731589167b2c6"
+    },
+    {
+      "id": "e966f6073400a40c52ec5189f9d5dd50fed3fad2b601c7f9cb591731f8144c67",
+      "text": "This approach transforms AI from an unreliable code generator into an indispensable coding partner.",
+      "hash": "5a93715f820e1f4c97796bee06ab16cd663878dbdaef0a18a35c0e81d49481a0"
+    },
+    {
+      "id": "418460ca147ffea8c261bcd2cad3979a56dc1ceb7a2cb9e0176d4e6aa6e3fc22",
+      "text": "Every piece of code now goes through the same cycle.",
+      "hash": "3ff4151722595bb7dba6671f217b42a3e4372d9eeaa4774f003d62c4a57d81d9"
+    },
+    {
+      "id": "f158cfce86269303ec571225513113273679bc06ef3327377fbb655e35d93ff6",
+      "text": "Plan",
+      "hash": "fa8ed0bdabdd6bcb1c0746f1d3e15212f7f3439d74339fbaaf16c60c0a80fb8e"
+    },
+    {
+      "id": "ec440d5ea6e086c005fa395a0767bce04340d1e737d028066edc727496db7b29",
+      "text": "with the AI first. Think through the approach together before writing any code. Discuss the strategy and get alignment on what you're building.",
+      "hash": "96719341075a5413f190d04ca9c330d362d4a8b7f637ac83f4900175f9ab92e8"
+    },
+    {
+      "id": "a077fdccb2867fcec423c2a47450768dee2130384632019f562785b88ba8bc49",
+      "text": "Execute",
+      "hash": "e3a67d9540e9a204f7dc4aa9d44a0ec652856cfa932a21196bf9df23aa0e4cd1"
+    },
+    {
+      "id": "222ab3cbd2aa1b0a6dc67b114de33338f66acd54de2c5d40533467eb977fb83a",
+      "text": "by asking the AI to write the code that matches the plan. You're not asking it to figure out what to build—you've already done that together.",
+      "hash": "e71e20c8e111f111561bbe098722c3f7825e55fe4dfdb2f22ae8038a3bab1e5f"
+    },
+    {
+      "id": "90caba6392f036d62d947ea7f47aba1fb379c0b751a8006ebb5dc226f44d86e3",
+      "text": "Test",
+      "hash": "532eaabd9574880dbf76b9b8cc00832c20a6ec113d682299550d7a6e0f345e25"
+    },
+    {
+      "id": "07f736b576024a2b4eb098b5aec36326cc77672505d7a18bc5f42582c18666e8",
+      "text": "the code together. Run unit tests, check type safety, or perform manual QA. Validate that the implementation matches what you planned.",
+      "hash": "6fbf6353bd3b352ed7cdd6a67978786b6ef5e4e0ad7edde8d22d5c88597272f4"
+    },
+    {
+      "id": "a6ed528d68ea077bf65224a1746d950539eb874595342339c4d7153cb2c0100f",
+      "text": "Commit",
+      "hash": "82a9c46ffa4789945d9f2359d75891558ef6faa8dee09e4b25e4e0597704f5bd"
+    },
+    {
+      "id": "40b35538400b381cb3dacc5b74b728706db42ca23239911f0e75621c5814d0a1",
+      "text": "the code and start the cycle again for the next piece.",
+      "hash": "78f12af3eff89cbd30c4050b52e31b29aaf5050a02cbc19ff2fdb81bb3741646"
+    },
+    {
+      "id": "710ca3f7f294bcd42f10f082426339e664527964bc008067d78063466eae9008",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "287eda78988fdd2de20a307120ebbbd697507f9a62f596d0352dc27c9b147802",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "060113380754e91e6ade5cb70e3b375a00b3ef7d093d3d8a487653a75a944988",
+      "text": "This loop is completely indispensable for getting decent outputs from an AI.",
+      "hash": "f19bd9aeee4186b6bff790be543f887ff5acecd194ad2436632b894306aa7e41"
+    },
+    {
+      "id": "83c84f26b0d109e8fd7ffdd0ec9d994c6da07c7f6006ae174411404b3f4eacc9",
+      "text": "If you drop the planning step altogether, you're really hampering yourself. You're asking the AI to guess what you want, and you'll end up fighting with hallucinations and misunderstandings.",
+      "hash": "9d7e8849db41288e8170d910bb2f20deb2ef9f8045d1d779d89b7feca5924698"
+    },
+    {
+      "id": "d1697f1b5db09d043c63df8073a39d4f27e0d605d4d8f08c9f00c1a5268d6d0c",
+      "text": "Planning forces clarity. It makes the AI's job easier and your code better.",
+      "hash": "b02ffca0f92fe63ec80d249cfadfcd668c0d050a3f293e1113fb3aee2ace92d2"
+    },
+    {
+      "id": "b7b2ef70366cbfb10a2efe87b423df7fb24cd7281994b223e7ec4e12ecc2baf1",
+      "text": "Here are the key rules from my",
+      "hash": "eab9e6cfbf15050b2be8599fe701c7d99811cfecbe9b099047d96f9b962a7b4f"
+    },
+    {
+      "id": "de4518c79fe803ec529385173c29b83e4bdfffe8d8b0d03317c3cf87c24c491f",
+      "text": "file that make",
+      "hash": "453219819310f8d7f1549e7e025fbc1ecac7e5d9e81ca7abd9b356cd0fe53264"
+    },
+    {
+      "id": "2a30e7e620d8de8791c6f25cfad0998ecaa0e7e7230bc3b8b465ebba7052b6fc",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "8133127a0d8fb15a448cde0756b69dea2ec10953dda2d4c1a7408b84e6dc0c96",
+      "text": "effective:",
+      "hash": "dcf2145eca2421868a7a167c3a9f28755d85c720c51d877558becbf32b2ff127"
+    },
+    {
+      "id": "9469227079318da0710e8c097271c0076aff68bd59733e2a6cbe37d55f691468",
+      "text": "AI Hero · Skill System",
+      "hash": "31141c7a93814899ab12ee5a87e9b48d02f0156a047185f5b63787a7e76572f4"
+    },
+    {
+      "id": "9eb925c4a010c6e236bcdb9befb1877443127bccb7119e2cba9aadd3d489f893",
+      "text": "Get the next planning skill in your inbox",
+      "hash": "24aaae27630abcae676645203f9f97697695d2c07cab05938aedb7f36bd69dac"
+    },
+    {
+      "id": "5f3880af85e25a89ce612b3b4d3f084ebb2afeaf0e7a303e01c5413bbee80c97",
+      "text": "Skill posts and changelog notes from inside Matt's planning loop.",
+      "hash": "415d9e8bc90392cc9e18ac02088d2a6461a18b35b2d98808c64b4f821fd9b0e2"
+    },
+    {
+      "id": "dfe44ce62576d56edf9d7d83292c969cbab0857be138003155032d769009be6c",
+      "text": "These simple guidelines transform verbose plans into scannable, actionable documents that keep both you and the AI aligned.",
+      "hash": "e79f9017024d2f9e2404ff89598cf51cc486a85635bd5d1c373c4ea23066d1d2"
+    },
+    {
+      "id": "591b14e9bb35d8e0c782fa966bddfd0d4f636799230a519ed9bb47a2e1d62a9b",
+      "text": "Copy them into your",
+      "hash": "ed1906641d379990945625cc62d5e1102c0bb2e9dcdef62af93df6701c1b5083"
+    },
+    {
+      "id": "e8f29d58664dc9e89db07075eb3109c16c5570819de2373c037702daace6f246",
+      "text": "file, and enjoy simpler, more readable plans.",
+      "hash": "d88ff10e2d087bc7a2ada97db589e5d11aa50a2fc73c8f0031f4132c190729c0"
+    },
+    {
+      "id": "89f71bcdb86c67a276a4579bdacdaa56daea506c7f61732c354705d39973ab44",
+      "text": "Or, run this script to append them to your",
+      "hash": "29201c2fe382e02c0842500c36c26c5dfe090fceffce5638ebb57c41e8df4c11"
+    },
+    {
+      "id": "d7e5b1c75558cefb111fceb6134af6c80a5115cd57a3ee339d2caa1e1e20942c",
+      "text": "file:",
+      "hash": "430473329df5ca205e93d09d202c021d973044142fe20fc4abf555135c405c44"
+    },
+    {
+      "id": "cefcf983c68cd66f7ac2e5c81be4c13789960c933396353c5ecf0b8d46d963e2",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "37f625633f6960d8d1f24d1a3f504655cfbe10f33e40e4347f9db87d12fec326",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "80c1c56a5dc85dea4fd300828fb937c79558f094eb4c902e5391750eee5eff91",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "3eb555e86080e4a5c820737145058406c4c2500f123df5020091f4ff448ccffd",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "631d813ef1ef94828618da7c0dc2e475588f588dd8c9ea2e3574d0c911cd955d",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "becdf1b4f956eeb624aa99597c87dc8d2448439c296d1950701736f798f65594",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "060316974a5045a4b842191e84151031d43ea8948ff17e50b774163d93c277cc",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "ef0100749b2af3a79df58ed6f63874f787ec98c3dc44010ba2ae94856641149d",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "ca07b11640deaf0b7b6b85cf0fd859a430f84c7cde36af71df36175f26b9d0d0",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "acc85e2f2441905657f42894c3df14ea637586f00330c37adf0a3856fc4054cb",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "538cbb98d0ad4a71c31dc970c325f5929b007d7fdd9df64a62a61bbab08cd47b",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "f2fa2d7c7016eeff6791ab80278762711101bc4ebbfacfeade8a4f45515d6d98",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "feeae97ae6d161f06388c91040768b56e7cd3a1929344dea2001c992a4dc9d44",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "c1daabfa337a05d8aa357566e09f9110d6c2959dabcc94f5c944bbbeba8cf78e",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "166cb9ebbe31ddb902a9ed5e2bea9f94f3414de20d4b11056b2c8bf87ed62ea6",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "23ca08b3b8bb7ba4c9e7074db16e824a5da90531cbba30dee455c80e6775e115",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "80d49e5764e505ef9ff594bb60005abf84dd2b294650be9cb73ecd1e4b63597e",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "290243474cebb20c9533440260c76849df94767e11ad9fcc008322537e4ca460",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "7235bbfec6cac7c91e87e64ad98ae95907b0257b05f75eef2f36ba78ef76fa8d",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "1199adfcb8c5cdbf223bdb13a7a23de65e08cb1260fc883064f41bbff7751eff",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "a4b20393325b36faa8caa18953faf371b900e4e9566e4925f2ba93e6ec244334",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "27dcb958258ced269858527626534d44dcc9f944b580f42459cf9c1d78e77e09",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "b16d4621933bffc83a756777e9908a26db5a3b2ffdeb220cf569f0413da457d9",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "f83e52b7c3a3504c14fedda07e1f5c334d415cf7ec2cdd846528f3c7a88da4ab",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "398c53b8c91ef8e0d8cc26103c75d212413db9049164fb087e44735c289beb8c",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"16ph64h67fp5to4\"",
+  "lastModified": null
+}

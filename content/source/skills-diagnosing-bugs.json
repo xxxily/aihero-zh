@@ -1,0 +1,958 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-diagnosing-bugs",
+  "pathname": "/skills-diagnosing-bugs",
+  "fetchedAt": "2026-08-11T06:28:07.193Z",
+  "title": "The /diagnosing-bugs Skill",
+  "contentHash": "27bed2868e0b1bf9d32d264d188fcf3a727d720430d0de59b999d6c94cc950b2",
+  "textHash": "07ad126ce94a69bdcd8ef2b00c8a9bdbaf84e3e6bd300f8f98235b2097c41de9",
+  "strings": [
+    {
+      "id": "fb0c9952cfe5833e3f42c02379e540236ce9eae6ed7dd028d5b6411a0f09ed24",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "a107298d0301d9b682ce6e728554fd3e16ee5f8266620c27767fd715efe040df",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "d8e3664c85230db5e9330c9cdc08e4b69b537f22c6b4acac2149c70910b3b23b",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "ab62e9944230340244f0c57be5970fdeca664e0fa37397ffe13580f2a747bef8",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "0534adc93b645df21f762a2be6da7aafef3a63272550052543b4e040df1d8c02",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "dec4457c965973c881ee175b7b8ae24cf060b6ca5d27f0dd52f7881bcba79388",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "06972e799b0785fcc8cf360fc1075a6322ee36065d9cc0001f62bac37f29120c",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "3e5d9c888ecba858adc8187e5e0f976254f8397fd348d3db395d0d11c5b38c95",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "ed6526f0cff327b0d8949498500f8f20c801f9b11118fa9141f186863e548572",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "f8ea43171d27f24346b0a8be4a7b3919d0319fccdecb31df65a9c992ab77d2ce",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "dbc1ecab19c4b7bcacf548c428bcf4b2fb32a4c2ecda7282f387c607ecfe4be9",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "43f9750963dfd312eef9b5e8a126344ff9a165adaebd6e086d6b3015bdadddbe",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "ba65c3592d672892a01ab95c511b7dc517e4dd4ce473555531086bce0174f121",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "7186fd0172bd03ff8c4ab5f06d6be79b98b6afcd1451d780f8dac937c8aaaef9",
+      "text": "The /improve-codebase-architecture Skill",
+      "hash": "1d2feca177f8d2a2229e95a3f013777630bd379b24ca132a89d1c87623d2d722"
+    },
+    {
+      "id": "98545d6253c9c9cb1fcc04820c68c8ddf28751205db1a6d80e65e3bd5a3d48fd",
+      "text": "The /diagnosing-bugs Skill",
+      "hash": "82d22e5c3f7a145e0c607c7003a935a563d1e107a030000f3aa33cbcb8f1f676"
+    },
+    {
+      "id": "7aaf6fa4102f80d8e6caa70b34661bc6f7a1a9d051cc0c0e0cfb103e28b99e3f",
+      "text": "The /resolving-merge-conflicts Skill",
+      "hash": "503c1d265cd640ce24d1252efc32c21add9fc91cd0c40a7ecf7af547a1f28fd0"
+    },
+    {
+      "id": "d84336404a2d9e7ff0713116c4102f3c41d2f04bbf99b8d13a5fff67a9488870",
+      "text": "The /triage Skill",
+      "hash": "28ca8c73ddb7e7f15619f62dd65f987942e6e4a625b9bcc743e938d3322893ef"
+    },
+    {
+      "id": "8a0bf3c4136b4c5dd5458c9779e985de10ade01c7f5ddb74c935196475d8d24a",
+      "text": "The /wizard Skill",
+      "hash": "dc2a9dfb2e7aafb5b920a374d3edfadca9df74126313b2f8bbd9533e45a3805a"
+    },
+    {
+      "id": "7ce2ec40b7f0f47e32538e887ff24e84b0a6fee425a2251194830c520a4f2f73",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "a483273c596afc3a52db2617977e675a3efc7d39d920c4e074153e57ede34606",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "b1d188f39ae0f986ac60b0c4b340d2a8ee0bdb31fad9128af70743ac9159e58f",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "e837068a19b73ca78bda7c7c1442b7b115a40939a43bcbc1c233e56c8e73abd7",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "2ccd90006d93a8d4777faf07d9476d1ba76fef741a854e5497f4c0bc29491f93",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "5f70f247c66a7449383db49572ccded81c42ba39d50d70466309bae89c69c394",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ead8996da00823749faa2c8abe56a9cdbf0adbfa008daddb38b551e088491ace",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "da7dd53db477bf745f38b247e1af7a202bfb46460894e5d6475d6b0291836ef9",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "4a130394f4addad6591afa467fbf91dbbead6cb531891f4ee6ddd5a00d95b811",
+      "text": "12 / 25",
+      "hash": "331603a9705072b9dea6a87a22f905555cad114ac38290973e0bbabe8b24ea6e"
+    },
+    {
+      "id": "d8613f730fb8210a758f9eb7d6ab74c513292d149b98544365242be9090bceb2",
+      "text": "AI Skills for Real Engineers · 9 min read",
+      "hash": "1bc3add9114cd43052231f1a226921808bb9b8dee191ce4eddeb65078509f15b"
+    },
+    {
+      "id": "52def68e25e5a5bd6942543f788fb2fa7f49d49dbff8705afa5476df51d9ac64",
+      "text": "Diagnose a hard bug, starting from a repro that fails.",
+      "hash": "06a7fabf29ccfc91b67039ea29118eb89146a7a5ff46a87b6c1a85510c7c2eae"
+    },
+    {
+      "id": "d2a9d4662ab73b2a78a2ccfc4b6014c62a9a740d997f2de4db3a066e9c78b993",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "0bbf78939f998b52785bb683d9182c089989e1ae7346ff4eb5457d41760c24e6",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "b1cde53274cfd382849e086a2c16527ee7b4cdc60111dae205aee79004b335c1",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "200a01782698902f1793adcbdeed471eb6b6b191b430808f9ed667d2be5242e5",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "dd26fbaf63b07c0a5b948345e81cc4ee0fcc03217726d6c759c4bd9c513e7aae",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "8963a3c539b9eee9e6ff569bf0086d0cd14ff19aad5fe0738352cef23b48d73f",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "2928ac9edf57d5412bb7d4e89c78b982f13566bb372a5331daa350c6b7d0754a",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "28e8c43767c2dd077e53fa1babf313d92788b30936a0b07200cc31fa475115a9",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "05c432c972e47578a0e0f9d7ca86b703fe947f108f0189f7a1fc88d3a3fb6c3c",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "003a31b02b96c1ccf6081c0fd17fdbc5222de7fb50cd8c0b43a36eb98fa85d4b",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "8a09a588e1a6a36c3a3805e3173da251998a70af7d6077c5999af4040e76d7c9",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "2fb4ba9f91c83fe7fcb42773d993d91bd0220f2a28a59ea0fb64f95c83578467",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "e20143ff5d45a21a9f0643f6847003c2687462e4e842b28f1604da6c6d740d79",
+      "text": "The tight loop is the skill",
+      "hash": "f4c00e40d37618a09562ef5e2ba97fd28337796706bc7f6ae21a04cb2eb2f1f7"
+    },
+    {
+      "id": "d7d03357500057ad657dcdfdcaa8cffe0df6ddadd7610aee9462ab2bc0ef6292",
+      "text": "The gates between phases",
+      "hash": "1b187ad500002943a6522ccaa33ea4fbbe88aaa61907aa415802dc13db1b6a59"
+    },
+    {
+      "id": "8522a7c6a83925d432ddb26391715ccb8a99d6c9fdbe5fcc151ebec6950fd691",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "f63a8a344195919ebf80a579cb96426a5e146e7b34919a21bf8680188af0e96b",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "f1eb8482edb41c1ee4fcfa0f517cf8490cf29484a388d9aaec584bd3bc5f50e1",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "0a7d4cd5a02d9617fd025cae86d15ce42c2103a6b23417ada8d94e819edf1a18",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "023cb4076309d0a94a98c7bba986f1c1ac0c6f4c9b9dbd1886a5e810b847ae65",
+      "text": "runs a six-phase diagnosis on a hard bug or a performance regression: build a repro, minimise it, rank hypotheses, instrument, fix with a regression test, clean up.",
+      "hash": "5bcf3651b3232e8615aa932e9f77f20bfce9e46272139e67740a7d4568fd1eaf"
+    },
+    {
+      "id": "d5d02515d7cc280b3101fc23b2a780c6d720038747810588a392fa57c97bacc7",
+      "text": "It will not let the agent form a theory until a",
+      "hash": "e656074274f0e6eb6f76be6d9980aed0d2872c17540adc35c8ac754d612d6be2"
+    },
+    {
+      "id": "02927b27c6bc224c3ab8efb515e5dc19b30f08a1e377bfe5fd3149324c0c4ce2",
+      "text": "feedback loop exists — one named command, already run once, that goes red on",
+      "hash": "5f2b7b0209d775bfd7022c0432c064e0e0b721f0901d863410203ad26e309fee"
+    },
+    {
+      "id": "9cd043a54b4751eaf4e2abfa7ccef6950a15ddb455579c8c16601a721b33e196",
+      "text": "bug and green when it is fixed. The default behaviour of a coding agent handed a bug report is to read code and guess; this skill blocks that. If no red-capable command exists, there is no Phase 2. That single gate is what the skill is for. Everything after it — bisection, hypothesis-testing, instrumentation — is mechanical once the signal exists.",
+      "hash": "2a760c3d03c22b4992d723a9cb78bf4c3b3387b504e5fdda766c8a2f1ca874b9"
+    },
+    {
+      "id": "2b48d579fbe156374a5b93d009cb2c57ad5d86f44365368569b03efefd825aac",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "49566cfc45e880f472abcc1325f1f1af3ab6a691eb70764ac921e4c03e59966a",
+      "text": ", or the agent reaches for it on its own when a task fits — it is model-invoked, and fires on \"diagnose\" / \"debug this\" or on a report that something is broken, throwing, failing, or slow.",
+      "hash": "8856a4f0301644d76d64341fe5a3585d97f1240ce47e7345c7620c6c9805ba94"
+    },
+    {
+      "id": "2633178aa3b7ce3d4b7d0d2e9772a317f7dbc0a3582bf803483c27f444951460",
+      "text": "Reach for it on the hard ones: a bug that resists a first look, an intermittent flake, a regression that crept in between two known-good states. It is heavy by design, and the wrong tool for a question you want answered in one message.",
+      "hash": "c3cfefdc3dd95f748d66ca4b448c890917fe4037418786a849dc7d818b00c471"
+    },
+    {
+      "id": "c036cb3cfdd4261f664a2fc1c289bcf76bb9736102591e16ab93171eb0929590",
+      "text": "Your situation",
+      "hash": "07b3fd94bd3286875133769f9375728ce5f18adbe4bf0e864e0bd16633b6e6a5"
+    },
+    {
+      "id": "4a72d87389305a20b90eecb947ada755daa212328a8fb058cbded1a43c8b0c82",
+      "text": "Where to go",
+      "hash": "29b4cebb3351903a61a83e2075694925185df75188939c5ec084cfe05ab7b719"
+    },
+    {
+      "id": "816796293310e10b07586ffb3f01d52878816e6cca536b2417e415809785a4f9",
+      "text": "A specific defect you can describe as a symptom",
+      "hash": "0479fb74c3b3c89994aa8e404373f378a7b072eb54544239dde7688f2a9469eb"
+    },
+    {
+      "id": "1bef5df462b79096b5115fc15965ee18e386b481a7a0bdc59ecffc8cbe9c48ad",
+      "text": "This skill",
+      "hash": "70d2d6360cb0dae1c22888bec60be534bf83677d0d212f8326a35f8dbaf65d1e"
+    },
+    {
+      "id": "720fc0699e1452ba24a48053839b2fd4aaf5ef7f202ca1fcdf584d69e08ea9df",
+      "text": "A slow endpoint or a timing regression with a known before-and-after",
+      "hash": "66b2ef491b05db8b7d551595928c38ddc5b4e8b8a1fd2af82219f031babca2e0"
+    },
+    {
+      "id": "c8949c14518f61bc64c57b3ff33c604d865cd82781ab3407b48c959ce4b1194d",
+      "text": "This skill — it has a performance branch (measure a baseline, then bisect)",
+      "hash": "69cd7152a58c3c55fc895974225bd32815300c3cd56c5221ae1df5ef9d12392a"
+    },
+    {
+      "id": "8ac92fbc80a868087ae4556df3555e96f4dff270279eb8435f2eccda597add9d",
+      "text": "\"Where are the bottlenecks in this codebase?\" — no specific symptom",
+      "hash": "1ef4308b608deddfcd18e7ca5ccc0d95bdc4ffd8ae89ac5fd8b1fdaea0735b75"
+    },
+    {
+      "id": "408491db3a3571e1a86f9fbdaf6721e834e3277b3f5cb8569a6bb9fbad07ff0a",
+      "text": "Not this skill. It diagnoses one known failure, it does not audit",
+      "hash": "ad5098967c382de21213715c54d9df0d4f197de32249b63975a7d8c9774a07e4"
+    },
+    {
+      "id": "61083bc222dcd0a299f9cd1a7782ade9fba5974f948598c565051c48ef6e2bc0",
+      "text": "A raw bug report from someone else, not yet confirmed or written up",
+      "hash": "4923c5eb38e2b26f26e5a1aa67b037f5d701f614d7da4022daa1a8707e5889c5"
+    },
+    {
+      "id": "9fe2d05ff4f3d4b54d67a8583971c88e6371b6978f767ce88a31b4b1ab855853",
+      "text": "Throwaway code to answer a design question, not chase a defect",
+      "hash": "50b2d65340e6b8e22ec994ddb2091992c9063b605bfab4f5de6c24d5415856a3"
+    },
+    {
+      "id": "243e975d10c999984483005fdaa3bf30952cca922765e7b6c3fa2c58a37da104",
+      "text": "Building a planned behaviour test-first",
+      "hash": "eb81aeda74699d7a9ffa6804e558297d3e7403be5e4940ba60f36296583cd0bc"
+    },
+    {
+      "id": "7024bbba977b66ace4104e70c87508b616f915a583ec1162ce6c05c368051e79",
+      "text": "No good seam exists to lock the bug down",
+      "hash": "7e3e5cf1a3e67520d43fb519c17d4912ebb4d9ccbc60e51ec58e5f1956d96f62"
+    },
+    {
+      "id": "4c08323e9c6f49b719a45e0ab77aadf06f0a192f0478265b6a4ad888944d56a1",
+      "text": "— this skill hands off there itself",
+      "hash": "e5415a49495ff725ff494341a2bc5a9c2a7035e84ca63cfa2ea7a539d4e4ea38"
+    },
+    {
+      "id": "e29eaf0695637c3466985372954ca81144b22ece382833120635ee313f625e7e",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "e1cd6d9d6512acc732dcacd605f93f49fcfb574768987236ec165d1298082a7c",
+      "text": "Phase 1 gets disproportionate effort because it is the only phase that is hard. The skill gives a ladder of ways to construct the loop, roughly in order of preference:",
+      "hash": "892bab59c4be377cefca123d7ea586ed359fe3e73c1c6bbc8cc23a1b4aa6dda1"
+    },
+    {
+      "id": "71cb0e8f9358770674ceba3941b45f4f2136796b186365aba1a88e601a1f06ec",
+      "text": "A failing test at whatever seam reaches the bug.",
+      "hash": "efff3fa24bef2a5c489f1a624ee6ab31e867b133028004b656bc3968c043ef9c"
+    },
+    {
+      "id": "39a56cd71c29ed163d5f083edaced2d3166e6fb3ee9c1d6c4bf0c02f2e59e114",
+      "text": "A curl or HTTP script against a running dev server.",
+      "hash": "984c033d35201c3e3f0321e60d2bcecd905ab863186dc86140024cdc255108a3"
+    },
+    {
+      "id": "512b7394315ebc1481c23d83de2d21191d1fd57fdc40746cb5ead422901ff787",
+      "text": "A CLI invocation with a fixture input, diffed against a known-good snapshot.",
+      "hash": "7ae19a471bfb1935ecbfc4cce3488136e736325a275310ac836adeb2392b4394"
+    },
+    {
+      "id": "553f4642a6ce9aa169799539aa8f6e91ac0bd54eaddd20b8714da447d1cf7967",
+      "text": "A headless browser script asserting on DOM, console, or network.",
+      "hash": "782c2bfdfddb16237c3b2f23438d0ba0980cd2d4009a2ff725d17553fc582e71"
+    },
+    {
+      "id": "b722ad9f514f0bbc015fe1e28876e6bc850cb126bc2eef408196f07a846e8f5c",
+      "text": "A replayed capture — a saved request, payload, or event log, run through the code path in isolation.",
+      "hash": "953e01f527a36a38aaf56d1be3fdef92f0d842b9193c76f33d9aec8bbee10513"
+    },
+    {
+      "id": "6f91535ce4551396b0db36e3cde149ef04b53333a4ee4c701c7309e9de253902",
+      "text": "A throwaway harness: a minimal subset of the system, one function call.",
+      "hash": "782e07b76c2614f3542e88aa7b395f26de191e3785509f06b87e0fad2ed7b402"
+    },
+    {
+      "id": "c808318f98b1a3a67f3f73e0a6745d7e50f778dd88943ea8aef79778ba103407",
+      "text": "A property or fuzz loop, for \"sometimes wrong output\".",
+      "hash": "a96f2ea95294a1537859c5f3a24c9166182b8b880740403c2db696a73da9bfed"
+    },
+    {
+      "id": "c6c6646d28675935993169538ef1f86773d4921659b7708b1a206603ce011b9e",
+      "text": "A bisection harness you can hand to",
+      "hash": "c49ed6d45c7c501b007a06352fa4104b24651df0726352e3ce85aba630740197"
+    },
+    {
+      "id": "b29051d1c5f96c2489f80ddfe011c4a602856d0867cec28c370c89560443add2",
+      "text": "A differential loop — same input, old version against new.",
+      "hash": "e0aab3975e4c87e89c8bd340ba2a7d7e0170c34d9c49bf44a6b5f4ae18707746"
+    },
+    {
+      "id": "ab05e3db45c43f0699281eb62f71774d15c80c3bc242c396ad07a16560ff54d7",
+      "text": "bash script, last resort. The skill ships",
+      "hash": "4c5dadd544cd1b5dbb3c80109818dfad603273df6d9b8af5b32abe554f1f0957"
+    },
+    {
+      "id": "ca1081208a987fbedeed1fc26af62f187c3a4291ae163f6079340e4de375506f",
+      "text": "for this: the agent runs the script, you follow prompts in your terminal, and your answers come back as parseable output.",
+      "hash": "de06885db9c045d34ab094bd512d0334ba740b9ce713913aa1265edd59cd1cb5"
+    },
+    {
+      "id": "d3aa8ee2531f5bdc0c3db5f02393d0de4965bd4829003e22e86cae86d1fb527b",
+      "text": "loop is not the goal.",
+      "hash": "6fe4b750f9c1bb8d391c89a6f1685835fd9e03c7a34d1f0c3e1291e96088106b"
+    },
+    {
+      "id": "da75d49680622422f6e8888b480c923513acd476e436586b56995e857e5f60f0",
+      "text": "Tight",
+      "hash": "ce0cc8415d939a3a4ef77722c5c4152d423d21e7f3d7905527811aefcbff2784"
+    },
+    {
+      "id": "7610a45dafab2f47906d1def07d24976d89a8311bf00793c5c8af20f42d4992d",
+      "text": "is: fast (seconds), deterministic (same verdict every run), sharp (asserts your exact symptom, not \"didn't crash\"), and agent-runnable unattended. A 30-second flaky loop is barely better than none. For a bug that only shows up sometimes, the target is not a clean repro but a",
+      "hash": "510a86b8eae6d2647dd7c2cdbe3e67ad66d278aa60cb4e4272e56043aef78d28"
+    },
+    {
+      "id": "98a51b95aa9350048521696c70c1fdd6eab880858a6308b149456bacd13bdd97",
+      "text": "higher reproduction rate",
+      "hash": "0cd4d0e2a1805401b8b16e58cd0600aedbaa6c0480b85e7dae9e8a4a1058e323"
+    },
+    {
+      "id": "b4114e5dd2f074c13b3016e299e37b973e93fad26eae429451752234eba0f810",
+      "text": "— loop the trigger, parallelise, add stress, inject sleeps, until the flake rate is high enough to debug against.",
+      "hash": "2d355d3625e1b3213627b563ee1f9c3bd637a6ca683f752019260e35bd5f0715"
+    },
+    {
+      "id": "f0446ca23891ea8bea29531f8f6b3a11db6dc6082dad1bd023b3cdc078058b88",
+      "text": "When it genuinely cannot build one, it is instructed to stop and say so, list what it tried, and ask you for",
+      "hash": "b8161ea5068b4f4596bf9d8e8b7273bd144e93e17f31329807907a63235b6334"
+    },
+    {
+      "id": "ebb6790fa439c450c969a5ec60f4b9b427130079770da5bb4afa88239b3bca1c",
+      "text": "access, a captured artifact, or permission to add temporary instrumentation. It should not proceed to hypothesise anyway.",
+      "hash": "95b05ab4448c67d64c1520bd1fb868e38ae6ba0c17925afc48fa54ec2d196415"
+    },
+    {
+      "id": "a4b45bcc59e3193ecda9ff407eb0a27b72b925d301ec401ef222ddeb12356615",
+      "text": "The phases are gates, not a checklist. Each one refuses to open until something specific is true.",
+      "hash": "61758621fa0f1e8b8f19abd2f76b5b747e362ce5a87731cc61be38f85c2bcffa"
+    },
+    {
+      "id": "9654f0e5ec18ae0eb6afcbb85c89ec6aad12e9437acdf782eb6e30dd5f70f46f",
+      "text": "Gate",
+      "hash": "fa77a5252d38a04cd913a3797530c438cf5b349501b7d44d8265e3e949111bf5"
+    },
+    {
+      "id": "28be4241e90851daf7b18845f564abf3b1fa2eb7115d6d24a7d7211712a1279c",
+      "text": "What has to be true",
+      "hash": "8baa614116cf6baa5853cf3e9542afeab66f540edfc6efb12391035c3de4389d"
+    },
+    {
+      "id": "2e17d5c6b634563ecceae8744d1c841fcc2a3637f0b89e53ff28319e5ce11f19",
+      "text": "Into Phase 2",
+      "hash": "0521075ce78921222550788716b697c20b116d9b24c601220539881852e914c2"
+    },
+    {
+      "id": "f829b492849d4afcc739415b29456374d237af21290a5e06d1bec42e50abfde4",
+      "text": "A named command, already run and pasted with its output, that can go red on this bug",
+      "hash": "12eaef38185546ea99b6204f8b55903b65dd77f4f226247ec4696c093ef2c844"
+    },
+    {
+      "id": "dbd7971ad448c65d7cf213d2d80a4e4975ad1e23692e2a8d4a872a37a48b194e",
+      "text": "Into Phase 3",
+      "hash": "39132e335a196aa0d4ddc8c86efa9ebed256c962072e97a7835fbaace895668e"
+    },
+    {
+      "id": "6e1dfc03efcaad4f0a548b46529b019514aea9f2c98126fd1318d87bae502921",
+      "text": "The repro is reproduced",
+      "hash": "8bafbfc3a96b807cb943aa41bdfde318150380a40532352739dce66fa92b2ca1"
+    },
+    {
+      "id": "232e802322f625dc6ad1435b3e1a5dca4efc6b0eb4ceb5f4db9bca740a714252",
+      "text": "minimised — every remaining element is load-bearing",
+      "hash": "da27eb12fc9036017412c162dc31ccedfedc5b2d973a4c96b420b1012db0d1ce"
+    },
+    {
+      "id": "5dfc6fdf4857cc55f77521c816679e84f80e11284a333a4eff218fe83238af81",
+      "text": "Into Phase 4",
+      "hash": "ff1bb52cd0eea398e4db0e2bad0768c5b0fffc279d7b63b9cdc674c55f14f09e"
+    },
+    {
+      "id": "12094377da58c287d964793fa0c4b3d63918ab8b71af7d9f0ec1fb40a82508bc",
+      "text": "3–5 ranked, falsifiable hypotheses exist, each stating its prediction, shown to you before any is tested",
+      "hash": "e3f9ae11759ed5a871e3a891b80153cbf6755273af22377e8706c08943bfd7c3"
+    },
+    {
+      "id": "296da1cd143a8405fcefac598c3813553244cea26004a68c354e27feee4e47ba",
+      "text": "Into Phase 5",
+      "hash": "93125bb2cd136f1aa4ea555cc6127010ec80345a4ef5370e69e18c5a8046b247"
+    },
+    {
+      "id": "a4b5558d1ea76218d1ec7847f440b49147d485da0b6cb2106fa08a20dbbae1ce",
+      "text": "Probes map to a specific prediction, one variable at a time, every debug log tagged",
+      "hash": "9732e10be0e5aa1d39af57021beed101070dc5e7bac6b7e2bebe4156b6fb7626"
+    },
+    {
+      "id": "eba6c7d653fe0c7c4bada099085df729352a9a89af0c340ff0a517e1061b3619",
+      "text": "-style so cleanup is one grep",
+      "hash": "604dd785e5f6c1f7267792ea00c9f425619a5f88159c8236a51b303a224fed48"
+    },
+    {
+      "id": "c994f6949ae90a6ac51c7ed9ec93c496be496eb36e284a78a9fd05616779b48e",
+      "text": "Done",
+      "hash": "11a6767d5674c7e45f7e00dc525762275b3a48491ad6045427d2609cc496c516"
+    },
+    {
+      "id": "1215b323cc731ea3d2a039ead743bd9d1ad7052ad4ebd859dad90c6d22c65fa7",
+      "text": "Original repro no longer reproduces, instrumentation gone, and the hypothesis that turned out correct is written into the commit message",
+      "hash": "4623ba460c0b2798f190dc1c492f5cfaad40bcabcf715449e82cd731367eda62"
+    },
+    {
+      "id": "d473e326fdc2e9874a6a4546857693ed41b0f7ee2a624095d9138dc1b989199a",
+      "text": "Phase 5 has an escape hatch worth knowing about. The regression test is written before the fix, but only if a",
+      "hash": "cfd4ede2d8a5bdb0d7c638ee8e69e2ab0c4dff45cbc515cfccdc54d01747bfe4"
+    },
+    {
+      "id": "8194bd4a1a9dc298f30240e6a84ea8f36cbbff784d2529892347071fb2ced2d0",
+      "text": "correct seam",
+      "hash": "ade5ea6106cfd3152291007ea7d58acb7f14ed320a907dbc4588ed66bbb36239"
+    },
+    {
+      "id": "3e93a86a591a0f1cf2079d2fc8a469e7d3b09ecbad43833c7cbbb55954963f34",
+      "text": "exists for it — one where the test exercises the real bug pattern as it occurs at the call site. Where the only available seam is too shallow, the skill is told to say so rather than write a test that gives false confidence. That absence is itself the finding, and it is what routes the post-mortem to",
+      "hash": "32c337f9517b7dbdd8557436b16441b0b41f9a548115f841ee29851c92408e79"
+    },
+    {
+      "id": "57f1cf5f63c094d617316be9a2cc249fd49b86e5b3ab878da385ad2ce5217397",
+      "text": "It fires on quick questions where I just wanted a direct answer.",
+      "hash": "ed1b1eebfccbf118b23a4b1486a4b552a8e6bdbeaeb696fbe5889cb10ac38c93"
+    },
+    {
+      "id": "e664d44f343cdc32555d779ad262f251fd4945f968e16dc40c6625c7f9bac292",
+      "text": "This is the most-reported problem with the skill, and it is real. On GPT-5.6-Sol especially, users report it triggering on a plain description of a problem: \"the model triggers the rather formal diagnosing-bugs skill instead. It then goes on to construct a reproduction scenario — often building a mock scenario with limited value — before giving me a response or suggestion. This results in considerable reply delays.\" Four separate people reported the same shape on",
+      "hash": "5d3f1b417e57390ca4efd22a4a85e405609706d445b60a3ed9d4674b55ae31e8"
+    },
+    {
+      "id": "240365972edb55379e9cec314562008613136896b50ea14399fb13e744b6142a",
+      "text": "issue #578",
+      "hash": "83730da3f72568f5f82f6c890d949ba0131345a60a511b2e83abc15f315a6f00"
+    },
+    {
+      "id": "946980555691b15c7f850e9a9c2439a8673756e306d6a65e7acba5d8279fceca",
+      "text": ". The accepted fix is to start with a lighter approach and graduate to the heavier one only where the problem warrants it, but that change has not landed. The skill is calibrated against Claude Code's invocation behaviour; a",
+      "hash": "26b0fd2bcda546e18d4c1a6170ce2beb9e3acbf1fa6a5c70cda80ad6065337ca"
+    },
+    {
+      "id": "39fb252143dff55ea5ab3daadd20e2bcc94b4b16809965e0275b1a124b672024",
+      "text": "with a lower activation threshold over-fires it. Until it is graduated, the practical fix is to say what you want (\"just answer this, don't diagnose\") or to disable model invocation for it in your",
+      "hash": "92363184f886544c95600dd5435ad80d5387681e0546d23e31c5a03be23b8a37"
+    },
+    {
+      "id": "36aaef1e9ec63ed869a2008d996f3fbb71751f62915160ff718f25ee10a8b3e9",
+      "text": "Can I point it at a codebase and ask where the performance problems are?",
+      "hash": "004b4381e978827dcb9bdefaf7e60b707fdd80d48778e31c52e307b5c8b2a388"
+    },
+    {
+      "id": "3cc9b78718ad0ad96cacc7fa45b7a1f89c5cd9e46434d96343f4659da90a434b",
+      "text": "No. It diagnoses one failure you can already name. Its performance branch is for a regression with a symptom — establish a baseline measurement, then bisect, measure first and fix second — not for a proactive sweep. A skill for the proactive version was",
+      "hash": "f8135e033ca07233f3ccb83ec6c806ee30cf868549e3d82e1fd9a1c8173c4e78"
+    },
+    {
+      "id": "bc88301b29a2f82620cff00ea9c34da44fef9ac7e1d292b91d2fd368409d4ccf",
+      "text": "proposed and closed",
+      "hash": "93e377d254454446d1e2bde6d79ef5130068723661c286722033418119f78f3f"
+    },
+    {
+      "id": "b1339c2c938436499339feb07c5ef37f103f7258939262a7a2d1f8f4d797b593",
+      "text": "; there is currently no skill for it.",
+      "hash": "ad43e007ad5e1370dd416cf1382de4272e674b5948ac2a1116b4fce974e8a316"
+    },
+    {
+      "id": "fbca550e5c3e5e640540aebb1c71218434841826e604461534b63b4a959299c2",
+      "text": "Does it stop and ask me before it writes the fix?",
+      "hash": "e3cec85f2eb9a8087c8ccb2c6494455876953bb062d69397d93a88032c95992a"
+    },
+    {
+      "id": "7391f1757cd2f97d05a441bb691e3e31e49cba6182d25b7c7f899fd3bfff66c0",
+      "text": "No. Only Phase 3 has a human checkpoint — the ranked hypothesis list is shown to you before any is tested, and it proceeds on its own ranking if you are away. There is no gate between instrumentation and the fix, so the agent can start writing code before you have agreed with its root cause.",
+      "hash": "eeb233ce471661725e234573fcc01691acc957d2579d470b60ab857ca7bc717e"
+    },
+    {
+      "id": "e7eed612c460095418fe2beef09aacbdb756dd887e550e0b00caef385c724499",
+      "text": "Issue #124",
+      "hash": "d74186c9c64fb07fae2e5b299fa9bb77ead21cc7a10945103cd666ebda71ea57"
+    },
+    {
+      "id": "27bbabfa61554068b58b2efa16995b8570d0e9248369dde175b0255f097743c4",
+      "text": "asks for that gate and is still open. If you want it, say so when you invoke the skill.",
+      "hash": "82b7653040f7995e42cccdc3e1d4dbfd2c3493a456954123398cdc94a1305f7d"
+    },
+    {
+      "id": "8d261bf15d9a0a1b610be85483ddad65fe195899989641407c69579e49a6f05c",
+      "text": "I already ran",
+      "hash": "7692e5e401c5400d29a7bfe3b05f035cbd696bc14dd5fb5682b86d251cb70ee7"
+    },
+    {
+      "id": "d49f8ed60f433c7f2f47e34e88fcc8c8eaf92f2d0936921dd5738a931cd93d1b",
+      "text": "on this bug report. Is this the same work again?",
+      "hash": "513af9341fc16bb6ee01428ab7c59374e5a12be48ace1da701b1f51dc0ab37a2"
+    },
+    {
+      "id": "9f01c8319872f8fad1fa697cb365fe565a8b3d87b5af973f1de69643941d5e8e",
+      "text": "Partly, and neither skill admits it. As one reader put it: \"Triage's step 3 is essentially a shallow, bounded instance of diagnosing-bugs Phase 1–2, but neither file mentions the other.\" Triage does a bounded \"is this actually a bug, and what is the surface\" pass; this skill does the thorough version. Running triage first is not wasted — its verification often gives you most of Phase 1's raw material — but expect to redo it properly here, and expect no cross-reference to tell you that.",
+      "hash": "204c968103aa88e60f7e234dd064c5d574424ca111d77e2ca1bb11c5dd057853"
+    },
+    {
+      "id": "547e8d237c8b93af8bab4abbee80b1a1bdedefad6548db6e0ef65401a3610104",
+      "text": "Will the repro output it pastes leak secrets?",
+      "hash": "22f7e0470c34071443a4dc3b72d7b244ec945040d5a9c66991d65f313ce49dec"
+    },
+    {
+      "id": "f6fe234cf9e2e37ab4b0f2fc0e2f3a53e88253beb2d61d41b54d94bd72d5feaa",
+      "text": "It might. The skill asks the agent to paste the invocation and its output, and to request artifacts like HAR files, log dumps, and core dumps. None of those are sanitised by instruction.",
+      "hash": "569308ac9388a19ab0c0826a9d786e63797e7a9de1f764c98b76d2dcca77bb1c"
+    },
+    {
+      "id": "da5ea043687b6c087a241096e8ac228ac2d74e286a9288760b16904ddc769b5e",
+      "text": "Issue #674",
+      "hash": "187bf82f43eb86284c4ed12e5b94a5ca153619dc26cd7bb8a4e586b88ac8c2c5"
+    },
+    {
+      "id": "bafe3b0b155130212d8ce4cdc3bfb948a7865613278ff77c1e265524dcfd0285",
+      "text": "raises exactly this — credentials, tokens, cookies, and personal data riding along into a chat, an issue, or a PR — and proposes a redaction guardrail. It is open and unimplemented. Treat redaction as your job for now, particularly before the output goes anywhere public.",
+      "hash": "8f233bb5615fbb8fe8570c3bcdec5f4f62e7b00d4ab89ad79c3112928ea5b746"
+    },
+    {
+      "id": "7d11aafc18fede5079ac18695047dad0d20e308c0fc5521bc1ca02efd6bca1fb",
+      "text": "My security scanner flagged this skill as high risk.",
+      "hash": "f4a2ffbf1e80a5f4677a602ddf573c76394fe09ffeb829c9d61784ded7ac274a"
+    },
+    {
+      "id": "1ce93144352b35207b73e08c8d054779d8834dd9cb5f99f0eb2c1164ef6e420e",
+      "text": "Snyk flags it, and the flag is a false positive. It is the only skill in the set that ships an executable shell script (",
+      "hash": "87c82bc06755abebe51b9d992d55e57b123d114c707012831ca93813d411927d"
+    },
+    {
+      "id": "1fe0ae5782d1f53199f184e18ade0bf7933c59d2c42855aea7e50cdc73593ad7",
+      "text": ") alongside instructions to run it and to curl a dev server. Shipped",
+      "hash": "130d833b105e6ee403ceb7961121871fcc1540b3578889bee31560bb930d73c0"
+    },
+    {
+      "id": "7bd61ac73e94e5a66664bf3dc2baa9f46bc7a8064b564e85e8128f643709bfeb",
+      "text": "plus run-it instructions plus outbound HTTP is enough to trip a static scanner. The script itself is about 30 lines of",
+      "hash": "3e5eed263d0e8763760e6e83afa85be71334e489c04d84b97d11009e8269526a"
+    },
+    {
+      "id": "d468c798456e032bdefb3f095541f3e47c352699be5654a6d7105276217fb960",
+      "text": "prompts that pause for human input. The scanner is rating the capability surface, not a proven exploit.",
+      "hash": "e19fec3e316358d2f0533466880c6517a466dadd7a2a629fe21409164de0a66e"
+    },
+    {
+      "id": "d4c6db7c96ea1b42243ddb05683bb68d34d738e15a4d5c9bf83bc72828b33d37",
+      "text": "What happened to",
+      "hash": "163a90c859caacba773e762f6ec87c35ec96c2cb43104e3a72234ab0b8b44345"
+    },
+    {
+      "id": "d803da19742d66a21c50cee2e6e8f7d8b355bf3f6a7a31d7be5c753bbc18e9ef",
+      "text": "Renamed to",
+      "hash": "4df7b4f69bc7e8f67dea9041972e6be1dac0d1a6045844fa5a31dc137ebd3d1c"
+    },
+    {
+      "id": "e725ab3244cb7f06c9a4cbc4dcaa55b825165348d5e83c658269a095b2613ec9",
+      "text": "in v1.0.0. The old name no longer exists. Anything of yours that chains",
+      "hash": "3c2f78cc76c6dbd16c20a02c6b4ec7668b517dff35612b7454dc3be5b0bd251b"
+    },
+    {
+      "id": "e0cdb1e1f6ebc4b343cccbd7ba32021f809b299ecc1b5d8e60f7f3f51961207e",
+      "text": "— a wrapper skill, a saved prompt — needs updating.",
+      "hash": "94ca7580de793b0405bed13132ad252a9d8a3df4ff5f294e0c0f3d084ed05d10"
+    },
+    {
+      "id": "d9a6c1a4f3340f0aae7429bab1104acce4bf4ddd6de2065d4ea544cffe6405c9",
+      "text": "It shows you a command and its red output before it offers a single theory. If theory arrives first, the skill is not running.",
+      "hash": "e3e52399d99098c74d9ccc7e714388e5bd02fc65d8e12ea052622dfa24e125eb"
+    },
+    {
+      "id": "376d0c79297829d245455521e969c21cce0c69eafb4bd2fa12cffc32a83817ce",
+      "text": "The failure it reproduces is the one you reported, not a nearby one it found on the way.",
+      "hash": "41e7f7e6745c6b08ab227460201a08145f580840d256bb8245181ce44783c0a3"
+    },
+    {
+      "id": "b9e8b3e2c190a3e6f9e0cfee34e8be614f38c7eaf4f1c4922d3e3842d89fbc88",
+      "text": "It shrinks the repro before it starts guessing, and can tell you why each remaining piece is load-bearing.",
+      "hash": "8b505cc764ef22f0fb5489853460ca936cfba8695b4ba3ac03fca5f6782b27d2"
+    },
+    {
+      "id": "0f6f5a5063ab5b7b33faaa568d273439fbeb838ab634277597949b3798dae3f6",
+      "text": "You are shown a ranked list of 3–5 hypotheses, each with a prediction you could falsify, before any of them is tested.",
+      "hash": "9acf0a4c0e6ba954f20c59473b7efa943a36228c3a8733fedbba73a9d21534cc"
+    },
+    {
+      "id": "547db31729bdc2b49077a6421ec4e8a792661dfdb67b3e9a0f89d026e4e031db",
+      "text": "Every debug log it adds carries a tag like",
+      "hash": "697f7ed34bc4ee2177d23475f60571b8f1b3bafcd81ac286cfcc60e0c26db826"
+    },
+    {
+      "id": "085d1f349e60b2b7ce582a518e5c889996d4c7c2341dfd8ff12f8dfae104dcaa",
+      "text": ", and a grep for that tag comes back empty when it declares done.",
+      "hash": "692a8dbb23429a936677a4eca4940c7dc68e97f530718f3384d90f178caa0668"
+    },
+    {
+      "id": "8500c773f43cf5c786c1ee001b02a38442a8cad03e69343acbe8c0cdacde3861",
+      "text": "The commit or PR message names which hypothesis was right.",
+      "hash": "49608a3dc2c9242195e1cdd6bfeb0511304ebe5bf7c5af71249f899e9ffc7cdb"
+    },
+    {
+      "id": "cdf5988827659b8eca3538075a94bd00c72352f9f668a69da1146287ce5541e3",
+      "text": "When it cannot lock the bug down with a test, it says so plainly instead of writing a shallow one.",
+      "hash": "bd89bfdfd4e2e29ab578be08f9a642aa601e4d2e8d049eefe4e7c0335eebc905"
+    },
+    {
+      "id": "6a869b5a336921e5bbbe0f40fc086b31f072c5495b9a9aa895dd5e4f7264bdc5",
+      "text": "is a reach-for-it-anytime standalone. You drop into it when something is broken and drop out when the fix and its regression test are in; it holds no state and needs no prior setup.",
+      "hash": "57d03dd75b6f69c8b5544e1695d7c69f1f4cb2717d4d07c6c539b62a956df5a6"
+    },
+    {
+      "id": "dd4d39219f87fe6c8ea03effa30fad2f3f9a1d42359349c845d4d1660c4fc9b2",
+      "text": "routes \"Something's broken\" here.",
+      "hash": "a44b69af704355a99a62c856c500f39e29d62b77481c0a85d0101fe5fc0c26af"
+    },
+    {
+      "id": "80f99abbde4b3d2dbb122b72b1dfc0c1c2f79977218cf047ea849bb1e44bbd76",
+      "text": "Two neighbours matter.",
+      "hash": "c3b2dceab19b1b64e1dc44268077dcb474c4ab93497c4c272567a8cd1f17e295"
+    },
+    {
+      "id": "ad82da4b8124d0968a4509162a681bf1c9f780a5bd3d42573d90bec833e0a866",
+      "text": "takes the",
+      "hash": "e5c420331888df0407926a764a403479bcf8ade08e1a833088b3d1bc6e1d61c0"
+    },
+    {
+      "id": "8c6ee256f160119f9dda089779b06470de63642e1c959283e1e1fcf9a3ac2255",
+      "text": "when the real finding is that the code has no seam to lock the bug down — the recommendation is made after the fix is in, when there is more information.",
+      "hash": "4c525e574baa79ec24bda6976f6212ac4162e1af63c2f3f1e4c2a6d99ee336ca"
+    },
+    {
+      "id": "95f227114e8d030e94bdae9139b030bf5e041a7be343a336d7a847866e4abb55",
+      "text": "sits upstream of it for bugs that arrive as raw reports from other people, and does a shallower version of the same first two phases.",
+      "hash": "29c8ff1b1929811c6cf3e71165b0f997851dd91ad40c2af820e02aab2d368b90"
+    },
+    {
+      "id": "b57f1d9e87215656d367a209baa58b5bd8e0632f393c3b9bd2de3a7bccc4fd0e",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "2a081ba61678f1bcb2293ed92ac11b4496d9194e4527238a43c8ca839b8bcf40",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "d9e581a8c446e8132beb5c388f21a965e5c2403e801a1f2e1c1bc4e4b80a6468",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "877281140720d120d8765fcd540672666555536a0512e13bdaa468beac5ab6c4",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "de385ea7bccccf999229c4731bf884803b5e476cae9f8749dbc4856b2ad7fb74",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "31e473e21befa6e412439d8a93bad1700198141da4a8f33745f1e2ac6a142680",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "6ef0966fda6fa52424d4788fdccbe99d8b985ee60366554a3e60e151064a85db",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "afb355f47b43837306ce903848a51c2af09befc7dbce3b78ad32f7926c837f22",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "d2c92527de28d22a31f8f1814b2ea84df21b3f02f13d38bb9db5f57a67900e22",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "21b254b756d9a3321c598f1900acbf51dc7307197df3be1254324683e77996cd",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "4c7aa8f4b6f987f8eabf8613113add866765ca14342b356c148f27328169d621",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "8f2c54d5aeb79431a486bfd0baa86471af0dbeeb58a54931430ebb9715a8b49e",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "5b64a1890637ecc7b5c9efb4b32891016b1ad19e32f12107695b275801a98f4a",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "759c8b53a763bd66ffdaedcc6a10f419a2f5ce3efe57d8e9b22c0b07d231f401",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "0836e8875089fca14ffe5efd16c1ed701fc624d4b846ffb52c451c4bf9bc2008",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "75011cade63438d1e6881fc2679217064ba60838cac004cd9f01bfd4ea53cf6e",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "d795404915a54bbd139f69e79663f240207e002679abf83c20c1cf8b07b2aaa0",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "b07122bc5d28e25f1727220b19d2c54338a17c5e4289814bc195f276f2634cba",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "0a935ac2c8181cbf45d406db8104a9d76c12f43af4c7a8841a737d484776123f",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "01f502bfb1d8c9d6f073c0c309acf5723af8787a06195b05cd8ee29da92ec9c0",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "b6e9139e11d7fee71d1f54b50c6da99672aef256b44d821a2871751b4108c51d",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "3cbfb7b210f93f95ec9eb4ad70fda567e1135b8ab932b363d609463a815e7994",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "67e72f696d80804e9de80261df65ea4300abbad3a2b57adaa60aacedf1eb49b5",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "af352a22e6b3be74335af3a7d067b7627e4c0939ba0bf715a2c642b00c1bab2c",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "d50d98841c0d385160be3cf401fb1ddcb8093a29a4485dda1222685d7504e316",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "6018dee7f9ab3748c13deed7f57ce036a2f9ccb7ae2406a7574dcdcad6557ab2",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "957e22984fb323771b99d0d372778e26f3c0473f0a95b198ba1870cb0c2751c1",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "40273b91d64e33386239a2106cf882bbaa52c9643cc4086d1e8cb23e9e174c6f",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "444136e6dbf8201ee1988310354d1458d010f7db1edd854e551e9a2698381364",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "c870fdcf380269fd40fa15167e835e44b5329ee02c97c9a3abe7432a47dbc86a",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "e1f7f88603ae57fb59fd03b4bf33b30f030ad5fbf6976c9d60df29cf6d451e91",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "5c433624f603e819bc5a8b0e9e68edbc6700060668316dcffe7d47581b5fb43a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "91c1aff78bf684e6aeb0e2e3ae9b201d8c876f79e8c75e02d97aed9f1d6854de",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "fcc75dfcd06ea55a30122d1c7693fc5edf6ef3f64e5dc2840e01647d318f3c2e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "43999c000dd26eb388e480cfc6f3ab79c92e75c72914d861869345d63068baca",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e7e95edfb5cb9a532ea22e5045804d44e5c6bddf235db6a05731d51eda1601c4",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "28c51fa9f09093bd39bdddb91981d477356699397f151a19891879f20840f85b",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "427f6ea383a53009cd17785b7ba98177b0a47e3cc0226ab1cf744ea8d9f5f1de",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "66ce06af1e9c11bf62a19e452069a6300484d46df6aa9a79c195dc8b020498ac",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "cda7b4ef26fca20cde1c97163ce818fe46b0b512fc1bc0cdc7a63e386f13a6ac",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "523f9ab4392a4fcdaa557b621759d93ccd7f6f15dd03073a96f8f90f672f42b3",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"dovr72i18o7fpl\"",
+  "lastModified": null
+}

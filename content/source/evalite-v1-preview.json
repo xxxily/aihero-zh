@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/evalite-v1-preview",
+  "pathname": "/evalite-v1-preview",
+  "fetchedAt": "2026-08-11T06:28:15.670Z",
+  "title": "Evalite v1 Preview: Fast Evals, Built-in Scorers",
+  "contentHash": "470b54ddf34511d8981be7b02e0f5348209fb792207aa0f8e87913393b74402c",
+  "textHash": "12a107f77265e33a30253467c008de854c20694315b702222f2043fadfc0b9e6",
+  "strings": [
+    {
+      "id": "bc7eaa85b778f7ba68dc23f692aacfd505dc8a3712f2d1a7792b317fe8507990",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "ceb28fcae0aa6b10d99bf514744c67000a5d1c8486f950dfe85a58e962f1a745",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "0350d688ae364573479cca6f82f89c7b8aad89edde9d41f8da71935c8cf38211",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "ff250a8a596dc6572a32fc873854d92a2a33b7183e4270a6ecf8b59b23fce148",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "f232e975833d5d83ba9b8382ec5de91142b505feb63b39599c88173be64ee349",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "63e07b8d179d0c19369cc4143ff3405e6377ed14fee63bfb9009fc364889ebc4",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b6564e1620a6a4ec4ad789810b03ee646a4ba2e86d6fa6ea2042452201f34d7d",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "29cebb0473ee539dec6bcf75bda4387f1dfbaadd96b1c9d7285b8eefdabf32f5",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "6c34cbf01266554150753fbcc5fca672b8eb09fe3611ed6698e3ddf910644eab",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "418163ff9cf29495b7ab26f5df87f75bf92e73aecdc9eec6975ec1237a388a7a",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "935371a2d58b2baf3cacb65b08ade103ef68fddd6e9f5a30c61f3d6691d419fa",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "9b1163748cf19b8b95c37c3ebbbc6750ee365b08abc19236bd5525d3e2ad9ca4",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ff5a85483b45bd1d9b1224c4efbc5c8f51e00ea811ad7e8f4d3802cb79e30a44",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "f2ff1e476ed27daf8c2b78de3f0b72a9b1cb0dfbde4ea613d1e47b3650337e93",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "555fb50c92d94b1b6dc2fd223c696868dfca705339d156327425a01d779123a2",
+      "text": "4 min read",
+      "hash": "4d9657762e6c77a0b993256206c8bed21d2fb2cf6f39d987bd7ff233fe4349e7"
+    },
+    {
+      "id": "5f0fd75d2bb86d752e02851e219f28b84e8a72e495a35d7b14f8f4449a2bb258",
+      "text": "Evalite v1 Preview: Fast Evals, Built-in Scorers",
+      "hash": "5093959d3eb29dfc46a14ba429e032b913556f99343fc6ed4e5242859c498f9b"
+    },
+    {
+      "id": "89f2b05c07d938d852f71dcc236aba6e84b586c42679fd2e7dceed4037da0273",
+      "text": "Evalite v1 ships 10 production-ready scorers (string matching, RAG evaluation, agent testing) plus in-memory storage by default. Still in beta.",
+      "hash": "d69ee631c947c79de703cb546032ec6a8c97470a880831ca5b0d0cdcf4da9bd7"
+    },
+    {
+      "id": "2e258c9220917ed8eb57d4a4645039f88a2f86fd9d50f37de3265151edc66f76",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "70ae6817769bc78f650175ed3ed48066288aa3098a358ccda9e59a8ff7849547",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "988ded2699e8f4f9c5f53877f56f332a270e723cfb34657cf3aca06dcdca195c",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "62e4bfe13bab11b57e735695a50bec8a7d4ec371f1fb05f2833716531098d2c5",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "a0d929e0b56681a8c86deee4ce363557d8912e19d262206fb932e3ca472e6a2b",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "70f0c99f4f31855e92fc25f9c2a624b810f33f8cf7f7d5a6ec165cc090db523f",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "bc155db0325cd17473c11a225204590de7ab4de0f9b51c396bc831ead7e07fbe",
+      "text": "10 Built-In Scorers",
+      "hash": "6db81c1e3dad55ded3b9b349ff7d4e8446dd2a01e6ce74a5f3dfd10f9119d653"
+    },
+    {
+      "id": "f44b1f42c74be2cacfea2e20a8392562e76d07a8e1bf7c810bb886b1ee8734ec",
+      "text": "Mix and Match Scorers",
+      "hash": "704be118a8436d4a6c8fa618b709fdede4e1f2621eacdcc9844a620e84ffc4d3"
+    },
+    {
+      "id": "9bd1d24f1d07eca328867dde2582965a41df71005c3489e2f8cfd12c93dc82c2",
+      "text": "In-Memory by Default",
+      "hash": "cd20841e04b51c88f3b10f44456395d20ce1736af844b85ade790c831aeb4701"
+    },
+    {
+      "id": "bb93a4db9fec65688556014ce51f130d3bd0124869b8e4a81adba5437dcfa641",
+      "text": "Deep Vercel AI SDK Integration",
+      "hash": "c9caa59175fe460e2b1476bf8fd6f47ada154b3381dfb2979c96b6fdec8fe826"
+    },
+    {
+      "id": "064092272a35aaec53bfce7a1e29d6651f947b80161ad64060ef91e6b87858d8",
+      "text": "DX Improvements",
+      "hash": "5cc41a2d8599f6fca0ef73c9a471170b53d91636c46f67e939f9035353c807b4"
+    },
+    {
+      "id": "e046829e29d1a3b116e77fca7a7883e93ceaeff6ff9807e4fd0f9bd4495e0705",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "23568dd7a3e851e8c14874d22a145bd539a900ccaf9c33fbfd38c42be72f3c43",
+      "text": "Feedback Welcome",
+      "hash": "bb7063c40f957cfee291469a46da0473e7ee0925eb0ff2ac28bc5c0301985f5e"
+    },
+    {
+      "id": "0d4770e214980afee0d72383f81818ed0bf8982345abdc6c8120f8786f921878",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "0946f64460982fd94a823e3b66b2296c0bb16e0b51ac6157a44a19d084c604eb",
+      "text": "If you've built evals before, you know the pain. Every time you need to check if your LLM's output is correct, you're writing another custom scorer. Is the SQL valid? Did it hallucinate? Is the JSON well-formed?",
+      "hash": "9a24a6fc7e6c31830564c257b7a35e09686849b9e1a7c4d3a98ac78ede5c6116"
+    },
+    {
+      "id": "25b32134dd20c76480334b7d62d6366ac00b597ec6e01121d49776cbc7c5f53f",
+      "text": "Evalite v1 (still in beta) solves this with 10 production-ready scorers, plus a major architecture upgrade that makes getting started trivial.",
+      "hash": "2bdc8692e8095d49d944b720a46d4e0fab530221f0275c7ad8723b9a40b27768"
+    },
+    {
+      "id": "a604b5fe8aaacb181079c23457e031cb987e5a87f6c3bf75d2d31405dd6bc93f",
+      "text": "Check out the full docs at",
+      "hash": "01d2dd2c507442cad245c780ed7b8312e44a22f9ffd7259c101b75e1742b5452"
+    },
+    {
+      "id": "c443fc6583621984bec68cdd4731a55a2090534aa31e548a8c6354b5365734b1",
+      "text": "v1.evalite.dev",
+      "hash": "c870359f3b099355207bba226eab2eff25babdf0e6bd47b081333f9e1c52e9af"
+    },
+    {
+      "id": "82221d8d80ecc79cefcdb39b18df49a0f0a4e49098ad820825042c8b6b3b4580",
+      "text": "Evalite v1 ships with scorers for the most common eval scenarios. No more reinventing the wheel.",
+      "hash": "9c655b58ac1c65a2d6d43c1905be759206d8654ee4a10d5ef76a38bb37ecef97"
+    },
+    {
+      "id": "02b18294a0ecdb83ae2541d008ca0d3803ddfc34fe193be102ca345c5c27e481",
+      "text": "String Scorers",
+      "hash": "9b0590baff418def2780af2e0103f5f7b84428a35d25f479a90b0112921975e7"
+    },
+    {
+      "id": "c220e5b2f1590fa28d3de2402cf248b1d788d60ae3449beb84d7dcb791dab5a5",
+      "text": "These are deterministic scorers for simple text validation:",
+      "hash": "cc99b27bb568ad631a46b6b88bc726f4eccf10d1ac93cc63f868491b9a9122ed"
+    },
+    {
+      "id": "b156bef54c8f392bf9ec374b8254affca4af35689dfbd37e698c6812d862f86a",
+      "text": "exactMatch",
+      "hash": "18838c02425ece039d40795cecf353bec56a9b8179bd2dc98226b9750da77839"
+    },
+    {
+      "id": "2fac670a26469d2fef1b6b12b667104f34abac75a6c51535b021c84993262007",
+      "text": "- checks if output exactly matches expected string",
+      "hash": "482fc8ad3aa6103446c96cdcfd518e8652a8096bf89631230d5acba4ccb6585d"
+    },
+    {
+      "id": "4cd83a44675b203556829ce703b4ead3733085e7ad1bc64f528e1ad75f6a8335",
+      "text": "- checks if output contains a substring",
+      "hash": "6f62426f722d1f6774a16380e783a35fbdac032ae0bd5666fc680aaa70d43391"
+    },
+    {
+      "id": "a69e57b5a925b9232a5a5ea44813b075fdcb2f90c7eb65c5af791326dc10888f",
+      "text": "- fuzzy string matching using Levenshtein distance",
+      "hash": "56f5ec41c23223ad79b8f853c46ab63a34887728353c7c9d1d059d21a28212eb"
+    },
+    {
+      "id": "3f21e43bfa7d92445552853b82dec1d5fea495749b404221000ba6f6bc71c911",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "bea54af1d8ca3aacb21c2afbe9ea8d9275015df797df63e672c45ed1994ac6de",
+      "text": "levenshtein scorer",
+      "hash": "7c6e711b85a95f94e3f367ab8e819114b1ec62e932acbd0cc8eecda99e84939e"
+    },
+    {
+      "id": "9d7656d144e618b533c2292410f0b8ebebe6feb1b39223c2e6bab63800972142",
+      "text": "is particularly useful for SQL generation or code output where minor formatting differences shouldn't fail the eval:",
+      "hash": "5dcfc3bcc8a14823caefaf5a8424a7df8c8cce8e81306b8f074f08ac30decd03"
+    },
+    {
+      "id": "b0520120c177db7d1c61957bf6c72bfcca8717ff1dab0929e378118669a5407d",
+      "text": "RAG Scorers",
+      "hash": "85140ee5d19884f0cf8f0f22e4ce91da075c28b2d660273eee8b24fd5a1a7bf7"
+    },
+    {
+      "id": "48d78a909e124aa27965fe0bc6c3f1383d2a0c20ee134c07e703cbad0f0f3ae4",
+      "text": "These use LLM-as-a-judge to evaluate RAG pipelines:",
+      "hash": "b4fca246a2d4af4c5bc4154fb387b08b840efa8a5961c57c91d79a366979a53f"
+    },
+    {
+      "id": "16b4b8c21de38c85fd811f7d61a293dbb31efac0363aff17cc1871966b1788ff",
+      "text": "- detects hallucinations by checking if output is grounded in context",
+      "hash": "c8fe7b4fabecd4375e4755dc702be57423bbe224687d1e986e7507785de545c5"
+    },
+    {
+      "id": "8cadffcd85a3944c742b8ad1a8e3a5bb9c2d8c68f41c3e10481ad71c826ae019",
+      "text": "answerSimilarity",
+      "hash": "c369fd7fcdd8459fc53f1677e5d81e6f7ab769e6f262fec12d1cad0658658d69"
+    },
+    {
+      "id": "d903f7515447299546c32a97370fb8fad1fba59b4f7e0ea844649e8f28f13f38",
+      "text": "- compares semantic similarity between output and expected answer",
+      "hash": "2a2bd9f4b492d812f8e5d9a6c6816435d34ef003801f661fc6d4caed6c64da9f"
+    },
+    {
+      "id": "e20ad1d91bbde2bf40386127fb3324c198f9839f897101dcf61298927ee62a0c",
+      "text": "answerCorrectness",
+      "hash": "b8ea0f371651ec99d5893baded61c372352bff123e6648b888b8d25a463a5d9b"
+    },
+    {
+      "id": "e90e0d80e8c0ea0eb02bcabe3d6efb30db5cb069e3823285948bbf18cbd8e9fa",
+      "text": "- evaluates factual correctness against ground truth",
+      "hash": "eed2a3cdb1a91cd31aa266c705e7453bdc62bbc5d4bb4e03518131894e616e4a"
+    },
+    {
+      "id": "de544c70195063ffccc07293f3e063b7025f3a9a3e4a484bf3ff63c6d385d285",
+      "text": "answerRelevancy",
+      "hash": "f203a28255bc503b859b5dd82e73c35dd492a2de5e2c99f5cae036e7e49faa79"
+    },
+    {
+      "id": "d358e509baa47c3f6c1a4aac150d1580ae93c7b91fd2163e9ef6557b77afef26",
+      "text": "- checks if output actually answers the question",
+      "hash": "5615a976559b6dae3e335c6e86e609b5dd161af810be895fcfeb230534a115db"
+    },
+    {
+      "id": "2689b94daf0ecfdf9262ebdf0fba6bc80390ef85b43cd795a07b698766b3bc5b",
+      "text": "contextRecall",
+      "hash": "3f536c02b984b67f4933f15e8ea2d5baa5f62b525ceb427d4a5ad8f8d91ab980"
+    },
+    {
+      "id": "ada351a5a8f53914bc185ec56cc7131af542f9e2a0de62d1f429d25130cdf864",
+      "text": "- measures if all relevant context was retrieved",
+      "hash": "9029ef812ce4637a91340215151d3884c325f070985276464b668ab6dd67ca39"
+    },
+    {
+      "id": "a0be81081579f6523e2e6bf6a9452bcb2928078883ef708dd296cc8fe9fc0474",
+      "text": "Example using faithfulness to catch hallucinations:",
+      "hash": "0c3cd1ebbb2cd2250f1611e62f40bf7c74abf731fbed4596ba6be4a1cfca4608"
+    },
+    {
+      "id": "e5daf44959593438965cc8e499248630b6027f9649d1c035e8d69c27ebb9116f",
+      "text": "Advanced Scorers",
+      "hash": "8b21802fa95186ed9f1d715b84f906b2b282792b4a6ac497554732bfedf963be"
+    },
+    {
+      "id": "601675cca38bba78478a3907847c775208c991b00d44e8116dc5ee4b296b1669",
+      "text": "For specialized use cases:",
+      "hash": "0ee8f37a7281683eb140a04a423b6f92999de7002b5565e18edcc5a6f03ca331"
+    },
+    {
+      "id": "ce5740381cf1d5c8de4232ac8704201091f468ba1602c6e362526a9149e50222",
+      "text": "toolCallAccuracy",
+      "hash": "5de0187c2a85bc65a6680d03f89af8d81e5bdd38d0f7367155f68613b03dfd16"
+    },
+    {
+      "id": "b7851cc235c21ebe7deca38ecc55115c5e2c0d4f9dd8df0819edfe4c5de56e75",
+      "text": "- evaluates if agents called the right tools with correct arguments",
+      "hash": "b9d47a018d0e76c904eb3de7a73521951d5a599b8232a4d37240aaaf1311fd9e"
+    },
+    {
+      "id": "4f7a8092388258894fd8ee4df5c19a0ff0533c570f9eb64f0b43dc4c0c35a710",
+      "text": "noiseSensitivity",
+      "hash": "96638f6c75ed5834f2c0d5ddddc037f1766da5ea022b39a6b3d574cad37cc8b5"
+    },
+    {
+      "id": "27e9f40b529083bc532064e727f578e67f55492d265f402a7b40207ba311d208",
+      "text": "- tests prompt robustness by adding noise and checking consistency",
+      "hash": "53691345bf48582a18979b329c7cbc87ce0bcb5339b8dfd9f57ed2dd3b9451e0"
+    },
+    {
+      "id": "0bcb1b62baf166e9f5bf455ee3585ea0dfa70ed782c3d3e2ad12a437c5199494",
+      "text": "Tool call",
+      "hash": "17011048725fe0aa705c845f084d0cceafa8c81f7f439bd83a6600d1f516e009"
+    },
+    {
+      "id": "1f80e2c807f00f95022feb8bfaa448e6c9f46d40e0999888c39a3ec32acd324f",
+      "text": "accuracy is essential for agent evals:",
+      "hash": "efae63fb30d9e55dcf204353b4f4f97b2d7eb5e54efe41c84792cf7ce463f297"
+    },
+    {
+      "id": "11c29453a060f5f0854b05b3b9c3a725f0c9f8546728ca0a59b4974fee103185",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "093f6ffb55e41c9d653e29b01b87ca6327e982977538469044a59fa1c934c0fe",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "2e105812acc2864019eb9c2b8ffc85104947017660f9fdf3a26f91d0a9446723",
+      "text": "The real power comes from combining scorers. A comprehensive RAG eval might use:",
+      "hash": "7e4301a94508d3b1ea58ccb38fb24a302c4a4b5257f40945ced635ccd6a3f442"
+    },
+    {
+      "id": "86d52d0fa69ba3d56682408c9271f95995d43a0a4a35e4d7340e273f6669e683",
+      "text": "Each scorer returns a 0-1 score. Evalite aggregates them to give you an overall eval score.",
+      "hash": "48f2008b12861ef0dc8d7a8cf263850ac9507862205e664a891e876b50e952f4"
+    },
+    {
+      "id": "f49d7cc78c1826ffc29050eedaff3be5c7ed100b743ec62db13e99d9f63ee5a5",
+      "text": "The biggest architectural change:",
+      "hash": "4467e7ce47dabf6306927170ca8493975c410f0256cc8cf987ab549b5f973de0"
+    },
+    {
+      "id": "9c4a29f91a05bfecd17b4840adfc77b598f782805113361e422c93416f0bad53",
+      "text": "Evalite v1 uses in-memory storage by default",
+      "hash": "7d78acd14fa62216010b4c82fe93ba7539b7c6b197f940afc7144df4e45d1aa8"
+    },
+    {
+      "id": "10f46485a20e4abaeb47dae81e5e4bc794401a0c660bb06d530db26442f20841",
+      "text": "Previously, you needed to set up SQLite, which added friction for new users. Now you can run",
+      "hash": "c5f11975c970c1cc6a9e3b6c13afaf42c8f4ab631f77ad082c27a693eb088853"
+    },
+    {
+      "id": "25d60c72cfd75fe2a1c54d2131cae3b0cab89b8addba4ba196514591ad95235f",
+      "text": "and start evaluating immediately.",
+      "hash": "1555b773649b3330c9b069a5b5b74b13eac40708020b34511c00e3e313ce9ea3"
+    },
+    {
+      "id": "5179b1a9bde16cc4689f61007e49e3ec26e5602d83e3275bf0bd0c7af5038d12",
+      "text": "Want persistence? Switch to SQLite in your config:",
+      "hash": "849e66b04d0a5c5acde2f5452d6294d8970e040abd23e6a121094ce4181e40d1"
+    },
+    {
+      "id": "a35d9c1f4b81fb94ebfda9e5696242fe0b9d35fe89604a5eb21e6ea6bf8742c7",
+      "text": "But for most development workflows, in-memory is simpler and removes a setup step.",
+      "hash": "401afebbb1ec720ea5de84fbe40d6ba671dd6a78d4b29f8e4c7fdb61c53aa63c"
+    },
+    {
+      "id": "d89954bb4110f44f13d2654facbecd35b4e5d11a45135d56429f9b73f53af7af",
+      "text": "Evalite v1 is built around the",
+      "hash": "acf9084d58e5fcd36b843ea792e960a2f2b3b8a914b22f07043af830d9311624"
+    },
+    {
+      "id": "d8425a3e146505ffbdc8304adcc91e07ebd8b2137b3574b191c69885c313278e",
+      "text": "Vercel AI SDK",
+      "hash": "490c9cb0b3e768b12adbd0e81ae2f6fed2915bfe0410ad2c71f0e3d71d1e5c74"
+    },
+    {
+      "id": "6c20f43e821aeff8dec3451d3050057cd8f90761b7661932c78b62b42b863106",
+      "text": ". Wrap any AI SDK model with",
+      "hash": "f709037885baf93774bf2461ac8dac83cbd0f1cb4d279571f48a012a5caffe39"
+    },
+    {
+      "id": "c7f038bf795652bf374881a4a5c54062a5027885f9d457a0c99cfaa217dc03ce",
+      "text": "to get automatic tracing and caching.",
+      "hash": "d528bfdf6f79ea2c9481d1adb8fb6e4415b312ed4ed753a15f65130bd45ac1ba"
+    },
+    {
+      "id": "45da388be976b7b794f8b764e0fffb5c5fbff5bfd83630bd0f207cdcd48de4ba",
+      "text": "Cache Everything",
+      "hash": "bbbe11e0b047d149ac90c21b37c38499b1e5dee0e69d2da0e2d0c6c3814b0e21"
+    },
+    {
+      "id": "5d6fd5cdd84bb8734114e3a010bd5845b90a78b7f4553b597f543c94994b9f4a",
+      "text": "Not just scorers",
+      "hash": "0d0e1f7fc9427b7acf702befc724343ff266fe4e6dce888ade78dba5dd980afa"
+    },
+    {
+      "id": "eca5c0ce778f876be4bb51655f0cff24712abd2a1539ba7eeb081f91d3c63e5f",
+      "text": "- cache your entire eval pipeline. Wrap models used in your task function, in scorers, anywhere:",
+      "hash": "d33f75d82cec30b142eff0ce5c92cc01831e5cdeb8a46ef417776d7301fa2941"
+    },
+    {
+      "id": "eba38f5642e77940e7f03e61fa908ce3eaf234612e3773bebe9154898e0c2067",
+      "text": "This transforms watch mode. Change scorer logic, tweak thresholds, refactor eval structure - the expensive LLM calls stay cached. Only run what changed.",
+      "hash": "6bd4abdbd6e2f0625be4c4d7c867de5746f0b0ae3229a5aad33e4aedd0568be9"
+    },
+    {
+      "id": "ba0c7c6477a1a2bd4eefbb9beb7ba68b06a7d51a440fe5a0ed83f31b14e6adbd",
+      "text": "The wrapper works across all AI SDK methods:",
+      "hash": "f8c6aabe453b13f4d569a63db35767b0e13e0d6a9fea0ffe4f8d7ccbed9b0309"
+    },
+    {
+      "id": "f95f233730a89c8e4409143048e6ec9012a68687af819aa456d1b81e6d81f2a5",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "b15143efee3d76c11fae41af5b068c99efbe97555ee798cd766566583e3a78bb",
+      "text": "Zero overhead in production",
+      "hash": "34a75d8f2b0c42d8d12e463e627eb51af4707f4a8852192aad0ccc834c26a7e9"
+    },
+    {
+      "id": "57994d3776333771e382048d32a0b607886451bc96a7f8d434600b7c1673fcda",
+      "text": "is a no-op when called outside Evalite's context. Your production code runs exactly as before.",
+      "hash": "1dc94268f56bd00bc813e8836a50da168aad8ed1a4ac2957cca7beb223ab0407"
+    },
+    {
+      "id": "d5f67243f3433825cefd58b64b4cffcb928a938c6437029e6167e52f4ab9d798",
+      "text": "The biggest DX improvement is",
+      "hash": "ba8d5a384e256dd93754337f3db207fbbb769ff0255ac47e0e4e93a735befa9a"
+    },
+    {
+      "id": "959591da0339ec74f56e672942750fc1f9cfbc5cbd8bdf1a7fcb80f314a08a93",
+      "text": "auto .env support",
+      "hash": "699b485fc5634978b82074dba3d575792703d3c13fdf84c9bede36e881246f8e"
+    },
+    {
+      "id": "46d09a66cbcf82df9ce8a091044f197657a21960c51447d22a32116eeb98e57f",
+      "text": ". Environment variables load automatically.",
+      "hash": "6937dccc064d7776854f27fdd3cf5ed33db046bd33381ca18e76251a7a32fe4d"
+    },
+    {
+      "id": "622974a0d086669232ebaf395b672992c3d0668e301a2ea447156834a1cb7b78",
+      "text": "The Evalite UI got several upgrades:",
+      "hash": "d050256d4a77bf8e92a0947fe9fd68dc222818e379632ce146c93cff42b50c58"
+    },
+    {
+      "id": "24f0eb7277939c75494709061dccb2e6c904495d4c8bd942c52dd952e33e7606",
+      "text": "Dark mode",
+      "hash": "9b7878aef90b527c22be169ed4ab97a5e216b6a1c719dc779883ef64eb85520b"
+    },
+    {
+      "id": "f53cf37f922fef0452c9c13024b84426f32b9ed74ebb58709812135f6a455025",
+      "text": "- Theme switcher for light/dark preferences",
+      "hash": "1577da10a9ff351d796bbe6746691e00247bb7b3de3afadd258c5f1abd2d4f4a"
+    },
+    {
+      "id": "3acf51b1731b00d6eeefb2abe9141292537ceb0c78d594ce889360ebe320532b",
+      "text": "Table rendering",
+      "hash": "f658fcca4b923466375616a3ef4c9583e5cb097f7e53a3ad5d94ef233a4cff82"
+    },
+    {
+      "id": "2bd040a990b55f39e9b771447164d269532c4c70d03becbd73247bd930067663",
+      "text": "- Objects and arrays render as markdown tables instead of JSON trees",
+      "hash": "bb9bbe840f6f1f275f0e35d6e9a8e857e268e73f76a637afcded2afbf5b0da1c"
+    },
+    {
+      "id": "d7b11e5485584adbb876be55ba9122f4f7f31f34ba00d0572160dd37172889b4",
+      "text": "Rerun button",
+      "hash": "81a0693115f9cd9a1b82752f5eddcb7fef976a9c199d0e5ea5add39e46b53afb"
+    },
+    {
+      "id": "fcbf8fea874402bcdb34742ac45356f53861b152c88501bce7b8897c612ac2dd",
+      "text": "- Re-run evals in watch mode without restarting",
+      "hash": "c3b800da692cf93629192f99c2aab4342b9fc6dcd858c9b961e491672f0bf208"
+    },
+    {
+      "id": "2d6ef32496e6136ef0523bc30c136ad153efab8d12d9a9437537d2c448fcdb23",
+      "text": "AI SDK message UI",
+      "hash": "5d1b7810c07b1e6f1f5b7e12439446d21da20f8d400dcc0562ad6f43fd976fbe"
+    },
+    {
+      "id": "be99756148f2415f369881c7f9cd024e9d11f4d1d282cd3dec633892a349a851",
+      "text": "- Pass AI SDK messages directly and get custom UI rendering",
+      "hash": "db6d7676eba288ec1da1c564d51082ba98c9715e7e0f021699947cf338f16802"
+    },
+    {
+      "id": "6fa5bedcfa91c2511db104859858653786e9f9f15092dcd9e7e002ac7b68a260",
+      "text": "Evalite v1 is still in active development (beta). There's no formal migration guide yet as features are still evolving.",
+      "hash": "e493034c164fd0f26508112588810fcfe4deaa37e9233bb76f9f27a799aa39f7"
+    },
+    {
+      "id": "0ace719e48a9cfff2ca3be05ccd8cf530385273f517b534a4e47f04335019ac2",
+      "text": "To try it:",
+      "hash": "d4c35c85c76be7f279b2917e25b6375ddb1cf64f4aa8af01645d365d978b5f8d"
+    },
+    {
+      "id": "86d42b08a46e4597fb4452ac8f095af3908b5f3ddeb4855fdcb8d0fd8e4a7cce",
+      "text": "Full documentation at",
+      "hash": "dc7e1b2243fc9349c60b78822a4558fb5cb5ab5b5fc549e6e31c282f9ef5e581"
+    },
+    {
+      "id": "1bef087769b7f97e78a68672c560dd1b37b30bd3b590484a531e34105f8958af",
+      "text": "Since v1 is still beta, your feedback shapes the final release. Found a bug? Want a scorer we're missing?",
+      "hash": "7cdb35b38302bddc7b1633706ae1a1a98974d19e556c5123cddafa529761c016"
+    },
+    {
+      "id": "9f786a6233a8097d79a2daa4f2eb3a37854287d90609afbd11b36b090b9a690a",
+      "text": "Join the discussion on",
+      "hash": "38566ef0a88bce5ca9a0a93bebaef4b972adf29bb3e001b93becddcc1aea0cb1"
+    },
+    {
+      "id": "cefdba24aadb2338b7eebe4810cf06841e82c9a8a8420addb63be067615a45ac",
+      "text": "Discord",
+      "hash": "053bc65874ad6098e58c41c57b378a2f36b0220e5e0b46722245e6c2f796818c"
+    },
+    {
+      "id": "c2b6becbacc2c3c6b6375e93a3e2de4681216a8f7081284990df41f9ecdd8564",
+      "text": "or open an issue on",
+      "hash": "b413ed9a3f3fa884d8511d335e3570a61b6751bf8c2aa56b71a260abd4c7980f"
+    },
+    {
+      "id": "db30b7150250db5d06fd8617f321d6a3a0964cf3d50643b73fd592ff39ccf976",
+      "text": "GitHub",
+      "hash": "f911e414cf6bdfc595532ab166b5ba0f63d73c021452fcdacbda363dda6ad8fb"
+    },
+    {
+      "id": "0b4feccce29b07614d88c4cbf74b74ac6e6fec091573515edcc0760e1af00c41",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "6ebe2a5e93a46a10b32c10ea879d8379691fe96429403e883b65b87941d18842",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "0bbbabc427e706794befcc92f5630a6f7fc0895cffc1f540dc7855e607d587e1",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "778e0abbf7b16837c1fa0bd2e06e7932d1970897efc2ace937fa78c381234a5b",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "8e65fc91f80246100fb2b16dd0a0e580b6c5ff5430a48a18c8f551c720217cd3",
+      "text": "Article · 19 min read",
+      "hash": "c04cee9189899b5c05e6c2a85bc179840bd49e565bed37b8e9f787b9c0eececc"
+    },
+    {
+      "id": "aef52295a7f38f1fdb6fc225173be74ea3533319e4c1f733dc70fe65decd8dbd",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "9cb1f169574892f38adffc0a8f8360e8cff97165ab760e9406d6fcb85d7686be",
+      "text": "Article · 8 min read",
+      "hash": "7ed659a57e73c0b79d355e027243422ade398c8a5c07027fc4d37d8357ff6dec"
+    },
+    {
+      "id": "e3f1775b10d7bff121f830b55f63edb7c9a2b1f4684685c4b3174be70437964e",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "2e4a6b04faebeadfe41b505da1675d847d9bda17c060aa613810ecd0b83cca6f",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d02f94a25a789fce32782ed20b11f1a5a2a069d5a9dfc84ca3b1c58aeda2bdb8",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "5b73fd5bdf5c1ab9e7ad430665173a6bb5227ddc8fe8fedc25b8ad277f1c0ccf",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "2a56b0d889b1d1f21a104198a66c3b82e8343268a0762c5d3a6c3c128c6cf01c",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "38286ea48aa5775ef0cfe3e1e0bd14d2cc0c128450bdd761c538e39c77bc69ed",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "c423ad6f630e0e3cb4d9e37c63c54ed8185e78263880e4327303db062fc468f8",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "eddb8da6efbcbf62b6c8435de43faad92c6974957ab06fd7be0290c5549b50e7",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ecc5cbb8e32414c056d478bfe6baaffdca97c7c1d65f0c658e9b33cad2001d55",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "4f1001248fc4a9a062e0d64a644b6f4faf0d2bfc00619f37772f6eb85d6b4d61",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "760e1a33730814ada1f0153a595e29d68d47ad050166c0fc2c3514b714534c52",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "55c89e3b5fd3b50184ecc1366bfd41e41fdb8ee4cf678bd726a29789939dca52",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "96f658b6dc1d9a75388e57b291085e726b58281b2ceff2c78aa52b7820cc5af3",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "633be835b5948bcc1f048f2cdf64255e1a8541fa8dfdb578a7ad5b121833b72e",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "8abb8c4860ab25810915cccf35e540dd6ca164cd1d83255ad7885d828f936a65",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "8c2a041109b96935131c5159c2f876c2107f0d04c445216ca0e3f3bc3e49f4b3",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "24a7abd647107468fe9240f42a005f597b2d93b9f54937f112e5db8d66a1c433",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "c1f9b26b65af55667edb648f92b9e23ce629ac13ee2eb27a3e18efe742f2e9b8",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "faecce6da299eaf69a41120af2b3fe182c217fbb64cb4296b271bbc59a055c18",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"147xud3bd92729n\"",
+  "lastModified": null
+}

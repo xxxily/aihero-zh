@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/human-review",
+  "pathname": "/ai-coding-dictionary/human-review",
+  "fetchedAt": "2026-08-11T06:28:39.708Z",
+  "title": "Human review | AI Coding Dictionary",
+  "contentHash": "9ff441581ba68c5fc65044729ecf7d381fb8692d780967726fffac7ce8b6a8cc",
+  "textHash": "e04a5391309088aac6926aef2263d3cd544baac046f289f233ee6c6e9e8a2f6e",
+  "strings": [
+    {
+      "id": "2d5fe853ef3cc87bc70153b2f4a370f46b57ea70f18369110c5fa8678f78f6ff",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "ae04a3d533933bae34184725bee806d3d36cac259a10e8c94d826ff0254e7a1b",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "222e8c56fed8d1135a4fdd96e245f5151f0785f6ff64eee715c9afaff8913680",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "64c4520d190f42463ba7cac7be2334af4a6f7e650252bb9a25f54526a4923e58",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "8fb14ffbc23873ecb4872f876565b7ea494956edf7363f8b9591bc528c7ac3d1",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "0346131d8dea57e0e164c3ea96e7b1b64fabd17e25fc6dbf30e9a4fc6e318fe5",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "807adc4a740c00f271090374ea6988f067105355b55c01c725c735a7c9994ed7",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "64cb6e7e38246b09c4ecfb3e1a6cd7f6b66976a2b4381208f4c703490c10d644",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "bf760aed7a635ba5ac36ab09174f0bb8dd76536871e30cd50a790a6fbbf3c404",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "041997d7d0245367b79d4d9f5ec29dd6d9ec99b70b70c5432fd9b16aa88e3fce",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "970ca496a1dcecb7e8275784e81a0d77618c04f380e12890004340066fe05516",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "7004541b22f3a0075c52c3ea8abeef6d7dc5303eb6d1657d6d1a5be24ffd553a",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "077df50169f882abdc866a52dc9e50bbf9f5ba30fe2b0c90e4bf98538ac7dd1a",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "9d57264473a819017ef558dbe9ff7628b9d28e832c40b1589d296ee59b30aecb",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "d220dd3c62038d46463647cc916276e25ea4fe4c391ec739245a575b06920c68",
+      "text": "Patterns of Work",
+      "hash": "451912cbee5f0ec6ab7874916ee61c5d7d98c7c960493b524130e6c14b3e3f92"
+    },
+    {
+      "id": "a10dbb0564ee9db0afc4834f67b254cd45ab1c470314bbe79876f84fc685830a",
+      "text": "Human review",
+      "hash": "c1f43b8fad7537eba5cc87664a03cf3efedf7b64fb1d45ffa16a81d566ea2cb3"
+    },
+    {
+      "id": "c3d3e4395a9014459ea2f1bc24919ee8cd86132a1b01b48b9c327cc8b95fe6c6",
+      "text": "The user reading the code the agent produced and forming a judgement on it. Reading the diff counts; reading the summary doesn't.",
+      "hash": "33f76b077094cf9c62f314ff6410e57501b60bf963422de95a099811431db1e1"
+    },
+    {
+      "id": "5efb2da18964a8cb133b922ffecb6c6681f8d40260a71b43dadee213ba6aca81",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "23102f1206f3e3a31bb47da18737f5cf0dbe6a756beab473193962348f0f228e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "c2f550591c9fbb5d17a378f237e0bd441c7312a426c4641a3d109954bd4648e6",
+      "text": "The user reading the code the",
+      "hash": "bd6e613bd9aa5ebf3c2df6b9af7566c785385c0a75c72d9b5720fe819f405e22"
+    },
+    {
+      "id": "d09ed8af510b9e8fae2f84e8b4e73d00457a5038d2bfc381507a43688e5f07a8",
+      "text": "produced and forming a judgement on it. Reading the diff or the changed files counts; reading the agent's",
+      "hash": "f43b3d46bea4398efd37e7dc8c5cf5217e5ca3af31484d1ca5070a5c8d769ef1"
+    },
+    {
+      "id": "9df004733988b455f14aaeff6614969776fa9554db677a7650ee683a90e0b4bf",
+      "text": "of what it did does not — narration is not the artifact. The description is a",
+      "hash": "cf8abe506e3bab5baa7cb1c60bef3d0e7f3b5f4ec2f94b216b00d6f7834ef974"
+    },
+    {
+      "id": "05c1df7dd23c6da03944d13a43f0727fd9466c5e81fe8bee42493cf5b60ad220",
+      "text": "secondary source",
+      "hash": "130ab3f910dec4f94436851c6b9a50abec9e6cb96e7aadf7c47be2e57da1c894"
+    },
+    {
+      "id": "fef1ddb5fc613928d15bd7f26e30e98fd493e655abb0ed450e0c75539d17a870",
+      "text": ", written by the party being reviewed; the diff is the",
+      "hash": "58a5828f3df4bb05bc379d3340176bfc98974889146293a106945f53c5607b2f"
+    },
+    {
+      "id": "a6310b9484f634388d3b40f8db73500fab1988447c6cabbd384d027ea0e790a2",
+      "text": "primary source",
+      "hash": "4c3f03bb625194b79deeff56ee12d13258ff531de6eef1fff5529d0fe89a1404"
+    },
+    {
+      "id": "99b788a19217f37dfe17e132e75b313aa0e89f05f4d2175223e69a2e174753d8",
+      "text": ", and review means reading it.",
+      "hash": "e74683c2695277d25d71002fdd1a040d66f7ae0e2e0b0e5343611605df2eb83a"
+    },
+    {
+      "id": "1245e612508830d663913dbb68cb5dfc339c7af86c1f07730c6233c7c91925ab",
+      "text": "Agents raise the volume of code produced, so review becomes the bottleneck. One useful idea is layering different review strategies.",
+      "hash": "18480b70cfb43e4316f20682e1005845215466062c54aa8063002fbad11b84ce"
+    },
+    {
+      "id": "70596c875a939bcdd9ac7ec4b5e07db67f6603317050a350a6719f26fd68d6b6",
+      "text": "Automated checks",
+      "hash": "ad388fff8307156c06378e27c636406888b9e933e6d9896949ea27a045f49e60"
+    },
+    {
+      "id": "8371511c2b80a60e6316aa6471b1c50a77d9885ea02fb70518cb060406ae0159",
+      "text": "catch the mechanical failures,",
+      "hash": "1cc8458f281ae037baf11cbd5b0ea3dfed42bb0d86ef9509dd03995b5c3a74a9"
+    },
+    {
+      "id": "f6072c918d6b1df642b83c2863f6947e15c9100662fbd396f58a8e4cb8880e54",
+      "text": "automated review",
+      "hash": "50f191cd5fc38204b448aef31fe4355cd06753a9cd829931d5b71343757317d6"
+    },
+    {
+      "id": "51d523318ca029abbb97dd8eb230a1047f605c4e6877f348d511833ea2fda5b9",
+      "text": "catches the describable ones, and human review is reserved for what only you can judge — whether the change is the right change, whether the approach fits the codebase, whether this should exist at all.",
+      "hash": "e1bf238f8e2535d07e2cd91848b319b2607c57506b60117579dd509e9cbe3f2b"
+    },
+    {
+      "id": "79c64d991672ac59bef2598b0f2c85674802f9274f85786891e9be60c9a8016d",
+      "text": "Review is also cheaper earlier. Reading a plan before work starts, or a small diff mid-flight, takes minutes; excavating a finished branch after an",
+      "hash": "1189e9545f6cd8e1d971011df9d79272e61e09acc26aa51c5c30bef73d682e9b"
+    },
+    {
+      "id": "80ba0548daa069800f1d85a89e3807bfc5a980a646c0030e3cc21cfb210ea86a",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "dac28178b1167f037f747f6b6222b3e242932944e297256372c95595d9f5973b",
+      "text": "run takes longer. Where you place the review checkpoint is a",
+      "hash": "84b5bd92c784d01ac2df4b506f083295fb21ab1f27dbb5af2463602e0ed2b0d1"
+    },
+    {
+      "id": "ada9a8bdb6a61717ec0a4912b601d1e0e3e9a17716c2cfc092273ceb8f2ac99d",
+      "text": "decision, not an afterthought.",
+      "hash": "f209bc74671b8da058e3b5f3494d1c2459175b67af8cab54ef3ba36687a3fbf2"
+    },
+    {
+      "id": "9f9a16519d0f9b967bf7f96990abacbb921c221c09be4f95dc7e69e621e8ff04",
+      "text": "Avoid:",
+      "hash": "0c98d3dd1920fdb71269240ba1ce3a7323099760ecd0b295f071aca6b07e30df"
+    },
+    {
+      "id": "fa30fe3cc2e4cda19e22c2115f2eb29228339058c5438fdda630b53c6674543c",
+      "text": "\"code review\" alone — ambiguous between human and automated.",
+      "hash": "72d11163e105411666f00f17bd7453f0ef54a1f1cdbb805a7a2934330c013797"
+    },
+    {
+      "id": "47a4e43624564dd3f74a82ad2104c73946ed84e5bdfb34e2acd514630208b597",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "f0b19e07dbf5eb01cb04a515553156d56d58229e54a2c7dccffd4e06686b3527",
+      "text": "\"I human-reviewed the AFK output.\"",
+      "hash": "132028c1d8ee96a12fef5833f7a77a081a23367a773447790ed658150efa58e0"
+    },
+    {
+      "id": "e2b309b81bed1f0190c6d79466c4fe4287fcf02563f45c1d0c7885d6b0daeb74",
+      "text": "\"You read the diff or just the summary?\"",
+      "hash": "19a58e60ee8b831190fb4aac70e566d9568e06b263720b289be7333509adeec8"
+    },
+    {
+      "id": "9a999aaae7b7ce97430870655c5e49c5c2f1eb91500488d275171cfd2a7d3d4c",
+      "text": "\"Diff. The summary said it deleted dead code — turned out the function was called from a generated file.\"",
+      "hash": "a595d15cd070ae3e6fe82908cce8837fa482be1349e7507b3d5b73ee7a73934e"
+    },
+    {
+      "id": "95621ff3d040ab599b8139e00c9b9dbbc9f6344f4bc8fb63a428e3da6b9e4cc5",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "ebaf1e7daa9e51afd40aca145506c45dfc4c25276b30a2a50212ff75f2d6d952",
+      "text": "Automated review",
+      "hash": "df3514233adbdec46b793e0c605f72423cd52386b0c05dcd3d604d6f196da301"
+    },
+    {
+      "id": "eb51163faa7823cc59bb2f102d6698c3f925b8408f4a2519642fb7838eb58c31",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "3cce43342a9d015ac82d6b0abedc948c7a75a77c958f7abf9747c0f841d69bc5",
+      "text": "Vibe coding",
+      "hash": "043de4d164bd53f633b0d486ea898fddf3e3c3ca941f408349eeab6185ee8892"
+    },
+    {
+      "id": "63ebda4aa11b6de94265581eb989c634d86cba90990381e9931e8e8738b4e8ea",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "9ee6bce8c3dadfbebe5a7f6d134c2dd924e1d0eff2f128166616f1f19fbf553b",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "9e8138ef5b35ec39b2143ceb766765f86c22db972f6c30e28375e1c2c1db638d",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "bda47b3d345e0fed24431c89a6269fa0c91817f8d4fd4432a47bc523bb73d263",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "00347ac5ebb89df91ef39c3debc062ddc1f98cb22ab8c86a29875e680248d21e",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "f4eba1736a63a086e62add715d88be876390661adec64461ea1f8164c3350027",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "7341e206b0fe8436fa443e5d1a22c4c75f366c2facb43e35f30da1449acdccb2",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "1d264b8a355cab8c6d5b89c78be57cb9ec7a6e4b59c86fdff080dd502359c73b",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "e1fe8fb0c953cb29d37b9e2d172c8dbe9b3340fd9b9c617e813d886d879035fb",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "f31d68fe609c93b58f09db3a0416bd076571ffca6ca475f7d39207d0a7f30022",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "56c76d9616b767a63aa367ae67dedab086970c105fa37c392a5ef428bed5ca92",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "bc5ef291ff91365780af7476f8ab4fb96ce0320b11098c8e14b8156437659876",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "db66c7447a0d00c7ddd5bd2e0d08b2863779e836ea28aa081e6620b2a990b58d",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "e128da7cb7ba6ba226a5361becef3105cbc88f4c20fee54f4b82dbe934caf6b4",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "81f1e68ecdd1e569ee34874a220a3278f731ef5b2e20d8a7575dd1a30d062e2d",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "a1c802f124091d8983a701ee9a644e8ae67fd79cc3f1e3e05547be4cd7279226",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "0a6fc7d49423421ba90f55b401ab126fafe6a43d2d59842baa332873c1595bdf",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "0a37a6923f6680465dc5f98cf9b3f95d1cfc3c3ae7fa01fd6dc6a6386713eb21",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "968f57a5f8d1194bd69ef36df3dccd069a2f076da7ad1806589d8e523350fb5d",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "e65359fd2314a0f7d345768cc33568d8eb03862f2a3592a1cf18047d2b434fb1",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "dc61fa9c2b36ea7ba9c893162c04515e64a68eba9d93e82598757508d503f7fd",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "7fc9cdf5ee1df03bfe103f766c4202d027c490e26ba07eca7244985588837932",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "1554fdb4bfaa9a1487cef792c3680a41255b1bf377fd000c69b66f36cac0d93b",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "32e042b88debfce67199b5ca72dfd241aed560ea303eb56f7ad4dae7ebf92dfa",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "ef5685e6cb44fe677ab448a666c1fc4f63385effd226188b19867a734efeca29",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "42b6986914991a50552767c583c434e61f134f77d8c21d18d4b83ef0bed73987",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"178xqpv00y84q60\"",
+  "lastModified": null
+}

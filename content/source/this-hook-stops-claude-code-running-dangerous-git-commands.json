@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/this-hook-stops-claude-code-running-dangerous-git-commands",
+  "pathname": "/this-hook-stops-claude-code-running-dangerous-git-commands",
+  "fetchedAt": "2026-08-11T06:28:13.408Z",
+  "title": "This Hook Stops Claude Code Running Dangerous Git Commands",
+  "contentHash": "1a0e72cbdbe0d8fd23943df2e8bf862e687b5575ca105888040fa064ec84ba9e",
+  "textHash": "846a6d154efae8a27981cec04d056e9a0b2c2c25774815afb16d7196fd37f5d5",
+  "strings": [
+    {
+      "id": "ae54e4509ffcb11fe2cb253fc96100d4e1f91c70910be9b167078a41782f2edc",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "1c655bf4b0678fbcbde8df25b4ed558f3b1f0bd23088b24b4692ed4d2d4e0448",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "de0f9542b7ce7ec0f3d7d59e49bdd47eea1ab5ae5fcfc3a3440ddc9ad977dafb",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f584747c671f675b8b720169aa1c0d48f8aa235daa1b83284022b17a4716306b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "1ef6ecf86291ff2f734b84c1e070dd40ce4750f86ad739360c86a6d6bc2f4f1f",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "6c46f0e1c5723746b5368ee78f8b59cc6af05d2cb4fe8afbbb996d47a9205815",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "21bb7c7426b5cf7206a6afdf6b3fe6d3e939a9ee6945dd6abc43f11d4c40f971",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "6e79ee4d2b50ebb7d3c9c855b6fbb7f01af2f42382d8c29a16ab5e84bf2ab060",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "53b0eb47960f90ada6de00c58ab70ad9d740c0d8ba9adc8dcdc10ac463efee8f",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "a7bfedb9f7ae36909866a547834e85b90860c06d0e98112172cef35bb8a868d3",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "6a0ccd3d4f8e469399830ca0df5cf15db1fba82714077f156dae8115354bd96c",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "5b50496cdf5535c32785167ef200609e8bf4e9adfe2e65b8416215edeaaf3785",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "bd05d3292d963dbed4295bf57fa84aa560677eb75b82598796f9a495874e8cb2",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "6129cfa02227546f9a19fbbee225fdad5a10ddcff6bce378ddfd2c26cd3143c2",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "b6d47d1671ae5972a318b8ea54c2a84eebfd267a8a28408503104795c5613cf0",
+      "text": "3 min read",
+      "hash": "3ddda92ca6c1c4477116381599bb4d74d6d81b636b0c81868090aa5a475c93e8"
+    },
+    {
+      "id": "a72696f07bb9afb0ebd6b06a9e6528b386fb108a6fad853af87ee77b602edd56",
+      "text": "This Hook Stops Claude Code Running Dangerous Git Commands",
+      "hash": "bece2dfa71670e0dba50ef01a35087b4bfd34004db429177a1d484837dc5ee9d"
+    },
+    {
+      "id": "7d0e8c675da6e8236e137f859063c81cf42fa9f99540807b20d44b2a08e95430",
+      "text": "Learn how to block dangerous git commands in Claude Code using a PreToolUse hook. Prevent accidental data loss with git guardrails.",
+      "hash": "8184b4752dcf4e1adeda4aca08c0c363db688429d5c9f1859c33323295a27f87"
+    },
+    {
+      "id": "3f6dddcdb11ca41b8cd3197cc3364887e183dd5937bcab70419329469ceefe0c",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2b23f9a47f219ad446203a62a1142e5072755b76cc657ed2cfa9e5d5273d7af8",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "e1d5eb44a85abf4be56400727f51e9e95332664f5cc538fee43c71fc951a4cf4",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "12ee31a0ffecca8ee84bdcb76201e62549a14ab45ccebb1d2869bf5d255cc165",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "4a2f0c58ced6edf2b0469ab2346f3875a72fc25256f931fade2a06fdec6cc242",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "f5d1ea4eb83945a0a6a759bf2c0de6925855eeb632d2cc358065ea24261a26bb",
+      "text": "Why This Skill Exists",
+      "hash": "3427a504f888644dd9e3718de7d422bab3b830b8badd1abd6d09c97bfe660d97"
+    },
+    {
+      "id": "fbffa8ba423ef6bed539d2a609fa3418059c301574c2c9f90a0d4cfedac9af8d",
+      "text": "What Gets Blocked",
+      "hash": "cb146e4c41d1447e56fbb7c76ea823f59bc8f5356a50be17fb49dea387893687"
+    },
+    {
+      "id": "88b301a94ecd8d67f9237212e6fab632a05907acaf27f9af09c1b408d1341b3f",
+      "text": "How It Works: The Hook System",
+      "hash": "8a5de3d23a9661a933d27580ec7208bfff83bec91f14a693bc94d40e28515e35"
+    },
+    {
+      "id": "842b209593e196248cd97c334a82c837c27198a162af1a1bab3b8335343c16b8",
+      "text": "Verify It's Working",
+      "hash": "49011aae69cfcff06260e89463fa674404d882ac9fd13f581dc00d40ef552fc1"
+    },
+    {
+      "id": "4941a12e044047c89ba4ab1cdf81a7a9c877f0ff5dce16c13219272999b75da8",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "46a3188aa4fd8c0035b287b878057ccfc6ccaf87c6bc3df16bd0089e2257aa9e",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "7834f7d756a7db085e0bb0e82f30bbd619102a6c747c5182f0ee5ec0f4cc1401",
+      "text": "I've put together a skill to allow you to prevent Claude code from ever running dangerous git commands. Add it via",
+      "hash": "1a20d1184c5fbe4f41ab5ac2d9895d28d42ecee4e4c25be186257f555b419204"
+    },
+    {
+      "id": "16b5e4d462c65506b5f78b67d6ff49f75c5c40c1be290731b99662ee6afb66b7",
+      "text": "Claude will guide you through the setup - choose whether to install it for your current project or globally across all projects, then customize which git commands you want to block.",
+      "hash": "91bf3b952afffac8dc7760191b85aa8ab52fb6d106335136320ea6feffcc38c9"
+    },
+    {
+      "id": "313cf88f9f8edb9aea61606d0feff3279bbcf2622a2518f03b8908b5eed52c55",
+      "text": "The Docker Sandbox Story",
+      "hash": "797cc099d762332c40f98c78db4db952f2665acc99d17762a69b1e7a50247cd9"
+    },
+    {
+      "id": "119a1ea64b639fc8a9bcbb740dbf1efa4a741268e287bbfac6d3e210dd7410cc",
+      "text": "I've been experimenting with",
+      "hash": "44ba226c1bbc1e872015c24b8ecc96a6ed2c49a211eba1215e6641dade13d086"
+    },
+    {
+      "id": "ff613d006a7bf0007183d52dd364710fbdd4d20ba87dcf6b36caaf1c89a5e519",
+      "text": "Ralph-style workflows",
+      "hash": "f08a3a4f3c82847ff53145e0622c35ce1734052572e4845330de4b8757f41a89"
+    },
+    {
+      "id": "156bdb0c0e1e551aac7f13720a6f2c95a6e0622c5763d07da4674947c066a00c",
+      "text": "recently, and the most powerful way I've found to get Claude to run autonomously is via",
+      "hash": "fd4bdd4dd2f3eec7f5ac91c5527f46ed52a33f4934a20ef7c25a88fbc527dce0"
+    },
+    {
+      "id": "477a978fe5560e7165a23c848aa41a992061174556c33bc10a7a886a5abd05e2",
+      "text": "Docker Sandbox",
+      "hash": "693b2e7ce66631b6b96aeb84a43d6f144dbe896d7bd54c3dee56820ea47a9880"
+    },
+    {
+      "id": "e9dec76ca067404f114e4ddc948ae3a8f9b0dcee29cef221292333d38201a9cd",
+      "text": "It lets Claude Code run in YOLO without asking permission for every command. And it protects your system by running it inside a microVM. You can let your agent work unattended while you check in every few minutes.",
+      "hash": "06ed19d52977d0ff68649abbdc47ae98e821961fb2435af81aaca27de20a87cb"
+    },
+    {
+      "id": "a081ce5389d04b1265df8f7647dbe2ab301d01218b981ce7b0161b2012ca7f82",
+      "text": "The tradeoff? Docker",
+      "hash": "b4fe5edc1af077661ff1872099c8af8bab070f7b9dcf6aa31f4fc1aecd9f734d"
+    },
+    {
+      "id": "fa5dacb7271ffcf97eefeb79e8bf7556f3d156ae9e084f30c30562392e18b07b",
+      "text": "Sandbox",
+      "hash": "67fc62497e85d81bc54ea07aa87dca6868cd470e95d7281155a8eb532ce60009"
+    },
+    {
+      "id": "b36ff09a83582871b006b654f3a1ef52698a8b1d58ddd95986390c954970a06a",
+      "text": "doesn't restrict",
+      "hash": "b3ceb377798278349fb44cbab4417587dc652a105e3641daf5698b234333afdb"
+    },
+    {
+      "id": "4fc6bc5297bf996d6b86ccd926eedba72ef9400f543f2ac73391c3ababd54cfc",
+      "text": "commands Claude can run, it just isolates",
+      "hash": "572ac0b952b619765e03a508c08785991e2c94b45f731f2799b913e6c12565b8"
+    },
+    {
+      "id": "27a674266980655d63647ca5868a5a0ccacd43ec26cdf9612a3337ac1b3fadc4",
+      "text": "they run.",
+      "hash": "6926282d238cf1a0df24e392340aa3edbf42c8f7fd32234c274215941cca3878"
+    },
+    {
+      "id": "c5e8cf8485057308f8f39dbcc885b0165e4eed9a313499f7ede15b5c5bc17df5",
+      "text": "The Gap Docker Sandbox Leaves",
+      "hash": "d2a08eccd87a64f0a17ebd28b9fb6d9063aa7e619f1c7bbad6dee20489fea072"
+    },
+    {
+      "id": "4470a294da759d44569a6eb77628a71b41bd714f01be905029ae9eef3bb59eaf",
+      "text": "Here's the problem: your git history lives inside that sandboxed folder.",
+      "hash": "9fa66d09a80a95e34261debb583d5757a3211eaf79972c2b60ccc3180381bebe"
+    },
+    {
+      "id": "9ef50f3fd5534a200481ba3a5808f55200cf00d9e158550d71746f97b813939c",
+      "text": "Docker Sandbox prevents Claude from reaching outside the project directory, but it can't stop Claude from running destructive git commands",
+      "hash": "e654ab2690d0ef9d5c46e55b0e8d7980e8091e5ceb9201ac001f6032bb021800"
+    },
+    {
+      "id": "0810c6ef747700692cc9a60f3971ea41dfb3df10d66acc3c28345b0c60153cc6",
+      "text": "that directory. A single",
+      "hash": "b548f02b643147080cabcde120296cf472c8bc585469c2f146ccd0760f788505"
+    },
+    {
+      "id": "069a29816a7d98778568f7e48f2c08834ceaf4eae89f1d54cfae6cf6d4b6d11d",
+      "text": "can wipe out weeks of work.",
+      "hash": "d4b280c8026f6e1c708f0acd701f76550ec06acb3daf15bc70dc135680d21e2c"
+    },
+    {
+      "id": "b1bbeec98761435c9f9daa634d4338a6b256d6388fcb6e4a3af7573aff49cc53",
+      "text": "This skill fills that gap with a hard guardrail - preventing Claude Code from running dangerous commands.",
+      "hash": "bc45c368994d3912d71b77366d1b32fa89ae7b628c0d374d0de946580ca16aab"
+    },
+    {
+      "id": "e757012f0383483c4f4f4ebe3f69656d1200170441f2b09a5036e8748a5a6b09",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "afc2eeb84ad7f10f54f5db28cb7e57d846b4d765f05783ee095d881eb3fa9e58",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "f112295f6c6516845aac0d481ec4ebd3aa4f75f334c9dab78573e67a37ff59d5",
+      "text": "The skill blocks these dangerous patterns by default:",
+      "hash": "f534bdff64b06344bba28c62f972347aaf3282f530f4eecf3691ddbdffacf4df"
+    },
+    {
+      "id": "2f803ddb851768a5ab4fb3eafe503809a9d328e381477ee4a6aa6ec6d4e04c62",
+      "text": "(all variants, including",
+      "hash": "97ba545a5f5dc770fc8ad4d52b9b46dda5909c41deca6824e43e3cd57be7f68e"
+    },
+    {
+      "id": "bb25e7f9c6dcbb58c30918ba8f29176f8c391146b706097150a7f325f6b3d6ce",
+      "text": "These aren't \"never allow\" rules, they're \"safe by default\" rules.",
+      "hash": "b02d6b5ef05d22a9f59ec1353a0a0e080401e787f6063e374c46906934fc1a03"
+    },
+    {
+      "id": "e296e22f3ba9e2eb34f6972e33f2f0e979b1b82ccaf6673155d90aa0408ea699",
+      "text": "You can customize the blocked patterns during installation, or edit them anytime. If your workflow legitimately needs Claude to push to a remote PR, you can allow it.",
+      "hash": "a10df8d786acd014276498e38d4c6d47fad0ed003b10b8ec1ba0df41dd11e219"
+    },
+    {
+      "id": "c2923141adc73a2bddd15c250d82cf811c97c13f58eab1d27e785d5e1c2ae937",
+      "text": "The skill uses a",
+      "hash": "82d8d789aa660303a952585c236c21c48ac374b0334071f876e10d5ef54e7eb1"
+    },
+    {
+      "id": "093e477c0278421b89b1b32878485082a470539162b85edf3f0d2fd787a516fd",
+      "text": "hook that intercepts bash commands before Claude executes them.",
+      "hash": "a59e2e55abba465aadd3cbc2f00aba7ec8566dacfd36b3fe8fba9827b43fc364"
+    },
+    {
+      "id": "6d6a9a1540483cdd42d445ee6d69bb3abc2e36f632ff42511e7c98a2cde56583",
+      "text": "Here's the filtering script:",
+      "hash": "cc387249e7d2410ccc34417a903c695410c83ed97c0ad7d55ea114792cc7b6cc"
+    },
+    {
+      "id": "f6572b0f242ae85e6c35bddac4a1b58337c47015600fdbe5114a5f4dc31f3d7a",
+      "text": "The script reads the incoming command, checks it against the danger list, and blocks execution if it matches.",
+      "hash": "fcd4313e77193b63109508d48cbddd3d588ac6fd21b1f20b6c44ffc3f047fbf0"
+    },
+    {
+      "id": "084fc2cdc5a076d4466c74465328b6b5818a7c4c36f27b178d18366850e5622b",
+      "text": "What Claude Sees",
+      "hash": "e84fee6aeddd3fb08fcf951fb589397f7e9998ee4f9c6af7f5a5a7e68af58bab"
+    },
+    {
+      "id": "b0760eec1b8323287bc68cb03989d537fcb8fd17e5a8c4d5b23abdb30f4381e8",
+      "text": "When Claude tries to run a blocked command, it sees a clear message:",
+      "hash": "7493d226ebec4bfdb3ed67b9c24b5033c9750cbf882c1a368843e7372a84b4a2"
+    },
+    {
+      "id": "40bbcf012a8f078086b1bf7e543d2b70b9bdc08f26cfbe4088ca89466df316a2",
+      "text": "Claude understands the constraint and adapts. It's a hard guardrail, not a suggestion buried in prose.",
+      "hash": "72aac17a9c142974e40bb5fc9a7dc4dd3f7fa6f9df162a884d6e76dd67813e5d"
+    },
+    {
+      "id": "f43c1b88bd36251e9cc586d9b961fae9b0c3ee1171450e371478bc1c3a47034c",
+      "text": "After installation, test the guardrail:",
+      "hash": "34937a1f0c5a5d72f712bfb4d2826e07a4593faf46f75a0567c54e159afb98ac"
+    },
+    {
+      "id": "ec3f0121d3edbd57f6562b9b3397b415102b9421e8a1cdbba3fdf9d6d9ecb335",
+      "text": "Clear your conversation context",
+      "hash": "194eee8b6dc0231876ef41d1b1015071bc62b419a4ea037f90e90d8716ca5627"
+    },
+    {
+      "id": "edadf3f039a4857c1461e99e196dbb7aa7ccc28c7245994073c677572b89fffb",
+      "text": "Ask Claude to run",
+      "hash": "a050fb8957a37924a7a69d49422ee1a406b89c4074e32bc69248bca726034a60"
+    },
+    {
+      "id": "f33b16b257bfa4d0be780625a428d3f48139ab2540a6c62fe5b8fe36f886c693",
+      "text": "Watch it fail and see the blocked message",
+      "hash": "4b2f144dacc9500124de1678a956917afc5edc73709e97981fa10d90304a9f88"
+    },
+    {
+      "id": "3e9fd6e7c86545f3820481700f5179e79624ab5ee3ffd0de2c2e429ae7ed7e0f",
+      "text": "This confirms the hook is active and Claude can't accidentally bypass it.",
+      "hash": "5e7a5e7f7c0a602a31e6e0ced5210d5cc77a762298fd0f3207a40142383cdea5"
+    },
+    {
+      "id": "fcc090d4cd0c4078810a248d7f42c4171153f69e2b0dcab8c2434e31c8f57fc7",
+      "text": "Enjoy! These kinds of skills are great fun to put together, and if you're looking for more of them, join my newsletter.",
+      "hash": "e46851490259f74a2b81eeb746163422a29d3744760d155879f9803541bd90dc"
+    },
+    {
+      "id": "d119c4934a01272d25c144ededa5cf14ee181196e7b6c16ab27043d3885028b4",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "2015a6aaa8a8f814114c26d70928ae60133e17597f62a211ae182dad91563e90",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "883e6da286dd5cfb67a351025d7ef7c1df7f5b796d8686ef2cbcd9231160c610",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "605bf218097d9a33444fd0d965c78c3c39b90ba5fee9877a9dbc9fa54b32cf16",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "7dbc490590f6a65236799aa05331bd73d3bae41b47949d81649ede5aa74cf3d1",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "81a61e03ea70094058e7aee0cdbc9c7bdc504b857b07c214615cc0232a1588c7",
+      "text": "Getting Started With Ralph",
+      "hash": "0c1a87746b851c00c3ffd0dec2215d9d86fa88a08fd56f3f517533b314680124"
+    },
+    {
+      "id": "e499b7f37a2123bf30a667727f38e8c44afe221c797134f5ef2b472fc4d40840",
+      "text": "Article · 20 min read",
+      "hash": "e9c3d63753a037bdaac540f3fa2056699022f1b6029d92cc9bc69b1e4f863a18"
+    },
+    {
+      "id": "a390a83a852957785cdb79931d869839cddfa5ca3e29f9a012e54c7e76027df8",
+      "text": "11 Tips For AI Coding With Ralph Wiggum",
+      "hash": "59a78eefe41a098856366e524a8d5b33baab13286f03e8fba9106fea52bbe4ae"
+    },
+    {
+      "id": "a00f7706d395e4e89c20d65e02c3a2bf4e213fab01bb77ecf77bccc12b304e98",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "049ea53f61ee76714e25e30ee8290ada4c442f869aeae40d5c031ca46ede92aa",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "34ff4aad34a53595f20ec518fbee2feda3f7c79058392f01806716d5144d85cf",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "22657aa7610a708cc9e6f8023f32acc3e28e2e4e71820d99526c86247db6bb53",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "0da2d31c3f16d1d5f61f5cc171df09d0c12453bfcf332f48c2b0b0ba7a7eaed4",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "12fba9d7992f85dcd286f00e9630de4153f0ecfc19dfffd4bfd538707f1edbdd",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "a02c2b8ca6e04692a77535ea65a2aae7d62647957de4eed927a587532824d2df",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "0aac650217d572b02682de1e8c1032db494999249b98a744f78eb9237363a496",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f5876044468adfe5c11545871d23d27aad95f9dfc55d34893af3db89835ebf5d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e8a127a9258570b6f80ffb07a5f3b1fc65cc7d065efc077d02ee30856416d150",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "e628041d54996109157f01ce4173c7d6c4e2884714135662ce7f4351710bb191",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "bbee2aa562d79612a03b9c8fad10b5902dcb8c1849948a0fb6838db0af6e3e18",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "17e159a7fc3738aba121041d3c468829821a3135cc1973e7f2b43a2cb27383e7",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "06e6877c0fa53b79baa80221e0a0903a2d0a946507e543c965ed67ff85501234",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "062e092e89c213c11fe186d576b4d29851e8fd8aaf7cb71776bf3fd0d5c06af6",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "7a8b6d18b866bb5e0325872d61d6a0f8e99b6e9913beda1cf4e12d2c388c896a",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "1430300b03d9fe5a895d387c8aab93d83069083971e88d83daa106ecf2fb07d7",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "987ac3bf4cc8a5da25abca9f36fe11eec1745e697b9b73336ecadd8079e90305",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"rpiszy2lh767i1\"",
+  "lastModified": null
+}

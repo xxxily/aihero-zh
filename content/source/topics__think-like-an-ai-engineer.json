@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/topics/think-like-an-ai-engineer",
+  "pathname": "/topics/think-like-an-ai-engineer",
+  "fetchedAt": "2026-08-11T06:28:46.695Z",
+  "title": "Think Like an AI Engineer | AI Hero",
+  "contentHash": "a54374f09eb0b71588c8febc30878e49ead33e5c5f30e889d525119d59ca2e21",
+  "textHash": "9be2ade4733125667d5967519e8912bec88619ee65ad4dff10f5197b2c2f3668",
+  "strings": [
+    {
+      "id": "b39b7b4a6d41c78863ac5bfd1861c437fdef009606c4495062c16595efd6d7cb",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "7a34d021c5637d30c36a802a5d0800846ea64fad83f106d30e9af3f2211400ee",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a656568e82b16f65c2908f278cf524434d7f95f901d490cbc274f0d3e7142d41",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "427df1bf7ac9fb848ac6e2cfaf879e896e59e26c893474fac06837160521de4f",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "3df718b0baf6b64450f7d7c980ec65acab077e6f7e18739b12193f53425091f9",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "83a0f766ae33e3ac6d9db9d8a8fbf982686e2340c561ccd41a3876a9fe8f7b82",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "4a1834e7be5dc16db2a8cab3180e8f60b5321b10dc5d35fa98a33e4fdd53e9fc",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "c82d4076aeb0989107c345f7a16ce017ef9a51a3f4c7cf554a44566820f7ed67",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "beef230385c3200a3f483526992ee9ec7f6e584dda804ff9c049241767112352",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "4c6db37d170cb48fd0b9413c02f185e36d789c013d649920634dddf55d9c7297",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "56e7734dfd32596e92fed230ad113c1bbda3293112005e950bca231593a4a325",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "6fcd97c73db4c2f8a11ebe21f3b426f48ac710a39879e8bb02b6fb2038d1f6c2",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "3e81aff137558eb2c344caea008eeff727c6388fde64ff202fbced35b50914d5",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "5d0f03e1a0bb13b5a40d6ec460e01747d963e8647c8a68dd32adb17d72ae104c",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "f143afdec0d807cbc162908e4abaf51ee6aa2db738887d855bb6a3ae647068c6",
+      "text": "Topic",
+      "hash": "7e61847d61d65d9e3ac15c6281f7bfe0d80b8d79d3b53125e9fc2bfc25bb81e8"
+    },
+    {
+      "id": "b48fc9445ec6b129259057990b76dd448a361cdadd5fd1d48915e094ebc81617",
+      "text": "Think Like an AI Engineer",
+      "hash": "ccd39417e685f6fbc514141d15adcd1dfb2e1306f5bc0568e7b4a6fb0bb37ef6"
+    },
+    {
+      "id": "6114a681e55f6ed9cbf78c002e58c4b1296541042d92e3bc4b6e810aaeb5f42f",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "db6d2ea1d560008a1d4cb640f7479cde1353c9e71e18e256b67457f28e14cf38",
+      "text": "My 7 Phases Of AI Development",
+      "hash": "6400260f28def20fe70c99d4d79e23b75f5a4de2a7a2b28d38cbfe4db8c5dc09"
+    },
+    {
+      "id": "a53d712ba0cbf21141c25e377ebdb09be34f992ca1f4dda4a34e864fd8340f5b",
+      "text": "Master the 7 phases of AI-assisted development with Claude Code. Learn how to ship production-quality code using research, prototyping, PRDs, and more.",
+      "hash": "30a36b233bf64f5b7879fe97aaae73e2ff735b6cfbfb38578e48252a0519e9a7"
+    },
+    {
+      "id": "56774bf7a0ef840676a1540afe222280ef1a28f07541551f8ea1df1bebab7cae",
+      "text": "9 Ways AI Coding Has Rewired My Brain",
+      "hash": "4ca6b86a61a59212b2818f7fd2edd2acbd0a438bb45c5bfbc73a2152074c0663"
+    },
+    {
+      "id": "4ca660bb724287e957b43b602080320e7b1c80fe686a03b568759d902376bd13",
+      "text": "Discover 9 ways AI-assisted coding rewires your development mindset: integration testing, architecture, modules, and strategies for managing cognitive load.",
+      "hash": "c608be5e55488a0b465d49a792599b7b58d823e0eac0e4587b3cdbb77d739340"
+    },
+    {
+      "id": "3f736f62c327a720589efe98c0d1ada68ec1f6000ab19c1e20fb84dd1ebd09c5",
+      "text": "Personal software is INSANE in the age of AI",
+      "hash": "81634f3dc1c8467ebe5925ba88e5bafeccb90ac2a80ac3db4018d839a4a7b743"
+    },
+    {
+      "id": "4f6e87d2f4101ee59db9e1cc07dba26aa7420ed6fea5f0491250567649f6639b",
+      "text": "Don't delegate your thinking to LLMs. Use AI for grunt work in personal software built for your workflow. Keep the judgment for yourself.",
+      "hash": "730c5d1cf614ecfcb92ce437779140981a9cb1bf6a69c06ea78d97c7192b2230"
+    },
+    {
+      "id": "7718c9327b6311837a2ada8646a93ff60bec2f7a901a8eaafdb726563194999a",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "0da47ee2d80ff5f0f8d1612fd48ef9209b61460a30b47cffbd5eb9098f290177",
+      "text": "Explore the role of an AI Engineer, learn the key skills needed, and discover how it differs from ML Engineering and AI-assisted Development.",
+      "hash": "f369d2a8d00b8817f21389fa642c2f31fa6db4cc06186279387064bd95d62072"
+    },
+    {
+      "id": "7454423a8b415685ad6f79dfed1f1b6a8eaa56ef8b301164011b30f00a4865eb",
+      "text": "Article · 5 min read",
+      "hash": "0ef2eb789f1bdd1ead378588eecc2a21c19ed08b87c0e7717705b36165d3597f"
+    },
+    {
+      "id": "63a7d4e7800dd68ec489daac48dfef83d4f0d847a1986585b9d399f93f07dc54",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "cc6a1aa6eb81789cf06159ef01b6f8982054059e7b137eb793d4201729c291a5",
+      "text": "Learn how to build successful LLM applications by defining clear success metrics, and creating a data-driven culture of continuous improvement.",
+      "hash": "02ecdd3a3757c036153f2cee64b1e2607642a9a7191df28163c403e926d02735"
+    },
+    {
+      "id": "18faba390e075bb4166e72fe1f3f014ad133613167c339e6483a0f324c1c2821",
+      "text": "Google's Introduction To Agents Is GREAT",
+      "hash": "79ac59db055ea8efcac007ec0b0ab94886f83516769b88445a4530a3d05fbfdd"
+    },
+    {
+      "id": "0c4ca5e56524d7a1d8f726426f4b978227ecde714a9a6fea63268facd4363e18",
+      "text": "Explore Google's AI agents whitepaper, defining agents, tools, orchestration layers, and more.",
+      "hash": "0bb8306c8de164008d016d4289a532ea7fca159373274432cdd3d485abed9de5"
+    },
+    {
+      "id": "8011751282802b93b71aef815ab485702a444f4ca5337ec7cebde600cb57b332",
+      "text": "Article",
+      "hash": "29d94922512b93e8d81ffb4c721e52afd32e80d952ebe753ea2b739159219dab"
+    },
+    {
+      "id": "80b3f0a4a69e8db976a9d2436d50c903e7a6b6f77d98cbc33731bef0ff4191c9",
+      "text": "Anthropic thinks you should build agents like this",
+      "hash": "dce9e27d2f9993b886f1f073a677ae4b6e91bb493d827c0cacbd9ad4162c37de"
+    },
+    {
+      "id": "5c5586b75b3b7862f254fdea19f6e4d86cf2704937b89f2da3cc587f80ab36f8",
+      "text": "Learn how agents differ from workflows and why to start AI projects with LLM APIs, not frameworks.",
+      "hash": "998993b3746d6f641679d00a6d3581773ccd7686cc6dfdf69de95bd74d85a61a"
+    },
+    {
+      "id": "e1fb3bf6d1b32ccdc592f1c9cc578087e3e869f2e8ab38b306e4c61a3127c793",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "5255545d1849e7885852a5308a6824beeb49e27ba16d3d79b6236e873ea6a6d7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "a1360ff411b99e81f482c57b80ee20d2663b73ecd0817429173516c9cb1477fc",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "da52b4244a80e198b52b7b5656970cb531fd9774e1cbf11c71ccecd823a9e5cd",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "7acaf125e44b47296024f5659808d6159b7796a687943d8fe07a81269e38d066",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "39b4a05600acdca5362fc147e68e87cb409ecf9c27aceeb4f08a97492455ac88",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "3402c0ef1fdeef067a8b8c1610e91ae33cd8029cfd4a72b0c4ead2940038d200",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "95cf61ac7c7de5b9be020f45054c7b8b2f8c8fa62fbb4213ed148e5c0f0ba2ae",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "488b28a2af70ac74a31486783a7ac6fba2abb1a307ee6cec739ee0c06015a857",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "865a68ed38f52e6061162ea6eebf0af72fe22e0667d9d096d7e66a048ff0068c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "bf57824d298ec2254d5fd0b5dafe936448548d4458e305ec7fa23841fde058a2",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "2ed49c1fb893012ba807e6f0f3d0f0460980e41cfb43c391e6df690fab81f551",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "70d0943c61e6e96e20dc01429cab93e1cea5ce8e0b0db8e299cbbad018412586",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "382555209747e22fcf403902e193da75bd06bce2a7dbe6117805c1ca5719eff8",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "d08fc01c3813a0bdbd336cc73f1a4b17e808cbd47524ae990d23863a7ff709f9",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "045e4e75da69d0bfd02a197a34741c48818135a30facce58f94bb88c11e46114",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "b37978ce3eda5e284e540e2fa34ddb9c4f63198686ae29cabfa6f8b5030ae3f5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "b505162582c3fe828b290cabe460bc69e2083ec08728e12d877d406f6d10d471",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"zvv0jlm5tg4jrd\"",
+  "lastModified": null
+}

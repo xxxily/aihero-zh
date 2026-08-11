@@ -1,0 +1,1538 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/how-to-improve-your-llm-powered-app",
+  "pathname": "/how-to-improve-your-llm-powered-app",
+  "fetchedAt": "2026-08-11T06:28:09.590Z",
+  "title": "17 Techniques For Improving Your LLM-Powered App",
+  "contentHash": "2d7bb1f3666fc73f9e2b68169bc2ef6d533244682094fe524c2d32d9d226cc8c",
+  "textHash": "2633d935bf05aa20c1246753c103c88389de798c166d218c876b72e68ac7a8e1",
+  "strings": [
+    {
+      "id": "58d4ee6dd661530f2ab95063e8b7699cf34a684856a6bcfeb1d631e8372e996c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "aa237803bedb4bda15ecf42551fa896ec433e719aa17a1bcc91f88f326da45c3",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "362085bd254f8a356249dcb5144dd7114154c3844a072fc5ca8d2601b248fbf7",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d0b0516051f04605f0d8cb97d1e5131ee2e0c121a927f63aecb73a5c8666a6f4",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "4f5747bf1f989abf1f8f393ac01c9443b568e57112d3d3034e00afe993b73b58",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "6aa0144b38c5e715d2631c67bd89b3c4857124a13b070dbd67940c05511d6c90",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "9b2aedc4dc97f13ccf1a4b3ea9de70be5c551d5b46036b7e0239b4123f3bda04",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "ab8c4bcb660df0bde97a472042ff92b36d9b14066a74a4c8aedc4f9e0fccd198",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "15c09ecda884e9b51fcafee7f3904fb1314f8833e7fd706215111d2284401779",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "8c5e313dda77d0267a0aa80a215772be7291488def8e8a0a3185d6b4905b09c5",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "b4f36c736d58a4b6c6c8c29d0fb9528e2b50d63760f868cfc20f6410e8e883e0",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "db7b6005341a74e8c19e3588734bfefedc5ddca07eac3b58b527edb8a53929e3",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "852d3ba1403f195dbfe02b94b4b27b841876b574bf1dd286c3934cfa31ed09cd",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "bad5b48cd84ebedfe44429998a55e5fde7736e1f7fbaa9119cb45b9e7cf4d43e",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "444f68a522d61aa7c18a45fa3dbfb46f359bd46069b7cdc16841bdb989ad4eea",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "7a991324b85f0a7dbd2c7703e06ed4bc76ce7a0f817a2563ab6ce8238854d238",
+      "text": "What Is An LLM?",
+      "hash": "1d25e4befcc73aaee8c08564f2c7480c24d819ba956e8194e5a6bbe0e34b42a8"
+    },
+    {
+      "id": "9d69fc44c92656c4ec0d59d41d9ebd3beeabe046fd12ed8d626103a95d78d889",
+      "text": "5 Questions To Ask Before Choosing An LLM",
+      "hash": "647281ef99660191f492c15c087b72d336a92e5759abaac5b80b4ceb51cd1890"
+    },
+    {
+      "id": "132ff17f6ea05f54ecef5c4cb0294c787fe8c71bd32cd97c3705c0dfeb09e58e",
+      "text": "The AI Engineer Mindset",
+      "hash": "4cecfc761ad682ecad4c15da33f30edeeae171b6fae7e9b2473d35315877d59e"
+    },
+    {
+      "id": "cc9d9155b581c641cfa136b32b83df0a7292933a2426ca9d10f4ab90f22dd634",
+      "text": "Your App Is Only As Good As Its Evals",
+      "hash": "273e8085c3620f4e390bb0daf43c57d11f9220ec626c119820da3c453d7840f9"
+    },
+    {
+      "id": "61c32bec5f9fd7fbe887e86b8d3eec1bb8579935db4ef60efbd7cf46405baf59",
+      "text": "17 Techniques For Improving Your LLM-Powered App",
+      "hash": "f014e0062467731e7e246baac6410dd865693ebd15dd938d95dd45bc32787223"
+    },
+    {
+      "id": "50f332a67f3095d09b3ef78c1abe8b6e3f42390a7e566e206cf240c454f4fbb1",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "c4f81db4eca04c538a2b423d1c8005261f495b224de17c83f5190f340e1c6bb4",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "c69ce2cce7f6f57546b09dbdfdada94ade26d9b625212d6192b57a79133da5b1",
+      "text": "07 / 07",
+      "hash": "8c44dd28bf4cb5a94141831ed151d73bdfbcc3e046d451efc2dbb6b24d00478d"
+    },
+    {
+      "id": "9aa52cdd99b123093f2075f5b8a15bce80e7b9b81630826e3486d1b47fdd0fd8",
+      "text": "The AI Engineer Roadmap · 19 min read",
+      "hash": "2c8ee56cd87ad7f6fa9468a2b286994dd8195a13fd4e1e78efce80a06f05ad44"
+    },
+    {
+      "id": "0b2e875585d5ae150c27dddfcacf6d684deeba35e7d06ce22d6790fc27cf7613",
+      "text": "A directory of techniques for improving your LLM-powered app.",
+      "hash": "241b79fbd537ae1e4549e9dd02ab986063c0077b32967bbeb5875f59bbb5d800"
+    },
+    {
+      "id": "83c241b5f0b8c73636b6778edaabca143695b57958e7d573d2db8af644233e6b",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2732e6cf1302f428bfda660b4986065cd93a30ea92e1f28fcb69de05fe3ea2df",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "cb9da30f3bc4c7a184082bb411fa10ba8270f3f85a6d973b99a848b65b7b7f19",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "acf84868a10d7dd9edbb493474f0ec6d16caf859be46510d24918fb7b03f7d3e",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a810c909d1e12ee2e8a378587ee14d68c3d5cf0a0e3d11b8c54a1dafa235e3ac",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "7a74a59997b6d8a2ebe5a1fb847238172bf862b17996950d9391e11dbc394e17",
+      "text": "Try the Simple Thing First",
+      "hash": "dd045d0d7c4fc95a0e32673ce097f584e0308651bca05fded8bb5e79ff59ce83"
+    },
+    {
+      "id": "68e94827e3c7125e5cd2030e8caf574abd3b1aabdd5b11568ef3b9ef64f73ff1",
+      "text": "Techniques To Try",
+      "hash": "2a2a7793c24223e238bd2d8e57d0389969d8f8d68d84803943c6629e4ebf9da1"
+    },
+    {
+      "id": "501c020f35f683ef6ff86aa0303efe9ea59ed8bc08f11a2580452387ab0eeb2d",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "513789b3f3123546322312a709de99e3467019559ba7dd8f22d3e17640689e94",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "a801ed7aa6d5c344974a1fd3f9512a3411a0ff0f9536a4c65a2d51e45af97e7e",
+      "text": "Once you clearly understand your success criteria, have picked your model, and written some basic evals, it's time to start improving your system.",
+      "hash": "c9c33957b189346ce6fdb230a01af7e5a1948653199327c66b9e48d979cd893c"
+    },
+    {
+      "id": "0ca360c14db7ef190a98d0177b250c346dea42d26dbdfaad35c3ce5bc092e042",
+      "text": "The process of improving your system comes down to two things:",
+      "hash": "609c663186800ade0b5ac583fdf4bd53d14459a4f1c3b18e14c55bc663667216"
+    },
+    {
+      "id": "cb23aff397f299d6c8488a665564dcb8b356df03079bb3c8098e5c7169ffc5ed",
+      "text": "Improving your",
+      "hash": "90b54f685de4978d10c57ddd8bd1ca6158805c6c65be35bb6037a58464bcde36"
+    },
+    {
+      "id": "5481974db93bfa21857b81924bde938961cea4d7600e48a04e77c06ec95028f1",
+      "text": "feedback loop",
+      "hash": "d24160a34a159244044db0d7fe2bafb2e7eb4c2a5f6e8c478e75c96c1df9ea3a"
+    },
+    {
+      "id": "060df922aa95ca69cfd58bd5e652e85d2544b9dbb70063e02474e96184f016cb",
+      "text": "(evals)",
+      "hash": "713812e4cb2bd678c155d6ec452f0139ea9f801b36ab3eb065e0c1d304311d27"
+    },
+    {
+      "id": "691ed54bc0197b1c90d7fa19e0b1a7121466aded544dcc5d2a663411ecac3411",
+      "text": "Improving the",
+      "hash": "c9d00a338fcc21495eecb3bc473ce517fbe2a5e21c06f397976b766fa8551227"
+    },
+    {
+      "id": "1faac15436b557012acd4f3aa51ab20894de538bb689fdab9ca86abe7dc0e35e",
+      "text": "of the system itself",
+      "hash": "91564c0cc7b847b9c1862e3287f497a101467494016f69a7ee001dc33a000642"
+    },
+    {
+      "id": "3fd903d6cadd5397fa038fd1a8cdcce3cc7f4b2534b6e1d71cef4c2c35df3f94",
+      "text": "We've already looked at how to improve your evals. In this article, I'll give you an overview of the main ways you can improve your system.",
+      "hash": "1ab47796737c623ac607def8ff9da98bdd3ab03658c3cfe5117ab2c524f27f30"
+    },
+    {
+      "id": "0abcb10597a70339d490887573d3d369665bf9d0c6f23ae802732fd2b45a9a35",
+      "text": "But first, let's talk about the mindset you need to have when improving your system.",
+      "hash": "49734c372d9c2367b10f72e009818ad2b42dc154fed5c79c9be8f22291b387ec"
+    },
+    {
+      "id": "9ea2305b27682271078877229907e24dd962f6e03cfdcd722475a692e72cc78a",
+      "text": "We've already seen that improving an AI system is an",
+      "hash": "72d062048b124cfd110d757d3aa5f7112ed5bbef23326339c041da9c866242e5"
+    },
+    {
+      "id": "ab00bd1226a6efd2c9c74d463339c483baae720c56799043e8a6d90f5d5a6561",
+      "text": "experimental process",
+      "hash": "1a474c254bed3ec9c88cfd6295608042e99367c901cfe64fffc07352e9ad6003"
+    },
+    {
+      "id": "42107e59d0309cc089e21144c158b197496cecf11271d841fb303bf64bcbd19d",
+      "text": ". You need to try things out, see what works, and iterate.",
+      "hash": "31a22271217b35cad41d62b7b19b170746e52ec246189508e7940a26e744bbf8"
+    },
+    {
+      "id": "a1aae66ec3ddd37038a4a2440976a79777f69e719f36954cb740c1667dd8f471",
+      "text": "Techniques for improving a system range from simple and cheap to complex and expensive. Tweaking a prompt? Cheap. Training a model from scratch? Astonishingly expensive.",
+      "hash": "9260471f65ee3d6af41f244a8ff0bbf94cb2b6dbd411d102a315dbc6d34450b6"
+    },
+    {
+      "id": "89049d9ca1ce86d2a8a892335debfb8f83f3f183d8ebae3185b7956094f2d614",
+      "text": "I call this the Staircase Of Complexity Hell:",
+      "hash": "5d7f09876c3ff50fd43ac62ab72a0935d1d1be65bca2b4d58c4e284e021d6035"
+    },
+    {
+      "id": "b4feee91641c7f7cd9a716ada9251182450e94c5ecb0a5a0d8616543757691a0",
+      "text": "The key is to start at the top of the staircase, and work your way down only when you've exhausted all the simpler options. Simple techniques can provide a huge improvement for a small amount of effort.",
+      "hash": "3f52e895bfe619e37e9f4628414f7dc906c4b3c6b2c6c3b0cefced8ad745fa13"
+    },
+    {
+      "id": "fcf2265e04eb0f016334d3949aa9bff7aa69d989013cb5e0302e766d5cd2718b",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "be157db8f8dcdbd7caf939d049dc2e90ec6601d35aaada924200306ce0539750",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "88372ba8edfa7be27dd8fcfba229cdb66bb99aa106e10943c6d33c9c82c9fea6",
+      "text": "This list is ordered from the simplest techniques to the most complex. Start at the top, and work your way down. I've linked to further resources where you can get more details on each technique.",
+      "hash": "9dc17c6a99d421ee49cd446e5730ac9f9f846a144b63a7b4da381a2fdcf0512f"
+    },
+    {
+      "id": "abda3eadbb8801d97a43a3511228ebd38798492bf1685ad5b3c71b6738885382",
+      "text": "1. Your First Prompt",
+      "hash": "f8270c0f10a9844d92d57ccfdb22defbc731684820810f8fb0c972e62ce517a1"
+    },
+    {
+      "id": "9720542959956f8c056f7fca6b43b181faa2318b0394f4c6809f6ccca727414f",
+      "text": "Problem",
+      "hash": "a1c5ae7bcb34bbf48104488eff8deede31b059aceceab562a6aace384f7fd64f"
+    },
+    {
+      "id": "8507e52d61ef4d5cf855170f037edd30100906a6d6a64e614358cf91f666d978",
+      "text": ": You've got to start somewhere.",
+      "hash": "64f972e0813d1b80ec74d575241208385ad1a85e004a3cd426ae6f5791ce4215"
+    },
+    {
+      "id": "146a4eb5ae4fc9070a0c8cf9bfd2721e0bd08e3c8ed13c4bc5616ed76e012419",
+      "text": "Solution",
+      "hash": "22927695994eab589c7601a6b15df4d9dc67c5aceb9a74cdb965444b9b8362a6"
+    },
+    {
+      "id": "49edc383b3ed7f226adca311ae35b61a703c5109cadb5b28df1cfc63f8cfd5d1",
+      "text": ": Here are some basic tips for improving your prompts:",
+      "hash": "7a8dde9e7845bd37a4a249ab33801b2d9d85f1ca36317c896b8d4a4e6dd0083b"
+    },
+    {
+      "id": "2f93936511f5eba73ef4402ea0efa513da8a1e2d13e3d0159100b55391e6850a",
+      "text": "Be clear, direct, and specific.",
+      "hash": "7cc45d421aa96c7a74e2938e350f71f5b8a8372b3b38bdae20db0fcdb3de9686"
+    },
+    {
+      "id": "576931e64646bea6672a8ce0ade4872e5b595a1d619d802fc4e5186bc306384d",
+      "text": "Think of the LLM as a brilliant, but very new, employee.",
+      "hash": "b5925845a82bd1f36f643e805243fa1261033c26ae1c9f19fa59b1221ee5b746"
+    },
+    {
+      "id": "bafb4f725a4ce81595df94cd0a890469fe6196817a3c8104b17af9d1d8116144",
+      "text": "Remember that the LLM has no context on your norms, styles, or guidelines.",
+      "hash": "cee3216d4f486306b24f4fd97d38f6ea6733391f6118c9a35f4976cc9b58a353"
+    },
+    {
+      "id": "0a4f349213f8c86a52695ee8cde8b301b734184d9a270a93182154f5d9c17f81",
+      "text": "Resources",
+      "hash": "e89b30aa1dc30a6ad8c34610689bede83b3ef645a24c3a84a0990826687fb735"
+    },
+    {
+      "id": "33c4d8cb04c9518d1a48a6571bcc4735683fbff404418816f34277633ea69d0c",
+      "text": "Anthropic's Advice",
+      "hash": "9a0715cc4ad2e15af82575a5fd3a419f34f5ac19a7159ede6d8b5098f9dc998e"
+    },
+    {
+      "id": "aed345d400ac3f3b068f5b6dc935675195294d7aa57b082b2ec07b691b86eb14",
+      "text": "is a useful guide for understanding how to write good prompts.",
+      "hash": "590ee128a46ea5a3ca6763b57f465340ab32f813233f99c56c45e21cc2f25484"
+    },
+    {
+      "id": "44593576b0bcbd883dce51fafbc92fafefdc0ac2e4f06c28596984fffa4f056b",
+      "text": "Anthropic's Prompt Library",
+      "hash": "e85c8aa3f37822cfe70b7f6d7dbcd6783b76c0682828ea829297e9c3d4de00ca"
+    },
+    {
+      "id": "1a04024639020d50b3fc96b5fd1a5cb76eb531dc59541706baafda759508bcb3",
+      "text": "is a great way to explore good prompts for your use case.",
+      "hash": "cef6624489232421658c2375928f17485eb8be01ef1b072ea4b7939697b2c557"
+    },
+    {
+      "id": "2dc44e1dd25ba6b33022136e6eacb2cd0f14a34075a71cbb58600a53d5f8b399",
+      "text": "OpenAI's docs",
+      "hash": "73397120388d4d1a13aa60c4e57fe51203c73798f73edf38a343d463d730cd7c"
+    },
+    {
+      "id": "e0262edab3f2c3bbd428f1ad6ad721b0001af2807dea36446879e40840d1a142",
+      "text": "on writing clear instructions.",
+      "hash": "66db5e65270134a3bc6ab5405e170b5d0a34e6e1c89cfe29c392119fb292ed78"
+    },
+    {
+      "id": "dd2a3bd7b8a96968a3296e81527efcd8a9357649416fa54f0364e3c556a424c4",
+      "text": "2. Role-Based Prompting",
+      "hash": "29c419df08a7a01891e290b3f2786a103a2a67d97c2d0bb3283ee5ba1118de8b"
+    },
+    {
+      "id": "b584c79889ccb5390837965716a8fa27ab33490454fe7a55659defd562222a99",
+      "text": ": You want the LLM to behave in a certain way no matter the input.",
+      "hash": "755825e2ead973f72f3b3ee9af7ddc8295ab238db8d33c7fd9fbb3514774e842"
+    },
+    {
+      "id": "f65e95929100aee0122021f7b164fd515948f9cf5a48b2e4d69b7526093f196b",
+      "text": ": Use role-based prompting to get the LLM to adopt a persona.",
+      "hash": "1a995ca653f20a05c0266e8c43a9a025358f81aef7864a5daa34c6b669bfe583"
+    },
+    {
+      "id": "d1747c2d1380f7fa4a1c1c0c685355f9259c36715f624598d9202da97a094b95",
+      "text": "This could be as diverse as adjusting the tone of voice:",
+      "hash": "36e09fee9aa8da78d996ce763d53f0b41ba2d2f6bfc344aba6555734fb2cb32e"
+    },
+    {
+      "id": "6f93cc02dd8a10572ff4c6d18c5da21e2a48e3746a28428dbd177e3764c6d7df",
+      "text": "Or even the accent:",
+      "hash": "8d64a229b6bbe9ed3d4539472cc6b3c32c8ab80aad7fca31b838085fd1ace058"
+    },
+    {
+      "id": "baf6b50e8384b983311754fb352c0c75bff00979c680b26650c7701a29bc935a",
+      "text": "Or prime the LLM to talk about a certain topic:",
+      "hash": "68549af1d17b69aaadfd113f6bb005992031c2b8e19fab9f12cc73fc8d26bb65"
+    },
+    {
+      "id": "0856dd96d2c248001baf4e0b4cdbb6333529e384c6a142882106f40e71d9f61a",
+      "text": "This is an extremely common technique, and very cheap to implement. It's usually done in a",
+      "hash": "823217e72456879d84ac924401c637511b9d395e96925a5951182936cf41fb14"
+    },
+    {
+      "id": "836640c3f281b5d4f0c309b490ad67dbfeb716f4bc5e159ec3a37b5307f26107",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "dbf1692874f5c681eddba0000fa4d98b4b8c8fb4b0c6975561345864d303b7e3",
+      "text": "My video on",
+      "hash": "77ffad4486ca270446226742f0f89b5cbe4a7ffda6bf3ad8929f157ff98b7c4c"
+    },
+    {
+      "id": "73bcc5d260ce7089e2d81f064fb3a8d902bdbe1faef9b57e74dd5dc0705fdca2",
+      "text": "System Prompts",
+      "hash": "4e524d37084f7dcc226a88f1e0d227cffc3d79ff0195f6b7b62b04d9bd4c0910"
+    },
+    {
+      "id": "3d7bae362002fd28318f577bc7cd23efbcf379cd77ac631baef1ed05b2b91d48",
+      "text": "in Vercel's AI SDK",
+      "hash": "634a26d4ec26e1ad1c486f4037c53f4bd179f502bcd3f6ceab44d9c0082c3d76"
+    },
+    {
+      "id": "d4ab739fea2c9b696921c128292876b0845f84ddf6b8faa059dd8f68b0381da3",
+      "text": "Anthropic's docs",
+      "hash": "d87a19965b452b33843cc4dda19ada4e702e2947e4b890afb21dd996246d0b3a"
+    },
+    {
+      "id": "98f7ffc751cf7d71c5e4ffad81db31ad0f71baf1fb0a96a792669a9ec8101150",
+      "text": "on role-based prompting",
+      "hash": "ae7ea944154b691ea9a814af659ecb827dc1e8088e235a2c1ffc645256f45f93"
+    },
+    {
+      "id": "b6d668157dd1450c2205a1af86fa54f68a9d703a96dedd042d8bf9bdab7aed77",
+      "text": "on asking the model to adopt a persona",
+      "hash": "e814963b31c4ae510f56e52efe7567a3e6c51deb34add7359ea2d23bf4e4e54e"
+    },
+    {
+      "id": "3596ab77a75eb4dd6c9e2fdabc5a40399878aa3662d912b8ff5d4b4b194d7356",
+      "text": "3. XML Tags",
+      "hash": "8e23a0a4dea31cd5c1d8e1ccd649eb72a5b95743edcf1377c14bdf6109f7bda5"
+    },
+    {
+      "id": "64d0754ef61311ef4bf60b76ef7ba5c45c7bf7ad086912a9e230ecd6fdf9c235",
+      "text": "XML Tags On The Input",
+      "hash": "97c0f9a1875f5a884be500082cead1616bdc2f08dc887ed688c2a2da8f273ea1"
+    },
+    {
+      "id": "ee34d1e431b3290ff662b9181ac769bdcb6741493467d1db10dc1b623760c86e",
+      "text": ": You want to pass multiple pieces of information to the LLM in a single prompt.",
+      "hash": "302997d890260c555dec5fe386e57beea12080d012b4de10102896e6f2623434"
+    },
+    {
+      "id": "0c24b5241c47925cf4cff02d5e2cadfcac681ac8345edd48f7762e80bfcde3a5",
+      "text": ": Use XML tags.",
+      "hash": "3e6ce285ff862e6a4d7e769de2461d52a176b1fd7a852f718d3559e678182728"
+    },
+    {
+      "id": "ab6d015afd268282a32b39734ccbb2d747683184aec569facccd61494d967fef",
+      "text": "XML tags can help provide delimiters for different parts of the prompt.",
+      "hash": "655fec4d5d809ca71c3b6c89c87cba8b98d0dfa8c6a860485806a818b545c7fe"
+    },
+    {
+      "id": "53ca706deb895f1f228e55df5afae328b4e3e26ceb0b3d0257fc8ad4c8842192",
+      "text": "An example from Anthropic's docs is a financial report:",
+      "hash": "0d606fc4100b631a5971a80a9fff5b6878508e74eb05da128930f24f1c52ce66"
+    },
+    {
+      "id": "2cb74a2b7891d7c9c2e6f0952719f9b5e590b52323958f542516c1410b2c91f0",
+      "text": "XML Tags On The Output",
+      "hash": "5ae9646ae062d95bed60b273e6353ed33a469fd3ba7767eedc856bbcdd041224"
+    },
+    {
+      "id": "07eca4485383f902139914c89225fa0194de3d77fcfcba13198cee58d33ed365",
+      "text": ": You want the LLM to respond with multiple different outputs.",
+      "hash": "02271343a5b2debecd910f1b569883b79a236c6ef10b3fec8a4548a629ad250c"
+    },
+    {
+      "id": "dd8802483ebc0eaf3442d308b27c0657fa5a35fc881f6616779560fbe93f0dc6",
+      "text": ": Tell the LLM to respond with different outputs based on the XML tags.",
+      "hash": "1ad0bff94244c57cfc5b2e96b7dc85aed6e138ae6c0e62f6de0217fc52996648"
+    },
+    {
+      "id": "0206e552b54c97dd4372554a4e40e5e67bf92816dc08b6d80e0c06ded2a3eabb",
+      "text": "You can also tell your LLM to respond with different outputs based on the XML tags in the prompt. This can give you more control over the structure of the response.",
+      "hash": "4faf511af183b5470193dd6414eee8799c9df96dc0dfc932a693ad3c1d378bf7"
+    },
+    {
+      "id": "a7b3639f59ccca65b6cdf6db076c1218e857124919d6001a614b59d069a8077f",
+      "text": "You may want the LLM to review an article for you. You may want it to provide a",
+      "hash": "806306470e86ac2da0e201122163084b0719a5f2f87ab417811e6252560e1363"
+    },
+    {
+      "id": "29cc4f819af8bd9f7bdebffcc3798b3425b9e09826b6237475ea96eefc34857b",
+      "text": ", a",
+      "hash": "a5c172abdd6ea1e886ffbda844ab1ea24af334c8fa53ddf7adf81ec6a15c8bac"
+    },
+    {
+      "id": "f9d7128961da97da2eebcca25b5315308630361c92a23b1484f9364fdcd1a5f8",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "1564604eb198626be0e3394c35aef1bc52bf8f95b7e2d0e90d71cf4ca6513893",
+      "text": "This technique was popularised by Anthropic, but most models also support it.",
+      "hash": "0974d2ee7c77da3bc467edd48b8d351f093e22e92b9f01e5e95ad6dc66734ef0"
+    },
+    {
+      "id": "ebd5206ff8ef6e170c1fd0b0334f755baf8a19fe133f97db744401d4e90eaa55",
+      "text": "on using XML tags in your prompts",
+      "hash": "5d7a29163737ff1d88c26f7c60eee985e0503d2059e926bafa8c619458bd2fbc"
+    },
+    {
+      "id": "48c68b448e4716e7775a3d0f9cfa8a6e98b20467775ddd95abd82cf64d29bb0b",
+      "text": "mention using XML tags as delimiters",
+      "hash": "d4fa070c96f68492a06836c5bb2da623662f99d14e04167e63bc322d81c46dd1"
+    },
+    {
+      "id": "6a5293c8edea43ed6136d92817266c47eef412d92e4e1bee6acbebf51cade463",
+      "text": "4. Constraining The LLM's Response Format",
+      "hash": "1586cacaab17b9eaa33e2b7a7309e0c6b6fd1da1311a07746e6590e6479364cc"
+    },
+    {
+      "id": "412dd7e700b2471364830448a7da5892b82aef0ccc06bd46beffe4f76907ded2",
+      "text": ": You want to tightly constrain the text that comes back from the LLM, such as asking it to reply with JSON or a single word.",
+      "hash": "97a4fbcae5639cfa3b0a5197255c2671abca06cb0f078b75fcb424a0621e2e7a"
+    },
+    {
+      "id": "9ed48e1fd901d5bab898973f8d9627d1332c0c6affca944e2b8574e6f593b0e0",
+      "text": ": Use structured outputs or explicit format instructions.",
+      "hash": "1855f990d8bdef538d115685a5d68d26e5365421a22a39dfaf326f504573888a"
+    },
+    {
+      "id": "133ca7520f8d6f13f8348f18b9979ca1be0e1d5966cd62706a563d32ecc00f47",
+      "text": "Older versions of Claude supported \"prefilling\" the assistant message to steer the response format. As of Claude 4.6, prefilling returns a 400 error. The modern alternatives are better:",
+      "hash": "bef7e3f0f265e35da5a0040b28a64f6fd875090dc6862f72ab7a4353273d14df"
+    },
+    {
+      "id": "a25e7bfc215eec62a19f5f9a86db9d5f1adf4f367839d8c4152238e1df50c573",
+      "text": "Structured Outputs",
+      "hash": "67438a2f888fe0204cd699f5ab62f0ca16cf571d72ef51ba738f652667a07c6e"
+    },
+    {
+      "id": "481646bd4be8528f8e8cb7e01486e5963a0ae6fd086b8f0d106f859bbd2e5ba9",
+      "text": "(recommended): Most LLM providers now support structured output schemas that guarantee the response matches a specific JSON shape. With the Vercel AI SDK, use",
+      "hash": "cc8312a688249ec0c012dbf0ed79dcb33bc53da7a59d60b91b6d95771f764b7f"
+    },
+    {
+      "id": "c8add4ccd7e3d93f81f6e9a9a8749b4009ef4ff9a5d25c0107793db6306eae46",
+      "text": "System prompt instructions",
+      "hash": "e5c89a21e82e782344c2a1305c3707e46e3a31b51a6886008278122d7159e881"
+    },
+    {
+      "id": "16a6bd205ab104b8ea33c8c9c670e2599c6fc33c214cd8c30de0c645b128287d",
+      "text": ": For simpler constraints, tell the model what format you want in the system prompt:",
+      "hash": "90500d0485f6787ba1fb8d04ca44bb7f9581e883ad22023dc94f7ac8d4c14dfa"
+    },
+    {
+      "id": "996f973a595e5d43e66a2a9950cbddeddcd7ac23499ebbcf0cdfa789d5dfa54a",
+      "text": "Both approaches are more reliable than prefilling ever was. Structured outputs give you type-safe, validated responses. System prompt instructions work when you need flexible text output in a specific shape.",
+      "hash": "fc8d052161331e8467509cd1db1219728ac8390e7f3f61051da34f7d6b7132ba"
+    },
+    {
+      "id": "30470fb7b6b15ac61eb8a859c4a31bd0ad882be62f99dd5a1933db4da4ef3d19",
+      "text": "Anthropic: Structured Outputs",
+      "hash": "2ea959362729ff47d99357d1c27aa70a700670937a70178e195e0c5483388382"
+    },
+    {
+      "id": "e860f425e16d8ab3e5ee59cd4290f024b6b761f010c1f20a66f4672b8ca887b5",
+      "text": "Vercel AI SDK: generateObject",
+      "hash": "2e4bfd8e9b266c33fab627c775c36e19f145fb60fc9f727a7e4b73678e08f578"
+    },
+    {
+      "id": "5a9cff062557d87e17457e24b647ee09c74ce4ebb480ded5d701e6cd4bbd02bb",
+      "text": "5. Structured Outputs",
+      "hash": "b1dd991c113fe3808809f17af3bb083e35b52cc194238416bdc0435cb84a8eab"
+    },
+    {
+      "id": "4418d03a35b211166385f3514fa796e401d557beaef0b7a032c4b84bb10cdc10",
+      "text": ": You want the LLM to return structured data instead of text.",
+      "hash": "25abf0f860d5e73acbe19f97dd90a4e5e1525ae2dd6497b1b447796e7796c26b"
+    },
+    {
+      "id": "de1b5fc6a18caea68d28603fb595588b16c2ae32dfdd848aa657cfcfd4a90403",
+      "text": ": Use structured outputs.",
+      "hash": "70f3b9886318df594309e5533e25a20a535fdfaf51011f6fc4bca94a5cc815a2"
+    },
+    {
+      "id": "0d7859bab42f3bb448a9247468d178e932e820ba1b8b6fd077570552413cb956",
+      "text": "Structured outputs are a way to get the LLM to return data in a structured format, like JSON. Most LLM providers support providing a JSON schema description of the output you want.",
+      "hash": "d501c83c81764c46db0b53a5902331f9ce948e88f72854c2e51e209789d12bd3"
+    },
+    {
+      "id": "dee3a4e727a9e5cb2d6032462d29519ccb56a1ac108d47b93a266174ac7b7807",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "aff9a4271e23ad7983f320576268c5d4c3c6b20acd71e9e94b15a08eb90660ae",
+      "text": "Vercel AI SDK",
+      "hash": "490c9cb0b3e768b12adbd0e81ae2f6fed2915bfe0410ad2c71f0e3d71d1e5c74"
+    },
+    {
+      "id": "f5ef433fa1dfd57b41ecfa1ad40cb40bfd7283b20f3ebfd7def9029882f1acef",
+      "text": "is a particularly good toolset for this.",
+      "hash": "9b5f0d60f08dedeaba7069fdf3d23b3090323bff780470e324ecc061b312d1be"
+    },
+    {
+      "id": "b77af02a409d8768e15eda6b4a53b431f9579fd7e0d90fc3c337bc82cf3eecd0",
+      "text": "Anthropic's Docs",
+      "hash": "14c1436738d287f16a5934511f56e0761ade66c036f149102fcdbd85e2853257"
+    },
+    {
+      "id": "6271eb227354933db44e6558d069c7d62ced1c1f866429833fceacc4011d12f3",
+      "text": "on JSON mode",
+      "hash": "c36d3ba9b24173f1250a838bff7faac45aa6cbd5c7402b727a853890403123b0"
+    },
+    {
+      "id": "1d9c236f63b779781d98f19c9093c5fc23a06df4c52fd676390169c7f2dbe868",
+      "text": "6. Reasoning",
+      "hash": "eaaf6edbd1591f1f9fc8e4e5b22f62bd002784686f2eff0ebaecda9b25fca3fc"
+    },
+    {
+      "id": "bc31a9e403737e43a6fc8758b07b3a55e9a7c495d5bd0c3cfdd89b8797285c09",
+      "text": ": The LLM is not doing well enough at complex, multi-step reasoning tasks, like coding or math problems.",
+      "hash": "78af856a8e576eea32d5a75cb9a5dc206a2c2aed53d95860043d89f55ac5df35"
+    },
+    {
+      "id": "df4d446963e6aecedb99d6197e3688484cc3e89a5007f32606098285012399ab",
+      "text": ": Prompt the LLM to reason through the problem using chain-of-thought (CoT) prompting.",
+      "hash": "55e917fa7a729b4b331450e4bcdc16c35f4c923fc3ceab0a3d445a83bdb1c4cb"
+    },
+    {
+      "id": "e3f97a46f6c83feadd6cf5ff9fe5c70d48ac52b28d414942b83f6f37448f2358",
+      "text": "Chain-of-thought prompting encourages the LLM to break down problems step-by-step, leading to more accurate and nuanced outputs. This technique is particularly effective for tasks that require complex reasoning, analysis, or problem-solving.",
+      "hash": "e04e7ceb8e0e2121e21033e002a94eaa912877184713ee6bd8d656bda51e85e3"
+    },
+    {
+      "id": "cf5591a9c4db4975ff520870b786d1d6731a05c219d5e2bfbdd89aca82de4192",
+      "text": "There are three main approaches to chain-of-thought prompting, from simplest to most complex:",
+      "hash": "6eef5aa682d86f67a51d7cc122ee0bc63d457d2d24c9ac067186e550fe83d2d6"
+    },
+    {
+      "id": "498c299a8369de0c6cbb249f58c536c7d0858f61b1375d49d453619f38a688a3",
+      "text": "Basic CoT",
+      "hash": "00ec89985dc469858ec968c5279d581dbc8f2834e94a6b1a40edaf89ee57d287"
+    },
+    {
+      "id": "6541d56e8ffa0d428ff5a1a2c93e97d3c9513974d52569acce62b8ecdf67815b",
+      "text": ": Simply include \"Think step-by-step\" in your prompt. While simple, this lacks guidance on how to think.",
+      "hash": "168c1044242549402d9e2ea361113a3b7a740fba128dd89a59d85cc37c761113"
+    },
+    {
+      "id": "197474d7ab9505373fda2d7af9f48ac2217ec510c93b5784ff38c1c752f3b871",
+      "text": "Guided CoT",
+      "hash": "d1d273f5bbac990bf396ec711f63a09084cd1a9bb18bc04a75c1df2b6ca26f84"
+    },
+    {
+      "id": "5e9485b0204db29c101f06f1700fe93136f61130c373e7fd48c18e71d67ea858",
+      "text": ": Outline specific steps for the LLM to follow in its thinking process.",
+      "hash": "e44918435d4c0d6d422d1f966946b07b389ef0510422a078f26ee7f2f0fdebf3"
+    },
+    {
+      "id": "1abed92018e504158336f1e0f5f59aaf39c792f7a6d033be2eee7b51be336298",
+      "text": "Structured CoT",
+      "hash": "b31ef4f0583e39a09312da8e3f4692a83bf06f3cb9ed928028da8afdecc126b9"
+    },
+    {
+      "id": "0fa1184ff1c6e7a1a1248360db232192c205b09feaf245ac7a800571b596dca6",
+      "text": ": Use XML tags like",
+      "hash": "8506df56e7bdd8753f6e0237e596933fa6f21b83392504f11fc2f2c1de60c9c2"
+    },
+    {
+      "id": "2ae05c39769aab098fc15f693f93db24f944a17a88e45fe155aa99f23a87396f",
+      "text": "to separate reasoning from the final answer.",
+      "hash": "d018f1b0916c7d4441cae272843f9ead2e322217f564b105c932b01f6195bb41"
+    },
+    {
+      "id": "c057f4009e701253f1c75d10bb757baa327a686577cee8cb5329b234650ad52d",
+      "text": "Chain-of-thought prompting trades speed for quality. The LLM must process and output its reasoning steps, so the response time gets longer. This matters most in real-time applications - a chatbot needs quick responses, while a code reviewer can take longer for detailed analysis.",
+      "hash": "086c535b073361f545ad1257616f23ae8fdecdac2ed2123a8ddede2528880723"
+    },
+    {
+      "id": "0d8dec8d7a88dea11184e584c78c830d39bcf10279d2f3750b88bc4497ff78f7",
+      "text": "on chain-of-thought prompting",
+      "hash": "7a2c4a92d0e40bc92e94a69e1ed4723a80659033a48237ca9c3cd848b0654f3c"
+    },
+    {
+      "id": "59aee3d897fd6f331016f557703a1220f15a193bf23ae3c24bd6d20f23959efd",
+      "text": "OpenAI's advice",
+      "hash": "8433b4cbb2cd600d399d5720123643107475b9f3a4b0162f58bb7cf3257789a3"
+    },
+    {
+      "id": "70bd7fbb189d91ad1daf9eec5520d5f0a7190904e528c47f6997f0f4d14701c2",
+      "text": "on giving the model time to think before coming to a conclusion",
+      "hash": "c4061da4709e9a2dca891a271272cf2ab9cffe0bdbd39c38eb5f8aa0bb0b0933"
+    },
+    {
+      "id": "078d5f92a30f7923ff9bcead206b741d9949a755f997aa38bc744168581b0e38",
+      "text": "7. Multishot Prompting",
+      "hash": "364b2d7e5fb70d7ac9b29e34df94dfa8ac0fe37f550a415f7b1b038cfca671b9"
+    },
+    {
+      "id": "8a4ba9956def8e577dea983afcda3cad3f82fef07dc36a289319d50df106dc81",
+      "text": ": The LLM needs to understand a specific pattern or format but isn't getting it from a single example.",
+      "hash": "38f4ef402232e7956e7d3d18a7c031ad3ffd4f89a016a831ca79169cb9adc1f4"
+    },
+    {
+      "id": "391df749cda3a73d398b2d4a9501b31d16044848f4f9b2c458ddbc2d9be1dedb",
+      "text": ": Provide multiple examples to help the LLM understand the pattern.",
+      "hash": "048b1f50e071c6ea60a2af9259a26541f4ac50cb589627cebb70db70ba913cf2"
+    },
+    {
+      "id": "e070adecdc77bdcbb151f9db3bcac506a4d342a017604217e9b39720f3038f26",
+      "text": "Multishot prompting can achieve results similar to fine-tuning, but without the cost and complexity of training a new model. It works by showing the model examples of what you want it to do.",
+      "hash": "418160c66e2c8569cee885ccc4af804a962bab3f0dc64ea5a7ebb9039e0a6304"
+    },
+    {
+      "id": "d1853a6daf0fdf256254013b99072915ff4ce2db45c51fe5386b7994a50bea97",
+      "text": "It's straightforward - provide a few examples of input and output, and the model learns the pattern. No training data or compute resources needed.",
+      "hash": "f194bc3eb6c78bc200120eebaf76e518588e64d0febc566c23d494785dce39a3"
+    },
+    {
+      "id": "a560b7cf2adfff1b0a3249edd9a8649ada7559b12ea23446e134a24fa3f7cf1b",
+      "text": "Here's a practical example for writing product descriptions:",
+      "hash": "714e73beed4716a45fb98b02cf89a05c52054b4b544b21fa3573f18a27402d4b"
+    },
+    {
+      "id": "91af89a0fce7b22d2756886febeb40eb730435bfbe1e5a9762df1d45d3a58faa",
+      "text": "After seeing these examples, the model learns to write product descriptions with sensory language and focus on benefits. If you then give it \"Input: Coffee maker\", it will generate a similar style description.",
+      "hash": "e265d6fe4efe78d7618608693a2af057ea1a86c0a29fd253672167a4dad368f5"
+    },
+    {
+      "id": "da3df0930d6f02c06515bb8593f87025428952f68da290425c1e28074a4c9a3a",
+      "text": "Multishot prompting contrasts with zero-shot prompting, where you just describe what you want without examples.",
+      "hash": "2ed2c3c4341c46f2a8dd61be2ffb5519d74209b1fa7ba6ee55bcdd6ad23bceaa"
+    },
+    {
+      "id": "a6c0ac0f240dfed1fe705fbedea291f9d3693ca9e7c87ae75002bcd4685cd730",
+      "text": "on multishot prompting",
+      "hash": "a70a431be2d7a8b5a5db476c7c55d3d2fbd74d968e417c0fdf8bd0d5ec5d0da3"
+    },
+    {
+      "id": "a6101aa6479ef6e839d2bb99da73842abef1876609c65cb59e199d043dfcefb3",
+      "text": "on providing examples",
+      "hash": "674e4ab5d292467bdd9c830b23adec7eea82f6ecfee8f5412ca77fa1abac7500"
+    },
+    {
+      "id": "b10d9ad4708e9eac687c9511c6fe971e9ef5dff9afa98477d012b02e1182a856",
+      "text": "8. Temperature",
+      "hash": "c8d4718b87677853380d82aeca3d5b765474961fc96eb2b633d331eddfb64451"
+    },
+    {
+      "id": "9bd9715a5410284c9f42aeac180bdfac5c63dc0e52a0c62c29f6d13b05d6b7aa",
+      "text": ": The LLM's outputs are either too deterministic (boring) or too random (unreliable).",
+      "hash": "b3836be5f0d485490b0d1bfa972fae3b3b234e207aa1fac0a87647161f9d0498"
+    },
+    {
+      "id": "3586a3e2b9ec4e31122b46255e90447787c05b8ad0855bffa9633452cb662104",
+      "text": ": Adjust the temperature parameter to control the randomness of outputs.",
+      "hash": "45b047bf16ec02a650a0e1f61269e4a6770a0a80549f6858bbcd3f8d942946f0"
+    },
+    {
+      "id": "a703001f21dc3fd916e1ee74ff79c0690b6176ceb665793317a91c419d43b84c",
+      "text": "You can pass a temperature parameter to the LLM. This controls how random or deterministic the LLM's outputs are.",
+      "hash": "66437caac9c5102cbd0b243b8ae39afc7c998a64b3c2faa8a23ff05b33f1b0e7"
+    },
+    {
+      "id": "dd452e5302908db904330f23570750c24a2a110e23791caf5665bed2769816e5",
+      "text": "Think of temperature as your creativity dial. When you're writing code or need precise facts, you'll want to specify 0.0-0.3 - this makes the model stick to the most likely outputs. For general chat or creative writing, a medium setting of 0.4-0.7 gives you a nice balance. And when you're brainstorming or need fresh ideas, bump it up to 0.8-1.2.",
+      "hash": "56760391620fb228d36a848ba5eae1677624c196df4f8166393a14488d207254"
+    },
+    {
+      "id": "59ee692ec0132085f6177700ecf3f4b6183246d45939350c3861b8e25ca909ac",
+      "text": "Higher temperature means more interesting outputs, but might produce more hallucinations. My general suggestion is to start conservative and dial it up only when you need more variety.",
+      "hash": "8068439dc21132043531b4161706d579b14eb11ac29653c684fb0d8dfc72b90e"
+    },
+    {
+      "id": "01b0d73d73090adef9cf1059c78bd1ba4421c4dba34afb8832be53da5b6f0945",
+      "text": "Either way, it's a relatively cheap technique to try.",
+      "hash": "340b0374d41188db56aad991938f22b202974836bc43a42c76fea6d14913db26"
+    },
+    {
+      "id": "1a870d348203d11a3b71ed0915e907338f3fe50b50f9cabc7c396c534d223ddc",
+      "text": "OpenAI's API Reference",
+      "hash": "7663cd5614bae2ffe4ad395c3702ec5c032f3f0242ea1bb0430b83436c8a6289"
+    },
+    {
+      "id": "a0d33d30310a27d254fe0a786fbb979b41331a11efc8f47e4b561afd08c7daad",
+      "text": "explains how temperature affects token sampling",
+      "hash": "f41c76ac5feae5bdbe7241f1402c3dc76bf10ad090b3090418d909ec7612d52a"
+    },
+    {
+      "id": "a3d395e2bbcc4fc950b60615ca74d34c3eb7b2e6eb5b30d911ffa15a407e43d2",
+      "text": "9. Tool Calling",
+      "hash": "7d34360e17aa0e761f074b5112835913f24edf63bd6d5451ba616e6eb46197b8"
+    },
+    {
+      "id": "be3602d8e78895c5166778d29b254825740e99befdf4efab47b801652c0465a6",
+      "text": ": LLMs are limited to text generation and can't directly interact with external systems or perform actions in the world.",
+      "hash": "6e24649f1fea322f3391739ac2fa36e6c935825faabbdaeed5232ab1c840b27c"
+    },
+    {
+      "id": "c54381c3b6b27619e4a23fcf754d84843bc48de4383056f87e1b70a605e6b872",
+      "text": ": Give the LLM access to specific functions or tools it can call to extend its capabilities beyond text generation.",
+      "hash": "aba97b671ce5951bed740ad598f554d2f4ac31a234190a2d859af64848c805be"
+    },
+    {
+      "id": "3f54693100bfb8134af67ad0a3451dc4bebb9bd2bcb5a5be36b6e6d42203b60d",
+      "text": "Tool calling bridges the gap between an LLM's internal capabilities and the external world. It allows LLMs to perform actions like making API calls, accessing databases, or manipulating files. The LLM describes what it wants to do, and the system executes the appropriate tool with the specified parameters.",
+      "hash": "cfd2655aad5628f2c5c8a61ac8584ff25e41e7285fc10199b4ff792e569905fa"
+    },
+    {
+      "id": "3913f85806060ef0e2dafca65fcd7b21936f9389d0ed1a3afe3ab161dd9e8517",
+      "text": "This pattern is particularly useful when you need your LLM to interact with external services, perform system operations, or access data that isn't in its training data. It's a fundamental building block for creating more capable AI applications.",
+      "hash": "7d171757a03d93487a69c0c2976dc6386d8a9a7921695b3fe67e2a1c5022ce36"
+    },
+    {
+      "id": "f6c1648d59ec3622f1b985469cc0606736c09d2ca2f57927224f874e8254e575",
+      "text": "You can learn how to implement this pattern using Vercel's AI SDK in",
+      "hash": "6f93e7afaf7bc6381f3664f1ffa4ba2b67cae5d53e8ed57dbe8e38edf398100b"
+    },
+    {
+      "id": "3f5f70688fb3ced8ced102a26917fd37e485dcd8d234f429c78dcb4f6e74d84a",
+      "text": "my tutorial",
+      "hash": "3a2703ed115ad15be86e8ca0849b96b6f1dd15ef4b3e0d14cdd39ce633c5cb9f"
+    },
+    {
+      "id": "92e64faf499f518ef2c59fe4506013511971c860bfa9cedad645313a532e2639",
+      "text": "on tool calling",
+      "hash": "43e051a3ec6d3a6af2ebc62788b83af707f72b48f8046e49b44e835dca9721cf"
+    },
+    {
+      "id": "00e62e52eda7593975ba331516190847610ced3854e403fff66bce9f4f21a49f",
+      "text": "on function calling",
+      "hash": "8685defae0a4a5f6390ed688ad18f287b34a73ded2a7e8dfd867c674e7ad9ad7"
+    },
+    {
+      "id": "81a7d8366e989dfda7ae78e7bdbee7c11d10d6a596974813e40de9fc28ded289",
+      "text": "10. LLM Call Chaining",
+      "hash": "65ea9ec015a795fa3d59b14a9545fbb31cdbc75c6bfb52b9249e03d8b442f745"
+    },
+    {
+      "id": "531ee6e1fc0e86b68bdb905e442341f826fa5c669bbdfaacb2592a5cc4db8aab",
+      "text": ": A single LLM call isn't sufficient to complete a complex task.",
+      "hash": "e634667c0c73e4d3193a90489c6e7dd4c718b5602319429afabd07d414ef1c0a"
+    },
+    {
+      "id": "062f04570694d6ebe521a189f6f4b8c09fabde898384b5937812bcff64b59deb",
+      "text": ": Break down the task into multiple LLM calls that build on each other.",
+      "hash": "c821f5af4b0037e81cc66c59d8c1743317cef6cebdf43bfbf25f2db40ecccafa"
+    },
+    {
+      "id": "4cc1269ef1c35713def64c6659eb22d6d4ebf7e15577602ef976d5add548cccf",
+      "text": "When you need to perform multiple specialized operations on the same input, trying to do everything in a single prompt often leads to subpar results. Each operation might need different expertise and focus.",
+      "hash": "8d2033c2e39a5100374de5bfed252c143151d348b12504fe5b9cfc4d91447f20"
+    },
+    {
+      "id": "5f460d0125d9cda5bb2acc1c716ca2837202dd872c6fc15b165fdcbcf4c9243b",
+      "text": "This is where LLM call chaining comes in. Instead of asking one prompt to do everything, you break the task into specialized steps. Each prompt focuses on one aspect of the task, and its output becomes the input for the next prompt in the chain.",
+      "hash": "8cda97a79b1a8a5a4a270aef2eaa017d500d221b5e7750fb4d29d968d59653a7"
+    },
+    {
+      "id": "64d6d783bd27914788193808fe442e2e10c2a96bdfb9102eec921df569f859de",
+      "text": "Take code analysis and fix generation as an example. The first prompt acts as a code analyzer, identifying and categorizing issues in the code. It provides context for each issue, creating a structured analysis.",
+      "hash": "30009b37abf4eade9f9173580591555fb83c98019f8ceb65902a0b01bb2f4733"
+    },
+    {
+      "id": "00c683cd61e9501bb1c91fadb3ecbd192aae8bbeac3bb4128314558c713dbaf1",
+      "text": "The second prompt then uses this analysis to generate targeted fixes, building on the first prompt's insights. This separation of concerns allows each prompt to be optimized for its specific task, leading to better results than trying to do both operations in a single prompt.",
+      "hash": "c99b80b9b51eb778cc5c58f1f8832041946af92534d3c0f041a894c8489c68a5"
+    },
+    {
+      "id": "aaebd4c5529d62a017960a5eaccbb94cae88045c6beedbe48ed711ef4fd9c59c",
+      "text": "This pattern can be applied to many other scenarios:",
+      "hash": "9437424e1dcbbcbfe5dadf71a19e2ebcda8928ea787fcd1033624863181628da"
+    },
+    {
+      "id": "e7989679c9dafdd437cc8eeab2ff01aa2d4ed2b9660fe444a2d9aeac01e66810",
+      "text": "First analyze a document's structure, then generate a summary",
+      "hash": "ed45f920aa103848f9f0f3422f59c6c9a270db11d6480fddfda91d4e28dc8207"
+    },
+    {
+      "id": "c1988c9131b321262f461c54ee2e060350bf4e3d6d03b5c6dd8ddf31f4a60301",
+      "text": "First identify key points in a debate, then craft a balanced response",
+      "hash": "36af9a67773dac93dacbb2da2b4605080d818b09591525d6906f31c8b35efa46"
+    },
+    {
+      "id": "fb9905198354b123b2a18f87e5bcfb57831b900a82f81ffe06dd24f5de4c3b3a",
+      "text": "First extract facts from research, then write a layperson explanation",
+      "hash": "e48dc62e6579c1133ad3fdb126d7d7f2e101e7098a2ad051c60a1310f1364b1b"
+    },
+    {
+      "id": "c6b29ba8eff44d9ef00469e6fb1b1e6acbbf0f6925b175d46b731ec9f51ba69f",
+      "text": "First identify bugs in code, then generate fixes for each one",
+      "hash": "9b1ac99d46987343bee8adf85c603b845fb2e5b291dc11160f2027a92c5730b9"
+    },
+    {
+      "id": "9ae6720d76dd3b0237b16fdc946773d46bf830a57dd8c3524eb1cf542187f1a1",
+      "text": "on prompt chaining",
+      "hash": "5b0414ecad4007b8949dd8b431cb730e2087a3beee3eac43ee65b2f2e2caa302"
+    },
+    {
+      "id": "446ee3db599a5d5b426fc85a251b5774bac92860c58a0a6b59e641d2c8d13008",
+      "text": "UPDATE:",
+      "hash": "6c43916d17a55abc5fd461cfd56ebd626250b46049e38788cf061816e3af4a12"
+    },
+    {
+      "id": "af126f76bb99a4354792bd56ea75040945d4fee9b5dc1a74ba423dc288853338",
+      "text": "OpenAI has removed their guide on using inner-monologue",
+      "hash": "6abdd968c0199ce22679807f662f93f671b732572c4d62312d1b117195792206"
+    },
+    {
+      "id": "de77c0556fb79e9769ad23308442a8296b240a39e2d540d5694eb6e9c592ece7",
+      "text": "11. RAG",
+      "hash": "f7f36927f33b882d3b64ffce99aff7caf6500b6714fb470b944f8f6887b836e1"
+    },
+    {
+      "id": "9d0eeba40e36bbccd9cea02c8bf21196e0cb8e9c5b05affed95e089fd39f4d4c",
+      "text": ": Your LLM is making up facts because it can't access the information it needs.",
+      "hash": "27dda0a42c525ecb29e713d653d97dbfb49337ddb3bcf1a6a4f3dfd01dd8c473"
+    },
+    {
+      "id": "5ca8c6a29572cb299ace7549e66e3241ad50b2ffd4fd3e28455c958de32b571d",
+      "text": ": Give it access to real data through retrieval augmented generation.",
+      "hash": "5102ff66df2ebfbf8fab713a01d9d98dec51f0a824a69a413a26ea952fabe368"
+    },
+    {
+      "id": "8cc9fecae03fe6f013b59b99f3aad9356d044e98629f6f72c9586cb21fa7601e",
+      "text": "RAG is a powerful technique for grounding your LLM's responses in actual data and reducing hallucinations. Every LLM has a cutoff date for its training data - it can't know about events or information after that date. Instead of relying on what it learned during training, it can look up fresh information as needed.",
+      "hash": "3bdd2915f31f8702dd37971775fdf33b9e7483c5ede191a12ed90d06f358f905"
+    },
+    {
+      "id": "943d48f95520cfc7061feb23ca7b70687a384cb34e2e9fc90dd5ba5caa520704",
+      "text": "You've got two main ways to feed data to your LLM. Web search gives you access to current information and public knowledge. Company databases and documentation let you tap into private, domain-specific information. This is particularly useful when you need answers about your company's internal processes or want to ensure your LLM's responses are up-to-date.",
+      "hash": "a98c0c3f7e0855165678557b600069057a27e4f0005b601460e2770713f31802"
+    },
+    {
+      "id": "178e126d20fc838fa0153ae9c4e71261af3691cc3209c921d0508de6ff463241",
+      "text": "RAG shouldn't be your first port of call when building an LLM application. It adds significant complexity to your system - you need to manage data sources, handle retrieval, and ensure your context windows stay within limits.",
+      "hash": "559c3116932148161fe4dd3e0d52109fac1eca53d1ab806af848d2c91ad7fbe6"
+    },
+    {
+      "id": "83e3cfc43c442ed69ad226b037e6c5439326a8131de32b21a1b82a89c18761e5",
+      "text": "OpenAI's article",
+      "hash": "8ee505bdf5ea675bb4cd3a1aac95d0ec2dd3ae00c3fd06ea0e5aaf4874a31233"
+    },
+    {
+      "id": "fa579d833782041e38a77ca3526f1de1db336cc443c036c4a9c2859bd3b8dbdf",
+      "text": "on RAG and semantic search. There is also a",
+      "hash": "82760fc1ca4edd52a19485e6fd3d61fa101fcecb2969d561ee667c1e6cf3e2c7"
+    },
+    {
+      "id": "26c3cc3c16927c7c7562e2de93e8267ab50dd4d3f823ac5105554a48fa65a14b",
+      "text": "in their official docs.",
+      "hash": "83cb08be950e96bea855848a57b13c9a56d2e777ea07437c4be7a6291feacf32"
+    },
+    {
+      "id": "6adf7553b5acc458e2cccdbf76317959da8049ebec15554c205d88f0dc2e8191",
+      "text": "12. Chunking",
+      "hash": "a4342bfdf9f8b1b5606e0d43f1e3aa021d0ce9f54f9a53077f3c91d225e5eea5"
+    },
+    {
+      "id": "0c0ef8bc771a8b108ca9e4af0065b61faca6a0bbf5859615ff373b9ed53670c7",
+      "text": ": The information you want to retrieve is too large to fit in the",
+      "hash": "a79d4ed041b45d1c602b995dd660b2fcd2b2c3078996fed22de32690ca5a8b74"
+    },
+    {
+      "id": "01eb1ce625ce1808ff7fbbaee45f13303872d9d6a9eb55e5655a79251c6969ea",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "4ce2ed296a9cfd30bd2ec24696aeec4ffca5952b1738a120037325ab3e43f5fe",
+      "text": ": Break down the information into smaller, manageable chunks.",
+      "hash": "e283938cff05c88dca49c4f7078db2ceeab3a5f7618264ae46713d0764c2e291"
+    },
+    {
+      "id": "d9f6ff21a5d72f9977827a3f2a4c203e18e82d1fcd137d8d3ba9c30262d5a0a5",
+      "text": "Chunking is a fundamental technique in RAG systems that breaks down large documents into smaller, more manageable pieces. The goal is to create chunks that are both semantically meaningful and small enough to fit within your model's context window.",
+      "hash": "5cafe61858d279c54239545eee125d00e29917b5d0ef89dc44476a2f98a82dd5"
+    },
+    {
+      "id": "954c3a451210359d10d3ef68f086516aa48338bd9819de8376c71a06afe5e6b7",
+      "text": "The complexity of chunking comes from the many ways you can split content. Here are the main approaches:",
+      "hash": "1e214efe589b822d40e38fefbafed844ff85eec1b3489e685200a9ec1267fa5a"
+    },
+    {
+      "id": "7a8a6899de23f1e4a460881c3a4422ec1f66822c995e1b9d5b13933baa7aada9",
+      "text": "Token-based",
+      "hash": "94d076f70c79ac05ab0d1b606b293be1db3cace5e4d873c7716925b80d14d3f1"
+    },
+    {
+      "id": "0a7dd3eaaf2bb58fbc5660391e1194db3f7f2f7e6ef4971b0266f0ef3ea6f599",
+      "text": ": Splits content based on token count, ensuring you stay within model limits",
+      "hash": "e22faf1f1063d00a8ebe1523663d055d1ef738a8b4f1de2d516ec1e511c6070c"
+    },
+    {
+      "id": "28c8404e5eebb0b69b3799da39fb5b112dcd90ef4bc5bc9f103bfac6016c8400",
+      "text": "Character-based",
+      "hash": "7de4a038aac8a74c866bbd8ebfacdc22fb5750d1f66af3f0b25290397c9e20f9"
+    },
+    {
+      "id": "ae7dc3e7c10370852323aee00fabcbdc19d637b0e236ede8f9109bc5134ce684",
+      "text": ": Splits by character count, useful for raw text processing",
+      "hash": "06e0e080b3fcba3cb6f379542850c29656967270ce6edb08190786533f455ca6"
+    },
+    {
+      "id": "657c51869b95a5b05d2aa51a3c8745ef6f9c30d9bc1258cfed7abcf112247990",
+      "text": "Sentence-based",
+      "hash": "a0177c5298c638b02df087a633b150bad80ce9da6fe93893a704135c112fb2e8"
+    },
+    {
+      "id": "25d9a611b90fac04ef2c6a4e16c791ef5c3f642ad98e41bd2744a5a1c853a35e",
+      "text": ": Preserves natural language boundaries",
+      "hash": "05268c3f253b765bdeb28b695350333a97702d9622299101765ca50d8ed7800c"
+    },
+    {
+      "id": "a1b4f18b08ba9781af72b314798ef462a5796282210eee0726426a50bd65498a",
+      "text": "Paragraph-based",
+      "hash": "ad947c761b42dbeb1301e2fe1b5d6ad1284f09e9b637dad456c85e037ab0ffec"
+    },
+    {
+      "id": "da892e1349897705a9f2b8bcd052b0c145b8bba67e09681bbd5e952bcc65d95a",
+      "text": ": Maintains larger semantic units",
+      "hash": "104fe4db4f1266ce9965d5594ab6b58f109a16939cd11f27468d84f8fc8322fb"
+    },
+    {
+      "id": "05581e8b8d58d89fcf2f8e3f7acb22ddfc25c78a9331ae85319cab5550b8aa48",
+      "text": "Semantic boundaries",
+      "hash": "bfc474877cd5bef0d6f7a8e48ecd5f6fba44818b681830e8b3eef6592a592356"
+    },
+    {
+      "id": "058d2f2afa1b6906dfd1a38af7ed623ba4d281f9d009ccba908a01adbd132420",
+      "text": ": Uses embeddings to find natural break points",
+      "hash": "84c27d8858d28c5bc7586582b25b274ef9b8e845a60c62609f9e0e28bc6d4feb"
+    },
+    {
+      "id": "e6205781519bdb83e9cf31efe7bc19ed4526e9fc49bed5031e32cb3a1a007c2a",
+      "text": "Document-structure",
+      "hash": "f60555c595c6d6a1b845d9e0843dc2eface5ae2f8ebc9d0fc8c9edd52710affa"
+    },
+    {
+      "id": "15c29f4e19f7ff9f2dda59f7784b0b6f2bf3263907f6a3a88ef55100942e56f1",
+      "text": ": Respects document formatting (headers, sections, etc.)",
+      "hash": "52c2d100d606af9a731ca30b5b46557f605de7b3532d43d32bf88b5d1fc56f60"
+    },
+    {
+      "id": "8355016b6298a936f2cf337976abe5192d6316d9eba24f83c7c3137284e5539e",
+      "text": "After chunking, you'll need to find the most relevant chunks for each query. Here are the main ways to do this:",
+      "hash": "63d857356cfc3320cdc5c3640f28a5e769e05a3f0ff0a6988cf1c8df473ebd4d"
+    },
+    {
+      "id": "80adfccc6fbb468a459e7f7ec45792bc20a6bd178df73e70732b6b062ef7af18",
+      "text": "BM25",
+      "hash": "9aecf15305b91844a45c5163faa338f1c2ff8151eb281cbd1509c51ee2847ad6"
+    },
+    {
+      "id": "a320fc0bea7f9d653d72f4a2b3194cdddefbd3f7db01cb52e573cc796e40adf6",
+      "text": ": A traditional search algorithm that finds exact word matches, great for technical terms and error codes",
+      "hash": "e00605c367368fc4ca1b7de4c14eba637e5f49d7cf47b4760ab52d554864c976"
+    },
+    {
+      "id": "ef5a9036dc0d82e65d60c2bbad17d24becb8400b10e9f18212a2ca848b255746",
+      "text": "Embeddings",
+      "hash": "f3bcb899f0082dd7b2ae53e48a63cfced94ff95f27913cf96ab71e08613080bd"
+    },
+    {
+      "id": "d1005037d65b83a4c4e084916e5c09aadd76c552ab674cd928cc3a478115d737",
+      "text": ": Converts text into vectors to find semantically similar chunks",
+      "hash": "82ebf550ad66c6d74c85d17d92674943179c132754b5a0bdfe9afe67ba5c5bd8"
+    },
+    {
+      "id": "63ea72603cf0bd14423a1dce0f20240628e55d8a34027420fd7553bc53708ec2",
+      "text": "Hybrid Search",
+      "hash": "58dd6661c037bfc352563b24b58f0bc6709de7ea2023d8af895b6ac4186d688b"
+    },
+    {
+      "id": "88acf60dc1b21b56c7fc9efc4260e5f02ec30e280d44422eee8c20f92bbd46a4",
+      "text": ": Combines BM25 and embeddings for better results",
+      "hash": "303247fa17a2155b1d596d2ffa89255218cb6402297d50c8387d8a89f8c37b6b"
+    },
+    {
+      "id": "bf51ea0249f51e912e18b506689e91d8596345f55e8f4340018f9d9de4e060b7",
+      "text": "LLM Reranking",
+      "hash": "3497bfaa40713caa7524e2c1ce3eb44eb3015a53b3fc85782448eea63928bd2d"
+    },
+    {
+      "id": "2ab8b803a9484e96d6f46cf369d82e3555dbd5addcf5d24ca10b8e638e487b75",
+      "text": ": Uses another LLM to carefully read and rank chunks by relevance",
+      "hash": "6e896c50fed537576421f3bbe8d80ee65b14824b735ce8918e5523401f344c4f"
+    },
+    {
+      "id": "b077bab0205597350b4525b35dd945bbb82c6e041dac2871ca206a0641d0fab0",
+      "text": "Each approach has its strengths - BM25 excels at exact matches, while embeddings capture meaning. Many systems combine multiple approaches for the best results.",
+      "hash": "1f17d7381607847952c78e217afd98b99d56e98b4c66c80db042f2eb14e1ce5d"
+    },
+    {
+      "id": "398c479de29c58159ae3e3d22c58275526835f3573aa95ec81b4fddfef8e5c0a",
+      "text": "Pinecone's guide",
+      "hash": "b93389edfd800d0a9395007999c0549662758adf116ba17c160182137ebd52d2"
+    },
+    {
+      "id": "8b487cc5ae06f84de16b23936fd7889eac115f32d14c70fa31a3edf8c3ee0a53",
+      "text": "on chunking strategies",
+      "hash": "ea74056ea2697cef4d42b6c7d49f03a8b77fa6a8ed251e80c82502a37907be30"
+    },
+    {
+      "id": "c3cdce205916610e42a2c201928bdebb4f20ccc0a5038be5399a019958d405c4",
+      "text": "Anthropic's research",
+      "hash": "ee4b532c762ac7e15766498bea375fac71a406b6ed1bd2a7a266c972678bbe1c"
+    },
+    {
+      "id": "051978125acc448b04d30e37920e1128867e7423acccf879801995a2908582b0",
+      "text": "on contextual retrieval",
+      "hash": "57aff333945c7ab9b6ee81bb6d6ed4fce512b78cd6d34bd7e15b3fa36df54c61"
+    },
+    {
+      "id": "a85884a91d4047692e0fc3b90358ae8dd60bc1756ab5ccf16d25e3c8a0923bda",
+      "text": "Research paper",
+      "hash": "e6fc3b22955a962897e8ec5cc4e374367053903cf17f0771ae3178e0add31abe"
+    },
+    {
+      "id": "980479b17ea99fae2d05f90cf302b7096f22ac768b08dbabf2755f856b66141d",
+      "text": "on evaluating chunking strategies",
+      "hash": "ca31fbc79747a06ce953a2aa32b2a0854d0965935c9441c47a5072a947ce5fc4"
+    },
+    {
+      "id": "dd27bd5988da0a8fe03e076c580d0a8a5c24736308e10a906ff6bbb40598359f",
+      "text": "13. Agentic Loops",
+      "hash": "a0508338e7e4a00a68f0637b3bfc986ceab065e00c7875ae28cbf6504cdf28dd"
+    },
+    {
+      "id": "bd73aba918f5d5358c4aa49bcb395e484533f5df39453141a226c66aafec9fb3",
+      "text": ": LLM call chaining is too rigid for complex tasks. It requires predefined steps and stopping points, making it unsuitable for open-ended problems where the number of steps is unpredictable.",
+      "hash": "d3beb7a2343d06791782fca507231a589bab235f2e90f040f3e3d62853002976"
+    },
+    {
+      "id": "05e5c9dfb137ee4c6e26a7dd18b40b5de1d544e6ddfa35f1003074dc1f014a8c",
+      "text": ": Pass control to an autonomous agent that can plan, execute, and adapt based on environmental feedback.",
+      "hash": "9097dac945f52bc5590138c9ae61751bff64b3df7663c73ff18261662b7401e8"
+    },
+    {
+      "id": "9438e9ab8b04435616a834da855903a2de107c117c718051873e159aae974361",
+      "text": "LLM call chaining uses predefined steps and stopping points, which limits its ability to handle unpredictable tasks. Agentic loops hand more control to the LLM - letting it decide when to stop based on task progress. The agent learns when to stop through real-world feedback.",
+      "hash": "34f3570e39bd5e2262213ef05d8b931b3f357a90f83f2215a7a092dc0e27d9d2"
+    },
+    {
+      "id": "d2bedd54a4c6337f71fbbd74867761f570e8a96051ebb94c463dabfb43d7947f",
+      "text": "The resulting system is more powerful because it adapts to unpredictable paths. Instead of following predefined steps, it learns and adjusts based on each interaction. This makes it effective for complex problems where the solution isn't known in advance.",
+      "hash": "34220f5eb30d8883f29292710b57897b5e0f618b636d90bcbc854b8296fe7d34"
+    },
+    {
+      "id": "62a2efd0622488a5d24df1c12ffcb94f42f5db34a4ca6dfe4ed4cb38430830e6",
+      "text": "This autonomy comes with a cost - increased latency from decision-making at each step. The LLM must evaluate the current state and choose the best path forward. This makes agentic loops slower than LLM call chaining, but more capable of handling complex tasks.",
+      "hash": "80b18e21914ecbc891268d4aee0d8a3750ff8f83ec8da07d1b738d439437b4cf"
+    },
+    {
+      "id": "c8206d8570f10d137c5873438b1f38665ba308dc8dd20f5bb0b6595b94b719b4",
+      "text": "This pattern works well for:",
+      "hash": "cccca131dd29c93056cb21ba687256d338b4593eab1ed06f0133d1b5d17061f4"
+    },
+    {
+      "id": "bcc9a87f62d2cc99692b837df89cd75e12ef898347edaeeca23edcbbaf53da2a",
+      "text": "Complex code modifications across multiple files",
+      "hash": "1a68aa2d8c4df1a56a20672911b890bed19cf59a94d9e4387ff55a028113ff7c"
+    },
+    {
+      "id": "f7d54584a30f9218dbf8bbac951be987c275d986b75762d570bf5f60a554aaa0",
+      "text": "Research tasks requiring multiple information sources",
+      "hash": "09eb6e7683fbc1d8f52651b6417d2d0c1ee7b940aed87fc97a29f6255c436b2f"
+    },
+    {
+      "id": "f72db37179d88013e36803aaa9ae8aa51bc38571e22aa43941bc90e1e20ad1ac",
+      "text": "Customer support scenarios with unpredictable paths",
+      "hash": "57a5e70aec6d7a60d06a3c82758d5ba0a09cce13cc5383405503d9b0335fe6ff"
+    },
+    {
+      "id": "a94ef1fb089913f2ce79efe88f8b392b42301e270f2efcd2e08ce859988fecae",
+      "text": "Data analysis requiring multiple processing steps",
+      "hash": "92e32cbd50dd01b43c0fa86d6cc0450d2741e86cfe8910f87368a1302de46c5b"
+    },
+    {
+      "id": "4c250ddb8495869e32539c5671c4c6892064758fedeed9228632bcff78a8866b",
+      "text": "Anthropic's Article",
+      "hash": "ff3aca991cae34e37267fd9045cb5ff9bbeb367992e410bb5e46526b03bd387d"
+    },
+    {
+      "id": "7d066d54240aefbee5c4f737713f72ef73865f2ff4fbdde34846fe14187cf403",
+      "text": "on building effective agents",
+      "hash": "89c932359bc2bc44ffba18fde3d6d97cff0cac9b23458dea04deb5f6f41a5bc7"
+    },
+    {
+      "id": "e2d3c348ab1305722436016b5ee02433fe755e3491c34444948f5bab8bcf52a5",
+      "text": "14. Parallelizing LLM Calls",
+      "hash": "ae0212695ff511e4e2f6afd1ea78a8422b3b19fd4c41559319fe584e2451ac20"
+    },
+    {
+      "id": "3dddf1c26e99ad120a0b4ed57ad23dabacd2b143c6951b78f0ff8a4a7eb37666",
+      "text": ": Your LLM-powered system is taking too long because it processes tasks one at a time, creating unnecessary delays.",
+      "hash": "c21f4002d9b90a5156eec7a411f9e569c4677ce340b91e2ac879facd80f807d5"
+    },
+    {
+      "id": "2fa4be5e8fd4c75e82e39edf464237e09447bd734a5684c28931f8005055b8b4",
+      "text": ": Run multiple LLM calls in parallel to handle independent tasks simultaneously, dramatically reducing total processing time.",
+      "hash": "b28486af92a4286d6cd7d5cb80112f55a7302eae82f769fbec8569b0e43b76c7"
+    },
+    {
+      "id": "87d68230276b7d8cbac65edcf89b870210f2a43c4e7230d38539c50cc0ac7cc3",
+      "text": "There are only two ways to make a system faster: do less work, or do more work at the same time. When you need to process multiple tasks independently, running LLM calls in parallel can dramatically improve performance.",
+      "hash": "0ac8a3b19bffc5d78ae9767b159b5386107f1297eb50528c98223e091014acf6"
+    },
+    {
+      "id": "2205ea561940487c4840e06b7b45fef595949bf71277f11839e81acb5813ed15",
+      "text": "You can parallelize when tasks are independent and don't rely on each other's results:",
+      "hash": "681e8f91a15c5baa36f29c0f57544e03ef87d79d1329c760e7d4d65711cf760c"
+    },
+    {
+      "id": "556800892dc101794e938918fe6be5efbea6a596ac6de91ce7e199219f3efe53",
+      "text": "Analyzing multiple documents",
+      "hash": "0468464aeb33483f2e11e746cb8d652ddb7e014056b6a60926def941c320b8a6"
+    },
+    {
+      "id": "b135fcbfe0b9efe40dd0ecb9ff44695f582f6ef002ab524ae308dec661b8b757",
+      "text": "Generating different variations of content",
+      "hash": "329f21a78bcdf28625d36ff930375eaf5f65ad2249708ae4cdf031acd005ad41"
+    },
+    {
+      "id": "bbac8c744cccd0f16acd339f14a8f5a11f0834752c5d5ec2eb75c3a704e47e39",
+      "text": "Processing multiple user queries simultaneously",
+      "hash": "970dc8e50bd1936cf9fa2279af5359b3631afeb76199be43a8742883c1941da7"
+    },
+    {
+      "id": "1f813f11d648f301b4bbfb60a562063d4d121dfdd69561e8b68c83ecb613f35f",
+      "text": "You cannot parallelize when tasks must happen in sequence:",
+      "hash": "aca9850704f7723de76b8a404339f838a48a864fbfee5837c96e7be4b9ed3432"
+    },
+    {
+      "id": "1c7b48b299d0d72e944cd39dd46ce329fa67a3bc12e40f49822278ab0fa7f13b",
+      "text": "When each step depends on the previous one's output",
+      "hash": "593287604d69891a0f8c44656ab7635a051bd114e1390b35c27a84f3a5f32e02"
+    },
+    {
+      "id": "81168dad382569bdcd5a24ccb29080943ef96fd0b96fa87f5d31a51b5c9e663f",
+      "text": "When maintaining strict order is crucial for the final result",
+      "hash": "58b6cdba97ceb53a9aa9b66f2475187cf5f9ac6daaec2cb2e94953510be0f7a8"
+    },
+    {
+      "id": "51675082daf19903fd2d230c32588033f873875d1d352ad19fb3389164ab16f9",
+      "text": "The performance benefits are significant. A system processing 10 documents sequentially might take 10 seconds, while parallel processing could complete in just 2-3 seconds. You should always be looking for opportunities to parallelize - even in systems that seem sequential, there might be independent components that can be processed concurrently.",
+      "hash": "4a1afeee86a5b76d30ce399b2197ef6a0705fed84f555b424f7741bc953d4a7d"
+    },
+    {
+      "id": "026a56e364dad0d6e54e53633a18c55cfd4b89915e07e6be0d6f34e791bf9c49",
+      "text": "on building effective agents mentions parallelizing LLM calls",
+      "hash": "f8574c5e5132ea45bafc9ac97b4980b3aa63b5f25e20c246e35c89cdb50eff0c"
+    },
+    {
+      "id": "614ac60455111c1f3f44b890ca3ec56dd87b2b8ec7a66be9f623e3c557b7cb33",
+      "text": "include a section on parallelizing LLM calls",
+      "hash": "5d5f796c3cd6247581fdf9cfb5aa04a643ab2cf3548f352cdd1a8c038e3358e2"
+    },
+    {
+      "id": "f55de7c9813d61a0381a00c8362105db19c23a55a74158f99d57c8d68989a710",
+      "text": "15. Evaluator-Optimizer",
+      "hash": "10e3275f9d336dcd6ea3c5681ecf1b3023a8024d65996d6cd8a9c44822123470"
+    },
+    {
+      "id": "b081f0f898713ee10c25c01df8d194d6cb3ace60c793ac0b8064ccf3cc89cdad",
+      "text": ": Your LLM's responses aren't meeting the quality standards you need, even after multiple attempts.",
+      "hash": "3f9f219cd9b3ffe37d4203df0cddc91e3446ce9568c9a07dad670d38e175b1c7"
+    },
+    {
+      "id": "8ae003be704edc2d5724d370c0878526c52ba8001b8a402feaebe82ee1e55c08",
+      "text": ": Create an automated loop where one LLM generates responses while another evaluates and provides feedback for improvement.",
+      "hash": "5f65d27f991fd504fa4db50664d1bcbe0884b5b3f84f54147f0080a774de0c2b"
+    },
+    {
+      "id": "ca4eb651ddc587484b27e0f7fd4affe60f8447adc0926c69cd00f038a82b2b48",
+      "text": "The evaluator-optimizer workflow creates a self-improving system where two LLMs work together. The first LLM generates responses, while the second evaluates them against specific criteria. This evaluation feeds back into the generation process, creating a continuous improvement loop.",
+      "hash": "a2d2970cac002147bb7e2c60a3fd83a79faf9c0895cbdbc750aaa4f4ac8662f1"
+    },
+    {
+      "id": "eb2e31546c9fbeb081a934a56a12e0d8e2760396e8ffc05a6204808f2f3b65ee",
+      "text": "This pattern is particularly effective when you have clear evaluation criteria and when iterative refinement provides measurable value. You'll know it's a good fit when human feedback demonstrably improves LLM responses, and when an LLM can provide similar quality feedback.",
+      "hash": "4f00770a8bcaabc62880f2795116a525e72ab2f8e7f97acb9739e92762160108"
+    },
+    {
+      "id": "46cb6ec156519a99c9618398931f1d6afcbb7aae096fb648f8e85ce1b15fe758",
+      "text": "The pattern excels in scenarios like literary translation, where an evaluator LLM can catch nuanced meaning that the translator might miss initially. It's also powerful for complex search tasks requiring multiple rounds of searching and analysis, where the evaluator decides if further searches are needed.",
+      "hash": "02a96f9cc31f612e3e3b0018a6e9f4c17c9bc13453a46a00c45cc9d99abb1809"
+    },
+    {
+      "id": "b5dcd269ecbe6d8903a4118713afd6fd4167b5c09a461f67cb6bfaa62ccb5a91",
+      "text": "on building effective agents mentions the Evaluator-Optimizer pattern",
+      "hash": "b6de04c727ba69109901ee7c0a9a9d69d77f15158a546c9ba64bd72f42853e3d"
+    },
+    {
+      "id": "6fcf26486a822688688bce1b3672b6734a00e05a49ace927659a17aa30c804a9",
+      "text": "16. LLM Routers",
+      "hash": "38e3c7e9a1d0cd0a1d1304f375d443f387f2acbbafd0ff6e40ec846e75549188"
+    },
+    {
+      "id": "a72b1e01192aecdcfacc5d6742c032805064ad7d3aa0c8514026b52d6a730a9d",
+      "text": ": Different types of queries need different handling strategies.",
+      "hash": "b6fb45d86e08ffbcb65160dac96039f1877179d312c5da4e5aad404de14bcf1b"
+    },
+    {
+      "id": "4715850e61058ef1551edd2e62bf08f1c4799b1f05575347c7081d532f7f8a3f",
+      "text": ": Use an LLM to route queries to the most appropriate handler.",
+      "hash": "749b3d6df7a58c98708ee927c40e65e67ebc8d7173eb5b5bbd82b7c8ec9814a9"
+    },
+    {
+      "id": "5121f1ade2fc42e618d83fa0fdc58e894a3205b0178f5fd187a81dfcfe6df70a",
+      "text": "LLM routers act as intelligent dispatchers, analyzing each query and sending it to the right specialized handler.",
+      "hash": "dcc3c682683cffb06ce03f3825d44b8d95324f50792e0ab027f7d14af99c5358"
+    },
+    {
+      "id": "5f0bd446bbab9c6f269122b3352048c00d16b3df3a78e4875bbbd90d4d1f4eaf",
+      "text": "The router first analyzes each query to determine its type and complexity. A customer service system might classify queries into these categories:",
+      "hash": "184ad932fffaa4e07d1e99e73db6ba1a3c8fb88964410fb6434a5996fce92520"
+    },
+    {
+      "id": "51b90de653148cd5d5d3545cc4c04a13cf7f947e1aa5b758af52f2f3989c49aa",
+      "text": "Based on this classification, the router connects the query to the appropriate handler with its specific set of instructions and capabilities.",
+      "hash": "902531641af5ca62634b93eb56ae67e8163f06e98e9677f56c381dfd96a9dbdb"
+    },
+    {
+      "id": "8b4fe054c6f656412a335d1272078468e1074c4791c06df1e48200a4368649d3",
+      "text": "This routing approach delivers several key advantages. It improves accuracy by ensuring each query is handled by the most suitable specialized system. And it allows each specialized LLM to focus on its specific domain, similar to how LLM chaining breaks down complex tasks into specialized steps.",
+      "hash": "c4ed4ac00e3d64a18afae5bb0b064286cc5f06e7571598ef8a1b315ecd561e52"
+    },
+    {
+      "id": "32f9c6dde40a0de95194af3a1b6dd42e3900dfbc27aaaca2a1a992af20d68b3d",
+      "text": "It also solves a fundamental limitation of LLMs - most models can only handle a limited number of tools (often 30 or fewer). By routing queries to specialized handlers, you can create a system that effectively handles an unlimited number of tools, as each handler only needs access to its relevant subset.",
+      "hash": "e131e573837861e5ce26c5668f502077d2df73f822430d735eb1a00af3efb05d"
+    },
+    {
+      "id": "2b826030e12ad1cb7d16a7891c947bf5dd86eb6c3280c6875e1fbc2728c953db",
+      "text": "However, adding an LLM router introduces an additional sequential step that increases latency, as each query must first be analyzed before being routed to the appropriate handler.",
+      "hash": "f7bc0c7893d06d6ef0c6caa467542997678ce0d620ef9d9f583658818ec24847"
+    },
+    {
+      "id": "f696f08b983733d9ac7c8ab9e1ea5c017138dd56900aae43455303a77875b3ca",
+      "text": "on building effective agents mentions LLM routers",
+      "hash": "22fb6be575d85657b71f2e91b2b5f66e1a6ea3611c1b13843a7229a5254936bc"
+    },
+    {
+      "id": "28e57cdfb3b75b3d6a3630a2ba812bb6cb0f6d39ddac0b23e86b17a74dacca60",
+      "text": "OpenAI has removed their documentation on intent classification",
+      "hash": "7534754c9db97c004f0516df4e0cd0582012696cb2113ff68e5d98883bed594f"
+    },
+    {
+      "id": "97e8bb0b3c08d9426043615a84fb105c0e85bb19758c4505be9685d3ebcc7e4b",
+      "text": "17. Fine-Tuning",
+      "hash": "4d0b87ac55e2030ac047ce29a910ba540436e6e51ae77ad883ee5253d2523412"
+    },
+    {
+      "id": "fe90700814ded5da7b0b06cd8d1b3674b43eb49d27db3469a0fae3f1cc88b01a",
+      "text": ": Your LLM's outputs need to match specific quality requirements that simpler techniques can't achieve.",
+      "hash": "4a700ab41a45db81927f7534fc4e1e63a0136bfa70f9e2cbc45d948f400dfe2d"
+    },
+    {
+      "id": "bb5fba79637d29aad077db5b497739fa8ddff0f9cc163529fda1af723723fe60",
+      "text": ": Fine-tune a base model on your specific data to improve its performance for your use case.",
+      "hash": "2aebfa03ddb9e7dd8bdb09039a986c876a970a9da30c8585eb90bf91300839a5"
+    },
+    {
+      "id": "6deeb2e2ebbcf2ae991606ec79007f1c3d4917a9f13246e88fd6f563a4bf0be6",
+      "text": "Fine-tuning lets you adapt existing models to your specific needs. You can start with a relatively small dataset of high-quality examples that demonstrate exactly the kind of output you want - whether that's matching your brand voice, handling specialized terminology, or maintaining consistent formatting. A fine-tuned smaller model can often outperform larger, more expensive models on your specific task.",
+      "hash": "4c7ed337d7a99def6547029c98f0698bd92e683b4ae001812e3a74e44b37b9ea"
+    },
+    {
+      "id": "6cb5a18c9dc795649c5e940924937ea5e508a23a54913669acaa70fd08d3c0de",
+      "text": "Fine-tuning sits between pre-training and prompt engineering in terms of cost and complexity. While it's an order of magnitude cheaper than training a model from scratch, each fine-tuning run will incur additional costs. There's also a risk of overfitting to specific model versions, which can make it harder to transition to newer, better models in the future.",
+      "hash": "17f6ab888ac7918bed497124cbb9829a2a9524c82b2b4e1c9e8c55424eff6636"
+    },
+    {
+      "id": "b9a96486bd9ec41439b07dba2b3ec05f8850d8c6a55dbceea215c981f7e1f246",
+      "text": "The best time to consider fine-tuning is when you have a working system that's already using simpler techniques. You've validated your use case, gathered real-world data, and identified specific areas where the model's performance needs improvement. Fine-tuning then becomes an optimization step to push your system's performance even further.",
+      "hash": "a28777658af0557cfea87f5f80d92bc1f45efec9cebc5525a37ffe129d7a2bf7"
+    },
+    {
+      "id": "217ba6a92173c29bf404f4c5784b2a5a24242a9b468c469acd1fad2350a2f0e5",
+      "text": "OpenAI has a",
+      "hash": "e9d40c321e90caa4ac5bc90d82f782d245866494ebc7bdbcbb2bbd45259060bd"
+    },
+    {
+      "id": "8c5422f216b0073a9c15138317ff22f29182772e2d196c46f289f163b0b4907d",
+      "text": "in their docs on fine-tuning.",
+      "hash": "7443041ad00ffa3a5e3b72d36e59b3702344306d3bbe6e66da9b2a1ce09a2342"
+    },
+    {
+      "id": "ee20e67ae94c7e405daeeee82ba8307fff9749d1bc522ded3eee7a54d8d019e8",
+      "text": "Anthropic's",
+      "hash": "e42a4dfbfdf05a9d10f449009535aa3d8659a497a1afa2e6e6cb1049ade6a9f0"
+    },
+    {
+      "id": "cdd49f53b52d2f8d20705dfb4101ba61b60b7ce649b971738c2a4ef14c24fae6",
+      "text": "fine-tuning guide",
+      "hash": "d2d71e8f394555e63f385350442896f62ee4b60b999a70ec336919fbda57f72e"
+    },
+    {
+      "id": "46a3c2393e215ed5f5f518bde995f212e8804bc7fd429af2494eb356fc1be425",
+      "text": "provides detailed requirements and best practices.",
+      "hash": "d3912e42baa58a2d2abd84e84ec067ee263433df4e0438dba4bc74b161a4a1d7"
+    },
+    {
+      "id": "82b16e7601f41272c80d0ecd1e27ba65b0c1b0dba733f7e01f9fa5e12586c069",
+      "text": "18. The Next Big Thing",
+      "hash": "317dfa40e6aa524e21f19b222ca170eb78a26fbdb493222f92cdef0c89e8bb66"
+    },
+    {
+      "id": "3b03cff59e70c72d8876158b3673c7fe89e3e3c472aa51e53c4686512ec100d8",
+      "text": "The field of AI engineering moves at an astonishing pace. Every week brings new models, techniques, and tools promising to revolutionize how we build AI systems. It's impossible to keep up with everything, but you don't need to.",
+      "hash": "c7a66f036f4f523caa89eb99921953bf00112f303f88ce98621390948177dba8"
+    },
+    {
+      "id": "e9a2bf9888c176af9682523b55de2c21cb72083d8e073c1498335bf98a9f1998",
+      "text": "Each new AI development needs to earn its place in your system. Ask yourself: \"Does this make things simpler or more complex? Is it solving a real problem?\" The most valuable developments reduce costs, improve performance, or make your system more maintainable.",
+      "hash": "f537bdce945729ffe19480fc0451befd9854520c44eab58af9c56e9057eba265"
+    },
+    {
+      "id": "79bc632820785784800e55785ee26dd34ab4caa18f647bf4f17769af79f81543",
+      "text": "The next big thing in AI will come and go, but simplicity remains a reliable guide. Experiment with new techniques using your own evals - test them against your specific use case and success criteria. Focus on developments that help you build more effective systems with less complexity.",
+      "hash": "a6332d0eefa425296376fce8f0d3ecdf1fcf9435e2d91697d12cd2f0392b44e8"
+    },
+    {
+      "id": "b43b067998dd4ce36d5918ad9bc828a4edbcf85ec60bf8826cc19aa3c32bee0e",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "837fbaa964efdd8f57d000123bfb28b3ee8d69ca347b1da0317701c4edb76c22",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "2e371755f3d3561c649392762b7bce332344101bdf711b728237dbfbca26f18b",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "d8962a4a2a39339e4f9136b82be0227cac35ec9677326ae428f1245f3ba28a2c",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "355e40029f2b2cdcf152c979cbc8ffc1ff464eef276325cbd132324f9842076a",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "2e59cab4bf2fdccf9ca34a681ec2274bcd3fabf2036aa29d1c10088038c699ba",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "5b5bc613d813f3326c81099827852f68917e180933cab80f52bd43580e93a3d8",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "951b6add8344463d0627c299c5d939f943a2951250c83f5ca45d94446f0c4f24",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "df449c6025a9305d60307c5d70f1d9a8461ffb75af4f23e185a1d2e6df2635dd",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "597045640c74497c02174b95209b71ef50076ed7762dd1a6e5278f19c973c4c8",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "261029ecdae26e7ef16f96c51674d719af8a18eb4722f21aeb2d0140a797427f",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "d22d8d6d3fd872a408d6cc80bb84be2ec94ddb0188c56a271c81ce48a52644fb",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "e8a1494d57edba980cff03dfbcfa2e8fd427da65fe38e9a1e78ac37ce95f5446",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "c6dd11ac7b88abe3a5133d9d58667864262deb047600e140ac1fcbc9db69c749",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "461cc7e0adfbeb9b549849b8a52ae1f48473ef8b1c02e2f26daac1f82fbffd35",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "c75f716a0d0d8609f23579039f8a7be1fa5defb1406ba8b10653a3e1c0513f69",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "0cd9e63074bd84a6586de8029ff9ed3e944529983aaa7cd7f381ffdf9fd74be9",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "36f3d02ddfb680f2ebd992a64d4f4f48ba73175b512eccbba35cdb30da34bb0b",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "bfc1da18ba673e3a6e15f18d81e843914ba568cbbe8aeebd1df7fb77e0f9e7c5",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "f21a7fac44e78f70f8fb0ca2b4f96cc708b2bb7f815db6d30f4bcf0ef40be048",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "56856d1b20cdf19771323be709a539f78e8df8f37c5edaa649a0597d9da99d28",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "629345835e7ae69d217c545e4a6c0e21e78be45fb546cca7cfc40668d3862106",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "1f5e904533da1e12c7798fb7c507eac420b3c5edc94e3e68ad6353e2ba73f3a9",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "e46bd7194fed5394d0e8aeaec7b2c7b403fc529bff4e2985d0a023bb619f9a38",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "6e6cca77e92d3ea42184bf316ff495812659404d0702f0a00db02f950d5b6383",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "627b924da676ebdbfb77f29f3d60727b2fe0d18904db215c06767a38fdfe23ec",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"4tpnudsxn48jmb\"",
+  "lastModified": null
+}

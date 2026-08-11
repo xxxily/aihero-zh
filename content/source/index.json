@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/",
+  "pathname": "/",
+  "fetchedAt": "2026-08-11T06:28:01.324Z",
+  "title": "Become a Real AI Hero",
+  "contentHash": "0d7f196d4c028b47aa979749e027dab2bd25c43aa380be70e1729a3f5c2eea4a",
+  "textHash": "4ed48812033806305b9deb95e2218b12ab05cad737dfd2536568d26b5b03d217",
+  "strings": [
+    {
+      "id": "434699efdb2e6518edb3d67d4b9564062b88733dc68eeeb03b84725d09826ee5",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "e3b6f6dd7550131eeaf1032d7cb45e82ad6bf0e5982c0be290a7f362c098484a",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "eb2cc389deff096caa10df33db88bd4eb07fb71d61b7c1f2e1659c6aba5ba4c3",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "0240afc91ea76b12329b31bd1d9db6723fbfbfbfcdd52c6ee00215fd1b996016",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "af8fe8a1a6dd056eb439325e0d1ad15ccb612224ba7ce475fa2ca267e40abcb3",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "994c16d4bd76f707de65edb45c17e2ba324460535e39fc13200f1c4538c6bcac",
+      "text": "Real AI Engineering · by Matt Pocock",
+      "hash": "80adf55326087f388e0d6e421813bcc640e61dc06612251bcc8348777a8aff55"
+    },
+    {
+      "id": "ee6cf4a34730aaa70c5d912a49bb711d75a7461ce916425cc36c1ff6f8e30b70",
+      "text": "Become a",
+      "hash": "ce58a0bf9e72e757dfbd4a64509f06c3064830c1cf5c4fd1402dc5adfcee9ab9"
+    },
+    {
+      "id": "a9e423e416b1237eb5e7e7875e9dbd55e66aa9d9ca5386b318b6c0c0cb75c1c9",
+      "text": "Real",
+      "hash": "e55fe37737b783cc821bb77a370950bb6a51dcf386ab6ee70d31808409ba412e"
+    },
+    {
+      "id": "06eb4f99307c5e73d50e731670330b30e8718b140784d67ba6f3a67fecb088c2",
+      "text": "AI Hero",
+      "hash": "4d278faaa45a9970e5a6790f3e1c4f8957f1d599a9b80bae2558a148b40143b8"
+    },
+    {
+      "id": "839449f141f649d2c569379be617898079b928c2e47bad7b49b3287f5dfc8893",
+      "text": "with Matt Pocock",
+      "hash": "b6856bd50b0a4ee1facce1fef1123e9ed66be2571a7ccc4fc4c3bd89c0a78645"
+    },
+    {
+      "id": "e140aae68d92b2ebe78e54976561d47656ea43bf8524736c51d0f608b6299120",
+      "text": "Start the free 7-day course",
+      "hash": "7da39d3024b7376eb81faac88ac5bb9166f0c842718bf608e0353c89a713bf12"
+    },
+    {
+      "id": "552912e69ecfa0b420a3cd20e44c77976978920ab23eaa7d682ab055abef8822",
+      "text": "Browse the skills",
+      "hash": "ff3445acb23655f25884c073ab7ed242d2977509db6aad1bf39a651bd4c82db7"
+    },
+    {
+      "id": "0920418667fcf292b6a05ca2fd45f72b682310877f0186775fdf0729828340ee",
+      "text": "Developers learning",
+      "hash": "62654e6d5b5d2c35cfb81ba489ec335fd007ddf3a8a1a0a990c0ba263c5c36a1"
+    },
+    {
+      "id": "67b3371be9c499aed3d1f800b5d278de31412275a6eb4763cb6dea902aca45de",
+      "text": "Trained in cohorts",
+      "hash": "445b38efd45496dabc5fe9be217cfa2ba92a17d63c20810136d54247efc75000"
+    },
+    {
+      "id": "94a08f5f2e5e9b414f9410ee88bc910064140a3a894470b1ae58f9543297ae17",
+      "text": "Free skills",
+      "hash": "51ac6655d5e82cfdb0da642cad1396750989eb7cc4dc30752a3dceeb51c2cec4"
+    },
+    {
+      "id": "87370a338d2bbe24ee47cbfb757ed68ed6a3a4d645f02c524a08e863bc9eb7b3",
+      "text": "Cohort-based course",
+      "hash": "bd37530abf01b643687aa5cc293260d466f6c0b5f34b7bd7e0397055074151e8"
+    },
+    {
+      "id": "b2bdd056e7a4ccc45dea1634f8347376a31ae8af3c74523c9a8c6439a96c1764",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "0a2cc9966b5eddcfa6b6ee12046acab8fa0f8f67f165c81948966ca6b46467df",
+      "text": "A two-week cohort for developers who want to use AI coding tools on real production-style work: context gathering, planning, steering, feedback loops, AFK agents, and human-in-the-loop review.",
+      "hash": "1b742e3d3bc3ecf3cb86e40eabbe98aad504077a686920d546c281490f192e8b"
+    },
+    {
+      "id": "72a4089591afc5c76f2e7f063783e320811265a08d2144093ab8308ea5244843",
+      "text": "Waitlist open",
+      "hash": "bd6c1980568bdde88f0d26f2db3c56e567ec8e5f5c14ccc19f1e6cdd3f9c1aae"
+    },
+    {
+      "id": "38ea66f2ec36501bc28dbf2793b347951519251d89c9a95ea514d5151221fcb9",
+      "text": "Be first in line for the next cohort",
+      "hash": "96fd4b43acefb7508a816a9ffa54f7f8487fd2dda00273a8aa0ede43d9132634"
+    },
+    {
+      "id": "a44fb4c740bf0ed389e382fa82d0bbd93294348639ec0ebd409ae5ac25128026",
+      "text": "Enrollment closes between cohorts and seats go to the waitlist. Join and you get the dates the moment they are set, plus what you need for budget approval.",
+      "hash": "e731b67783e565caf24fefff785a085b902064c7dda6d7038a81111249dd3431"
+    },
+    {
+      "id": "4a2680fe5851fe9f382d4d992d9c9645a933aa6284bed56fe10f3303420a9553",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "ef7473ba77b932dbdf849b41aec37a0c4b12bed5281921b380acaea631989edd",
+      "text": "Engineers trained",
+      "hash": "9dfe016eaa4fb1de128cfd93bcb43503368559a7c14fa2e6006e992dbcb5512f"
+    },
+    {
+      "id": "ea2338aeae383d424814693c1f211bf83c57102641aaaccfad14128958c18786",
+      "text": "Format",
+      "hash": "2f343666aaa88c44430b12e6ab8a29591a069de76541125e83ff1b5acc367bf2"
+    },
+    {
+      "id": "d396d9dc79d32b9c0399e05716dec317c4feffef09793ef96d10b8994391df22",
+      "text": "Async lessons + live office hours",
+      "hash": "6d241938e587106e50a81ad9aee08dbc0f23424a8b7c0a87f4d3af7701b7be52"
+    },
+    {
+      "id": "8a6c7b46906a1964a248075666f39ed608dee0f622cf0307dbae8ddb553f9cfd",
+      "text": "Engineering fundamentals are your biggest advantage.",
+      "hash": "f694a832cc1070b5410dc250efc7d7f4f20eaeceb22ae38dda63737bc40773e7"
+    },
+    {
+      "id": "2b246695630ffe7097e514c6ecd07f148911683ecd3020ad81a1cc6f2e1fa73b",
+      "text": "A lot of people think the rules of software development are being rewritten by AI. They think that code is cheap. That software engineering, as a profession, is finished.",
+      "hash": "b3a4a7714a24c77340c2a279eeec3c1240b44e80f0425111df055a7fcda9bd6c"
+    },
+    {
+      "id": "e0dc8a1a210ceae82d339b177075f47b516a979379936de35724e73d5a3b5615",
+      "text": "Coding agents like Claude Code and Codex ship code faster than any human ever has. But without careful guidance, they make codebases worse. And the worse the codebase, the worse the AI performs. It's a vicious circle.",
+      "hash": "b48dd9272b57b1aac720ef16c426a83fdf91908e18da21d8f6233f760cf3e1e9"
+    },
+    {
+      "id": "2c16d1e2dfe1e1d73bd356bc1830f214c642f600243aeda89372e59192f0a83e",
+      "text": "Code isn't cheap. In fact, bad code is the most expensive it's ever been. If you can design codebases agents love, you can reap the rewards of this new era.",
+      "hash": "3e87a97a9daabb56dfce2d03325c783c0a2a7a124a69216883dba70fd69cbf70"
+    },
+    {
+      "id": "8b3309113833e235b0909bd165687566f930f04e1872c0ff701579201ecf2cc1",
+      "text": "Software fundamentals aren't obsolete. They're essential. AI Hero is for anyone who cares about the code they ship.",
+      "hash": "3ffcd3c384f999ae45051706592069a654fff95c0fa132089ee9d43b052ba04e"
+    },
+    {
+      "id": "23c4c37031c5660b3641027fefb1362c2e2824ab436dd5c04617a7c9da13baf5",
+      "text": "Level up your coding practice with",
+      "hash": "9d822d4f8c3ed214bab3b3adf17c0882ab15a676e6960e04248717685c028614"
+    },
+    {
+      "id": "15151302122eda43f3b986aaba39e13114cabf229f39e32221c1912a1f4cc716",
+      "text": "Real AI Engineering",
+      "hash": "86c765673c23e52e2fe186703f8e256b0e37d1d002af69346c4323a6f6f1c2a3"
+    },
+    {
+      "id": "0299a80bcf57aa37490c338e282aebf09d3c8da9e405c3761366d7f597877f89",
+      "text": "Start here",
+      "hash": "2adc964c084749b1f2d8aef24030988b667dbda2e38a6a1699556c93e07c1cea"
+    },
+    {
+      "id": "e8eec9870b4ecdf8bc8e19ca2a119069573602803d5d77a45647f65634bff4bb",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "d3b63492ed4cbf47107fc123bdab5a7e329fc8d0e9186bf82769ec2a69e6123d",
+      "text": "Master AI code quality with proven engineering skills: prompt techniques, TDD, architecture design, and spec workflows for Claude Code agents.",
+      "hash": "58de2c6c88ce25ab0d52b91f403d1cb62256bfd82a7dd4672400569adde862eb"
+    },
+    {
+      "id": "5dcbb03111fa27635fbe0803ad6dd878c2eda3800b13d820b2750c009a32505e",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "51a93bc3eec7dcc0dc6fa2bbc68511546c08f2122dd9bcbe57fec0b7463f7cb9",
+      "text": "Learn how deep modules and proper codebase architecture make AI coding more effective. Master software design principles for AI-ready codebases.",
+      "hash": "eeb8ae5ecf3d35091e35263c0661f5f97159ea77e2adddc0d4f09066b01bfdd6"
+    },
+    {
+      "id": "f15711b1eddbc517cb116a1c9f5067a1a22f6afa39685364600f392d40343a74",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "34395da32a89207a31fba770c326380c9a9ed4bf4581dbb1cebd91a67fbd7359",
+      "text": "Want to build AI-powered apps, but don't know where to start? You need a roadmap.",
+      "hash": "66e8b04809428e37d3eb084776b5ffcb0322381ed0a177c011e99dada67c1e69"
+    },
+    {
+      "id": "85d60077b27f1ab95c6f09621494858af57959cd1305c0844c8410469fa594ee",
+      "text": "Tracer Bullets: Keeping AI Slop Under Control",
+      "hash": "101bb0727324d9d69bceb21e311f6c1a249476cd67d543aa61741f8dea277187"
+    },
+    {
+      "id": "96317eb654df09591d99713e500c8a0388fd44109bd06c5333d1217f24d8b8e1",
+      "text": "Learn how tracer bullets can help you control AI code quality by building small, end-to-end features and getting feedback early instead of bloated solutions.",
+      "hash": "d6461f405d60c3273eb973e4474d7a7016d89fe1c5f7409e70a7765dc87d1d1b"
+    },
+    {
+      "id": "c7815616ebb612cf41bb623d55a9af817a409724927e0b465a5e93b04b7f4466",
+      "text": "My latest posts/videos",
+      "hash": "a03af257606fa7cea729226e615d3efe7456963d6a6a678f8d3c3e6275dcc519"
+    },
+    {
+      "id": "7b30edf29df80d9a712e24f68eb2a5170632e4feea7bd2feb7d59542f39a2a12",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "efbc01b4fa4ac5ff4f59519f0cc736ca2daff72e0840ef72a6ffbad851b1f0bd",
+      "text": "9 Things People Get Wrong With /grill-me and /grill-with-docs",
+      "hash": "a8132b4f77ca14f2ef5aa84bc8386bb2e8acc3ce746a8209008bcb9af5610bd8"
+    },
+    {
+      "id": "7c790837cba8038548f3da14d214062e57eef81057382e051201145be85abedc",
+      "text": "Skills Changelog: Ubiquitous Language -> /grill-with-docs",
+      "hash": "16871b3b1183f645db5de412027120e346828c7585da50274743857b037ec722"
+    },
+    {
+      "id": "ebc5300faf4d4b85d8eb901667d18d45558610f7f0b411722885987d8cc19307",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "adc158ef319dcc199144c4eda4985063d47ad4afcddde2e7829112a714f776ff",
+      "text": "Real-world feature build with Claude Code: every step explained",
+      "hash": "0fe30f840117b4520c0ce377e3c153c186e0fa94332a946033ab45b08f76a1fe"
+    },
+    {
+      "id": "d9379716b56b65b6068404eaa338da51f53cfa9cfd5535fe7a66624f0255941f",
+      "text": "\"Software Fundamentals Matter More Than Ever\" — Matt Pocock",
+      "hash": "8f79e38503d05a7f0d8ffa70b9d12e9798d1426e18f208e3c97a27567149a62b"
+    },
+    {
+      "id": "12673adcbbca987f9436e4c2a458f1e15019770d848a9facac2875db510cfa4a",
+      "text": "9 Ways AI Coding Has Rewired My Brain",
+      "hash": "4ca6b86a61a59212b2818f7fd2edd2acbd0a438bb45c5bfbc73a2152074c0663"
+    },
+    {
+      "id": "6336b793777cbaa8ec9db51c295fee06f6491c3d8638234f66e7c0c9c3cf3b95",
+      "text": "Want to build apps with AI?",
+      "hash": "57676d1a34f3684ef2140748151852f1ac5f655068dc5f213b64feaba61ba897"
+    },
+    {
+      "id": "8d129e3efc6a928b441a825475ec57000a4ea204ba32c7be6f017b8eb18a6217",
+      "text": "The best way to learn is to build them yourself.",
+      "hash": "aa2d80f387190b4f403cf37406c83ed49c3f3c4f4cf25012849340c0b76e86f9"
+    },
+    {
+      "id": "5c0bd8434dc26037463117d1869a3b2738ca81e5fbb4a6ba0ced2f128562ef52",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "84c535e44d6d20c855e42fb0e191e36219190dec1510e9b86e3ebfda4850a943",
+      "text": "A free video tutorial from Matt Pocock teaching you the fundamentals of LLM's so you can use them better.",
+      "hash": "b75396861957a8554f8a284bc686fc9b7002e783dcbf92d43223888250cb1a8a"
+    },
+    {
+      "id": "140ba1500d159c9cc21d4fe28b8282c00e249e9e895483ae5b34641942911979",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "089fd0323d14722890bc293e0ba976f21bf08ca6d4d08ab2f9e2fecd3bb62628",
+      "text": "Here's how",
+      "hash": "557eb07cafccd9deab7a41141b0c1dc2540fdaccca86cc737c9c5ae588f02593"
+    },
+    {
+      "id": "c6f507173e77792ed67571cfef086ae3263f54ab57de999a8c958f7548a71721",
+      "text": "become an AI developer — fast",
+      "hash": "c8504bf1f58f563093ea49c0f249bf39548ed1876d5c7cad640166c60775f1ee"
+    },
+    {
+      "id": "d4877f600f2a8ef1445995d3ab976104fb82ff23b1ca4f57fc91598ab85c3e3c",
+      "text": "$149",
+      "hash": "437e3546a71771cb220d3c7dde9508692e7f1cc1564a006b3bcebf21ade5c9f6"
+    },
+    {
+      "id": "62a9d6b359b45237ca8201072e1745bd226d65590a079eec562aa474e5344479",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "d531b283e1e45a0ebb04838d24fbca43f811b9e2564161d3860c4ee1b3226324",
+      "text": "The Model Context Protocol is driving a new wave of innovation in the world of AI. In this tutorial, I'll break down everything you need to know to get started.",
+      "hash": "ed86522bf4e13dc5facfacdc1c3b782d4a1291f6167986c63b98df27c85366bf"
+    },
+    {
+      "id": "675de22aea6f09c08aa76fe926ddbcd5675b73883438b468ad124b6348d7d08a",
+      "text": "New to AI?",
+      "hash": "3d33b41d5d04f1188333ad84dd57a59aa5ca89bfc575c66dfd2e62b7f2253ef0"
+    },
+    {
+      "id": "85eb0a040de757f5c661fceb113a1bd27538ceff2749b2bddd658e132dd524a1",
+      "text": "Start here to nail the basics",
+      "hash": "2f4a9754e6b9f9ebaff3d4c23ade7e4314f4b98f6c61a7a328f51fcb57528bf8"
+    },
+    {
+      "id": "0edd89d9d272e944959f53ac97e7f2fd41acde235e09643a613f2bf56922f9ff",
+      "text": "What Is An AI Engineer?",
+      "hash": "d8212ea529ce068b599bca50a5b1b1dc15132ce7250684d4dd8eb9616a8f1338"
+    },
+    {
+      "id": "0980bebd0d3ea4b3e5096ec9f187f3c43d10d6138067f9266d9088ffaeee4edc",
+      "text": "Explore the role of an AI Engineer, learn the key skills needed, and discover how it differs from ML Engineering and AI-assisted Development.",
+      "hash": "f369d2a8d00b8817f21389fa642c2f31fa6db4cc06186279387064bd95d62072"
+    },
+    {
+      "id": "cf33e5aff964747b21aa66f452939a84242695940daa75ea62f24ec6882cbfa8",
+      "text": "What Can You Use LLM's For?",
+      "hash": "58dcd0c1183a448e734775d6fd0342aca5b8d534d20c623a5e15958a8ddd4fd0"
+    },
+    {
+      "id": "38ea8d8479a7edf2738c5334fa74bff78d60212e4b17b1d7d947546abf6dd320",
+      "text": "Discover when to use LLMs for data tasks like structuring and classification, and when to opt for deterministic systems.",
+      "hash": "cc535db479f82807922e33f68f7f1fe03f1062466deab59986be029bbedc8adf"
+    },
+    {
+      "id": "5b292106c7bd569e65f9a508edc44077729dce89681aa435c31f1843f62c1728",
+      "text": "\"Matt is one of the best developer educators in the world.\"",
+      "hash": "3ead758a50911ff050ca5acb4919e21452615ce2c62843abde05cbcbf80a5654"
+    },
+    {
+      "id": "2f9caa79a4c40eb88c725afd8a3543fb43c1862fb2dae46dd76b3feec47e1051",
+      "text": "Guillermo Rauch",
+      "hash": "6baeda859b57123a30b8892b9ef22ac5670de5a99c6a73bb8e01eb7ecfda37b4"
+    },
+    {
+      "id": "70db34d013fa8e8c633fb7945a0b0fbaf0ffe4ea5453a552200a99b7ae4e5330",
+      "text": "Vercel CEO",
+      "hash": "5fac9abac815a44aed14e4ff25b83cb7f2b2a1bc3713387191544525195fca2d"
+    },
+    {
+      "id": "a0f0356f914789db7473a969b12da055867d892d43a3c5b1e846dcf1d4bb91a5",
+      "text": "Hi, I'm Matt Pocock",
+      "hash": "509bf005c2145eb39de71e3593de4c242b73f5fdbd38f3dec92c9b321771b60c"
+    },
+    {
+      "id": "d2795d138e6d0e0d67641e78d33b9ed26eaec56ddf3acb35b2057391e5871781",
+      "text": "Before creating AI Hero, I created Total TypeScript - the industry standard course for learning TS.",
+      "hash": "3a206876a0a20b43c91e2f3c3e21d9f95066733acb2edf71766d6c7863675f1f"
+    },
+    {
+      "id": "f04db85ebf5016472e349b74def8a84b051a8fa0cbf1cd74efb36c837eaa1435",
+      "text": "I was a member of the XState core team, and was a developer advocate at Vercel.",
+      "hash": "9d6b9adec9bf247fcf2f7728fa27737e72f79f2611cdd0bf76e1f48ef3be050b"
+    },
+    {
+      "id": "065a532f111e807ecf2deb2658fb7dae844b1f4f9da3cc2c8726d4a37de14517",
+      "text": "I'm building AI Hero to make the secrets of the AI Engineer available to everyone.",
+      "hash": "f5944cbdb4ac4c3c58cc35cca129e0bb1d128f3fde15856daac6be891ee48b92"
+    },
+    {
+      "id": "bb701d509c52d5ddfe213bdeddc490ba4a5d1e702a030f254f01fa3e91e249c8",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "7c1fc095d831f6f055a88eee0e066dc1567d04b78af6e1cb6860889996a170d9",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "ec7bb3d93854e86231dcdcd58c9d5efe5b1ccf75f706449cf640b464039ec4ce",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "b420c470256468ae023746e427ef4d3c85c9c0e618f2d7ac41300dee8003f9e2",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "b6827821a56477dd2f40aedfe3ccd12980d063480cb5aeb5d93fee8ccf997306",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "b30f7c6991a8be953c94a616e776f9508106fc4f0be0287e3518e13a128644c8",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "22b06c01550d7be078efb7873548e7dab8d09f5c2a77785a88e2d229a8a1338c",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "bce55708c27533ee5cf2ff1d1a53f79693cba6c9e0f529b99154b0243ae89827",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d399aa3ebdf416137f0ce7e2a62e0bbf1ee7ad41d84118f6c5eb039b628b5fa4",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "ca066b14ff356816514bfc8f6cc3571824272994a42a35b72e958b58bddb21de",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "4adb5e7a3e3b735cfc82a321453dfd8adb9af44a10e0e299ae32bf824c9135df",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "67ca64637dc1014f3a7ddda51b524e5d14b9fafd982ea8f6ee0baaa73ac61b4a",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "e8e5724130785b8d489f3ccf3aee19e80ce2b4254fbb148be281431d24701bc6",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "c30c19859c4dfd70aba2e659ae41ddb888775a3a90dc55950e9bbfb4ce958bce",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "01812e3cefb87ca24a895552722fe917c9228082fbf3385e1a752875f074c45b",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "0fbfb2a5072f8c5c92d714917eac5a5f345b3e6437c738716356e2736bdf801b",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"lzv5wl2dv1438e\"",
+  "lastModified": null
+}

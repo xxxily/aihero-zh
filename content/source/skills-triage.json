@@ -1,0 +1,1183 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-triage",
+  "pathname": "/skills-triage",
+  "fetchedAt": "2026-08-11T06:28:05.829Z",
+  "title": "The /triage Skill",
+  "contentHash": "6966e179b1bf249b3c32b3614095c84a7b2692158c039c58606149ef5727446d",
+  "textHash": "cfa2efbd14587bb1807e9e1616be44e6d8cb0541edf47457a62bd301b4dfb10a",
+  "strings": [
+    {
+      "id": "ac145a57dec34392dd419a608110f253c693242a4c5ee8a90f915be12cbcbb77",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "21d03495697f7a4620a4a74834e904fb9c9df1e59859ec03ce3746502cbfd748",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "45493e2ff82ad26bbece02b0ba0aaeb0f979c9600924af355b85dbb81e355d4c",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "fc39c04a19d5bcbdc828a25aa48a3965bd3ca695a06aff684755d927e565f325",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "248dbb413e78946aadefcf8a820da7a52f7769d5678e7a613facc91ebdeb004d",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "502b0d49cd43f15a023f57d7658c3fabc83ee819d31360883b0dc330d8701738",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "7c9ee9bfa8ff73e0375db76d6f8cad0b4cd2eb40af342d949b734f904818a29b",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "82aca7b1a1d46dbf1762fb9aefd0a5346b95d6d9d9125e530f22d4c03269607e",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "2ee84a8b562d39d582268e8538c6fe00de737c0ebab054489817b7f1eee9dbd5",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "463b8be4e0fbeb5a4fdde2d2965dc8c18cbc85cc1ee899bea8bcf70edf051fea",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "4939a53afa3acc64a710f2c1420b89fe701090c333e58e831cd0ea5310e72cb8",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "43550bc22592f2c438aca1c9f500719c64eeac151d5918071c230dbbf5061e39",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "ed6a9e14b47f4a132f6b2189285e7937966c63a530273d26da9d9ef575f03c6e",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "b121aee8f160af72fc3179997d686ddb447a1386e2605f28e40b35dd4f4bf748",
+      "text": "The /improve-codebase-architecture Skill",
+      "hash": "1d2feca177f8d2a2229e95a3f013777630bd379b24ca132a89d1c87623d2d722"
+    },
+    {
+      "id": "f7c633fc55cc932996b9e26ec4ad602eafe4cabae76bebd5fac62885d0de5c57",
+      "text": "The /diagnosing-bugs Skill",
+      "hash": "82d22e5c3f7a145e0c607c7003a935a563d1e107a030000f3aa33cbcb8f1f676"
+    },
+    {
+      "id": "917bd794f56ea24158cd5bfd5da6272482a272a2497a041b6d43bee4d258178f",
+      "text": "The /resolving-merge-conflicts Skill",
+      "hash": "503c1d265cd640ce24d1252efc32c21add9fc91cd0c40a7ecf7af547a1f28fd0"
+    },
+    {
+      "id": "bf6e70ee8bb480052a43d2e371838d75fcf71a7e532faf42b5db362abaefc296",
+      "text": "The /triage Skill",
+      "hash": "28ca8c73ddb7e7f15619f62dd65f987942e6e4a625b9bcc743e938d3322893ef"
+    },
+    {
+      "id": "cd33cbc24ed2b4d26afdc812f35926e85d902356661cbc7134c20d8283822141",
+      "text": "The /wizard Skill",
+      "hash": "dc2a9dfb2e7aafb5b920a374d3edfadca9df74126313b2f8bbd9533e45a3805a"
+    },
+    {
+      "id": "276fcfad174f0bce6085e9ff47100bc520d46352d689fea7fbc6070348581039",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "6bca8957321d85228e6b19b79994e1a1108174c9f2e94d1d3978d283d73b7af6",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "d9366bb36326c0873627385a105312461740d1bde5f36b77d89f736097dd9d11",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "48b0dbc1281bfb3359f452edc5a67acfb5afc5368166aae065b82885fda8a135",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "94af40c4cc214c67e34320569b099c74eb388552b85d7029ecafdfe9becbd61d",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "e02d46df526748f8f62167e07b30797413daca30d86563f36095d969d828b8ad",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "91bdcc769ca0b971af36e53eb5afdb520727c4d25ef5b2525148576061a5a234",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "29d5a8543886bd4978f6cad91621df03e7eb05d0b9468c1044da65b42b8c5078",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "0865b68c15b43b1cea451632d16cb4345474d848829d3295c8949c28af00f502",
+      "text": "14 / 25",
+      "hash": "27f2db2e65480541b758accdb7e3855bf60c27b40969c445a443ad142f55f887"
+    },
+    {
+      "id": "ade56b45935867930b8e8fa17a8de962698a3308d017a28a595a1626c0f275a3",
+      "text": "AI Skills for Real Engineers · 10 min read",
+      "hash": "0379e77a0eae45319c38132c799d1c7d7b8a007e133a4926ced68a27da4ba88c"
+    },
+    {
+      "id": "a18f1068a699d3be3018239a078ad05f4f2399a97a28961436122faba73cca4c",
+      "text": "Sort raw issues into work someone can pick up.",
+      "hash": "e6bd65a2d22d54b2d388915bd6cb13c5b9ec92ceb47864c56f2d77d30ee3e067"
+    },
+    {
+      "id": "4be5dbecf25d400128ebc2bcca82c362649c1a2f7cba8e1eac5206846fa6d07c",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "6608666dd596713963b24c94ba7a2b2469250e888f9879cbd4a747dd12387e71",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "bdbc4f159ec572c73e484b06a66ef802dcecd1017bac231b0f868ac572df6e86",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "ee1aa3bba259818326307d3db0e1cacef347b4026979029517c44a72b4e03e4f",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "1c82eea1781cbf01903929a189484adc8a2ea71ee33b03c52c3c27fd929b3645",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "830924fff4c2cad7c4549cec0b57c19841075a40c3b70f89861f36a8a70622ba",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "2b66004dd5f0913918ae33a77234fc3a95bca7b45fbf98474ede6c2d9bf661c3",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "5a6641cb4cfc188a60d116043caeeab122a27c965b37fbba70514262d29ab3cb",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "55e97791115b3e0e0e594352233d50d1b15015f9647e5fbb70dccc2e156f7424",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "fd4141b07787991ae78bffbdc478b2a11686ed9aeb888eb68a1c10e78aa81951",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "f478e2f516881f59c018971818eac37569718521002d43d3ec5448f32f8b08b4",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "7e7c9097488db8276981cec1647c537e42f8ce9a5ce115150cea1e92ea969948",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "a82cc1fbcb254287194012497a9912c1f5f2e82232b728ebcc3335515f45e436",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "84e6a445100813e5140255d425248e6c7811adab56abae228b2e7e5006bead1f",
+      "text": "The state machine",
+      "hash": "d7d3bcc364c762b6e8e98fcc9ecf9e9eb91a9db29c11cdb146c7ae79e106fe31"
+    },
+    {
+      "id": "8a56ccd9505346e6c3628f241cfad12152806240cbafcb55c8d9170d327468de",
+      "text": "Verify before you brief",
+      "hash": "00a0f5f18e2fe85e9b11cd02d4dbefdf50a4ff8a463f2004cf3a84e5718fab0a"
+    },
+    {
+      "id": "dcbcbcb4495fa17407fcedf35ae622705c29e5b0a7fe344c11e326a17d523214",
+      "text": "A PR is an issue with attached code",
+      "hash": "2775da9c465ffbc957714c173533dc483ac7c1b23fbedca21a4791714d6abc14"
+    },
+    {
+      "id": "92f0e8eddcf7dccad6fee573c3c2aada678679372bf2ac8566eb3e3ecb05126f",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "f66d2a1998aa12c1a1ed11c4bbd3cd3e362f3aacf549765b67ebad8488eed81e",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "a109ee3ab078489aebfe7a6383ada8f76f3c5c0f179c0c4c64b6626bba6ba5c6",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "daf9a87faba097c51c27943b5efe94b7469b6b93cf391293e1696e5e75285389",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "90f44320a456aaac83e6e8a377ec5c6f3fffc45a8d7c5aab0f7bb44a2fc90642",
+      "text": "works through the issues on your project's tracker, moving each one through a small state machine of",
+      "hash": "92fd39b4be3e9019ae254c137a09e82bf29d234a4385965ee7d01eb255afb7a2"
+    },
+    {
+      "id": "1a739c7c878981d78061835560585116ab53d75cf1c9de5baf23bcb647cde464",
+      "text": "triage roles",
+      "hash": "7e95db53fccf45795f9fce9173170559dde8f6bcfca85d3f8d703342e4acc527"
+    },
+    {
+      "id": "95c8e762d65df381e76c4d0c9a6edcf01cf836204c88b429e399b2141ef627bb",
+      "text": "— a category role and a state role — and leaving behind either an agent-ready brief, a specific question for the reporter, or a closed issue with a recorded reason.",
+      "hash": "6832640ba45e34386ebb763e98c27d3e9a76c50629c71a2bc3d763e44a97d62a"
+    },
+    {
+      "id": "9378096287d942f5a7f0fde5c83b55565cab9ae13c67b4fd39b2fb728f4607fc",
+      "text": "It is only for issues",
+      "hash": "90c5da5a7c0ccccc4b60f18532338906ce320c7de70b9d8c520137f3caa5d9d6"
+    },
+    {
+      "id": "5d7d589b77ac763dd3394ff98c79f152c6302f73c42d4075791b6403304bcafa",
+      "text": "you didn't create",
+      "hash": "ff19d578e8ab83bb1279e5518af3ecfafd0d36717d9573060eebbcc8cef639c0"
+    },
+    {
+      "id": "317c00f058fb807063783555f7fd7d67644f845782793a442a01ec498e96c5f5",
+      "text": ". Raw bug reports, incoming feature requests, an external pull request that arrived unannounced — work that landed in the tracker from outside, in whatever shape the reporter left it.",
+      "hash": "907dbf224096c78ffc1ee9d531e1f1384253d5618a57b80f8b51fc126473b4d8"
+    },
+    {
+      "id": "2ebab937cdca3644384869cf932ba3676a894a734d2e2aa372476a2254e49d51",
+      "text": "Tickets",
+      "hash": "3d131368b43397ff5fbe0a9bf62c0f79c1d7da4cdd95635d79c6241c68020587"
+    },
+    {
+      "id": "a5215db43c561aee8d943d05d65471764972ab807abee52aee5b424b044cbb17",
+      "text": "produced are already agent-ready by construction, and running",
+      "hash": "05cf09aaa2b1a72fee574f6210b91e09408fad48495dd9930d4ee8185b17e6f8"
+    },
+    {
+      "id": "0e8fd492465e184b16d0ec1bb7b9536ef0d8ede9ece823f7efd744fcee1f4731",
+      "text": "over them is wasted work at best. The rule is flat:",
+      "hash": "ac5137bf5c40fa14836d471a7bd55228a33d1c42efc760724ecd58de62ab8d7b"
+    },
+    {
+      "id": "5dca8f48657b68c42df33d71229f2a71da2413329f95a7a85014512fda53c116",
+      "text": "is only for incoming issues, not for issues you created yourself.",
+      "hash": "340f73fe0a56574a42164685d65f45cd5a64fd8d8772be46bde957f5ddfa0691"
+    },
+    {
+      "id": "4578b9f467ce976eef386d886e61652b4bd2c177f81ac5ae7fce42a111de9e2f",
+      "text": "The second thing that separates it from labelling by hand: it recommends and waits. It tells you its category and state call with reasoning, plus what it found in the codebase, and applies nothing until you direct it.",
+      "hash": "bb1a7c48ebc220ec009e4e8d6990b6c8e62ba3cfd94e9525e42b6ed8bcd2ff84"
+    },
+    {
+      "id": "6affab25e7921001f3b962b5be0261c7ddf700196edac8eb7e17cfd25b7fcfb5",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "c38ba626276e03950e981db7ff771e2096dbdd311223dfc5c9d2006cc779411e",
+      "text": "and then describing what you want in plain language — the",
+      "hash": "ed691eb4b20dd1c264dba69df760d50eaa72ddf03185d13cf4c4c7cd4e8c467a"
+    },
+    {
+      "id": "1e87c6b0c8420abc0c3a8ffc3b2d9fd3af9802cc0103fa8bc8946f3b1d059b85",
+      "text": "won't reach for it on its own. \"Show me anything that needs my attention\", \"let's look at #42\", \"move #42 to ready-for-agent\".",
+      "hash": "94e827272ab288ef0ab458399c843fb37481068fbdb78d7535f24dadf65bd00e"
+    },
+    {
+      "id": "00dea9da25aeb9e94a3b7270babf986eb2e76eb216d5463eb9a248fbe28a6818",
+      "text": "What you have",
+      "hash": "0e5b8bdda06950ae58e0b45e2ca2756a9f85d2d324331cbfb1c6b07cacb16b1f"
+    },
+    {
+      "id": "fe151ec6699d3f0ee5435262cab568bff023644e18dfae5d3ec72912867fd5ea",
+      "text": "Where to go",
+      "hash": "29b4cebb3351903a61a83e2075694925185df75188939c5ec084cfe05ab7b719"
+    },
+    {
+      "id": "c4fd122c89464b6336978005ccc5ffab11933afa49a406b5db48addd6012e8aa",
+      "text": "A tracker full of raw reports from other people",
+      "hash": "42104c1a80f5721190e02a6fa2061f8a06666f7e6041f841985443264eb4ad39"
+    },
+    {
+      "id": "04dba2a763afbad3679fba7bdb6d48ccc518fc6f2fd8111aa0b7c7176cdbb045",
+      "text": "A rough idea of your own, nothing written down",
+      "hash": "d75720cfb8100974551aefbe90ac1cb8f2e48333f622b1412616265d2e219f4c"
+    },
+    {
+      "id": "980b5b86f2529e20124a0b61622f47918d7b1d35ff3d6ea48667bd042ce50147",
+      "text": "A settled conversation to turn into a",
+      "hash": "f7f2517e3f740560cd2e715a45f5bbe8d0d7aeebb7c40e344753f2b986f0f7ac"
+    },
+    {
+      "id": "aec95d152c260d1f365aade975c135f087c9bf59a615d720c6cfe5ead9e43631",
+      "text": "A spec to split into agent-ready tickets",
+      "hash": "27882a3cbe905a04ad87013593e3640e79d8876c5820fe74cfe1e4eb5861e9b8"
+    },
+    {
+      "id": "395e651a826bb2d0c7e6309660a55bd81144bcaf20a2375f51a1bde2ecd37dfe",
+      "text": "A confirmed bug that needs a root cause, not a label",
+      "hash": "404156404a77fafa829d2e62c96f128f50632d0eb0a733692c7e2c92d3460ade"
+    },
+    {
+      "id": "62c0d4c40b0d8d7a292beba63e5bbaed952ea15cffda15874e5ea17cba692d25",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "59a549258a54da5b29a157c97bf1770738946248551ea3964c42e73fef4237c2",
+      "text": "reads and writes your issue tracker, so",
+      "hash": "7ef613c2583ba2e2f24d4691ee4743aac87f7d8c3d6fa230c4c5a04740e784b0"
+    },
+    {
+      "id": "f310b9c92ece73123dd59276b56a5f88c23fca15c8fe60c6847d2b4b7981dfc4",
+      "text": "has to have configured that tracker and its label vocabulary first. The role names below are",
+      "hash": "cfc1d7d233bb8f70dc9079d09f5b7c79ba4a284a544800a11e4894e9eb02e195"
+    },
+    {
+      "id": "4e564aa2fb59d7b714cf33cf2e0eb98c0ee3a49394e927000a5fa56788f5f4c6",
+      "text": "; the label strings in your tracker may differ, and the mapping is what setup provides. If your tracker already uses the canonical names exactly, there is nothing to map and nothing to set up.",
+      "hash": "7a7edf69d380fc29df7dc536b34be8b7e9e7e9ab547602d9684e42e7eed1d3e4"
+    },
+    {
+      "id": "4aeb12c228c4dbb83905db593d2748ac92682b949c3d200021c9f1c53f41a401",
+      "text": "The tracker config also decides whether external pull requests count as a request surface, and who counts as external. That flag defaults to off and is no longer a setup question — flip it in",
+      "hash": "cc941111a8065a19e688d3972f3f117139ee044a7aa54c7771893251dab39cf6"
+    },
+    {
+      "id": "bd0c87b4433cfb8227e529b2c54c5f1a0b19ac1578cf1c3e665d7d6c04a95178",
+      "text": "if you want PRs in scope.",
+      "hash": "00e4932a10a44ed3c505facd84bede3a8af884bc35b84f6dc1de0db5c93b15f3"
+    },
+    {
+      "id": "3820c50515cd61ed0ba2d6b0f397e4775492ca1ee3874ff2cac868127c4fbdca",
+      "text": "Every triaged item ends up carrying exactly one category role and one state role. Two categories:",
+      "hash": "61c54b8aebfb94bf9fec95b8418d16f129b6f0c823d88396e001b1b734e58c2a"
+    },
+    {
+      "id": "917b2eb2ac2301b74d70e0a5caccf09af4663d497a2e63d4334ccab13d888fa1",
+      "text": "(something is broken) and",
+      "hash": "c9375cb88ae0dde8bb49484d59ca746326c7e3cba49013996aa7bbd9342e0127"
+    },
+    {
+      "id": "802df4ec8ecb0a093668af925b5f127166686188457ffd09f249991b45de4a00",
+      "text": "(new feature or improvement). Five states:",
+      "hash": "5d9d6bfb61e0aab7e822348e6923a1998e1f3251b9d313644fef4485043a9137"
+    },
+    {
+      "id": "723f921f33c2cb6770bd04e7aa78fbace6354d2319e3c296d17a196278fc99b3",
+      "text": "State",
+      "hash": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e"
+    },
+    {
+      "id": "3966cef54a9642adb972202a32c2c8fe4c4eaed193977ae17aede22de82155ff",
+      "text": "Means",
+      "hash": "f40aa59edb5c4a6061ff65bfdc68ccc2eb8609f48bfeba9272d4396019a178d1"
+    },
+    {
+      "id": "c83e58d023cdf911afb4c14608a27bd219b539970a9b28efbb7fe9a14f8c99c4",
+      "text": "You need to evaluate it. Where an unlabelled issue normally lands first.",
+      "hash": "af530cb670abb6685ed5a531a30f7dc2fd139983525bc5789f81b897178bd021"
+    },
+    {
+      "id": "36140036b45fcf92ddd9518c50ca7959becbc8ad23cd0d85ea48b514a3c61e21",
+      "text": "Waiting on the reporter. Returns to",
+      "hash": "cad772d944c22be765f82d81dfc4add4cef2f82d53bf85254aeae8d308e4cffe"
+    },
+    {
+      "id": "b5c8f7cdaa5011cc364669fd03992a2a962958d8510863f0e77a67f4df4a03d2",
+      "text": "when they reply.",
+      "hash": "7d3690cb5b2672816a234c55ad8f8078e96ab1f067b2f8a7a856ff8a1ff48751"
+    },
+    {
+      "id": "e9e4899e4e62f88a1c3c16520ae001eecef91768ddc2bb9c3675a7800c335be5",
+      "text": "Fully specified, with an agent brief attached. An",
+      "hash": "62bfa2aafa9398cc52d3863d8fb05de9732648986800879ebe5534ef87c1207a"
+    },
+    {
+      "id": "e8f0ed52ff2b9c49c5457af54e6bc5b275e14166f0be6ce2a2e843b2e1a869d6",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "3a285bea916facce7195ee4a29aa8b7d08bc21a8a6cc731a50c11d3151f824fc",
+      "text": "agent can take it.",
+      "hash": "b4696fd49453578009b3d25a40978d6698921af857c34dfc9e13119947e5d50d"
+    },
+    {
+      "id": "97659332b402e9c69cbe69a215d4a58058734d3673884badc696b11f867812bd",
+      "text": "The same brief, plus why this can't be delegated — judgment, external access, manual testing.",
+      "hash": "d4ec5ac4e02d271a696f9cef90763e70853a5e2aefd4adf1e2456f74fc483603"
+    },
+    {
+      "id": "e0d9612c1eddcde2967177b4159e92a9874ea3d337b9857b25aac1197f19ba13",
+      "text": "Closed, with the reason recorded.",
+      "hash": "e13b74523c50e2192b04859d53458f5fb2494cce85c7c8ce15fd3ce49be5a9b7"
+    },
+    {
+      "id": "c94d37012ef83b697cc3579706a25f112bc73eed34826a40eaf8a60bdf478398",
+      "text": "That is the whole vocabulary, and the \"exactly one state role\" invariant is what keeps the queries simple. It is also the most-requested area of the",
+      "hash": "d999add5a33acf84a19430cce3a2920786ecef7eb616eb3459391ce52c839526"
+    },
+    {
+      "id": "da80162c09dda2c512876dea8d9464dddb62dc99457a9d28ff575ace2fd3b291",
+      "text": ": users have asked for a sixth state for work that is specified but blocked on another issue, for",
+      "hash": "fe4fc4899cff15837b7612999e75f59a674a04b2d704aeff2fb9523a9bd04ca8"
+    },
+    {
+      "id": "74fce3e5a51ac9ecd5bd312d5fd122529e9df47e852a3d3899f6ddd8e5258e15",
+      "text": "work gated on a future trigger, and for a terminal",
+      "hash": "e1b71ba29e93a65c9d6ef6f6e88b382364f931beedbe61d438754f27c46e9fad"
+    },
+    {
+      "id": "a8d5d4b24ee405c299d2154c910cc87d484d20924ae539cb5f9358b84734e3c4",
+      "text": "state. None of those has shipped. See the questions below.",
+      "hash": "acdbc2664097c38df4d6aa68333d7691420a0a232fd0e8710dd6c1b2a73f03ea"
+    },
+    {
+      "id": "b8157a6748dade261ffba40b4871c41448c4fcfdb5440261b88b16622dfd4947",
+      "text": "splits three ways, and the difference matters because only one of them writes to the knowledge base:",
+      "hash": "b483305438500218870a5c4333d85db0423bcec7392b8972594a1ddbc264c036"
+    },
+    {
+      "id": "a3b416258bb3cde42c97a0ca1b4b5982c6bbe47cd6420acac79d83318c2f23d6",
+      "text": "Why you're closing it",
+      "hash": "289be24a1201aff44ebf1da5ec12dc447c18d4e92667cb2b2f3a6d7f192d0da0"
+    },
+    {
+      "id": "878f8c8d8d6250ec049fda6e05cb4f1533f08535213e81e3056c541590790ede",
+      "text": "What happens",
+      "hash": "70fbb54bd5e6ff77ad448bae4307cccaab65d37717f72d5e6ebd307d903d28aa"
+    },
+    {
+      "id": "151a9418714a888e90a210a7eba90131ddf370f94c7415fbaf5fad449a581eaa",
+      "text": "Already implemented",
+      "hash": "a1a1e3660eee63909eb1171f1e178f165bac2eb4296eff5dcd0f5e2c647f64bf"
+    },
+    {
+      "id": "1b2147d28f64304ab51a36ab1c13612d26afa6858ac28e8b4ac930ff12222266",
+      "text": "A comment pointing at where it already lives. Nothing is written to",
+      "hash": "9e644840e7572ea1d2679f20597d1928b93cdd1ecfe253ae637e8f48c8930a03"
+    },
+    {
+      "id": "0185f2d85c7aad04a2798c2638f43f50d906da48df89aeae73866a2c9e1e48c1",
+      "text": "— it's a built feature, not a rejected one, and filing it there would poison the dedup checks.",
+      "hash": "a042671ffca559fdcb46a91603bbd56cc249c77826ba0bc4f3c54284f49e649b"
+    },
+    {
+      "id": "543aaafdbb531c05503d730b396386ed4442dc398f977fa4883770d3b538dee0",
+      "text": "Rejected bug",
+      "hash": "77bc3bf9f65c9f69d6ab03f3ade099c16792108555e0e92901b046000989fdf0"
+    },
+    {
+      "id": "ecb4812e775c4784d4cd02216716405fb26854bf8766e02a6a4da23a2a9b25b0",
+      "text": "Polite explanation, then close.",
+      "hash": "469e11838ab3f91e59d91dbba0c0b79f2b85a4d03523fd77b06087f6800d2711"
+    },
+    {
+      "id": "eea422ea07343eef558981fca8791d3ab0264c28ac14574bc47b0c003d203ffc",
+      "text": "Rejected enhancement",
+      "hash": "35a8c682605b891491ad250a0e641db7e20672301d72a2de4cb82c933c470be5"
+    },
+    {
+      "id": "1eb940d62331c30b45870ae6fada57d2acd084de86023ad19f0721978b612de8",
+      "text": "A file in",
+      "hash": "f75a2b7741bfece4026e3357434e715a1f69d953d8f6334f9adda5f13aa2b1fe"
+    },
+    {
+      "id": "31968e672edfde214aa77bc508f992f9ad2db0686128679306e32b7d2dfb4f04",
+      "text": ", linked from the closing comment, then close.",
+      "hash": "5818ad8d58d689e083d4c46b91e5fda00f7c03815dc36b97a77f144867a23c3d"
+    },
+    {
+      "id": "b8c336572852939fce18535208a656acaef4343de008dd033c482b7a747f34fc",
+      "text": "is one markdown file per rejected",
+      "hash": "d720a5485c7c5d22cd8929cf4c3b85a42cdfdf4c92ab102cd6721e9122093d60"
+    },
+    {
+      "id": "510aa479f23cb11d3acb13b640763e7781c4dba0c8f3fb27b6974dca4d36f54e",
+      "text": ", not per issue, written as a short design document rather than a database row: what was rejected, why, and every issue that has asked for it.",
+      "hash": "335c925000baf768f699d2b4d241e65ae4795ec407a118cc3dff30daccaf3b53"
+    },
+    {
+      "id": "3af95ebc13941423ff23b74674de7db8c6f0edb34f8bad64908a323d15d25d76",
+      "text": "reads the whole directory before it evaluates anything, and matches by concept rather than keyword — \"night theme\" matches",
+      "hash": "40223ab1274aa896f18eaf116914c58dd2f6c9f47a004b8427542944759c9af6"
+    },
+    {
+      "id": "beb48929bba1c2b2b33f549104721ce3a9b4aaa65634786289fccc69eb1c07b4",
+      "text": ". When it hits a match it surfaces the old decision and asks whether you still feel the same way, instead of re-litigating the request from scratch.",
+      "hash": "a93199a25cdf1876cbec5cca4bafe6a6a8f5b40998739deec45b6c9c297c008d"
+    },
+    {
+      "id": "fd9ace8a4db214dfb5cdc714b9327984712876a731d093fe52b87435f1fafa0c",
+      "text": "Before any",
+      "hash": "8d47433057bf64a19aa13e0f00d057ce85f24eda01beda4ae08bd26df8688750"
+    },
+    {
+      "id": "d3762e37cdd03bb2e062061726e19d757f056590222737d0e17fe4bc8aa7d8d4",
+      "text": "checks that the claim actually holds. For a bug, it reproduces it from the reporter's steps. For a PR, it checks the branch out and runs the relevant tests. Then it reports which of three things happened: confirmed, with the code path; failed to reproduce; or not enough detail to try, which is itself the strongest",
+      "hash": "10250ff1b6eb2d4caa69681870b26dbeffc5729e95cb26ba6be551ab016a081b"
+    },
+    {
+      "id": "ffe7ed399b9146ecd9b5a8748c0d170a3be9456c839f747d0f4914c53fbc990a",
+      "text": "signal there is.",
+      "hash": "be5c241592ea5f53afe6564a793f58a415720170a8cdcc8a9858e76e00e63019"
+    },
+    {
+      "id": "9e6da046f421800f730a21d83e82c3e082691bf2ef2a149c3d4d980db0fda5ff",
+      "text": "It runs two more checks against the codebase in the same pass —",
+      "hash": "3aa126d5bc1c4517bbd38fb559093a4cb7f7bbccffbcd3994feeec211d31a12d"
+    },
+    {
+      "id": "0b96288711339a2a2d6589d65616a322c8eb76ebdac006a32aab31e31e027e8a",
+      "text": "(is this already implemented, searched by domain concept rather than by the reporter's wording?) and",
+      "hash": "28d4e3e58450bcd201e256f3dcc63809b1d8200329cba460a7ac333f581f797b"
+    },
+    {
+      "id": "f6bda925b8a4c22535075b7423094359e8c906f8b4e88d8b464c411f4463c964",
+      "text": "prior rejection",
+      "hash": "ae6e586dfe1b46a1f0ae4fdc14c0640c7cd83503e5a01a02cad0c008afa16bf7"
+    },
+    {
+      "id": "8835cec1d4cad2a5ff8eca5ce27bb7eb7d11c0897accf930167f2a9198b2d079",
+      "text": "(does",
+      "hash": "467e705f12210e30d6a721523026917dd36912ffa0da2cd85b5fe3111dbf3789"
+    },
+    {
+      "id": "932ca0c013f0277dc99ac143e271bf37055d1b3ed123f4cc9c26ad018ad7bd7b",
+      "text": "already say no?). Both are cheap, and both produce a",
+      "hash": "af411f7d84ff3538c9ebef4740da3aba38da8d2cd0055e1e3c7dfce7f10545a2"
+    },
+    {
+      "id": "b23381fefa1d244b9e025932568764fcfd06883ddeb84036ee5657d04f72b5d2",
+      "text": "when they hit.",
+      "hash": "9c8f13203255d49b43e725555aa9af7d985b692554a062a15145725089df2cba"
+    },
+    {
+      "id": "88a39a0f0533dadc4d05a21fc76a52d04b7883389bce55d9f1c4aaf4e4c00e51",
+      "text": "All of it exists to make one artifact good: the",
+      "hash": "98795e751c16b3a28694e144811a5fb19ac7df3cff89be61007d7707b960c427"
+    },
+    {
+      "id": "f237c91362794e6466b62580e6829719e248b05cbb6bc7a6d6ec336d74e7c787",
+      "text": "agent brief",
+      "hash": "e681873262050447d765a1e8ab48a24252a6039b874da427b271e2a34ad27899"
+    },
+    {
+      "id": "3c94b6f6e308fc216dba1a66cd1f8303854d05330d17cbdbd67f8fa5316398c9",
+      "text": ", the structured comment posted when an issue moves to",
+      "hash": "67243290bf5ac9a888836f192d980a0b7bca3c1197d65d34313dfbc85ea40f9b"
+    },
+    {
+      "id": "392e15d415917d0eb211fc0aef08b8036ef3bfb9eb90f832d3f3d84bd501dc6b",
+      "text": ". Once it's posted, the brief is the contract and the original report is only context. Briefs are written to be",
+      "hash": "ef470c63727d2d8647e4de54fbd22c3fa0a9f60728bd7d91c701ba1fb1eced8c"
+    },
+    {
+      "id": "84829049a93b8a22ab6742e365f23afa62798c6cd325a626a4ebf1902cdb92de",
+      "text": "rather than precise, because an issue can sit in",
+      "hash": "50bda33224229ef2b4766f608920fa27cd0a56b8bfad34c9cec1b39f3b448bc8"
+    },
+    {
+      "id": "2a37d415d03b15131b7a01ba93c197b644216ceecee711489232beef9518be49",
+      "text": "for weeks while the code moves underneath it. So they name types, signatures and behavioural contracts, and never file paths or line numbers. A confirmed reproduction makes a far stronger brief than a guess does.",
+      "hash": "49b5f855b94aec98793ec814eadbe6cc49f47337752bd0c9b77e01bc6a38c779"
+    },
+    {
+      "id": "452283e586973e38f625bfdebb667d6e8483e2b9cc36626404c926e9ed7b2c42",
+      "text": "Where the tracker treats external pull requests as a request surface, they run through the same machine — same categories, same states, same transitions. The states just read against the diff:",
+      "hash": "c7d0388603b10d27472194b886a71c02e792b1944c974686960e15072efebb81"
+    },
+    {
+      "id": "fb26b44d6f385d592c94fbb48da7731453efa5672a734e097b850ab6fd907127",
+      "text": "means a brief is attached and an agent should take the next step on the code,",
+      "hash": "2f1076f2f25907687aabcf3b3823b4e4f6667e4dbf278489a245c35195ffe89d"
+    },
+    {
+      "id": "f12b5164228b0dcf4e69d2575ebbf1204f3f242aa9ffe5af91cfc4f378ca6f83",
+      "text": "means it's ready for a person to merge. A brief on a PR describes what's left to do to the existing diff, not how to build the thing from nothing.",
+      "hash": "8ca5a9b2f013a2c725864d1258127c1eb17cd45cfdce4070f7b5a5d2fa553322"
+    },
+    {
+      "id": "27eed816d4a56657f6fab99746a9433f23903d3618ad8bbd8adf31a938b0e841",
+      "text": "Discovery surfaces only",
+      "hash": "4d592e7c27657669b0636bd894752057d290fa2ad629e155cf4d8eb9d4c178c9"
+    },
+    {
+      "id": "e6e4a30204a6f74c45a6a84732040559a59a59be8fd5dc1c9a9439c8fe080e7e",
+      "text": "PRs, because a collaborator's in-flight branch is not triage work. That filter is discovery-only — name a PR explicitly and it gets triaged whoever wrote it. One rough edge: the GitHub template's external-PR listing command asks",
+      "hash": "339603bfcc7841868bcc33057e0f18c86a759672618f841d93b2a2649160618c"
+    },
+    {
+      "id": "362c9c7880ce4b1aedcbaa2cd08dd46d72a457ba28109f81cf915e454d2db819",
+      "text": "for an",
+      "hash": "8aa1a29f45a8b95c59cd755128e24af1c244189bdf28480014ccca1495ba8ae9"
+    },
+    {
+      "id": "a7bc411db1aae04718c0841ee809736f7239c44cb6ee32dd2a3b42068cda8975",
+      "text": "field that",
+      "hash": "fd48408b5372a802dbedc1b0b2e6e0dd23e264ae5eb56f9de0a0acd4b9fcdd0d"
+    },
+    {
+      "id": "bb38140d760aaa16c105d5485432aebbb439af6097c2afd909594dfbc1dd830b",
+      "text": "does not expose, so the command as written fails outright (",
+      "hash": "da48fa3c0cf8e7d6b4c8dbddcc797f71690677d3674f2d3bd0f6998c74e3c59f"
+    },
+    {
+      "id": "4cf613fe665128bd2bfbebfb1de41bbfac08ae2c377639577577cd744bbd0407",
+      "text": "#468",
+      "hash": "013a0ff14264446526e46b037bf841ad7e0d739449d449b0aaa185ddd76207bd"
+    },
+    {
+      "id": "72030c3d056836e184c34d8d544a186b791c3d6de62ffbdbbb67ae47f5dd8d71",
+      "text": ").",
+      "hash": "c4b2896a2081395e282313d6683f07c81e3339ef8b9d2b5a299ea5b626a0998f"
+    },
+    {
+      "id": "126cc6d7267e9e84d51f42346790308810438ad23f8e91384b79382d5f4b70a0",
+      "text": "I ran",
+      "hash": "9e0b4b999a58863701a9fafa90ff1a5c65e1cd15b4d86a2669e589eae93815f0"
+    },
+    {
+      "id": "788bd165179f4b1b19a63149376b2425297c56cce85307e3cca66fe42d0b4da8",
+      "text": ", and now those tickets are sitting there untriaged. Do I run",
+      "hash": "a37714daadf407b6518f022b2af2deeb5ce6edcb68d06e7138c7e6506be5624d"
+    },
+    {
+      "id": "3ec4fbce88dda66587011afc340d69f2da00c290ae5039e98f3a44215f69b84e",
+      "text": "over them?",
+      "hash": "3a26664999ae65449aa05f85a6662c59c679f69abafe0230df8272b91826733e"
+    },
+    {
+      "id": "f2b5481542dddc89ee71bc5a3067561520b7768062875cd77ccc2b54f749d84b",
+      "text": "No. They are already agent-ready —",
+      "hash": "c7e580cb9280431cff7d8d2a68a4ab57560a0fa4cea0e025f4640295246103eb"
+    },
+    {
+      "id": "e843afb67c15c62df5d2f31dedf333f501710fa3d4b4c3c3ab8ed805a7a4806d",
+      "text": "applies the",
+      "hash": "feddb0c4ff56ac07efd02307b63011b77c3c4c196b1fcffbca28475d86eaae30"
+    },
+    {
+      "id": "07a22e166913b1578f91b628852dde4e11f241e93304577cc0145ad4a425f82c",
+      "text": "label as it publishes, precisely so an",
+      "hash": "33e656e253079c7edc1b31ddfd599a807475e731b4bf2250075e05072c9adb2b"
+    },
+    {
+      "id": "42502d40a5a8c302955af376611ed08193dd371b00b2c2916bcfec6792960103",
+      "text": "runner picks them up without another pass. The user who hit this had run the spec flow, seen",
+      "hash": "955e49359921b12b757898bf461ef43a19ed8d2316578602983b02998453e37a"
+    },
+    {
+      "id": "623bcf14d84e9a3b5b15ac97d2ba4baf0d9194750e8da7eddbc1695a20ebeee4",
+      "text": "on the output, and found their AFK runner ignoring everything.",
+      "hash": "af840deb1793f927a87b0671f10de2057b0d45c729fb51ad8f6419037067cf25"
+    },
+    {
+      "id": "08963958a2102d07d2540e1b7f71d45d7e88d775a82b42268f6ca33e67de1667",
+      "text": "is the on-ramp for work that arrives from outside; the spec flow is the lane for work you originate. They meet at",
+      "hash": "bb5ebfe8437773399e44e8c7bc2d446c267be1b66a2ca065183e47f668d9c739"
+    },
+    {
+      "id": "da2c6e258eb0dfa4eb5f1be2d881ec30256ac04b5607816e4b133be3cae85cfb",
+      "text": ", not before.",
+      "hash": "c721b9c4cfb6cad15642a2963b98ce341d1e34a2177f63bae7e7669e04ad08df"
+    },
+    {
+      "id": "8d6c402a6388727f0d13e0513d5d299a41ed43881c08e897c9c8f2f618db917f",
+      "text": "Is",
+      "hash": "f5985de1fd3a3b132253735956dd97b505ae8f069dda41617c079dc4a540f457"
+    },
+    {
+      "id": "03118f289f0035a6a21ad28e75947b42abc851744e1eeaa23a94d35eeb8908fe",
+      "text": "still relevant now that there's a",
+      "hash": "1a260568dd5487a75d3d9d9efa97a8658b17f57b03aa4ba78df80e3f0d045eff"
+    },
+    {
+      "id": "ed76a5e0a14d8159888d00c2b4ed7f7ce1b525ebb58e546a74038676bdb1c1f5",
+      "text": "flow?",
+      "hash": "2b31ff8681054c7687447d64749533f57f71453700d9fcc6b451bcb0149a66ff"
+    },
+    {
+      "id": "351851d40d40244523235b32be2fe49d1a0b514a395a342b012352b2fd94f0f6",
+      "text": "Only if you have inbound work.",
+      "hash": "f1ba066aee185c47f44bb365afeedbc68d1b44c5f28dff5b94b43cbed5e07f35"
+    },
+    {
+      "id": "3074e57f600056dd2ec96d8a3ac98796efa9bbcc27a13869b2808bd337d72771",
+      "text": "predates that spine and does a different job: it is the lane for reports other people filed. If everything in your tracker came out of your own planning, you will rarely open it. If you maintain anything public, or your team files bugs at you, it is the front door. The main use is open-source repos taking issues from external contributors.",
+      "hash": "cef6f4ba64a85cac197a45204ac7099b9d98d3ba173714bc601096a953ecac01"
+    },
+    {
+      "id": "d3f595f91b68b9288069e848d6864095d8fc7f1d2b1ae881716f4b327fe3e725",
+      "text": "The agent tried to apply",
+      "hash": "63997802ca0470c080a3316b7eae548d3e519aa29ae546722d9365b721911c36"
+    },
+    {
+      "id": "4a0a4c8c9643d34a0803274878eb91584447b35744d2cd2cad3b2198ba41c1e0",
+      "text": "said the label doesn't exist.",
+      "hash": "781698f49710b57e01a29235ecb0c8cf75d29f1ce03369fdae323dfe39d2b7d8"
+    },
+    {
+      "id": "53bf3200af7d0a18f21614a493fa62bb71cde60abf2144a4c2d72f52aaeb72ae",
+      "text": "Known open bug (",
+      "hash": "2e57d0adf7a33ac137870853a75520c527300edc6d9507410289c8333ca3d090"
+    },
+    {
+      "id": "08136cc338b22ee694c32fcad589a814fef4c4fbee55f7e6692708bcca5157e4",
+      "text": "#616",
+      "hash": "e38291792a40d3b12a371e5e8e11a56aa8345f171e6a55284fcbd90596dca924"
+    },
+    {
+      "id": "395c6dc13665f42bc29d802d31f464dc7c3288571d666c01e7a2525ed025fc17",
+      "text": "writes the label vocabulary into",
+      "hash": "108d0e921e62844584b8e1d98301ec917aed9cbbbec89c97eb8c24f36c03dabf"
+    },
+    {
+      "id": "e76b425f26f38ab8d470a2e1ac798e999278eb127a73252877c8d86c74dab631",
+      "text": ", but does not create the labels in your tracker. Create the five state labels and two category labels yourself, once, with",
+      "hash": "c78c6f8ca7022b89201dc1d1642a9b2abcb2d230f535312bc00175a74e7e98d6"
+    },
+    {
+      "id": "89f89d0174084b88f91b4399eddc6d03b01949fb644d23922a5a0bc1e7f81eb5",
+      "text": "or the tracker's UI, and it stops. There is a community fix branch linked from the issue that hasn't been merged.",
+      "hash": "c125748f6fbf3a98987fbc47c23c38aeb017564a0de47fb2438c8be5d508132c"
+    },
+    {
+      "id": "738fae42a276930411d496fd4d29c9e79e333b6a5c558d9566ebf50bd488c96e",
+      "text": "Five states aren't enough — what about blocked, or deferred, or implemented?",
+      "hash": "2112752ad15d3981f56b1f1e192bf3efa42bdac08437aa118b35619671131bab"
+    },
+    {
+      "id": "2326cb4454a75583c1a2f5bd9b9da2be5ac3e38232484bf56768bb1e7650587c",
+      "text": "This is the most-filed gap on the skill, in three shapes. An issue that is fully specified but waiting on another issue to close (",
+      "hash": "8ed2d42784159e1f109f843f26bf57a5b23bb08a88f1c7a2769e68186ee06835"
+    },
+    {
+      "id": "cbe9838b936c2b52fce5b4ce50128a5a4b35911ffd6cd2ace698014f487cf0db",
+      "text": "#139",
+      "hash": "a9d2ae79d98c94c3c96f6321245b61e7076aedccb139e08efa04f61e1ef80892"
+    },
+    {
+      "id": "a85a83a082085567692bd0c878d7bbc29ffd545f56ec85b3c112b949a24ad1ab",
+      "text": ") — the reporter's complaint was that",
+      "hash": "bab202579c609d466c410c8d92f14d1d986f7980900317e325478dc5c78643c7"
+    },
+    {
+      "id": "095ba500d0d4068fa6655156554547beb59c22ae3df13e7332956aa5c3193c47",
+      "text": "is \"technically true\" there but misleading, so an agent picks it up and hits a wall. Trigger-gated future work that is intended but not actionable yet (",
+      "hash": "d2c85c87c3e17bd1005b2854a2d76dc14d5b62ab92baa256988e877e96e86392"
+    },
+    {
+      "id": "c88190a200cfbc6e1b3dffd66ae5969c3702ef25d6c6bd65b575c433282485f8",
+      "text": "#297",
+      "hash": "0ab66a216652f7449868098c7868e81b9446b6b497df55b657255cb88cb05112"
+    },
+    {
+      "id": "f6e57c70eb72459990def3dcdf4cece8022a457d05952b283629765930d7679c",
+      "text": "). And a terminal state for \"implemented, awaiting verification\", without which an AFK runner can re-queue finished tickets. Matt has agreed the blocked case is real and is undecided on the name (",
+      "hash": "f237937daecd85030735a632610f3486db910b10f242f9653f34f8040a25c562"
+    },
+    {
+      "id": "723d18dcfaa344ed4414203303b7d85d803570ca660e77180a6fdf9e1b50c1a5",
+      "text": "). None of it has shipped. The workaround people use is a repo-local extra label alongside the category, which keeps the canonical state slot occupied by something honest at the cost of the skill not knowing about it. One community derivative goes further, adding",
+      "hash": "70e76861973b398a68b1284674f7c5f715ea8b74e7875a08a53ace88e7899ad3"
+    },
+    {
+      "id": "9a7518dc9466b684ba47295795adc55867b525f84dff34f8bba2b310f4e4a84d",
+      "text": "and effort labels — that works, but it is theirs, not the skill's.",
+      "hash": "8006cf5a2756d6a18726631be3a6900534c962949e8c6b38c7278e0517b8b5ae"
+    },
+    {
+      "id": "166291eee3a07ebe9de70a5461680353aab87f3f2ddbcd2daca421fbb10d06bf",
+      "text": "How is this different from",
+      "hash": "3ed8af41383905ef9b243e63f1463f9db81138a3cfed74320028eb1219e73868"
+    },
+    {
+      "id": "af56a5dbef8ac5953e728d6484f7f20ee1a8da86665bac4247daf61d388bf56f",
+      "text": "The verification step here is deliberately shallow — enough to answer \"is this real, and roughly where does it live\", not to find a root cause. When a bug won't reproduce from the reporter's steps in a few minutes, the honest move is",
+      "hash": "e9ef289a5fec227f016531ea87a51afb1437a6d3b2fc658f9ad474373411aaed"
+    },
+    {
+      "id": "e2828a6308b90a156deafdf73931935c933eae6bdab34778e325d5400d5f5226",
+      "text": ", or",
+      "hash": "3d30020b1863441a64e786bdc72745e998a1e3abd32100e1b043bfa7a01b9095"
+    },
+    {
+      "id": "04f7e73f52dd66e3ace0ca850eeae16c537222e1a135355ddf0126256561aa9d",
+      "text": "if you want to chase it now. Neither skill's text currently mentions the other; a user found that seam, and it is still open.",
+      "hash": "539d1329726c98f17c39bfa47a458330a819a8cf4b4e809834973eb6559cb4ea"
+    },
+    {
+      "id": "b71d746826593f9c1c9b873112e78d61a84426477ec1308fe203d825f1542bb7",
+      "text": "Can I point it at my whole backlog and let it run?",
+      "hash": "ff4e51b5b33cb07731ae93cb943b42b8f1fc09436cc73197da73a1c1c8647894"
+    },
+    {
+      "id": "ecb57313a6b7d4c18e344be64dffa90b0ef2ea7b7d12c7ade830d5cf10f60604",
+      "text": "You can ask, but watch what it reads. The \"show what needs attention\" pass is a cheap listing meant for",
+      "hash": "9f5693c3182686bc04bf140e0c108f0206f880c1f7b36acc3d61af4b2112c6ad"
+    },
+    {
+      "id": "b15da43773bfcdc3cb5d50d32fa75037f5cb6d1c283394b9d3f8d192429dd400",
+      "text": "— you pick one, and then it gathers full",
+      "hash": "fb4cfd26a82f7f6a42270a1091d97f23d5aeeb0918026f5a8ab35b5c10fabf89"
+    },
+    {
+      "id": "28edb02228986c95e9be9c446d430b6d67c211319fc3c796c775a7768abf7b12",
+      "text": "on the one you picked. Run it across twenty issues at once and an agent can quietly fall back to that cheap listing as its evidence base, which returns issue bodies but not comments. A user hit exactly this: three issues already carried a comment saying \"already fixed, recommend closing\", and all three got fresh agent briefs instead. If you want a bulk pass, say explicitly that comments must be read per issue.",
+      "hash": "8a661e72ad895c3181aa4fc28a31048231b6f1dd2cf04a9aa5a7c996a7cb51a3"
+    },
+    {
+      "id": "8c7bb7a2f5797faecff926dd726860d31ea2e6f92b8144ce05cd805debe536bf",
+      "text": "Does it work with Linear, or anything other than GitHub Issues?",
+      "hash": "a5a7868a392a9edd9d399749eff33a7b8d381d5f63f4c54e06b05cb64383a275"
+    },
+    {
+      "id": "2459eddd2a4ee059f76e67fa841fda36b0257a6acf166e000998c62603f6a37a",
+      "text": "Yes — the tracker is config, not a hard-coded assumption, and people run it against Linear (via the",
+      "hash": "7500f635c7559f824322d4a13e1c4fb05c4f62797011421b81735bb46b099245"
+    },
+    {
+      "id": "6ed332b9b8e46a56e2bf59e827f16f4fecf860a73c51c63845fde776ce8a8376",
+      "text": "CLI), GitLab, and plain markdown files under",
+      "hash": "7e3b1adffad5a546fc39c2547ec4a3c097add8fc11657480ea6aa30448501e56"
+    },
+    {
+      "id": "08ec2a0016a619cb614263199c0fbff5d7b274b11c62568c49dc60c762c75a14",
+      "text": ". A common split is Linear for issues and planning, GitHub for code and PRs: skills that say \"issue tracker\" map to Linear, skills that say \"PR\" map to GitHub. On the local-markdown tracker there is an open template bug where the generated file can carry the acceptance criteria twice, once at the top level and once inside the agent brief (",
+      "hash": "6062d6fe79759230c0f57174e9d056966960bed978b0ef2b603b2b0539258f0e"
+    },
+    {
+      "id": "0b7615a8425f49c68e5e5c41f0b1f372fcb68b20778eee525d51df7946d02f2e",
+      "text": "#200",
+      "hash": "b4533ec510dd149be62d2b5922f1665515b062b98ed0a4f3cda4e0cf6b4a7a41"
+    },
+    {
+      "id": "fdfa552b4f9691012a02c8aeadfb20609d34ff0197b352551c28ab3a9f237add",
+      "text": "Every item it touches ends with exactly one category role and one state role — never zero, never two states in conflict.",
+      "hash": "74e857a47de2da81b7bfb542f629981a58d647bca97f3e9aaaab6be13dbeaf59"
+    },
+    {
+      "id": "f8fb6b389179da73cf3d587bacccb28bde640e24124278340c672cf18df5f564",
+      "text": "It gives you a recommendation with reasoning and stops, rather than relabelling and moving on.",
+      "hash": "ad3611fb72df9e82e13df7da9e8b19bae3fcd0ccc23de9f1164b6989e36431f8"
+    },
+    {
+      "id": "c1a92d4d5511319be03390d25f8ec770c2a43ec058a6dca635c4747e6795233f",
+      "text": "The bug got reproduced, or the PR got checked out and run, before anything reached",
+      "hash": "4066fc34fc39879a5b36a2b77c39c50fad1a4e5fabdecc5c33c93554bee97071"
+    },
+    {
+      "id": "3fc3a2aa552abcad92567afb6b42a4599ea0d487b8e72ef5560465536a7c15c3",
+      "text": "The briefs it writes name types and behaviours, and contain no file paths and no line numbers.",
+      "hash": "4a0fccc9ab4710e6f95ad8583dad603d0150bda7367e1abd3b007da6561f39a6"
+    },
+    {
+      "id": "133ed95c133ba8fe452d9d1ea41148f562dd1ac3065a31d272440f840d2583b4",
+      "text": "A request that was rejected six months ago comes back, and it says so and quotes the old reason instead of triaging it fresh.",
+      "hash": "e0af579e1c37f8dea833ddc38033ca760d66bbdeb3446987b7233cb57bb86973"
+    },
+    {
+      "id": "4df2e6ffb7dd95af3cabf5b54257e5d7302c8bf2188eac9a42086feb52499f4b",
+      "text": "Every comment it posts opens with",
+      "hash": "a2584254328508c843ec1b069602044bc70017bc9e6c098f2f30d0a204f5a31d"
+    },
+    {
+      "id": "2511caa7ff744272c79af950f95e9eeceb6dd728a0477391e173eab545de36bd",
+      "text": "is an",
+      "hash": "89ebce7412c48723ca2b204abe0c44406f391f79304c90964bba4de6dabb0391"
+    },
+    {
+      "id": "14d3b8dd347fc24abeb1c0233c04997ea62e2927e5d7f180aa03ab5ac9556224",
+      "text": ", not a step in the main chain. The main flow runs from an idea you had — grill, spec, tickets, implement, review — and",
+      "hash": "33c5d6cc3b55984b5627fc1452c2f1ed1b54a74a96283c4902659e90fda9fe6d"
+    },
+    {
+      "id": "af2ad424536ecdb0d9dc17937521662bd2d9567527509b0497bb624ed0ed98bb",
+      "text": "is the parallel lane for work that arrived instead. It merges at the same place: an issue labelled",
+      "hash": "03f7f09e8adf2fc0cbec5de5e71c49915147e2bb303c50bd6449067f9510f6a3"
+    },
+    {
+      "id": "ba7e44ffd43fc53c83eb216555d2d2deb441ccbc4499a41d089ea904a385599e",
+      "text": "with a brief on it, which",
+      "hash": "d7ba5ae214306067d219ce5d92d04b5abab82c6aba0d5650f42a76e77143bd79"
+    },
+    {
+      "id": "c631dfacd6d4df2849d8ff0f0bad566eeb0c07e0179a8fc1cfee71b76e569607",
+      "text": "picks up exactly as it would a ticket from",
+      "hash": "a3f17a254c5a20f3c837e6a89301442a57138be7ac13c246ed22284d63d46084"
+    },
+    {
+      "id": "35f0ed42f0d166b46749cad487bff349c867d14d0e74e5ef7f7f9acded747a55",
+      "text": ". When a request needs sharpening before it can be briefed,",
+      "hash": "fcf89a926235332c9692b27006f50ccb288e2c19bc3808b7f02444f894dc93e8"
+    },
+    {
+      "id": "3806d05a6a77c1343912caafe80373c3d8144d3ab710b31701fb040b574784f8",
+      "text": "together, a round of questions at a time, so decisions land in",
+      "hash": "79bd5097e7886f389ce9490a01ac355a183d3071577f53c2066babc2ec6a72b4"
+    },
+    {
+      "id": "7b19208b3e55ad043df16c26e89ab72d7d26fa39b6abef5633c03f4029f21374",
+      "text": "and the ADRs as they're made. When you're not sure which lane you are in,",
+      "hash": "5d2249ca346b3c33e6a2e767172a336aec9830d3b5a55f04ed3e251e6e5b077e"
+    },
+    {
+      "id": "7d256aee901e7779ac2db3acb06381a9a4b8a85f3bd642bedf99bc02a8df0ebd",
+      "text": "routes you.",
+      "hash": "7ab0ed124c45755dcf8314c61ea1bf3f8c9926f3cf622e8d67e880128523bfad"
+    },
+    {
+      "id": "be2b524ee14cd04114e6d765c8f84b72e3d17a34020b037bd8605b8c5c1a7c41",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "0476e29c5dedc0e5b98a3ffc226e5ceb705ea1a9ecd8b190b737e7a5e5ce100b",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "6f0c5d6e36972157d340a385632a9f5539cacdfed221da98a37e3c68500b9cf8",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "f2fc247f1499238ba664b7fd87ed9795dad143fce6c3fe0105d46cfc7dca1e2c",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "39b1636c9ac40d908f11cc6b92a04db199b2ab64f32cd129ca9af440349389ed",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "b9fbad2dae78f6e143dc9f6889e6500053923ce7a5e56d1e4454204e718ff179",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "2661fbd11619c990cfb9cd5e0910186c6a6d93edef9e7f34ac73adf3e16e9e5b",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "7753ee74faad25fad074a1111f3f2e8d191905a8e064dbbe95bc5ab265712b2b",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "9d41386e70c863cd7e055c0f5f78854b43f9bdead253974759701cacdd5bf728",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "2207a926452b8ab57382b7da147c36dfe9f2653468fb3e3f51c450050ec8f24a",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "bb5d3b43b5c870f8b0ee25ba248cb83ba95112ff6eb221c4ce6326d07ad5f1d6",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "74d332f5cd54cac93853213b9be4846ccde6b2a58d02c57e60ed90b8559c6c52",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "366cec119292b565dc481a48408cdfef6dc823c62c90ab6d988aedc23ceca952",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "94d83c06ca677fbc2ca0fcb562cbb550e34f2bcacf66c53e13063313f5eb32c5",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "08efb8b9626bfc39024cec965f5a716ba2e609d00d9fe277e7e1b6f02f009c43",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "7ea7a398fa528b17a6435ea9721e57115c0b6773859648e4e3400b6f80ff8ed2",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "eae474ac1acf7c18511585ffc7defdc4e22a33de9a6b88a2df3d140aba059d52",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "836d1cbdb1b60876c36cff38baaadedd790cddc75da2434512c9cecab4c19b51",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "7a3f53b86ac2a42196d5a0ece8a9c14ad1d797b64f04fc675bbb0ab908a320ed",
+      "text": "The /grill-me Skill",
+      "hash": "5edb548fff722d99ccd268e52fbe25045b7b033143d6caa73359a81daebd7539"
+    },
+    {
+      "id": "742379f4a197bebe05520e526f7f8203cdeefab953f3131358d6ecac53666f86",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "e70470fc8a3d6f9c0feeb6b4092506f435fd1f64e3f3c0f1dd4c74e091717cca",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "9e8e0bdba2025ef19729ffc4ef0e35310b394175d987cd152e39e65a2a27c7eb",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "02d948060cae17f5343461a1169c9b1672444c616d79b77f56a6c9fa394ea0a6",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "0578b3690813b3cfc6c3f2f739fde33545368130412589155fd50289471f7148",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "f52d5cd3c7b6d102a69e20f52df1be879ba56a3255a12d01d79bbfbfbab1840e",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "e12143df68ce2be36a2efd5dbe1728f487566d6aed87db3fc84dfba201890de0",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "53758c5f787e84bc579c25dc0d20959fb469ab928721843ffe43a2d8304d9f3e",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "a9941f01caa390f651c859cab24d8a2a325d5422253de98754d55313cae8e272",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "114e09eb1db62ef07d893398a9ed46cdd2063c19c292a4f992f4a52050d3a81c",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "7448a6d6728bbe33ff48a9f66a90e90aba279d1a9d420ee5063a918baf29f677",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "b61081a3c443db9cf4dd7e61ba66a9afb93c85448e840c411782c519439ca354",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "6aeaa73e07581dd612ccffaa1932c35e46a9dea5d4b879180f5b90d8b71695a6",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "21043c403a51818cf169f9fb7c7b5ba37ec3b7bedc2e0ece9701a68df458f3b8",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "f8a3f9f6048bd0728e6159406a567c79001e075cedfd0b007a12a3a6fca056dc",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "54e3c9a046fbf7e25b31d8a89acd11454b60207390e019afaa45d24cce90b823",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "3b2aee2ca97e397ff4e229c0fd2c2ca89cca8029ca677e3465ce81cab25e6608",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "59ef2b113cbcf304f8660ad6d03f000c04e5cab66b52b094686d3b93bb0770e8",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "a6d06f36952211850eb6e4210c37652f95912e58e60f41fd5d29ec03b38873b8",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "710944670496243a9051911fc772e16cd264c6a502dff36777db12ad271f7674",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "9be03a5386a86a5b2b90738985debb769fa708ab9eeb0a2cb77c2d6b051f059e",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "de920635c3f48378e8373ecb97724f3664719ebee29496bca7bb2a9662e43d8f",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "1acd092c7883955cd3586630a6193512bb7fe6ac9f7fd2900f8c8f740975b752",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"8v0cnxnkvi7tp8\"",
+  "lastModified": null
+}

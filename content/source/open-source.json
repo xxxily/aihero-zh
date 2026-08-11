@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/open-source",
+  "pathname": "/open-source",
+  "fetchedAt": "2026-08-11T06:28:43.317Z",
+  "title": "Open Source | AI Hero",
+  "contentHash": "0d54cbaaae20cbb54d4b51f97b9b0095833ee2cf65bbe0aecf000d94d4f72293",
+  "textHash": "73f247f42f55fd7abfa273511003dbce5ba495a6c11b165e5ea9e27964acfa58",
+  "strings": [
+    {
+      "id": "41eaf6f7bf46bc29dc709a56d9ec4726f397d4ff5f6f3f6ca2edfe085a1d0e23",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "33defcb254082a118656b1eba56c3f84ce09e6208432620750df40716b9c9f37",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "77f6beaf63d6a11f04eaf32f847a5e3486941b624db24ab04f555d5914c61615",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "cf7265dd7fd212efb9d93cf6c4b32c44c53b21d897e9cb0e4292e7821e783bf9",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "7dd94c5273ab7fbd892b3525a8213554715b3d2830eca0d48392621e0569677a",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "55946acdef613e81adb56f8cd6119b107cf5a71f6289b5d681d3b1f3f7791a60",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b31dcb717ae31a25f717b69c16e6731165d6eaf04730f4972c3eabef1e9ba88e",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "32a3eafdf38308b6687e6a69f6293679185e1db8edf092044fbda6d1a445ca82",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "2567361e62fb48f7b17c0c4926a16d3345ed4eabe82e950fb11374eba7fced76",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "8001d6e4d10337a06ad8d28ff010195426c129b658d1c9b0d7a15e144570a8fe",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "851665c3f82c053561ec919e304eaf4259491f07c3fec2c0d6a555b19e536d53",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "c841199ce3ca40779b4f252414a59509793713075da57779a26272a5bc6e837d",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "ace0930dc42c0569444bb8a90b04d5427fec9c66e61df5d49c41e24703317ddb",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "2b27db881c02cb86b83a8896270d37a2298fbf0c97623dce84573fcc56e205c0",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "04599c7b67e098810c9c82ccba4e041c5feb84f4f61e7869149fdc6ddcffc45d",
+      "text": "Built in the open",
+      "hash": "3d3492882773b6ccddde20c4419a824350d8d8a3b861d2f2f5810b4277f8ecbb"
+    },
+    {
+      "id": "5a121da9f86ce28e2c3cea69419e3913f4361cff98552ef3f74d5289277a4e8e",
+      "text": "The tools I build for my own work, published as I go. Skills I run every day, a sandbox orchestrator, a dictionary for the jargon, and the channel where the work gets explained.",
+      "hash": "98cf85e41c68988431aed343bfa294ccde63be6d3667b881843a124423dbf6d4"
+    },
+    {
+      "id": "48c077a8a263159c8694e4cb6a3f7c9e26ff178db8d72f10eb8ebc8cc77ce43d",
+      "text": "Sandcastle",
+      "hash": "239f09c36bd4aa7c192be960a639be17d90c987dbc3950ff675d4dae2b429c79"
+    },
+    {
+      "id": "a8dc73ca9bd002ff6e40583c7a366bc425d30e5a91997215aa7bf4d09d04be66",
+      "text": "Orchestrate sandboxed coding agents in TypeScript with sandcastle.run().",
+      "hash": "a1e1788be4ff12b2b82fa499d98193c85ca05149d96354209d47f44f2ce3e199"
+    },
+    {
+      "id": "f44fbb8bfef9fd603a83af87b186f6eb470c5f8dc7453a900296ec253f900991",
+      "text": "GitHub stars:",
+      "hash": "1b4403fa656b6d9a0b679e34966c3526bcb0b5e5bc7e7d584b61eb0a6b57eab9"
+    },
+    {
+      "id": "0a3f20da06f05fcdf125f7fd025e69de1e84e478bc80df3575b7c21f0f67f22d",
+      "text": "Skills for Real Engineers. Straight from my .claude directory.",
+      "hash": "4c93c128b88ce42f9c32d898a8bc870444721c51ff5c43672c8e7d87e9dac24b"
+    },
+    {
+      "id": "ec53e51b51c95f194a44aa856d3ff435563076b3f02fb167cf3982fd9a12cd59",
+      "text": "View the repo",
+      "hash": "3f24518edcd18c7ca3c2a1bb8e83d573123eacbf66cea76836e5c9b5e829c5d1"
+    },
+    {
+      "id": "9f3726173db576c05d9d40faf96bcaf96dea610a8331668ce3076fb7c2aaba08",
+      "text": "Dictionary of AI Coding",
+      "hash": "565fc6a237dfe579d6d640e99ab8725f547abccffbbb7f6981cfde8c682e10a2"
+    },
+    {
+      "id": "492dca3e36a43a9075cfd78fd9b4589394185a3d7bc81571baee4109ab157bc5",
+      "text": "AI coding jargon, explained in plain English.",
+      "hash": "61977a4021a91a20af2c960397e071f891abf681882d893fca5a569c46e02a91"
+    },
+    {
+      "id": "7999bf9e3fcfd62f7b66d0b7ac2961827a4ff7f98e196e686b35a3043b4c9ee7",
+      "text": "Read the dictionary",
+      "hash": "d5dd9f59685ff76dae9527f45f97266c22c8bfcaf80509567d2a56b5dc84481a"
+    },
+    {
+      "id": "df753c315953008bf7817368cffec19da12a73dfaab28ac3fe87661b03418a0f",
+      "text": "aicodingdictionary.com",
+      "hash": "f74ee32551176e932444546a5712b7c0a68835f33b2a0a00cd3279ba52cd9b33"
+    },
+    {
+      "id": "1ce26d2be2c498373573cce217bd917f225d1a84cc6dfeb523887440ccda57dd",
+      "text": "youtube.com/@mattpocockuk",
+      "hash": "f36d4e29aced57fb61e2e59494883f8653ce1de210187b39a5d746d616104036"
+    },
+    {
+      "id": "7dc80087e3dbf873a1ae729d5b420bca60cf87d7b9d3a0c0f4579369b45dd494",
+      "text": "YouTube",
+      "hash": "fb7accfff8c6f8ea9b03c91ee5576d0d08080e9ba35918d801aaeb6020dbc88c"
+    },
+    {
+      "id": "19a1d60b7cd179b6c735bd1f806ab19db13d7dd96bbb6cb749f761e7fb1f58c4",
+      "text": "Tips, tricks and tutorials. No vibe coding: this is for real engineers solving real problems.",
+      "hash": "ec3dcb41bfd33e95b3830003ea1eba3ddccd77c08a54efc79287694a2462d609"
+    },
+    {
+      "id": "66226094ce90bcd498595d8c8329e5835024ad77a56a203786e4c4f01addbb84",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "f92310f118bd3a5f1784380485ed15cda32e29fc9656cc0d91b4867a75332ff0",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "8c69d7406240f75f9fa40ab324cda3fcf458638caa7d97ba2c9f4d79a3744bf2",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "2b8f7ea2ab96f0289cfa85fac60fd70808b0dcfc28226627ac73d6d184a0f164",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "9cfbee3f36e9faf918ab00f900160a672c854e9b727d48768e2394d5d0958c0a",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "dad37a0eed7991b7994144721c662dcb0b6cb735713e4c5351b1741f620c517b",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "17fa82afaaf20f38562f74cf1b6e84232d6542598b8cbbcee71841e1cffc92d5",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "b83cdb85ed223e475a4ba0c39ee43257da4868e98a8750673dcb3d867feded2a",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "97b784910211e6888dd2c755ddf521fb700208aa7abc634c9904c6c00e6dcd0d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "1f532afb004597538df8e66eded48593b44e0a9a2493d617d055bed33e2b1b5a",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "3325f247479fef022904fd0296928678431118fb63e6b72a42838afb0f525255",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "6e4e4e34c7513f7f4973611ac04dab3bd2a36509b27437a9e2251dfef66c884b",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "0d20c76771a0f3cc11c7bbf8d07f29aebe18c73a483117e60b49167000a9e885",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "39ff67d197e2f500ecdce658bbd4044b91905306b7205b9646f71b4c2e00d7b5",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "e067ce5c6f169feb8fc4c78c8f17485aedb737c76c6c777289b1282c31786f27",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "31d520ace13aadf212d007c7fdf6054a997495862d620cdf2781885fa65290df",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "019b31544e8cd6e3468a6e5204d0d36f456e0aefc3577c115ab51e4cfca64f0b",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "b83c1f9cec8272a85e559d5da873a0dee81547377f11c963734da2fc2fc95248",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"y6b0w5lpt748qf\"",
+  "lastModified": null
+}

@@ -1,0 +1,843 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-writing-for-agents",
+  "pathname": "/skills-writing-for-agents",
+  "fetchedAt": "2026-08-11T06:28:04.561Z",
+  "title": "The /writing-for-agents Skill",
+  "contentHash": "c33d579b5170935a340088351eb7d7747079da53e517852d94c1a927087b733e",
+  "textHash": "6e592ca6ed40732f993cf7b51559a768e68f7ab511e2cdce93e865080665fec2",
+  "strings": [
+    {
+      "id": "ace89c5e6f7726dd3baccbb5a59f4a37464f0bd12d26e863393de56b1488c657",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "a1fee0c98739b00af9283bdde225f988688a2f4f241bc0d7ee8e0629d8e6a069",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a1cc826c71a6155eb7b45762e79ffd3d27a4d40b8a73a52e6dcbab390de0f4bd",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d42580fd66240cc0974b8387c43edc78f3cf3180c7a024c97b384cf216e4f00b",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "978f8202fd38cab66611bdb8f7aa22d41e0789551df5a1bd82c5c16ffbcf40b2",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "62579599d3187c82c7ec983816025b52b6ee0c3b46155fb6269c2a5ff6027dbd",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "db1fcf14495f1d884d760794750dbc8aec13ab3e85be196f3c11041d7cffef99",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "1f4d7b25fade847ed3a1b6f7eeab58f8edb3dbde2eeaeeb657f87f7e1ca613e2",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "2f9b593b9f303bf9a5d69484d51a6f1a5b3f2db93cabfa71c27e22a25be77f48",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "ebf8cdeafef833770ab99d5508a7bba4a0f8346cbd376dbe8b77efaf13233368",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "7f5159125c2a712d9909f21a62ab848f7a9af91bc98df6a220ad44fb84566266",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "08cb6bbb03f2d54ec1e41fc6c310bb660903831043856dfe3ef2bb7fe95b9701",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "550e0e4344bf36664e8e5730d8414657ebc5caeaa4fc2359c4442fc2ef4e6ff7",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "284dba0a1aa4590dc594c7685c55c559008f70c837f7239ed913f4c8e6faf743",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "6e0ffb8834d54c9c041ef86267fb377f6f5f561008dcf6dc3fec3a740e28975c",
+      "text": "The /grill-me Skill",
+      "hash": "5edb548fff722d99ccd268e52fbe25045b7b033143d6caa73359a81daebd7539"
+    },
+    {
+      "id": "a600e06c4fb53232c07d0180147a42fd78d7755abc922063ba07181a3b73f20d",
+      "text": "The /handoff Skill",
+      "hash": "aa9ef09fd6306628ff648bd617767047dad198c95193321344b3959b78d08f43"
+    },
+    {
+      "id": "446c9a4b363f15dc985c7e06e1e6a1bb8a7d84025779b5985c2bab41aefe3c2b",
+      "text": "The /to-questionnaire Skill",
+      "hash": "3830a182a5231fe3723288a956ef6fc920624202c591cb8eccfc4631443da29d"
+    },
+    {
+      "id": "e127d4e6b33c19ab2fbf8b344322c23539fc1f7502e0dc7c5ed554632c25742d",
+      "text": "The /teach Skill",
+      "hash": "3eb25da61522976d76351eb1e464adf19c3c6b07956a325549bd111789da85c1"
+    },
+    {
+      "id": "cb254f0370412fc4fd98524f63ca0bf92f56728f2a3834da18a3180a4d40c705",
+      "text": "The /wait-what Skill",
+      "hash": "e6bdcc6683fd9e297ee57882e5d2370d26e6fff3b9b03bd528804cfa7ad01fcf"
+    },
+    {
+      "id": "0c5cafe8cf0c7e9d46a156dc11288e6386839ff6d235b1d208f794546bd5420f",
+      "text": "The /writing-for-agents Skill",
+      "hash": "f022e2398dea44aec218f90928e961973c7eaa03026792434aebd61ba6c18cfb"
+    },
+    {
+      "id": "89869352ef54d783c9db3c539747ba3124fd7794b45d4d420503bb5c9b1c70a3",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "180f41c8b9ecc298aacde1bd0b9028711e79be5cc87bdf4d7ae86b5987cc4349",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "a1d4ca13bb75a0f2ba14b8f279c7bacb616093582f83d564c3890c3465e5cd73",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "71cc65c7e4663a266963f72ce2dce330b9c39f033fa11b48245145a909bee865",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "d59823f36bf1a488a6111950f3f2d5258d6066cab1d1ba038233a83c86f732a1",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "e06920065ad65f057fa1fd05eb38983a58f98224d2faf9342ca0ff6e44f9dafc",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "4f7ed763aa9abe15062e34b3ad1f720b05e51560232b66d49fc6265e3568f620",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e512d03071b40062e4573babea068a101df6b5b64619e1f013115ed543956049",
+      "text": "21 / 25",
+      "hash": "e0646d625cfb358afc52597322fba57a511efb2b888719c59afdef81bc4d6f64"
+    },
+    {
+      "id": "55008352808e5552ae8967c01c70aae793d2308e22b3e3f75b80c0646e96fd44",
+      "text": "AI Skills for Real Engineers · 6 min read",
+      "hash": "f8bd90e0ffd73ca43769a5f7911ae7cca4c247cf56e49227cca689e5751142d3"
+    },
+    {
+      "id": "a85f3156204c7326035d4335e242fb289474a8d3a3c113ba5ceb86c072913bd9",
+      "text": "How to write skills and other documents agents read.",
+      "hash": "d41c389a7a27425782655e56c3509c48ff3d87fe630423fc24608b959f19b477"
+    },
+    {
+      "id": "57e56a7b5fc9e72f034b88952b15a14548e390020e373cc9f6c0d9c256b8945e",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "9a70419c6eb64ba06573ab056fe6641c6f194d3ce59fbbdff23b65ba9a418fb5",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "bc05b358dc9aaee2f6e9081a51d254d97634b86e2757fd17c410e4f03b5261c2",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "8f13d49a8daae951583e0898e9297cff5cdb5c616c66a2b2fd3b7993ef42c865",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "78f0e4a289983ba529b32100a1cde4e4c18675061e77d1b81cb90c2b7c45f0a3",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "1cffd5f4d4ffb9dd26e75b0800f0040d8fdf9e00b640942af27a7b95f4d2ebd4",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "7f5758c263087a9bba361f642f6c2c76cddfb88b7795e609d010df19b3070264",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "c67f3777a07807114ef06417dd0df9995a7fbf19a58eb69d3c74a1eaac6aa9ad",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "ed5b3851c60e09b69e5634ac6a5259ecb3019d9d8f89ebb4f1f24aaeb10c4456",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "9130c7b0572d5a5c1a77f1d1c9cfb9f09f47ee4becdc1a98441e51905fd48858",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "a8a11496ef3482adcaa2e348796f9d9f034a027c2a779271ba809faebc7bcb43",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "c3f3d624dac6ab24aac7faf003cfed022cc7c7e275bd9c0c3251571271759175",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "ee52fdd709dfca0b93cd8617b2e6756cdf766d1f09c161d8f3b0104a23ad8065",
+      "text": "The two loads",
+      "hash": "a5d0d582f1f19c85317df39355dc4baf95687af0c181b064b152e87668918aec"
+    },
+    {
+      "id": "61504514e90e1ccb67195a2d975af4fa99433f2511fb3c96b4967ca9a8e88a10",
+      "text": "The levers",
+      "hash": "d5bfb9a4b47bf7dc48d2fa2e075f7cd9c3af3d0db52458e0f8ab2daee26afad1"
+    },
+    {
+      "id": "0f29e36de61b807d2fdf649dae8da5b32d033cb8438b966bb56fe9ff055527e9",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "fce1dd71e61cb84fbdc7925510c58ff5100b10ca860e87179792952b59b1fc27",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "df65339eef29e71bb55daefbbb71f69dce130b9979d933c81318fa537e4ac7e8",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "2c869762e5e85ff56143b5db256b6f16bf1b72c7d160d01011015642757cddbf",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "060c5158edbd6029ed366aa32cf9a6f43ab255ddffc55e6f37d4c7b72d9c74cf",
+      "text": "is the reference you write agent-facing documents against — a skill, an",
+      "hash": "3a27db374794b996b10c8c790bb44db20965c97fe0381ed6b16b1e7622e2a72d"
+    },
+    {
+      "id": "b8b4ba7b8c48d2f663c87089508d79748f9cede449c472433df2651a70bd4d7f",
+      "text": ", a",
+      "hash": "a5c172abdd6ea1e886ffbda844ab1ea24af334c8fa53ddf7adf81ec6a15c8bac"
+    },
+    {
+      "id": "bc8267744e686abebc7b5635107b6c590668c495b0ec7fa65baddbdc089202dd",
+      "text": ", a runtime prompt, a README, any doc an",
+      "hash": "bf43a07a5a61ad68dd326e81fd60d94c013bba090e831dc9ab5c2af71f238d6f"
+    },
+    {
+      "id": "b825ee023bd239e0b5f2cad418acac6f4f69384ab365aa3214a36113b974171a",
+      "text": "reads. The packaging differs; the writing does not: the same levers make each one predictable, so the agent takes the same",
+      "hash": "127dd58011f85ca01a77e45807b9a1b66b35df901ca0ac7c712b69c7b85e52ae"
+    },
+    {
+      "id": "68a0ce37c7452b772044af318fc9eef04d9fc97b8afe944cd66a0691bd9c4eb0",
+      "text": "every run rather than producing the same output.",
+      "hash": "99f61199c9b786a5ec5bf0b246f7e84f2cbc1180ba2b2b5f45ce15a6f28fed3a"
+    },
+    {
+      "id": "b04c0fb2b8c9e139a782339d9649f5d91a34870d9c706a136742b0ec36822e7e",
+      "text": "Its default move is deletion, not explanation. Ask an agent to write instructions for another agent and it spends most of its words explaining what the",
+      "hash": "0473232b0fa4bb159647cf0b6ad91a3322aa99cabb63e13eb8bd72b8a4d317c2"
+    },
+    {
+      "id": "c00a6ffd5ec9057ce2b688af2387c6b092226ea4c39c7bdb8a24d785cbd6235f",
+      "text": "already knows — every one of those lines is a",
+      "hash": "e11f9311497d78e162ff3369f183885317188ee4b4025434a95ebd477bc559b3"
+    },
+    {
+      "id": "a9c506d8c8b9177c5151c7ad322ec587f8cb3de05f9903a401d5b82569c6b695",
+      "text": ", paying",
+      "hash": "21bf4a363bd3b8387bd68f71119c932122c0cbde8a8662f7910c240f7231df57"
+    },
+    {
+      "id": "9eed0f101be7741faa0cd488c49240a7e3e1b94736d23940b33fcf65715a05a0",
+      "text": "and changing no behaviour. This reference is the lens that finds them, which is why it earns its keep at least as often on a document you already have as on a blank file.",
+      "hash": "5ad6d8b851f787ab7f84cfe15cd89b1fa9ebd99effc300056b9b6e5bba325a8f"
+    },
+    {
+      "id": "34e89cf475af00d32a15c8bb66188fca134a602353cebfc71a9c45c33d439d9a",
+      "text": "It was called",
+      "hash": "44d5eb47d917031ed8c2f9d0575a8197b85eae98d8a2ef6119279f9c3b780142"
+    },
+    {
+      "id": "3925dbdf8039649acb8c31a6c1b4b25159e57f28025663d5c8e3758995efae27",
+      "text": "until v1.1. The rename tracks what it always was underneath: almost none of it is skill-specific. The skill-only mechanics — frontmatter, the model- versus user-invoked choice, router skills — are disclosed to a linked",
+      "hash": "078d324b686f14d254c8c30a8d2366d481111a861f1a1490f963610a7dbe164a"
+    },
+    {
+      "id": "6fcb6da9bb9da8a7a69dd65450eceedf65f7b53aebd60ae4be559fb67f3b5a2a",
+      "text": "you read only when the document in front of you is a skill.",
+      "hash": "40ef16e03bb322f95d25429398a0535fcd9e3f9d08bcc2968e09efe2ed518dce"
+    },
+    {
+      "id": "9a2e62edfd52ca297a4d66299f35d3577195526529f5735a2561f669c16768ea",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "2d3f5d199d4aadd7f3fdbe299d27a1a82d8743bc41a392ad57ee234d2e2954c9",
+      "text": ", or the agent reaches for it on its own when you're creating or editing a skill, or modifying",
+      "hash": "2ffaa6ba37e265a05188d8d108e4f0e315e90a30970f74d8638628a3895835c5"
+    },
+    {
+      "id": "3d1a94bad029ea70639f3d328353c58882ec5b2b67544b02fb872e4e8ab2fcf2",
+      "text": "Reach for it by hand for everything else an agent reads: your docs, specs and",
+      "hash": "22da532c3cea93ab83c361752a72607625f9a0f366d38fa7eecc134d690afbce"
+    },
+    {
+      "id": "18dab63982c03ffe664ad2b2d53827d03e5ec88adef63163b1b44b1e9d305097",
+      "text": ", system and",
+      "hash": "fe0c0a682254882a3b20a99d19c6479a7a0ab2c07679bebf4d03ee1b88c516c1"
+    },
+    {
+      "id": "5db472d2318b4f8539d5eaaf8e81a597a6760a3880195fcaef55fa0280754edf",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "607bf6debe3399a46d3996c68a1b511e0a2a86a8af327c1e80970b1bde697611",
+      "text": "prompts. The test is one question — does an agent read this? — and it does not matter how the document gets in front of it, whether a pointer names it, a human pastes it, or it simply sits in the repo. For working out what a codebase actually contains in the first place, use",
+      "hash": "4b486de3c0da3d3a28f66e8869b5b53eda65e9d24b369ec975a1c74caad505f0"
+    },
+    {
+      "id": "bc5d70bb660af8b480043cb69c2078a400f78174e48849f352c09433d38474ac",
+      "text": "— this reference governs how a document reads, not what it knows.",
+      "hash": "983ce9a1580e00bfd00ac9e50fe13334e675afed40000851b692f8b5dc18279b"
+    },
+    {
+      "id": "a2732ebc22324b7a88c5590c1b3cbb834b32cd0d0bb5663715dd80fc376865f3",
+      "text": "The idea the whole reference turns on is a pair of budgets every document and pointer spends:",
+      "hash": "91ceb692726853fc25c74091443100d9d8a772985759b38fe1da09ec0f5a1927"
+    },
+    {
+      "id": "b5b13e275c2b5ca0b6c4a16744d53bdc3653f2c14c066e353b31765d3297ae9c",
+      "text": "Context load",
+      "hash": "f01a3333116c902cfbd0bdaf75dc373444859abdb9adf0169a5572a658dfef55"
+    },
+    {
+      "id": "2014d12221c7f4ada47706de0f433792ccc11e7cb6d48da6ce9139fd2c43f6ac",
+      "text": "— the cost of always-loaded material on the agent's window: an",
+      "hash": "a6d30f8b546b01acfbcb572f001690a3c0360f941afbccf7cfbadccfa6670e33"
+    },
+    {
+      "id": "07daa5eeceec8516cc04bf45dc71b075281d103ff346b60a3becbf1b6a97b5d1",
+      "text": "line, a skill description, anything sitting in context every",
+      "hash": "421fb28230e5c2bfc2f634762d136221e1ac84a80f91d8710337cd7973160c60"
+    },
+    {
+      "id": "52a94333bae3363388d201ae578829d977bc86e3150b14bf606737d871b24bb1",
+      "text": "whether or not it fires.",
+      "hash": "ae71d5e5f6300ca84b784d1a3c198b3e53a476b69eee53a90c7285921d4b64da"
+    },
+    {
+      "id": "a2ce7018c171a86c4facbb0bceaf1a93913a6ea5deb3f85349e8809aad2de8de",
+      "text": "Cognitive load",
+      "hash": "b0ebbc747cf45e9ebaf8ed55dba1e16b03026cd46122d7e21283f919fe49ab63"
+    },
+    {
+      "id": "26f525ca5121d4e7020ddf3d84bd9189d41008e379575270cd18faeb05124124",
+      "text": "— the cost on you: which documents exist, and when to reach for each. You are the index. Not a cost to minimise — it is the price of human agency.",
+      "hash": "0bd4c140c1322c30bfbf432a3952e395ac58a1988128c3d91e4b34cdb1f13517"
+    },
+    {
+      "id": "cfb031be036aa94e53982446832093ce8067aaeb0840600d4eb345131cb56657",
+      "text": "Once you think in these two loads, most authoring decisions — split or don't, inline or disclose, point or push — become the same trade made in different places.",
+      "hash": "23430ea93957c8618e739101f26336e8c99d147b6966912281edccadfe8f379e"
+    },
+    {
+      "id": "0c3279ade5170bc3b22c01c3235480772bde1122dc8d4e717ba596bb86ef92bb",
+      "text": "Context pointers",
+      "hash": "fc08dc634b7b04cec4831be16967716c4b8983563fba3ea3d58c18bfb7d1d022"
+    },
+    {
+      "id": "45a473189960ecfc70f8277dd9b4e929668288341f328d13a74237bbdeda035e",
+      "text": "— the reference held in context that names out-of-context material and encodes when to reach it. A skill description and an",
+      "hash": "dce16e9b4440761b9a360ff762fbc1a9d9af6cbf1392c718ddb98552bfd4da17"
+    },
+    {
+      "id": "df6de663ddf9812fd46cab6331821ce2bd512cb490b4271364956bfb245543a2",
+      "text": "line naming a doc are the same object; the pointer's",
+      "hash": "1eefd1b21fa3a5f4395e5e0d5d370b5dcc2ce380d13aeed157f18489326baf1e"
+    },
+    {
+      "id": "2eaff968930017eb8453c992b2fc2eaa00c082f61bee769cf63da530e8534cdc",
+      "text": ", not its target, decides how reliably the agent reaches through it.",
+      "hash": "7da5b322a98df911826a2da6c9f062317267daf2b9f4e8d929df1d061a4f3dda"
+    },
+    {
+      "id": "a167a226b0eb6d3b7ca96d215374518d64d23bd6a50e82230a9527af6c0fcceb",
+      "text": "Information hierarchy",
+      "hash": "7964658e151dc3c6c3e6c03d7e9ea71bf12953eb8651ee4b5c44bb05aa859630"
+    },
+    {
+      "id": "2ff9e7554cef841cf348941900f6011c202c54734234f806fcaba2eefbce627a",
+      "text": "— the ladder from in-file step, to in-file reference, to disclosed reference behind a pointer.",
+      "hash": "997eb7a9c9762f63555a4680a4269848a9d400a8666a7114ee5003b75828e643"
+    },
+    {
+      "id": "a4bcf49a29c89c323cf49599c205ed675007aebaff22005419ba3359e865b77b",
+      "text": "Progressive disclosure",
+      "hash": "cc1b70611c98675e8e42c8d6246c2f13f869540b48c6abd18713bd25ecc7611b"
+    },
+    {
+      "id": "b24b22ecd5ceb8b8f734ececa70259ffd0f17f6bfd406d6997ebee3d5e29d678",
+      "text": "is the move down that ladder so the top stays legible.",
+      "hash": "709cfe113da44d03051e7379a20b12550119624512b39b81c8da44d923656ca1"
+    },
+    {
+      "id": "ee2a04b046f77cdbfe9fae06bb253e6169f77ffc64a08957aa991ee963fa37cd",
+      "text": "Completion criteria",
+      "hash": "74382a22fa1f728fa15ed021e55aaa874a4c90e2c95c2e8667363cb196028d61"
+    },
+    {
+      "id": "b3b4769b6d5ecad3c40e37e34dccc0ec449e2398f1d8b4f7c453a8c97049cce1",
+      "text": "— the clarity and demand of each step's done-condition, and the",
+      "hash": "d8a47b95127b7ce38f4293b3bc0dc91c777e42e2df129b9141ee8a5da73f2449"
+    },
+    {
+      "id": "e974d70fe221ae7b8248584d52aadff7e3b085dd4d181f873fa4aba4e27914e9",
+      "text": "that demand drives; the defence against",
+      "hash": "7e748df1b46f90de6ae3d7df3f2088c9f3894240f13468ce12390d49ce31c3c4"
+    },
+    {
+      "id": "6398bb50a5574f58b1b7451d42bc5f7894e66d7a94d1e0127eb3b940fd99b2d9",
+      "text": "premature completion",
+      "hash": "8819840205f620141e1e1907a56049f7e45561df558cb5a2aa2b5df2f78dcb16"
+    },
+    {
+      "id": "07fefbd0e3362c75db1e6944839013bee2c27e0ded4bf703e10aec955129361c",
+      "text": "Leading words",
+      "hash": "6d99f6a3056ea3baacd81ae010a77139073ad76a5d4cbeb1cd9540fa965093ac"
+    },
+    {
+      "id": "26a2eb8e17d6b5024a8e6c48ffeafc8f2ace771cbc93ca7faf3d03e4fa7d0e5f",
+      "text": "— a compact concept already in the model's pretraining (",
+      "hash": "1e08220133a4ecfe6e23d96ad19cb8de88c58baa0a56c00f4fa564c83bc719cc"
+    },
+    {
+      "id": "2fd270cb259b1e1266f0277856f2d46c2baf302fdf7bb069b3bee943bebd0ef3",
+      "text": "tracer bullet",
+      "hash": "393b6f6cdab8e06443785e4d4fbf204c578903ead2aa26ebb26d7d2707ed25d7"
+    },
+    {
+      "id": "310f8ce297da4057303306eb149c3a29bbfcb5ffca780a12ed12950cbbd81e2d",
+      "text": ") that the agent thinks with while running the document. It anchors twice: execution in the body, invocation in the pointer.",
+      "hash": "cbdb4aaef51ef5bddfa9d14d8fa1d8cead94b833a3056d3b78bd6bd3159a39d6"
+    },
+    {
+      "id": "a302d2f62ce5289d43efabcf6560391b260f35816b68ea22c40c158e62098f40",
+      "text": "Pruning",
+      "hash": "01a12581dcd0c86a0c17d8f1a94117e0b10c804446ada33b935d6eb0883f2510"
+    },
+    {
+      "id": "0e3281f49913cd9a296e7681b1a34d325cc06fe7b5045dedac871fcb0b0a9a20",
+      "text": "— single source of truth, relevance, and the no-op test applied sentence by sentence, against",
+      "hash": "ce00a68f0267fdabf125c2f8b956cfa82ef0c1f39efb8aa517b377edd8e3b0d9"
+    },
+    {
+      "id": "af643f21b7fd7f3656d8f88405694ce525aa6dddf81b800da9c72324b654d600",
+      "text": "Where did",
+      "hash": "0cb2ce3ee597de967c6f15abd2b6cf1742a261775ebd1bad8e58977c9690b5d8"
+    },
+    {
+      "id": "9f2a3d9be3cf6e1040f2db47d791779d96b6085710034a4815bf3c69b4c4df82",
+      "text": "go?",
+      "hash": "a8074eba17565ade3d3787352b3e64ce5b3445d3610ca952afaff2557e593dbd"
+    },
+    {
+      "id": "f52584033457b0601c54647cc9f9dce74b717d5a0bb82142e70b30e4546b5b2b",
+      "text": "It is this skill, renamed in v1.1. Practitioners were already pointing it at",
+      "hash": "3fe553a78abbadb8b11c6b81de6202276a78c401c03ef94b44e32f72d172caa4"
+    },
+    {
+      "id": "77485c7546cea5963c758cd445892cbaa438c7ac2a5baba35d44c635b9407351",
+      "text": ", docs, specs, tickets and runtime prompts long before the name caught up; structure, leading words and pruning turn out to be the craft of any text an agent reads. There is no alias — reinstall under the new name.",
+      "hash": "e17facceb7f2448a1005edfe4350e896281055677274230156f9b16aae2f8b33"
+    },
+    {
+      "id": "f2a8f6d91cd9c6ce0cff91f3ea1624a1aab6c836b771f8a910000418c7f825d7",
+      "text": "\"Writing for agents\" — so the agent does the writing?",
+      "hash": "39e110b4e82c64932f198826a50a8a3f508d08b0a5c3459b177395bf52ae7583"
+    },
+    {
+      "id": "91315ff7e9ba4b8c5a84ff38fbe3ff50098314e25c3c08b34f17ca19a4893886",
+      "text": "The other way round. You are the author; the agent is the reader. That is the whole difficulty of the genre: you are writing for a reader who has already read everything, so explanation is waste and precision is the entire job.",
+      "hash": "d02a88f6237fc83d194d7b17a648797ab3374455a47e480cb414dce9257bbed7"
+    },
+    {
+      "id": "edd4e1b4852772e45dd71cf6c812e9c46766cf446e445e1ecdfb238f106cc92f",
+      "text": "Can't I just ask the agent to write it for me?",
+      "hash": "b2c0a080a5d82ca749e19f044ab6e93d25e52ff47f57e622d145fb2940f948ee"
+    },
+    {
+      "id": "0559f91281ff46da2f792c86bdfc9bc660416ddd49bb9d9f644d9719504640e5",
+      "text": "You can, and it will produce something verbose. Left alone the model explains what it already knows, and it will not apply the no-op test or reach for a leading word on its own. Use the reference on the draft — a review pass is where most of its value lands.",
+      "hash": "21eac231f6986b6a6273fa143d898230aba726551b85ec77618983e1f72f1881"
+    },
+    {
+      "id": "b1e5b3833bc8171896658fa34e5d2d71977f4157dcfcf5b9076fbde227583654",
+      "text": "I asked an agent to trim a document and it cut the functionality.",
+      "hash": "664110af174458a3b0d941a699cb86868086fff2534ae653d7871258ccf787e7"
+    },
+    {
+      "id": "15dac546ebf41c6d450efc3f77fc2ded8a4b55614a3fd923ca51c85efbf03d3e",
+      "text": "Agents told to \"streamline\" optimise for length, because length is the thing they can see. The no-op test is behavioural, not aesthetic: delete the line and ask whether the agent's behaviour changed. When a sentence fails, delete the whole sentence rather than trim words from it — and settle a disagreement about it by running the document, not by arguing.",
+      "hash": "4fe78cc4727e72165b940d2a3cf6c61826b6085dbe604bdacb97cb58e85adefe"
+    },
+    {
+      "id": "2749cbecdf30a137c1b29a47fc438dc75392c89bd9b3656ba1627cda92f3654f",
+      "text": "How do I know when it's done?",
+      "hash": "aea010a0fa3e4d4aab5f294640e09ea6a143ff0215ba7266bbb71d7bd9fd4edd"
+    },
+    {
+      "id": "545552331a00ab70a3dd2ab90135035d1aba20258a74768000d4e7f620c2e6fd",
+      "text": "When it works, and you can no longer find duplication, sediment or no-ops. There is no automated eval here; the check is a manual run plus the failure-mode vocabulary as a diagnostic. When a document misbehaves, that vocabulary is also the repair kit — name the failure mode first, then fix that.",
+      "hash": "86efb64161cf3138c0a212fd22761449236b2886b1ddffb15eb66f27230a7e28"
+    },
+    {
+      "id": "32c02273bc0f92b4968c047db2d9bd1803ac89ef343df590995519fa5307bf88",
+      "text": "Should this live in",
+      "hash": "7ab795385ad52f4200e2446027e5cbf0c1c6234663d2567856af84f4a9f0ffd1"
+    },
+    {
+      "id": "1f0f1ea65dea9243daf16378265a21869d88dc755d81bc1c37701167edb6f368",
+      "text": "or somewhere else?",
+      "hash": "a2a15a17cc8ebf9103c2fdbf6fad32cc6bae851d89ddea6717284b727449ea70"
+    },
+    {
+      "id": "1ad97aa947977cdf4905bf620f82bb12725f1aad1dc56f5aa5241e4bd01a5025",
+      "text": "Ask which load you want to pay.",
+      "hash": "1df3e2e68237335f3a328e800137c67fbe055f3daed1cb7f47af231f1a580412"
+    },
+    {
+      "id": "ba4ae5e05e248be898edff32683f92c9c96c6bf2bdae94c2f1a0d4cf9fb82703",
+      "text": "loads into every",
+      "hash": "588e1484535ef6d7bb13305186f7e99b50fd50cb81f2be31178b97794ddef92d"
+    },
+    {
+      "id": "0dcf6ff9b45b5983a6bf2825aa012e943a8065bde352c7b7e9ca6ba2926998af",
+      "text": "unconditionally; material behind a pointer costs only the pointer's own line until it fires. Anything that applies in one context out of ten is paying context load the nine other times.",
+      "hash": "6ea497f119d9e0c01964746ada936794a0dd324112a61cee2ffd9e40aabbb5bb"
+    },
+    {
+      "id": "fa6e1fb7ee4040cc79b0203de20949de80c73f996f2d68a2fe035aa52c4345de",
+      "text": "Do I need to rewrite my documents for each new model?",
+      "hash": "70d49029496edbabe63e2a0e5589ca78d31a212ef907d257c780976efd502a34"
+    },
+    {
+      "id": "f1d2e494e7046d22c4306498f27c56ef7a682a3b622881cc8094491c01b29575",
+      "text": "Mostly no, and over-fitting to one model is its own trap. Updating for a new model is usually another no-op pass rather than a rewrite.",
+      "hash": "4dc746a364afd4a814437a9c917559c5d2c95c26511eab704262b698ff985351"
+    },
+    {
+      "id": "6fffbdea5c2765c5e9c50ab80425e9715d61e769dd54237973982b2069bbaf3b",
+      "text": "My skill only works on the exact task I built it from.",
+      "hash": "2b88ea871f0596b4cf2f130832c688d03c677f5945fa49e4d6366714f6aea45f"
+    },
+    {
+      "id": "330b997c7a34424f01aa84721c069bf9128afd8defb0f673a5798874ca3e8c14",
+      "text": "The common route — do the work once, then have the agent write it up as a skill — over-indexes on that one run, and the exemplars come out too specific. Keep the run as evidence, then abstract deliberately: strip what belonged to that repo and those files, and write for the class of task.",
+      "hash": "841f6d59f6df509abe63a3dabe326f89a7e48e3444da501cf8fdf17b6ede5602"
+    },
+    {
+      "id": "dc06b2f9477e91db2bca5189b5c5bc1a9e3d3d14e3534f5de3b05f5203b3d183",
+      "text": "English isn't my first language. Do I lose the leading-word advantage?",
+      "hash": "a914247fac3b185f7811008d6931c29ea9180bee2874ea5edd26a7a4f387ebd4"
+    },
+    {
+      "id": "c9873883d1835edbb14cbd21da12a990b49252846dca7897e8aab48bd4b591a7",
+      "text": "No — finding the word that packs the most behaviour into the fewest",
+      "hash": "19c8aa0f36daefcfa2a73e2eb753bd0e3094de58cee00cd162bac05996aa6d43"
+    },
+    {
+      "id": "7432f76baecd1b46039331d7f4558f9a1eaaaf65227cd9d3687ac90d441d79cc",
+      "text": "is work the reference does for you. It is one of the things it is for.",
+      "hash": "095d33b32a739154a146832383eec9fa09be48d5ec0a8ebef53b21e733428747"
+    },
+    {
+      "id": "387133f66a3334da2a5c889320b3b6168d5bb8183ec7c0b471d9f34e1c5069c3",
+      "text": "The document gets shorter as it gets better, and you are surprised how little is left.",
+      "hash": "77608935e69453aa847daca06c6c6eff565ad675fef53ebdac1737895b45a995"
+    },
+    {
+      "id": "ce3df9d8d638ca109a33920e89dd93425b03c1fba54b657c11a67fb18f2b37bf",
+      "text": "You can point at a leading word and watch it doing work in more than one place.",
+      "hash": "4abddfd91ce4c7a74b5e5ddf7ea7e90979190933700c5181615c84d6d5abc84a"
+    },
+    {
+      "id": "9fdd2cfd7a649800fc89e8043b8ecf75b87110319b8192eb7b9a67b6c0667181",
+      "text": "Nothing is stated twice, in any form. Duplication is the most reliable sign a document was never tested.",
+      "hash": "372b3bbf9b8691367b4a883596450b1796ac25019cffb7ef94e3fec59e91e839"
+    },
+    {
+      "id": "14cc189d2fe67b1c65100b796499d95682bb55e43493a7b73bc584359bd900c4",
+      "text": "Reference that only one branch needs sits behind a pointer rather than in the main file.",
+      "hash": "90e9c1c044e9237da2e28020037804f82a90e57351f965ca438d292b17d73525"
+    },
+    {
+      "id": "1937eb4f8526e5656cdcf4c6f0e84294e2298ddeb369b8dbbdd2668677f256d5",
+      "text": "This is a reach-for-it-anytime standalone reference. It has no neighbour in the chain because it sits underneath the whole set rather than beside any one skill: every skill here was written against it, and the documents the other skills leave behind — a",
+      "hash": "6c51cc97acbda3818245d6deb1fa588599ce16eebd0b49436bf8a90ca1f1657f"
+    },
+    {
+      "id": "b3055d5fc80832dd87c4f3bbeac7ff12832101013e079448be3569db793a1815",
+      "text": "and its ADRs, a spec, a ticket — are exactly the text it governs once an agent has to read them. When you're unsure which skill or flow fits a task,",
+      "hash": "46026ab9a76ec4612668f6af356ba189a7171749d495f3d699f65168ff582cc4"
+    },
+    {
+      "id": "389e3ef3d9947552a4ee2964047768bc9f9af502ecdb7486698239f7afd95642",
+      "text": "routes you over the whole set.",
+      "hash": "c9f618706ecab708e274534db3c3664077c6d7574ba87aeed5ad9a7e2b153296"
+    },
+    {
+      "id": "469c1fc059f9a0ec6b2ccd7fce925b22a80320b94cac2d157554159f9ebd3065",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "043a16e80bceac46804829a52f1ff495dbe40a31889566120ffab5fc723565a6",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "100515d293fe1ad0ba0758015770255704056d84980d34aa4758fd089c693b6e",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "04dd3ce2d3a9cd6b8a80aa3b48ef590addfe3f7c5fa34f4081fb24682d831e89",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "885bb7439e6ad0d559b8b07c688b660ebc776afd253236b57841852e4f5e3cb5",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "50c28c3d117173dd88426b3b2031a765295e8daea4658a643809383d57c6532b",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "247f994cef98f141aadbfdc2f152b48c09b26da08396433da8b8c5205f79cf5c",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "6ef0fee8057ec9e1d922a36537a41e47da7d3d94d832dde7c75a754edc75a13f",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "8353aeed56c41bc243b479f140d273ad808544d2029fa4a72b9ddbd359678854",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "e5dc4b233c3f27e51d4ac6845adf082bbe0dd2b0d79266eca416630251d07bba",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "134e8ae1daed3dfaabb7375b6e9cf35814405addfa20241e81e7c689040b240f",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "92113eac24b864eef19dd5d8cac2413c4e597274c9ac426d642dce25076253f2",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "35ed644ae5a5ea013fc5f8769412190a202a069d83fd50394d2795605e52c2c2",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "0c6d348ad081fae9b24db9c5f2d6f8a27a945eacbef94d2dc79a54da8ed3d8d5",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "0f562bfeb77bab05bee839a9f5ed1b7ecd20b7be218dddd803eb77234404ddf5",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "89418e2523d165509417ba526abdd03f565004a29cfa35e6930728034bcb0f8b",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "f48bacf5c9b5a690e920cfa146d4b8e0dbc54a19cfe1a1b22c48a1a40ad41539",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "b36e402fb6f815c563d828bce690ab2d0283f98e925da40dc4735e6ab37798f2",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "0c3f208e302b56aad32ad6bd4924e695b8be072e9dece54e6650013e32c7c070",
+      "text": "The /codebase-design Skill",
+      "hash": "51bb7c310f0738596f89fd052f1aad809c7bf9022eda80f5040c899abf348c99"
+    },
+    {
+      "id": "da0e0826387652788829afb801825187d611ae892d8f0dd273622283232be8f5",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "36e4c7a15a951f0e501ff9ac86f432a3b87fa146de663cdf5b79f166afde8cbe",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "836dd145309d46af822c125289c5605d3ec5e0da344b7b3c65bc670cbb1021dd",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "606267b7d16dc12f9c14fb39b279fe5a46610e00737f9a0938935d509a28b203",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "7e53e28a1b0d258fcdc275cd5bdcffa95e73a8145dac8aab9a6ca9f03b4432d6",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b89e1899978ff5dd42964e87b9619b34da82d22e81dce64225495a2b8749575f",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "4848172ebd03e44d48ef91b8e3c0594204a41ad380f596108915ab0357ead5a0",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "1b3ddfe7643e7b8231b433cd9d5492505bbd1627f97a51e02921423a24a4814e",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "cb83638468a446b69325f52471be7a1449d6cdf0ac4ca3f183256a1bdc313f9d",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "e1f83f6084b1f3b8ddb6ddc6f78cc2d6ef3b7f069e900be89293f2f4a0f81d3c",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "261b2ebe28170f87e43302068b1ee16e675c7580d3eb4f59de3985346dfdd23b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "52e79f740ae078105375dfd2837ae9b0ffd594c09ca1f6fa411f0b82ed95967c",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "f356d964ebd11ddd90d6600f1d179f9e403b6ab80e129df50a7786438269a063",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "d17c13aa98a406ed7ac00180ddc3b3cf99266ec027dc47183747a75561f2b88f",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "064a55929e69acee6b8a4996be6bb5a673a019d173e38e0fd6042616b5725161",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d18895d352255e0802d842555229aa3af687201aae49533d2ce78770bf8af1b9",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "c2939cfab05c43564c26e22166034f0d352b4677cb717170535cec854fbba0ef",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "d1fe624bbc6b9dbc0144281c3232be69ce7c45f548f9accac2aff8d27c287462",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "6b6afc83465ef64c8b1d710d55b6dc2a745f790af272300017586f32dcc7cc97",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f08589f3e59664535030c52cd634e9ffafb9f67cb5fc745884ba39a680324fc2",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "b83ed3634bc8eeaeb841edb856fb39cf3ca12a37eaf3ea3628fc012aa994b158",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "9ce3859bae931a014ac0459cae59a0c48d7fc74e70766af8b16974750d2a7bc2",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "f65645cc6d45fa95894d99f61dfbe74ef9ca6ceadfcbe761dfac51ffeddc6ad7",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"dalelky6m1762m\"",
+  "lastModified": null
+}

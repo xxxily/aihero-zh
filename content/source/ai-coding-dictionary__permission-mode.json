@@ -1,0 +1,443 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/permission-mode",
+  "pathname": "/ai-coding-dictionary/permission-mode",
+  "fetchedAt": "2026-08-11T06:28:35.643Z",
+  "title": "Permission mode | AI Coding Dictionary",
+  "contentHash": "0eb315030927c4a488fce248e26ecd42d99696d528839bf17f7de00b49a6a39a",
+  "textHash": "72cb4883ffbc268a9014af6b9091cc3b1fdd30b90d4b8fe3cd45d93a979f8709",
+  "strings": [
+    {
+      "id": "78929fafeba9a4d10719c3fae1e1fc73c4c9ed5c9596a103b57245dd84c77985",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "54c636b21bae32f59037f65ed2a181edeec189fd85e03dea2850cb9bd5b33d8e",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "0f425ed64608efd28ff6b9617b41c1ace1a20449e669cfe25fe7de485a37ed69",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "c5d9e29bc994b864cac3fdee21ac1d67a8397b390e05ddcb38a3ad78c86221cf",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b48faab85959d926130e7cceca638d3968127a4d6eb987574e0bfcda1b5cdb53",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "6739c8cc3870077686d7c5e855ccf1f29603a38c8d45283a59b2b5f6e4f49883",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "dc9d67a47f48a11499ba5ee328cf1a5f955e479d3173df608a032614f0b3f5c0",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "7561af085b588b95535408bcaec17eb50088581d65c5c19e70f7a4d0d0599b54",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "e04c4ed2277c0e5a3aff96e07505335e7f5abd151e4ff7325838625a89606491",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "3c6333b5578b7aee9b5c9a7cd1d693d4255d18e6397760eb0368b55c1493dad1",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "8f3f937c0089794f77842eae40bf3f70be6c17b8f684f31be724a7c974801f60",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ec16d0d49e56a6971a9f37ed82bb219963b9827fb07b6ec96434b12a53d70a00",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "882df2afe70c648147e1a26810f3edeaf2ee84e78f4d85877ef8ab89957fded6",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "d049a32f55b6fbfc96492cb6790652fdad5d121008637dbc7bf036140ab55afd",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "816e91009b0233298304b6dd20cfaaa95dda69dc9bb856a1539102a459e08fa2",
+      "text": "Tools & Environment",
+      "hash": "cf9194302814cf2bb2ae04f0e1023fec3d18acdc5258a0e00c18bb7df366cf00"
+    },
+    {
+      "id": "e627f3ebfe4580da5fc50e9b21a8f5ab75237a15b401144c23b6815ef08a790e",
+      "text": "Permission mode",
+      "hash": "c7a8e6db5cbb4c7180dc0a588ac85d4c5e98d7d9f5b92c87bd146758e6023463"
+    },
+    {
+      "id": "57b9eef2eb621e9acf23fc2784c6c116dacdb6c39ca54f098e9fd43fb441fb42",
+      "text": "The permission-gating slice of an agent mode — which tool calls trigger a permission request and which run automatically.",
+      "hash": "65f78d889a7386860dcc1a452dd895d9f68b6d347db12f22d38ef3e4f50cdfef"
+    },
+    {
+      "id": "5150627a01ae72a208bd2b1700eedc3561d6aef130f11d3c8babc7915cccf40d",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "5d5f52468f8ed574456db30a3614d76069c18c78e58d6d572af591c7c165f01b",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "59d26b69eb850cb7c6454619eef2823f2e0b93ebf85bb806e455dcbeefde070f",
+      "text": "The permission-gating slice of an",
+      "hash": "3511cde9252d3c3b8c06465538542d383d74b461125997568ce4cdd58b11a3e1"
+    },
+    {
+      "id": "ee8756417a5258e16a0057c6bc6599e02c44829771197b31a1b07eaacc51d819",
+      "text": "agent mode",
+      "hash": "dc977367e8bed28d77918080271e3d45044d91fc14135e54e7282cdcd4eb7042"
+    },
+    {
+      "id": "ca0e3a1af2e06b25f29fc329c68d0f8fb0a9717d4bbcac57824a898b446402da",
+      "text": "— which",
+      "hash": "c9c361bb6b0ed36f68a4817a81f41d28aa1110c50137a06e74f1b79ea98a67c6"
+    },
+    {
+      "id": "db830cbb8db74b8dc8686b203fff041b8ee2c47588c934b784b8da410e84c61d",
+      "text": "tool calls",
+      "hash": "b102cdc6032df9ca67169a6d620fba86a9b0344b8dab71565a5b230deadb5e68"
+    },
+    {
+      "id": "20fe5673ba032dd2a9eb1861781687170eab8cc00631cfc3ac6650a0ac73f076",
+      "text": "trigger a",
+      "hash": "3f4abfaef6a0393fd19103047ba060db954a767273d166d733e085cf26933b40"
+    },
+    {
+      "id": "97ad6bde1831aa1f3a4993d9a0e03a8dfb008ba7be9886cbba1060f2d363791b",
+      "text": "permission request",
+      "hash": "6d1cb846563c26176b664aa8cb40c3812133fcb2e085df730453168a1e7632ca"
+    },
+    {
+      "id": "8a73e483381b7a75ce0bb225e45c32c1fc29f6952fd7212183c2e7d98a0f518c",
+      "text": "and which run automatically. The original purpose of mode systems before",
+      "hash": "374765534fe192c91b09a9633a06f30da1c7a0a73f03384b01ad769e11da3634"
+    },
+    {
+      "id": "373b270f5f307936443f5ede9aacd9a1f607ada6c871be3cc2aca0745e3cb97b",
+      "text": "started bundling behavioral instructions on top.",
+      "hash": "557728312b8f8d9ea48e4126ef465972b5b773df29054a256ce56de1b849e650"
+    },
+    {
+      "id": "dee29a77700666fbf21050a341182f89975439e8a4b01b17f6ed9eccc56b37a9",
+      "text": "Harnesses ship a ladder of these modes:",
+      "hash": "52d03e649aceb3447d39e8ee8c1baf5c755cb64b379c82849f1ea397549c062f"
+    },
+    {
+      "id": "ac00e0b8d9666e9bbd9a2db3c6823d38b04ae88b6842e8ae06ae3f64c49066c3",
+      "text": "Mode",
+      "hash": "5e23ec6a300dc60a79641769017e16e9bf042cbd8fd0a54586a048ab9da972ff"
+    },
+    {
+      "id": "160c92dcacaa3e2a51bb0e6677124b3dae494ed7b79ccad30107457d26144441",
+      "text": "Reads",
+      "hash": "7f3e8bf052d3900e743f7c670197f168ae3649c08144c8cc39c7d666a5f0b92f"
+    },
+    {
+      "id": "ab616571ca6cc0fffdaab1a4aecc3da61051a46acbdee4768933787687695904",
+      "text": "Writes & shell",
+      "hash": "4e22f760cefeff363939e978e0a6fe08e80c5afffbdfb75f4463de80cdde6569"
+    },
+    {
+      "id": "2b7eb1a71a2f1487fc29b6ee718f1e692df3b782da35e9d84c0c5bb18baf0973",
+      "text": "Typical use",
+      "hash": "4c057cef9f41cdf7718ab91446dad267199e6e0eae2e9e929201f59ef1ee70a8"
+    },
+    {
+      "id": "7609b7573076d56aa897182726f199468b6c43a536d7869f6468908460dcceda",
+      "text": "Read-only / plan",
+      "hash": "62f5f15660ed9a0d8597084e3f50939c82e0fb954dfcc4cf1762f86aa966a203"
+    },
+    {
+      "id": "8b1d914304a70e8dce72edc9c6833e265d8ff546d91eb403605a760e5e38c331",
+      "text": "Auto",
+      "hash": "0286249762f7c94349cdc0ba3bb2255baf9a80036e2193ead1d77696f888582f"
+    },
+    {
+      "id": "9d480cdb879f9bd1e125e056e9a6b680858b9da7ba830da1629918995ab56677",
+      "text": "Blocked",
+      "hash": "18f2a0947f9d6523991b29b450307f22773f57d65f7efb98d48a167df04d6b1d"
+    },
+    {
+      "id": "a19952ae67fa4a8d2b24efca9dbf368fbafff3016320954c462d848451e78124",
+      "text": "Research, planning, reviewing",
+      "hash": "f98d58a7d05050d90d2e9ac99a8dc8ff5dab9a2cdce3cc412ab10731bed2f836"
+    },
+    {
+      "id": "98609646d099fbbb01bd8a463151e3cfdc7f74e07395ce0f5ec6a2753f3383d5",
+      "text": "Default",
+      "hash": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d"
+    },
+    {
+      "id": "46ee362fa9a61d76d6c38f1d47f8f4991612e6e589e4b02e164cbd2df73db370",
+      "text": "Ask",
+      "hash": "b8c209cdead61a095ec097b7a13c4fc9264c04b3e3bd0fca42ec8dbaeebeeafe"
+    },
+    {
+      "id": "70afd8c29cce0c7233120af51bb6af239e55964a88b0334ca4f5b26afc75ee17",
+      "text": "Day-to-day supervised work",
+      "hash": "1568dde4673a0f062aee4150ad8bb8bb332a9c8477996ebd305b05f086bf20c9"
+    },
+    {
+      "id": "4fda879d45fb1300bd0d9e0125e0c4ec1b3ac59e6a1a6699930b4aeaa68bb124",
+      "text": "Auto-edit",
+      "hash": "44758d541d61a43551433f0688493e096b896e21e86857babbe49fe2913a47b8"
+    },
+    {
+      "id": "5f6f9375d528c1d2c66e12393c7f592a7b7cf29ff8124819f3f360cc76117dd5",
+      "text": "Edits auto, shell asks",
+      "hash": "95c6d01a6fbf76324d504e8f68f61e5125b791cf375fa22f8fd065cf2a016c3b"
+    },
+    {
+      "id": "68a4b8d9e463234b698ca860d8435e512780503dbbb3ae11af32361ca0e5a875",
+      "text": "Trusted repos, mechanical changes",
+      "hash": "2c763e7e4f41246e0037ac59976289cd1dfeb0c5700077c3ce3837de0b0febf3"
+    },
+    {
+      "id": "f3889761546f11593eb323b6fb44a873d9bb50a8441e2f5bade6a3294293d3f5",
+      "text": "\"Yolo\" / full-auto",
+      "hash": "ea382fa0de746d48129403ea348c4347e4471cad8fea9a160062f0780550e0b6"
+    },
+    {
+      "id": "4f9abb26cca696c27af14ab88b31b88b4ed3c0879509e1549a62657b359003f0",
+      "text": "Sandboxes",
+      "hash": "3f2c01e07be567a1fe1823b0a5aca97f630e21bd4ab72ec870add03b12f8deb6"
+    },
+    {
+      "id": "582c6115a69da6d0cbbb29c89ee2d283f63f5c1db0b9ecef4df7985a0db68c1c",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "abd2cfcda742888405288de26ef5898766f3025521922a65bd40e8eb4f0a3fa0",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "24ec3ad13cd16eb9032c724b14a5ee8f6609e2779b7c2f0709b87e7d2827bbb2",
+      "text": "Choosing a rung is a trade between safety and interruption, and both failure modes are felt. Too tight, and you become the bottleneck: the",
+      "hash": "34a238079dba872ba77ad3c353d06bcd1943a006e5ad3776a19101a1a7b0f8cb"
+    },
+    {
+      "id": "c7bcab287a5f093254601e91e06c1a157c41f14134aad08a0305764116629864",
+      "text": "stops every few seconds for harmless reads, you click approve on autopilot, and the approvals stop meaning anything — rubber-stamping is the worst of both worlds, all the interruption with none of the protection. Too loose, and the agent edits files and runs commands you'd have wanted to see first.",
+      "hash": "ba01414f728d23c469f0687e706e268769eb932287e49f7526bd0c65cec72df3"
+    },
+    {
+      "id": "ed27b3f5216480bce30cd31cfdfe3522d38fd33b5774a81ee42e8cf926e41af6",
+      "text": "The loose end is most defensible inside a sandbox, where the blast radius of a bad",
+      "hash": "46004024d86dd3b92ca2d64d1cd881f5f42b6a3bf13b1bc4fe81d0b4fbce1a79"
+    },
+    {
+      "id": "45b80b98e28123f64dc7050175781e100567d810d1beb741ec36804bcf47169b",
+      "text": "call is contained. Outside one, most people settle on auto-approving reads and keeping a",
+      "hash": "0a69af9118678206342e1baf08bdafefe0f0a03755cf680eea025019670e628e"
+    },
+    {
+      "id": "72ef878efc4b2fcddae8222e1e960e85c731b49bd69a4ef29cae063566c2b664",
+      "text": "human in the loop",
+      "hash": "f48b4ff85cbb5107d72b92461131a71f95c4a537fb6af2331c04eda5f7d2b920"
+    },
+    {
+      "id": "f40fcc7994853616daf425cb4ddee8f7a310f023ee088308d0224aa04da0953e",
+      "text": "for anything irreversible.",
+      "hash": "3796db45638be7451f387498be1ca07cb06977aeb93aa75ef16e552d90f70d6d"
+    },
+    {
+      "id": "20fcdb400f7d22fb039ce91ab6e871258bafa12c13c763d663520c52c6678475",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "d336b12c37976c4b0826c5135834a7006ad369b5dbba5b4efedaadc6ffdf5925",
+      "text": "\"It paused on every grep — totally killed the AFK run.\"",
+      "hash": "f6bcb57955e1c1516d756854b107a73c446795f363162f8c05f7c0b5340b85ba"
+    },
+    {
+      "id": "da8f97b4ea83cc21a636703eb5ac35ac6859fd00d1dbf7546643e5ceb21477cb",
+      "text": "\"Loosen the permission mode for read-only tools, keep prompting on writes and shell. Most permission requests on a research",
+      "hash": "0592bfdc86c5a143e15c3a8ddeb2423a11f120f1cbe42c982ef2b04b8d3c8845"
+    },
+    {
+      "id": "28cf271f820d4b3c2f327a7a6c492269056319417b5586431a9f8fc02f35d063",
+      "text": "are noise.\"",
+      "hash": "aa07cd6ab5fd3daded6c6446019a5a1ebcc2eccda009d5891127676eaf9c237e"
+    },
+    {
+      "id": "f5272e3c431455a9c1f84119f2c2580c11a1da0e6f646c191a3c4881bf0e5b82",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "70ce2bda2ebc838a218cd02b79746ba8e48ad5024bfb1359cbcaaa03b633e32b",
+      "text": "Permission request",
+      "hash": "93dfd0b5c5d1162c11a79ae6f8bfd7443f2bc1dabf3f8e58791fbd90c0f97fbd"
+    },
+    {
+      "id": "72a244d369672b4b4b345cddc1b76d635676679427d65713d605bf3ab871af9f",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "3385defda68f379d4bebfd52e358d41e1ea627a4b33454ecf19a889d1f0ac73b",
+      "text": "Agent mode",
+      "hash": "7cb0154423f4e208531c0ab32537384bffd7b92ace440743085f715a3a9042b7"
+    },
+    {
+      "id": "9d296b5ef666ee9ce7851851919033da2f1a8189cc2e0a27636c7ab1fb053faa",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "eba4dc73e54aa6428d1c8db5f8e45db135507603bd1ecc66a68834eb841c3c4b",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "8e65272ec2049bea684b31e931e118fa61a538a1e4646e0f87c7074588bcda09",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "d92992fd3e08f71f0c5c1e11dfcdb474a0bb896917d44e9c54164c47d6897117",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "5b9b1ef616c97cabc4a702c1afb794225b8cf2265446d0d12924e15c00372c24",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "705745e9a1de134bae7e6e5b1652df70d75f0815ee78b0105f43573fc8f5502d",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "30a7c9b74d85039ecb652c467a652e3813d55e9e21c9d4cbb8f3de7013fbd6e3",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "614945791b551b549489c6ca64f58b6a034c6c1753809d586a839d619214632e",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "673dccaceab0ca8428846e93722d2d33d4b2bdd0c48490a3887b531fb0d045fe",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "3b05ea16b2c0585d02af3b8e9a332940ffa1a968be65082850c3bb2be48bac77",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "bbec9d01d1e5b468ee07d468ef404363f5fb341b09811638a92ff0171332fe74",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "e3fc274b93871eae13f470e3ed8c505821356111f8ce4eda578ad7105ae70179",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "bdcd75e205a82865b4670310b60945c6a87400ebdab86276b5411932e2ddf704",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "2f5a8cb658632f1635bc2e92398d034c715f662bcf365721fe06a397f8f70df8",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "c877a923a71016835037ab2fe25055af06df03c96fe034bae059fea545886644",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "2fb377da6cf5f7b63e78152ad2574f7453b9efe8c2e04f122efe9e8245f81093",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "5e824e5456f66e80d1b660e0a7843f84f2ce2642ce83491557af1a0eb00a7218",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "88d0bc38a64911ee81a95f064bfbf5ee87aa410605f197ef793612d71b17c426",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "4b9d06fa1eb6e8c03a37f981d8cb5042af0e755eaed8acf247df4f419f3f696d",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "15a19104f4d505e945dc1801916afac712286133fb6ffc6c0c63900eedee7c02",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "f6d7c14e455c571da638f379b5e28044421e8d85f265657b5ca03c655af6221e",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "19f237e27379c939591519ae212f0c80313ffd91b213b1a685c0b983b36e65a0",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "985cbe0e9814547b5db6892ad03658115446eff50ba3005dc335bc0b152b8436",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "7deb97a1a2033f29749a15ec77957bcdd161d1fc24289492801836f2b49ae619",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "e01ae1af570e775f88a32868cd009ed2a1d71aab57ed5b33d81084aa75821c80",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "9e958513932ba41b221de2899e9cd2d062b7dc174a420e17065c969e801c1938",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"qq1u6vi3ie4wos\"",
+  "lastModified": null
+}

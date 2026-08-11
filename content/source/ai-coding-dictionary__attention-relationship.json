@@ -1,0 +1,423 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/attention-relationship",
+  "pathname": "/ai-coding-dictionary/attention-relationship",
+  "fetchedAt": "2026-08-11T06:28:37.054Z",
+  "title": "Attention relationship | AI Coding Dictionary",
+  "contentHash": "7d4b740b6032992acefba1b1ee9fa43a180029413d4f36a4f3373e8e03012d6b",
+  "textHash": "049abe59049615c9028189589d9f0db5cccad08d824b3b274b97d9cecea18528",
+  "strings": [
+    {
+      "id": "e3c115de1d7be2251f10fce956da7310fe4341e6b0de422251efae72678ed214",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "1f08e2247263448ee18557b35be468bf7b4b8624387ac9a5caa4986aa2291012",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "3bbd888c31cef2b921adab33024b7b3c5619edfa874e534ff5edea813e0b564e",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "9ce10525f3680d81326bfd4ab2409436e94f9b5872925ed0e6cea15a1f8a4e81",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "228bb636ac997e435940d757c97b509eb6733b305f0e246463bc336c7e7f9ab2",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "f1e727d9380d6733f780f1bd839b361086142da66bfcfefe442007f7c43940ed",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "adb27f969a804f0677cba181bdb75faa485e09c57ccd0a7af7ed851b3dfcebeb",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "bb77f079db182d054196bf36be86fe2f1821090f865a5344a163f62012451fcf",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "ebf35a9d2f07955786f9e3cd798375b08d22ad69e42c2f26626a3c7d913b91c4",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "529729231c83a537b797c1002998e5660ee020559bde9f4dd530c6b4db3508d5",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "ecdc14c07448769f4d9b003c220cd0ccdf334cf593493263b3a230931986de59",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ea6954b186275cd86bff7240048b22cb52e7817c1c45d399c2dd805c3e19d04b",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "a53879e2d8f4750c6ef49e2a177275c181ea6fd4b7422ed7729e0dc5b09c85d4",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "0dd927c39aa5024485bd6ec7ec477d3de10aa091934fff11b1555bc619f3b55d",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "95942904018484307d4ac7844e9d151746ce4e70b5c4d4e7979002516ac29b64",
+      "text": "Failure Modes",
+      "hash": "2330131b5d9793d4023783aeceb087c7880f12ec9aeb2d9334466709764226a3"
+    },
+    {
+      "id": "be46a6a818dee8f5395f253577dfcc9d7e11e7ac299016f6ef9f697a2744915c",
+      "text": "Attention relationship",
+      "hash": "3326352af9343a5dd603549ddc399a87efaec24216defa5bbbf745688a6eb302"
+    },
+    {
+      "id": "c31389278b462a4596b5904f530dcfe7d1c5bb11cefb37a55584027d6d64802a",
+      "text": "The pairing between two tokens — meaningful pairs influence each other more than unrelated ones. A context of N tokens has ~N² of these.",
+      "hash": "03fe1897b52bf66e386c04a4423768cc576e3260e3bd60e2f8ce1625a9205fd2"
+    },
+    {
+      "id": "0f83901c198ee9405fb2d2627bedad3abf54603a44306b4f748a703c048d0db6",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "10a7cb3ef7cbca24d09f4cfaf78ba2dd74df878e141670f9d0487ae85c89deac",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "ae1f046c68e392dcb4e8a196b7a43b7bc56c677d68158b62e24ba76b790ce6f4",
+      "text": "When predicting each",
+      "hash": "be2623b91e2c638b8c253e555e735f7404f35e3994b4acdd1cadeb4feb21c678"
+    },
+    {
+      "id": "6e83ae1ee9276dc5d8a0d82629216d8c8997fd42d74fac0809991c966872c919",
+      "text": ", the",
+      "hash": "3538a0b69856ece9aeb2961477bc2a6bbded4578906bc2df63533cdfa17b2bc4"
+    },
+    {
+      "id": "117a2fbc197532ba76eb862a625181b10e732960a6794ab3ee366b0a25240215",
+      "text": "factors in every other token in the",
+      "hash": "10d8feb9a2870537bbf78e0564fd76b0b2bb18135f8cf65c096d6e7c16c343e3"
+    },
+    {
+      "id": "0ff7c3076da5d8acba136cf12b2c8777d48c78f64c2d30df08971feb0db63742",
+      "text": "— some heavily, others barely at all. The pairing between two tokens is an",
+      "hash": "1ecdfc2baff25f20fbc9a84d047d18aa8b2d47b6c8102e8bad8aa5a6fdea7e05"
+    },
+    {
+      "id": "959d33313ccf1080e59180a2b134fd08f7ad2c1cf71097c3f6dca1982621fedb",
+      "text": "attention relationship",
+      "hash": "346cd99c5f5c33f7a8954482ada5894a56359d28acaff746220c9f43977180c7"
+    },
+    {
+      "id": "e59467d8c935593b482a65d3bd7ff21b2b4e4a52af2155a79304220f6c65212e",
+      "text": ", and meaningful pairs (\"her\" with \"Sarah\", or a",
+      "hash": "ea1e8af819a62f70d1436af468d9d535956dca374017048d832d1f5415bc1c28"
+    },
+    {
+      "id": "b2bb42429b2e0333663432437c70407ce040cc9ec7d9eab75809810b3409e696",
+      "text": "call with its",
+      "hash": "d5e333980a16a33310b9e7b8033c49d141330e10b796cd4b497cf8367a5f1f05"
+    },
+    {
+      "id": "f81a7e63c1837b3b8b7528bcbc718d3f4a4660a1dd0daf179e176077808e6f19",
+      "text": "definition) influence each other more than unrelated ones. A context of N tokens has on the order of N² relationships.",
+      "hash": "1e23ea823e4ba76314ce679bbe1f6869cd54fa0e0e9b6eb983376ef771ed6682"
+    },
+    {
+      "id": "a73fd5fe9c47ff9df32be56b901072cb0becfac065f2c27edf812cf09c2eea35",
+      "text": "The pairings are where the model's apparent understanding lives. When it resolves a pronoun, it's because the attention relationship between \"her\" and \"Sarah\" is strong. When it calls a function with the right arguments, the relationship between the call site and the definition it read earlier is doing the work. None of this is looked up — it's computed fresh on every",
+      "hash": "fcf10275e657dd4951e025fdf7d7b5965c12ddee39364ae9c2ba95a072898a6c"
+    },
+    {
+      "id": "8be429e0966c03fb79a9f4b16cb123b2cb9f4d0ab2e5d95ca2af804c7105677a",
+      "text": "model provider request",
+      "hash": "3004d539f1f0ae7a40070d95ba4a1323d874684827edf4d55b29a1056f8da7a9"
+    },
+    {
+      "id": "937aaf50737469d9714895eaeb10a1699565a045d78de71905dd3e352e2a556e",
+      "text": ", for every pair.",
+      "hash": "0f66af5cbfc49e4995cc86bfec4f7ee36b0ede63321cca914756ae7da968ba27"
+    },
+    {
+      "id": "8ea2cb25f925d6e9f7967bc74021e7086f36a7fef6cccf46d44db372ae843c92",
+      "text": "The N² figure is worth sitting with, because it grows faster than intuition suggests:",
+      "hash": "f2fc5d275d3d3cd383bef348e9ff400b5348ab28825a7559e8cb6e9dc608b9d5"
+    },
+    {
+      "id": "0e419f41c7de58a096e944204f9df893c2b433822a1ead5c17c672247f6dab37",
+      "text": "Context size",
+      "hash": "a38d30047c4b5e09c5943050db14a018f1edb8f405a7c06b0a8996363d56e61a"
+    },
+    {
+      "id": "d58036f0a90e5d4d5ce6d3fcdb55203d52c643f0549d380de06a6bc6a60fe3cf",
+      "text": "Pairings (~N²)",
+      "hash": "208768fcd985cbe1e1abd61f6cb729160b2ca587bfc87d87553d601f1982735c"
+    },
+    {
+      "id": "f17e5ea5140abe32b82b8467ed434216f54a4308f8731429b006817881f8d9aa",
+      "text": "1,000 tokens",
+      "hash": "34c3b8569cac2616010df14ea5293cc7bc76276b117caf20178fb51a8a558934"
+    },
+    {
+      "id": "d05f96da535486ae12e6f6021625e8763675ea55059b27b1fd6f7d66e6544f0a",
+      "text": "~1 million",
+      "hash": "15a9a9de2f72114e881e01b540a1093228321a45411700289a62351b8ec62639"
+    },
+    {
+      "id": "609b9ccc46cae6d9e85e3cc4a6e7e59baff83ce5439539c0eff295e85a352d2d",
+      "text": "10,000 tokens",
+      "hash": "bd0e7a60d94ca60530c021bdfff782d82bfc852ffd01fa0b08885b1740ae6aea"
+    },
+    {
+      "id": "7a9d5ebbc340dd9d802f980632f3ae3cd2fa4987415a81aa1b7908711a377fe0",
+      "text": "~100 million",
+      "hash": "b87a45e5b370a5b70b1861b2bf44b4dbadf8b6514d368a26433e9efd49509c3a"
+    },
+    {
+      "id": "4f8d4ddec4d3fb4426390f4bf18beed8aeba65b6dba5dee87d371138a7451494",
+      "text": "100,000 tokens",
+      "hash": "a340a8e57b375dacc09b52395e64812f2ec1b9523b6968f4231107340c9eb08b"
+    },
+    {
+      "id": "be7d810c7ff50aa08e2e1c8ea7a26601b139a1b77093f225fa274115dcd898d6",
+      "text": "~10 billion",
+      "hash": "6cd335c126e8d8fa55e8b58d6b80d8f7f34adae198f6267bf61b8c1569e0dfc9"
+    },
+    {
+      "id": "aedab798246da16423c53a13c40ee08fa6c6b999f538a62ea02c36c52378802a",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "7e963ce6a75cf8f2f10646daa40af59babbe375c4b7d436ef33888fd281354a6",
+      "text": "Each pairing is also computed more than once. Models have multiple attention heads — exact counts for frontier models are unpublished, but fifty to a hundred is a reasonable guess — and each head computes its own version of every relationship. So every pairing in the table above is duplicated across every head. That's a lot of pairings.",
+      "hash": "de5f136f1ef162ccbd17c120a8a8f2bac624858f29bdcca273b97d66ca4b52f1"
+    },
+    {
+      "id": "05589b8197177ea58c4a4cc6fa818ef7915ff5e604daeba6012a16788992f3a6",
+      "text": "Only a small number of these relationships matter for any given task. The pairing between your instruction and the code it governs is one of a handful that count; almost everything else in the pool is noise. And the two grow at different rates: the relationships that matter stay roughly constant, while the total pool grows quadratically with context size. At 1,000 tokens, the pairing you care about is one in a million; at 100,000 tokens, it's one in ten billion. This is the arithmetic underneath the",
+      "hash": "c094b106ce209acd0b6c22eac909f56258611de437bfe5da19f5c2b60e783d8f"
+    },
+    {
+      "id": "b1301d975aebaaae2ddd0c1f5432637c1e4fab3d68789fce89fc2353397a3f0a",
+      "text": "attention budget",
+      "hash": "4f0ecd6ea97f18771cbd4203a929018449d8dbd4c6cce6f90fd7511b5c34cc81"
+    },
+    {
+      "id": "4b319e0073f381f1410d2dc9fe4ff7f864785fecb569b4db419be630009a2a73",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "942e23a164c62a955fb28860100ce15353ad03f4cee628b7cfcf084ae3b2de16",
+      "text": "attention degradation",
+      "hash": "79e5ddec1498a24115fe8cb565695632f5d9c71beafb43cd0a04d319ef44230f"
+    },
+    {
+      "id": "cd54770fbcbe57308ce3dec5d81ca35821c4e15c1e84ecc4758199c4548aa669",
+      "text": "is what it feels like when the relationships that matter get too thin a share.",
+      "hash": "26b3b9fa61b11cab8d3e26c983c59767aaa54f8d483cb90c1cedcf0870d5ccea"
+    },
+    {
+      "id": "2f09688339223f3cfa4f8915e7575e128bacafb2e60de5a5a2febe2b2133d023",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "d2688fc22d3b9ace4aa390f2f795b8c6b0b15919890c678375d37d2a3430dac4",
+      "text": "\"It keeps confusing the two",
+      "hash": "ca6f17c52d442f609e24daeca7381293dbd606e030ccd52bb8197d0894e1d000"
+    },
+    {
+      "id": "f74fdaf774af30c85c4e4068b7e69a704130e541ed619416d05a5e861316bd1a",
+      "text": "symbols across the diff — sounds like we're in the",
+      "hash": "5e1a8ea301c79cf0643bc3257a2f0d109b60009b06a0c2b60e47c91c8144438c"
+    },
+    {
+      "id": "c1e1a46a8f8a17beecb0dc4eaab109aa1a3b06c78df48d5025f648e62e7d4da9",
+      "text": "dumb zone",
+      "hash": "d1f4ef2612da4453aa6dc92c0023b63f3efd20345f0715a9e437d9a08a5dbb8d"
+    },
+    {
+      "id": "b7642fd6ab855753765519eb2e3c6e244ade4d1f5f381a17d4274ef617323915",
+      "text": ".\"",
+      "hash": "b5280e40c1282ec647256eb511128edaa5e24cae99d138b33ba72f8b2d678e37"
+    },
+    {
+      "id": "39dc1c49fd9c8af529dcda20189200bffebae28c72c4fdf3f613333771721538",
+      "text": "\"Yeah, the attention relationship between each call site and its declaration is fighting the other one — same token shape, different bindings. Rename one and the pairings sharpen.\"",
+      "hash": "e725ba88d89c809df8cdea5860c42ff02c2ab4679f497dc69d08e4ac177f9a14"
+    },
+    {
+      "id": "bda4840f91f96f087dbeef6ec01f5ba0bfffe968b9c98b278e614cba303f8f8e",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "38c2dcf27a9e980b715326a27ec5dd65dab1bab51e39b69341c8cecda5b4639f",
+      "text": "Contextual knowledge",
+      "hash": "d6e7abe0383292e093bb86c7be9c6e2a5572caca8fa0e5265c6f14c196b0bd4f"
+    },
+    {
+      "id": "de5fa9e20a5b6d6684fa68018418947fb0f98d73db070b6759f7148428387c3f",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "67b0b20f202c200b2b044cbdba8715c9c9cc7af0a37598863f9410739027550a",
+      "text": "Attention budget",
+      "hash": "3050c3ed0aa7f513c8d6d6891433e8d97ad0fbe382486b1f5b52a1129c834ab1"
+    },
+    {
+      "id": "66f0d84770bd0e89537b61a650f9eba25aadc6c92f12bb391582af0f3b30673c",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "0203fa2168ebf23165f770d72b92952a2d43b70d44c5feb743a5a4a6619eb261",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "833a2498dfcef111e752f0b4af461ca34f6bbc91dba2a451b547dedfcb231e86",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "b166694fdf88741d34d066fc690ed6e2749ce1c36adba43964c83773cff0c3b6",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "7cd45ed9e29b740a2422e2bbe549f0a6c06050ef778e133a76311f13d204b98b",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "cf0a9bc800302a0daa262a1476f347e6fa4f9c5390b4e36ccdd850602025c14d",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "58275c088f2704ef78433433f6f1c0481b3a033a88491e6f57577f2c09b3ec7f",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "ee9dc200797abfdc94e822f92fc85f6cd3e0fb470c8b1f36573d52269a859da4",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "3c4c572f61459153d6f79dc35c330d17af0c286ed8846c7b621b8099daef903c",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "285164daac6980f60562c32883ed0e8875566c3469bd30751ebb9c349589d952",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "92b5ff119271c7c2406f3de38a3bdbad833ccb384caa9caf91040b3a938bd37d",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "94c266b5ccd21e7caf562656921375c712dbc454ed49bb1d4eb3a07b1856e34a",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "8f33208ec09a66e6c9ab3525a027e08363dd75172eafe7f991bb4ceecc67fcce",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "01c4f31e5f703fdb8080e241f4f86698166fa221afd761669087ee28bc0a6f40",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "d0ed3aa3bff050249e4f440da7159b3cd347ca7622351eb0f155cb2f57efdfe5",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "94f2ceff6a50399a45f62546f0ab425ac0ea1b55329615005df413550bf4dc84",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "3747bc68d2f648d516eb399869994f857004c43ba8a44b0370b69240d32e715e",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "a3bd87f96301e442a6ff3fb05e4d9540ccdd751f8e9255c9848b646709cf1bb3",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "e1543345b7be4df0de8095d518977e9bb635f73fbffaf978eb615d826e72ee72",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "7057bbc5b6e7e0ea31621ce51f6fd36667f59ef9ed013079e61c74b1964b504a",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "6c2fc3ef9b121d41fb85948ff7a599030b2bb493bc8326f288a45a96f4348c68",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "8756de154679def16e54e8bd9bf34dcd0ee3b3553d41d66133b37a11b46fa502",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "fc9d4e14c2f24393a4f55e3b664d3d11b970c0542420e5f5ebd2b2b715234aa1",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "646926bb6c4b064314082dff3cb17305be9f46cf9ef2d65e29c3a6891e2b1866",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "5323ac165f1fbc7ca5301150406b54f8e3432364e482b13e7eba3e45461052c5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "24b7bb13b9ce9d9f17f8eeba34ac764a4b6543f0f07a46c3cc11e6db759a38d1",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"p939nhna064yx4\"",
+  "lastModified": null
+}

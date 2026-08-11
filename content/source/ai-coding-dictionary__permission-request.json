@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/permission-request",
+  "pathname": "/ai-coding-dictionary/permission-request",
+  "fetchedAt": "2026-08-11T06:28:33.483Z",
+  "title": "Permission request | AI Coding Dictionary",
+  "contentHash": "6c6f7bca14f147d579b5e67ed2ff6c208f4dc7517b7679f91dc939875d11ce4d",
+  "textHash": "3d02e762d6ae787fd8dec3e0bebbd06929cff3fe2c52a79c78a76d2fb1dde1b3",
+  "strings": [
+    {
+      "id": "ffa06ab364e5ac9a2c0f594e48ef8952fe516d5b41ed3fddfa82b49824568a7f",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "0e9b14e5355a8eeaeafa1879316269e6e0d31cd26e014db6da4793cef0c10c47",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "4eccb0936035ed7b5793799156bd1884f7ad95ebd44eb8420a02dccda55caa76",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "f72155eb0ceb5ab0482b113b9da76b9a78cbed939fe2ec92f58041220fd860c8",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "37e719ac948649f4a16a03fee5ba5e87b3bb17cf4ce7e96d7e4cda868d12b5aa",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "1744929a33db06a7aa38152444145805e6e3ca014b3221a64f288b5943d586c9",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8d7004ff73b89a9dc0a837d6d92396ce7f9505e4bd1ed0d9889be318d4c87927",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "c2aa8771d16904a6c03eaaa5ed284c4b3d69224005df920bf851ca3f4aa30899",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "46becc9c4df2cff318d5159effb5321cdcf48d8d0f0fa096752900d520ddcb1c",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "af259332438ad557927cbb574c138856957bc70385b4626453c65414fd239615",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "20456b30f095ded0ee5b6b5f7a8ff66c422dc85ea785030bc68897e74b340aa7",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "cb289976bbc474143696cc263756f8914a800a52a4ab046f3d2111cf01c2b852",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "1ea384644cf5f0e74e0485e22385a91d152fd9ec9a4378637aae1d16494c265f",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "e9d204d5d4fe36159250d6e5b45f3954fd668dfc201bd82ad619ad45c8784b61",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "958fb4d119dacca88f561ad152b6fac654bcd0b9572adb3aae1d99336b1c4d7c",
+      "text": "Tools & Environment",
+      "hash": "cf9194302814cf2bb2ae04f0e1023fec3d18acdc5258a0e00c18bb7df366cf00"
+    },
+    {
+      "id": "e1f79ab69c4cc8c423b2baafa4e840545afadd0f7f83ba9f636b20a4b9b54dce",
+      "text": "Permission request",
+      "hash": "93dfd0b5c5d1162c11a79ae6f8bfd7443f2bc1dabf3f8e58791fbd90c0f97fbd"
+    },
+    {
+      "id": "df999cc9942ac0baa4be5b4dd438011b32e4e419c758dec9e0a9ca38867ed7a1",
+      "text": "What the harness shows the user before executing a tool call that isn't pre-approved. The mechanism for putting a human in the loop.",
+      "hash": "75c684bd58fa8da73f29508b2b1da23373e1588476c83ec31d4b1dd203b08d8a"
+    },
+    {
+      "id": "2f776cd1fbd04129781054c4d58f9c71e27517fd04d126428e39be94fa6137db",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "41eb56ff2fb1f7035e8a5bb1dcff95f33416afb368c927441f2480b72e7816f2",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "679e3697568fe56bb545e2e2095d5d92f9f0c4fce0af94383e858b395c1171de",
+      "text": "What the",
+      "hash": "189c15422c5662ff85fb5713fc395b018a66512173d8807e268f186519692a92"
+    },
+    {
+      "id": "ace910bec32683d89ea5e09383d7de7e23fc4e04c57359a852b54c40afc6774d",
+      "text": "shows the user before executing a",
+      "hash": "9d612774b9265702b0c188c03539a68066fae6227d6cdcb0b72d173a69da6adf"
+    },
+    {
+      "id": "834a5675a9a91f9836e4e0f0688c616bf4e309dc760b514b8d363204b024503f",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "75a028f1c49bf9308a5ba78f70a4465c22447bd8de8eaeec4c8638533720e224",
+      "text": "that isn't pre-approved. The",
+      "hash": "460638519e59dcff62d86d6e7928e19e9b28d50620a3da9b13e3d234e78912f5"
+    },
+    {
+      "id": "646512c856d14ce07dff2ae9d0facb69e29f9e85baa95d00b4c7f5d1685a4eb6",
+      "text": "produces a tool call; instead of running it immediately, the harness pauses and asks. Approve and it runs; deny and the harness reports the denial back to the model as a",
+      "hash": "fc6db74bda318d99f37c160e8b37fbd526169971da0e16e241c7f2d9ae4ac2e1"
+    },
+    {
+      "id": "6d498b216267e3640cdd7bf97953a286a417bdb6b4fc855cac2c7fc58d99c7ec",
+      "text": "tool result",
+      "hash": "496514e28de40f2624fbc4fb01c89afaba32fde82d1e1d6c19ab43d702f7a230"
+    },
+    {
+      "id": "8359550cad2c8e6db5c304e1ce9573f81bf9a8c266abaae1a5683ad76d2cb0ee",
+      "text": ". The mechanism by which a harness puts a human in the",
+      "hash": "64ea17ea96a808b0691f6412b85e48cb4cdf39ceeaf78937755279c644aa9ace"
+    },
+    {
+      "id": "d5f0948dc6cf33c82172e43da042680abc86885d2a6bd7e9321e8ecb4db81175",
+      "text": "for risky or sensitive actions.",
+      "hash": "c5a079e1dfb2180372a06e24d493b5de69c6de59f47b74baf103e70b258e098f"
+    },
+    {
+      "id": "12e33df66c256a435add9d3915925df74a78ca3c68deb49602802b8bb66c6c88",
+      "text": "The lifecycle of a permission request:",
+      "hash": "6536875586330aefed5f119df1b74cbb86c8f1800a9e60f91a0cc2722709b9d5"
+    },
+    {
+      "id": "4dd8a7c36799892d27d90a8733d8edbdc97730b7fdf438521263a5da08e782ec",
+      "text": "Step",
+      "hash": "8e6a6cca7aae1d1e781d3ee04849d6b00f7aaf48f7c642f35105e4bf990a8cb4"
+    },
+    {
+      "id": "8f49959a71315e6db0e7a193715d6262c86e5ee2495469de131957888347260d",
+      "text": "Who",
+      "hash": "c17b94b8c9394d40151ba4078f384f0bfe77936d258bc2029bd8b857685cd3f1"
+    },
+    {
+      "id": "352fc1c896daea10aa0d8cc108402773d0956ce96ff336a7876a5b1204825e8a",
+      "text": "What happens",
+      "hash": "70fbb54bd5e6ff77ad448bae4307cccaab65d37717f72d5e6ebd307d903d28aa"
+    },
+    {
+      "id": "fa3b47c3c949d19ea6e17c736fd606ed80111995a3fed5e0d3d4722cc90b6055",
+      "text": "Model",
+      "hash": "5e2c614c23f02239bc03c6c04fcb681950f9e72bf8fdff6be79c79841cbb10c0"
+    },
+    {
+      "id": "b47f063c87cc20fab8c6f85d48576f8f4d835720e20bfd1021ba5f5fb1e092e7",
+      "text": "Produces a tool call",
+      "hash": "0332f87c857c2d4f271ce8268637cec4c751c3826e3072950351a38795bf0bd6"
+    },
+    {
+      "id": "e0e2419df5fe2f9785f7894c681703f38c8094d29ada60b60d44de9824ed4780",
+      "text": "Harness",
+      "hash": "e3b5b45953d79a150092df37922ee6261a81040f5fb3c084fa00efffe8b98589"
+    },
+    {
+      "id": "aab63f6eeee21931f1b437e96ef5b920b54bb934ed2a89ea8e63423668a97f14",
+      "text": "Checks it against the",
+      "hash": "ed298ac5896048cdfe61d4ce5da54146ae5de90d3acc24d6b620a18f8fe18f36"
+    },
+    {
+      "id": "a35841121627ca77c5c1ef89bc464235a728f53af0a46e5156f810725c5f995e",
+      "text": "permission mode",
+      "hash": "2ea04b3cff63e2308414a5e48abbef0b69336f0b9902d10bd8b81d8ff46aae26"
+    },
+    {
+      "id": "eae927aebdc61d74d35e67465ce6f57c337b75f49f23626018b5ab6f5878d584",
+      "text": "and any saved approvals",
+      "hash": "a8b8e4f8d920f62058b4899301e7de5b0bdd66fa666d388a37df16b4c519455d"
+    },
+    {
+      "id": "54c1ae75c439e514e2f4219b95b5f585bcc67849e8b41d9e0b3270d5db871d5e",
+      "text": "Pre-approved: executes immediately. Otherwise: pauses and shows the request",
+      "hash": "11af02e4537f902b0f89ef44440aa3df1dd3fefda03731584b5ba9dba36bbfbd"
+    },
+    {
+      "id": "6f3e88580d92864b6bc370003d57948f357a796d2f59e86785cd4088effb2c41",
+      "text": "User",
+      "hash": "b512d97e7cbf97c273e4db073bbb547aa65a84589227f8f3d9e4a72b9372a24d"
+    },
+    {
+      "id": "603c4b05e361f9d2793220326b71fff07ddf9e02fe540e7b4678e1cdfc23f643",
+      "text": "Approves once, approves for the rest of the",
+      "hash": "cf0b24ac94ffc00dcce1e4014fb710d2a78e64d6075069a6c395a776498114d4"
+    },
+    {
+      "id": "dfca8c8975105cd42890b1e36eda640b7a09d652c17f12360e751234b84df104",
+      "text": ", or denies",
+      "hash": "12b64dee2ebaf7dfe1470c7f30845a52d8a55735de4ffe9a84ac981c2c767d8c"
+    },
+    {
+      "id": "654165c58c36ef0399ddfd556a5d3e4b1b5c67f84bce9ea21c574d453c14f731",
+      "text": "Executes the call, or sends the denial back as a tool result",
+      "hash": "ef7b02c6017d22b6104ff3c31bd4a2b658e5e42b29db277be0a36f34f219fdde"
+    },
+    {
+      "id": "345d975928ec15b1050d66a13b298b025b4f773244cbc72c211f14e2989487ce",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "3080cf1e50d3a6efaf242e2f3d6d725be87216a232d1631d8de879b30cd7f340",
+      "text": "Denying a request steers the agent. The model reads the denial like any other tool result and reacts to it — it tries a different approach, or asks what you'd prefer. Most harnesses let you attach a message to the denial, which turns the request into a steering point: \"not like that, use the migration script instead\" lands exactly when the model is deciding what to do next.",
+      "hash": "69a43ba5b063734e660a71b32f49e6826c60f9084a04fc8563b204da1dd23c5a"
+    },
+    {
+      "id": "fb28d02815a132413367e65d029f6bfaacd072c5c64b158721fe88189fba9f8f",
+      "text": "The cost is that every request is a synchronous wait on you. The",
+      "hash": "27dbca2594db08b43b27b627fb6f7d3c979929151d352292cd2b61fc2bb9973a"
+    },
+    {
+      "id": "9c7c105d4663ffc07b8d93a66137d23cdb3848bb53082bf2a12d1076a9c7388f",
+      "text": "sits blocked until you answer, which is fine while you're watching and a problem when you're not — an agent that triggers requests constantly can't be left to work",
+      "hash": "762fa7d426f56571bfb7b827de01ff5f6d63e9a2e630fc13157bd1fa22fedc37"
+    },
+    {
+      "id": "6d769b4c8c74a25ed2699789721310b4bf78a526657bd6f2a50ad6c68acbc890",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "123f10d0e14a2936de68c59ad9806173171551e0b60a3e35780fa56a076bbe02",
+      "text": ". The permission mode is the dial: which calls run freely, which ask first, ideally with a",
+      "hash": "68f7676c0507503a790ff7eabb3c7ffd189544ea616470a3983c7c0f347a4d62"
+    },
+    {
+      "id": "d450bb27bfe24b9835e4d643213e75c4ae82e6f9206f087b34f5a73fec202449",
+      "text": "making it safe to widen the free set.",
+      "hash": "06a6be85b5cdb3dc97260ab16047b8b18f2dea949214a235cb41c98db7cbba96"
+    },
+    {
+      "id": "053bcbde2c6eecade5ca7678bd438883baf86fe560ff9b4a94e5599c0fd25880",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "e48df2f4e6479fbd12e8f0071b4ad1c7c5ae2a76eaa3393c063fcdf36da22eed",
+      "text": "\"It's been blocked on a permission request for ten minutes — I was in a meeting.\"",
+      "hash": "d8d1d48678579342dae9d24b466ae2b274a72c392d857ff74c65547200c38c7f"
+    },
+    {
+      "id": "c5d356e0f417d620d93b99c480fbcf0d2bbc2782765493a3bf256234c4a2dd81",
+      "text": "\"That's the cost of human-in-the-loop. Pre-approve the safe",
+      "hash": "4ddd3828861eea08e5b13ea0c1ba6bdfb87c81b0df20f93df0bfc5093111e0cf"
+    },
+    {
+      "id": "f4b20fe6eb8f6e047853fc465e1bfa912cef473a00db80fe7ab67439c1356fe9",
+      "text": "so the request only fires on the actually-risky calls.\"",
+      "hash": "ec9dfa5dd5d5e27447870d574c6353d2f2e99221da0ec5d9d383ea1a65dd1a00"
+    },
+    {
+      "id": "13b57690bfc02f59bc2712dbd930f1e1ad5fa642dd008d4a0fa5fe0830dad1bf",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "274cb8c2562b5c20edd34cbb49720040ae3486fb037c6178557f6b1e79979dd6",
+      "text": "MCP",
+      "hash": "53f13ae99ed53bd346eb8e1c8cefb7ef8260683b50401caf101360967ea052aa"
+    },
+    {
+      "id": "e9198bd26bc140e54722890bebbdd7c40e667df9bab7b8e8ecdb2b53ebbbce17",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "a5a12156d983ec322119809924e6e90ea303144b16387acd09916d9d9e405e8f",
+      "text": "Permission mode",
+      "hash": "c7a8e6db5cbb4c7180dc0a588ac85d4c5e98d7d9f5b92c87bd146758e6023463"
+    },
+    {
+      "id": "1aa337525b46b005f49aa2ff9dbd2c110dac783ff187b9e695e703b34533c87f",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "675091fdc8da04e957d2003bd32c9689d2e2e5ab416ba32b47b3c15006713c5c",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "965ddb74ceea678b48afbf4066ef8ebe20af5426773cf2c3a774bde268c05bfb",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "9d8fd484e409a32653142b9dbf9501c447df3ac358cacb8b7f9636402a34bd6c",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "6cf617f9617e4a9510bd734483a6f31bba0d852e10089bf72828c2dfaca1bf3f",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "31f1a11f37258b7980e721a68e9fd8f4652f46332351dd327025d7a0fc2d4a6c",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "df180b45e8b226d36a42eacf20181122aa60dd6ebe0e6026ad56d02367bb1b34",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "1412c2f8a2cc18904810d84d11e954a7d9857ebb57e094a7e4fdb823b7ea733d",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "574ab58f4896d66a9f1ec581ac616b15605bf5a2814cdadbc8cba019a65bdb3d",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "0bcf5bf6881ab98574f9743bef9304ec4a34012d93a2ccd64475b3d253a079a4",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "6270ba341bef220f063f51f1e1db94cabae86e4f61dcc5bed339739a7dccf88a",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "5dc35ff41325d2175cde5434e53656e8c2cfd55e2e53d6e429c8e5ff436b452c",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "259c8451eed1223e4b101019409ddcfa8a9662ed8526dc98893818f81b27beb4",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "3044a37e73ede60e3d7c53b0ca6374d4278adb8af64df797f275b71d692d0d2d",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "ba374a919a06f5964e5fb47107bd847089c40a57ff15f8b4566d91368c6d09a7",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "a26dbd67f821ff8792b571e9e4112d127f87dc25edfa7f6013194526ff9d7937",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "edbfa01388368c6965a06994b3669fa94a3bdb4ae6c642c643e1e13657537cfa",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "5b047e75b322d500e87ab0f44b2e89a85f5094271029979abfc16ed0ad08b150",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "75ccc1703413971257462db0e04a8ddb1d8266ce74a8b1029518aab0d8b8beed",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "340fda5731be4f01ccf893d2ee6a7654a7f84db7e569eb72fc6e49ab7f25e59a",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "e49b6bcda5b8f67f68e0b8553e517db2257b1fe9911035b5797c8e60ca7efd45",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e99b30a0d673fd1e4e6e6b21b89c80bff52d2f8f103d9765f50626d27cc1bba6",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "dd927ce4efc765e06377b1fd1210fb2c021a13df55df5dc4bb6826c3f3cb86d9",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "b6a70c19d981319e266816eda118697eb50962a1085f90bdbfca33903569cf03",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "f49bdda3a8ac33ba9f2094845e7d747eda81630fd386f8236775e4b7ca3e085a",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "b8b39cc395b9bed74e0cbece4a2811842b35277485a2bdb055d1e7f8913a3149",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"ta0o77pwmd4y26\"",
+  "lastModified": null
+}

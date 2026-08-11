@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "AI Coding Dictionary：Hallucination、Context pointer、Agent mode、Tool result、Cache tokens 人工富文本译文",
+  "exact": {
+    "Hallucination | AI Coding Dictionary": "幻觉｜AI 编码词典",
+    "Context pointer | AI Coding Dictionary": "上下文指针｜AI 编码词典",
+    "Agent mode | AI Coding Dictionary": "智能体模式｜AI 编码词典",
+    "Tool result | AI Coding Dictionary": "工具结果｜AI 编码词典",
+    "Cache tokens | AI Coding Dictionary": "缓存 Token｜AI 编码词典"
+  },
+  "routes": {
+    "/ai-coding-dictionary/hallucination": {
+      "Flavor": "类型",
+      "What goes wrong": "哪里出了问题",
+      "Cause": "成因",
+      "Fix": "修复",
+      "Invented or wrong facts about the world — a function that doesn't exist, a wrong API signature, a fake citation": "编造或错误的客观事实——不存在的函数、错误的 API 签名、虚假的引用",
+      "gaps, often past the": "知识缺口，通常超出",
+      "Load the right": "加载正确的",
+      "Output drifts from the contextual knowledge that's loaded, the user's instructions, or the model's own prior reasoning": "输出偏离已加载的上下文知识、用户指令或模型此前的推理",
+      "; worsens in the": "；在其中会进一步恶化",
+      "dumb zone": "迟钝区"
+    },
+    "/ai-coding-dictionary/context-pointer": {
+      "Progressive disclosure": "渐进式披露",
+      "Skill": "技能"
+    },
+    "/ai-coding-dictionary/tool-result": {
+      "What happens": "发生的操作",
+      "Executes the tool call — runs the command, reads the file": "执行工具调用——运行命令、读取文件",
+      "Captures the outcome: output, contents, or error": "捕获结果：输出、内容或错误",
+      "Appends it to the": "把结果追加到",
+      "as a message": "中，作为一条消息",
+      "Sends the whole context to the provider in the next model provider request": "在下一次模型提供商请求中把完整上下文发送给提供商",
+      "Reads the result and decides: another tool call, or a final answer": "读取结果并决定下一步：再次调用工具，或给出最终答案"
+    },
+    "/ai-coding-dictionary/cache-tokens": {
+      "Request sends": "请求发送内容",
+      "Cached": "缓存部分",
+      "Billed at full rate": "按完整费率计费",
+      "First request — nothing to match against": "第一次请求——没有可匹配的历史",
+      "is an exact prefix of the previous request": "是上一次请求的完全相同前缀",
+      "Prefix still intact": "前缀仍然完整",
+      "An edit changed": "一次编辑改变了",
+      "; the match fails there": "；匹配从这里开始失效"
+    }
+  },
+  "blocks": {
+    "/ai-coding-dictionary/hallucination": {
+      "Confidently-wrong model output. Two flavors with different causes and fixes:": "幻觉是<a href=\"/ai-coding-dictionary/model\">模型</a>信心十足却实际错误的输出。它分为两类，成因和解决办法各不相同：",
+      "Next-token prediction produces fluent output whether or not the underlying fact is real — the model has no internal signal that it doesn't know something, so an invented method arrives in the same assured register as a correct one. Hallucinated code is plausible by construction: it's what the API would look like if it existed, which is exactly what makes it slip past a skim-level review and fail only when run.": "无论底层事实是否真实，<a href=\"/ai-coding-dictionary/next-token-prediction\">下一 Token 预测</a>都会生成流畅内容。模型内部没有“我不知道”的信号，因此编造的方法会以和正确方法同样肯定的语气出现。幻觉代码在结构上往往十分可信：它看起来恰好像是“如果这个 API 存在，它应该有的样子”。正因如此，它很容易通过粗略审查，直到真正运行时才失败。",
+      "You need to know which flavor you're looking at, because the fix for one makes the other worse. Factuality means missing knowledge: the fix is adding context — the docs, the type definitions, the file. Faithfulness means the knowledge is present but losing the competition for attention: the fix is removing context. Misdiagnose faithfulness as factuality and you paste in more docs, which grows the context and makes the drift worse. When the agent gets something wrong, check whether the correct information was already in context before deciding which problem you have.": "必须先判断面对的是哪一类幻觉，因为适用于一类的修复方法会让另一类变得更糟。事实性问题意味着缺少知识，解决办法是增加上下文——加入文档、类型定义或相关文件。忠实性问题则意味着正确知识已经存在，却在注意力竞争中落败，解决办法反而是删减上下文。如果把忠实性问题误判成事实性问题，就会继续粘贴更多文档，导致上下文膨胀、偏离更加严重。当智能体出错时，先检查正确内容是否已经位于上下文中，再判断究竟属于哪一种问题。",
+      "Avoid: \"hallucination\" as a bare synonym for \"wrong\" — without naming the flavor, the term has no diagnostic value.": "<em>避免：</em>把“幻觉”当作“错误”的简单同义词。如果不说明具体类型，这个术语就没有诊断价值。",
+      "Usage:": "<em>用法：</em>",
+      "\"It hallucinated a parseAsync method on the schema.\"": "“它在这个 schema 上编造了一个 <code>parseAsync</code> 方法。”",
+      "\"Factuality or faithfulness?\"": "“是事实性问题，还是忠实性问题？”",
+      "\"The method exists in the docs I pasted — it just stopped reading them after turn forty.\"": "“这个方法就在我粘贴的文档里——只是到了第 40 个<a href=\"/ai-coding-dictionary/turn\">轮次</a>之后，它不再关注那部分内容了。”",
+      "\"Faithfulness then. Compact and reload, don't bother adding more docs.\"": "“那就是忠实性问题。先压缩再重新加载，不要再添加更多文档。”"
+    },
+    "/ai-coding-dictionary/context-pointer": {
+      "A mention in one document that points to another, so the agent can pull it into the context window only when the task calls for it. The unit progressive disclosure is built from.": "上下文指针是一份文档中指向另一份文档的提示，使<a href=\"/ai-coding-dictionary/agent\">智能体</a>只在任务需要时才把目标内容加载进<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>。它是构成<a href=\"/ai-coding-dictionary/progressive-disclosure\">渐进式披露</a>的基本单元。",
+      "The reason to use a pointer (instead of inlining the content) is cost. A pointer is one line in the context window. The document behind it might be thousands of tokens, but those tokens cost nothing until the agent actually follows the pointer. Inline a 2,000-token runbook in AGENTS.md and every session pays for it; replace it with \"deploy process: see internal/deploy.md\" and only the sessions that deploy ever load it. The agent follows the pointer with a tool call when the task matches.": "使用指针而不直接内联内容，原因在于成本。指针在上下文窗口中只占一行；它背后的文档可能包含数千个 <a href=\"/ai-coding-dictionary/token\">Token</a>，但在智能体真正沿指针读取前，这些 Token 不会产生任何成本。如果把一份 2,000 Token 的操作手册直接写进 <a href=\"/ai-coding-dictionary/agents-md\">AGENTS.md</a>，每次<a href=\"/ai-coding-dictionary/session\">会话</a>都要为它付费；如果改成“部署流程：参阅 <code>internal/deploy.md</code>”，则只有执行部署任务的会话才会加载它。当任务匹配时，智能体通过一次<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>沿着指针读取内容。",
+      "A pointer needs two parts to work: a stable path, and enough description for the agent to know when following it is worth it. A bare path is a pointer the agent has no reason to follow; \"see internal/deploy.md\" with no hint of what's inside gets skipped by a session that needed it. Write the line so it matches how tasks present: \"release, deploy, or rollback — read internal/deploy.md first\".": "一个有效指针需要两部分：稳定路径，以及足够清晰的说明，让智能体知道何时值得沿指针读取。只有路径的指针没有提供任何读取理由；如果只写“参阅 <code>internal/deploy.md</code>”，却不说明其中内容，即使会话真正需要它也可能跳过。应让描述与任务出现的方式相匹配，例如：“发布、部署或回滚——先阅读 <code>internal/deploy.md</code>”。",
+      "Pointers are everywhere once you look: lines in AGENTS.md, skill descriptions (the harness loads the description; the skill body waits behind it), filenames in a directory listing, links between docs.": "一旦开始留意，就会发现上下文指针无处不在：AGENTS.md 中的说明行、<a href=\"/ai-coding-dictionary/skill\">技能</a>描述（运行框架先加载描述，技能正文则在其后等待按需读取）、目录列表中的文件名，以及文档之间的链接。",
+      "A pointer can also tie a secondary source back to the primary source it was derived from — the compaction summary that names the original transcript, the doc that names the source file it describes. This makes the secondary source's lossiness recoverable: when the summary turns out not to be enough, the agent follows the pointer and reads the original, instead of working from whatever the summary kept.": "指针还可以把<a href=\"/ai-coding-dictionary/secondary-source\">二手来源</a>关联回它所依据的<a href=\"/ai-coding-dictionary/primary-source\">一手来源</a>，例如压缩摘要中注明原始对话记录，或文档中标出自己描述的源文件。这样，二手来源造成的信息损失就可以恢复：当摘要不够用时，智能体能够沿指针读取原始材料，而不是只能依赖摘要保留下来的部分继续工作。",
+      "Avoid: \"reference\" — too dry; doesn't convey that following it pulls more context in. \"Portal\" — too florid.": "<em>避免：</em>称为“reference（引用）”——过于静态，无法表达沿指针会加载更多上下文；也不要称为“portal（传送门）”——过于夸张。",
+      "Usage:": "<em>用法：</em>",
+      "\"AGENTS.md is getting huge.\"": "“AGENTS.md 变得越来越大了。”",
+      "\"Most of it should be context pointers, not content. Keep the always-on rules inline; turn the deploy runbook and the style guide into skills and leave a context pointer behind.\"": "“其中大部分应该是上下文指针，而不是正文。只把始终生效的规则内联；把部署手册和样式指南做成技能，在 AGENTS.md 中留下对应的上下文指针。”"
+    },
+    "/ai-coding-dictionary/agent-mode": {
+      "A preset that shapes how the agent operates at runtime — bundles a permission mode with behavioral instructions injected into the system prompt. Examples: a default that prompts on risky calls, a plan mode that blocks edits and steers the agent toward research, an accept-edits mode that auto-approves edits, a bypass permissions mode (colloquially YOLO mode) that auto-approves everything. Can flip mid-session.": "智能体模式是一组用于塑造<a href=\"/ai-coding-dictionary/agent\">智能体</a>运行时行为的预设，它把<a href=\"/ai-coding-dictionary/permission-mode\">权限模式</a>与注入<a href=\"/ai-coding-dictionary/system-prompt\">系统提示词</a>的行为指令组合在一起。例如：默认模式会在高风险调用前询问；规划模式会禁止编辑并引导智能体开展研究；接受编辑模式会自动批准文件修改；绕过权限模式（俗称 YOLO 模式）则自动批准所有操作。模式可以在<a href=\"/ai-coding-dictionary/session\">会话</a>进行过程中切换。",
+      "The bundling is what distinguishes a mode from a bare permission setting. A permission mode is only a gate: it decides which tool calls go through. A gate alone produces an agent that wants to edit but can't — it proposes the write, gets blocked, and tries another way. The injected instructions remove the want: plan mode doesn't just block edits, it tells the agent it's in a planning phase, so it reads, asks, and proposes instead of straining against the gate. Gate and steer point the same direction.": "这种组合正是“模式”与单纯权限设置的区别。权限模式只是一道门：决定哪些<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>可以通过。只有门控时，智能体仍想编辑，只是无法执行——它提出写入、遭到阻止，然后尝试绕路。注入的行为指令会从源头改变这种意图：规划模式不只是阻止编辑，还明确告诉智能体当前处于规划阶段，因此它会转向阅读、提问和提出方案，而不是不断冲撞权限门。门控与行为引导指向同一方向。",
+      "In practice, you change mode as your trust changes over the course of a task. The same task can pass through several modes: plan mode while the approach is still being shaped, the prompting default for the first delicate edits, accept-edits once the agent has shown it understands the change, bypass for an AFK run inside a sandbox. Changing mode costs you nothing: the conversation continues exactly where it was, with new permissions and new instructions. If you find yourself approving every prompt without reading it, the mode is set tighter than your actual trust; if you keep rejecting edits, it's set looser.": "实际使用中，应随着任务推进和信任程度变化切换模式。同一任务可以经历多个阶段：方案尚在打磨时使用规划模式；第一次进行谨慎编辑时使用会主动询问的默认模式；智能体已经证明理解改动后切换到自动接受编辑；在<a href=\"/ai-coding-dictionary/sandbox\">沙箱</a>中进行 <a href=\"/ai-coding-dictionary/afk\">AFK</a> 运行时再切换到绕过权限。切换模式本身没有额外成本：对话会从原位置继续，只是权限和指令发生变化。如果你发现自己根本不看内容就批准每次询问，说明模式比实际信任程度更严格；如果你不断拒绝编辑，则说明模式过于宽松。",
+      "Vendor terms: Claude Code calls these \"permission modes,\" Codex calls them \"approval modes\" — both predate behavioral bundling.": "不同产品的叫法有所不同：Claude Code 称之为“permission modes（权限模式）”，Codex 称之为“approval modes（批准模式）”。这些名称都早于权限与行为指令开始组合的时期。",
+      "Usage:": "<em>用法：</em>",
+      "\"It keeps editing files when I just want a plan.\"": "“我只想先得到计划，它却一直修改文件。”",
+      "\"Switch to plan mode — it'll block writes and stay in research.\"": "“切换到规划模式——它会禁止写入，并保持在研究阶段。”",
+      "\"What about for the AFK run later?\"": "“之后要让它 AFK 运行呢？”",
+      "\"Bypass mode, but only inside the sandbox.\"": "“使用绕过权限模式，但只能在沙箱里。”"
+    },
+    "/ai-coding-dictionary/tool-result": {
+      "What the harness sends back after executing a tool call — the file contents, the command output, the error. The agent's only view of the environment. Travels back to the model in the next model provider request, where the model decides what to do with it. Tool call and tool result are two ends of the same exchange, both inside one turn.": "工具结果是<a href=\"/ai-coding-dictionary/harness\">运行框架</a>执行<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>后返回的内容，例如文件内容、命令输出或错误信息。它是<a href=\"/ai-coding-dictionary/agent\">智能体</a>观察<a href=\"/ai-coding-dictionary/environment\">环境</a>的唯一窗口。工具结果会在下一次<a href=\"/ai-coding-dictionary/model-provider-request\">模型提供商请求</a>中送回<a href=\"/ai-coding-dictionary/model\">模型</a>，再由模型决定如何处理。工具调用与工具结果是同一次交换的两端，并且都发生在一个<a href=\"/ai-coding-dictionary/turn\">轮次</a>之内。",
+      "The lifecycle of a tool result:": "一次工具结果的生命周期如下：",
+      "The result stays in the context for the rest of the session. Tool results are usually the bulk of a coding session's context: every file read, every test run, every search lands in full and keeps occupying tokens long after it stopped being useful. A few large results — a verbose test log, a generated file read whole — can push a session toward the edge of the context window faster than the conversation itself does.": "工具结果会在<a href=\"/ai-coding-dictionary/session\">会话</a>剩余时间里一直留在上下文中。编码会话的大部分上下文通常都由工具结果构成：每次文件读取、测试运行和搜索都会完整进入其中，即使早已失去用途，仍会继续占用 <a href=\"/ai-coding-dictionary/token\">Token</a>。只需几个大型结果——例如冗长的测试日志，或完整读取的生成文件——就可能比对话本身更快地把会话推向<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>边缘。",
+      "Because the result is all the model sees, the model has no way to check the environment behind it. If the output was truncated, the command silently failed, or the harness returned an error instead of the contents, the model reasons from what it was given. When the agent's picture of your system seems wrong, the tool results are where to look: somewhere in the transcript is a result that says something different from what you know to be true.": "由于工具结果就是模型能够看到的全部内容，模型无法越过它检查背后的真实环境。如果输出被截断、命令静默失败，或运行框架返回的是错误而非正文，模型仍只能依据收到的内容推理。当智能体对系统的认知明显不对时，应首先检查工具结果：对话记录中的某个结果，很可能与实际情况并不一致。",
+      "Usage:": "<em>用法：</em>",
+      "\"It's reasoning about the file like it's empty.\"": "“它推理时好像把这个文件当成空文件了。”",
+      "\"The tool result came back as a permission denial, not the contents. The model only saw the error string — it has no other way to see the file.\"": "“工具结果返回的是权限拒绝，而不是文件内容。模型只看到了错误字符串——它没有其他途径查看这个文件。”"
+    },
+    "/ai-coding-dictionary/cache-tokens": {
+      "Input tokens the provider has cached from a previous model provider request so it doesn't have to re-process them. When consecutive requests share a prefix, the provider reuses the work via its prefix cache and bills the cached portion at a much lower rate. The lever that makes long sessions affordable — without it, every turn re-pays for the whole history.": "缓存 Token 是<a href=\"/ai-coding-dictionary/model-provider\">模型提供商</a>从之前一次<a href=\"/ai-coding-dictionary/model-provider-request\">模型提供商请求</a>中缓存的<a href=\"/ai-coding-dictionary/input-tokens\">输入 Token</a>，因此无需再次处理。当连续请求拥有相同前缀时，提供商会通过<a href=\"/ai-coding-dictionary/prefix-cache\">前缀缓存</a>复用已有计算，并以低得多的费率计算缓存部分。这是长<a href=\"/ai-coding-dictionary/session\">会话</a>能够负担得起的关键机制——没有它，每个<a href=\"/ai-coding-dictionary/turn\">轮次</a>都要重新为全部历史付费。",
+      "The reason this matters is how sessions are billed. The model is stateless, so every request resends the entire conversation — system prompt, every message, every tool result — as input tokens. By turn fifty, each request carries fifty turns of history, and you'd pay full rate on all of it, every time. The cache changes the maths: tokens the provider has already processed in an identical prefix are billed as cache tokens, often at a tenth of the input rate or less. On a long session, most of what you send is cache tokens, and the bill stays sane.": "它之所以重要，是因为会话按这种方式计费。<a href=\"/ai-coding-dictionary/model\">模型</a>是<a href=\"/ai-coding-dictionary/stateless\">无状态</a>的，所以每次请求都会把完整对话——<a href=\"/ai-coding-dictionary/system-prompt\">系统提示词</a>、每条消息和每个<a href=\"/ai-coding-dictionary/tool-result\">工具结果</a>——作为输入 Token 重新发送。到第 50 个轮次时，每次请求都携带 50 个轮次的历史；如果没有缓存，每次都要按原价为全部内容付费。缓存改变了这笔账：提供商已经在相同前缀中处理过的 Token 会按缓存 Token 计费，价格通常只有普通输入费率的十分之一甚至更低。在长会话中，发送内容的大部分都会成为缓存 Token，从而让费用维持在合理范围。",
+      "An example shows when tokens are cached and when they're not. Each letter stands for a block of conversation content; each request sends the conversation so far:": "下面的例子说明 Token 何时命中缓存、何时不会。每个字母代表一块对话内容；每次请求都会发送截至当前的完整对话：",
+      "The cache is fragile in a specific way: it matches exact prefixes. If anything changes earlier in the conversation — the harness reorders content, a timestamp updates, a file's representation shifts — the cache misses from that point onward and everything after it is billed at full input rate. Caches also expire after a few minutes of inactivity, so a session resumed after a long pause re-pays its history once. When a session's cost jumps without an obvious cause, compare cache tokens to input tokens in the usage report — a broken cache shows up there first.": "缓存有一种特定的脆弱性：它要求前缀精确匹配。如果对话较早位置的任何内容发生变化——运行框架调整内容顺序、时间戳更新，或文件呈现形式改变——从变化点开始就会缓存未命中，之后的所有内容都按完整输入费率计费。缓存也会在闲置几分钟后过期，因此长时间暂停后恢复会话时，需要重新为历史付费一次。如果会话成本无明显原因突然上升，应在用量报告中比较缓存 Token 与输入 Token；缓存失效通常会最先在那里显现。",
+      "Usage:": "<em>用法：</em>",
+      "\"Cost on long sessions is brutal — eight bucks for a refactor.\"": "“长会话的成本太高了——一次重构花了 8 美元。”",
+      "\"Check the cache tokens. If the harness is reordering the system prompt or files between turns, the prefix breaks and you re-pay full input rate every request.\"": "“检查缓存 Token。如果运行框架在轮次之间重新排列系统提示词或文件，前缀就会失效，每次请求都得重新按完整输入费率付费。”"
+    }
+  }
+}

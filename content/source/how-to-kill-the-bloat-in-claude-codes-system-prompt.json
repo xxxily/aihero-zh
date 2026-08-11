@@ -1,0 +1,558 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/how-to-kill-the-bloat-in-claude-codes-system-prompt",
+  "pathname": "/how-to-kill-the-bloat-in-claude-codes-system-prompt",
+  "fetchedAt": "2026-08-11T06:28:08.441Z",
+  "title": "How To Kill The Bloat In Claude Code's System Prompt",
+  "contentHash": "88dc45cd531eba1151b005c0c9371bb53478c84e408cb4941f8da3597c271dc2",
+  "textHash": "619ae1de59fdb08b284ba4195dfa728b2531a71696f135128fa55d9485bcbc95",
+  "strings": [
+    {
+      "id": "87cdd2f57f442b94240522e9fef3cafceca86cd0a0467224edba606a935f6bbf",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "4e6d083204303dd1ea16c44343bdf5a2956297c7ec3c2a554302d24f80c49213",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "5661035526b4c48a31d4bedfe090dc099382fd8ca929da9b66f0f951714b6cf3",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "fea1e6ff5f450c789175b8a155111f8cb56f3ca4241a14f97cd1e733a4f5f637",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "ce78ba2bda4d938e0c654259254953b8785d3c4d3be519881e3b79f3d8f00aed",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "7feeaafc2a41f3216503577067d006fe498d84aefaa94b6e3c9c519e2976d801",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "54f31e20e0d8759aa34ea6c538a222f32fec205a4cf6956817f7b6cf43670936",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "926bc23c69a5173d9f6d8e32ed85746d04d9e3a5821d34747775ec6d171d1c94",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "a895201c44f146bda3a52e22cee0bb0b0136438019862331bab124d862a3b8fd",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "59e3ef6a204fe374ae8ec3c1a2f98e968f494bc583c43fe06b065d5456740664",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "0d23272ca99cbbd077ddd64625d3daecb4a5c614e54b13b467a31139927b2c04",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "4a69c1de348d972f9a054cb4abc089776ff53c5cd357ad182c3e0f2dfdcf348a",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "938b85a973c67b777c767a0406774bd587ec71a4267234637ff793a5c9ddf5d5",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "823369d072ff1a530c7f9fa3bb791d31033952874b57b47cd9be1f514fa40bf5",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "14a75660f013a1320838bf16e922c4387fae71ad6a023318d4f2f953ce5801ec",
+      "text": "4 min read",
+      "hash": "4d9657762e6c77a0b993256206c8bed21d2fb2cf6f39d987bd7ff233fe4349e7"
+    },
+    {
+      "id": "38fac828e346268966fd476046894b1046b0eec4a49e01ff45c2524853a86b42",
+      "text": "How To Kill The Bloat In Claude Code's System Prompt",
+      "hash": "5eac9e5a312a96c69fd9db284f014acaa848ba97a6d1604e82adc50188d9d0f6"
+    },
+    {
+      "id": "c2da6e9708d06abe1d4b25b66ac312310f9c106abc2e6561fb961bfe168818b3",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "a6b9866ed0885a1c6041f6dee4dd1bb1501e2bd3b50196ebb514fa9259211164",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "ab599ee6ee6f2beb00e65d7e7c2be3f82c98eec4bc31b2a70b4c9d9962d35236",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "c27cbb4eb592055eafafcc8a45998009ac42df1a0c62115cec2a9b9784653d3a",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "05a8387127c932d1785ef1749bc5624289d09628741cacd229498282f9668de9",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "74f860b2080b9e1b423ef4d5bb5e548f8f93b76d68d1abf824bd51871b39e03b",
+      "text": "Measure your context with",
+      "hash": "0107afbecb616c414de09960e5a8376315ac8903a3140976dc4ab335dd0ab794"
+    },
+    {
+      "id": "4ccbcacf07a2b18414874fa53900a53a7b2110ed2d3f5a52d0b43373a42d92f3",
+      "text": "Find the biggest offenders with a logging proxy",
+      "hash": "25acd9a6242b09e57b334b40a452bcabb71c1a7eb29560b80127cd63d2a59f35"
+    },
+    {
+      "id": "4c94f75d0c8062fadd27aa31cc7d178b2cb5459b2481c66f90cfaa9d6ddb150b",
+      "text": "Switch off whole features with",
+      "hash": "b858dedc37c473f851b14cbad15662016aa32b3b63f4fd1aa73ddf4646403bdf"
+    },
+    {
+      "id": "33261c30e623e3e67dd676c0a55d2825ce741456772fad3a09d97c2158270d95",
+      "text": "Remove individual tools with",
+      "hash": "48fec52f2b53b8cd897b86fb99201ff7cc6bc3537f610a753884da882f290ee0"
+    },
+    {
+      "id": "c23fbad0d8973d8713d888a26972330ba3fdebecd2f2c34175671a2dae399fb1",
+      "text": "Apply the full configuration",
+      "hash": "c5ce30f1db665d72c66eb36ddce1335248f719129a6d174172e6f7c01f8c8be1"
+    },
+    {
+      "id": "3b4cedd854a566c6c8144bf304fc22753c4bb63f413ffd82c1fdae5fd77b23cc",
+      "text": "Re-measure with",
+      "hash": "a2206a1997108e1a32c0dfa8b16587e8338197a16236db9446dfbaf433018e3a"
+    },
+    {
+      "id": "1aa6df8467f88ef94ce2f9fb4f873413527654e11f99d6550aee17615bd69bcc",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "73450a8c8c5cf9bb887ab0984a66350380d0b3da8cca84000069df551c15fcf9",
+      "text": "Every message you send Claude Code ships a payload you never see. Not your prompt — the machinery around it: tool definitions, a skills catalogue, system instructions for features you may never touch. It goes out on every request, and you're billed for it every turn.",
+      "hash": "a03c72588451fd6331178fff743dd83ed45689beddb1276f5d4e0cb8718fea78"
+    },
+    {
+      "id": "a2778673a8b15b07f73a87acf9a9daa2b51bc263a67b03e10e764a8300b9f89a",
+      "text": "You can remove most of it. The six steps below show how to see what your requests actually contain, then trim it with two settings Claude Code already has. Mine dropped by tens of thousands of tokens per turn.",
+      "hash": "6de51755e315b31f41b6dbf6ba2b3e2060a9ab715f8bad077fe0ff972d0a6883"
+    },
+    {
+      "id": "49ba10c4f347ae72885412e03d657b330ad280827b588f7706005586e8bbdb10",
+      "text": "1. Measure your context with",
+      "hash": "eb93bc3de447af70d93518697557cc3582ba7b062931b91c87f9be1f03d5a925"
+    },
+    {
+      "id": "620278399692c8bd3772a8668a09cb7c85bc1417c81dcbffe4ff63ad43a312f3",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "56975f43063c79061646ea67d150c82874f6412f1803c03cab8e42e901e69ec0",
+      "text": "in any Claude Code session. It breaks your",
+      "hash": "8d5e8afa6e934baaa1375202e7bb1ea867d18965cbd973dab84849969bad033b"
+    },
+    {
+      "id": "1ce84d5b32da19848411442a5648e23fcd5040b9690ece5f613943530c882174",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "20813d32e92ac53d8020613d331a01953b28bca595943729be5261ab03f6f584",
+      "text": "down by category —",
+      "hash": "d526b38b8c1e4543b63e5ac3842280f57a0caafff43aad76c4f9787245c93dac"
+    },
+    {
+      "id": "f6f10c6026a95688367d2aa2b7267514d6338b9dc221a090faf063b2c5412c2c",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "43347958ccd2d6f386a770b5049bfd3750a26ef2edf77a9d2f2553e8e0699e2a",
+      "text": ", system tools, MCP tools, memory files, messages — each with a token count and its share of the window.",
+      "hash": "0f73d4058993b8aa21a9219462f4442363aaaa836ed9c429a836598e01e6f1df"
+    },
+    {
+      "id": "f8555bd097138a93d16f5d3ab9de09df434dc80997f910e55b631fffbb8f98fb",
+      "text": "Note the numbers now, before changing anything. You'll compare against them in the last step.",
+      "hash": "f066c0733c5082a65670d80bbb78987df2249e72da96fad6b88a287d503dc856"
+    },
+    {
+      "id": "e2238a206f563d50ffa4672250e33a35396911a79d74d3a3a636def52bd10425",
+      "text": "shows the tools as a group. It won't tell you which individual tool is largest — it reports one \"tools\" number, not a ranking. The next step fixes that.",
+      "hash": "ff9573deb2a2009654890a58ace9f47830267779e0a4ea7af81744619a1bb418"
+    },
+    {
+      "id": "9ba3ce0b853bda727546f5d68d94453155af410d45fa89252d29f3f5adc2e0f0",
+      "text": "2. Find the biggest offenders with a logging proxy",
+      "hash": "eabc50e3752871d88edbad5e63a94a3f6c8a9bd4ff74e877beb5ef31b41a80b0"
+    },
+    {
+      "id": "ba60e98a5c53c7ed532f209b54bf5883aced4fb1130ff459f065244af657647f",
+      "text": "Claude Code talks to the Anthropic API over HTTP, so you can put a proxy in between that forwards each request untouched, streams the reply straight back, and records what went past. The CLI doesn't notice.",
+      "hash": "542b7c283aa92d5037110d3d21cc79bb6d738b961f7ebb60e029eab5d114479e"
+    },
+    {
+      "id": "7c0e54903b94373928225e850d39576d03858073e793b9bb33bdbb005b0224df",
+      "text": "Grab",
+      "hash": "7d935f258918d1a5b94b12c6509388a466f996c68ca6f254dc1ced2738a38a4b"
+    },
+    {
+      "id": "df64e7574c12f5fbde59d8e1a9b0316648e21b8d150c3645b1f4e50a767a2f8a",
+      "text": "— one file, no dependencies, Node built-ins only. Run it:",
+      "hash": "8c4f448278824cc3836b8e46d0bb98889fc40d12869bba2c01a587530780641a"
+    },
+    {
+      "id": "29e40f552fc89495d5b63ac8c176c04459f8b5d4cb7a8d61bae545ffafb8c4ba",
+      "text": "Point Claude Code at it in another terminal and send a message:",
+      "hash": "4466547c57fcbf0740b9d67b294ada9b1986899b94a3c026b62f0ff404ca5d2e"
+    },
+    {
+      "id": "38518810a7f79c675c5caf7905c5be13b1dd09e59e8e1e4d303d979584934d79",
+      "text": "Each request is written to",
+      "hash": "b9604f244e5f3bfcc2d204703f99113dfc19e36f66d8ec58e6599dedb8bb2118"
+    },
+    {
+      "id": "fcea40cb18117933e6108fd2b5a352e6561390f3afbbf126f35efb58e2fddbd1",
+      "text": "as readable Markdown, and a ranked table prints to the terminal:",
+      "hash": "3dc280aca50648ee6b172e1cb028298acb05e985614b9adae1ee72f8520a8492"
+    },
+    {
+      "id": "fc5b1e12ecdb983359f8e1f4e235d51092c88ce4b3a94c9e7af62cf7de6e8447",
+      "text": "Open the Markdown file and read it: every tool's full schema, the system prompt, the message history — the whole request as the model receives it. The ranked table at the top is your list to work from, so you can remove the exact tools you don't use rather than guess.",
+      "hash": "28946b9098438bc6ea58db0edde6877b3dfe8d38e5075adf60fd8e7ccd104ed9"
+    },
+    {
+      "id": "b52477671941e6bdb4c9426cf6ce3c24652cadf69fc8006449089bf0dcc35cab",
+      "text": "Now you know what's in the payload and which parts are largest. The next two steps remove it. Both settings live in your settings file —",
+      "hash": "aacd74d9b17a67a9258fe0139c7af8834a70e4fb4457542c6a76ccb50702a5c5"
+    },
+    {
+      "id": "c1e1668c8f63861f97296669434134beddad7c937c93ca43dade188bd19e469d",
+      "text": "for every project, or",
+      "hash": "f2c87e29416d0b3f39d5c1a2da40e503b04e07a19d682f4dabaec2b0bc0f2a9f"
+    },
+    {
+      "id": "cc211ca9aaacbb6ca327ea1e06e7fc45bdfcec20a22453874189d1483b259cb5",
+      "text": "for one.",
+      "hash": "e6f834e2f4f5364bfe128f9bce73504052d9e106a0ec233693989fbf07ef0396"
+    },
+    {
+      "id": "7c16cd9960c5882f474bfd74e4f4b8209c8c48a4169f7fb6c76731459179729e",
+      "text": "3. Switch off whole features with",
+      "hash": "b29fee7df4f86076203d7d3c888b0fd9e92f0091993cbf589ffa388bf5df287b"
+    },
+    {
+      "id": "1d81a012df30b7a453cb6de1046466fe089c534de58012a29c01fafb4289788d",
+      "text": "Some features bring a whole cluster of tools and instructions with them. A single flag turns the feature off along with everything it carries:",
+      "hash": "1fbff6c9af8891c88d8611ddc3e933f418e639bf9b0d657963b1c698d0d9f37c"
+    },
+    {
+      "id": "27366c8e8c094f64bf9c8607ea9d80f67c8d4f2713482062ff66e09264679774",
+      "text": "— removes all of Anthropic's bundled skills at once (the",
+      "hash": "08e261fa77839a3724b5239d7c235cd17a29219d7c8ff4bfe5f4eb472198302a"
+    },
+    {
+      "id": "306cd9d72d7e3433fcf4499eb6115f7538deda0ace843230e36703d4b535fe7f",
+      "text": "catalogue), while leaving their slash commands typable.",
+      "hash": "26d7ce320b3b1df14cd4211f59883ad0a519b78b66564a8cde38d32e473d3381"
+    },
+    {
+      "id": "d111bf0da17e51ae2b1a6212d846456e5d7192127a608c79ae317fb576212715",
+      "text": "— removes the multi-agent",
+      "hash": "21afe36882bf93a0c4dd8adf0b0c9420e6fe3e53c17ae4c92f136758bf49622c"
+    },
+    {
+      "id": "c5cb4164e004e7c1ef7f3a434083f16dcfcc87b23b42ceaf60bbc44486ba991a",
+      "text": "tool, the largest single line in the table.",
+      "hash": "98c0fc70386bfecef021bd306ae88f9e88c4b065b910916895d0f493094bc8f6"
+    },
+    {
+      "id": "46b3fd12c223eca6f3afdcd5a78b3ddc9f09f8a8246241fd1dfba54e4ac92c76",
+      "text": "Use one whenever a whole feature isn't earning its place.",
+      "hash": "0e5c43fc7aa00e122b6a7c23e863d5b25493a7646dd68d9b9012a49e3feaa2f3"
+    },
+    {
+      "id": "71142137fd2985673022d5082fd85e988042d25dc432b0ba529aee5786a0905e",
+      "text": "4. Remove individual tools with",
+      "hash": "27197390a4608c6b1ce6abf735855f96ad4d1def17f0cdfc2d4a6105b49c2a0c"
+    },
+    {
+      "id": "2d6e782d369fe5539d7459966398fbb437dfecf4f936688ad8b8d119ede84be7",
+      "text": "For individual tools, a",
+      "hash": "2b554d850aeea8d44b7c895b33cc554c9b9e3517f6226c4d703e6d3bfe4db519"
+    },
+    {
+      "id": "a325f67597158f99d3c80615474188a75bc30b0fcde5dbaa65e356d7aebb4761",
+      "text": "rule with a bare tool name removes that tool's definition from the payload — Claude never sees it:",
+      "hash": "5f649db0051cce495b73536d5153d95bdecdb477b86d2a0e795a93517bbab53c"
+    },
+    {
+      "id": "bc7fca3ea41c3ea442d171cf8fdec227f72a18b657551045f1f25788c17b0763",
+      "text": "One detail worth knowing: a bare name (",
+      "hash": "7468f16e12a6958f941f7d5ff0aa6b5bb2ec72bc55ef0e64da7cd83f45ebd8a8"
+    },
+    {
+      "id": "290739ab67a12b960f6154032546455501a80bfb6b2510ae9ce9f33e27a760b4",
+      "text": ") removes the tool. A scoped rule (",
+      "hash": "a5b39906a19a11ee0979d9ce0ee0fa1817fec308587b722e6984bf1b1fc302a6"
+    },
+    {
+      "id": "d27a70d5083afccf11f6c38acb82be3d762b713c4e66139edc904570e161dc88",
+      "text": ") blocks the matching call but leaves the definition in the payload. To shrink the request, use bare names.",
+      "hash": "c938846c1e54835d9d3ae9badc0b9b62f85b192e0c0d7ac7b65fd138c4ab1c9a"
+    },
+    {
+      "id": "4a0f99f899e7b9cae1e365af379717bed2ac594ffbbc6719c667e2bc5d13400c",
+      "text": "The flags in the previous step are the broad first pass; these deny rules pick off the individual tools the flags don't cover.",
+      "hash": "fd59b6da3d133555640dece4283d31b0b289df93944e8ddc1e80e626a970c63d"
+    },
+    {
+      "id": "2130cfacd6a4c2e32e825ecfb824d4121de091a4c76388c3351ac265299ce61a",
+      "text": "Keeping some skills but not all?",
+      "hash": "747ff4df66196ab7a5733827752285e21a30f87752bf90d4d2d86f7887474b03"
+    },
+    {
+      "id": "44b7a39d40eb4be1085ef6b950d1a11894809ef116f312beeb0786861d858a63",
+      "text": "is all-or-nothing. To drop them one at a time, use",
+      "hash": "719b623118288823aadab3d5e60132dd9d59487bde2cbcf209e965ce34ac77ff"
+    },
+    {
+      "id": "8fb4108036fc2e6cb0c39a2c020132402dd521549d76f5e2746398ed05f10c3b",
+      "text": "with a skill set to",
+      "hash": "842c8b8778e37a289f6335cc29da9cb756f5f4c56fd96e4610d7e7b27fa2af5d"
+    },
+    {
+      "id": "9b9dfd433bed22292500c8b8fe38b05094b6a46618eeb06e10d03bb699e4c3bf",
+      "text": "(removed from the payload) or",
+      "hash": "61e6e13c97bb1d35456390d8f9ff4c17103d06a749654005185e28d28e28f530"
+    },
+    {
+      "id": "e333accfffe61caa7cf878ea5f29f4872b670762499555d0f587860e3fa87e82",
+      "text": "(still typable, but Claude doesn't see it).",
+      "hash": "7b5f12775fefa42c5479eac5b404fbcc3db1f5519c5f9c6bdc6fee8b056fa519"
+    },
+    {
+      "id": "9696b7d1f7931aadd6073a4a794a4486c575827f3ab4ad562beadceaf0c0efcc",
+      "text": "5. Apply the full configuration",
+      "hash": "3eddb61cfb715f648e65000e72b1d53837837b34edbca7ff1a313afe425231b7"
+    },
+    {
+      "id": "457672c6e54c9d3bdf97db3d6a44ec075aababe417246499aef01f691cf4d82c",
+      "text": "Here's what the previous two steps produced — the flags and deny rules that trim the bloat, ready to drop into",
+      "hash": "ad16624d46db32c64c562e57ba71ce6f0391d3c1a19c7ccae8f9d2c2c460b7fe"
+    },
+    {
+      "id": "35cb3bd13efce1e7126538cdc26b330354ee8fe05c0e7f1cea38f6ed18150828",
+      "text": "Treat it as a menu, not a prescription. The reason to see your own payload first is so you cut what you don't use. If you work in",
+      "hash": "c575b0f8626b8fcd7ef40c98b5a54aa997892efe125e9d3ce735ae4b1152d034"
+    },
+    {
+      "id": "63417e24c8477637db9927a5ec0c9a51fd137000c1188e95fa63c93a73269c59",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "9a63be4d131d05fd8a67c418879ba3d2b0e1599ae73bf0789a72785024ed9483",
+      "text": ", keep it. If you write notebooks, keep",
+      "hash": "63006f8908bc2a56879c8f54dba6f0cfbc81e675fed0b1b3c4d9b6b455a26e25"
+    },
+    {
+      "id": "9c87ddb61af39c7c2e12440ff4065819e1c25f731dffdc4a1f48568642682c05",
+      "text": ". The list above is what earned removal for me.",
+      "hash": "77ab9dc22baf39d368387abe8a4c4206c21e7c0034668cf160ccf9f25aeddd84"
+    },
+    {
+      "id": "af5bbd09adc4aaa5d05a5c4d0536745ac5194668c2665a9d033cfc93ea8a2f05",
+      "text": "One caveat: some of what looks like bloat is machinery that background jobs and multi-agent runs rely on — the task tools,",
+      "hash": "df0621f22069b8cddae759009c7bf9ac284875579cd2603903297d58bdcc0b53"
+    },
+    {
+      "id": "cc2dd35af79f514d151e74124e784f7ac9f582acb8f34d5b3020edf542a96f9c",
+      "text": ", worktree tools. If you use those, keep them.",
+      "hash": "a109e01330ef47407cad03d0f549d5cb72820c7f223d903d290a1ffa70143898"
+    },
+    {
+      "id": "0a318b76d993380cf7e1bf78b234af4e8ff9c7d074734ed34eec719055fd2ed4",
+      "text": "Want my whole Claude Code setup, bloat removal included? The",
+      "hash": "09e5a15599a72086bf35d869ee6ed34065a51e807981ea2f6baa11d466edeb48"
+    },
+    {
+      "id": "0e60768813e1f9ca2c36e378d8d5e8441d082cd3866b1dff880e35f56c19039c",
+      "text": "skill applies it in one run.",
+      "hash": "5b77c950affc2583e2ace8ea9ebd0d77cfa0c58454591ea39f3a7b4984a4cf6d"
+    },
+    {
+      "id": "63048cc7247e13e02084daf752c02b64f3adaa0738bf308154957ab41fa75e14",
+      "text": "6. Re-measure with",
+      "hash": "9029b481a95a27cfef06ef29dd5a314c69be5760ee321fb410a8f4fe273fed63"
+    },
+    {
+      "id": "f466cfde9c28e34bdd605224374a1669ec5dff2cbf4c9a9407b610b2e2ca0d04",
+      "text": "Restart Claude Code so it reloads the settings, and run",
+      "hash": "92d9225778b5c054bb11f8b9d25b4f136c828e7859cee42aefb8bea67e932137"
+    },
+    {
+      "id": "fe61b660ee1fddd5023c5f0e05ca536dcb8825e49687e8b1738b7189726ac29e",
+      "text": "again. The tools count and token total should be lower.",
+      "hash": "9851b04b5a515b77962d790433fdae041b8d487cbf272dc24b18dcbf69d0efbd"
+    },
+    {
+      "id": "6c2f9ad7b776f604ce588bcbb23e1be5f3f6bb81a1c6e3453117f6bb0b1e0756",
+      "text": "That difference is the tokens you were sending every turn and now aren't — cheaper requests, and less for the model to read past before it reaches your problem.",
+      "hash": "aa5202310ca4672260bdb09aa889d8ec0271f3f71b7f229f272c56aa4335ad31"
+    },
+    {
+      "id": "05d861a54311f402b0e9affcf17952d88126fbafa3cf6e0ea83338670ce45f13",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "9fd32b010a7c02c7cccc34cd5bd51707404d923c09cf1726d70a3fef9b2e4f02",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "14822ae926cf2c84775db1206c5b3969baca981d55fb8d2e08c1460c5f030abd",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "87c662f03e7532132fdc8a2264a7ba826a95dad1a1639b7c1bbb770d18d3ba8d",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "b38d4129298b5d90a77c54201f7c140fd566a1fd0f4943e391ef1c3ed192f518",
+      "text": "Article · 3 min read",
+      "hash": "9a559e56b103401e5a162120da917171aa78913e233fb28169988580696ea61b"
+    },
+    {
+      "id": "73972a9197e44d6fa43425e770664f5143bd94a13a49e37055838ed75fb2c450",
+      "text": "This Hook Stops Claude Code Running Dangerous Git Commands",
+      "hash": "bece2dfa71670e0dba50ef01a35087b4bfd34004db429177a1d484837dc5ee9d"
+    },
+    {
+      "id": "f0c358b1ca4924cd28fa7325c38d1c4628ea623191dc47a385495e687c56c3d5",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "dfa5526aeabae87ffe8f6096a51141283ca56be5dbda49236f4e9bf3c4a6c7a3",
+      "text": "Creating The Perfect Claude Code Status Line",
+      "hash": "bc4c57542ded814b79775d72e1dc31fc4a80cdc8c55f4fa34da5bf9cc9ba522f"
+    },
+    {
+      "id": "5c3cdfc8fcbd0412e3792279239ddd8ea9a023858fe3e315e23dd627af4fb353",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "1353cb026160259d8e63d67032deb0f9010b106ff9837d87655d78e737e2021e",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "6768231b1bc14641f6d1086d06a9dd83b45580f9ec1851cff82012e0dde11d1c",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "0894fccdce5e7eb62acb6a0213d9db25d8f8043ebe661c109bce4810f3598905",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "25c87e620897f7f82499cf839a31e4483dcfed3da97f533a97c60bd6a0a03026",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "86e87f55a691fd554e095b63297573da58aaae966383924c2ca64f5510e77ed7",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "af6b111b206e05a40edd59cce314d5d95dd03afa2130a9fecd357fe762ed89fb",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "3b8bfb3e8189bbcb2800b074a830db0c40d02bd4997517bc83f9bf199805c623",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "6bca7189d5759649c67182a43e11dedf96461ef482d94ea7b3aa91ed866d8e09",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "acc94f6610c7aede082086ad3734835812a9c122eae2e73ad07afb56931ac505",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "d4d7bf3d9746b08482f7562345a8030c03e110d3c2ecbfffb23ff1dbf920ce44",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d7aa5b888fb09cde18e6301ff6154d56db66f6f7cf66fae40307081339d71ba5",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "1ccdcd6a68d7ac412b14b3d08c3bae8266885b0cac670258e35412f9574df6b6",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "c2fba4208e381060225d756f51054af627cc71957cc14cb2b228ddda8d3806ef",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "19917204ca64cefe77f78a9988c55451d945cb123ae4bdb3b985e05073d3fdaf",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "3015ef80e2d2b8350f68a1aa676d2d09a776901de311ebae2a82c7ca29f52f0e",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "63730d7cf43c510c0245601f8d852d3b72dbb9fb3a00added8fd8afe3a8a52be",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "632c277671f4e481592a42dbd15e9b72a26b435a464d7e56b0432e13f89b1cc1",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"bt0wu0u2sm67qp\"",
+  "lastModified": null
+}

@@ -1,0 +1,468 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/model-provider-request",
+  "pathname": "/ai-coding-dictionary/model-provider-request",
+  "fetchedAt": "2026-08-11T06:28:30.961Z",
+  "title": "Model provider request | AI Coding Dictionary",
+  "contentHash": "3d69473684c78a6dd363dd4f8beda5d482528af7fdd2f795e587a7c7e2495c91",
+  "textHash": "947fc89358ac5d8fe7bdd203103564168c7684f3ad2b8411426bfd6d40830fd8",
+  "strings": [
+    {
+      "id": "13fcc5ac592b43b65ae199e4039ff9989f1438af62c6f2a072caff589ba64530",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "4ca378f12f7e21a33695f322d88b8faa939e69f3fd20a6e2740b661afbdcfdc0",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "f0fb53d3a7ff3ab2e97a93b5e79a789c3b1c1d3b15c7861027f776d63fa4b3bd",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "ae5a88e9e0e3652bfb32cf1ade94cf6faca3b1a0912094a6833ea3c2ee7e472e",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "59c85ebf152191cbcaddd0e4602a5481ea46268c726e8f25360953f88b532ec6",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "f30d301a4773a2ee2cfbdc2ad3f37ef8f08b26fa5ede7eee8ded1f876642726f",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "418cb0f399e04f7d3ea5c56dbe96914b0341976531131c3150171f398053f095",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "df0df0b7c1e056c3a98a334bf942d1d25447cd07f1c788fa05e96681a81108c1",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "023ff5cccaee76dfd4e7f0e1bea02be27691a1b8c90f5ff3506a983a4c5f1930",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "edfe031b8eaa1abce0eabaa0a1ef9c260d8db60cde384cadbb5942cac47112a2",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "c244a2c7d376359d8d2d6d551c4953b421ace9f43a94e1a2731fc42e4cca3fb0",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0c2c444762b16d8cad0bf1e18ed1b7f8b5ba16e905c67b207b184faf7a4f6ccf",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "146aea0c83b8199bd12db2ecb91662f3a2bfe24e4a9fefe206e38adefebca227",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "e2aff1de5f5537d6724d0e8025d433bcb0d08d9bd85c475211d052e50e29e75b",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "3330d9f8cf5197b89ea798ba1f3ca7d6fd44a7e3a89f819cc5ab5c5b42412c3a",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "90fdfd538929f94c7576d44f7b81d77fac307747c0c7a51422b577196cceedd7",
+      "text": "Model provider request",
+      "hash": "9c5ec7e007cdf80e19c7d748afcb27235638ab5cd45408bba18188a20fc2e611"
+    },
+    {
+      "id": "2b559e347892c332cdc117c0cb2abb7b15b250b99da2f72ba163747f874c9d8f",
+      "text": "One round-trip from the harness to the model provider. The harness sends context; the provider returns one response.",
+      "hash": "bdfc4a1521ec2576fb662ee7b64f4831ff567a899ad04ddd0da1adb3c5270a1e"
+    },
+    {
+      "id": "0e9455248c524ea62d3c286f3c65f74d764ced831d9addb4d499563db85b94f2",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "fd6d4ab0cb2cdc436c006e7385ae750344718ee93b03300c3c297b98483e042e",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "7c7304738bed62a9449789409203f357772cf4e57ca728d3acd631a97e006893",
+      "text": "One round-trip from the",
+      "hash": "75e6d955219dcaf076840f9627d197dc196d58f46f5443128a47b686b54b4045"
+    },
+    {
+      "id": "17461643a938afef5b62ff9d97298619ed021f5dfd742a44601ef549d239931a",
+      "text": "to the",
+      "hash": "87b83637aa28e7f456d68df065838699179c66d117e8062f0be558e7da498d0f"
+    },
+    {
+      "id": "ce6871824ef665216518f8a17ab6af6f88671fafd96d3a28f76468ba9820ff5b",
+      "text": "model provider",
+      "hash": "246b63adac7f39ba5bb454147f02345525eb942a929d0640282e7d17d229e313"
+    },
+    {
+      "id": "8e40e284fcb75a86b4d8761a8d40720ed204c51836cee227eb173442cf09bf0a",
+      "text": ". The harness sends the current",
+      "hash": "4460a96a2e552fe8c704667e196c4923031d2f6c6d1772af4ed8c130fd825909"
+    },
+    {
+      "id": "88f1cee596cc50a6ffa73fb03c7046bf37b6bd68dd066f7c5aaf071b985895e4",
+      "text": "; the provider returns one response (a",
+      "hash": "21d618520f4fda5626085c2957ad31f67f62be4379c96da648c1a6e121d69881"
+    },
+    {
+      "id": "e066323d075d3b354bea2de0eafd863155d3d96114f12172a89f59f54eac1a11",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "a88111f9922363b880268fc11d67e7861296bfa750bb8dcb365d50cdabe0386b",
+      "text": "or a final answer). A single user message can spawn many model provider requests if the",
+      "hash": "421ac33f786d9aa351a05590cd92bfb041badc4513e2a2631ebed45df2216d83"
+    },
+    {
+      "id": "267d09d975080d49860037f9ef8591ea3d611db3d9d5ed4c0d28750bd2be1053",
+      "text": "— each",
+      "hash": "944f800ef0c2441f7ef5a6514dcb1ecb065bb2cc0d6e03d4c657557711037d69"
+    },
+    {
+      "id": "0153961f21f176c6b16f863e4ce9d9c8c299b89688921d542b36f9526e049f05",
+      "text": "tool result",
+      "hash": "496514e28de40f2624fbc4fb01c89afaba32fde82d1e1d6c19ab43d702f7a230"
+    },
+    {
+      "id": "0bc5ae240e37b3978b97b1a7820c55b273432a0bbf9c7c066e20e7914913a307",
+      "text": "triggers another request.",
+      "hash": "d12f73d09ad4500e9cf044c11f628b97611c6f65682a45e3c36ec2e83285396b"
+    },
+    {
+      "id": "f861daf8c42d297dafa8d9428a7c8377dc0da3236202582e271a9a8b693b7453",
+      "text": "Each request carries everything: the",
+      "hash": "a530bad444cfee80739d9de0a2e10018dcfc4dda334c1559556b6677f67e826b"
+    },
+    {
+      "id": "3ccd9fbd307b7dd75c67db88e457c7b205221f687d1e8b42650c8afb346b14c7",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "73b8fa981a99c08e0223c4a50daf6e9f0a2d8e54e982811dbde2a4f85be5f812",
+      "text": ", the full conversation so far, every tool result. The",
+      "hash": "49c6989f295f6675bdad744c2bc2e6334bce32bed622ec22c902628e70079257"
+    },
+    {
+      "id": "33ef59e15aae3ea972ef207ab23f93eefe616b011ce20b5da3fa2cb687570a91",
+      "text": ", so the provider keeps nothing between requests — request forty re-sends what request thirty-nine sent, plus one more tool result. The",
+      "hash": "6c48bac8c0488481d63b90d477362ba6b2b0c1d63e6253974d35971d2c5e6d2f"
+    },
+    {
+      "id": "c3d302e169c9d0efd20933fb2d71682980cd5f5c569fabf949e583f211401667",
+      "text": "prefix cache",
+      "hash": "2cdfb6c2d97e750050af7ef5f0ed3c788737a1776e6c1f740f856462592ba13a"
+    },
+    {
+      "id": "71155f17d4823e602f01b4be8698e770d2929e0b65e91860d498600ad79bae3b",
+      "text": "exists to make this repetition affordable.",
+      "hash": "93849103aa18cdc691f70f253331ea272e825ce0067a04484507135760e3ba38"
+    },
+    {
+      "id": "bf64ef0fc8fb462535c4c4cb142ad4171b58e757af4f3683e68bb8547ac8a85c",
+      "text": "The request is also the unit of billing.",
+      "hash": "8b331f31055ff0d5f861a808cb153c99717a92fd0a49cb66da475b9138d6ce57"
+    },
+    {
+      "id": "19b01c653c1aeedd94eb881b96736796fe4c20e9134a2f9351b5c5c928d98e04",
+      "text": "Input tokens",
+      "hash": "dd856eeb50463bae46757d871d833fcb63d29a39356e7db40fea337f6462c947"
+    },
+    {
+      "id": "ecfec3feda19ce5a2ca4c2a689f9094f84a8866e4cb448fba6391c4b835048c5",
+      "text": "output tokens",
+      "hash": "b6798bcee84a53a994de8822f2954fb739ce9a8eb119121f36b363fe86182357"
+    },
+    {
+      "id": "1ff85d35c952d30deea7cc3fb68a453d60ee579eae9b7cd97a12f3613d08c7b2",
+      "text": ", and cache discounts are all counted per request, which is why an innocuous-looking question can cost a surprising amount: the cost isn't proportional to your message, it's proportional to the number of requests times the size of the context each one carries.",
+      "hash": "1123d9d71d406d668285ab7b31aa8deabbda457533f459f4c02f619647c525ed"
+    },
+    {
+      "id": "fea268e31e932a91c42ac81a01a0380144db34b9ad6a15b71bd3760239fe8aa9",
+      "text": "It's worth keeping the request distinct from the",
+      "hash": "465d51bc4124dfe023de564d7e278b11d1d336bd363ce0b446f114cc201f31f7"
+    },
+    {
+      "id": "b1397312f0855fab9b35c8404f8301269a60ce739db3ea31e2d972f1687e643e",
+      "text": ". A turn is one exchange with you, and a single turn — \"fix the failing test\" — plays out as a chain of requests:",
+      "hash": "b09efa604a164b57ce4a3159885519a4f7df71a7509f9c0a25f9fe4fcc4b23a4"
+    },
+    {
+      "id": "259810badbf90771953e2585824381aa828181768c42a6a48f399aaa1852a898",
+      "text": "Request",
+      "hash": "59f03d642b41e22f4575061e817f9e87c3ced5a0e77d5c92364bd45b7f90d0c9"
+    },
+    {
+      "id": "e5493a94d7d4b566785f54339a8228b8678b4cee6a6b1a32eb53b488ee82eb05",
+      "text": "Model returns",
+      "hash": "4c5f0c3d665cb9f938d4596550ca8162f7d640cbedf3e1d54c982e3baed46716"
+    },
+    {
+      "id": "8b107ec600f3af024ea9949b061029a3563932d9eec90b8f52e4a2b49f3d0172",
+      "text": "Harness then",
+      "hash": "a632df10caed86cc945987812543aa290b9233146fcb365f3299fa3d31f9131a"
+    },
+    {
+      "id": "bb61e1c8df304d5d1977c7c68509059cb9d81a0d542212b963eb95eed8b910d2",
+      "text": "Tool call: run the tests",
+      "hash": "8e652394b2631e14d9122ba57acedfa4ad31241b10bbfc9ccc7974bf9e7dcd7c"
+    },
+    {
+      "id": "cf8140aa7b6ea0210e39bf8bfb8fa9d5b2ac9b6c8fdc2192d73764c0d261112e",
+      "text": "Runs them, appends the failure output",
+      "hash": "c1dee58caf7d5fd787beb48037e1a02f4b0f83d4e81f8b5ef8dca88767b48029"
+    },
+    {
+      "id": "3911403570c89dbd1f3d773abf89059c0fec4d0e4ed194998ceb9697642e83ba",
+      "text": "Tool call: read the test file",
+      "hash": "8d441041c8b81f640e226e6fca6b76771dd87a4884ff0dae7682d0270aa4de1c"
+    },
+    {
+      "id": "78448dece46677a8180b779dacb37f9dbc0f7040a959d9e30e10a1aa5e651bb9",
+      "text": "Appends the file contents",
+      "hash": "787e645304aad5aa8ee4b93cec8078ca70b8a5d86b11ab46086b58ce7784dfdb"
+    },
+    {
+      "id": "35335d2cf7ad60beedc0925e9200ee51f8de618e902b3af5ca7828d296141bd9",
+      "text": "Tool call: read the source file",
+      "hash": "492bf6a31c3e0637089e95df833b4aba876e5bc6462fb172b2f106892f054ce9"
+    },
+    {
+      "id": "382f57bda9c502c9bec8ccae77e6f07500168d1e63a8644a5d05092120223a95",
+      "text": "Tool call: edit the source file",
+      "hash": "94e0fbfe3f3257e3996acaa2e86e33a034f3e4b6502d760819cfe2b96c776339"
+    },
+    {
+      "id": "12d45c1c012a3e9cf37654dbf46db34ab367090eb22035432cb6fdffd1191799",
+      "text": "Applies the edit, appends the result",
+      "hash": "cd643ba545c872b533640d4d22330ac8c653a85ee10057a7e9c642a606562a07"
+    },
+    {
+      "id": "c1fc503a4b5fd66cc3fbf8628f053cbe088c1d89fe0fa8b0bc079d306259fe61",
+      "text": "Tool call: run the tests again",
+      "hash": "a2a92a599616f6b0e8f08dfa431b70c897f8fd08db906459ae4bd3b16408cf60"
+    },
+    {
+      "id": "8294927ea5dbc581c085ee26a9225bfa1d33081f04a90d8b25ff62956dc0b9c0",
+      "text": "Runs them, appends the pass output",
+      "hash": "9ba89a02c50d88a142b142592acef6ff24ec9bac2e7777a91731bed9aa0a1458"
+    },
+    {
+      "id": "19f01adaeaf3f8fb7a77e21a21e457f8c9c16085bd85800ebce3594f141a8fd1",
+      "text": "Final answer: \"fixed, tests pass\"",
+      "hash": "a44634a35ea3b23a0b1bcf0872558ba3f9c61a0b78bf5829bb140b6386f9485d"
+    },
+    {
+      "id": "1090445012297eefa895cf0ae9186cf7645a030e98ea4d18e81f52242a27d20f",
+      "text": "Shows it to you",
+      "hash": "3a314c51ac462db408b9f3822d20850a0e62e9a96caf3000964f9e4101ef1427"
+    },
+    {
+      "id": "97e61b7aa7c561e1f0a0a5c4315a3bb1881d9a45ee165ce21813016e394858ff",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "3dc6c2e85b2abc182879123a4d330d42fb5f24d50c382345a4524d72d7e9c98d",
+      "text": "Six requests for one turn — each one re-sending the whole context. When you wonder where the",
+      "hash": "6010515753f48398114c3c78ef04423b2e944d979c6912493c29050661cb2acf"
+    },
+    {
+      "id": "2b2b366ab35e16379a4edbb121c49e40202c27b678caefbc89342ece5a678f04",
+      "text": "went, count the requests, not the turns.",
+      "hash": "f63843aa17b7330986de95f242be62d34bb678e9d2123c3b82b1d3b085498133"
+    },
+    {
+      "id": "f02f8c13c18fdbb84c1217bc54c71d5e7dab9299f82e634ab4d73a0ea42bade0",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "2c4f63574d6e6d13721ac52afd3aa8a62b6e5b98a29b416b10d722cbbb96eace",
+      "text": "\"One question burned forty thousand tokens?\"",
+      "hash": "c6e9670af5ceea515f8cc19b4acb93df33b9ac795ea348f042de00ffd7174172"
+    },
+    {
+      "id": "9278a3225e0afff0b554c5fbfc018e1b0a971a240e179a8d3b5af303a79164c7",
+      "text": "\"Look at the tool calls — twelve grep, eight read, four edits. Each tool result spawns another model provider request, and the whole",
+      "hash": "71df0d865ae6e7d412f1099f1f2bd84f63613ea362dd110cd0acff8a202bfc03"
+    },
+    {
+      "id": "fa7ba6ed215a7b97386795a2e498538443f6ebf24c84e8c4a9c9f4ec37817de5",
+      "text": "prefix re-sends every time.\"",
+      "hash": "3358e0b751903f3235313542475e4fc9a2f1e8b3f08541c15813a377a89045b7"
+    },
+    {
+      "id": "0d6bb6403f8ea857795d2a3a033fa4934d084b2d7ef79057c177809d799b0276",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "c5d07c70f0b6ca23e3824adadae1da8c1c1025a83aa2cc45606cdc24ea02385d",
+      "text": "Harness",
+      "hash": "e3b5b45953d79a150092df37922ee6261a81040f5fb3c084fa00efffe8b98589"
+    },
+    {
+      "id": "191f3e5e32a1be49d1a5edd47296bf9763790477c142ab947ad9eec0514b5242",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "abf5f5044f9783b4a524604118d8595c4b5b9f6192981246aae5f52e6c0457d7",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "4e25a65785811ed7a7cef621c63593a5f4ba7f306bcd3d84cd34c8c8c1b7a5c2",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "fc9a1c738833ab34e3f383cde12c9a3babbe7a165b16ff6c653617b3476cdaac",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "17f737fe464ec66e19b11d9455032192a1880984ba56b6c7def0e64952097746",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "19cbaddd734a90d962a281fff550edf0760cd58c83616dd9e45807dab593854f",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "b40ac7fc81b0a543f58c9b7d0a7a8f55763b6d1bde6dcaf95d410229d629c63a",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "26abb97f82666b31cd93704882a5cddee515c98811b8afc08cada075918a7ead",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "ec70d8644531fb20d3f27f8160db4dda1840dcca12d35e03c712db1cfe305cb0",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "c0a753a28f5e068a0b59977b055e77e1e305e58f828de581b1efd0b218440cc4",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "2e700fd7fa11b63de49f4ce1c2a3f4c8873199859e31fb63205c39c415a69787",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "f7e14932887fb7657bfeaae98cd4a1d8e51a62bf4cc69915ffd2c9a109f19aba",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "22b362b423218c17a029282c18acc95402e7336a1184d8bc13f3f97beb399922",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "f0d3a661a112efec9d8289864c0654d44600c7b90e9b5e9bf0d22fabb7329b07",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "c3c3dab3eff7e8dbc24215e417f2c8b2c26cdfb358f34eb021beef8ae3b1a8f5",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "7e35a23214ab7d37322c3fb37d706b56601d778f39f78c8b682cafb2162e946d",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "2a6084af3efe87928db8e05905019eb7665450c4474fe8ac6c0f4910129a6de1",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "5ac0831bf8ac10c53516d54c9935d96dea235b2f7d1cbed1aff1ddc035a631b0",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "ee86b7692b48f4a2f985045f08eb742d9830234e409a0c7b24777c1cebc59089",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "7e089a232892ff5b25c920f199cd82f09e5220f986b1d393dc18ebe713ef618d",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "19e8e02a86f796f3a3676e88c2c36ee8ee5917624e7029d94232e5672194b3aa",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "309f86210e67164022a0e05eb51a43f68ef98bdef9d389ccba9bd3ea89151455",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "6b7f8cca596b5da28a60b18993752870f5c1a997d35a7975c36f164c60b0e956",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "f65ee07b81f4a9a6c1819cd3357819cd42ed342027ed52ac33deea7fc5767058",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "a778c95c8c6823e9ef64fd9bd8074250f8df623df155e7399ec091234959c9c0",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "e8f8026ffb6545cbe22a6d809ac45e3b65c5b9537d13c2cecdbae43aed15e3d3",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "a47d5d2fe93bb903ca855faa5be63deafd4a0db28703947efe0bd93995ff2ce7",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"jho8wpga6q4zoi\"",
+  "lastModified": null
+}

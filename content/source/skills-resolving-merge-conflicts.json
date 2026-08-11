@@ -1,0 +1,658 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-resolving-merge-conflicts",
+  "pathname": "/skills-resolving-merge-conflicts",
+  "fetchedAt": "2026-08-11T06:28:05.441Z",
+  "title": "The /resolving-merge-conflicts Skill",
+  "contentHash": "e2f61e793605c55854727601861297977ab1ca08d8a52d11dcac5bec1acd2223",
+  "textHash": "307b1c05e05ed2708a51cd9e927e4e3b44d295965c0640f2af99743f4b0ccf08",
+  "strings": [
+    {
+      "id": "383ae391c51c351b39f3f1e8d32a336505dd5428d01a3432a18ae37982b6abce",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "ff6224ab0178dd3d2b9f109d13a7955aefa76a23d1206da384760b63cf6f3988",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "bde91286be34a576e974f43bafef9312473853db471e8e0cadd0579779d873cf",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "8438128c52d34be51ade8014350d4dd18127cba88521ba0c0036b475b9d02ad5",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "95ecebe8a69426d48dda7d32be87415ff663577b8e05c45bf4578cfc14e2906b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "7c5b40da8ae559fa432248a945aaecd5af93b98b2c384e4018ec4f93ca1282fe",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "30280d449c3bfd24ec7f5b3a768d272e49c356210d1318afa26f7e0456f15bb3",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "f67f25ed903faa31d4b2264f13e5f278766b71c24aab4661d187d6a8705fc298",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "ae84da73ef19604bbf8ae478a069127a6f76782338bddf26177d5bf5dfac8c81",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "9b00b18e622e3140628f9e55286d1612345ff21bd8c89b4508d829e132c66e83",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "003fbd927b7b2f15aef9f9917e2d66e7b7862b18602cce8a54b9f8713061afd2",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "f2153240493e65c33bc6437cb49f85d28dff91a3499c2653b43f505ed1cd8aa0",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "24f69fd2c3f4f5437e9993702154580745008ce4dc116e3c9492b7341483924a",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "37e690bf47d41acb9b3df6c6131b7c02115ee070b7185774082537188928e3db",
+      "text": "The /improve-codebase-architecture Skill",
+      "hash": "1d2feca177f8d2a2229e95a3f013777630bd379b24ca132a89d1c87623d2d722"
+    },
+    {
+      "id": "6633396036077ef42373df92e12cee46bbbfedf7973bd6300dfb8072b490771c",
+      "text": "The /diagnosing-bugs Skill",
+      "hash": "82d22e5c3f7a145e0c607c7003a935a563d1e107a030000f3aa33cbcb8f1f676"
+    },
+    {
+      "id": "43329014b608cd6819a56b781987d0f1161edd2ef24939d2a0a67480a0614347",
+      "text": "The /resolving-merge-conflicts Skill",
+      "hash": "503c1d265cd640ce24d1252efc32c21add9fc91cd0c40a7ecf7af547a1f28fd0"
+    },
+    {
+      "id": "fa414ada066f2f02e56dfd05e17686aaa670997c7ccaf5d4ec3972a9b11fe4e6",
+      "text": "The /triage Skill",
+      "hash": "28ca8c73ddb7e7f15619f62dd65f987942e6e4a625b9bcc743e938d3322893ef"
+    },
+    {
+      "id": "373faa14dd3adb4a6d048d48cb3a2d8d0a7ebed8745a96e9792f85b2dfbc22eb",
+      "text": "The /wizard Skill",
+      "hash": "dc2a9dfb2e7aafb5b920a374d3edfadca9df74126313b2f8bbd9533e45a3805a"
+    },
+    {
+      "id": "c7f513bec1884525f620bf26d13e20e643b734d240e6ef1e22c257d28247dcda",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "bec97fba21f69c78e96d121bf87c3f5c4caf80ab0095efb3242d10dc6c68e761",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "1c48c9dfd14ebb8906a7011e491301e216bfba014f6cb522fbf78f621624d46c",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "493fc8213c569454f83efbdc810c5970db1a6089b9f2a9f2a750bc32d2b3c60c",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "62b8c9bd1f72af13e81775a783f3bee8f319f94d178d5298746d2c8f0562942b",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "c19b9ac46c6754fa7e78e84c87ee2b50911c9aea084fddf77fdf0149c14c631c",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "3fbc1f8ed9b6e34930d0f8741f2e4c7cde4b566d1dd66aa3ff46f0eefe1886ca",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "21fde33796708d2d29b3481c91708fa02b21c6fbeabb3b18cce432ccb1b0eb18",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "775362d479508e775ef31140a0d985f662ffc0890f66659cb8dfffabaab4917e",
+      "text": "13 / 25",
+      "hash": "3c43cde6267cf2443efbb9569a25328400f522b324b5f634c5708104f818ec74"
+    },
+    {
+      "id": "952535077aba15e7d6644c46ca85810e13d52a3a7c6353ff59293afa7d31f5a0",
+      "text": "AI Skills for Real Engineers · 4 min read",
+      "hash": "9c7b53e3d0e1538c590ba330024e61d97b981d48f8beb40791c5867170d2ae49"
+    },
+    {
+      "id": "14aeb23ad6efa142066bcc919180d48a490c836ce5e7d875c8d0bf929d284d88",
+      "text": "Finish a merge or rebase conflict, hunk by hunk.",
+      "hash": "f0a2531ad701741352b3d7c996df8522dfae50698ebeff40d771a35d0f768fec"
+    },
+    {
+      "id": "bd5664735b5b587c496f2e68e4d32d41c22b72c6a0b24bd33044aa7c4d878f8f",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "81ead9cc05f2a6690edef92e4b85fb3a374cc229205e2ac18b1e1ad3e5b9a572",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "6fbdf11ca5815a1c95d24f9aadb1d5f76f1d9928a4b71644f48a840bef75b305",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "ea1f90dd189c33442b2e3aae293ee0d757cbefe08db7474ae7460c7b82375b11",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "90c4647660767370d48ca55434f532cab150c844a84bfc8a74cb94cdebb4290f",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "de233879aabc9b19a2d2a090b15cc800992a8de2ac3f5063f0963be00ad29cb6",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "418afaa941197d158e5e96b6e4397ba46e4c3211d199025866360aac2cda5760",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "10ac23f90100b806cb3e332b8ecb50d46e1181ff10d35e3f17de6135c362a3c4",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "26f2653f49676ae34e0d4801dc374d3c37da2db1e0ffe676bcd736a49f90eac7",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "cb5f5a1cb1923f2842dbba2b3cbcfa0911620968b5bd29a65d2a183db6d7f914",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "a8582d04f5418da8b2d8f5e112cdf37ad0e7a4bc03a2983adbeba4dd0d9b7e03",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "d8164ab0936ba8d2bb4a4c6b8d07661ddb96175efeeb93551631c87af017f162",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "a43368b92f5dbd4f40c920083d7eb57ed827ecac5bdfb27885ef75b042c2ab58",
+      "text": "Primary sources over",
+      "hash": "b4b8b4e32cef4a59b69ca457a8e74c21c38cbcc0e5964f49967c58504caa57cd"
+    },
+    {
+      "id": "69f21f00f6e97e0612754621508fab0903a32a4c14c89ed72ab0d136b93395c6",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "3d2649222ecc1b30f5192d459e26b1065ec964d49bfae60b79a742d7f30ea976",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "053e5b59c14a6cddc8414bd483a87cb04c9929361dc058af0f0c7476bcfefd50",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "e35313a3bcb5924835dd77f571c652614cef1cd5e99694679ca77a4912b85ff8",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "3cb83dbced06301498811e63349e1bd42adae93a99507adba1cc9c47d36d8136",
+      "text": "works through an in-progress git merge or rebase, hunk by hunk, then runs the project's own checks and finishes the operation with a commit.",
+      "hash": "43f18c053256565d63b9c49706c5bfe982aafd10475a958bf62db479d3f4d58b"
+    },
+    {
+      "id": "4832da431da71b3e363ecb455ff47533c7795d19c6ee5586fb75263f195881d8",
+      "text": "It refuses to treat a conflict as a text problem. Before touching a hunk it traces each side back to its",
+      "hash": "43962de3718558e9c5af2df5fc3808de9fb28b21a026400ba6bc480416a36316"
+    },
+    {
+      "id": "07bc613d6cc29b84c5a672c119c60227e06032a9a804366b22123b6275926fce",
+      "text": "primary source",
+      "hash": "4c3f03bb625194b79deeff56ee12d13258ff531de6eef1fff5529d0fe89a1404"
+    },
+    {
+      "id": "9d0526a9512c2d89d8fc94890223ac28183f940641079b7229b33e77b1dd983a",
+      "text": "— the commit message, the PR, the original issue — so it is choosing between two intents rather than between two blocks of text, and it preserves both wherever they are compatible. Where they genuinely are not, it picks the side matching the merge's stated goal and names the trade-off. It invents no new behaviour to paper over a clash, and",
+      "hash": "55368c185ba327406099bd368f8860057fddbaf48086ab112a9aff108be37dbd"
+    },
+    {
+      "id": "6cd5fb27a8960a7f6ef131016b4a65c07aa6769c418297c3f94f5f1646ba90a2",
+      "text": "is not an option it has: the merge is always carried to a finished commit.",
+      "hash": "386c03eeb1be83347538c77cf67febbecf87dbdc7df68d18d50cd7b0d5f5100b"
+    },
+    {
+      "id": "5d8138cefcaeb8bd500973df9ed11c0ad3fa6fd8c66fd8f42ffa032c5f39fa5f",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "325e7a65b753bffaab173c571f499dc086284c3fc6cc397b0f9512658287dfd6",
+      "text": ", or the",
+      "hash": "d7803b9e27c4ba4e9bc3fa5bccb50a060fc421b5f16fb9525cba2a46e0529dea"
+    },
+    {
+      "id": "52df4f8d20bc385cbbaecfe75c0b36b06e824684705330d3a503cc76f46070c9",
+      "text": "reaches for it automatically when a task fits.",
+      "hash": "fec67ec8c846ef71d6790d7f0230af6d9dc8f393ae73db4166acf42c64f1b4ce"
+    },
+    {
+      "id": "b63465963f3f2846a5f84af0e14946831175c7ae89ffa6b7157cf7b88c9740ef",
+      "text": "Reach for it when git has already stopped on conflicts it could not resolve itself. It is scoped to the conflict in front of you, not to anything either side of it:",
+      "hash": "ee7e8eb2998421e570d89cbf36b486c8edc25e1c213e6ad94185d80e625ed70b"
+    },
+    {
+      "id": "5597a8cbd0b0cdf391260c813439a9e06c1aa9356993c4ae4c29ee6c7481d4e5",
+      "text": "Your situation",
+      "hash": "07b3fd94bd3286875133769f9375728ce5f18adbe4bf0e864e0bd16633b6e6a5"
+    },
+    {
+      "id": "0b8c829d869ec7738ed6150ee351524feac916b0b91772fc7040c1014906856d",
+      "text": "Skill",
+      "hash": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918"
+    },
+    {
+      "id": "b1291e5dbd7a46eb272d72e54297bf57efd4e450843e646a109aa14b3a2e14d1",
+      "text": "Mid-merge or mid-rebase, conflict markers in the tree",
+      "hash": "e3b76367839c2ee9a00d716048714f96820960c4aef22ab24d4eb982ece2dac5"
+    },
+    {
+      "id": "b42904acbb825ef31b013135aca5ab40b5b600563a5d98ea9c4e3447c6cdeb6b",
+      "text": "This one",
+      "hash": "7957578a09823cb93de02f06feadde85af68b6cab98f1ce7dae5ac7ca3e637fd"
+    },
+    {
+      "id": "9694ade9ab40a0028fa18be350918c3434277292956da2d1e78d4ac0e9c9645f",
+      "text": "Merge finished, something now misbehaves for reasons you can't see",
+      "hash": "36a5f0320edd6d5dc254172e20b5a50162d40379748b513cfe87b54fe5c908e2"
+    },
+    {
+      "id": "fd555d029b3a0af6ed966e856e5c7275937c9e63ab32a0dd81f87efa05584aca",
+      "text": "Planning how to slice work so branches collide less",
+      "hash": "5b023a7190783952d16bd56731f34a98ff199b079d1fea02741de9bd7ba1b57d"
+    },
+    {
+      "id": "82031919453c318dd6621aab202a466e99a923face85c0202e39d851e94e30a1",
+      "text": "Neither — see the parallel-work question below",
+      "hash": "78a1e7e50ab4b6e245a2748c7d2406f627c2c2f26517965b7cdb0f2872e04352"
+    },
+    {
+      "id": "c24f32b43e07d78cdf8e6dfbc066e095b1328b24e0c5234bfff00da69788ebfc",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "e40c60214c9b7b65dc46992b189dcc52eddf2f19b03d59aa77371e3ec8da13f8",
+      "text": "The failure mode this exists to kill is resolving by flag:",
+      "hash": "438dc0ad8fc24c5895460aee3bae92a1d269c1e89f5497f7d9da4f2e75e07b2a"
+    },
+    {
+      "id": "007e9ad925fb58ebbfc555fe6f1fc746ef8cee4ebd3916bd4f7177dde018b480",
+      "text": ", or hand-deleting whichever block looks less important, so the markers go away and the build compiles. That resolution can be syntactically perfect and still silently drop a change somebody made on purpose.",
+      "hash": "be425e47368b91036094a408eed05a379a58b948ec3b56c4bca7b7cf9c4e42e7"
+    },
+    {
+      "id": "7b7a7186d948f188b1a61fdf8da8a6de2d0849e17c3121c456db4d34367e9d9e",
+      "text": "You cannot preserve an intent you have not read. So the work starts in the history — commits, PRs,",
+      "hash": "5b515291a023b3d77f2a887c849e82283f3abf7a4526eb4d59da562d753a3d3d"
+    },
+    {
+      "id": "9f69c1a6dd2b89b038596d844f97147736130d8b3a3b9b6126659c127b7625ab",
+      "text": "— and only then moves to the diff. Another step in the loop exists for the same reason: the skill finds the repo's own",
+      "hash": "89c462deb0d3b345a1bd7986fa31d3f320913e331942b670c13ff0be09ce6db3"
+    },
+    {
+      "id": "5326c03909fab8d44081cf8f5ff3050b2baf88020b438fe84a0c6258deed5203",
+      "text": "automated checks",
+      "hash": "f748d6acc6e10f9e80812a46b239b1d2f3f145075600d299b6e40632fb06622b"
+    },
+    {
+      "id": "bc332be80385e67d6fa5a78105c32654e282c3514760d294c6f88ab5c062ec9c",
+      "text": "and runs them before committing, because a merge is the easiest place in git to produce code that satisfies both branches and passes neither's tests.",
+      "hash": "054b1cf9e4b6ef2bbe1a313793299ebde9a9da49fb2e61a698c0634c6d03a0de"
+    },
+    {
+      "id": "c33ac1b9940588d34cc23e0c2dc56bd8fcbd273dd0a137db4faaf7e5d5d36d13",
+      "text": "Claude Code already resolves conflicts pretty well on its own. Why does this need a skill?",
+      "hash": "d657d3d641f17f33d68f1e6ebbc24006607299ea8e0c0edece791dffe1dbbb91"
+    },
+    {
+      "id": "10f414677e6021b181dce1dbadce2e1b1fec756c9ef81cd647e1c9ae799e045a",
+      "text": "The added value is the \"find the primary sources\" and \"run feedback loops\" steps, which otherwise have to be prompted by hand every time. An unprompted agent will usually produce a plausible resolution from the diff alone and stop there. The skill's value is the two steps it will not let the agent skip — reading why each side exists, and running the checks afterwards. That is a thin margin over a good",
+      "hash": "d5debc432c23009b25a4c6c80ec3f2a565b0d8a822a83f08e1331b6faa7cfec6"
+    },
+    {
+      "id": "0678269f50df7437bd7e82f3e650018a4d93c579e73bde7639f23d9a8959a768",
+      "text": ", and it is meant to be: at least one reader has predicted this is a whole skill that becomes a no-op as models improve.",
+      "hash": "665478e50d9aad3bf43be7b843a2134dcb7fe01d8c366ef669e5ffdc0f31d952"
+    },
+    {
+      "id": "1d71cef8c883bc9a36fafc816aad4714d8fa38cfdc9f53c3c2236c3c88d32aef",
+      "text": "Should I keep parallel agents off the same files to avoid conflicts in the first place?",
+      "hash": "6c2e25e82914b592c8abb0664c91a544a495a776900cdddf1a7c9532ae2aff2d"
+    },
+    {
+      "id": "7d1be5019a336cb5b25563c759d750354c359d3095e3e21b3befde01c98625fb",
+      "text": "Mostly no. Zoning files off between parallel tasks costs more than it saves, because agents are good enough at merge conflicts that the tradeoff is not as harsh as it looks. The one piece of discipline worth keeping is to do large refactors first. A large rename landing after ten branches have forked off it is the case that stays expensive.",
+      "hash": "442d5155a129e4f29f8f193cef4a91c0922475c1c95e9a57fb696c652864ad7f"
+    },
+    {
+      "id": "cc8e86fa630f15b0675510e464ab107d855051a0c3117755748430e01b7f7af1",
+      "text": "One caveat from a user report on parallel worktrees: when sibling",
+      "hash": "70a2979c4601c5900e2b85b17a54b12ca098fafc37b2373a60ff5e3097112c04"
+    },
+    {
+      "id": "f88dc6fa0dc9a775e2f41f02d1e34776eba2959ca7cf252f0fe43117c5b5b69b",
+      "text": "each build a ticket in their own tree, the merge back is best done by the session that wrote the change, because it is the one that already knows the intent. Batching everybody's conflicts onto one agent at the end throws away exactly the",
+      "hash": "06178edae79b830701a6c4f954a6ab15f476b0ba4f60528d0c8b8493d47e8d7a"
+    },
+    {
+      "id": "11e57668a739629ef7e8aa4c6158c06e785f7699c010cb982a189b6a069d8026",
+      "text": "step 2 of this skill has to go and reconstruct.",
+      "hash": "d87e20d231265290d6d31a339ef273d8911d87362034b4435867fb527c640f7c"
+    },
+    {
+      "id": "6cb4c0aea65daf56ab26b7bd3eba5038c3ef56cbbf1afe39167ac3aad236c34e",
+      "text": "Why never",
+      "hash": "fb866da29afc8b4d60a4929e2a373266af8e903af01e5081eed831db1fccd809"
+    },
+    {
+      "id": "2bac76c5560ab17c5d82ba5e16d08e93cbcd0b3ec12256aab1ee00d75be3d397",
+      "text": "Aborting throws away the resolution work and returns you to the same conflict, unchanged, the next time you try. The skill is written for the case where the merge is going to happen. If you have decided it should not happen, that is a decision to make before invoking, not a branch inside the loop.",
+      "hash": "5ed80f8b597fe4832d23a89389c90fa767814d02cc0a6cb4d63ae28da844500a"
+    },
+    {
+      "id": "ae4659a2f32c3c8792144982d0a66a18dc5a5be2a45b1d44d5a6e7a8b83a3863",
+      "text": "The agent quotes commit messages, PRs or issues at you while resolving, not just diff hunks.",
+      "hash": "6e4a473d7ea1faad847d081096ba003b562c544eb2f3f43afc32f2278963bc3f"
+    },
+    {
+      "id": "63607ded0b1f0f4199f81841b1a259d56a2ef36f5e7dbcf070300728bc728667",
+      "text": "Every hunk ends up with both sides' behaviour, or with an explicit note naming what was dropped and why.",
+      "hash": "7853d23a1f52c5995d00ba72146f8e0b826389fa6bf26f426f00f876bfe6b155"
+    },
+    {
+      "id": "5c86f5a3821886eb18decac665b85568bb821bf2db9d969994548d213fa204c2",
+      "text": "Nothing appears in the result that was on neither branch.",
+      "hash": "65f5d417e62b5d66d5982c3151acce2be7e5910f169bc8f3ab65eb701e8e5eae"
+    },
+    {
+      "id": "f2611230c787a4fff5ce14e05fdc3d6e36f866b8790e18a5066f6ed8d47aec68",
+      "text": "Typecheck, tests and format were located and run green",
+      "hash": "5e3cfb0847e03760a5807fcf3c3d3d6b64e1ecbb7ab08a7b50e7d26e0dfa7dcf"
+    },
+    {
+      "id": "3af0236d4f122230ee54ad37d626626d2ec3135bfa31fbedf0b05ea33da54e1a",
+      "text": "the commit, not after you noticed something broken.",
+      "hash": "2d1b98eb4c96f2a4d923f02579b2befd49b8a8b3202798b960018390af211bc9"
+    },
+    {
+      "id": "62cf1e7f2dad61ef5d16fa3cdde70487655d79e08d1d4e33e162024041d370b8",
+      "text": "You end on a clean tree with the operation completed — including every remaining commit in a multi-commit rebase.",
+      "hash": "ce1b73fdca1e549d8f562695227e08ee39a3893f2b5979469d2b0a02e3668e11"
+    },
+    {
+      "id": "4f7f937e7720c0af5d488b2b65949ba6c8b3c9038b9c7fa360806d0c36eeb92d",
+      "text": "A reach-for-it-anytime standalone with no dependencies on any other skill: it starts when git stalls and ends when the tree is clean and committed. Its only real neighbour is",
+      "hash": "b43f96a6cf51b49efa67ef7b135ff2464203e5dc08956820a0e6b0dbfce9285a"
+    },
+    {
+      "id": "4c0f984b4d979e911d4e5c0cfe8b8ab4095eb16a0ed8fe00eaad224912a97b51",
+      "text": ", which takes over at the point where a merge resolved cleanly but the merged code misbehaves — a diagnosis problem, not a conflict one. It sits off the main idea-to-ship flow entirely, so",
+      "hash": "70a12dc48c972b0680e4d254c0ee4c8130e838a31d668441e891b6750bf1b1df"
+    },
+    {
+      "id": "955d712c6f1c6b23bd7382e9fabed1e41d1af5a5b12f3bf348d6bab4666ed90b",
+      "text": "is the map for what runs before and after it.",
+      "hash": "6ed53a872b48e7edcb6a32560f465707d9b461f76d9362e04e3f84e9afb84bdf"
+    },
+    {
+      "id": "8ec3476719c57eda4a6cfa8e98358b9ff6b513ff9cd2463f57ed25761c6745de",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "c7bd9723477696a4f8cab6b0de6d01a03b03238d65858a29b4c4913acb300783",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "8e7ba40acb5fa2cefd447869b61ed59ac7da5d9795ba28023cab71116addd33b",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "9fb094688fc94654936eaa133cfc81a94c5271659c83ba5430bb0a1a41bd8421",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "a83291d34eb3959de7100c297392e467ab7f097edab33731e122ae71ef26bbf8",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "47366e15a852e3a3afa0dad09683ee5db4dc7b1e5ee4a06daec8bc3694d232ae",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "36837c98b96adec37fb39cf093ff6b010e1f3b6f7033a14092610bc5e59243cb",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "d0732d6b55168a1ddc626d2168c77db48722c9b7175613482d3c9adfaaa4bcc7",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "a96995ddd37d361216fea11632085ca72848110a3672e8ac32c4c723e8c49914",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "444c1e52e9fc5b08baf3d7474382b8deb0edee3291f21cc45f07f612ff2c02f3",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "eaee341a702b5db160d999ab0a02468d687b70ae74896824c11fd2fd85f723d2",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "d67c168e132ff89ceb14c5e2a10414d66d4558ca04cf50f11a50544da3ecfd26",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "da05a4abfd6eedd8ec61b214d11d7b16bbf3f1f3604999fc70243a7285beacfe",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "145af629120ea748836bd6b1cbf41422f1ac484d51c869c8e39e9088ab47c544",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "7369a1c09948a666de10f6049251c0169c4e7ec1989f09b8d2510d973ef227ca",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "809ff90b0046d461fad0f6aa685cb8c4b1d6d20d8974147b1010340ed5318eb3",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "4dc66dedb973857572c485cef81519f8d3f7963025d309c15c7cf3b3da2a8cdc",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "66895ee0a1d49a8c40b2df23be1cb336b024233827842d3b33ec42b8e326ebe1",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "a8181cddb6cf40e3b71cf8c5fd8819225779d871870a85a7a9b87a03f2629ac2",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "bc1f24fb09df7c99e06e3da369b8a214be325d68c2de9ac1f0a7f4c940412bf7",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "bd4e4e918ef17d3cdcb7d55f07504fb7fdb1f786064d26f0183d4ed51815d1a9",
+      "text": "My Skill Makes Claude Code GREAT At TDD",
+      "hash": "11975d24aa6419408b2c63b9b0a6903e90fc4f990cb95c7ed247b915710b27e9"
+    },
+    {
+      "id": "fee4fd3e3a2367576bee2233acc412cd9afb0440820e3a8ce4575fdade41efc7",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "ad36375018346fe1fd2cf9e2c639c3c9a592ce0c4b8d0f12b18803998fb28f1d",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "55638ce2ef85f9b356b8a21f1d1fabaab0a0ad4a5ca3fff9e106840e1c84e4a9",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "aeb1ccc244564e75efaacef67e0982556d58cdfb98f7c11aa2cb80f41bdc4ebd",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "37ad393fbe393fa031aefda0eab1368b1e1dd058bc48e0256d3acae294717bb5",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "cc507663072fb1ccfcc1b2ad12617a805b545ba29117ac0060bdd87e4f1bc756",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "c345f2c750a430c648f98274c1e0a186aab201a35e0001320176fe1628bbdaa7",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "05d6d1c23cf6f9396e65bb984454b59c3d9ffa0d10a0e1e1350b95cceebf810a",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ddf858aad5d489369de8dc8ad610b3172e193755bd03e595f0e0d4dfaf000fbe",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "6a0c2226949373a90373ae23d140c2d09175bfce395294595850308e50a8f564",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e2521a47aecca35c044665d455d988c36b3ea499344a7909a36e025d2900f3fe",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "f803c65339f09e25802746e91b1bb7f9018fdf8cc803a9ced404e06c47141eb1",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "fdc910d8fed4ed6bb24a53efa508ed665261119bec81e3bf34d198d901e86ab9",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "ce58da622ee9ee9dd8996852c4ac7d469581612ff45032ed47b1fe235fd48ace",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "8f281c4aa8d5d973e4b1b5941d35745729e07314d282de408a15da97242efada",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "6cb56bddc36d5e8ec1b0a82bd14a6bc882e8674f4daea64bced46232d1e50ecb",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "a9f6644b3e6626476bca262fc372d32ae63373505e6270f22a1c80aec343c73a",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "420a4044701e1eb197283c2c466301c16b5e8363da78e5a791345b614542dee5",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "25e23abdd263d8ef772f06cd2f9496fba8e434b4c54c7f436187998598a55321",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "591b2ea446916d58eb2fb733a811141deaf5bd7bbff6fb59cb04791f53436066",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"hihbkq1qw070pl\"",
+  "lastModified": null
+}

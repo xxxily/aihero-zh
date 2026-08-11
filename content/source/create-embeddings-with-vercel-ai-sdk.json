@@ -1,0 +1,543 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/create-embeddings-with-vercel-ai-sdk",
+  "pathname": "/create-embeddings-with-vercel-ai-sdk",
+  "fetchedAt": "2026-08-11T06:28:21.942Z",
+  "title": "Create Embeddings With Vercel's AI SDK",
+  "contentHash": "a0df41d2dca7afca528657cc6f90c5482f1d61409831bfebd4806183e3ed1832",
+  "textHash": "62f883517e074a6921978f847ae949a9e1b6767dd578d00ef0c8b65621d59129",
+  "strings": [
+    {
+      "id": "bd6e133aac30fdbe62dea84c4d5332028a4cb75c7ba356299c7ccb7f80b981d7",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "a0a189aa092a8af54a5c0ffe3e118f23ffd741171566cfb1875761e255f14be0",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "82fa2a567efded5199da28afb035189caad9a79f6162072594ea4a30c3a0195b",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d72351931abfde0510277ad7bbb0a05aab01bdd7ec3f4b002b7d091f9f969ade",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "fb2de06353164216cf99f08e1a040b6d00616fb0ff67f5c31f711a7a496aa9eb",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "68f83ed190ac1169ee4e4b4e607af1b22e4f3519be9b4318967f99cb42fbc633",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "a96bafff07a16f5786d811bcac244a879a5ccba66de16239b637aeb4ebc1b148",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "101b20abd8c83ea24c44a94354224bdd39c62bd012736b9d2fa0a3c28121a0df",
+      "text": "What Is Vercel's AI SDK?",
+      "hash": "1f210434178eaa98b25c4c6b455fa5973f854a1181e1fab9d10a8ce725bed88d"
+    },
+    {
+      "id": "d9df1d754f6e6bd270b2881327a91d48f4ec23a61a44997183de81fa26e585e7",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "04d2f063ea4f801d58851d2607c5e2d19c23f716ecc01f388ab6222b1e9983d8",
+      "text": "Streaming Text With Vercel's AI SDK",
+      "hash": "c8834e359f3b28f367c74e589c38e2bf98f323e4f89d4e707b88ecc0e812b58c"
+    },
+    {
+      "id": "615861b63ba97fa2f68c3faf8d1a284bda5f91d16ad415024b3034b30c5f164c",
+      "text": "Adding System Prompts With Vercel's AI SDK",
+      "hash": "c1856791eb8a9cefc3c85784d7e7865a4fbe03b8e4ce9097e30b44c8382bc0b5"
+    },
+    {
+      "id": "13e7a71687e92f3ac5cec0135ad6ba5eb5dad2b6c7447f4c5efd889aa4e4a3ae",
+      "text": "Hot-Swap AI Models With Vercel's AI SDK",
+      "hash": "a2e60e88e6b98f280400b6a6e1ae57cc56e04a4487923179fafbc1691daeaf88"
+    },
+    {
+      "id": "9402ba8e6cdb0cf3afd451dd94cbe805755e1516bb16c9f47b19f1e8217ca078",
+      "text": "Working With Message Histories In Vercel's AI SDK",
+      "hash": "6836bf9b5242f2374260cc952dcfc713c5b9049e92673765730b88183fcca9b5"
+    },
+    {
+      "id": "78e8c1e80d7446c90a71550001787be310b7a7f4c20a8ced1c563972a785bdab",
+      "text": "Use Local Models With Vercel's AI SDK",
+      "hash": "2f23462b857b3e2c9ff00eb7cc7ee290ae7b503bf5da369108fbf7f208a2ffee"
+    },
+    {
+      "id": "33071afc36721e30f1876babf66b6ffaab11093eabbc865ef470ea1f906db64b",
+      "text": "Structured Outputs with Vercel's AI SDK",
+      "hash": "ee7eb24d53c4be13cfa8480df0adaba3c76bfea676d6937956456cfe1938156a"
+    },
+    {
+      "id": "bf8336c3adad92b322cf4482eaaf0a102c13f4a55f7c13e3bfd31e75c1352fc8",
+      "text": "Streaming Objects With Vercel's AI SDK",
+      "hash": "dbfc1631aa468169f64909580711d47efe5fbd6c1a8dc7f96f24d8f312775b76"
+    },
+    {
+      "id": "ae0ee31aeaa7da0a7dc349392fda6915fe2af956272ba86393950c36d7c8fdc8",
+      "text": "Generate Enums With Vercel's AI SDK",
+      "hash": "0c0888498e8f0728d68d768a855caaaf0407c72679e31a43781b058c580bfd30"
+    },
+    {
+      "id": "264766eca92b2cc32c892eec6cca4b2ff131ea3b74b8d52a78da54aec00a7eb7",
+      "text": "Generate Arrays With Vercel's AI SDK",
+      "hash": "966b534831ed3ab632d0d4d6fdbac9f5574b7b021619463331f1a040103c3434"
+    },
+    {
+      "id": "29f3055ead120b68af8a954507a8633e1c39d34f247cece209e4f83300d3a3c4",
+      "text": "Build an Alt Text Generator With Vercel's AI SDK",
+      "hash": "e469cbd9ec4e26ff6b524e07b410ae85b176eee38375c531752024cbdb92388e"
+    },
+    {
+      "id": "429c57941de305143f3de36c33ae4818cae0895b794499ba34aac38cb36d245b",
+      "text": "Extract Structured Data From PDF's With Vercel's AI SDK",
+      "hash": "270c0886bdbd409901a9bb1d21cbe52e0e4e6504f3b17a0def44e8e729d3846d"
+    },
+    {
+      "id": "f2c50ce1726b8509e428caecafe1ef96588807c593b1c11e3721b7fd727796cc",
+      "text": "Create Embeddings With Vercel's AI SDK",
+      "hash": "204fae433156e6ac042fc80217c5e8a91fd4e1501d92da5949fad8c62334d1e9"
+    },
+    {
+      "id": "5a46373364ee7678cdb579ca5730cb86a7708355e09c5b297ad85cd6e4ee40d7",
+      "text": "Tool Calling With Vercel's AI SDK",
+      "hash": "90485e2aae316ee7132e932b405c5b1a63f0786e824e08689a3f78e4846c2d13"
+    },
+    {
+      "id": "c52745b8716c6414b43a9ee6ff6d871b39b7640c9fb358a0912eb69703bdbe66",
+      "text": "Build Your First Agent With Vercel's AI SDK",
+      "hash": "52e11d029211f26b4245ca878765b7530ded3b5475536900eefe472e424a5f44"
+    },
+    {
+      "id": "769a61fa7a6d2142290eabf0f994b8f6b9bb72e9d1df3137bf86a1d6a18972a9",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "8022fa8070156f9f9070b346466b234e1bdc037d7bf63c1e816502a2bb435e3b",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "28c34cb1e1b13af52ecd7955814567915500f1fa585bea35ce17b01cfc7d62dd",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "d62c920181900c25f7ff359293d730b90c6464440a9ad66549f84c519bcdc5d6",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "d5241021ce085f3f4c9e4a8e840b65ebdd5b1e04ee7d85b96e3f7b34b1fd6fc9",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "03d06ca15a5cc4efae383d5845130df55556a578c9c4b25729c6cf1856d13897",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "045da749a6e561cb86a67c76ca5734f18d95da3832c20b2f7785d32d1f267829",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "1d4bba8bfcefd0d20d8a18c2211f8abb00bb90592e96d20bbc150878b7b175e0",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "07deff89c673399fe4d6c821d9c648cfe5d6ade9c2c7f390fc826953ba9aec81",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "4ebb585eff0a217fb462d69d01c3a2ea997fa52267e47309b87278d0019ab5a5",
+      "text": "14 / 16",
+      "hash": "326e43eb927431fe17c1b520e21a78090d461b2c123b2503482f73828ed534d4"
+    },
+    {
+      "id": "9a91efa490c8f125bc423ce6147ad15dc40fbbe6f56e13328adf58f0d6ef1085",
+      "text": "Learn how to use Vercel's AI SDK to create and search embeddings for words and data.",
+      "hash": "616de5eaf0ddb7bf45f3f0bb52bba6660da1bccc54cbcdd96cae24e11e9158ba"
+    },
+    {
+      "id": "053ff462bad393f21361c2ee9d1501a2e94a4eae6e33393a282bb2205666775a",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "56031ac3dfecd82a6ada84318a1c7c984c05d3754b5ba428fc9db7aaebe84c71",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "69239cc670837a7f905cfe973759e92624ee30c282bfe7ffa1a81c7b42daf004",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "e1cf4eaae8d7e2c391699c3c2ec92f7f4fbc77046f87cf2cf2e4c1589479ed4a",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "2ec6349ba78b53a1bc8060b37adb48ceefd1fefff73f3a88b0ef3409599ae770",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "6777bbd3d5f07d3b6c478eb893d5481559e844dc5cf26c9504421b8bd730fa34",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "9a8690f29f1fbab13e1401e4ff4238b293f33b0c241bec2acfe11db795d42121",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "2e914ed9fddfbf65de67872912330cd2a13a190438b5edf10cc8dd1260911e9e",
+      "text": "Creating Embeddings",
+      "hash": "da86d4ec35a382e2e637aaeb61dff56aab3b740f8ac80953689ac7826c486993"
+    },
+    {
+      "id": "9f0331bb3cf6eabd3290423cdab9fe5b51728c4bbe143c4aa49166812cbcd7cf",
+      "text": "Creating a Vector Database",
+      "hash": "b2b2075f509001f86a6e6e6dd4e1687f791ba07d5b5972365546edeefa00da19"
+    },
+    {
+      "id": "b72fc169e44b120e0c8bbf6d2cedfa2119a305e9ca0bbd13a72eb4aa5aef2ac3",
+      "text": "Searching for Similar Embeddings",
+      "hash": "61e4f94dec6a34d0d4fdf5579771d9ab4ba07312ce4f4f6b9d639f03ca0e8739"
+    },
+    {
+      "id": "5afc435f039101d62c9f8d10cf11995df7d8d2a23de3fe4fd663917583bade9f",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "5976b6f749c942201860bda8c213f05532e62b2811ae4006a5ac77e4974b1174",
+      "text": "Vercel's AI SDK has a really simple way to create embeddings.",
+      "hash": "12b78ae28cb9ed6b745c7078c5c2b1e954b8d79c20c5aff3a01926dde1525946"
+    },
+    {
+      "id": "732af27ec20ca89903e18d2c808a4d4d4975de9ee275e179d1ad1cd998c91598",
+      "text": "Embeddings are a way to represent words, images, or data in a high-dimensional space.",
+      "hash": "76cf9771e5dc07505bdf2f49a65a437ac615c0314f90721e8339f6e739f6f6c6"
+    },
+    {
+      "id": "6f1d4e3de4c39741dbccad3c6f46bb26ce74fb13801023fbaa8084a6c7693d72",
+      "text": "This is extremely useful when you want to see how similar two things are to each other.",
+      "hash": "b62a0f699ceb68680af0db828d6c121d1d6a3725c58c9abc7edcca5d61ca362d"
+    },
+    {
+      "id": "e1f8f4944893697b99e4a5dc836ac702ce3f415a816c454a19aedf0eabc03b66",
+      "text": "This makes embeddings a really powerful primitive for tasks like searching or categorization.",
+      "hash": "eadd520408df1fb571c93a6062a4e99fea3500160580223fe303ecc15ccacbf2"
+    },
+    {
+      "id": "a9d2ed2506442c62e7ff3251313504e435f30c677081c6f15e18abf986e08021",
+      "text": "Scrollycoding",
+      "hash": "a92db14e4d481e7975b3459710fbf8ec73dcc232e366b057507f7e2891b1d6da"
+    },
+    {
+      "id": "4cc91265932dba717a678d12b21b2024cab32d9b2dcce18b529e5bef7177aa08",
+      "text": "The first step is to grab the embedding model, the one we're using is from OpenAI.",
+      "hash": "d4eef559038613f8a61208dfb45ef94b9d495030d12ad1ac04110e998b33cc64"
+    },
+    {
+      "id": "b29f6e1ef7f16837f6234fc9b1f03d473ebdcecc48dd2d111dd07ecd4b7d7f87",
+      "text": "We're just going to embed some words: dog, cat, car, and bike. So we're going to put those in an array.",
+      "hash": "93e089b4529af2fe0b7c5ad251e0709d2649f408636c1b9c3ba405e8d0592751"
+    },
+    {
+      "id": "07421552e91570697b776652bdaf47b8f9102e70720270544e7699afd0aa0339",
+      "text": "Then we're going to use the",
+      "hash": "fe96e3e8766337de6370b22497501d7f7934226c1d4fd2f0cbbe79f133fb4af7"
+    },
+    {
+      "id": "0bc8bd21a6e8f67e2fb3a2ae951a883a7acfa25f53e32eed2f1c2ca0d8090e1a",
+      "text": "function from the AI SDK, passing in our model and the values.",
+      "hash": "e636bb25c70ee9ac3dfd6656d1a026f3f9cd80068a37894bf359bf51b9c44c4c"
+    },
+    {
+      "id": "e76aa9b2f132c3e7298a3ca0165ab8f81376fd8ffcb7c9b1ee7e60d1d5ec92e0",
+      "text": "Let's log this out to see what we've created here.",
+      "hash": "994e81f7329e5a7fd55b7178b783b4995883f4cccf6efa33630514034a67a09f"
+    },
+    {
+      "id": "167c622cd1253ccb3108465e64d8e04a27148d49d681ef42887bb57982883565",
+      "text": "As we can see, it's a bunch of arrays containing a load of numbers. These are vectors and these vectors represent a location in multi-dimensional space.",
+      "hash": "9e7fe3e33eff2e38f58f0cd6813b00944e2228585d6f321457bb4c33e51b183d"
+    },
+    {
+      "id": "09b1c276197ea5f074acb42bddd630aea11388dbf9a8676e82a3dc9d8c9c238f",
+      "text": "Depending on the model, these arrays might be thousands of numbers long. And these numbers, i.e., the vector, represent the LLM's understanding of what that word is.",
+      "hash": "0e36f5a0989f6ed8f556d28fffa9a05e4ad24d17a23fb1da24e3dba01f601857"
+    },
+    {
+      "id": "b40f8dcdde10ef3ee2661d0bf308a6730dcd40df5dbb6ccf9395a25f862543d5",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "93ba3b673f9d43cf68f05b9630e4efa5125ac1812053ed8f281011a54d9f82fa",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "098445bc7ee08cb65fbed6ff37be481d1a1e7d09fd938f73cab5679e965a0798",
+      "text": "We can now collect those vectors together with the values they represent in a vector database.",
+      "hash": "26d27ecb9b5684149408a0fab8b8091c6b95d15fd5ff09179b7fff11c422d87c"
+    },
+    {
+      "id": "b5fde6e910bf373bd45e4fa873cbdf6c27f49d3233f424bb4077839a5065975d",
+      "text": "This is an extremely simple version of a vector database. It's just a list of vectors with the values they represent attached.",
+      "hash": "618fe9c5ba0022eb6685bd40755fcc7e8ef9453ab9d36aec751580054580a27f"
+    },
+    {
+      "id": "140b429ad926b0ab268684b1049b243d848cd28e6bd18718be0a07eb2c4e2a5f",
+      "text": "In the real world, you might want to use Postgres and use an extension like",
+      "hash": "0ba4eea544e90293ff4b520602772a1e3ceb7dad297767e7463fa38fb490122e"
+    },
+    {
+      "id": "7d01f21de80c18bdc4d84b2f198ca5cbd05633dc4025542bcb2c0f615d4ff167",
+      "text": "to add the ability to query vectors.",
+      "hash": "486d57b1f8689590320f22d5ddf58d7e830b2cc8690c2b1b76cc50afe1c46ab0"
+    },
+    {
+      "id": "bb2144bf75f47fe0bc388df4f2a56fde79bf109f4914cdd27fc373338a4f016d",
+      "text": "Let's now use this vector database. We're going to search for an entry in our database which is most similar to a search term.",
+      "hash": "20c3fdfda2e5c02843783ed9adf8eb695c1e28c3fea3b256b6385da265cfc610"
+    },
+    {
+      "id": "8f909b582e870a6044b4e6ca25a2fd7e5fbfd0129e87d11c7cc1cca91181f6bc",
+      "text": "We're going to have to embed one more word, our search term.",
+      "hash": "622e89de8b4b9a34ebccd83c66fcd167dce5b9f1cfccde4cb485307cf47eb158"
+    },
+    {
+      "id": "f6c1d905afa870e842a0891659f0cd6b113e803bb71de74853fc59f23d668931",
+      "text": "For that, we can use the",
+      "hash": "0aef6a0422233009935f79dc69be80083f34ac2b78f096b598cb067761a4d159"
+    },
+    {
+      "id": "57adc6e09dc980d64a782a72ea0ab7393a547b72e4db7b4235ca071591b279e4",
+      "text": "function from the AI SDK.",
+      "hash": "bec4439bbcf0fd20fc462814595529fd6dd33662ca1b90eb317ac8895e8e35d1"
+    },
+    {
+      "id": "17f9f63e99343a9e50836a73ca6399b2fdb4941931a5ae3005875f6e2c3f7ea5",
+      "text": "Let's search for the word that's most similar to \"Canine\".",
+      "hash": "5fd5e2d5d94883d8eeda73ceba019efb9b3926426125fb87cdea026cbda4744e"
+    },
+    {
+      "id": "4e30fb33d6beea534f602d9e168608622986647b6aaec8ac225cf203316f6649",
+      "text": "Now we've got all of the vectors we need. That's literally all the information we require to perform a similarity search. We don't need to query the LLM again.",
+      "hash": "42f2b065237cf7caa5b35df4c5d9876da9c3b347c04c34694adc52cfa495ae5f"
+    },
+    {
+      "id": "1dc98bb29c5456f203279b7454e6905c4189fb3474a204c5146f83b16afe94fe",
+      "text": "We now need to calculate the cosine similarity between the search term and each of the vectors in the database.",
+      "hash": "80d928d86f4de791ca75c93402913c85f2b780fc4a51ead7613e97e918665781"
+    },
+    {
+      "id": "8f53204163dbcd88e17fe3ba9f4c884850f1a64726d19b01e374dfd635e02aa1",
+      "text": "Fortunately, the AI SDK exposes a",
+      "hash": "5e8d89da669aa4783793ebacc5576eab67634de66d7b565505d001aaacf858d8"
+    },
+    {
+      "id": "fa657c2a6995b8b3585b1ddc0659229296e43afb9cb2cb8c0d226c46ba2ededa",
+      "text": "function.",
+      "hash": "78655d4d73de012287e630a648d3bc75193043eb45bfd031f8cd041012119e1d"
+    },
+    {
+      "id": "b215f68ed3d5ac6bf385a669d9af758450ba605aeb214f50f5e4d0568fd8227e",
+      "text": "We're going to map over each entry in the database, calculating the similarity of each entry to the search term.",
+      "hash": "f80071dda1da6988da8a477ef39817a9da103dcf4d013bd5fa17123ee6d6c6cc"
+    },
+    {
+      "id": "01ae4890bfbc742d23384839037072e23699a9ef1d916f28960717e2d71cddf5",
+      "text": "Then we're going to sort them by similarity.",
+      "hash": "ce012e6b7c94fd147b589ae360b433998130bb873092b5bc58ba62e89067cf91"
+    },
+    {
+      "id": "9c2a2c7fdf444f3cb3424a05a0a14cd722e1e6c1572fd89b2329cb2dfe79822e",
+      "text": "If we log this out, we notice that the similarity is a number between zero and one, calculated to many decimal places.",
+      "hash": "730b0f5d58869c15bc77f2709a4adf1fc0d5d2637c36c2e394cc0038c7e783b0"
+    },
+    {
+      "id": "453fe7beecd835ce90901811bf42f103e5550f0f8521581e775a7038f12e218e",
+      "text": "And we'll notice that",
+      "hash": "7518e4e2dc3a4efca69aa9f0d6af74e6a0754b2b7bdea0a4b0bd68f8579db121"
+    },
+    {
+      "id": "7e8cf2f08433d7c62f911515ef2fd864a6a6dc5dce12fd78df189a684377f7c9",
+      "text": "is at the top - that's because it's the most similar to",
+      "hash": "090a1ae506d7a93a4bf502cbd6ebb02c6d95cf742c1a2e1af023dd3579b950c6"
+    },
+    {
+      "id": "f67b2377e112996fa6d6d12fe35f54613897927e30cabda78cf96a127061ecf2",
+      "text": "This relatively simple setup can drive all sorts of awesome features like search and categorization.",
+      "hash": "45aab5e88b656eda1bf0199b0213de8c61d353d8b283211b1ac8282c7567904b"
+    },
+    {
+      "id": "a913d5efbaf1621c6add16b3536acd75d1ed615c250240cc18b02135cbf1d2c5",
+      "text": "And it's really nice that the AI SDK exposes the",
+      "hash": "427680487bd2f4c658a89927b3ccad004a12763fc21a02cfb702f2e2ff21a050"
+    },
+    {
+      "id": "7d767c0004c949fc1a24078a7e0dbee76cecbba5f3c1d025acc1f8d7f13537e5",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "5e5418bdcdcafbd7f430dadaf4b94961202716e168a648b76377ce6ba027e16e",
+      "text": "functions - as well as the ability to query embedding models.",
+      "hash": "390c8930f5dd81eb9d0213904c953b0ef9bce2e980d75de8cc68ea104be16680"
+    },
+    {
+      "id": "1e35d96d063d412ce0d7b406c6e774b1645c27cca78c7c6510361dbee823278a",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "0db81dd10673b3ee9fd1b4fe504bead17434c5eaed687a172525c3cef8a3b66b",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "11c902add19b2642a3942341d33207593a368dc0696fd2c1f95bf6163c346b39",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "44df2d9ff94c2034ac1dbbc1f5e0a58389b77df48d68f65af0cc43581a4d3ae2",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "5351c8e3c5ab2206d91ddcdaf5d2e2323289fbb3df9a58080d28ba64508ad460",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "086f92348106067869fba0a29d4e4acadbc6fb7b117a76647ff4dff0ef1b4ec1",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "c6f476608485e1f848867ecdf0e3ea3703a90f74e2a89359341cdbc2e768a027",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "f6820bbf924ffe4783748ddaf89fddc8791a23dea338b31e246cd66846641771",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "93569b1d14d7b364fd5874ef749d03354d1896748cd609b9a2aadb5a0430a850",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "967c48fb76d823469a7202dcfeb9dab062c5b2f0b55ffed08abc6c3726f7fef7",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "7f76c8495c9f9202ca8d2656ea892d7d1f8f3d9091fd7117bba2e98169911d87",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "ecad373cbda9401dca50357116606ecea8c2088069d8209e0de68056b134d70a",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "cb7eb1bd1f3223ce902674614b580a14bd9cdfe0e52a6d1063c69c71eff18fe2",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "291bc45d69c30c8d0ce0efd5caa95ce4fbad50f1b2c2dee99018454e8a68a12c",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "2293195c6bc46f2c86c1bc46c9d70a990ea99bb4e2247460a14ec1d57d9580b8",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "8a805903a8131cc5a932dee589c33fb333ebffad42be00cc4a7a3735aad4b1f8",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "108dd1866a2eec9f8424aa4fdcfda4ea71343f49dee9b6ff15b0eeb0b8c86da7",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "ccfb8988b166d6e4a09b42c75c941624c87d1e4a74640ed4dab41a7c0b13c860",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "506261431de9f4d946162db5e1ad5fdac3dbbfc2075deae3dc692ad72defb74e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "03ed35b3ce018f0856bba4f562e61876d1acc3e01f72c6fc147705a28d5dae0a",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "5dd9832a733ce30e7e1db6254c7077b49a59cc9a2e15a9f6a77fdf9628cd8947",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "369f548c9be2be20ac09ba23117640db3322b05928790bc0384301304a5a8cf5",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "2dd6a2df07bd2ca910b5e80d13711465bf8a9efe6b95a3d3d1deff9c116763b9",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "189329973fd70ae9f480ed6799f8e9217786219e43d05ad21e24e57c7c85a42a",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "b6522ae69c91c9f700cab7df0fd067656caf3068d65a2d7187fe6c832c41a37d",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"ryn1k4mj7m7tj6\"",
+  "lastModified": null
+}

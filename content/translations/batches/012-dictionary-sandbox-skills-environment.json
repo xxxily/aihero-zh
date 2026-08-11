@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "status": "primary-agent-reviewed",
+  "reviewedBy": "Codex",
+  "reviewedAt": "2026-08-10",
+  "scope": "AI Coding Dictionary：Sandbox、Skill、Permission request、Environment、AX 人工富文本译文",
+  "exact": {
+    "Sandbox | AI Coding Dictionary": "沙箱｜AI 编码词典",
+    "Skill | AI Coding Dictionary": "技能｜AI 编码词典",
+    "Permission request | AI Coding Dictionary": "权限请求｜AI 编码词典",
+    "Environment | AI Coding Dictionary": "环境｜AI 编码词典",
+    "AX | AI Coding Dictionary": "智能体体验（AX）｜AI 编码词典"
+  },
+  "routes": {
+    "/ai-coding-dictionary/sandbox": {
+      "Grade": "等级",
+      "What it is": "实现方式",
+      "What it contains": "能够限制的影响",
+      "Restricted shell": "受限 shell",
+      "OS-level confinement around each command": "在操作系统层面对每条命令进行约束",
+      "Writes outside the project, network access": "项目目录外的写入和网络访问",
+      "Container": "容器",
+      "Fresh filesystem, no credentials mounted, discarded after": "全新文件系统，不挂载凭据，用后即弃",
+      "Anything the agent does to its own machine": "智能体对自身运行环境所做的一切",
+      "VM / cloud": "虚拟机 / 云环境",
+      "A separate machine entirely, often provided by the harness": "完全独立的机器，通常由运行框架提供",
+      "Everything, including kernel-level escapes": "几乎所有影响，包括内核级逃逸"
+    },
+    "/ai-coding-dictionary/skill": {
+      "Subagent": "子智能体"
+    },
+    "/ai-coding-dictionary/permission-request": {
+      "What happens": "发生的操作",
+      "Produces a tool call": "生成一次工具调用",
+      "Checks it against the": "根据权限模式",
+      "and any saved approvals": "以及已保存的批准记录进行检查",
+      "Pre-approved: executes immediately. Otherwise: pauses and shows the request": "已预先批准：立即执行；否则暂停并展示请求",
+      "User": "用户",
+      "Approves once, approves for the rest of the": "单次批准、批准当前会话后续同类操作",
+      ", or denies": "，或拒绝",
+      "Executes the call, or sends the denial back as a tool result": "执行调用，或把拒绝信息作为工具结果返回"
+    },
+    "/ai-coding-dictionary/ax": {
+      "Dimension": "维度",
+      "What good AX looks like": "良好 AX 的表现",
+      "Fast, deterministic": "快速、确定性的",
+      "automated checks": "自动化检查",
+      "— types, tests, lints — that the agent can self-correct from without a human": "——包括类型检查、测试和 lint——让智能体无需人工帮助即可自行纠错",
+      "Architecture": "架构",
+      "A codebase the agent can navigate without reading everything: predictable structure, a lot of behaviour behind small interfaces, names that say what things do": "智能体无需读完整个仓库即可导航的代码库：结构可预测，大量行为封装在小型接口之后，命名能够说明用途",
+      "Free context": "充足的可用上下文",
+      "kept lean, so most of the": "保持精简，让上下文窗口的大部分空间",
+      "is available for the task and the agent stays in the": "都可用于当前任务，使智能体留在",
+      "instead of drowning": "，而不是被无关内容淹没"
+    }
+  },
+  "blocks": {
+    "/ai-coding-dictionary/sandbox": {
+      "An isolated environment the agent runs inside — a container, VM, ephemeral filesystem, or restricted-permission shell. Limits the blast radius of agent actions: even if the agent runs destructive commands or fetches something malicious, the damage is contained. The safety substrate that makes AFK practical.": "沙箱是<a href=\"/ai-coding-dictionary/agent\">智能体</a>在其中运行的隔离<a href=\"/ai-coding-dictionary/environment\">环境</a>，可以是容器、虚拟机、临时<a href=\"/ai-coding-dictionary/filesystem\">文件系统</a>，也可以是权限受限的 shell。它限制智能体操作的影响范围：即使智能体执行了破坏性命令，或获取到恶意内容，损害也会被控制在边界之内。正是这层安全基础，让 <a href=\"/ai-coding-dictionary/afk\">AFK</a> 式运行真正可行。",
+      "The sandbox and the permission mode solve the same problem from opposite ends. Permissions ask before an action runs; a sandbox limits what the action can reach if it does run. Permissions need you running in the loop — every prompt is an interruption — and a session that asks constantly is barely autonomous. A sandbox spends infrastructure instead of attention: the stronger the isolation, the fewer questions need asking.": "沙箱与<a href=\"/ai-coding-dictionary/permission-mode\">权限模式</a>从两个方向解决同一个问题。权限机制在操作执行前询问；沙箱则限制操作执行后能够触达的范围。权限机制要求你始终<a href=\"/ai-coding-dictionary/human-in-the-loop\">参与其中</a>——每次询问都是一次打断，持续请求确认的会话几乎谈不上自主。沙箱用基础设施换取人的注意力：隔离越强，需要询问的问题就越少。",
+      "Isolation comes in grades:": "隔离也有不同等级：",
+      "What no sandbox contains: actions that leave it legitimately. An agent with your git credentials can push; one with network access can call production APIs. Decide what crosses the boundary before deciding how thick to make it.": "任何沙箱都无法约束那些被合法放行、越过边界的操作。拥有你的 git 凭据，智能体就能推送代码；拥有网络访问权限，它就能调用生产 API。先决定允许什么穿过边界，再决定隔离层要做多厚。",
+      "Usage:": "<em>用法：</em>",
+      "\"I want to let it run bypass-permissions overnight but I'm not ready for that.\"": "“我想让它整夜以 <a href=\"/ai-coding-dictionary/agent-mode\">bypass-permissions</a> 模式运行，但还不敢直接这么做。”",
+      "\"Put it in a sandbox — fresh container, no credentials mounted, no network out. Worst case it nukes its own filesystem and you discard the container.\"": "“把它放进沙箱：使用全新容器，不挂载任何凭据，也不允许访问外部网络。最坏的结果不过是它毁掉自己的文件系统，之后丢弃容器即可。”"
+    },
+    "/ai-coding-dictionary/skill": {
+      "A teachable capability bundled as a unit — instructions and resources for doing one task well, kept in the environment until a context pointer pulls it into the context window for the task at hand. The unit of progressive disclosure in a harness.": "技能是被打包成独立单元、可以传授的能力，其中包含把某一类任务做好所需的指令和资源。它平时保存在<a href=\"/ai-coding-dictionary/environment\">环境</a>中，直到<a href=\"/ai-coding-dictionary/context-pointer\">上下文指针</a>根据当前任务把它加载进<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>。技能是<a href=\"/ai-coding-dictionary/harness\">运行框架</a>实现<a href=\"/ai-coding-dictionary/progressive-disclosure\">渐进式披露</a>的基本单元。",
+      "Skills are an open standard, defined at agentskills.io — originally developed by Anthropic and since adopted by most major harnesses, so a skill written once works across them. The format is a folder containing:": "技能是一项开放标准，规范发布在 agentskills.io。它最初由 Anthropic 开发，后来被大多数主流运行框架采用，因此一份技能只需编写一次，就能跨不同框架使用。其格式是一个包含以下内容的文件夹：",
+      "A SKILL.md file — metadata (a name and description, at minimum) plus the instructions themselves": "一个 <code>SKILL.md</code> 文件——至少包含名称、描述等元数据，以及技能指令本身",
+      "Optionally, scripts the agent can run": "可选：供<a href=\"/ai-coding-dictionary/agent\">智能体</a>运行的脚本",
+      "Optionally, templates and reference material the instructions point to": "可选：指令引用的模板和参考资料",
+      "Only the name and description sit in context by default. When the agent's task matches, it loads the rest. Until then, the skill takes up almost no room — a sentence or two of tokens, however large its full instructions are.": "默认情况下，只有技能名称和描述会进入<a href=\"/ai-coding-dictionary/context\">上下文</a>。当智能体的任务与技能匹配时，才会加载其余内容。在此之前，无论完整指令有多长，技能都只占用一两句话的 <a href=\"/ai-coding-dictionary/token\">Token</a>。",
+      "This distinguishes skills from AGENTS.md, which is loaded into every session regardless of the task. A skill is read when a particular kind of work comes up — releasing, scaffolding a new service, writing a migration — and ignored the rest of the time.": "这正是技能与 <a href=\"/ai-coding-dictionary/agents-md\">AGENTS.md</a> 的区别：无论任务是什么，AGENTS.md 都会加载进每次<a href=\"/ai-coding-dictionary/session\">会话</a>；技能则只在出现特定类型的工作时才会被读取，例如发布版本、搭建新服务或编写迁移，其余时间不会占用上下文。",
+      "Avoid: \"tool\" — a tool is what the agent calls; a skill is instructions it reads.": "<em>避免：</em>把技能称为“工具”。<a href=\"/ai-coding-dictionary/tool\">工具</a>是智能体调用的函数，技能则是智能体读取的指令。",
+      "Usage:": "<em>用法：</em>",
+      "\"Where should I put the deploy runbook?\"": "“部署操作手册应该放在哪里？”",
+      "\"As a skill — the agent loads it only when the task involves deploys. In AGENTS.md it'd burn tokens on every turn for something we use weekly.\"": "“做成技能——只有任务涉及部署时，智能体才会加载它。如果放在 AGENTS.md 中，为了一份每周才用一次的内容，每个<a href=\"/ai-coding-dictionary/turn\">轮次</a>都会白白消耗 Token。”"
+    },
+    "/ai-coding-dictionary/permission-request": {
+      "What the harness shows the user before executing a tool call that isn't pre-approved. The model produces a tool call; instead of running it immediately, the harness pauses and asks. Approve and it runs; deny and the harness reports the denial back to the model as a tool result. The mechanism by which a harness puts a human in the loop for risky or sensitive actions.": "权限请求是<a href=\"/ai-coding-dictionary/harness\">运行框架</a>在执行未预先批准的<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>前向用户展示的确认。<a href=\"/ai-coding-dictionary/model\">模型</a>生成工具调用后，运行框架不会立即执行，而是暂停并询问用户。批准后调用继续运行；拒绝后，运行框架会把拒绝信息作为<a href=\"/ai-coding-dictionary/tool-result\">工具结果</a>反馈给模型。这是运行框架针对高风险或敏感操作引入<a href=\"/ai-coding-dictionary/human-in-the-loop\">人工介入</a>的机制。",
+      "The lifecycle of a permission request:": "一次权限请求的生命周期如下：",
+      "Denying a request steers the agent. The model reads the denial like any other tool result and reacts to it — it tries a different approach, or asks what you'd prefer. Most harnesses let you attach a message to the denial, which turns the request into a steering point: \"not like that, use the migration script instead\" lands exactly when the model is deciding what to do next.": "拒绝请求也在引导智能体。模型会像读取其他工具结果一样读取拒绝信息，并据此作出反应——尝试另一种方法，或询问你希望如何处理。多数运行框架允许在拒绝时附加一条消息，这就把权限请求变成了精准的引导节点。例如“不要这样做，改用迁移脚本”，恰好会在模型决定下一步时送达。",
+      "The cost is that every request is a synchronous wait on you. The agent sits blocked until you answer, which is fine while you're watching and a problem when you're not — an agent that triggers requests constantly can't be left to work AFK. The permission mode is the dial: which calls run freely, which ask first, ideally with a sandbox making it safe to widen the free set.": "代价是每次请求都必须同步等待你回答。<a href=\"/ai-coding-dictionary/agent\">智能体</a>会一直阻塞到你作出选择；你盯着运行时问题不大，离开后就会变成障碍——持续触发请求的智能体无法真正 <a href=\"/ai-coding-dictionary/afk\">AFK</a> 工作。权限模式就是调节旋钮：决定哪些调用可以直接运行，哪些必须先询问；理想情况下，再通过<a href=\"/ai-coding-dictionary/sandbox\">沙箱</a>提供安全边界，从而扩大可自由执行的范围。",
+      "Usage:": "<em>用法：</em>",
+      "\"It's been blocked on a permission request for ten minutes — I was in a meeting.\"": "“它被一个权限请求卡了十分钟——刚才我在开会。”",
+      "\"That's the cost of human-in-the-loop. Pre-approve the safe tools so the request only fires on the actually-risky calls.\"": "“这就是人工介入的代价。预先批准安全<a href=\"/ai-coding-dictionary/tool\">工具</a>，让权限请求只在真正有风险的调用上触发。”"
+    },
+    "/ai-coding-dictionary/environment": {
+      "The world the agent acts on — anything outside the harness that the agent perceives through tool results and changes through tool calls. The harness runs the agent; the environment is what the agent works in. A file like AGENTS.md lives in the environment; the harness is what loads it into the context window. A filesystem is the most common kind of environment, but not the only one (a database, a remote API, a browser session can all be environments).": "环境是<a href=\"/ai-coding-dictionary/agent\">智能体</a>实际操作的世界：位于<a href=\"/ai-coding-dictionary/harness\">运行框架</a>之外、智能体通过<a href=\"/ai-coding-dictionary/tool-result\">工具结果</a>感知并通过<a href=\"/ai-coding-dictionary/tool-call\">工具调用</a>改变的一切。运行框架负责运行智能体，环境则是智能体开展工作的地方。<a href=\"/ai-coding-dictionary/agents-md\">AGENTS.md</a> 之类的文件存在于环境中，运行框架负责把它加载进<a href=\"/ai-coding-dictionary/context-window\">上下文窗口</a>。<a href=\"/ai-coding-dictionary/filesystem\">文件系统</a>是最常见的环境，但并非唯一形式；数据库、远程 API 和浏览器会话都可以成为环境。",
+      "The agent only sees the environment when it looks. Everything it knows about the environment arrived through a tool result, so its picture is a collection of snapshots, each accurate at the moment it was taken. If a file changes after the agent read it — you edit it by hand, a build step regenerates it — the agent keeps reasoning from the stale copy until something prompts a re-read. An agent confidently describing a file that no longer looks like that is usually this: the environment moved, the snapshot didn't.": "智能体只有在主动查看时才能看到环境。它对环境的全部认知都来自工具结果，因此脑中的图景其实是一组快照，每张快照只在获取的那个时刻准确。如果文件在智能体读取后发生变化——例如你手动编辑，或构建步骤重新生成——智能体仍会依据旧副本推理，直到某个操作促使它重新读取。智能体信心十足地描述一个早已变样的文件，通常就是因为环境已经变化，而快照没有更新。",
+      "The environment is also the layer that persists — the only one that is always stateful. A session's context is gone when the session ends, but files written to the environment remain for the next session to read — which is what memory systems, handoff artifacts, and AGENTS.md rely on. Anything an agent should still know tomorrow has to end up in the environment.": "环境也是负责持久化的层级——唯一始终<a href=\"/ai-coding-dictionary/stateful\">有状态</a>的一层。<a href=\"/ai-coding-dictionary/session\">会话</a>结束后，其中的上下文会消失；写入环境的文件却会保留下来，供下次会话读取。<a href=\"/ai-coding-dictionary/memory-system\">记忆系统</a>、<a href=\"/ai-coding-dictionary/handoff-artifact\">交接产物</a>和 AGENTS.md 都依赖这一点。凡是智能体明天仍需知道的内容，最终都必须进入环境。",
+      "You decide how big the environment is. A sandbox shrinks it, limiting what the agent can reach; adding a tool extends it, bringing a database or an API into reach. What's inside the boundary is what the agent can perceive and change; everything outside it doesn't exist for the agent. How well the environment is set up to support the agent's work is the codebase's AX.": "环境的范围由你决定。<a href=\"/ai-coding-dictionary/sandbox\">沙箱</a>会缩小环境，限制智能体能够触达的内容；添加<a href=\"/ai-coding-dictionary/tool\">工具</a>则会扩展环境，把数据库或 API 纳入可操作范围。边界以内是智能体能够感知和改变的世界，边界以外对它而言并不存在。环境对智能体工作的支持程度，就是代码库的 <a href=\"/ai-coding-dictionary/ax\">AX</a>。",
+      "Avoid: using \"environment\" for the runtime or the harness itself — the harness is the wrapper, the environment is the workspace.": "<em>避免：</em>用“环境”指代运行时或运行框架本身。运行框架是外层包装，环境才是工作空间。",
+      "Usage:": "<em>用法：</em>",
+      "\"The agent can't see the staging DB schema.\"": "“智能体看不到预发布数据库的 schema。”",
+      "\"Wire it into the environment — give it a psql tool scoped to read-only on staging. The harness is fine, it just has nothing to act on.\"": "“把数据库接入环境：提供一个仅能只读访问预发布环境的 <code>psql</code> 工具。运行框架本身没有问题，只是目前没有可供它操作的对象。”"
+    },
+    "/ai-coding-dictionary/ax": {
+      "Agent experience — how well the environment is set up for an agent to do good work in a codebase. The agent-facing counterpart to DX. When the same agent performs well in one repo and badly in another — same model, same harness — the difference is usually AX. The instinct is to blame the model or rewrite the prompt; the fix is more often in the repo.": "AX 即智能体体验（Agent Experience），描述<a href=\"/ai-coding-dictionary/environment\">环境</a>为<a href=\"/ai-coding-dictionary/agent\">智能体</a>在代码库中做好工作提供了多大支持。它是面向智能体、与 <a href=\"/ai-coding-dictionary/dx\">DX</a> 对应的概念。同一个智能体在一个仓库中表现很好，在另一个仓库中却很差——使用相同<a href=\"/ai-coding-dictionary/model\">模型</a>和相同<a href=\"/ai-coding-dictionary/harness\">运行框架</a>——差异通常就在 AX。人的直觉往往是责怪模型或重写提示词，但真正需要修复的地方更常位于仓库本身。",
+      "Good AX has three main dimensions:": "良好的 AX 包含三个主要维度：",
+      "AX and DX overlap — good checks and clean architecture help both audiences — but they diverge. Humans tolerate tribal knowledge, slow CI, and \"ask Sarah about the billing module\"; agents can't. Agents don't benefit from IDE tooltips or pretty dashboards; they need failures as text in a tool result. A codebase can have good DX and poor AX.": "AX 与 DX 有重叠之处——完善的检查和清晰的架构对两类使用者都有帮助——但二者也会分叉。人类可以容忍口耳相传的隐性知识、缓慢的 CI，以及“计费模块去问 Sarah”这样的约定，智能体却无法依赖这些。智能体也无法从 IDE 提示或精美仪表盘中获益；它需要失败信息以文本形式出现在<a href=\"/ai-coding-dictionary/tool-result\">工具结果</a>中。因此，一个代码库完全可能拥有良好的 DX，却有糟糕的 AX。",
+      "Avoid: treating AX as a synonym for DX — the audiences need different investments.": "<em>避免：</em>把 AX 当作 DX 的同义词；两类使用者需要不同的投入。",
+      "Usage:": "<em>用法：</em>",
+      "\"The agent writes great code in the API repo and garbage in the frontend.\"": "“智能体在 API 仓库里写出的代码很好，到了前端仓库却一团糟。”",
+      "\"The API repo has strict types and a fast test suite; the frontend has neither and forty always-loaded skills. That's an AX gap, not a model problem.\"": "“API 仓库有严格类型和快速测试套件；前端仓库两者都没有，却始终加载着 40 个技能。这是 AX 差距，不是模型问题。”"
+    }
+  }
+}

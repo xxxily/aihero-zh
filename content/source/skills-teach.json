@@ -1,0 +1,1053 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-teach",
+  "pathname": "/skills-teach",
+  "fetchedAt": "2026-08-11T06:28:04.602Z",
+  "title": "The /teach Skill",
+  "contentHash": "721138de15ee4c8a04adc3ab474522c1c8db662ce385442e895f316b61d4ed48",
+  "textHash": "4946f454233e772fe5d70a038e9358b695c68455fac2b58de7211bbeb9634c8e",
+  "strings": [
+    {
+      "id": "969843224ba690579f0c84d22bcfc9261e255db724b42cd29b187e1ff371e81f",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "9f617f0ae8d6e1c87d9e665eb27eb0bc7fee12225ae40470d54a759a7eb90fb1",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "7c606c692eb9b3a3959a008f66d9093bfbfd7aee72de1293b774cad3bdce1947",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d165d7e497645be6cf1b01b6c0081323adff7aa60f9e94a92267b6a7bea57723",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "eec381328bfc4ff8b7b7908d74ed62be44275f804a54d3d66b724e78579148d8",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "97e973d87488364b8708eaeb671840a45e9b086a21710d77bf78bc6d5b2853b7",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "75976cc848fc6ffaf91c03fd54a5a181d3682d94369bfdd36b689758d26f1017",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "59023b55a1694121af2447cf9fefc04a85e5f544689c8d4a350c0ec2166c88cd",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "b3af15ed63b292039f45634351da881ec5c20b51ec62935552d566e2ad2c90ad",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "9cd77a5400f34fab64756930b67942e2d8b2ed620b75fdad283660a44d63b254",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "5003a6096231711d2e792de3163c7be71939e94fae2eda7774ef6ab8a1c9d170",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "b3ceebe986b7355479b7bc9e401d211d7d3bb375915b528adec0178fc0c5b1a8",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "557c3a9697ce6e17a2ffff01890c9bce2690dca57b0f2c804fe4260db7a350af",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "d1236fe9e9df6157f97bdfa64c1fe5734745fd064d9f870cf016e02d451bc8cc",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "3daed41a5c185bc242739559c754317012ce200c8c00961dad6f157890c85a44",
+      "text": "The /grill-me Skill",
+      "hash": "5edb548fff722d99ccd268e52fbe25045b7b033143d6caa73359a81daebd7539"
+    },
+    {
+      "id": "e9c4960fc45ff7aeeb5436033c6dda9cb21bb6e970972b649059917f595db211",
+      "text": "The /handoff Skill",
+      "hash": "aa9ef09fd6306628ff648bd617767047dad198c95193321344b3959b78d08f43"
+    },
+    {
+      "id": "fee22f5dfc3d8f3e63fc63a6d13e07c295994dcdc33fb40e239dc712f70ecdcf",
+      "text": "The /to-questionnaire Skill",
+      "hash": "3830a182a5231fe3723288a956ef6fc920624202c591cb8eccfc4631443da29d"
+    },
+    {
+      "id": "4c68e88e79e22f5e89ef70c206a2f5c965be10279b6748dec89e12dd1d45037e",
+      "text": "The /teach Skill",
+      "hash": "3eb25da61522976d76351eb1e464adf19c3c6b07956a325549bd111789da85c1"
+    },
+    {
+      "id": "4d28acd9a0be98c3e44469bbc9ce505e30c80dcb4f92732e1ffe185b31feea62",
+      "text": "The /wait-what Skill",
+      "hash": "e6bdcc6683fd9e297ee57882e5d2370d26e6fff3b9b03bd528804cfa7ad01fcf"
+    },
+    {
+      "id": "5c7487567d6a15c43a84ca0e45880fc3bcea81f9daa26261bce4d52609461622",
+      "text": "The /writing-for-agents Skill",
+      "hash": "f022e2398dea44aec218f90928e961973c7eaa03026792434aebd61ba6c18cfb"
+    },
+    {
+      "id": "088c990f55a7ec0e45f630bfcd4f57355e232e081bbf71da9b126c788cd10b64",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "fc87bf08a8810f61c055505db8301f4a13992589d628a0a65e357a525ff1f4e3",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "fae3317f7179f2a8f8fb65531ce169ebd7af80dd2339cf4bcd07b905dfca68df",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "769a8b4bef2c259a11de3ad6704e8fae3e206d4be53ea061f038f5c807e4fa74",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "04c3bf6c77c9ca1aaf1cdde22e4c9642413fc3a5b8527d72625aa59818824025",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "c5edda8134d76c1e6ab56dfd1002a28f4808cee3b2add0d9f2228634eb155c72",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "5594c6b3222ca186c2b4321928ced1181fa12d241e694d440c7b9d43bd5b8b12",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "b03da40a75c1922b268caed2a1086daed17d5ef49e5ea1d6b3ec50a9edd52735",
+      "text": "19 / 25",
+      "hash": "7b407b901a12bc0a29f29517804cb686967cbb25d98bc1b4a6331fab0f251be0"
+    },
+    {
+      "id": "76897ffae56083f1c2e20257b8436bd979ae1a474a4813dbfc78f05f77fd3e52",
+      "text": "AI Skills for Real Engineers · 10 min read",
+      "hash": "0379e77a0eae45319c38132c799d1c7d7b8a007e133a4926ced68a27da4ba88c"
+    },
+    {
+      "id": "29a5f45d6a73a057e28a0e7a4e590072fd1450e630603bb9111772f93b33b0f9",
+      "text": "Learn a topic across many sessions that build on each other.",
+      "hash": "f68ce258bf643b4a5cf185bb389147450aa13df3da709f20dde866f0012da4ad"
+    },
+    {
+      "id": "8f3d3b00b5cdb5d899aa0bb09353ef3be69e695df2d4e19da28df3d80f4bf107",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "2ed716be6f5c4f2a3b5acc42c363dc713e88dcd1b1365a4187ea35c238f0f5a4",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "7d4efefa9496d3d792a462bfa60507dc686c8bb4aa4807949bfd2064bf3c5e59",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "7d00a7833bbbfb082c37a0ad9c2256b9fd812ec51a29168eb2c9c7c435b3122a",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "e57251a4fbaf2e446eec239dd01910e942405f805773bb10bfd78798f2ca5751",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "7cd38153c27334f79400a13d80a2eb14b1ef66f6f2b10b0fd573edbe35c26326",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "d632847b9da5ca457bd0edff2cc892bd9a50ed5974961425cdb1350ac608b41e",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "9f441ff69e684ca8569b1b890f5f0aec7981b2a7e90f54f2482bc2b777205746",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "366c642d17bfa7b5631d34ff719b8a3112933719745bcc21cdd6316f6cd89fd0",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "79ee02bfa2f7ea8d132e5b51d380430fd90e408b8222cb943b73550c9193a8d3",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "a1f6d1cb84ba5b0423e2c270836775f55eb507a1b0832a537e18d44f612edb1c",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "b0596a4a518d201838b1b04d4a9f8d72c892a4d33fa8f7bf917c3835953150b4",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "88b1c04f47db63e0c261e87e90597ce369df8ffb3833ab08d98d9b2d556abd5d",
+      "text": "Prerequisites",
+      "hash": "865514682d0132abd96594e2eff0ac8d379e16c60c7def0ee5c5f220ed3474ef"
+    },
+    {
+      "id": "5b70e0aef64c12b0ae688efdc20afbfa89fe7d532e139937d37b32e2caaf8a12",
+      "text": "Storage strength, not fluency",
+      "hash": "49495c6a47d31b731d2e92a649f2bad9c946837b9edcc500b1ba47081d7989aa"
+    },
+    {
+      "id": "8b75f22bdbb754f821c393c10ddce6f4b0c83d6a9ada7ef09cf1db3cec4f2267",
+      "text": "Lessons, references and components",
+      "hash": "f483e2817b5d48e747a9f9219508407179593d3950c3ed06ac594c1e01061eed"
+    },
+    {
+      "id": "b58fd02feec48aa043f674da2a468a779bc251f0af5ca0e35a3c094aa12d0665",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "6e7862d64127a019855edb043b24b83b0fefd48141ee0cca5b4e4921aa379396",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "77dc98283e3926c4ddfed09b5da9d17b597560fca89ced810d3d7320bc4ebddf",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "a7099600164f05c21d9b1dc74f42e132894a2087ebd2b7456b05f69a19f341f1",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "6d1dc45f2a4fdd946f11e13f91a898b2509f75f3af9c872b5626efd15995a3c1",
+      "text": "turns the directory you run it in into a standing teaching workspace and teaches you one topic across many",
+      "hash": "d47120d46e4f6d864b05b1cbafa051de73e1c4f51ea892677aa59903863b45e1"
+    },
+    {
+      "id": "e668c713e3c865261c44a107d1f57ed85d6ede06383c5d86e61d232bc955f3db",
+      "text": ", in short self-contained HTML lessons.",
+      "hash": "ceab9c364409851dbd2962841f8c8c8c2d23defa23ff5b957a1b05ca56c3c4c6"
+    },
+    {
+      "id": "55640563aff01e6f1384aa40e76a7425c63349ff9bf0a8a15c3a7381cf2c2f41",
+      "text": "It does not teach from what the",
+      "hash": "71504984bb41fc9274a9821a007b430ecedae7c3598e23e0a2e27ff4631486ce"
+    },
+    {
+      "id": "1e70a0ba1d86298e5d008a1c2e90214e89ebe9d581e42ced933b8243a2f6c161",
+      "text": "already knows.",
+      "hash": "e947b4e963933ab09d5d9f62a015780c305aafb182ffed47ed573082d61e2ff3"
+    },
+    {
+      "id": "d48eeaf53ef735eb55ac80eb08a566f15c3904210200eb6c96c991a1a880c42e",
+      "text": "Parametric knowledge",
+      "hash": "ca4427e58e7eb25fb52c817968346f4b0283569955f17477e050362e47238167"
+    },
+    {
+      "id": "85930f97b1628d1c83a7186dd9676f9334c543efea4a7bbe4855a637c20c4ea6",
+      "text": "is treated as untrusted: before it teaches, it goes and finds high-trust resources, records them in",
+      "hash": "903ad5cd2d8f81ba7651bcd036a761bb37d8bada63bf3c5470a4e6c327d757a7"
+    },
+    {
+      "id": "e9913b07c80c2178dc9772b877079d5d747d12a720abc06ad797cbef4dfd2504",
+      "text": ", and cites them inside every lesson. The other structural fact is that it is",
+      "hash": "64525bce5c82dd4c2300d6319bc8a736f0859f36900d2b78203dd70733eb424e"
+    },
+    {
+      "id": "31453582cdfde2453f77d14882c8fa5a1c1814d48440989618f6dfdbadf07f88",
+      "text": "— the mission, the resources, the lessons and the record of what you have learned all live in the directory as files, so the next session picks up from those files rather than from whatever is left of the last conversation.",
+      "hash": "fee1ed97aaa281a17535f5f8706bf345eb4e10c5874c147a38aa0c1c616b6ebc"
+    },
+    {
+      "id": "eca67b5b0e57f242011781749daec9cc4ee5c39793c8aa4f8d66ae64133a3a24",
+      "text": "You invoke this by typing",
+      "hash": "eb451d07ec13d102b19e3dfe863c71353c869221063361ff21d39755f50a1a98"
+    },
+    {
+      "id": "c556f48fad0b2a45f41e61993c84ecd1a01156a2890457e0d94dc01e0601ca1d",
+      "text": "— the",
+      "hash": "4b4c2edaae377e0f86cfdaebcd2d63a27f6438259b3bb97065b79332660fe2d1"
+    },
+    {
+      "id": "c312176a9fff7d7c0baa6dbb8335c8f0d3734da9a98ee7f08eb0fdecf4708f68",
+      "text": "won't reach for it on its own.",
+      "hash": "4df2e2b70e321619d23c1e07895e6e8a647d4c0c4882d1fc2cb660ec45febb43"
+    },
+    {
+      "id": "2fe163914f641d21f62642215de3a20d273d4b3289594d93826d3110e9ac2bbb",
+      "text": "Reach for it when the learning is the project: a language, a framework, a codebase you have just joined, yoga, shaders, a certification. It is not the tool for one explanation in passing.",
+      "hash": "3ab0381819437be3db3d7d1bb5670362abe4e628bf8253b941f3a878497509c6"
+    },
+    {
+      "id": "8045b8dc6cbe1876b20b2008402a5a4361e9c60484e1486289b55956f85488ad",
+      "text": "What you want",
+      "hash": "4cc94bc7ee17e14283fda44867777f61f531f5710936c1a2a0d0ea2c69a44ada"
+    },
+    {
+      "id": "c1fa50ce85ae029597533b1841013b61e5705b257ebd0aba167e5b6663601efb",
+      "text": "What to reach for",
+      "hash": "1b7dd886277f8ba3f0a59e5261eea4b2cc4b60bd0e1243765aa422688172c799"
+    },
+    {
+      "id": "98b9aec4f7d9ac444f86fbb11cf09e0d1638c7e788608ca058b64b8483200751",
+      "text": "To learn a topic over weeks, with sessions that accumulate",
+      "hash": "b26c4b5591e1ec523c28847296a25d227e1e8a74287496f6f0ceed97231b09a2"
+    },
+    {
+      "id": "0c891ad5e193565a2a02bf990ecc1d4c3fbc05dbdeece41395691e5fe088b94c",
+      "text": "One idea explained inside the session you are already in",
+      "hash": "19aed62442b8c4189a544831ec6a7ab7e41fe0ab9abffef3c992be0ae83e98f4"
+    },
+    {
+      "id": "20694a6dcfdde723d3a3af793d884a30b2c3c14b0d1bd1ec648265e973467d5b",
+      "text": "Just ask, in that session",
+      "hash": "f6936ba54740cd70f6edc399aad51b867ffe98ae1475dfbce5abed182e87b180"
+    },
+    {
+      "id": "40ac4cfa96380ec8aaff571b24cc4456f6ec580c76680f1a7b4239eefe7a716c",
+      "text": "The agent's last message re-pitched because it didn't land",
+      "hash": "1892c59ae1c79c5ec19f4a1820f5e8fbd9f9ae3a9353eee78e738e9591a1335f"
+    },
+    {
+      "id": "e4bcfcc16176e547649af10a5252eecbee76f128361204e9fb62deb7f731c84f",
+      "text": "To sharpen thinking you already have, rather than acquire new material",
+      "hash": "13ece829e51e797b7c2c7c0ba0ae109e7d5fbe8032c529683d1491e318e340d1"
+    },
+    {
+      "id": "4ce85b79f7c02ccc32568d865f450b8404265aba3655019aa79721c313f3609a",
+      "text": "A background agent to read",
+      "hash": "bc890b751d29b91876020ee68e2af1a195510202cf0fc891336bacd2602f8fc2"
+    },
+    {
+      "id": "45275466ea05e505ed3b61773ca15547a0651c3b0e7cfe606c4d11f90d1a88cd",
+      "text": "primary sources",
+      "hash": "f8c13f8afbbe528a1191f12325dd92fef217d13e3ab5ee6d8de4ae1a5f1b9120"
+    },
+    {
+      "id": "c3babc072d5e5099bc466f00edbfbfe643d7a91ae33039851aef18aa3f2bc932",
+      "text": "and leave you a cited document",
+      "hash": "f3b166e4e630c3564cc821173850f95d75686de74ea10a639fc453fbe6b6bce3"
+    },
+    {
+      "id": "acc0062d553e4cdf25680c6c7cd88f46c8e73e8cbf53ba111827951244b5e916",
+      "text": "To learn something that came up mid-grilling, without derailing the",
+      "hash": "50d24dfce21c445b2f378683680ac8be4b40228f63376c8545d7163731c4bfe7"
+    },
+    {
+      "id": "713a103856fa40ced216c78badf41fcd79758c1f581a651d92fd01e1951986e7",
+      "text": "out to a teaching workspace, then",
+      "hash": "8d6dda83b2ab14970662f60d009276dd475cf1547d18d0c5ec89e4a6d054b455"
+    },
+    {
+      "id": "0548c787899dbe82a49c068e67a6708ff73486af02cbcf3c3753d2eedca24b5e",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "d0088b6eead02559c75655fedbe9434b4b4654e247bd146d348b84cb2d470603",
+      "text": "builds a directory rather than producing a file, and the skill assumes one mission per workspace — so run it somewhere you are happy to give over to a single topic. Keep it out of the project you are working in: a separate repo is the recommended home, rather than a global",
+      "hash": "976c823dd6703c60e3f750049241b45ca8cfa9f2f2fe0ebd0c39a641d058b188"
+    },
+    {
+      "id": "0783cf79bcb86ad5637358d405e45038fec3a3b885ebd08fa36c3667ddfc617f",
+      "text": "folder or the working project itself. A dedicated repo also makes the lessons committable, which is how teams have shared them.",
+      "hash": "0678a16e0dd9bc2f9d03aef8b4afe630fe482981d145cf4b213ba1204b2fc6aa"
+    },
+    {
+      "id": "3b7d0e5a4418a7532b13a4f6c2d2ad9f5f33ddcfe11f0d128181337476b32909",
+      "text": "What accumulates in that directory:",
+      "hash": "0783d4bbe2b0d5a8cadba7eb154a6190cf4d71fc8322841d0af9a0f25d2bf314"
+    },
+    {
+      "id": "b2c0ee2adfccebf7e723096aba807ac7b1f5e32066523afe6552949acbbc1b81",
+      "text": "Path",
+      "hash": "62fa5a5b0d3c318835a213e22a4b335c42515443d598741d0413e8c47f9ecf67"
+    },
+    {
+      "id": "dd75971303e67abf8c1aafddab15142fd1e667a61ca0738d062b6a7ebca9e7d6",
+      "text": "What it holds",
+      "hash": "e0ae7a1f3f51e7e76a5177ff625cd35549fcb6b7d18a9be456764d55ce38c971"
+    },
+    {
+      "id": "f79aa908ef4130084b85cd585247805367ca34368bd92203ba8623f36a2c38e1",
+      "text": "Why you are learning this. Everything else hangs off it; if it is missing, the first thing",
+      "hash": "44941c389dd0d969b3611a23ebdda1a167b40b73ea69045c1ddc871ab2e4dc6b"
+    },
+    {
+      "id": "2cb37aed5cda28dcbb5ab18790499dc77c205325dadba53cba65ef377433581f",
+      "text": "does is interview you until it isn't",
+      "hash": "2cfddb821cf6d5fbfa6d75acf4e3a05383c19a638ddf0dac14009ccd13aa39dd"
+    },
+    {
+      "id": "a4b984c841fc3ba7502e361d90cd59b2441ff13a9cee749426aba3972fa2d527",
+      "text": "The vetted sources it teaches from, split into Knowledge and Wisdom (communities)",
+      "hash": "1a812adfb7f611a11eeb9240754aa065b4178a3b52405dfd7fb4c7f0fb1977ac"
+    },
+    {
+      "id": "8d3ae45b5a477208b655f55fd8686ead5d47d87241391b176922588548797bf8",
+      "text": "The numbered lessons — the primary unit of teaching",
+      "hash": "2e27c0bf25ff204940dd7a1cac8a002006ae330af181790bc992a3412c3c2f86"
+    },
+    {
+      "id": "563ff83259d09321f732ab4f70e1cbc0d020cf3aab17df0d0d2e13699b780784",
+      "text": "Compressed cheat-sheets, algorithms, glossaries: the documents you actually return to",
+      "hash": "7d54899f450c813156db710090b3c1bfeb108d33f8f056de78bd38e10a9844f3"
+    },
+    {
+      "id": "313934ba98862ee1aeeb54578e5ea6810af0626940e16e5eeaec186b7ec3dc5d",
+      "text": "ADR-style notes on what you have demonstrably learned, used to decide what to teach next",
+      "hash": "6cf23b90c1ed701f1586b6120c54e3fc0478721a59367602b6263632f0e21cab"
+    },
+    {
+      "id": "5ea0ec4b86cf2e27ef5b7d396cf387a4d8cea87700c86c0bd51dc1279ad8e8fd",
+      "text": "Reusable components — a shared stylesheet first — so the lessons look like one course",
+      "hash": "d13a7be2b1d3faec0263aee5550f7039bc689c4cb1ce59384be06af188195796"
+    },
+    {
+      "id": "e69965bd552e1dc306a3fc5bb275f166341c3c8e7e2b1ca97e50f1b7b37b2ed1",
+      "text": "Your stated teaching preferences",
+      "hash": "6e05acae2cb232ce40917244be66912af34ec87620934a1afbb8e1aad02228eb"
+    },
+    {
+      "id": "2b882281389f3c8e253cbc83105a974de0f4231ea42735f9197ed2941bca38ac",
+      "text": "Two honest notes on that list. A glossary suits most topics, but the skill ships a",
+      "hash": "5ae5193475473a866307da3a5540ff21f9f7a7691c64a53ed2fcc94382490f35"
+    },
+    {
+      "id": "ad0151c3f5bf1021e878a6609b5509d49d620c0d4fcd8e214301a35ea2e6e945",
+      "text": "no longer links to, so you will only get one if you ask (",
+      "hash": "923ca13387137ccc1f7810b6525c6af7e6f3b5ae510f9b635d459834ff8d6bb5"
+    },
+    {
+      "id": "69190254ac24eee06f8db96639f4466fc42f893a0460945abb3db1bc51bc75c4",
+      "text": "issue #559",
+      "hash": "d06ef4874f474e9fd09e4fad56bb09b89cdb6e33a9219e60fd44b7a525929e04"
+    },
+    {
+      "id": "4e1fc226145eb68abc38e047b1c0943fae10134648f8c70426e1c8c12fbe665e",
+      "text": "). And the workspace is not always created where you expect — see the first question below before you build a long course on top of it.",
+      "hash": "dca7a33cd36bbfef8f599b212cbb9883e7e768c31c1570907eee214c8acd80f9"
+    },
+    {
+      "id": "ab0aa3cc0d7f79ba78e7fbca02ca9f7206e2886f2330928b4ec7df2b52e7f6f9",
+      "text": "The word to think with is",
+      "hash": "1b319dd75303c40bc085143a788c1c134f7294c8ab69dc0f31928e1e5bedef80"
+    },
+    {
+      "id": "2de743c30b7af897f34c875021803dc7db16524d7b540c513e2465c84a6df77a",
+      "text": "storage strength",
+      "hash": "4e0c69d725cea5921460b4909df92b30b0f5dccf7fabb77961d01900bcf58053"
+    },
+    {
+      "id": "aadfc609730c7e12f178dfcbc24c279eecd893dbcad184dfc7a11d12262656a6",
+      "text": ": long-term retention, as opposed to",
+      "hash": "4bb9a2113b736c83b4ffca7fe4b90a2450afd0aa72426ecdccf079e529ce4f04"
+    },
+    {
+      "id": "cdf47ed77b3d9b9b74bcd7d93bb65ceefdf17aee356e51814b1e2a3e02688fcc",
+      "text": ", the in-the-moment recall that feels like mastery while you are reading and is gone a week later.",
+      "hash": "6fb9957c2e3f695d7f52bfc124952aa57b2690b5fdef2e9007b93eb2467edc6f"
+    },
+    {
+      "id": "85069e0f91415ca874f8e1566dfc8e4e7530529a90223af42b9131fe794b5b8f",
+      "text": "builds the former through desirable difficulty — retrieval practice, spacing, interleaving. Knowledge comes first, where difficulty is the enemy because it eats the working memory you need in order to understand; then the skill is drilled through a tight feedback loop, where difficulty is the tool.",
+      "hash": "638e49429888b6512b3ebe1ba4af9d0ce280656ee1786f42c857e67516ed120c"
+    },
+    {
+      "id": "a41ad6072a7800164b4bf48ff2becfe41f39d643028b2d802b537647dfc4ebde",
+      "text": "Two things steer what you get taught. The",
+      "hash": "af339cc1df145833ac6866b285886e5a1cbcc6430f17b6618bf5dfb899d1b56f"
+    },
+    {
+      "id": "5e3dfbef111c9e12b8e3b1c543303d08177c0067e89b1c797615beb8df6f8289",
+      "text": "— the concrete real-world reason you want this — grounds every lesson; without it the lessons drift abstract and nothing decides what comes next. From the mission and the learning records,",
+      "hash": "00517e68c76d9446ff09558e5bee4e2d3f2da6431b411216e0b4009bd53de578"
+    },
+    {
+      "id": "ad417351ee0a5c4a674e6e64347a37725ed3d83aab00a1cee8494f7a687f0ad5",
+      "text": "picks the next lesson inside your",
+      "hash": "4c967fa762d3a7b86072fa66f0d6725b68e0e282874fdba0151fad3824dcbf54"
+    },
+    {
+      "id": "e544cc39157d609c3bdb51859877a04a1e553842783113478e6e33f371b45545",
+      "text": "zone of proximal development",
+      "hash": "ab73b136f91853ffd9bd232fba29a876ac47d39d25d70f4e7ab10813473e98d2"
+    },
+    {
+      "id": "6605c71bdcf326b643d6025dc3c605d255e8a4c2173df26995609c8baf87f4fe",
+      "text": ": challenging enough to take effort, not so far ahead that it stops being learnable.",
+      "hash": "6d623b8ba52c8c7ee830c5a5482ca4990219e2fa38d9c56b5baf12307265dc5d"
+    },
+    {
+      "id": "587e3a3d6b7fea982525b3493ea212570c863403dcbb7675a67b12794f757f7c",
+      "text": "It is also why the skill pushes back rather than obliges. A question that needs",
+      "hash": "64cfbc42b187f0ba4a211634d2dd74a9c0fd195f989e1e3b178dc60ac247630d"
+    },
+    {
+      "id": "3f329060c3afe69766a6c5898db0420a433cc605f4f6c269d11160b78f043f06",
+      "text": "— real-world judgement — gets an attempted answer and then a pointer to a community where you can test it. A quiz is a gate, not a formality: one user reported saying \"thanks a lot\" and being told the drill was still live.",
+      "hash": "e6acac5783cd221519f56a8c1087f1f63ad5448d231389dc22412e338b4b2bc6"
+    },
+    {
+      "id": "a2e86669d3eddba62b10f6f920a03586042406b7c853ba66dea16a62c86ec200",
+      "text": "is one self-contained HTML file, short enough to finish in a sitting, tied to the mission, giving one tangible win. It cites its sources, recommends one",
+      "hash": "1bae2cffa650b557a65d56f76f7a3fb233ecf81d35cdb885ccaba64591d0d138"
+    },
+    {
+      "id": "6cb355914f3e278065e3e99deb2feef7600870ff47d0ba7b236593ac8379805a",
+      "text": "primary source",
+      "hash": "4c3f03bb625194b79deeff56ee12d13258ff531de6eef1fff5529d0fe89a1404"
+    },
+    {
+      "id": "5547df3f91b0fd67446a5844e492a2eba3295385fe4c152fd5a984001e480d45",
+      "text": "to go and read yourself, and links to sibling lessons and reference documents.",
+      "hash": "5b7e8bfa0eba8c2802495106c930aceb5549c50e3d6f1abf7ee960e4d39f363b"
+    },
+    {
+      "id": "13783a243221378f3057ed7d6ab68aa464a97af99a669ce09eb8d727f5cc07b6",
+      "text": "The split worth knowing: lessons are rarely revisited, reference documents are. So the compressed essence of a lesson — the syntax table, the algorithm, the pose sequence, the glossary — belongs in",
+      "hash": "4f075ef4444e4526806272bd58623aa868be07bd79347a2e68168816ec08a553"
+    },
+    {
+      "id": "f6cfbef4396b6d6e15b87cab16a5e2bf650e03b198a77cb8841c7c08d2a60f67",
+      "text": ", not buried in the lesson that introduced it.",
+      "hash": "82ff42cbc59b5d6199dd5bd6f3fb8ad578a05a7886a5f7a62c3966bb2f2c1eae"
+    },
+    {
+      "id": "ef46c8d29351a65990ca0c4f157db7264e063646b9d52ab4811ff466382e5e92",
+      "text": "Lessons are built from",
+      "hash": "e0bd958a18664bf08e9866c5751796a0d98b2fa33921d32b63573f48a55dc4b5"
+    },
+    {
+      "id": "e869d6df66f761de89b1b1fc1e7f9ee740728b50c21b0422cac42636673a09be",
+      "text": ": stylesheets, quiz widgets, simulators, diagram helpers. Reuse is the default. The agent reads",
+      "hash": "54e43cee7cd12c3af0a301ac5ffa89dd8ba3ee61b1841b77dd19e1f60ea2fa52"
+    },
+    {
+      "id": "45fa272bba0528eadf4748e1baa5b566eb676e64bfc8b0aebd225f7b2dc09f18",
+      "text": "before authoring a lesson and builds from what is there, and anything new that a second lesson could use is written as a component rather than inlined. The shared stylesheet is the first component every workspace earns; it is what stops the output being a pile of one-offs.",
+      "hash": "42bfe4102c438042326782b638f7c48a1d36940df1913637221cc8a39b7f61b0"
+    },
+    {
+      "id": "4328449b83c304ce103783c0fc104b61fae1e9ae5a4d4c886570dc9dabf1065c",
+      "text": "Where does it put the files? Mine ended up in",
+      "hash": "ca63ff27f5c0e1834ff835290e1170168db27fe97a6a80a0889094c205656277"
+    },
+    {
+      "id": "d8a27c8e5e6fd9dcee0c1b55bd3e678919618c3adfecc3dbc0c7f24a4bf5f13d",
+      "text": "A real, open bug (",
+      "hash": "a11eac9e69131e17ed496edb5f954a8b8110a19036045e940eba3c9aac1d83af"
+    },
+    {
+      "id": "d6c7ea97f7ea70adca575560ba3bb5ecfe61055ba7f3ea356c469743486c3e66",
+      "text": "#377",
+      "hash": "5617a2567130300afad140206bc421604ce5948d79c23a4688b9febcf19f7368"
+    },
+    {
+      "id": "9df2622e6c703fded8f89863aeca24d482783fda06e8797e048087be068f601c",
+      "text": ").",
+      "hash": "c4b2896a2081395e282313d6683f07c81e3339ef8b9d2b5a299ea5b626a0998f"
+    },
+    {
+      "id": "292bb88ed3ee8b185ed8db8c2b4b72fbb1f642ed09eec0f492c7a4631a02fb9d",
+      "text": "for two different roots at once:",
+      "hash": "f746319b7c899c181d657284e1dd9ae93b163143e5fe70919d99ac7adfd0abf3"
+    },
+    {
+      "id": "d6b4d247a90a86977249fedbf02ad8fd7c88ee2434dacf070fc1c5c0d31fbb18",
+      "text": "and its siblings really do sit next to",
+      "hash": "7d9a0e89839e7e3fcfa5025198ae1dd76fbd3fb96c51782aa259d7932d890012"
+    },
+    {
+      "id": "00536b77cf9bdf84505655e8ff6b2350d08f44355bb976b501e7d884a1d90bf7",
+      "text": "in the installed skill, while",
+      "hash": "75d3703acbea0136c1b27b550ddcbe8fbfe2035f17eef7fc12e33b39a2b44940"
+    },
+    {
+      "id": "bf9bb4a73f1aa55068b3cfffa70d6b6529aa8934eb02e11394e16533ea9f8c42",
+      "text": "are meant to be in your directory. An agent that resolves the first kind against the skill's install directory goes on to resolve the second kind there too, and writes your course into the skill folder. Check where the first lesson landed before you build on it, and name the directory explicitly when you start rather than relying on \"the current directory\" being understood.",
+      "hash": "9621fb4140a20234506fc27902918e0cafacbe91e98bbe33c8be3ee2cd613285"
+    },
+    {
+      "id": "90747f2af6ac4a9c0ce8bb1a2fb57bc50a455a89c77575515f21369d2c612ddd",
+      "text": "Do I stay in one session, or start a new one per lesson?",
+      "hash": "aae74ba07d0ec3af33b7ab2d15cc2b4dd76a2988fdff0e2df279d89279fc704e"
+    },
+    {
+      "id": "a218f31d653d65408238e83e2ad09f68e587da4b6dccdce81093d74750189bc2",
+      "text": "All three approaches work — staying in the same session, re-invoking",
+      "hash": "c72c889efbc1f0fc9733aba45483ac431bc668907816429bfbbf84f8d6abeefa"
+    },
+    {
+      "id": "1ca8885a33da0c39bedde74a55a29383545646678a223abfa7360a5865cb16e0",
+      "text": "in a new session, or opening a new session in the same folder. Each lesson is its own invocation. The folder is the continuity, not the conversation. Common practice is to open a fresh session in the workspace and say",
+      "hash": "dc4d51246ac3809a4b9f1cc14d585cac32e1ddae6adc3095957112ea807e307d"
+    },
+    {
+      "id": "245ad7aff2ee9cc3a6bcd1c46078ba38fc35f1cbdbcc21364d6e635b9762c03a",
+      "text": "How do I know it isn't teaching me something it made up?",
+      "hash": "754994ec9eedf5ad4c5669ff1e14a43c97e00fca9ff9ac6d859f927022f8fd70"
+    },
+    {
+      "id": "5b1f42bbf8a8cbd9981841b3bcc66bee4d9d99a0561a8c106b80130713c617a9",
+      "text": "You don't, on the skill's word alone. You read the primary sources.",
+      "hash": "55a12d72aa4a1ff4ccc3032a1800fc98a3dc313be68766106838142387fcfade"
+    },
+    {
+      "id": "f657bcd212958dee6dbb7644b9f799ce9ec49799df0e58f76aacfe58a9d4c095",
+      "text": "is not reliable enough to trust unchecked, and no skill built on an LLM is. The grounding machinery —",
+      "hash": "c496f53138be3700e2e55b00ede5833e51f879089dc6c3e723dd6428760f5f1d"
+    },
+    {
+      "id": "8694fcae6c35b5bfa1a79d2d25c97091600ab777b626580c30f9077e87e82dcd",
+      "text": ", citations in every lesson, one recommended primary source per lesson — exists to make verification cheap, not to remove the need for it. The failure is not hypothetical: one user learning a 2x2 Rubik's cube was given fabricated move sequences that don't solve it. The diagnostic checklist for a case like that is model, harness, effort — and what the source was. Risk is highest in procedural domains with precise notation, and lowest where the output is immediately verifiable, like code you can run.",
+      "hash": "6e082d947549ae4b68192258766f38368e1e91d0a2bc74961d2311ea323ff75a"
+    },
+    {
+      "id": "75976259863d236545ddf10e214358cbc4ee686da3c091fdf49961569ce7b873",
+      "text": "The correct quiz answer is always the first option.",
+      "hash": "5559d85a606c500a60de2e21c3decf495090150981c2f070620361b0fc7040e5"
+    },
+    {
+      "id": "7fcda8f3af1e50a4d8b592320c5417ac4395510ca5bab875f72ffbb17cb80a80",
+      "text": "Confirmed by several people, on Sonnet, on Opus and on GLM, and still unfixed.",
+      "hash": "9121b2fc128b82bc8dbca86e90394169457c1df7fa81536f9e3683c9087230cd"
+    },
+    {
+      "id": "d181de9a077cfeb3bb890851a4da1625575cdd291139e460f0f7c41cb6591e1d",
+      "text": "now requires every answer to be the same number of words, which kills a different tell — the correct answer used to be the only fully-reasoned one — but says nothing about position. One contributor tested an instruction-level fix for position and reported the correct answer still landing in slot A 33 times out of 33 across nine lessons (",
+      "hash": "ac72c639a19f60ee39c2099d0eaa48c1f8916277829ac0f06c1c693beff61afc"
+    },
+    {
+      "id": "0fd5baee9bfb325d09ca84a58b6083d850d01edb9e09d90f470cee495b0e42cf",
+      "text": "#335",
+      "hash": "be2cac790b858e8a7c31bc1f688a5895ae6cdd22a4413bafba4bd2fc25e67f20"
+    },
+    {
+      "id": "99162b6046c23e8c132e61985410af61a5d4baef030196bf7837e16160866d1d",
+      "text": "), which points at a shuffling quiz component in",
+      "hash": "c3d3f8dac0c38c51f37ae58dbb84b2a77d3f399fa722d025ea6c8fb90c8432a0"
+    },
+    {
+      "id": "efa5645c9fa73697ea0218cf846db52accf4d9107acc5bd413c4e4446ac460dd",
+      "text": "as the real fix rather than better wording. Until that ships, treat answer position as meaningless. Your",
+      "hash": "9e5a76bf13be0582c3e928dfb7bfaddee566cc99027160f21a5f681df363d90b"
+    },
+    {
+      "id": "45a371cd6e63136171a77be2bf2354cbbe75e88b563b9d1a51e3d0150b54ae7e",
+      "text": "directory is yours to change, so asking for a component that shuffles at render time is a legitimate local fix.",
+      "hash": "740a5464150a968f149b41fe6048b41167aef81c01b105b7afc815045acdf6c3"
+    },
+    {
+      "id": "51ce3e960471ea3b16ccfe4a4d0bf4a30b9312ce57900d4f7a2d10e93f9909da",
+      "text": "It assumed I already knew things, and used terms it never defined.",
+      "hash": "89a60ad3573fe69caec31e5a5cf4a4058f9d06204bf9c2c20256d66162f7bb8d"
+    },
+    {
+      "id": "85b61495ef43468350e8c24e00149cb68b66e3c578fe0eddeacd89083631bdcf",
+      "text": "The commonest substantive complaint. There is no assessment step:",
+      "hash": "901a9d07e1eaa231e06fd0a0a0b6dca78da544ed2e745d4f9cceb35f6ee9d200"
+    },
+    {
+      "id": "c6cfd9aec6666d9c4dc737232432fd69be7aba48dadb4ed7a9d5c6fef3628209",
+      "text": "infers your level from the mission and the learning records, and in session one there are no learning records. One user running it inside a wayfinder pipeline put it plainly — \"It never did",
+      "hash": "5222dbf66b8a5a89a7ed48770bcc8fcdd2bfd19376c1548b817fb15a95f6a0ba"
+    },
+    {
+      "id": "be4a8e6c016922ded92d82b3d5cc74c3e98fb73223f31c7dade56a1b05ab1922",
+      "text": "to establish my starting point so it made lots of assumptions of what I already knew.\" Another reported lessons leaning on undefined jargon, and a lesson tailored to their hardware that covered what the hardware could do while never saying what it couldn't. Two things help: state your prior knowledge and your gaps in the first message, and correct the level out loud when a lesson misses, because the correction becomes a learning record and steers the next one. An explicit knowledge-assessment step is a standing feature request (",
+      "hash": "19a4a6c95fef54f477eb2f22b2e9aba96a7401a0fc7878932b291846efc2373c"
+    },
+    {
+      "id": "7a49b96570a8f7923eb83f12b9808950b4ad690d0b4ccd9da9b11f0b66a9703a",
+      "text": "#725",
+      "hash": "ee3ccb90df6665de1b7c29ffd868b741608a247312bb4eab0f962e0cfaf1a9b4"
+    },
+    {
+      "id": "564a530d9fd52e07d47918de33577764d08637675b3de04acee9829198f7c139",
+      "text": "), not shipped behaviour.",
+      "hash": "66499a27fa8df1291fbfd11c61f031c39257d49c432ff6a16729313accbe2ed3"
+    },
+    {
+      "id": "e5171f610c9bc2153d8c48dfdf182f5687a47a3812a177586110d81940b0729e",
+      "text": "Does it do spaced repetition, and does it know when to stop teaching?",
+      "hash": "eec93cab2dec3836e3b3e174cbd3dcf2140d6cfba00995a0d6dce9402d7ffc0f"
+    },
+    {
+      "id": "f37ba18437e0dbc9234212ae97e7af9fe459681ea90a1cd178ab3482915e6490",
+      "text": "No to the first, and not reliably to the second. Spacing and interleaving are principles the lessons are designed against, but nothing schedules a review, and there is no Anki or calendar integration — both are recurring requests. The related gap is exit criteria: as one user put it,",
+      "hash": "762ffcbab2b98628c2fffff43a18d0fec488eba2ea26548a04ca6012b7d9cd41"
+    },
+    {
+      "id": "059473dedc7fd9b7a5161c226b18722399b06b6b277a863bb2e172b36f22fbb5",
+      "text": "\"is good at making the next lesson, but not as good at knowing when to stop and switch to review or real practice.\" If you want review or drilling instead of new material, ask for it; the skill will not propose the switch on its own.",
+      "hash": "88151cc27539af882e12926e45e33bfe1536372bbe96914dca69cfd70e75d070"
+    },
+    {
+      "id": "d4b836db017ac3a02e6de868be563f7269a8d2e92005b0bb3fc9d57c6672cc20",
+      "text": "Is it only useful for code?",
+      "hash": "8bed73102e772d58ac2ab0da905214698544204b8c6746e1ad5a948d95fa3a6a"
+    },
+    {
+      "id": "b7f2c30b9b21b341482aabb88e0dbd8abbcde29397511869f62780da2cf37199",
+      "text": "No, and the non-coding use is the larger part of the record: Korean, Japanese formal register, piano, guitar, board game design, OpenSCAD, film plots, Azure and CCNA certifications, university exams, and children of eight and ten getting printable books on escape rooms and fire salamanders. Nothing in the skill is programming-specific — mission, resources, zone of proximal development and drill work the same way in any domain. Within code, the strongest reported use is not learning a language from scratch but getting oriented in an unfamiliar codebase or a new team's stack.",
+      "hash": "df7f9f9d5246e630cc26052415f6f7bf5875566c70e628906120b3f9805cf5cc"
+    },
+    {
+      "id": "abf3a1a08b269532a977c1a71b6cb7c0904a3fe8640dea06adb285beae2c348a",
+      "text": "Which model should I run it with?",
+      "hash": "95304eb6ca6813327ffb850bb888750a324925b70cd5dca0b0b9dfcdf0cdd332"
+    },
+    {
+      "id": "4589680d03dbcd5398d027fa4b118c0f164cc3da2b2017a140fc964f108fe025",
+      "text": "There is no canonical answer, and the reported differences are large. Higher",
+      "hash": "c831f121e54413de309bb9a9b182ccbd672643833577057851270477b4e37d7d"
+    },
+    {
+      "id": "bf0743f5b9f8b4f495b306c76ad8cbed3207805da3bed8352866a28b3b1578e4",
+      "text": "reasoning effort",
+      "hash": "54dad770ad5c531590671d5c0e6029c726e15e9dc8d91fd14f82c06db40a6fcb"
+    },
+    {
+      "id": "a152193cbc8fa87da3709542b42a6787f80ebf09201b7d63796760e8120d4e79",
+      "text": "has been reported to produce noticeably better lessons than the medium setting. One user ran the same skill through Copilot CLI with Codex and got a single 30-line HTML card where Claude Code produced a full lesson. It runs unmodified in Claude Cowork, subject to whether your organisation allows skills to be added there. If the lessons come out thin, change model,",
+      "hash": "57331b35b3ddd8cee737c69c6aa3615db1ba6946a0d6189420ee54068775e9c5"
+    },
+    {
+      "id": "01ee22d37d2806b2d993adc62b3b2345627d4bc467cf3a6ecf6c29b589e0d9b9",
+      "text": "or effort before rewriting your prompt.",
+      "hash": "ee994c834eaac478825c9ec389cb4389d278da38b65c97b79ec6bad2fe764185"
+    },
+    {
+      "id": "d5a809c41f68207996acd42fd89c9852a63fb90c2bff2e456aa9a59c2b831893",
+      "text": "The first thing it does in an empty directory is interview you about why you want this, rather than produce a lesson.",
+      "hash": "a674b8afbb99f1384ae7fd8f860d9165742d8f2201e40ad6f430ac431062fba6"
+    },
+    {
+      "id": "26d2598573a6f275bdf0f1becde520e1fb04a1f6614ade91454bd7adf6ba049a",
+      "text": "fills up before the lessons do, and each lesson names one primary source worth reading yourself.",
+      "hash": "25f91d230c8c70e018d0bab403b229171436310440e9bab64344f83839cf88e0"
+    },
+    {
+      "id": "dd13db45eaafe68ddcdeaf267e025c37eec323388409b06f05823735253a6e61",
+      "text": "Claims in a lesson carry links out. A lesson with no citations is the skill teaching from memory.",
+      "hash": "56b9e876008627508868f8407e16abe3deda66a1e7939bf039b943894819237e"
+    },
+    {
+      "id": "8ff15bc30de67793e6ba730371fae35cebfee24e98142e1041db881b818254d3",
+      "text": "A lesson takes one sitting and leaves you able to do one thing you couldn't before.",
+      "hash": "804c49494e5753b0a2deb41e2665ceee2e16fabf53215c167f5dccc551d370ba"
+    },
+    {
+      "id": "c7254d9fe6be5e29b760657f9e25b8bfeab347103be8be3195989bf8334e55fa",
+      "text": "Opening a fresh session in the folder and saying \"next lesson\" continues the course instead of restarting it.",
+      "hash": "940ab93f5d3d5d35366785b23846c17e9b343fb8c2d2b9aab7cb076550ef8e2a"
+    },
+    {
+      "id": "a51ad7fb3f189d011608db9d018de7903656c8a6f6c4cb8fd294b643f4d59b9a",
+      "text": "grows, and lessons stop re-teaching what you have already demonstrated.",
+      "hash": "350eac424e0fdb937c954590a6c8472d53802a8a0812cb2d519ed437fdba31ea"
+    },
+    {
+      "id": "3add9d48fcfcef6ef05b1490e8c361c874a29e14bf38d4b3285d0edb670d2bf1",
+      "text": "The lessons look like one course — they link the stylesheet in",
+      "hash": "3b35e5d836ac94e76fab9d78dbb6e6005935aa4789e7f817f48f541461e9f869"
+    },
+    {
+      "id": "7d829a3d21d93f243aa4761e8da8d95fa2f7522a4e01a9af2a2f060d2938c5dc",
+      "text": "rather than each carrying its own.",
+      "hash": "c3148bc554f64b2507791c703bb38487016067c47b1638aa6d690301856e6299"
+    },
+    {
+      "id": "fde3d7e5d1c2e37b81707b236fb7f126dd113fd5d292630e54850ca45e7d5e3f",
+      "text": "A question that needs judgement gets you pointed at a forum, subreddit or class, not just an answer.",
+      "hash": "ff7b30dc6d0a6eb09703c329dfada1270568d7ccbb0ef30ae57447206435f415"
+    },
+    {
+      "id": "dc65cdacd192cec4ba9f559173b73ce1426a7247a706fe3275b7ce73eb8caf3a",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "a74eb7294e49a8191aeffe5c5a881f4e0aeeeae3e3b94fbc275c1156171f2cea",
+      "text": "reach-for-it-anytime standalone",
+      "hash": "d866ad9486e99acfa51e5496845af40b9f5c567e601074f82f3789e87f077dee"
+    },
+    {
+      "id": "569af1d65de4c8bd6357305d70151f4b164fbb0eff6a681de88dcdcc922f4b61",
+      "text": ". It is not a step in a build chain and shares no artifacts with the engineering flow; it owns its directory and lives there for as long as the topic lasts.",
+      "hash": "bd4a65505cbfd7e088cbe8b38bea0d705e6b0fcf8a0578b49d2acbd1018bbaaa"
+    },
+    {
+      "id": "96e22a007d850760aa81c2edf89ea03204bf2975360a611d5072479d2bf1bea8",
+      "text": "Its one real neighbour is",
+      "hash": "7b328b3138533534414c24d2ec0e542f6b8ed7381cc956e1f921ff145811b072"
+    },
+    {
+      "id": "f77c1dbb50ff96ba0af74b54414013712fc15ebd030aef161782c6df50495e64",
+      "text": ", through the composition Matt named as the answer to \"what do I do if I'm being grilled about something I don't understand?\": don't stop the grilling to learn —",
+      "hash": "e5d92c74cf71e5db2e162ea144fe69fe55a503dbee14e318420a082bf49c3ba7"
+    },
+    {
+      "id": "45d908077a21caede82273af9abc126daf5a21f67f08d936b196f8056f5d8239",
+      "text": "to a teaching workspace, learn it there with",
+      "hash": "a19b9f0bf10b59f08ca0cf25622b7a8de47b7162a0112cc0bde058200f063415"
+    },
+    {
+      "id": "9b5c1eb5c5aa5d48973b15b63be423be46ca8d4230e0d5a652c3401ac4c82b34",
+      "text": ", then go back and pick up where you left off. The nearby alternative is",
+      "hash": "cf780935ec3d13ccdc4ec12cd0854d6528f53e61b59767bc8a8f3ddb50a6aa20"
+    },
+    {
+      "id": "282bd415a4574af9287fa495ffa12c0db442e718733fddfd6b31d3b8c6d15a7c",
+      "text": ", for when what you want is a cited document rather than lessons and retention. When you are not sure which skill or flow fits,",
+      "hash": "9bb9a71cb1e596c641470316ab7ddfa40ec81eb146a0191261578c7b3ddce136"
+    },
+    {
+      "id": "e42a80836d6aae06d4e4e1e5d50529a4c469aa0315d7a6a6596fab5431bce61d",
+      "text": "routes you over the whole set.",
+      "hash": "c9f618706ecab708e274534db3c3664077c6d7574ba87aeed5ad9a7e2b153296"
+    },
+    {
+      "id": "03e482ed71c4352647849750b2652a5361b8c880ef28687bed6974751dbd4585",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "2635347b8749041c0ec600d7b88b39e83e5ff91d64b57c9cec8727774bf2853a",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "3c9a1b9a65a5757875a5fc6d6b5ca06f5a043ac7948eba5f0cd6afdc84677695",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "d3e08d2614a5f07dd80734b4c0db8e042bb9b2eabdcfd3fae178e0a9d877d722",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "6868f393914a36af644ed06463dcb292d2482b001c8fecfc5b578d6125a69610",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "cee9f3f4af9dc5a6321db2f0fb6271155a2b45265f24c87ed06f09ab693ba5df",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "19b80f0f79f181c17ea299fe4bd2240bdbc27da0a23940a3b2bf0156fa807bac",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "82a420c83049c883dd088adfbcb5ad3c2ccc8888af097f32ecb0655074d61a15",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "114020df400d3a1f3156cb9d59d639b79de781bf38e8b5e4f618dcea25027b7c",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "9723eba9a44b831d5ddf3fdec90b13033adf8a57d4e34621bc8e3b985a06fdfe",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "f3dd140fb73c3081ab3fb0a564a6dd630dd43b8114ae5e36ec513fc6bb825990",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "e1acf46b3578af45ee753658f4f3401f687e336ae0de2c1234f69d286268d6df",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "620e6a8ea82903aa89651ed546e8a1aabaac76ad53e84dbfbf84b268cfcf770d",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "5a3b3118869ea70b9d69dd166d258ba73d5681702e2ff8e6188724e731498d04",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "be426de1622774180c2ffdcdbe17cd7ae4b33a0910a29f03708899fed496baa0",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "5f7f47871c92ef3bf0340a835005c0bdfad940d43dc0a47fdbc5231d7434c7b3",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "752719ae4b17802c1d34c67649f7a3b9565e1c338390264d1008a314a4233f74",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "59e8d81a10b392cb3721aba6b59b79a3e33be03c5807c126026b15f36bf40b8f",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "cfca782d82da14cbf6ac3d94a6259cb655052dee1cc73a9529534d3ee62b3322",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "80a40df18bd025d0e65142041f68f60637a234e0b9810794da7c08f3ff9265ae",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "a56800e0aa36af6d6c03f8bcad759a9b06fdf6ff51420142f477d836a3a537af",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "d0e3cf21f035ebc58c46647e1ab63fb911dd95fa2a026a901839a5cd8e128ec2",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "d64611d48fbcc804ef32ca39af5bf754d93710ad0587d09fc4afa41e1861da7e",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "49702b0b07f3d6062920e6d2383f2809e39d5988f091fa2ba5f6244391989f5d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "dc9b5de0f12171577a3b3a8bcad43c9ba67e3eb0c869431e783db48533436f97",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "0a463be37475da1419e9ce9fe5e12f7803a2241b21e3464f79803313ef646146",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "7a27a657ce1327a1af43940804ff4b4e3ea9f3701c4d265d2259c39b9816cf60",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "77ad24caf11202e279ad6bf2a033d0be2e79b06ddb2f5c53e24e79acea53c57c",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "ca0f14c40f4854395995e99f0431f7d57fe1b07e1c28e5c59450c5c1de50d9b5",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "6437ac4810c95e9ddf5434461f307fd0d95eb3678e5ebfcd8484bb09da927afd",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "90ee9eb8e16278b366c9f32987675c32ab844583548c588cca3157ce35fe087e",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "c3701206b5ae8181c333d08518ee2635a8fa7a9f30d5908cf8babe65e52db7f0",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "dd7e732c72f141179d94cf108db8882c770b95c2dfd30ec00b5c687bba5630fe",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "857d1e0616b60455e5b653e419d96c4ee47114d67f95352239febb207761fad9",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "d8b34dd22b00e845375ca38b86855e9e32494b48016b7a098e346e0f6f458125",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "33ea6f2bda1abf2f45ce6060edd3485dc33c97e483da21a9d89d30e0fd0c9041",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "87a697a317269d7752c2ad71b4b026b7dddc0aae915c9a4f717f656327f14fd8",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "3c213d1996b7b3914829bd01e54d9e2ab11a441936e6fda9fbc6db564e3709b5",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "5397ffc6b574d673c1d3642203082e19625b30b14a7f34a33bb1229209271431",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "7e1b2d2c85e51db71e744c37b4ac7799f82a8bd94a934c5be0da02dd241e92e9",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "7fe9d100d7a7aac15d978766dee24df2bde551083249a0b645d5197ff4b9dca7",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"tblgiy9whd7rt7\"",
+  "lastModified": null
+}

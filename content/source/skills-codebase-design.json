@@ -1,0 +1,1068 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills-codebase-design",
+  "pathname": "/skills-codebase-design",
+  "fetchedAt": "2026-08-11T06:28:07.733Z",
+  "title": "The /codebase-design Skill",
+  "contentHash": "dda526af483548ee311120eff6aa7364336bfc75765a98fb7dc1814de8103c78",
+  "textHash": "2f1fc592b88fc6a3d7328adaedae22157972bc5c4d75f9deea420af1b350d5d8",
+  "strings": [
+    {
+      "id": "ea3616847de03f6b11a45e640df83b812667c0762f24d44664c1fbd7ce270caa",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "b4da04b374d5c2b31079510aada5cff7e8d32920aef2da3f9022dc418f06e806",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "b2fc1224cf0b7757fc64cf0aa779fbf9d391e861845cb629e89d68a8cee7659f",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "63990a677eaaf849382db9546759c26dfd7144c6360bcde8ae480d2fefa75cd0",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "8a9d3225e7a480a766951a7354a42bcf625c8c85a1368b9a3262d0e2646c8a64",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "a8148217aac4816f420ce2f3e6b96303fdc8b0e8d0cb0d30b3b3629699ccbe65",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "6fdf335320b9bf4149b4c37fb412cd46017b12c22db3695ecd9c0d490290ce2a",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "a26a350c48212fef29f99b3084044560d65622c62d78367ff759cde95ee8e443",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "6b0dc2be9861e74d360e7b09a6f41148df191ee5bd539c8712dc8d546f707a8f",
+      "text": "Overview",
+      "hash": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100"
+    },
+    {
+      "id": "e2ccd9d98f3e6fe1ffd771836faa751af0fad62fbe5ba85603e181c57e54de62",
+      "text": "Getting Started",
+      "hash": "d00eca1bae6742803906ab42a831e8b5396d15b6573ea13c139ec31631208ec1"
+    },
+    {
+      "id": "fc92706d5248272fbd960d9f7424464ea57af75abc5df8f39ecd545f4426b514",
+      "text": "The Main Flow",
+      "hash": "cfe3c9d04ef0f1d3393609776d5c34a488e4e89a98068e66886f38a17ff070a0"
+    },
+    {
+      "id": "6457bc65d6316f369cbf23c893743adf054fd11eedeb9877d688ec4731f7c4fa",
+      "text": "Shaping",
+      "hash": "2c56a77ddafe41d7abb366bcadd5cbc24eba44bd35b6be8af44a523f42abc359"
+    },
+    {
+      "id": "357aca30bcf299fc275d9022346635308fc99b3ed282b4408498a76c9790c666",
+      "text": "Upkeep",
+      "hash": "7671224c5c511d450bfb285ab09e0518b922cf515d14e09eee0dfd95a2b6cabd"
+    },
+    {
+      "id": "e21ecbe32ca583bfac1d06a99a51a8a9cd69c7af5df00c37370a42cddb1a3ae8",
+      "text": "Productivity Skills",
+      "hash": "f6f830a335fb3a3e730fa5b6b6e809619163b164af31e0532309a710b67eaace"
+    },
+    {
+      "id": "d633ec54c74fed1d2f1271519c0cc223e24f1717df406d239631552acaebc135",
+      "text": "Reference Skills",
+      "hash": "10347231a1210b59630c44faa8e9131809348d75ee7b612582541b4bfb84557d"
+    },
+    {
+      "id": "687c1b39b72c2afa5ce21919e5ef6c1e9f41e0c7c2ed8687388ce6d9c6126d4f",
+      "text": "The /codebase-design Skill",
+      "hash": "51bb7c310f0738596f89fd052f1aad809c7bf9022eda80f5040c899abf348c99"
+    },
+    {
+      "id": "0ceb6f5b7a80e224f5a3221a2d122570576dd86664514d11b854821c7d67a371",
+      "text": "The /domain-modeling Skill",
+      "hash": "f616ad2f4b341b188201e3bffd4995711ab6ed10305f53e7830d2ca72690ed70"
+    },
+    {
+      "id": "4e1dc2f6bbcbd66525e7cb566e8f3a17a434fe8241c44818db2a182874cfe6da",
+      "text": "The /grilling Skill",
+      "hash": "c50755e0e84e83e16e02220d20cbb10f02ac6375a744957c5480bf0b0ae7afbb"
+    },
+    {
+      "id": "ad51584036e42bc73a23a688e336e8e203c0fca79f53d2691e071a014a31035c",
+      "text": "The /tdd Skill",
+      "hash": "c37d71d36e49748d5850616b6cddf4ce32b9eb909f487b9e1b5fcddc163ac66e"
+    },
+    {
+      "id": "6264c77f837ecf87f660f91c8f8017152ef32d6f35fb58fb40dcae29c1d54cc7",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "88b1b1c1950f60020b81e40abb2c4a035eeaed7df9aa24b7c12316704b75ce60",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "8cba8d3532384d2cdade6b18291f29c466c50fa44f3774a8fe30c71ba7999fce",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "b2b01c9b80c1158ebc27274c290ade7e742624b4d03afe49130bf8898e2d8198",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "41c7950685dbafe8798e04906361d62876f9e87c73af82f603de4e82d4578c81",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "3965d04d66f2bc474b18cd8e92b3c8f3d39374e6e89a99ea2a736965c0a51106",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "e8babebcedd008e094a95536a2873e9848153dfe86ff6380c666d59bd994212c",
+      "text": "22 / 25",
+      "hash": "2da9d5500d1315683f8b148bca2c0fe79ff77ff1ca2626c7e91d65f63cf3f742"
+    },
+    {
+      "id": "f4fc6e144b034f82988f8de2e6d0b78946811dda1790a7b0062eab0775537ae5",
+      "text": "AI Skills for Real Engineers · 9 min read",
+      "hash": "1bc3add9114cd43052231f1a226921808bb9b8dee191ce4eddeb65078509f15b"
+    },
+    {
+      "id": "68388e0a47ddfad906f66042b8197d89527b2b26315511f7adbce3b946837013",
+      "text": "The vocabulary for designing deep modules.",
+      "hash": "5bf30d95f6dfd104381cf84adc51103005c5b0af9de518fa3f59bae5b080bcd9"
+    },
+    {
+      "id": "ef1fa26f13997cb81a7a8863386287ba952bde4191436eb74a66e187985979b5",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "b80265bdb4c2bf9eb7b9884fdad6d158553569406e21f17f67f24b3c0cf6adb6",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "0c2bad441ff414dfd5d34aa13131999325791273934d7b77ca25f775380afda6",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "9617372bc916639891bbeb36c992034f5c97af05f17c2957254c2bf176df1d27",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "53e1dfa002fbb5ac7013f32b06e241e93ab10b3feb0c1c1ed11a240c6ff192c7",
+      "text": "Next page",
+      "hash": "c08ac736a5e29c291b681cbdc15f06901a735f28d2e04645b92cf331861cb8c0"
+    },
+    {
+      "id": "b5a41bdb006ab5193d78932a3be706eb8f43caeb0c0ae045d2dd62e1fc20e080",
+      "text": "Install this skill",
+      "hash": "ad6eda7c3cb590a0fb06d5b5aa977e1a677ec8a778f30877f6afba0e712cabf3"
+    },
+    {
+      "id": "6b2bd944450d0029c99df64b51257abbd5295b864930ffa44d39449c52b54169",
+      "text": "Then type",
+      "hash": "ed734a13400e150b583a1043fa1f39714f4a6ba2cc5cc20f63f230c8507d839c"
+    },
+    {
+      "id": "dde3d434732592300401eb7ae77bfcf863aa57c88aa48323491d197b872f2e42",
+      "text": "in your coding agent.",
+      "hash": "efea7ec4bbe4c91be662badc966e5cfe7955830ab75a606bca954737bdb999c0"
+    },
+    {
+      "id": "423dac558b0b7c8ffb70a5908968b57a31f0395c370e1fa01fbd6dcf34e113c6",
+      "text": "Source",
+      "hash": "0e570ca6fabe24f94e52c1833f3ffd25567022beb826fa16891f3322051bc221"
+    },
+    {
+      "id": "19eeb8916029418dae0126a14a0340bb34429101e3fb65442c9009fb77db8bd9",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "59763be382a27b58c21e7081cca3cc72fc3ad6ddb1a4de5a1ec151bee8fe670f",
+      "text": "What it does",
+      "hash": "c74ea9dc9cd25b589a92e54a735d3900245dc7b30676952d536612677550ce36"
+    },
+    {
+      "id": "af7cbf3149e24f380e216a3dd33a25d677260bf555d5cf6b81b8de8d0d5d5b18",
+      "text": "When to reach for it",
+      "hash": "b6407702c9460d3edb23484dd6db20593ff469a794d8fcdd26340d6cbb483e67"
+    },
+    {
+      "id": "139fd2bd549cc36b58c97ed7defd8f7f08dce7b23bdb4332f802260f53de4765",
+      "text": "The vocabulary",
+      "hash": "cefcbaca683cf21777dde8234ee13fa3de4ac2fea7025e4b94a3c90b12e51fbc"
+    },
+    {
+      "id": "86d97838adaace3d4694871df71fa114cad3878335b51c0d5379e8db8395e8b1",
+      "text": "The four principles",
+      "hash": "07690aaef18729c98b44abdb43a2cb3d8b62cf326b49c032c1f03f4be137edbd"
+    },
+    {
+      "id": "3cd5bb98c91c4f6da7fabc9309ba15d6442a33d8ae315ffd1176446130d8c9d0",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "7cc6d05204d2ad1c553a13af763415fca282a87961171e6fbdeb58de7677a1f1",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "dd9b8fd5866710605c98f15b44d187477be74804be2ec28126d5fa62ef0dacd9",
+      "text": "Where it fits",
+      "hash": "f895e63320934fe16a50ff39692a90c084868ec6ff756d08a971b42f9f0242f4"
+    },
+    {
+      "id": "ff0cf5e043328b7b2ab6305bb17ba07d4075cd6b70a4958a40506ef70008a50e",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "33d0f4fe1302a11f8396580c15176e031ecaf0df4001ded6e14edd3339d599db",
+      "text": "fixes the words you use to design a module:",
+      "hash": "7485c8d5b3d22c095acb47d645647de01b9998042225e1d3d7779a37841c59b7"
+    },
+    {
+      "id": "49bd75339c4364de3517a1b0ca6dd23c70e099ade1bafa52cd7a02cc52173906",
+      "text": ". It defines each one precisely, bans the loose substitutes (\"component\", \"service\", \"API\", \"boundary\"), and states the handful of principles that follow from them.",
+      "hash": "edce7a2ac160d601ad6d03ee81d0cb0d7abee14ce988dd3efb50728e513c1e94"
+    },
+    {
+      "id": "7905e7b4818f6f849136500d6c79f1c032df4d273e56a4017c553c14cf45f386",
+      "text": "It is a reference, not a process. There is no loop to run, no artifact it produces, no checkpoint where it asks you a question. Every other skill that touches design borrows its vocabulary; on its own it gives you the language and stops. That is the thing to know before you invoke it, because a skill with no process and no stopping rule will improvise one if you point a",
+      "hash": "49c03a8c5ba0c7c6a4a40869382f5a59b15e860101ed9943ec3efa443a76d450"
+    },
+    {
+      "id": "de99ba57371d838968dcd578af71c9ab77755f0aa6a4cc98a5479abee28c4c88",
+      "text": "at it and say \"go\" — see the questions below.",
+      "hash": "90e7bf3c5aa4f1961d68e7ef81b1328fc4ad3a2e2ad56a6a8a545550adcc4511"
+    },
+    {
+      "id": "7c4e3919ef190951fae938ed8529889657f563002510f618f58a928959646e18",
+      "text": "Type",
+      "hash": "baaddf70fb5d432b8bd948ef91d6f910124a6d138edae4d5f000c4610ddc8eae"
+    },
+    {
+      "id": "52cab97fb73b02a13e35a4b869fa7d324c500c2fc06fd8d2ea629c6c01a81264",
+      "text": ", or the agent reaches for it automatically when a design task fits.",
+      "hash": "baf9faeaee5c5eea4a83120c004041282d8173ebcc0f7508676eb823e262f708"
+    },
+    {
+      "id": "1db9521a7cf18d384a5a8e66690d8b76c8bb5451fe900abbf9cde0ae6f79e491",
+      "text": "Reach for it when you already know which code you're redesigning and you need to think about its shape: where the seam goes, how small the interface can get, whether an extraction is earning its keep. It is also what you reach for to settle an argument about what a word means.",
+      "hash": "7178f08d82d6373268a8a1e0ba3b8b0cf457f37de0250fcb6aa3cc2b721135d7"
+    },
+    {
+      "id": "405592daeda465a618549bdb4d97efd8cf3336609d29e0b6c1554df0546395f6",
+      "text": "Several skills sit close to it. Which one you want depends on what the actual problem is:",
+      "hash": "88cb22df7a590b3e1eb68eaee36864d07ede5d2dd27b8d7a15a3e6fb400d708b"
+    },
+    {
+      "id": "09fa455983ac6962c0854e9f3a9b67e0e903558a61b4b7bc7f6492450dde4976",
+      "text": "The problem",
+      "hash": "e01d77b4a0bd549aa3a409d4f673eef1e13041a3e0ca7f60bf765d1878690d76"
+    },
+    {
+      "id": "a3be33f05e74622c21b42350556e4adab0b2234254f512c98957fa07d393afff",
+      "text": "The skill",
+      "hash": "2a5b81a7162e4b0c61eedaf0aa9dbec163b0d8bd9e5c95f6c711d082c3a44380"
+    },
+    {
+      "id": "57d1a0a441fa2fbf2165b797bf5bca233389add03e8afd83560c2c18a855426a",
+      "text": "The shape of one module — its interface, its seam, its depth",
+      "hash": "76a7025daf082df016276a88559ff64316d0fa7ac8d7c10d5170a2ea79495807"
+    },
+    {
+      "id": "f8c0d272c8b038c15c27718e07cd4e66dad4af0d9dfd29f6370c04686809f8da",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "35d7050d3adee0af1b7e8a7f1173b90f59aec99d2773b941e9f076f70558f284",
+      "text": "words of the domain",
+      "hash": "337782090558334a62229d56fd4c43dd6fb3e19824841868eef25d922297e0a0"
+    },
+    {
+      "id": "6be5c9836b8b5635547246ef1bb18df3ee444b0c802c538ed94e0b8b359204ea",
+      "text": "— \"account\" means three things, two people mean different things by \"cancellation\"",
+      "hash": "e3bd2c05fc3dce9a7b51e84089774067853286717c8523783d18a126f74ff005"
+    },
+    {
+      "id": "c374b699da74ccc9021fbdcf118b2662b24ea2f9124e5a26540b0d9b24072ec6",
+      "text": "You don't yet know",
+      "hash": "22488737c7394ddf4304c69f47e7f5ac1b148c6ec01d8e9a52d90ea6d2345c86"
+    },
+    {
+      "id": "26dcfd810aaa91fc3700a5a626954a902df174337c70e2bf22167693c541b4e4",
+      "text": "module to redesign",
+      "hash": "68685b91f989c236994780db77e9cc23d4a9b79011dd8eb619f9f4b9b092dbc5"
+    },
+    {
+      "id": "2f505307871d2b3eac12886e964bac2b01d3fa272cbc9028180f45a12212218e",
+      "text": "— the survey that finds candidates",
+      "hash": "04ea465e6e2f4e7c0a2dbeb58bbc7f33a868f37f1eeb6b26fd87f250835f38cc"
+    },
+    {
+      "id": "fcc6dfca841d8609b290a8d616c899dc9b2a1e7fb85ec95dfd9f19a11ddfc14c",
+      "text": "You want the design argued with, not just named",
+      "hash": "d6fa5833bdaf059b9320ff0dcb0a4d4d19fb8e34a31725f8c9d1e93ea17561c1"
+    },
+    {
+      "id": "0d3e9289bf51e69cd3f04b2d94784a6eed92648a0a0c63c9c8dec4ff55145ab6",
+      "text": "There's a concrete behaviour to build and you want tests that survive a refactor",
+      "hash": "c15d858fb35a70fa2506217a29c50d8354f445933711366780fb8242506df9fd"
+    },
+    {
+      "id": "fcb674353bbd912dd3bcd12915123b9b030920bf42d96e7a0cbf5512d1be6ebe",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "1b20e410f2c7c5746e7738442769bb17b47c03c30cfd602d6ac5b7359f8d87b1",
+      "text": "The glossary is the skill. Every term is defined against the others, and each one comes with the word it replaces.",
+      "hash": "474ec9431838c09b38f419605146500413d3da66b231253623be6e83e3e4762d"
+    },
+    {
+      "id": "87b28d205002afd86ffe7ed699fcb4902f8de384ab2cb2b56735041c038d32b3",
+      "text": "Term",
+      "hash": "c6f3bfd45614178abb5730fa5acd9aa446f914c4ebfea3574dd281b19d437f07"
+    },
+    {
+      "id": "b49c4e58b3d3458466f23ab5fe35dc224e4fb4f1baed2090e1143cf76bdab831",
+      "text": "What it means",
+      "hash": "eed88f3aa1edf2d62d803be6144739c31dc30b1e8c796009e0dac48d49ea4324"
+    },
+    {
+      "id": "db96953d147b97e17381846edca6aeb4aff6658896377f59ef9a57aa42fcd60b",
+      "text": "Don't say",
+      "hash": "4978d32d4b98489d70f3add104f8e7b0d9aaaceb6b50676171d2b2e0d0a36ac8"
+    },
+    {
+      "id": "a3413c925c5b919238d09d35ec0ab3eac0a8af52ccdc1740cd836c170fe5aec2",
+      "text": "Module",
+      "hash": "f148224ae44fb843af83a04ca8ce59812e45afe345f05530b6f6d5058c5c6d3f"
+    },
+    {
+      "id": "f266cfc75b89771083b5bfee0ec1fd320f488f7b24f2b384a226684bae67f5a4",
+      "text": "Anything with an interface and an implementation. Deliberately scale-agnostic — a function, a class, a package, a slice spanning tiers.",
+      "hash": "c21ff63dbb7b3d7317457eaf955cec9f0035cfa23cd9d8ee989b3bfd2928dda1"
+    },
+    {
+      "id": "592c1a60dcf04af926445d1409d77ce430982690f1a4ae63696897d7c20dd634",
+      "text": "unit, component, service",
+      "hash": "99fa2f7f6da69b227c77e803a94b8fccce03884d275dc291daeebd11a266bf29"
+    },
+    {
+      "id": "9cfecf67d40a8a47b2375cdf3a546f7bf0964b9a17632be14edee3b8c9889806",
+      "text": "Interface",
+      "hash": "c26b3ed4ce70e202816608a9ca6cc14da9ed4a5cf14c7c758be0e2c20344ed82"
+    },
+    {
+      "id": "b0217dd4d3b958e76062fadf1004c9ce5f36569f3118ff4d3d11521a368a223c",
+      "text": "Everything a caller must know to use it correctly: the type signature, plus invariants, ordering constraints, error modes, required config, performance characteristics.",
+      "hash": "3cbc2e40d52a024720f27766b59f7648c226cadf68dc91c43e4fc2fda5ba9818"
+    },
+    {
+      "id": "6c7fdf2f82b951c8d6bc98b1fb00d62709c6844adf2e6460f3aec8139943d491",
+      "text": "API, signature",
+      "hash": "af02656b2f5bc609755b183b8c7643934951b8751567f84c15d21c1fa9c61f1c"
+    },
+    {
+      "id": "fe419f5907acfa9d4d16a02ed168e56641c621bd9e0091d571bd7b344f49a6cd",
+      "text": "Depth",
+      "hash": "f1dbc33978a95b952b19bfc0da8f928e8e3958930810988de2f6e4bd8b27ce01"
+    },
+    {
+      "id": "6a9706271e03d820bc065ff2c6d11a7c1dbc71758b5d4e496d149810cfda72db",
+      "text": "Leverage at the interface — how much behaviour a caller or a test can exercise per unit of interface they have to learn.",
+      "hash": "e82806d23943482ed241d50669fc63defb4da01e3e95a21e8b5a358cc1c40ed5"
+    },
+    {
+      "id": "d0dc311112ebc766bfdf76adc6943fda79a6e368bc342bd26fcfb49cd6fdada0",
+      "text": "Deep",
+      "hash": "c54e3625467b4fdecbd75968fc2fa16fff1e6ad1359e37d32604cadcc8947d5e"
+    },
+    {
+      "id": "a5656673f8b6bbc3f4287ec89ca1b1bfea657b3ee53797f838b218a440739cdf",
+      "text": ": a lot of behaviour behind a small interface.",
+      "hash": "1152eb70f70bd174a46d1858d8fa1b3bfc3a32d7d3f2b7897694d025c222a0ad"
+    },
+    {
+      "id": "c922b07499451fc13b05283d234331032a7252a3f0f5749573300c3f5c69ce99",
+      "text": "Shallow",
+      "hash": "2e92ee29cfd75d3fd5daf633e411813c6c45cd2056bb7dc77de3baed8832fe39"
+    },
+    {
+      "id": "c09bff02d05889a723ceffbd42eaf4561fdef21dee3ff045c507bd571673afd6",
+      "text": ": the interface is nearly as complex as the implementation.",
+      "hash": "f698b39cd7f9b0ec4b0f9acaf2ccdd1f9ba2880e4e9126d37b9acda2119f2ea4"
+    },
+    {
+      "id": "6ecf4196e6fb635d20f1e818c982e31d160a054e71bc05b40f499da14ead43cb",
+      "text": "Seam",
+      "hash": "1922c491461b7a7e4194d4b21de89fb766698d3be0c90bcaabcfbb26cf875d97"
+    },
+    {
+      "id": "860782ca36f8deff77d648c8ff071cde9571cf9f73b4d08c5f77765410d41524",
+      "text": "Michael Feathers' term: a place you can alter behaviour without editing in that place. It is the",
+      "hash": "04c5e04af859de732da896bc8f16c9c963dedd41e2c585f19efe5ac7cf268496"
+    },
+    {
+      "id": "0ae3d9559749876846717b7ac6badb6016c0c33974a5752c768d9e298fd43bd1",
+      "text": "of an interface, and where to put it is its own decision, separate from what goes behind it.",
+      "hash": "6b0d562079862c922a3446fdc0364264e18cc95450e72e75fb2bd4c11601c2fa"
+    },
+    {
+      "id": "064165fcdbd1ee01b46d88f866cfb07aa06fb478f709ebeca2acc60ea6e94af8",
+      "text": "Adapter",
+      "hash": "0252b84901033771a99fae063abde949b7f3298a78fa86238eb880ebe95b666c"
+    },
+    {
+      "id": "b44ec25bfa282f2ddab2f202b54f83404539dc371930fc187253dbecc04cbf17",
+      "text": "A concrete thing satisfying an interface at a seam. Names a role, not a substance — an in-memory fake and a Postgres repo are both adapters.",
+      "hash": "b1a15a09b780048ae6e613a2a12ed6c87bf870fa3ff479676ec7a8718b4d33ea"
+    },
+    {
+      "id": "e1487b959b2444db224dbcb065bdd1ab5b25cfa8e0b86a4cda87b0856fe4d8f0",
+      "text": "Leverage",
+      "hash": "c9968747d776fa3f31c41ef2a53f7f81e5ee0b862013152d71b27a5440111cd1"
+    },
+    {
+      "id": "37ea8e1c8705167728439793379190d6e82ff763a3ec52553844120e78509b72",
+      "text": "What callers get from depth: more capability per unit of interface learned.",
+      "hash": "bd96aa7b65ef761428f5745527fb01fb95009df0c67cd27239eafbd5cf73d030"
+    },
+    {
+      "id": "e6240a0f5031e9279fb2d8a104ed6537b8cd917ef1c30cde20e275c5b5fa3878",
+      "text": "Locality",
+      "hash": "23621fc0f5716dfcfbf17d6d77710b46d05352a260863fbe47c56aefab569d6f"
+    },
+    {
+      "id": "ad83ff1ab0fc77ef0579aef851cf13b271c4be095e8ff103db45aaf0d752423f",
+      "text": "What maintainers get from depth: change, bugs and verification concentrate in one place. Fix once, fixed everywhere.",
+      "hash": "c1c3d72a1201298f14aedc3ce207690a532c4ce2e0e7e493c6d7f663a64abf82"
+    },
+    {
+      "id": "22b537a0e2640bb093f3e4a25d90026dc45bd5d9f3b275bbdbc5cb7949c027aa",
+      "text": "Depth is deliberately",
+      "hash": "9fcbbf287ed4679bb2fe6fa2a99d6e52b99f810dcee51ae54e51ae0edf8f337f"
+    },
+    {
+      "id": "d8e0ac8de5f0e5063bb8a5cd0dd3105758e43b4188da1f07b36e7c9ca1f78b42",
+      "text": "defined as the ratio of implementation lines to interface lines, which is Ousterhout's own definition. That metric rewards padding the implementation. Depth-as-leverage is used instead.",
+      "hash": "2e78f4e6218542e5a9fa4674813b51444c049475d4abc1fec57f5c082fa30ca3"
+    },
+    {
+      "id": "9afc8242d611bab607eac43c08c8e20aa11cfa738792f220d73420554998d1dd",
+      "text": "Depth is a property of the interface, not the implementation.",
+      "hash": "506af72b38cbbacb716ebfb2de4e706cdb78fcdfde112dc4d4bb6e92495d0ae0"
+    },
+    {
+      "id": "00b3ba9aeb5a2706429266f5cb0078bb846f5259421f98261bb041c76b41b3fb",
+      "text": "A deep module can be built internally from small swappable parts. They just don't surface to callers. A module can have internal seams its own tests use, and one external seam at its interface.",
+      "hash": "2d6dd1827e7a7178d09cb357a59a0288dc4aee2dc5c72e95245f9cdbc228b5e9"
+    },
+    {
+      "id": "4973d5086132a4d1ce856b05d4bad699814a4dec67056c90476bb6ca7561afe2",
+      "text": "The deletion test.",
+      "hash": "382c23d7d9d68b24f7394a14960d4558958515818ac86c221b39ea5d25a3895b"
+    },
+    {
+      "id": "260a6a0be03c3a346b60983fc2592880eb3026f3e8cbc967564397f4e13e8db6",
+      "text": "Imagine deleting the module. If complexity vanishes, it was a pass-through. If it reappears across N callers, it was earning its keep.",
+      "hash": "68e6fe093da1254a58d4a24cd6c3d8759f873d38f39204beedb0704ace677b32"
+    },
+    {
+      "id": "964ba9ee5a5cc3a451dfc485242bc258fd7a678bca97beb6ec46656f51ebf5a5",
+      "text": "The interface is the test surface.",
+      "hash": "fcfb22305aa80aa65a9c724881260e9fa6d59dfd9a5ec11faed09e863c3d8968"
+    },
+    {
+      "id": "13f841a866811bfb0191761ec49b59872b2e341136d1ca44602d7bbc53045de8",
+      "text": "Callers and tests cross the same seam. If you want to test",
+      "hash": "d9d8f2a95a42538174aa9b8bcea7dad47afc6cf86ed0ec80fbe104793c3086ea"
+    },
+    {
+      "id": "0a2863e7da40132e4733ed46461783ae7311ddc1ab3371af6994adb2c66f23d6",
+      "text": "the interface, the module is the wrong shape.",
+      "hash": "348ed10bc2824ea5ed4aaae121bccbe17917bc903323bebb1321191728e917b0"
+    },
+    {
+      "id": "33797d510020ffd583519904804ba12d17ed2ed91f70e1737761e8a0ef91e45c",
+      "text": "One adapter means a hypothetical seam. Two adapters means a real one.",
+      "hash": "080f19e78685da39aff365e6fda622e40dfa6ff7529b2366496b4c84c3d278c6"
+    },
+    {
+      "id": "5c98fe0b64da6a350fd4aec1015df88f51a5b3d9c5acc51b9e5a37d54e80173d",
+      "text": "Don't cut a seam until something actually varies across it. A single-adapter seam is just indirection.",
+      "hash": "6774ef8054442e2d0feaeef862cb0a6610119fdbe23011df81fa1f21b17655c2"
+    },
+    {
+      "id": "d7d6a9da7daab11b35279afa129313ddd58c5bab28ca77f8ff7dc0ff4b6b5929",
+      "text": "Two supporting files go further, and the skill reads them on demand rather than up front.",
+      "hash": "e7c0d2974ed03cecf0a460f8c465f27b0c64dd39d5553ba0ae64d616289e9f65"
+    },
+    {
+      "id": "fa0cc01bbd5a4fd6a50e15c2b075304be8e9682fc8195358b30ad01a916a7153",
+      "text": "classifies a candidate's dependencies — in-process, local-substitutable, remote-but-owned, true-external — because the category decides how the deepened module gets tested across its seam.",
+      "hash": "cd29000bbf283e104ea9250d9218c80805a1cd4c2782fd10e5c2bd03ed61dc27"
+    },
+    {
+      "id": "347c6e5a1bd8ff4f9874f3297f35d3063b1e476b34243a4412d5f8f5d7625a70",
+      "text": "spins up parallel",
+      "hash": "7602f2fe8b7283745b0a9b69fcf381f9a001e88697184cdba7ae51c4c9744409"
+    },
+    {
+      "id": "6f1393ed86b7a2ce94b090a869552e91d036cfeadf6530305cea63a3e6bf6f12",
+      "text": "to produce three or more radically different interfaces for the same module, then compares them on depth, locality and seam placement.",
+      "hash": "753c4db40a76fa7a3ff17d3a6293840a2550ec023ee03b2f7666295a61db8f9c"
+    },
+    {
+      "id": "ee1b0426f048b85c6c20127d004553e709bf664b77b4d6fc7bf83baed915d3e1",
+      "text": "How do I actually build a deep module in TypeScript?",
+      "hash": "3f73735bf020365f3c17bd44c2092301095d37406044a223560c2c8bdc09053b"
+    },
+    {
+      "id": "b4e39e0fdefc243705fab02d72db8bd40d6961c87b4792b26fd2d57f3dc0ea2c",
+      "text": "This is the most-asked question about the skill and the skill does not answer it. It defines what a deep module",
+      "hash": "997b6f1331499869fca9a871fbce60d643c544ab97ac4a3fd99c16f4c3c68118"
+    },
+    {
+      "id": "1de18b6d71aab1c101769b4cb3d776f94fceed1456f78c29602f8302989b5cab",
+      "text": "; it says nothing about how to stop a stray import from reaching past the interface.",
+      "hash": "70a1756dd5673e446d9b64544d8ac1d2867bdd4630d6d606c989c377415b4048"
+    },
+    {
+      "id": "f0b5a6cb0f0d1f0debed2bc1ea127bc04e6d14a8bc39d12ff9df7fec41eaab1b",
+      "text": "Issue #458",
+      "hash": "28e4ed6e6cbaa65a5d6f2f5e0b5abbafce6080f37d95ae28a739f05e764bda09"
+    },
+    {
+      "id": "c493f2c9581cc19c61b40b6077e81849f0d356a208bcc3dc39b2fc597e4703c8",
+      "text": "put it plainly: \"let's say we're happy with the interface, it hides the details, etc. But how do we enforce it? I think without linting or clear guardrails, humans and LLMs alike will start making it messy over time.\" Matt's answer, in that thread, was three options: wrap it in a class or IIFE and accept that the class gets enormous; make it a package in a monorepo and accept the monorepo tooling; or use a linter like",
+      "hash": "8c5de76291dcf9c6aa22659bd077c4c46806839109a5fe1d927bc3f1a28c3bf9"
+    },
+    {
+      "id": "4c0ab48b350e1f418db28e40feecb7a0fca312be6bbb608a367f880c825b4c2e",
+      "text": "to forbid imports that bypass the interface. He has separately called Effect the best mechanism and dependency-cruiser the second-best. There is a",
+      "hash": "4197bd6ea8da0312715d0c1def4aed52338594db02a4bfa92c787c10df1889fe"
+    },
+    {
+      "id": "8aaad2ab4a010134cf51719aae09310068c9e8369e0e289e1b78e960bc9829b4",
+      "text": "skill in the repo's",
+      "hash": "72dd164bce09e8b6300d13cbd56ea89f1a25c6b311c53fdc752f3b5e3ee79de6"
+    },
+    {
+      "id": "8da49b7fdc2d95e96597e500d76ecb87294750bb3af932f27f55fb9b9d06684d",
+      "text": "bucket that lays down a",
+      "hash": "b8797713d54965f4b2458be80f42124a27cb9edbb7f1ce250b8968fc8634bda6"
+    },
+    {
+      "id": "26cab3b7300e7569d1b33e26947de38c0f11fe82ef245a2540d9fbfecf243f98",
+      "text": "convention, but it is a beta-channel skill with no docs page, and it has no lint rule shipped with it.",
+      "hash": "bb6da7c00dc7eb649d37040c0adc67c732af3cffb02bb3c96400a41c013db439"
+    },
+    {
+      "id": "a027f5f02b6ff15c439788987df4af28d03b378260dc15db60649ebfc66d7bc7",
+      "text": "I pointed a session at it and it burned 100k",
+      "hash": "d89c3f1e2331f1a80091d37e0839ffd00be9a64e7a2366ed5159bc107861ea42"
+    },
+    {
+      "id": "f0da8a28a699dec1f46e2f0a5e91fc5c1286da6f55858d9229adacd300c084b6",
+      "text": "redesigning things I never asked about.",
+      "hash": "80d68b1febb25645a86b390e1da15d33cca65c42c73c8763ec6c2bd80964d026"
+    },
+    {
+      "id": "b51ee88c820e261e3cae1173f00a1ea4910de12a646a46036805e64a1db7e07e",
+      "text": "Known, and filed as",
+      "hash": "d0aede77e36a4ed3907b63c6eadf75bc1e0e6c7e7c94ac4646a74c37614ec95a"
+    },
+    {
+      "id": "bcb5001c2a3002621dea47f31b82403d99400c6b925c0c5150127ae0a36a0b30",
+      "text": "issue #449",
+      "hash": "02a0183cd7ff73cfa9137c774dd0c0932e83ba26647f741c654694fd4b7e62c1"
+    },
+    {
+      "id": "80a61097e456e891f34665e75e9a63a4f5ea019df7dbd776c822dcd3134030a8",
+      "text": ". The skill is model-invoked and describes itself as vocabulary, but nothing in it hard-stops an agent from treating it as a runnable process. Told to \"resume in /codebase-design and drive the open decisions\", an agent reached for the most action-shaped content it could find — the parallel sub-agents in",
+      "hash": "0bab7f90d8d2abde2bf00509cc1edc8312d9b93754346f9c39af6eb87cb7384f"
+    },
+    {
+      "id": "91c6a369ab464200f9807ed6810c49d11eb2caacebae6868c2562ea54f11c0a0",
+      "text": "— re-explored code a previous session had already mapped, and ran a long way before asking anything. None of the guardrails a driver skill has (checkpoints, one question at a time, no auto-advance) are present here, because a reference has none. The workaround is to name a driver skill and let this one sit underneath it:",
+      "hash": "7b9c9b95d087646ab74421eaa07e0fdd36eb54de02a85ad054dfdc1f16877091"
+    },
+    {
+      "id": "41ca207f9332126de7c9805f1c5275462733a7a8d6ca6f6e4a9c24614babe9a4",
+      "text": "as the vocabulary. The issue is open.",
+      "hash": "3db1a286bfa864223c7efb251a5a1eb4a67657923aede1d7b8fb7cd2e07a7c84"
+    },
+    {
+      "id": "87da74fc7aede51bc7a65d147dc9a785f776c3c2ec479dcf162eb280e58dfcb2",
+      "text": "Where did",
+      "hash": "0cb2ce3ee597de967c6f15abd2b6cf1742a261775ebd1bad8e58977c9690b5d8"
+    },
+    {
+      "id": "bc97a8a82fffb97ad07a7a0c17b8c8c075c94a991ea6b0337181452e223607cb",
+      "text": "go? And is there an",
+      "hash": "ee0a5ecfec0c6b4e70da95eaa453cffda7bdfbc78d2f7949761af05d9fa85b68"
+    },
+    {
+      "id": "734b74d41a9b7b5f936f409f701203f9ed82eabeb02e4a1e0ddadc033baaa22d",
+      "text": "skill?",
+      "hash": "2d98dd364c711434b8e0db2b1125c1a4dbcb80835f7fe701b634cc1fe6203a82"
+    },
+    {
+      "id": "ae2aa1f460d12f39f40e21017b4d165eb1109acd7ad5b92ef82055fe7f8787e1",
+      "text": "was removed and absorbed into this skill. Nothing was lost: its \"design it twice\" technique — parallel sub-agents generating radically different designs, from Ousterhout — ships here as",
+      "hash": "482b2ce184f9621f1c3d5b807dcecb3de08298ca0d3bbd62a26486f18d56f497"
+    },
+    {
+      "id": "e01640fa2e2028d0a9e906a0819ea8e0c8f9997264d7c71272a46901d2737ad0",
+      "text": ". Separately, several people have asked for a dedicated",
+      "hash": "16d839dbea7a6ed9a1662f2f34c99ac62c775b5cf727c70d2abd2c000bbc26fb"
+    },
+    {
+      "id": "c4827b99d16e430aebf58ae21d13731a60e594ad3443fb4d97dd7354a03aa7d8",
+      "text": "skill for the deep-module/thin-interface philosophy; that philosophy already lives here, and no separate skill is planned. If you came looking for either name, this is the page.",
+      "hash": "95deb1f5c9896a25c72cd3c820f3f552ba00b2105ccc632b957eb90128756e1b"
+    },
+    {
+      "id": "6e0f33ec0d0d6e5644e6a631d904b1089e7a714b56c0c1adb6e0b5b3833e77fe",
+      "text": "Isn't this a file-structure convention — folders, barrel files, feature slices?",
+      "hash": "42837825916a1820c7cb7d2cdf03d5b6f7fbf7c82a6e41eb84c04c0d362528d6"
+    },
+    {
+      "id": "f47a917b617fbeed358f20b8e0bb30790f69775c8d14b159912e300a84d21f1d",
+      "text": "No, and the skill has held that line under repeated pushback.",
+      "hash": "a63fa865157291bdac4471f8e20fd1c123ac572fcb4c5e87772d6e25eadf98fb"
+    },
+    {
+      "id": "84aafbf34f35ea7fb6534e79caf4dc43484161099914d054b0efca58c10f0250",
+      "text": "Issue #95",
+      "hash": "20eda5a7f42aa90086ffd395a2798acf939b2d6534b02c0935e29164cd6aa138"
+    },
+    {
+      "id": "76e30c5cdc5f104a6c84938b2cc62aedd5906a5565f4079f6c8690324c664fee",
+      "text": "proposed a formalised fractal-tree file structure as the concrete implementation of deep modules; the reply was that the two are orthogonal — \"deep modules are about the design of the interface and accessing through a strict interface, no matter what the file system looks like. It seems perfectly possible that you could have shallow modules with this approach.\" The same came up in #458: \"I think you might be tying the concept of modules too closely to the file system. The file system can certainly be a useful hint to the shape of modules, but there's no need to use the file system in the construction of deep modules.\" The glossary defines",
+      "hash": "79ddfb465589d0385864a6e5fb88c707bfa6e57680d0d92c44e3f74cec9ffcd3"
+    },
+    {
+      "id": "7c0335c3695ec00a68e366d189a5525e9be5ef02cc7dc8deec6fd78ba2ceaabd",
+      "text": "as scale-agnostic on purpose.",
+      "hash": "1b0bd3b5c9bca4389ed2049935beb54891c4d73cfea3769bf3634f8b647b5e6f"
+    },
+    {
+      "id": "6302f3818e408b9940385fd2c37b1d28604470a9a0e7987286647115800db47e",
+      "text": "Does",
+      "hash": "c3c25857485f013571610fea4359a139f334e1e84ebb3c827e466fc4eeca6931"
+    },
+    {
+      "id": "4d04965e423c9cc41131d46e0a797e7c3274238e1d19a37d75cfd8292d3a615e",
+      "text": "actually use this vocabulary?",
+      "hash": "369b7ae69cddd64734cea40d32d3f27460336562dc09e37d5c78c84be3b8e523"
+    },
+    {
+      "id": "ab93bcc145e8b23e97c43b070ecfe759f9fc99e86ee8dc3dcd24a00d1a9bc75e",
+      "text": "It does now. For a long time it did not. The inline deep-module notes that used to live inside",
+      "hash": "ad81ec93bbce47652dfa3d8cf0f8d68df53310e58600f86136d393e7ecf41b1c"
+    },
+    {
+      "id": "2bae69cd1971c53212631dd90da45e0522603cf19b11dc7e8046c9877cbc006b",
+      "text": "were removed in v1.0 in favour of this shared skill, but the pointer replacing them was never added — so",
+      "hash": "c1a5d0c26c93cdb1dbed8f25ef1377b22ab0b3299194d727fe1ec5c23354b0e0"
+    },
+    {
+      "id": "d7d406414866102bb121535586050156a75719835ad8c2c8b6c64ef2fabc38b8",
+      "text": "defined \"seam\" for itself and referenced nothing. The gap is closed: the pointer is now in the skill, reached when the shape of the interface is the open question rather than the tests.",
+      "hash": "1bcf38e0777cbada3f6c0a1667949a81ccdba939b5437d72c50cbc033e910d5b"
+    },
+    {
+      "id": "51e1712f27a87c3a60c8c798ef7184b54f5a53955e5680d474b2468fb2b3a7e1",
+      "text": "still owns \"seam\" as the boundary you",
+      "hash": "614c955c5eb0230f216238c69ce22e1f82bfcae8a853be49125dc429072ddb14"
+    },
+    {
+      "id": "a1492bf708ee8f1bb0cad4c5766b68631973bbb05a9f951e1c08030a9af9eeda",
+      "text": "at; this skill owns the module shape behind it.",
+      "hash": "7b94a555a7f0af6ff379fa539b64aabf917e94ed6b2c1db8bc56f222eb34dea9"
+    },
+    {
+      "id": "ea8edec412d2a0ca594fbf7b246308836b60cf67e128ac3e11aa5432ddc7c66d",
+      "text": "Does the design-it-twice pattern work outside Claude Code?",
+      "hash": "98d9d87dccd8f8702138478e7a2ada0e3f3e9b3a81581d98503ab852d7bf16ae"
+    },
+    {
+      "id": "c69fcd30fb826ad8f05d588c7a6db6d5e28137b16371d693f79eaa951d6cd02b",
+      "text": "Not cleanly.",
+      "hash": "f48e2019dcd53f3560aef92ddbf47c8b9841664f1a9701e6fce09efe56a8af4f"
+    },
+    {
+      "id": "4d01ae6ebc60180998128f26fe188663ec107c93bae477a20eee02b65bc6c971",
+      "text": "says \"spawn 3+ sub-agents in parallel using the Agent tool\", which is Claude Code's",
+      "hash": "a02fd5d85174e28522711064e2bbc30883fb2ec08d6a7d2ea71d88d868a4b937"
+    },
+    {
+      "id": "90c0ac01a64b87e29e44f3e9a3cf16958b01e30959170ed2480da1b6eea2b943",
+      "text": "by Claude Code's name. The repo ships metadata for other",
+      "hash": "6077702c8b3b99cd91dca859cbb1651a86a1eb3c0a7e348ea8d1791835965d6e"
+    },
+    {
+      "id": "fa464f2ea56449d69dd06ce8962b1e871d908e8a057bd102f0abde3adf8b107b",
+      "text": ", including Codex, and those may expose nothing under that name — so the parallel-design phase is less portable than the skill's metadata suggests. Tracked in",
+      "hash": "fa9b2077a723fdba0f9bdcfafe90b1601b0f2efd77629787b3838249e671881e"
+    },
+    {
+      "id": "9a9564958aedc6a528c21c0b5ea1952a3289d48413fa39e1d015731c5b4fd831",
+      "text": "issue #564",
+      "hash": "a98797ada11dc4569519af93203e94c52aefaf7147041096ef64f9886b820309"
+    },
+    {
+      "id": "ceb9207a0f1094f7a187e6192d14cd7ebdb1eff94b1f88367e88b0e044d5fd3d",
+      "text": ", open.",
+      "hash": "2ad970ca51b36b74bce34615ce69c9922dd2d4017c25e0a95994ae8da318a114"
+    },
+    {
+      "id": "f8b0124b46231955b971591236ad9aa96bd2369fbfc22de322190aa8963d6c0c",
+      "text": "Can I add my own concepts to the glossary — connascence, module secrets,",
+      "hash": "671c9ccfa90a416d24ced3ef00d6c2b4901615e3d30e74d6bf71859983a64a94"
+    },
+    {
+      "id": "28cdb867b39c84024072b75f5e447195c0fdc04370b1a291bf1ec72782e50358",
+      "text": "progressive disclosure",
+      "hash": "6da46646b127888c91f582c85bba28941b74cdb2da40e92e62e2157d47644c4c"
+    },
+    {
+      "id": "cf6052c818d1e5762619039ef2722b73d9d200d2723471422c4d9e2e6298369e",
+      "text": "People have proposed exactly those.",
+      "hash": "315a8460ecd5b66db8456dc5989eb12c5f5fa8732ddd8b805673a294100f3c68"
+    },
+    {
+      "id": "00e12e2e13d16c638e9b2e7c03689b298a2c736b7442fe5245d5ad23628c2abf",
+      "text": "Issue #180",
+      "hash": "0ff4364a6646f2d4693502f3b3b4307d279f09af1e5d66fad5af84ac2397250f"
+    },
+    {
+      "id": "92e8a7b0ddf329885e69eb29333a85cb73e65dc00221fa9f2c8366ab423ee16c",
+      "text": "adds Parnas's module secrets and Page-Jones's connascence as a naming layer for",
+      "hash": "d3f91ae6d0379a92d0e2412e47491ba9c0ed2a6286354955c918bd7b36f45453"
+    },
+    {
+      "id": "076a1e20fbb4c0de9e4f8d2ec0807854b3bf6c6a6e6c831777ac4d9d1859fc95",
+      "text": "is leaking across a seam, with a working diff attached;",
+      "hash": "6b5969ca728be2f34cd49e93ae22d95cd047b2f3c7881252dba252306703b2b0"
+    },
+    {
+      "id": "1980eddf65b2f755b21c7ba3e9cc429eab16c12d4c89a42f73ccbca53604f367",
+      "text": "issue #303",
+      "hash": "8a04bc182b3505c799a9dbf2881e6bc1c04974fb55eac3075b67a0c22c114aa2"
+    },
+    {
+      "id": "24b9269b810195006d85deae04444c80a08bd48637f252693a90a706058690af",
+      "text": "inside the implementation, so a module that is deep at its public interface isn't one undifferentiated slab underneath. Both are open and unmerged. The glossary as shipped is deliberately small, and the reason it stays small is stated in the skill itself: consistent language is the whole point, and a term nobody uses consistently is worse than no term.",
+      "hash": "d5cca7ec6eaaf780f7dd96da4d76d9ea3e1191f9862c6b4df004f814bfa823b1"
+    },
+    {
+      "id": "36539eb667a3f34f510df79ba7b18803a78ef02421da4532e9bf88e6cd280c53",
+      "text": "The design conversation stops producing the words \"component\", \"service\" and \"boundary\", and starts producing \"module\", \"interface\" and \"seam\".",
+      "hash": "6f8982a60c5a87c2c9d102d9cec294f22c55c29ea7bb3bdce664f01ca4292c9c"
+    },
+    {
+      "id": "daf54c9980db30f5049a1297ff6e300d99e94317f8ad025b65fe1c18fb11b39e",
+      "text": "Someone can point at a proposed extraction and say whether it passes the deletion test, without hedging.",
+      "hash": "6d5c0a77dbfdc1000d99b2081706844bef7078343fee24cec437d20bfd88441d"
+    },
+    {
+      "id": "4727c0ecff1973cc68ed747b35b77147de23d860cfe3b087f97e7adc7f27704d",
+      "text": "A proposed seam comes with a second adapter named, not just the first one.",
+      "hash": "37c24a87c8006b280b458ed096974bdbbcde8ff5c27e1c4fe339e68d71321dbd"
+    },
+    {
+      "id": "8a581f5f88da9ce81c7208a665434703ed7b186d3692a95502c71b365bf4f25a",
+      "text": "Discussion of an interface covers invariants, ordering and error modes — not only the type signature.",
+      "hash": "fa05152b9bf0dab272112a3d348cf8340eaef8b37d9e6c2428cea9136e695659"
+    },
+    {
+      "id": "886bee0f9c571d417c6413e378150ad2febde8976ddc6d2d8c53ef8f1b043d70",
+      "text": "Invoking it does not start a session. If the agent begins reading files and proposing refactors off the back of",
+      "hash": "2b1c7e14a5f1fc9d1955ac2b8e1cee18c7a9099900e2b61f48326f00d99d203e"
+    },
+    {
+      "id": "987b6c567e03d3f340b8536d6c3f0a488e6e8b0558da63e63e6189ca587ea67f",
+      "text": "alone, it has mistaken the reference for a driver.",
+      "hash": "f452820f20854366d6809b64ea6d118f0bf3ba0e1162e2553f9e6a306ab05513"
+    },
+    {
+      "id": "5ae0e68514ecceb2cef17d545c6630b5adf85c3d800fa69792bca83982fbeb05",
+      "text": "is a",
+      "hash": "41668f137b3e997de557b249e3744d75710f1bf932bb91f72387781fae3088bb"
+    },
+    {
+      "id": "0c4f5e3cd93a52f34dbe79290ae254d1ac647a0815a4610006247f3dcfb3a933",
+      "text": "reach-for-it-anytime standalone",
+      "hash": "d866ad9486e99acfa51e5496845af40b9f5c567e601074f82f3789e87f077dee"
+    },
+    {
+      "id": "ce7e90c7579de3e60ab15a50eedae7cc7b17ac4aa7e20402819505c41c533594",
+      "text": ", and the vocabulary layer underneath the engineering skills rather than a step in any chain. Its closest neighbour is",
+      "hash": "5a75c72a1bf9fda7c8261ccb5304d29654ffbd5b0a940ea3fe0ab6febc00aa9d"
+    },
+    {
+      "id": "83fe11e13feeb993918ca01faaa3881d1cf384dde76baee3b5d37b13ddb45e02",
+      "text": ", the parallel reference for the",
+      "hash": "6acbcc1090b828b0525aae49dc31f95d85c648c224c448e7450ac2c8e17a0cc4"
+    },
+    {
+      "id": "7c3f61f315882b3503192c6066b30401d9aadeaf7e22a1f988c9ce0f1623b17b",
+      "text": "problem domain",
+      "hash": "a9997fc89c97ad3be2051f6dba029d84cdea674cf165803c2ddbed7b24eb01c8"
+    },
+    {
+      "id": "eb750735aa001f38ab7199414f2d0f3342db2b22a60f185edff906f9e5f0fce9",
+      "text": "'s words rather than the module's shape — the two are usually wanted together, since naming a deep module well needs both.",
+      "hash": "cd8a31a85f87e61dd4475638f733320262f6d610456b7073751e879584489ae8"
+    },
+    {
+      "id": "9fb74c024f171e2280a05d9830a114ea2eef448a66d447ec77de1f87b8dd23a4",
+      "text": "is the other: it surveys a codebase for deepening candidates and writes every one of them in this glossary, so it finds the module and this skill is the bench you design it on. When you're unsure which skill or flow fits,",
+      "hash": "623d4de37cc41d55c5322cac27d6dce5e46dfaab718e88b65c06a2b05987c8b7"
+    },
+    {
+      "id": "e26487a22f799d4dee3b9f1250b53012dd3f0e6cc56df7155cc80dec927f45b8",
+      "text": "routes you.",
+      "hash": "7ab0ed124c45755dcf8314c61ea1bf3f8c9926f3cf622e8d67e880128523bfad"
+    },
+    {
+      "id": "854faeda043fc340bf48ae5f905a56d1255eb5aa2c97f6547494d3a79cd98558",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "a1239765721cadbaba3022c80939a37934162643e0d251e87cfa6543dd4a982c",
+      "text": "You have the skill. Now build the workflow around it.",
+      "hash": "1f8c6e3c70e6ee55ea65c0a7163ba365614d1e9ef6e5dfa1610cc4ae4db71f24"
+    },
+    {
+      "id": "070b29fff1e023d1e3c97c99a7843bb5bf0874725d8d35157568fa996409edc8",
+      "text": "Install the skills you want, then use the free course to put them in order: seven lessons, from clarifying the work to reviewing the diff. Go as fast as you want.",
+      "hash": "0cea17052284f2c2f28d7e1987799139dfef9d260c78bc88123b1c421c4488cd"
+    },
+    {
+      "id": "c49cc9d10869f2fb76b6d18397a3414c868e7ee7d90bfdb61d7f6d159dde84f3",
+      "text": "Where this fits",
+      "hash": "1fee08543383d96f7b1df37709d40ce798415b59399107ef9f0591d5852e71ee"
+    },
+    {
+      "id": "97d3813045f1da99af1bab92520d38b14b45bd2862f6b367c45512e91e663b41",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "65f7793904585e32daad7b9243a85f5cc55f9608a7fe5898040a043bd1132177",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "0d74682b76ed16518ad8d124422157ebed2c144541375ac388d7c70d23f0642e",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "ff0aeca54ec082554fc5b9c6e92f76781e09bcd5ee0d33df5d9b918423c99596",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "128246214559ed31e3327ba3ca151f86426f5cadd98aedc479e3742e6441783f",
+      "text": "Skill actions",
+      "hash": "b9e2521603d257cd47ad2b3f55b35c59be0b70fc2434076db64bc5962d113795"
+    },
+    {
+      "id": "74e774241041a9bb0ef09b86f32c95ea49f8c7249fa068f455e53be6602a66d4",
+      "text": "Install the skills",
+      "hash": "797a04f3eb1e13161858621cb83cf4952e6c6502ff68bc927bd010b06ff3edf3"
+    },
+    {
+      "id": "e28a503bc3323ce0d59ac209c8a3abb37e72c6941bfd093e67b80c42ac319e65",
+      "text": "All agents",
+      "hash": "54c32d3e2cfa1cc879f746643e6b41360541692fc0a163f3793595510398e6f5"
+    },
+    {
+      "id": "171b572e7500ec2982608be10bc364ca37e5576985c61cf8c31d36c42fcfdf14",
+      "text": "Claude Code",
+      "hash": "246ef8c1130d56f5d9df740a4b26c033a8b9c064daba9bb0a052d18993e87373"
+    },
+    {
+      "id": "3333f12a4496cd3bd7c34fdb3a2a4b10111bc15e02dca372c99e11b1d55ada04",
+      "text": "Installs the whole set. Then type",
+      "hash": "18a7a33a83922c74a3a2273127e8d50d28b33594c3d5e42442ab7ab02c300f6e"
+    },
+    {
+      "id": "6a2d87facdd4c75e2f96db3cdfba412acfd8a74e024245234556eb438ab638ef",
+      "text": "Update with",
+      "hash": "db06a91df7451401459971009be62e34ae8b77e87747ac83f3b7424445197307"
+    },
+    {
+      "id": "3f8333d9a9a97d516ba49ed1c2337ef9cab925aee567dc7cb04359c8026b9cec",
+      "text": "npx skills update",
+      "hash": "576c2ac09bed5cd0ee67f6620ce8ad0923052faf0d7ca256a830fa1fad746ba3"
+    },
+    {
+      "id": "723205882432ec5beefb83aed5d7269008270890c5b7bac86485dafc9ef4cb72",
+      "text": "Previous skill",
+      "hash": "8f521cc54b95fd7c30641146f52414c682823299ba54a43abbafa7bf83605691"
+    },
+    {
+      "id": "b8385a2e90d1a14098af3e8c03afbe734e1fea63880d3811a98fc14924d4be85",
+      "text": "The /writing-for-agents Skill",
+      "hash": "f022e2398dea44aec218f90928e961973c7eaa03026792434aebd61ba6c18cfb"
+    },
+    {
+      "id": "c2b412afb2f3c68ebcbc387b967faf43174eddfb1a1c36793e653eed414a11bc",
+      "text": "You are here",
+      "hash": "b0b52ce074f3c6d015bbedcee0d38621a709bbb8680d1524e3931b95e5fc487b"
+    },
+    {
+      "id": "5c2d86ef4ed9bb6b8928ee7bb40b8073a0d3e46deb40bb6f94d4c961cf5debef",
+      "text": "Next skill",
+      "hash": "5a984452b3eaeb62be44177414a716869bc81734446990bd8e77fbe6e66f8f14"
+    },
+    {
+      "id": "fde461837eb75353afd0fd2e10a7d4a91b17cf8146098cf1c394ced12cccda79",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "727b524fe63813e25c87fbf4cca4eb6f9486e479a89d1b87c83f5baa9826d21d",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "b6f92e1814c4dae739caad50973c5594da9091527273be41bb9015a4bd4dffaa",
+      "text": "My 'Grill Me' Skill Went Viral",
+      "hash": "9c113083efd49f9d9e0da45231cc6c0128371f8e455a51cc179df080afdb91a1"
+    },
+    {
+      "id": "9128bf6290cfa342fd9cb122416862e017080633b3398091c50415f336b01519",
+      "text": "Copy install command",
+      "hash": "d8222d32399e064b6e1dca9590f2ea5e61a941d59cc98dabd3434111df81e9f7"
+    },
+    {
+      "id": "7bf2522d906e759a0bc615d21dd4092328500141367101aa8eda76ae0f2368d2",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "2683094788426588a4818f012911370419f34e6951a8d0f63d01ceb0b87eb92d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "14ee51aa8180d5a5e6cb360e6e0e0c2141224aea69a2fadd1dee596870fba9e8",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "b434196b077a4b5c7e1b044019a961088914ce68c451d3319059b4ab873a8d9e",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "9bdf3c8d1ad0274acc2583fc866c7829b08dd0f2967909f1bbc5ca0b46a67393",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "0579da830730c629c31f6b75ff656e55c1e3c3035f06cbcc12035c485985c5dc",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "f5556c27a4e154f3d69dae2d1a55483f781d95b69be29d520036d72e81842283",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "37042e662e2d7ad796d63dccd2d6d0e74f0b77d1e17e85147f60b61c715f59d5",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "d17075403bfd90a418b31f24d9151adae9466dd1f496fb23ed995ada74741f77",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e15278ad5507548d3ccc4896fa2018589683bdf65ce00d0879c6096cca596dd4",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "845e44d2f3a560930f4348ae712c35d172aceb95d2328be00d98d76f54df3dcd",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d5c7ad03b61528da544090d30d80108664aeba72b131013292852f47a92aaf4e",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "e678ebb28b5dc76517ae552d9341638f6563943c4d0089d20db31cbc3d6326ce",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "ea8740d49fc9236e8bda47b589d2143fcc04ff155554771da0bd139f494e8d98",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "6a930f79b2dd8dc03819e2b332bfce118ab8734393c67437fa0d714bb09e6d3a",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "8f76cafbce41f65aa77b47e1629b8d34efa43331fe8695ab6142267d23125c98",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "45b6f6ca1ade972e30d3f947d6bcb41a63812a4c8d95c6506b05127c6d47af23",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "cabba17cdc831b555f8521acc68b71c6902dfc73f75718933b2c7827e0cff27c",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    },
+    {
+      "id": "41d5827326c443da99f4863848d7810f6aef742835876930d861049c59452a5d",
+      "text": "Pages",
+      "hash": "9046da16aea909ba75a36cec13b56cb2144dc2ede45cde361e99a8d79802eabf"
+    }
+  ],
+  "etag": "W/\"17jhj6iyhxh7kpm\"",
+  "lastModified": null
+}

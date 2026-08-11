@@ -1,0 +1,968 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more",
+  "pathname": "/skills/skills-changelog-v12-wait-what-writing-for-agents-claude-code-plugin-and-more",
+  "fetchedAt": "2026-08-11T06:28:42.060Z",
+  "title": "v1.2: /wait-what, /writing-for-agents, Claude Code Plugin, and more",
+  "contentHash": "073e4059feb1decb7b78109ba220a671240fc6e5fcc96f39e3ec7f56f66c34d9",
+  "textHash": "7f74c7ff3998c586e248d33d0d680c2b0007b058b110b7fa879e59a2c582486b",
+  "strings": [
+    {
+      "id": "2a0dcbcbc14f4e86328c05f902346ec6bcabe4ff5fbff73ab881d877444d998f",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "05b5a25ee93734b8a5edc317ac221b06d2a74282d03d52a5099024de899c7450",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "240f82f3f73e1e165168a819610b3773a30326c626fe8df6d39a05966e3601db",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "76aa5a7ab73a82d9a3dd7ed6c42e03fea96fdae7ea62316fe8ab1e0ab001caaf",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "a53ddcd7881c9246fb8603ac6a42bd8595e87904fd73575b260d52dbcc562076",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "6a4e66b1226b7da8945e77448e19219d8d745fcdc0fd7ac9752e85c2a2b1a885",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b84354e1910dce9b371b955714b54d116d9c6aadf4a77e688082530a31b5a62d",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "e9bb5fa60edd0e19daf21764ab3a046c78f8f58ee96d8ea4d74fdba55ec93bda",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "9bd1f3a9ea8240a201bc636dd5599927ccbfbcd6313bd074d0b8ec276140b0bf",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "49103a72585cd93849490a51846cc1935e8dad78bcde85019792d48daba62f87",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "ca3f3b0e6e61a878c270943036dda25156beae58fcbc77458a74b1608c9a5905",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "0cf5d6cc782aad819a2d14a1512238432a20ff1a860f97c95f2e8862dfe7bd3a",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "5c24239978f1ab61d0f3003b08da1a0649c7e4401bf0fcec51f0dc71c1e28426",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "4eef7f89f5c1def9105758a506150e4625908f1b737a960f8a85132767a4f171",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "c9b66e722765acff8ac0286ff50a5ca2a246e368b62b8f39c97e425356f76be8",
+      "text": "AI Skills Changelog",
+      "hash": "00763cbc9ed5c5c9afc525a03124e578d306e829a7c67bb87c9407edb3230099"
+    },
+    {
+      "id": "22d696237f783b67e7c596097e810ee62e8878b8986681bbd1b0315dd25c0d44",
+      "text": "v1.2: /wait-what, /writing-for-agents, Claude Code Plugin, and more",
+      "hash": "7855995cd8dd8160228dde5a165301055a832f9979e382172c2b50afa51dc5e0"
+    },
+    {
+      "id": "04fe2274f5d3cc40f0ea9311500b43a2038650a9e6946ac8b4f409b4b617de77",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "53c85c8ae80139490ba18b7d8201b711008286c37430601a6a88324dafed2c2b",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "eba2b6e37047f6fa4e6da25735da1c9ead86922cd1cf518a5d6cd4bd4299b16b",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "56b720c2961752a43b9707d767b04974952347e95eea199540b76160f148723e",
+      "text": "Version 1.2 of my skills is out. It ships the skills as a Claude Code plugin, adds Codex metadata to every skill, and puts the whole set behind a documentation site at",
+      "hash": "e9bef77f8f3be6ba5ec83838895b532a395d348442e0b0eca1a8dd2004c5881a"
+    },
+    {
+      "id": "e037a887ed77960077b977feaa6ec6238c76afc87f7c09a1b62baa179a9d6022",
+      "text": ". Three skills are new to the plugin, one is renamed, and six are gone.",
+      "hash": "675e0d356486bf80a96fbc2cd947c70ee66fc7d4ef53ef3b1a48061eda47c1d6"
+    },
+    {
+      "id": "72a881f4d1d51cfb1ac837d41425a028d376fbfb273274aa09fa048838ec2d3b",
+      "text": "The full changeset is in the",
+      "hash": "1ccd3a8d7dede3d45d3868b0cea488f9f346a08185f95325ef1d6f6c412f7f2c"
+    },
+    {
+      "id": "0e286c734eff7fe38c2f21c9c4fa699955c056505d475db001095cbb0e3476e0",
+      "text": "v1.2.0 release",
+      "hash": "e8faab06cc989e3953385b78dcaae4d7160b3e699373bb58062efcf23796e1eb"
+    },
+    {
+      "id": "e39ac5536e3506c32e5f4416096e7b47b89a501e666373de8e6c525cdb9576b4",
+      "text": ". This page covers what changes for you.",
+      "hash": "8339f7d1f21613b76104d46b0e0ab277be896ed881dd7c036a1a333f909936a8"
+    },
+    {
+      "id": "045df49a1c4df63524bfb8b46bd349c3aefdd4a8cbfc1f993599ab5f793bba3f",
+      "text": "Codex metadata on every skill",
+      "hash": "6bfe985fb0d5d3a02bec09a585551ce3f3dd96b681d1da55f3244b78ad03c35d"
+    },
+    {
+      "id": "18f0597b4581206289e50c98b2d7b1c8eaa76a1ccbacd1c43bb0b323c48145e1",
+      "text": "Each",
+      "hash": "a9531f64027967a038d348e7a9cd626d4938661f425667f88c1b7cc9d1b69b15"
+    },
+    {
+      "id": "44baf9e52c8e60133f3b732c2b4c7d362122e692f35f1109295499e213861676",
+      "text": "now has an",
+      "hash": "be6123eed2c23772dffac397cbe34c70ab695b1462e8b360df3b9fb113d61e6e"
+    },
+    {
+      "id": "2d2b614c88facd73a8e82ea9dd6e9f7ce987dac3e1292a680bccd79fd53f3a5e",
+      "text": "beside it. The sidecar carries the Codex UI metadata (",
+      "hash": "4a50191b25e31f610ce053e3f1f8345b1f26c897199e306a22a9303488da550b"
+    },
+    {
+      "id": "a11aea0b2f17c76ecf017f90c23649a3e6ea5f456f2d60a047b901d5c8d45853",
+      "text": "), so the set works in both harnesses without generated copies.",
+      "hash": "22b61f7f2739da01551b0e31ecc6fcf93956db6396afaa212e63ce9d210081d8"
+    },
+    {
+      "id": "742021ed1750832cce3a6e9d5dd7592b9052a0fc67b4cadb7bd510a5dfea7383",
+      "text": "The important line in that file is",
+      "hash": "36f893660e4179bc126b1f6734bec1665a2688fd01ca99af56c088766535e8a5"
+    },
+    {
+      "id": "e8672318c30b6c80c6b0b1ae29d93bed796e2b217aca4c2b9a19a9303bcb0ac2",
+      "text": ". It is the Codex analog of",
+      "hash": "e35748b8314297d0aca604f10d3e69d27d85917c18d6695bc4097eeb6ec9347c"
+    },
+    {
+      "id": "e1d7c4c674f7b4f2058494355e7474c63d9cb7b508fad07c500af49769f05a08",
+      "text": ". Every user-invoked skill now carries it, so Codex keeps that skill out of the agent's context until you type",
+      "hash": "1c660b3c5c9e9e5aa368f96f8f1cbf3034efa7875c680cc9b843e9ecdc268f92"
+    },
+    {
+      "id": "28271d3a596cb8b1054744fa38689a7d918d50e220d50520df5608d3d159725b",
+      "text": ". Before this release, the user-invoked / model-invoked split held in Claude Code but not in Codex.",
+      "hash": "c9fddc827def2653be0ac6e45828ba32bdc4ba4bd99906bdcd7a12a2f58acb90"
+    },
+    {
+      "id": "637473062c66b7e3685356d0d9ad20be65e41024357d9fd70c225ebea087293c",
+      "text": "is a symlink to",
+      "hash": "4dca22e9857fc064b161875e122c416f49556060422342abc7efb9fa2ea227fb"
+    },
+    {
+      "id": "75996d700e55cbf6e80ec7a540457ca27dec6e07113997778b16187fd1151f60",
+      "text": ", so Codex reads the same repo instructions.",
+      "hash": "2da14bada84ec4b92e7ed427c4133fd7faf2e14449d11e52db291e0a205448f7"
+    },
+    {
+      "id": "a49ec9ef9a072c55b66b0154e9723232a92faa6433a6e68e89a825fdf88e085b",
+      "text": "Documentation at aihero.dev/skills",
+      "hash": "5b89773ceac039ec057c01bd519047466218efe5797611da96c26ea4b036c9e6"
+    },
+    {
+      "id": "65e93d09c97450c7975f3e7e6facb8578434d1d1d8223560599aa357e7b4ee2f",
+      "text": "Start at",
+      "hash": "334c284f438cdc243c879e92b16653b0620fad80e8b39fdbf0c75b31ec84c1e3"
+    },
+    {
+      "id": "ec50f2479a062128b00692026e1b1812475f251f7cea3e59ae4cbff4b4fcaf19",
+      "text": "and read the groupings. The main flow runs",
+      "hash": "41e68dae3bf80535a54ec905dce2ca531ff10078e8384c759c529fad1a915b87"
+    },
+    {
+      "id": "7a7b9f195349a6a5ed810dd98c63fc26f4236e57973de2cedbc1b55afa78ca2c",
+      "text": ". The left panel is a full reference of every skill.",
+      "hash": "a3f7766396a149a37d2d066689ad78636d10d0d4370b282ddd87e4bb92e616c7"
+    },
+    {
+      "id": "207bdbcdacd3d7abcce6d62b44c44c4c6773d25b293c2d9f50ab508bf2afce83",
+      "text": "Each page holds a",
+      "hash": "9c7714ce2a01240754c7dcdef047342bf80312edd9b4f02e00bcb90cb7024a28"
+    },
+    {
+      "id": "da7a0f758e69429e8b42837b932eaec108bc7e1ca15d848de2938e2a1c1a15c0",
+      "text": "Common questions",
+      "hash": "dfb8a3d41335746f8b5879f9c3a372ecfa4d1e7b6495d7376f335084fa3c46f2"
+    },
+    {
+      "id": "2e4fe7f85ca7702569132a3fbbb968a1306371521a2582b5f4d54b0125ff1265",
+      "text": "section, sourced from the wiki of questions people actually ask me, and an",
+      "hash": "33ae98ba720f2a478a96cd4dab6b86c25f0bb695208ba15fb7c15a2dd5328218"
+    },
+    {
+      "id": "6dd764e1c696174fb238e02256148c114847866cf11c78d972d733a446832f72",
+      "text": "It's working if",
+      "hash": "39277692e5fc01dbbfc92b8fe9dbaad0bb2ff3fb56af050adaa31810cdf4bac6"
+    },
+    {
+      "id": "a1d4060312c34c4b51bad1a4b9b32bafe0e1b70477dee6829c9d3408cd97ec54",
+      "text": "section. First use of a term links to the AI Coding Dictionary, the ticket link, for example, goes to my definition of a ticket. You can read the docs to learn the skills, or to learn how AI coding works.",
+      "hash": "aad96da53726c3e80250368fd0350fb8a496f765b5e4d3a4ec1e2354234c677d"
+    },
+    {
+      "id": "934ce5ec8b4a46452b7493a064f6091fd7b9f19aa0e871188065e5f9da628ea2",
+      "text": "Breaking:",
+      "hash": "8680a010373a8afe7dac978ac22cd5fc9ae2fe40bf2377a2560e54dd6337b185"
+    },
+    {
+      "id": "3cbbe684c1ba67d156108c1ccaa03e14a40112d6d7612b864e0b81f69bfd8c71",
+      "text": "Reinstall under the new name. There is no alias, and the old name is gone.",
+      "hash": "5d888b237524efc5add7bf4b1e6acea18f5daf695353d932df57b1431d6a6ea0"
+    },
+    {
+      "id": "e85afab21fab8ba26736f11a5601aa4e6129f64240c5035f3c025f6cdc59bc46",
+      "text": "The rename follows the scope. The reference now covers any document an agent consumes, skills,",
+      "hash": "35db2a71127ac4059d27aa8546997374fc7dc4128497e0b4d7d25b645c35d656"
+    },
+    {
+      "id": "1d831c593e2abb222f06aea0b111a21b18d8dfd26ae8798c819b19efaf92d1b9",
+      "text": ", and docs reached by a pointer, not just skills. Use it to pull an overloaded",
+      "hash": "6179ac29c241dc9000d99b2efad949b68fab26131ea0402db5cf69fcfa49dd94"
+    },
+    {
+      "id": "38f4b34cd0d1d82601bdf8eb9d9d08530f396567c5a8c31de6c806cb0e5ecc0f",
+      "text": "apart into skills, which stops the front-loading.",
+      "hash": "11f13b7072778b9a817bc36410dba42aaa29b035ecccbbac0eee606e600ccf76"
+    },
+    {
+      "id": "51d392c9924653116f7e5a5fa950358d6de7aa2319f47b50ddf8a34cef997829",
+      "text": "Three structural changes come with it:",
+      "hash": "57897e9c8a99d3632b7a26d504e2ffd4e8f8c9822e2c2e5950d5b23c953772ba"
+    },
+    {
+      "id": "20d9e42d76b06c376a9c90c40eacc4a7801f192942b7d1b0d3f06be5dd003d44",
+      "text": "is merged into",
+      "hash": "351154f80e72406499991ce63932dfeb655c003f34ce7a464711473939e43137"
+    },
+    {
+      "id": "8405348886f75c9a59e5305ddc38c3c3cabedf0dff89446794b484dd4102030f",
+      "text": ". One authoritative treatment per term.",
+      "hash": "2350c6ffd3f7e290717a00b29a81f607e471f44d10a1b2c85852a4e663e6f42a"
+    },
+    {
+      "id": "e05ba72281588e7e2b6b40e2fbd027c9170a0fc426e3b5eada89fe37b1fb1dde",
+      "text": "The skill-only mechanics (frontmatter, model- vs user-invoked, router skills, the invocation cut) move to",
+      "hash": "fd64b200420cd63079ac0b546de82e1aa5d7eba2c24ab09261cf6c938a6ee631"
+    },
+    {
+      "id": "e0c26e1dc2a15dae9f00d4b3da6000fd296520941309a768b5b8fda0dafd699b",
+      "text": "The skill is model-invoked. It fires when you create or edit a skill, or modify",
+      "hash": "61351d9f5f58ede4a5b6c1a15d4f9a7c2b89aa9366b742233c3e179496dd7d1a"
+    },
+    {
+      "id": "a85c2e90b2271333023968ccd827f32dd9e00a7bd623b2ec4f81605e867da3dd",
+      "text": "The pruning section gains one new term,",
+      "hash": "b74f7f816ea98c5d68ffc378e61102a75173b97c2e026808cd3027f09077714d"
+    },
+    {
+      "id": "0245f7d3038f10917bb104ce450674db3a79128ad0e5c8d3d3709c0d14dd62c8",
+      "text": ". The environment is a source of truth:",
+      "hash": "3eea9a71ca8bf5a2bf09de6a187925794590e1155ba65fb436811f168b5575b3"
+    },
+    {
+      "id": "d0c42f2a6e84d5e086878a7ab6e291affc09cc166e2af0b446fc483004d2bb2f",
+      "text": "scripts, config files, the directory layout,",
+      "hash": "1970b5d9a518e2c81740a11d9ea52309cd60c435e85cc573271a188016fb1979"
+    },
+    {
+      "id": "cb574f83d70eca394bcdad4f3d6914c5539829bf8e1ed887fd821aaeec538726",
+      "text": "output. A document that restates them is a cache of a lookup, and it earns its load only when the lookup is expensive. Cache what the agent cannot find by looking, the unwritten convention, the reason behind a choice, the edge case no config confesses. Leave the one-file, one-command lookups to the environment, where they cannot go stale.",
+      "hash": "72348ff4e1229fd27c6d3d4a51bc297ada58ab1f8178587155e99c3e4b43ebca"
+    },
+    {
+      "id": "5b380c1e4610e5ad0d9f92cf1a42482ec0fc43a50454668da150762c51deaddf",
+      "text": "New:",
+      "hash": "46dafc1f7af93a937a98fd6772748996ea721452aa1ecf2be3f11a64c9dd270d"
+    },
+    {
+      "id": "c7aa1b3a118ed5d95b7a1cc28ca2e59ab892781b81ae2f6978ad78f2d5d3ee96",
+      "text": "A one-word corrective for model verbosity. Type it the moment a message fails to land. The agent re-pitches: a little context, ASD-STE100 Simplified Technical English, and the ubiquitous language from your",
+      "hash": "f69a220ee620fdf0558499f3fbaa5df13fb62fe9c535889623ee03114ce2dd4e"
+    },
+    {
+      "id": "25c92059504132252d38894d5d3bcf4db4b160c1a9aa07eeefd0aec867882ce8",
+      "text": ". User-invoked, three lines long.",
+      "hash": "e9b9cab4936264428ad126428bd1c6f9d6b5d96f9a95302c930a6ec0c7cdd256"
+    },
+    {
+      "id": "2bb6bc74753a8ad601d2b959b1d267dd6ea0fe9cdd794211009727aaf35a32c1",
+      "text": "The mechanism is the name. Concision skills fail by growing — a 400-line skill still leaves the model verbose — so this one is a single precise leading word and nothing else. Names that describe the",
+      "hash": "cb25be2197abd82b1962fec2da9246066e15504f498a8d7f8f4b42dc4e95ddcd"
+    },
+    {
+      "id": "8748a73d1ae9f74759f4257f5048042c3402f2f74de238cc1b4f76f8aae2ad0d",
+      "text": ") make the model clip words and lose you further. Naming the",
+      "hash": "e79101afe1eb0dc66c80e07c6ad934d7c3bc1d5cea9ee8589e76d85a05adf46d"
+    },
+    {
+      "id": "ef05d2ba198e3e8b1721714509c69f1c545447eedf1bb2f7a18f4da7a0790187",
+      "text": "listener's",
+      "hash": "515bdb5bb7358b5ac0f3f440b565f58aa84b9960d31849633da5b7fc35309618"
+    },
+    {
+      "id": "b223619dfd3d799276e8f6b23e1ebf337b2cbba0742df788853c751df957b434",
+      "text": "state asks for both halves at once: fewer words,",
+      "hash": "02788e13a1ab6edeaa7839d47d67cbf2894356d7e40871ef1fe0f2d688eb251e"
+    },
+    {
+      "id": "8fdd7c7446b5300451078f9ae5c653defcf894f3519b23f3cfea6ad68a20e973",
+      "text": "the context you were missing.",
+      "hash": "329b8cc5f86f11cd5fb83cfefc5a6baafe24e8f9548927e82561c430e5927978"
+    },
+    {
+      "id": "306b7e9ef1b3d0da04b608958025366fb16a52e142493a498fe94a14864eb047",
+      "text": "It repairs one message. It does not prevent the next one. The cure for jargon is a shared language built upfront with",
+      "hash": "0fdba63f0b9a57ae949dffb24327c5a4ed03fcfa4474bcdf8f7275ccfe451b7e"
+    },
+    {
+      "id": "6b18719845e7b7ea9ac9992a7a2a37449928ff99e659c3ea78fa67a3c947931a",
+      "text": ". Reach for",
+      "hash": "6344a1c57b07743776673bd79dc436131d90c8c146b9bc8c86c3dd2040b7ced4"
+    },
+    {
+      "id": "3b65afb6210f48aeea2faf29c609a9d02ee877c886149fe58442f8279abf40fe",
+      "text": "when you do not have one yet.",
+      "hash": "fa8916b80db04cbc6ada68c3792f5cf445901a5a5a9b1cc8457f17ed7b0a5e3b"
+    },
+    {
+      "id": "a9d98168b94e3e0176c17d741730492aa2723d6c503bd4c29310e36fbbe255db",
+      "text": "graduates out of",
+      "hash": "9b1e1f44b4998158914e496fc40fe6c89720e4f7c9b08a172dce1f15ca4148f1"
+    },
+    {
+      "id": "2d213914439240baf2cbf16ad79c7bbbd4a36ee07bf79e54c11bea185378086f",
+      "text": "into the",
+      "hash": "3674fb6960c6fdbd3fdaeff18b1d910f236f90e4268c01f0ca94fd4993d3c987"
+    },
+    {
+      "id": "0bb3322cb4847baffa371fcdbf2cf59e97329dd2fb127b600fbe54382192dd1e",
+      "text": "Engineering",
+      "hash": "729bb48d0f86a9e240a9839bf8c50f62f7ed973338514432666cf53c5d30c9ca"
+    },
+    {
+      "id": "2c69faa19e019e9e5b1b5b7f1ae16427fa8fc99970be83968821f3304a1be5a7",
+      "text": "bucket, and is model-invoked.",
+      "hash": "cfa1a75aaf1928dd1bf61751ba30174f18e69f451f163b8705e1e923e108b12f"
+    },
+    {
+      "id": "cd4be57b3c1dbc85c06482a07bab9280f2a68447177465ee19123ba371557215",
+      "text": "It generates an interactive bash script that walks a human through a manual procedure, third-party setup, a one-off migration, an A→B state transition. The script opens each URL, says what to click, captures the values you paste in, and writes them into",
+      "hash": "7770f8874e976fdd5634c911492ea3784383a3ffaa1a0a6463c84bb95a709c69"
+    },
+    {
+      "id": "9a206ec9c68da53742a3d5e5dc7dffb6ac83c22a236e16fa5d0260a4ad35b55f",
+      "text": "files and GitHub Actions secrets. It is a deterministic script, so no secret you type reaches an agent.",
+      "hash": "7954212f8530f28c4c6a1f637d25217e6bd82eb7d45ad4c7cc8f35e58e80ccf9"
+    },
+    {
+      "id": "421e5538012e77dde94acf1cba01429a1f62c211f7c11763859a914757fbccee",
+      "text": "The UX is pre-solved by the bundled",
+      "hash": "bbb8d747094a796726fc50ac8df5a15ee5923da18f36fbe5047b4bbaf4b4fa04"
+    },
+    {
+      "id": "7ee0251a03da0cfb7c0d12568618c3c3af37439c655698ea1368d9d07191086d",
+      "text": ": progress with time remaining, confirmation gates, cross-platform URL opening (including WSL), hidden secret entry, idempotent",
+      "hash": "637b09f07ab93db009e46a4c58302d52ce19d4dfb6956f31a95e4ada2c6a41e6"
+    },
+    {
+      "id": "224b5d7c03b6f84c0dfc41d878bb3763b4847c5d7a83dc4b2fed04d3cbf66ec7",
+      "text": "upserts,",
+      "hash": "fd7803ca9b4c32f819007a171209ca8309cb3355f7f54ab88a38caf41c997153"
+    },
+    {
+      "id": "de5ebf1592496a93da382e3791503f6553170fa7b749e3a5b25095e3d21b9254",
+      "text": "writes with graceful degradation, and a closing skip summary. Everything above the",
+      "hash": "506ae615a79b45c06649e3243f8e714899f987d9ffddf31e792514235dfae4e3"
+    },
+    {
+      "id": "6ac2b47d3fd05ff07b4d015738af5b8957cab4ef90496398fbfbe1940b5fa5ca",
+      "text": "marker is a fixed library and is never hand-edited. The skill's job is to scope the procedure and author its stages.",
+      "hash": "b7e9966e1a79057958d138a0710161975b4a58f2ade083d7fc001f84ae42fa43"
+    },
+    {
+      "id": "da898042e748fa4f873f581a555c2a089eda7918d6051c27fa631dbcacd52ce6",
+      "text": "Model-invocation means the agent reaches for",
+      "hash": "12a2139b5dd3cb1a843382c106fdf4e0f9a07fdd6c277f94add2c625dc0b9544"
+    },
+    {
+      "id": "577c90443585da366f3ab433446ad4860b556d329226d53cfb7f1f15698c3cc2",
+      "text": "the moment it hits a step only a human can perform, instead of dumping numbered instructions into the chat. Typing",
+      "hash": "db64462898a3a63cfdd79339728c393b43d729ecffb9b49307bedab4f009e216"
+    },
+    {
+      "id": "3618c3816b5ec97b35ef1f567503f6eee52cbc28bcb8c152a1cce754975bc8ce",
+      "text": "works exactly as before. The description names four trigger branches (provisioning infrastructure, setting up credentials or CI secrets, walking an unfamiliar third-party dashboard, a one-off migration or cutover) and one explicit non-trigger: do not invoke it for steps the agent can perform itself. Work an agent can do, an agent should do.",
+      "hash": "9a23b3aabee7b0d338c7dd2409e10d15512b2d37acac8a27fb28d32b300700c9"
+    },
+    {
+      "id": "9a56ba50584c6ba376e8703d273b37a7f31704c427db1c2b633a2778c50c5303",
+      "text": "is for the clicks, approvals and dashboard trips you would not hand to one.",
+      "hash": "9fbc09ff19f2eb5eff871363ddca74ab690c4bfd628932943445dd6559574d6c"
+    },
+    {
+      "id": "d1eb3cbb90cbac6a61a75c6849353f01e4739b5a6d7cf77495d5c4ff6eae5067",
+      "text": "Productivity",
+      "hash": "f42bca637cb367c6d5fcd1b37bd3cb35cb736bdb6fdbf9589f8241845a3981f8"
+    },
+    {
+      "id": "f1a890139a9d69efe06e674dbd6b0b42da7f4f1f50529ada911ce4ec7812d2e3",
+      "text": "bucket.",
+      "hash": "17e0e3eddee8ab90643de1543443f74fab71836b873fe2378b8b99b5bfcc2629"
+    },
+    {
+      "id": "e3d5eb58069eb26d3c8d0d81ddf86447ec5d37954ddad25a56bd3ce2d573c35b",
+      "text": "It turns a decision you cannot answer alone into a Markdown questionnaire for the one person who can. Fill it in async, or work through it together in a meeting. I built it during a",
+      "hash": "e2ab495c7140e50e8e403a4e56ccfd4fb2c6bf8c1bcae28e68cc0fd63ca92932"
+    },
+    {
+      "id": "3fcee8b17428b7231983439e04db16128eaddf754bf368ef4abac6110450f63b",
+      "text": "session on a garden office: the agent was grilling me, but the person to ask was my wife. The questionnaire went into a Google Doc, we worked through it, and the answers came back to the agent.",
+      "hash": "8fda9b091cd6fddec5ebc42f512938c333866feff6d258920b9a31bf29d4af9e"
+    },
+    {
+      "id": "cff94aef2b3c2b5b97f576a88f46263f36f6e983f765031eb0b991a30bdc02bb",
+      "text": "Its defining move is that it grills you about the",
+      "hash": "aec96ef5add15fe8f9c15c70875f7bd273e41f5a7cbf141f1efa745a093fcbed"
+    },
+    {
+      "id": "6c006b8cb22f082152856d84f3ea2d6125c1f1f0dc1170d27e720049e8bc290b",
+      "text": ", not the subject. A normal grilling session interrogates the topic, which is exactly what you cannot answer here. So the interview asks only who the questionnaire goes to and what you need back, then aims every question at the gap between the two.",
+      "hash": "c753935cce1cc270d2958a2d4914937c6263a73a562777f2492e4492daf93195"
+    },
+    {
+      "id": "10c0e21b9cbd09943513437c4ebacb101f701ad9aaa61684a72c9fe277d54693",
+      "text": "frames it as the inverse of",
+      "hash": "74959ff4359ebc0629b57fc37979e7cc25a43abe1f7f0b39d4f31db5d7357836"
+    },
+    {
+      "id": "0cc1a36aa91e011a138a61a66e4db0258e35565a229fc38b0ed3c1b7a454d6a1",
+      "text": ": mine someone else, not yourself.",
+      "hash": "a107df8d39aed3be978ae1d80a8ce6006ca2c4b23a87e23b27a378190a20d8c8"
+    },
+    {
+      "id": "261ac012ba92082e25ecd0a7d65dc2039c497f4787b9666adcc7acc5c93af3d1",
+      "text": "Changed:",
+      "hash": "d88b1fedc487fc17f977d426b62f1565bf117fa7f26a7344330c89cbf92a6ed3"
+    },
+    {
+      "id": "82d4a88802b70f2f7b0804fff5ae5a6e4f2884ea26cd5744cd6bc6a1ad75d50b",
+      "text": "asks in rounds",
+      "hash": "07e03f45ea025fd36d7f0f25e34d803ce8d8efe1d659bed8b4c533a410a53542"
+    },
+    {
+      "id": "3c2bb618051792b05d78741ef6caa708464b39af87c5fb13c11f298cce472e68",
+      "text": "moves from one question at a time to round by round. The same 13 questions land in about 3 rounds instead of 13 turns.",
+      "hash": "35a41823cb3b0b005354ae6e6ab35e1cd71931ab5f6984b8b4d72822d0bed933"
+    },
+    {
+      "id": "e50219cf37bbf2d859520d0b41f9955b337f653c6c53142bfb03fc2e2c89bb95",
+      "text": "The skill maps the work as a",
+      "hash": "4e7a6fa750233cfd178bec0a585cbc367e8c0ac2cd6928538b5aba4604372cab"
+    },
+    {
+      "id": "63acbcea4c201af9a780efe5de142509621a35a5961707b80b000192614b6301",
+      "text": "design tree",
+      "hash": "4a59f53031151ca2b7a6b5d71635766d7c322e6520d1efa1848b2e61cd4999cf"
+    },
+    {
+      "id": "c0cb94ae4c430babdb421d3c2d65b108e2a34c64927b524e212d51c161d3d02f",
+      "text": ": every decision branches into the decisions that hang off it. The",
+      "hash": "1ed2afe457091a9fe50b761eb18b2bb15cb5b70a2125ee69a411eb3952040029"
+    },
+    {
+      "id": "cf5ce939c36f83fbd4a170bb9631d3ba0d0eed1d4b978b1fd47cb5dcd3826def",
+      "text": "is every decision whose prerequisites are already settled, the questions it can ask now without guessing at answers it has not heard. It asks the whole frontier as one numbered round, then recomputes the frontier from your answers and asks the next round. A question whose answer depends on another question still open belongs to a later round. The session ends when the frontier is empty.",
+      "hash": "822f7acbbe52ed9e83121db0645b030b5c3a71752e14c53d56be47c2e216f2e7"
+    },
+    {
+      "id": "47d28fc1424d799f945cbe6f0546633c7674f41e77d6274bf3dfcf52d03e028c",
+      "text": "Facts the environment can answer go to sub-agents, so research never blocks a round. A running exploration is an unsettled prerequisite: only the questions downstream of it wait, and the rest of the frontier is asked now. The decisions stay yours.",
+      "hash": "fa96b2a24e4d2db48654602b76d9923389cee01ff3b6a1bd0bc6e55496d3d671"
+    },
+    {
+      "id": "b866675735f9e2c1cd37a2e93c1190c3b3083625b4439b38b0a4f57edffad106",
+      "text": "Every question in a round uses one fixed shape:",
+      "hash": "d2adbb5781fc4deabe5c5ab993576775f72192c7c23c4a22e1ad4040df868212"
+    },
+    {
+      "id": "7e490acdd98bac124ef08eb2d1b57367e4a00ee44f00380f11769e00920e4b1d",
+      "text": "A round reads as a scannable numbered list, with each recommendation separated from its question. You answer by number (\"Q1 agree, Q2 agree, Q3 change this\"), which suits dictation.",
+      "hash": "658d04b9ca5f612e65b65a70abc466cd0d30008b78d3e628d44d650b4b085bf3"
+    },
+    {
+      "id": "7d6cf4affcd122c636b63eac6b9710beabf2c4ed09cba4c5bc0cfaa90b708f7d",
+      "text": "run the frontier a round at a time too. The opt-out for one question at a time is unchanged: add a line to your global",
+      "hash": "b860c974f125361ced06fdd918a4a5d8a59ca3e378f7267f97192e439cb00cc7"
+    },
+    {
+      "id": "b363c84549e60f2bec04a5c2ab5c8d0a6b3683ddfcc7a1f405924973c87b26bb",
+      "text": "is also reworded for general use. \"This plan\" becomes \"this\", \"enact the plan\" becomes \"act on it\", and \"exploring the codebase\" becomes \"exploring the environment\". The technique is unchanged. It now reads as a stress-test of any plan, decision, or idea.",
+      "hash": "fb83ce772bf55f660ce2f4a6b716e91a24adc8df99eb64b0e137c67034451963"
+    },
+    {
+      "id": "3bcf86121530a66e56860dc48b49768b0248464c44560e0f853a41a2cb046ce6",
+      "text": "produces one shareable HTML file",
+      "hash": "1352a62dbe37103d1eb23a3ed8892f9c0418f4ae9e4a9c236c9f779b036a3f7e"
+    },
+    {
+      "id": "7f5d177a2e1bdba670fff882f0a0ff8f018b431a12a4a00695b6e68a30fb3ea1",
+      "text": "The logic branch now produces a single self-contained file, plain HTML, CSS and JS, no build and no server, instead of a terminal app. A non-developer opens it by double-click and drives it in their own domain language: a labelled state panel, free-play buttons that are always available, and tabbed",
+      "hash": "fca099d8cbecef1a943d71098243a73bc57b980c4944f4f201a5b3bfe3ab4393"
+    },
+    {
+      "id": "0dd712dfa5bf03a08f16acaa95747c442ee072abf2806296bf0524461d44147a",
+      "text": "guided walkthroughs",
+      "hash": "9d33beeb02a8afcbb930b62d4b5bbf506a860ff24ac6b2036dedbc8cbe8d4135"
+    },
+    {
+      "id": "b93c36ca2ad69e009a9ccc2d5dad04a0ba5c3b2bde7fc6093a8bb3baf46dbc0a",
+      "text": ", each a scenario with its ordered buttons underneath. The portable pure-logic module still lifts into the real code. The HTML shell is the throwaway.",
+      "hash": "ef002f8521008f2b9c569bbae8a7132d27e1676aad1f4f937829ef33d1f81923"
+    },
+    {
+      "id": "daca838618075503f0f82148018db7d4fbf524ee49c22d987b4fe1d190053289",
+      "text": "Throwaway no longer means deleted. The",
+      "hash": "4e688ad0daafc07ede83772b1e16ebb706df80b3f4b36831490f2fdb3b22a9b9"
+    },
+    {
+      "id": "26d3853943ab856a5dd3dde47af0b63b3f41961f25d5d085747f1d09fb175ec4",
+      "text": "output is captured as runnable evidence on a",
+      "hash": "4c7fe05ca4c0ab250378688cca899319041809dbff62a43634fae925089317fd"
+    },
+    {
+      "id": "53be693cd5c3a762ce1b6a08830f3f790b57914cc152507468b6af886532952f",
+      "text": "branch off main, with a context pointer to it on the implementation issue. Main keeps only the validated decision, and the exploration stays findable. The answer (verdict plus question) is still captured in an issue, ADR or commit.",
+      "hash": "fbba72bca2499d26cb20fdbbcae0b077e4a97ad4008dd13a4e1800f31dc6bd9a"
+    },
+    {
+      "id": "3c66af979677c22ece9db084f0d4944f2aa4efb5b40f9853a753c8a68bb8e0f8",
+      "text": "tickets are decision tickets",
+      "hash": "a4b01329611148a13bf29d09aa1cda327e9096596c078fb812af558640244c20"
+    },
+    {
+      "id": "bccd128a003106efe774f36eebb56c21c0da8d9e0310ac9693d963c7eb0e6db1",
+      "text": "People read a",
+      "hash": "30998452b0c046e0aaa7ddc1e6453a161edffb4a5a0ea4a02a186b42eb28370a"
+    },
+    {
+      "id": "bb2005c059dd1acc7f50162cdc53aa1962b28e4a499a14c4f9e30eb802b34bfc",
+      "text": "ticket as an ordinary implementation ticket, a slice of a build to execute.",
+      "hash": "b1b2a0bc37f28e1260ea1f84c919c80f422ef27a75d87b22e2f99fe0cef5b417"
+    },
+    {
+      "id": "06971b706393db1b0ac159562624d84ad972a02fc2c780387abc4864ceb1f09a",
+      "text": "uses them as",
+      "hash": "586e5dc1caf17142ddcb89f9e8af4be0c78adabaaa0441446ac56a09a65c9238"
+    },
+    {
+      "id": "5837b765c101e1f5bd5ae67406b46086fd0fefb42f95d24b1bf92aa906fd5039",
+      "text": "decision tickets",
+      "hash": "74d73f9111d889f565576fbc2b5cd8c0b8a5b3521054edd4467a534c9883bd28"
+    },
+    {
+      "id": "f623f73cc8d039e0da3ee9bceec8df3405b71f336ec0ea71742571cb83a3f071",
+      "text": ": questions whose resolution is a decision. The skill description, its opening line, the README blurbs and the docs page all introduce the term now. \"Ticket\" stays the everyday word once the term is established, and",
+      "hash": "fcff26d395deb98bc89d6eb072927af6c284f325972b9868ad6986a283e9ad3f"
+    },
+    {
+      "id": "348a6bfae19f005c460090ce7dd56c81def37f2352678f5dc7638d8718c27d09",
+      "text": "Decision ticket",
+      "hash": "3dd9b2d9f67d97728f3102127aa0dcec2c6de2787d6083cf44a16055cbe5a4cc"
+    },
+    {
+      "id": "10eac233d370a421006aa1f72d9992cae84e3298f003aad6ad23b12e20e4ef36",
+      "text": "as a domain term.",
+      "hash": "4e9994a156937643197cced9651d844358e94774baaf45e8bcf82f2a468a05cc"
+    },
+    {
+      "id": "613d6b2c6592c17208cac0ef7f6db8702461b9f438944637afe9549680e3230a",
+      "text": "Research tickets are no longer parked for a separate session. Research stays a real ticket type, because it is a genuine shared blocker that downstream decisions hang on. What changes is how it resolves. Research is AFK, so charting does not stop to read it: after creating the tickets, the charting session fires a",
+      "hash": "a57c8af29efb792afc9cad7b2c3fdd08656838a35064794329fac2afd314d51f"
+    },
+    {
+      "id": "2d26f2e1a31c23a7299cd4eeba4977b2afaa3c09b5a1b3d0dd3e8a5ea3874783",
+      "text": "subagent for each research ticket and burns them down in parallel, capturing findings on a",
+      "hash": "daac99ec848aa9f7c6bddefa55c17412fb9f9c97d3b86eb91f7379583d4818e7"
+    },
+    {
+      "id": "9dc957a8b0e61d32446421a0922bc847d192cb4e1502647da85fe679aef9deed",
+      "text": "branch with a context pointer. Research tickets are the one exception to one ticket per session.",
+      "hash": "17717eaf10e93d1651e5bd99f90b04e28478a7f81cc25bc0f6ac82b41c5b7df2"
+    },
+    {
+      "id": "936aad1bf40d970c353167f53d1c5efc49d97b8367911c0209ab89ec6d541232",
+      "text": "The router gains",
+      "hash": "2b0f2469fd30200013cfa75f2cf05ec3e78505da3dc993008e0bad48d4dccd88"
+    },
+    {
+      "id": "c37954582f16aff45b4b12a2ca5e12a92f0fbfa16d64ade2a4b3ce3d835f8c44",
+      "text": "phase boundaries",
+      "hash": "d7fe6bdf2abd5ffe0134c76105579c63c77037ca0749aaddc07b93fd7d6d07ff"
+    },
+    {
+      "id": "3dc4cdaa6aacba999a3016cac45a8d633af841380aa006d127566d6c3dba0aa2",
+      "text": ". A phase is a chunk of work inside a session (the grilling, the implementation, the QA), and the boundary between two of them is where you decide what to do with the context you built. The old two-bullet section is now a decision tree with all five options in order:",
+      "hash": "c3d368f094963b5aa049c6a3bd1c72225492c872e663ccf12e38a87f8d5d7d8c"
+    },
+    {
+      "id": "a3df22f037916049fa5d834eb52884c058ccddd9f38b174f1259ec3ef84a6dc3",
+      "text": ". The reasoning is disclosed in",
+      "hash": "951e630eaeaf35faa79b8f0891755fc429136713f86618fd8346db751558e475"
+    },
+    {
+      "id": "5058a33e72f0475e2abd857dd4e4af45c5aa228b20eabb379c436e1163c03bda",
+      "text": ". Three fixes come with it:",
+      "hash": "112a2937b13be6d9aff64ad066e43873844559a16d922aac55e5def58099a47f"
+    },
+    {
+      "id": "7b339d56e23c0a7efda68465af01b640391cbd8a6b60c959283994ea5376047a",
+      "text": "was oversold.",
+      "hash": "e791ec8ed626265eced75f07db0f12032afc653a226b1c1d37b5825df3404d11"
+    },
+    {
+      "id": "da947d198011e2b53150fd60ffbc8b6f914b9c554f0d6828f1521376b16aff0f",
+      "text": "It is narrow. You need it only when something has to",
+      "hash": "5c77ed844a891eb5b213498eb7dd883abf785797147ccf56faac12c287cf6f85"
+    },
+    {
+      "id": "343a22ce42c2d16e2f90575515b8836903bc1760aa0aeca1f9cf611b0d3142b6",
+      "text": ", a new harness, a new directory, a colleague, or a side task forked mid-phase.",
+      "hash": "642de96656d4aea9240fd89449757e724e2e0a8f40ddadf656a41e5e44dc0c96"
+    },
+    {
+      "id": "04ccf3647b4813c9686300565b06ecef9f0292a29d3d852a775ce9df5e3c2dd3",
+      "text": "is the default, not the first reach.",
+      "hash": "c2f35c37a04390b66574fc9cb6a73dac4106dbc5173687597850bd4b17ab7619"
+    },
+    {
+      "id": "e2265f78b7bafcf666e8d510b2019faf8aab468d5f0696c6947e5f0940c6d596",
+      "text": "It sits at the bottom of the tree. Starting there gives you a session that is confidently wrong about whatever the summary flattened.",
+      "hash": "c174cc7476e4295cbe41f6eefa7872b3874aecf220aa2c763eb964c622cb9950"
+    },
+    {
+      "id": "9cc604c2b11f04067cc45f27efc7f9677790f566ace6d0fb3cdf1db62ce9d4d4",
+      "text": "Two branches were missing.",
+      "hash": "2c7d9f6dab326a5445f1c2dc3c58cd8003fc77f4fb7f2f2145f69b69c1e44e47"
+    },
+    {
+      "id": "12397ec5a718e9d6c5098cdfe274fac992553a729a538649aa76277ae49bda1a",
+      "text": "Rule out",
+      "hash": "43b779fb9d2ed8e7656b3f70a164066b9018923eb4d06575c8924bc0b175a7e9"
+    },
+    {
+      "id": "0ed9db681e36e50a2a68228a8a697994ef3233292feae61d4a0ca8844134e0d1",
+      "text": "first, it is the only move that keeps the conversation as a primary source rather than a summary of one. A",
+      "hash": "622501bb61750bda4c49c6dd2d93f55d38ee9d7d4f8aa7d7b79f6b662b5c6e53"
+    },
+    {
+      "id": "1c070bb6f2bb1db1c4695e148cccf3545665122557a61cac6ca631be95cb1a0e",
+      "text": "handles anything scoped tightly enough to run AFK.",
+      "hash": "d34d3d2465766b018a1d71e398d8a954bfe32b322a823e6f6d1e0296073387d9"
+    },
+    {
+      "id": "aa7fbcb94d63c4d9bcc1d9a20979cae9b927f9b3bae0b763a3feaa39827162ab",
+      "text": "Context hygiene's escape hatch now says",
+      "hash": "2064c8e148bf5ed43293fd6cb883c7ca7c82b421b5ec03eb68884d9fbf935ffa"
+    },
+    {
+      "id": "c5c9e74a1822137862714226643b6b5193217513332ecf8ce98f126f13498e29",
+      "text": "rather than",
+      "hash": "d9c6399d00eec706d6f988779f4540b71307f85594decfd8e5741afb8c2dcaa1"
+    },
+    {
+      "id": "0d468a022c74689eb450eb3cdf8f3f0ff9e5f83417d0a8c1c96b3156fc780724",
+      "text": ", and the smart zone figure moves from ~120k to ~150k tokens.",
+      "hash": "38f16acacadbcc22efa45f9e2dc66bd45228e7a95025d5c22a534cc6ef60a7cd"
+    },
+    {
+      "id": "c720df8598626aafc35b1535b431d31f642fef6f835510691667554bb6eca6a2",
+      "text": "routing fixes the two mistakes people make most with the heaviest flow.",
+      "hash": "80c508b069518455ab08d57593fd2b238fbe96a11297f6ceb4d48f39462c411b"
+    },
+    {
+      "id": "5a773bd202748d3a762ba3fc4c0951681510ee941b21ff28f81f440a40418047",
+      "text": "Over-reaching for it",
+      "hash": "7e5dba65e7e4a82670c6f5d79f2ae934c5877661037d595307d46e95a1841852"
+    },
+    {
+      "id": "4c202a42bc3e821274d777e83407f18327cbee74222b762b12043905d0762a4e",
+      "text": "is slower and denser than a single grill, so it is reserved for the idea that genuinely will not fit one session. A well-scoped feature belongs on",
+      "hash": "00abbfce181a7365d3b04d70a2bade85b7ae36b9af191d660137b9947ff5794c"
+    },
+    {
+      "id": "124c6f4effa558bb7901d541785e8370070813299240a15581c540ab3484d607",
+      "text": "Losing the way at the handoff",
+      "hash": "bc4537aa66fbe6836ab2eafbbaa48ced555da0e77040085b2f00b205d45520eb"
+    },
+    {
+      "id": "1051e2d59b90d1ef2107de9507b5f404b8fe0e1b7adcc53d26a41f7e2331343c",
+      "text": ": when the map clears,",
+      "hash": "5b0587a3731a6db911296f2e7ce59b0718560b740c565b4e870bea33fcd35ed8"
+    },
+    {
+      "id": "6c28d613ab9125a6110d9be5664852b952c94df5cbc57d6cfe725036955f570d",
+      "text": "hands off, it does not build. Merge onto the main flow at",
+      "hash": "8a547a1fd2913cf30a258635d283f0bc7451f6b7e399906bb8a2d548edb3e944"
+    },
+    {
+      "id": "8c10ab589d5395acc7144bda0b4ec983401f1eb917fb9dc9ed8c572e4e55db98",
+      "text": ", which collapses the map's linked decisions into a buildable plan. Go straight to",
+      "hash": "41181710787c005285259cbaca444df5412cab81df41e8c60260be5ba0f1e88b"
+    },
+    {
+      "id": "1b7e81906943f544ad8982bdb8f1212292246ed8de0caedf0bc067df6f7287a2",
+      "text": "only when the effort turned out genuinely small.",
+      "hash": "665f97ef6e4948c49f5b017399947137b6501a2a6220f01cc23da78f2166e0dc"
+    },
+    {
+      "id": "f43dcf18af9b57685a68572cc6d6104f6916428451e0589cec5415d871c72a82",
+      "text": "were absent from the router and are now in it.",
+      "hash": "febdfa195cfc19ad02c7cfdf978e6409b34d564441b13713644cfb99dad20f95"
+    },
+    {
+      "id": "b31adbfbc480077c0a17b03c5823561ec3184cfd9ba1b2ffece07aa9cb19a678",
+      "text": "splits from",
+      "hash": "b544fa59ae6efc8e26ff3fa449e56ce3fd87678f2c67dc4e8b2ac707b707428f"
+    },
+    {
+      "id": "a680a6cb38d80ad5bd123b3137e2ca1366a90adee6aea1524cfd93d32e39fea0",
+      "text": "on whether you are in a working directory.",
+      "hash": "1b3fcece730ba7dc0f42240c246f6847994ea2bddbc6c51133194423044816b3"
+    },
+    {
+      "id": "904255016904a4398bb9bdfa9fae5a753d70536842d005fd891cbb72746c6734",
+      "text": "Changed: smaller items",
+      "hash": "b857d562e78d7dbd1863447f24e8cc05a97597805f12b87227c2ae0d514c86b9"
+    },
+    {
+      "id": "02538b8229240258b1cf5bd20650028d7d0479654a89eb8e37f5a9c446daa936",
+      "text": "gains a YAGNI scoping filter on its Explore step. It no longer scans the repo evenly. Name a direction and it takes it; otherwise it reads the last ~20 commit messages and biases exploration toward actively-developed paths. A deepening opportunity in code nobody touches is a refactor you never cash in, so the report stops tidying dormant corners.",
+      "hash": "3eb46d0385c3c390d5898173f2d8e328f2c84f37f442d91ea46191058fe7533d"
+    },
+    {
+      "id": "acbc29a11ff2da384341780fd4da783056e246f5d02badb1e9401c02142df11a",
+      "text": "is friendlier. Triage labels are asked about only when",
+      "hash": "9ee978e06b2feb650532e34e715c0cef3dbbd80a6adf31ddcffa8397e433af19"
+    },
+    {
+      "id": "daa80f546655cb800f69117969ca402e87456f0e6fb75b8e06268eeab9268a0f",
+      "text": "is installed, and then as one recommended-yes question. External PRs as a request surface is no longer a question, the flag ships defaulted off. Domain docs default to single-context unless the repo shows monorepo signals. Local-markdown tickets are one file per ticket under",
+      "hash": "e7a2f77c4c27a369155393b59c1c096907ddd5a7d5b9f35a59de71b34f2f8878"
+    },
+    {
+      "id": "308ebf9a4a138191e646537c310c42cc2e1f6a0ebfb857cf38ab6af9ec5a6b6e",
+      "text": ", and the spec file is",
+      "hash": "1aba5b60d07c005991bec00ba98a25164038df14ec0cd170e8f68df7691791a0"
+    },
+    {
+      "id": "97b94df02f8ad2c5ace3970c2505a701a7c76c2f55fe90f8fa2a6a40fe3d10b3",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "64a730a87c53ec9f71c643b6abb771cc71a3f202079366fbe2f4b855deea26e2",
+      "text": "rename is finished.",
+      "hash": "1d2d0654aa2c4da2735287027f5beffdd5b67180efe6ac4fcb9f73136af94cee"
+    },
+    {
+      "id": "3819f7b1799e838244ccc08f3c9ebf3706d091ae74558ad24971a5a396cbfbeb",
+      "text": "\"Spec\" is the only term in the shipped text.",
+      "hash": "5ea8388cfe6391001723560665050ccc81548ea4c26f2b63bfd9a68864b9d1dd"
+    },
+    {
+      "id": "6034cb2fa211807a90e2a7d536a45c790e68c6a2f3fbb44ebe5f51e39f574742",
+      "text": "drops the \"you may know this as a PRD\" opener,",
+      "hash": "d158591308280a3776de630c96da1cf817525783704a7c868c937c0995ace8e1"
+    },
+    {
+      "id": "89dbd76214f1b95cf9e6a62de784d1bf36e33a967ddc7c562dd9d83f2d58990a",
+      "text": "talks about the originating issue/spec, and the GitHub and GitLab tracker templates stop writing \"PRDs\" into every repo they touch.",
+      "hash": "6a54c02b75a7033e5d02747593f8c8718532eb08c6895e4a6855e0e69a133c32"
+    },
+    {
+      "id": "fffc89addbd859283717ec4dd709cd981ef229cb9ec6bca761b2e7ca715757f5",
+      "text": "Removed: six skills",
+      "hash": "a0ca6912da5953d07eb657043d7c0bb34f76946baff1d393eae5ee60312448d9"
+    },
+    {
+      "id": "292b7276c16bcc168ba6dcf6d9db2d782e103415168380e5d2dcff504edd53a9",
+      "text": "None of the six was in the Claude Code plugin, but all six were installable through",
+      "hash": "32d3b63ae8eafa5fe244b9dbc8e61968c3d1ae8ea50fb8eecf721e46c2c8bce8"
+    },
+    {
+      "id": "f9643b032699e21c8ad26b38faf33e6f998c59c5877b711bb18010791e787a36",
+      "text": ", which serves every skill in the repo. Four are absorbed by a skill that does the job better:",
+      "hash": "e38f86bf1370373f3a07db4941fe5ca217ecd95aca10a8742c752da67d7d17cc"
+    },
+    {
+      "id": "9ab493a9009acb610a18162cc64ce0c4c7e1c8a2cd928b2c8865096e88680f3a",
+      "text": ", which maintains the whole domain model rather than dumping a glossary from one conversation.",
+      "hash": "70eab1c84482c57f0c603b54e9797d9013e8fb96907f1ba04ec6c8ef36b9e87b"
+    },
+    {
+      "id": "e55c27e31222349c42c82b0961c5d6352ac5885be193fb149ee7c11a1e4d70c6",
+      "text": ". Nothing is lost: the design-it-twice technique ships inside that skill as",
+      "hash": "f37dbf790abc834e09268540c18462e75fb94b9c0947728d4f8bafc20eff1d80"
+    },
+    {
+      "id": "35eff5d150340d0bf25cfa46e6f4c1a557a7356a151634c956b80bce42cbc1e9",
+      "text": "Two were only ever mine, tied to my own machine. The",
+      "hash": "439ac51a97bb7148116932240d5612dde8797f012e3e827fc1c39635a0345d2c"
+    },
+    {
+      "id": "1b778d0798d54f405398d49ffd034c95819950dfe4beaed5cb28b7f185a467ce",
+      "text": "bucket goes with them:",
+      "hash": "a6c424d2f219622623d51244143f3f2cc38b576085bc651a4d6483ec10b6eac1"
+    },
+    {
+      "id": "4306488b6f4d4841d3c83ef8860a832cfdb9bf778469a5a0ad87e71d3e9529f6",
+      "text": "stays as an empty bucket.",
+      "hash": "88472d9be66a4ae8c8152c1be3642c51b5a84641d28b43260822de182e59367c"
+    },
+    {
+      "id": "95253bdc3b905d4fb04b10d273a3d5dcd2d71a9db9e7582af6f95f5d7de4f530",
+      "text": "is unchanged, and is now described for what it is: a beta channel, published on purpose, installable one skill at a time through skills.sh.",
+      "hash": "9dcd8b0db8993d875c316a0d0861d4a12dc26aca028ed4e800e3a7be94575e9e"
+    },
+    {
+      "id": "f82a06216dfc41457c4e822a4e325bc92d926034e02485d175b07add3a5a526c",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "9ce8b4c92edf5cfab0ac4a12aa26bb3d08fa98aa66d78a232d856d65397e4ad3",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "a3c07a4da9c682b63f60a53ae6f25a7f176cc00ae35a349d5abdb69f0fc5b637",
+      "text": "Build a repeatable workflow for coding agents without giving up your engineering standards.",
+      "hash": "a9e9960668666b40dcea7f5dcef394cc69c7eb352d0f69fb73501f5ee7f15fa4"
+    },
+    {
+      "id": "502c0fd9d80a53e6243d3038d5c965e8463d7e68d3747395081f082376e395b4",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "568dff759ee01f35d52cadf15ce3c19fe23cb9048b9f7d15761b2853970ddde9",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "648e27bf5a3cbe8939e22e403ef54d49cba3162845d8d6e8e79ff5cce5aabba4",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "5196f4e6f7e2515154ad544db43305c7244aeb45b15556adc8352b70ebe3b0f7",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "31c12aa1aa644db62a8b8c7835aa1807b16e76c96fc795fc8f6632cf2e3372c9",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "4d75852c8ef52549f30d914deb05d68280669b4895fbe971f3eb71f5aa235fbc",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "5bdd71de6899171c9e790daaedd9177238527e60cf4c28760821324fe2e9e440",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "76975e6b12351a2a80cc627340cfef84ddf537962bfbc4c79b41309683d7985b",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "7b8719d04c92a9dd0f4eb08ddea2a5880e400e558625e1ec5377f475063d862d",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "e514eccb5c11476820483e039cf10f177bc00885bbb093b0230de778a318f74d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "84501919d410206fa92e8e1d97a47f08e44613fc45f881a7537ce1cfa8efa749",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "50762429ff7a6ed06bf5f92dad4e15fb997017773e3918fdcf96f2ccaf5131a4",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "f70cd08caf5907bbab1748097505996865de0f826e5512023a3c4afd0289d79f",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "9b70dc69134621f951cf196ee492316049846f21465d70ba7235887f298a4f37",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "1265fb78808ac3cfc69f0c9a2f9a7d58a8b37234a1b4233067f7d2650c96dbe2",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "48ed2142b82742e313271148be0b3d6fa163b8b5c243d237bdedaff9c437db5c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "75041e0a7adc99a10b98cf34289c02b263cf173a4324f84e1e9afbb8c0b66206",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "9e5d7cde331c2db0bd0b2f6e214d8bdf39fc05ad6c1cbfdffabf5beb812b7c99",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "93225ab2457856fa4d97239b0b990c102f3caa095811a59bceead4b8dec6ac04",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"11sxnzth5bf6t86\"",
+  "lastModified": null
+}

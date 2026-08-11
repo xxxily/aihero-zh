@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/agent-mode",
+  "pathname": "/ai-coding-dictionary/agent-mode",
+  "fetchedAt": "2026-08-11T06:28:35.051Z",
+  "title": "Agent mode | AI Coding Dictionary",
+  "contentHash": "1d7c954be027994f5b7012d03677a4ff77fccc8c431f614663b13f1d60a36d79",
+  "textHash": "33bed97c9775213a9735e19620d58a6bcc757201432eff1de5b71d8a9cbfb876",
+  "strings": [
+    {
+      "id": "b00c503b00c86549189186b0398a752326c5010c014723c59a973b50e4ad935a",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "7a8d87d333f7ad2494adb015c4e3e93941c02a27c7655499218692facdb153ff",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "4cac4ad005abe708b715a881c850d7259dc89121c96632c3c1fcaa9ed72ba58d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "9e941c229c258e98fda542ae6b255230e56b5731dce211eef692624c49af9a38",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "d8661afa9fc08d39a6292f95d126e3e5f653f48a2e539620165e99922b6ef1f7",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "784a2139e5c13b0e8be46fbb6b002cfea73b05e0921da839b95879b11f66ef4e",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b517d0cf6cd2a044293abfaf15b8d5f35a0f27e6a0115f2cce689b0e746d0bfa",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "4b69a4d123832adce7a8e291cdde69d03806f9f9bc07fa7413fa1e670f2eb1a5",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "29a4307d11e6fe6d60011fa74d8ad41d1cd7b3730a370b9e43ce222e5658760a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "9f0c044363eb5deb73006b7eaed7ecaeeecd47ef653242670161f10b4b5460b6",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "b10dbd12f4552d6a2df258ff96b773fe9eed0ae015cbdd3de1c31ed786b5ba12",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a30517ad7a62ef9286676dc34eecf03933acc9204d5885075f62ef4621be0857",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "8e2b122332c349f5283a7396acae057b8d6f226b272a0132b1c9839cc462eb8d",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "a9306471f487580181bed888303ccabac3165682d7696186f1219fce4c21f262",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "59d4365ebafa831926ce4c28dfea1fddf6968db046b496fb87960919e3e041cb",
+      "text": "Tools & Environment",
+      "hash": "cf9194302814cf2bb2ae04f0e1023fec3d18acdc5258a0e00c18bb7df366cf00"
+    },
+    {
+      "id": "361c3e6b5d2d0644873140269fa61ac77bb2190d1fa192e8bbf171b656d78bdd",
+      "text": "Agent mode",
+      "hash": "7cb0154423f4e208531c0ab32537384bffd7b92ace440743085f715a3a9042b7"
+    },
+    {
+      "id": "b8eb9922df7ca3c3a74f8356b40d7be5772d5c7d4e290fde6c6070834d96f0dc",
+      "text": "A preset bundling a permission mode with behavioral instructions injected into the system prompt. Can flip mid-session.",
+      "hash": "2c8dada3a474291528e855208d613593c36f3055b73df0eec3b7409d039484b3"
+    },
+    {
+      "id": "5bcdfda20d0465cb1b221ffca10b65a1c5688539486727bc3705b8424e09f1d5",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "420bec62dd2ad07f5099e39c88d53a1377e90e768bd46b75af81900aac6eb3c1",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "602f770e664299ad3109adf3b268e8d8b507b102e608eaf9ecce9c6084370647",
+      "text": "A preset that shapes how the",
+      "hash": "57dbb485b2e978dd39782930aa08d8f03b3a2c3b09961a38b1fadc0423ac302a"
+    },
+    {
+      "id": "b436ac159fbe59c411271cd6fcade9437922ef45936c792f680e070d2970fa33",
+      "text": "operates at runtime — bundles a",
+      "hash": "f20816c23d40f785bd34c1173fb5c37facdf570c93a8c286b670e369c71a69e6"
+    },
+    {
+      "id": "69728dec6ca4026204986ffc9f338fccb7ea3c5994ff9c8c62bbf73624b2c812",
+      "text": "permission mode",
+      "hash": "2ea04b3cff63e2308414a5e48abbef0b69336f0b9902d10bd8b81d8ff46aae26"
+    },
+    {
+      "id": "9bf12c8e7f0b0b5d73049ef1c7cb8a165e4910be20177caf986bfae10c8ed868",
+      "text": "with behavioral instructions injected into the",
+      "hash": "88db689b4613767dcfad1d46e8b5f85b7d0eddec1ac52a20d9dcdaa7d1e33538"
+    },
+    {
+      "id": "e0c9a607fb8db2c198d6f8f21d0f2a35db596ed16ce15a9bd667f08310d47f0a",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "8f27c95be3765a4153d4ec59bf5d192da5e1e62a301ebd8388904c8f4b610587",
+      "text": ". Examples: a default that prompts on risky calls, a",
+      "hash": "870562cab31bc9094bafb44f7b0fc880222ce7e2b0b66dd6e368fb0fe5e790e4"
+    },
+    {
+      "id": "e670e39fb1eff5218b443e3840d82fe23b85b65f87e48b3a05fbfabb82f306aa",
+      "text": "plan mode",
+      "hash": "156d8d777a8cf0bac015757cfe6cd8b6f9fca68fb973d5ce9eeb6eb67fba8167"
+    },
+    {
+      "id": "bd1a363c3d86d39609c5af02238371cce77958f3a8e114c88cdbb1613bdfbc46",
+      "text": "that blocks edits and steers the agent toward research, an",
+      "hash": "77cb43eaee408bf62a7d1e82a11d82d1a0b061b498b58f39a14f5366bd1d4990"
+    },
+    {
+      "id": "f747fd93db7bd2263dcb378ff163f0afeb3bd6696c13931d6a826206cb4f5b49",
+      "text": "mode that auto-approves edits, a",
+      "hash": "7fb3e32477f4381ce628d73df6f77ba00e3d3e06e872dd2be34f5aa0331e4b5a"
+    },
+    {
+      "id": "38cd38bfcccd35582814b3ea5b67ed325f0d85c9297decb702e80466faddbc58",
+      "text": "bypass permissions",
+      "hash": "4f6f7f2c9dd67b141054baf3983701656c762706b17c7fdeac270934f3de08e7"
+    },
+    {
+      "id": "d64106d6e81d482f3d5c47e30f39668757a23a86c68f0f8715fd559c75141547",
+      "text": "mode (colloquially",
+      "hash": "e62ee628d99a55b0418bd2b00922ac5ea0d5813e5d52fd37726620f595e76b8f"
+    },
+    {
+      "id": "6b6cd6fa3dce64b96bb0fea81080cc9199744c23dbba3373dde1384083e6e294",
+      "text": "YOLO mode",
+      "hash": "acf137048db03c124b72b93a2def88c0cefb03c73c7c314c0d686e218e71c278"
+    },
+    {
+      "id": "3cd9e1159c124d0b02a5d60fedba17a148288b7eb4f1ad9b064ad18fc53d2850",
+      "text": ") that auto-approves everything. Can flip",
+      "hash": "acf5c77b184c1ea732c577fc9a4df209a07b62fd590d531de9954f03d4e3d948"
+    },
+    {
+      "id": "df73c4742c7c1a8efb5adaefdb32087e18e078a072103c15794d3c848c0c91ed",
+      "text": "The bundling is what distinguishes a mode from a bare permission setting. A permission mode is only a gate: it decides which",
+      "hash": "7f43226fad146309be2186724b5ec9f788e905fecf6a1333a0ac3c7a767dd567"
+    },
+    {
+      "id": "858fa31f1fcfef0537d57ad81b623ed124ddd44292f2a22f69f9e2c083900c30",
+      "text": "tool calls",
+      "hash": "b102cdc6032df9ca67169a6d620fba86a9b0344b8dab71565a5b230deadb5e68"
+    },
+    {
+      "id": "6fe5d59c8cca30c102fe6857baca79c6eb5ef8b3b6342e2b15c4d31f342de82b",
+      "text": "go through. A gate alone produces an agent that wants to edit but can't — it proposes the write, gets blocked, and tries another way. The injected instructions remove the want: plan mode doesn't just block edits, it tells the agent it's in a planning phase, so it reads, asks, and proposes instead of straining against the gate. Gate and steer point the same direction.",
+      "hash": "645a6a6d86383bafc7e77ba32245a675409185fca5af46a90ccb76498b7713d3"
+    },
+    {
+      "id": "720753ad0b6ed75a1a919493729679b7983d6358cdbe0dcd29a1133b0da03ac0",
+      "text": "In practice, you change mode as your trust changes over the course of a task. The same task can pass through several modes: plan mode while the approach is still being shaped, the prompting default for the first delicate edits, accept-edits once the agent has shown it understands the change, bypass for an",
+      "hash": "8c0937dfc93eb6f73b414b8f769afb03ce08cbdc5a218f9358da18ff7d61db4f"
+    },
+    {
+      "id": "a85de6adc8c3856a0b0f589cc38322dec07dca9c831f49fe8a23c4f03eec2ec6",
+      "text": "AFK",
+      "hash": "875e0577157f743e3346ba95f1d944d08e54b3cab40d89819dff5f48cd507392"
+    },
+    {
+      "id": "d657c911d651dba913a143a361dc03acb4ce12eebed98106a0cda76baf3dd8ac",
+      "text": "run inside a",
+      "hash": "08b804caece72e09e818b2d126fd0e6d41ab04e2b608dc5e4da289d94a34c242"
+    },
+    {
+      "id": "9e5f856fca12b27129dd56ae453386033b16ece6b5e084768d3b5dde9b04249a",
+      "text": ". Changing mode costs you nothing: the conversation continues exactly where it was, with new permissions and new instructions. If you find yourself approving every prompt without reading it, the mode is set tighter than your actual trust; if you keep rejecting edits, it's set looser.",
+      "hash": "67162c6658ee02f94dd15234d0d8df7fa62917588e2695824d0bc70b24985611"
+    },
+    {
+      "id": "8a8c1e02a7b269eef267cd1e3322d2d94f56802680e9b2bb5f925e0d5fba4db7",
+      "text": "Vendor terms:",
+      "hash": "0f1d6b93d50385f54075b20644d4eab6fc66241dd3a245fb6e973c594207a764"
+    },
+    {
+      "id": "ada62e8380009b9e15fe83a655d20dc2adc0ad6928ce58fdf2416b82b2ffd6a0",
+      "text": "Claude Code calls these \"permission modes,\" Codex calls them \"approval modes\" — both predate behavioral bundling.",
+      "hash": "7e6623ce13251f0bd4abaab3d6bcac43ddc1ca76c7ae22bae0691b9c6ff39cf5"
+    },
+    {
+      "id": "70a2fd63d2fd99b10aea31f6b0ca7d28f08533d5d85499c14c1ea47f4f34e001",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "1e9fd3966817656028d4afc1bde0677ef03df3739cfdfb97aa61e60ab78c40c9",
+      "text": "\"It keeps editing files when I just want a plan.\"",
+      "hash": "b2e7b729ef4ffc42ba1b1b424dbc18d48265f27d8ce0fa8deafa68c438eda694"
+    },
+    {
+      "id": "5cb91bb96e4d53a6dfa7e464d0ed1a006e6f546e1d2448aa8d2a37987554ae3c",
+      "text": "\"Switch to plan mode — it'll block writes and stay in research.\"",
+      "hash": "a179b467fa26b62336d1954f79a8332aa67bc80c7589404e5a125c2bba5d661f"
+    },
+    {
+      "id": "f4f9de0072926b36b0563abb61d54cebfce1e4e7411463de81985678352b0f49",
+      "text": "\"What about for the AFK run later?\"",
+      "hash": "db1a4049261eb509d1a8564caea90d7ad49fcd6cdc629a9c33711daf3d8f884d"
+    },
+    {
+      "id": "6c6a56b69a01914db941b2eff65cdf6aa93c8ebe328d16bafaaef30b998f5471",
+      "text": "\"Bypass mode, but only inside the sandbox.\"",
+      "hash": "564072d36b7ff284e2a8c63210a6a22b1d14f2453c895a98181ca69f9a86e11c"
+    },
+    {
+      "id": "cf10d793c55c6f96fafb05c6a131aae1c72c1a21168e898feb6fff9f47be4dee",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "d8b6c994acc6111a40394352f3f5c3a367490ecc3b8c2256b571f4268bbe108f",
+      "text": "Permission mode",
+      "hash": "c7a8e6db5cbb4c7180dc0a588ac85d4c5e98d7d9f5b92c87bd146758e6023463"
+    },
+    {
+      "id": "31a240f006ddba4c75ee227df22c6c45543773391f068788de67b39f91258bb2",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "1491a7e2d5d21591b9e1bfe8d708ceb00dc21787b2065403b91560fa29dcd3f3",
+      "text": "Sandbox",
+      "hash": "67fc62497e85d81bc54ea07aa87dca6868cd470e95d7281155a8eb532ce60009"
+    },
+    {
+      "id": "bb8c6abeb579d2037a03a58728ec4881636561be882af62d6afdfae5207e2bdb",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "6c6100eb96b2cb8fdb2f3cd6fb503d0dce801ebe14681ab5cbe1a2d9559ce139",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "4af8272de7d1ca422fcbd5e9edb4de3aa0619dca1e4bcd08ac6ced8ca8850e51",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "571891e688882e0c2258e1649afef79173a3afcf516ec903d74cca693df0e303",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "efb0bf56e39f4e14ad1f26b321a4d34fe44889d9666aeedbd42aa5dd16c39995",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "355e9680e22e49e7d7c6a3c13b84ca071548d28c82d96a7c152c883d4a849bc8",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "44a39032bd7660b7a3d68e396d8f38b6087b73055469e4ce0f5863236d2662d7",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "a54860f70eb30d5d6fe0722d700d72fd278ce8f43c8e92d6ccca95f48bd3b694",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "adbde8ab21a5c42571d8a79bdaf00983fc03c9a12665d4c7e663cf060f58b1b8",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "fff740c96f212297238a6cfadb63ee8a47cb6974fd52ed0bcce3d50a4feace71",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "7e1ea9ce4ebe0bfd4e1f3fecfb598b85fc6bab4f0a88c65e0cc7a0ba3571ef93",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "22b409f01fc579b822c2c8e30ee427781ba6fb464abeae2d702e36690e768a04",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "525093a5e32d2b48bd78984b9f468a19f2bc4a5d265fa42b61810f4b0be7202b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "b88d5fbc38f265bfe93b655db5f0eafcc20069ab9b0a231f89a8a216f5ac99c6",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "71e70ff68351637754534bd2a28d3ea9a9c08930d5fe88854d9762020e87acb6",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "366cb78cd5a471fe0836ee3d91aa4749485ca4c36775be542fc8d4009af33505",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "bf21a4358d2df38ceef29e6c08f8882d196d5f7bf6c89091707141de64ade276",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "5ac628bfdb7e1374debd21fe448f6e7472402e9dab8b6ed6bd08d0af1d72caff",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "e4747379e790bafbd3c8b1b3cf74f0eb59c6b0fd577603b0d2d29b15cd47d120",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "9c52f35d94bbd8aabb411dd0d2c9cb0e51a57976d1f1e6cc906ea1285d6050d9",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "d85d23dcda44fec2c2f5844f6cfe9d0860f0627c60a68e1e6b0baca7ba6de428",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "4b24712e7c2b2fe3035498ab32f2a37ebb927edf9aff577a2759b8da0392c15e",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "9a446532d884fe45e3221b098870f48253e3c7748281a1c50b2d5c441b4434d8",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "ff3c9b4395c262f536000b530bb3097f012fa85a06de4efc89f032d0712bcabe",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "cc7427f90cd806520245011e712556ad4154bae793185f573b222bb6ef41adcf",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "fae2543bee32abe3e6b9a1b90628c361afb19abbf57190f8d41007ce9bd1be43",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"14skj9k8z5n4s1u\"",
+  "lastModified": null
+}

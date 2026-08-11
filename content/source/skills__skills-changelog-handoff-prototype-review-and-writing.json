@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/skills/skills-changelog-handoff-prototype-review-and-writing",
+  "pathname": "/skills/skills-changelog-handoff-prototype-review-and-writing",
+  "fetchedAt": "2026-08-11T06:28:43.424Z",
+  "title": "Skills Changelog: /handoff, /prototype, /review and /writing",
+  "contentHash": "2a30486030ed8bcc727a97afbf4f4919c9e0b8bf94a1bac109a337fbbb333ee0",
+  "textHash": "b260ec05d708b1aca7b45c7dc54452dd48061f12697a08deb84b84ad6183957a",
+  "strings": [
+    {
+      "id": "b69fe9344ef1c7cbcbd1f50f5ddaaec7d6a7761a44f1205ed41bcb7b4c21ad97",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "597168fcd32843cfe3931ef21975961cd424eb56adc7d22797adf576edbbcfcf",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "6665aa5d2610428d895366bff22607b39602c3de12e5d3a4bbbddb15ef40689d",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "b985732af9c83d68d0cfaeb8f049ec7979b1d970320ada3c7f4141b329355b7e",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "546b9da2a62c516278e339029763359691015e2cd1857d8d7c2625030a95b4ae",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "9d636b5c2bcaeff1939b6b9b360891e6598baae5c5fea846d5c62ab5bb6fb8e8",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b1526f82a41e8d96a770b213a22b75bc15b3385857a917e5f8403de9f2bb8581",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "b51ab1cb14033e0cbedb21a717214b45b5dd41a8480cd08e0619e4e3e1c0aede",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "9def22512132c6f35ca618fde8331076eb98450950da98914e8f0d8ca0e80caa",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "143c63fae0b4d3c089f887e364a09b3abbfe3400a0242da6a28fe9b5acdfd15d",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "40255bef1178978d324ba36d0582f75c7a6437db3990de9899bc7991e6839435",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "8a01cf39de8a52d831a44d165a0bce3b3c19065f2c8a6d8940761c96df1f20dd",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "f608a5dbd6e12cca5cc7553d029708b88254db888f45bfae0398095d62bdafc8",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "5ffb06091f51ad4e24ddeb7fd0c1a4ae1e6898f8dab117a61e0088bccd37bddb",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "6c4997c485b3d4f8ea586f4e8b02872a6eb03a835eaf093488fb6cf61f857192",
+      "text": "AI Skills Changelog",
+      "hash": "00763cbc9ed5c5c9afc525a03124e578d306e829a7c67bb87c9407edb3230099"
+    },
+    {
+      "id": "4a1325adf77a56ead2395497c217ae2ecb8f16bcf21da38b1372cf9a0eb5c801",
+      "text": "Skills Changelog: /handoff, /prototype, /review and /writing",
+      "hash": "f448e61361c1509f756ad0d593b493e56a34dcc7d00b943cf03458c4db3241b1"
+    },
+    {
+      "id": "947bfe3edff556a652a83f8c75c00a33cac6b090337515588801aeb8cc7d4de8",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "96cffab6f688c9539e85b83b8148758deb4438d496ac34883880c6b0446d031f",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "7abecd9868282f11611e096cdba0531fe5bdf83d9c706ab5959c056aa499a121",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "834c1cd0d14490828ad00dbd1849d700ccefcbaeea862b7650bb60110c15e101",
+      "text": "I've added two brand new skills to my",
+      "hash": "889190d6162e350d55433b7c3df645d9bc0fca8ea233132ab8a8c74de3ff4b0a"
+    },
+    {
+      "id": "1c9c9ad435775f58b1604802a5eb3e2933c6fff730e608c93b6f0e7876707972",
+      "text": "skills repo",
+      "hash": "18d9deb7d03778fb33a6adeef7f598a7d1d863fbd480452ec4f872e9f28f734d"
+    },
+    {
+      "id": "f8551c27a73f6a9da577259ecb08e704b9ec464c9ae8c16e646cdb546081e430",
+      "text": ". Both have been great upgrades to how I work with agents, especially during planning.",
+      "hash": "ff32e2ea66d180163ecf675e2ecb0cdee005615833142ca2f10e042ecb2dba18"
+    },
+    {
+      "id": "401074fca691b63b42d400a84fe1195f29626f098abaed2e5597ebf9bc450cc6",
+      "text": "The repo has been growing like crazy - the response has been incredible.",
+      "hash": "6e233a4ebd92c28a608afbec8fa5f04e452feb19fa6337c23f2ed982811ac2f0"
+    },
+    {
+      "id": "2b0a5dedf1c1d94e7b0685be3bfed0e87cda95f93fb6ac623bb164b694f09081",
+      "text": "I've also fixed some bugs in",
+      "hash": "58b340d89aba18fc75c07048cf3e177daf8b87f12304fefb21ce0c270e13326c"
+    },
+    {
+      "id": "e3015bb1a466bce13c58bc66055f70d3e433eb880f4c34c78e4f6d0c258ae281",
+      "text": ", and",
+      "hash": "4aa9bfd2f175a94ad5a7cb321e1aea9790c73eb366a3415b47a00aeaa9fbf24a"
+    },
+    {
+      "id": "28cdae4dfcc57cb6504aa2738a1a05a295f4b090bc5d31f9f4587a3c1c69947e",
+      "text": ". And I'm sharing a sneak peek at some in-progress skills for writing and code review.",
+      "hash": "e7e00931f5e6963b9b666290e3476dade8a22f9819557dcb32aa7f94ae5eef03"
+    },
+    {
+      "id": "7288745d9e2a74944b2d11d4aaf2abe998f12377d8fe9722a508e128e6e0fb71",
+      "text": "The new",
+      "hash": "648e2487e99c2958b6343a54eb19262fc59e0c9a552bb94a317158f027ef523d"
+    },
+    {
+      "id": "c0fee65cdd660dadafb07ec7a383ba817f3ab9d75bd1ca4333a38512f5f5d629",
+      "text": "skill compacts your current conversation into a handoff document for another agent to pick up. It creates a temporary file that summarizes the context, captures the vibe and intent of the session, and suggests which skills the next agent should use.",
+      "hash": "8c5680693598f7290659bc5ae70c23ca7f7c8cd6512c385701cc557b2c1cd39d"
+    },
+    {
+      "id": "78b02c32385c30005b93f219d1a9f642119c9ba3f36f9face1341218b8cadaef",
+      "text": "This solves a common problem: you're deep into a grilling session at 60K tokens, and you need to prototype something or fix a bug. Instead of cramming that work into your remaining context window, you can hand off to a fresh agent with full context. You can even hand back to the original session afterward with what you learned.",
+      "hash": "902a0e9b21fcc5610e437827d0d5a548fef9b31284c482c92a8f5f91fa173aa8"
+    },
+    {
+      "id": "77d19dd10e3786e62a6cd014702cc152aedc831f5fec3515137cc76b9e4d5483",
+      "text": "There are two main patterns:",
+      "hash": "c21a82cdbe8ffc01d978140f10682b76c96c08f5000167f30eaf094087143932"
+    },
+    {
+      "id": "c7fc88503082312df6e3f4651d39c763b4069f8ccf456d3747ac4378aa303387",
+      "text": "fire and forget",
+      "hash": "aa7dbb5867d7c5769df8c27559cb3130cc0fd8cb4380c9d85ca1aa31c636e988"
+    },
+    {
+      "id": "06e495f7e35174d6ca9f225608225e69cea3e881f079bb2b84a5c47a23810959",
+      "text": "(spin up an agent to fix a bug mid-session) and",
+      "hash": "4d47334bd1a12febfa732335c072e4fe409ff989d3453d3c2915af312cb1822d"
+    },
+    {
+      "id": "815cc7564c4475c46f37f4bd78aa3a230df921825fc4fd173773edc972fece80",
+      "text": "DIY sub-agent",
+      "hash": "ff9ff3381c7aaa0ba2df1631595fc85b2987d4adaf553999eb7b7a4c4ce3abd2"
+    },
+    {
+      "id": "1d2d3f24c5ed26ec22c4272bd6629ba05b38579bfa9b282b119120e71bab6641",
+      "text": "(hand off during planning, do some work, then hand back). The skill lives in the productivity section because it's useful beyond just engineering work.",
+      "hash": "18db41e10c3d83141715b9b63db0aea2a5e3b233237f49f0a5606fc6dc6a181b"
+    },
+    {
+      "id": "1ecd251d4841ffc026c26f750e8eec480d0a9afabb4fb190722531f934385f91",
+      "text": "skill builds throwaway prototypes to flush out design decisions before committing to them. It's critical for AI engineering because you need to use prototypes as research and spikes to answer unknown unknowns that you can only figure out by looking at code.",
+      "hash": "cab02702c851f77694421062094ac4f3efa49d2f3156ce7930741381e169b82e"
+    },
+    {
+      "id": "396b602706878caf10744b6bce6cdeb559e9fd5848646965a16e9b9add48397a",
+      "text": "While UI prototypes are the obvious use case, the skill also handles business logic prototypes. When you have complex state machines or entities that change over time, you can build a tiny interactive terminal app that pushes the state through edge cases that are hard to reason about on paper.",
+      "hash": "9c0a7d661191d5a33a0de297bb658db0c10c132a0bc5d91a9cfb61be7913310b"
+    },
+    {
+      "id": "eb375d742ed8f7525496d535753dd2de4da610b76afeb606c41be9fef1905057",
+      "text": "For UI work, it generates several radically different variations with a floating button to toggle between them. You can walk down the design tree, combining elements from different variations and discarding others. This is essential for making AFK agents good at front-end - you need a human in the loop to apply taste, because AI often can't see what it's building.",
+      "hash": "83227b543bac98d757be0aa26dfda61ef565d2d6de188d0739e34b41868b0ddf"
+    },
+    {
+      "id": "5d3cdd0131cf28636a767efe4d53862bd486c9e4c89e38ab49716013d4a2f929",
+      "text": "Bug Fixes",
+      "hash": "0df33fe404a2b4e91eb7c8d3febace29655ebbb4aa2b2d6e214cd360e5839976"
+    },
+    {
+      "id": "86315b8895e2fe207050b76ed528ee9ecebea2127c9e212c0a961995d92b1eee",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "40c1e2f32dd9135d1ab30d07055a0fc77971a9a977f2413743c312db56cc391c",
+      "text": "skill was sometimes too eager to implement instead of asking questions. The fix was wrapping the supporting information in XML tags to reduce its \"loudness\" compared to the core instructions. This signals to the LLM that the content inside",
+      "hash": "e7ec82655ec854e412fdeeff3a81617bce1b09c9e2e811f7488844b115595124"
+    },
+    {
+      "id": "a8616e4ff4c50e84305211bb11468b2cf0a17c87fd6c4dc906b4bd84e74c4ee8",
+      "text": "should be slightly less prioritized.",
+      "hash": "98962f3f1282d96de1870164e7e4cff86505bc2057896932e362be308e8cbef9"
+    },
+    {
+      "id": "951ef89e53c87abf245a396ab473f754a9d6434341f1a0a4491d396558208bdd",
+      "text": "Both",
+      "hash": "b6c1d862f9f75ec31eb9829b6a5968eb291dc8785e7fb59d4bc6ef00f292d3f7"
+    },
+    {
+      "id": "b91ce09b495228799d47b83868bc78295b197e0995a5c59065a27e97f02487a7",
+      "text": "now apply the",
+      "hash": "7cfe900a27d36f8bb2bd5c76328cfe951d45b8d27d6239c605f3bb81608ee2fd"
+    },
+    {
+      "id": "2d9e32a2742188b2bd8e516b0369331de727305cb0f079ec59abf9f0a397c9e0",
+      "text": "label instead of",
+      "hash": "3c0badfed91e1dfccdbbbf7aceb048098285cf3804cfee5a269cbfb983f6da39"
+    },
+    {
+      "id": "e44fefdcb6ee83e461454ce0bb0092f25a01cab19c5db311a1e6cc8b3f3f1dfe",
+      "text": ". Once you've created issues with these skills, they're ready for agents - no additional triage needed.",
+      "hash": "dea314d063bedca752297b4a1460f9372dba2522065ab12edf9208368cc0e6ba"
+    },
+    {
+      "id": "d179e0a6a91b98f48ff3f426be5d3a0cea7803995ced6ef1846443b457cefe0c",
+      "text": "In-Progress Preview",
+      "hash": "b9c377a8e3477532a9afc86a5aa8a44f1f48eaa98f33af41fd94a48a6b5817f6"
+    },
+    {
+      "id": "c907e99c364363a5dafa1c61b9abca1ce035d10925e397b10ef6c3af0b5eca9a",
+      "text": "There's a tri-part writing skill in development:",
+      "hash": "59d37b4cf688cc0205472d5989037b9592ec9eca1a06fbef7c1f7fbb2df1da77"
+    },
+    {
+      "id": "a3fde42cc48073f904752e88398c3fcd994bc100fb6eb94bf3a6d5c685e9865f",
+      "text": ". The theory is based on how authors keep journals of ideas that eventually work their way into stories. You dictate fragments (ideas), then write beats (a path through the story), then do a final shaping pass to make sure it doesn't sound AI-generated.",
+      "hash": "cea62a1f757dc70dc89c7428255f273ff7445d42e9479b4801a48a305a1a2fa2"
+    },
+    {
+      "id": "9bd131504711e89fe0133a23a707c99d0ede3a629239eeee2c171056edfb98cc",
+      "text": "There's also a",
+      "hash": "14a65dcf2bd12537819db23c870cbf126725b1b6179118d7e099dabe4feb78a5"
+    },
+    {
+      "id": "ac763927d937ae8be55819c4533f2ce3950ddbe350da9984aa52283514264e05",
+      "text": "skill coming that will kick off two parallel sub-agents: one checking if the diff follows the repo's coding standards, and another checking if it faithfully implements the original issue or PRD. A separate skill will extract coding standards from your repo to make the standards check more effective.",
+      "hash": "e93aaa9c7f8c62bd0edde5f50d60179fe8df890056173ce49ad021d500a51434"
+    },
+    {
+      "id": "6ef36a3aa28f0217385329b5df34a6a7e98ac3133fde381d8096ba6e4c2f1110",
+      "text": "AI Hero · Free email course",
+      "hash": "5f5fa5b2781f6c651c6c614fe8c6af4c0543e64fb7820832510cff5c66fecef0"
+    },
+    {
+      "id": "81075847b7b7292fc45719aee8b9daefc980a1e9eee45c361e51f5837335c49b",
+      "text": "AI Skills for Real Engineers",
+      "hash": "8080f99f294dba13aacef7c83da5b81be9e5fc7576a838d3a6c6e2786d1035b5"
+    },
+    {
+      "id": "d711d58fb33731f2c0811520e7d7e37b1afb3c82224a36b797b3744d2f61107a",
+      "text": "Build a repeatable workflow for coding agents without giving up your engineering standards.",
+      "hash": "a9e9960668666b40dcea7f5dcef394cc69c7eb352d0f69fb73501f5ee7f15fa4"
+    },
+    {
+      "id": "a123f06d303627f4410f6556561c3e558c7360eed7b3c538eaf70f7d5e006347",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "643cfec63aadbfdce39a1b781ee49b1ae2e6eccf407793a1325bff1f1bd69be2",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "d1501eef64af8874778a6ad10e3c0f53f9dec704c3c813fbfc1c4c68c482b04d",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "464524ef00d8f5ff209534d317f05998297231e02d7fd243cc91c04e2ff7b1c5",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "ca4e873c1661778785846365d35b937115466931fa130ab18905ba8e2cfbac64",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "32336370be1e7b3f0ef4cd4c73455014705fd84c0fbaf03fb92b53087f04988e",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "27d7aabd90ab6c6eca908733ce93103b1b3d52d2d9bc341fefbd13410234b4f1",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "7846ad7e3be927fcf0d79d27f14ac3bcf87708921997e24524042e6d47630df8",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "33266d5950a2b9b77bed773e23f9434bcc335e89716d82249b0707d422f3c3ba",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "56cd72f6798a0f6ed45a0e36127e5e590405a3cdeeec57ed6820bd211140a18c",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "04af795458a872d8fdbf8bd8208d56b47157f088e1b56a58c18371f2ffbd8c38",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "585adfe5e1ff7c0e54274627f0435e4b1aa3c99c5fd19087cbed5a52a06fa353",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "bde8de4263e6ef20346c2d77ba27a135bf455941c3f62705075acdf8a90a50ca",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "9e3ad634755182adc28edceddf27bb8bbf7039a0d57a140ff20ec3186e0cf50b",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "c5b628ad5abc6d13e4b237ed0abc4bee1d9f7054883df08c3d052e4865886b1a",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "25253408a951299f124a17165433d9402764fa85b63c26ef96c5eff96a8adf80",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "1902af6b1b94e4c33fbdc62e1eb237236f60aaae5d7de9c96e2f89d9540093e5",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "cc86f23264c97c3677f186333a92dfe6c58743daaecced34d834dd208307affe",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "f61b01a0a5f865765d393f52637d5084f2e6f3fcc16bc68cac45d5b4efeb1e15",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"biva9j3npu5fy8\"",
+  "lastModified": null
+}

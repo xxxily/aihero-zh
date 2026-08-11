@@ -1,0 +1,553 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/logging-a-huge-mcp-footgun",
+  "pathname": "/logging-a-huge-mcp-footgun",
+  "fetchedAt": "2026-08-11T06:28:19.779Z",
+  "title": "Logging: A Huge MCP Footgun",
+  "contentHash": "12aa3f7844aef022667596564f3d948bc894204a53698dac7738dfed974f57fa",
+  "textHash": "e2d64453dd70d762da1978456c4a5b036c67ed8af2110b194fac65c481a02ff1",
+  "strings": [
+    {
+      "id": "b0733f85dbf50919d5de221b0c78fb4d959dd7456180ee6c8663cc3b4511bbb9",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "3a88cffb8ce0616c0dee2c5bd025a8e4825ed9b9a59b262b6dc8193bde65e142",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "6d36cdd99fe2de2ee12336bceb513f465849163f398f4177d654d3b7c5c551ac",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "3315236b9a0992c4d0e751ad7370573b8b3908793d364366374471616394dfb5",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "c489708fa098ccd2675f96340f67e3f7a4f4df31d98ff931c2be6579e57ad031",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "2659e8bc8ab0bb4a68058793fd779418e4dfc61fa130973d1898a88a3fede8d0",
+      "text": "In this series",
+      "hash": "fef76140025762421127971287d409d00500637819c80fdf8cd8c3920c64e554"
+    },
+    {
+      "id": "90a7c0e239082f2be5bf1a3024cac454fa0c23e32acbd82c810bfad47d3f9f12",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "d011f083169d51fcb8e83a66d883abbcb71d31f25724bebb6b2728cf1c9aa062",
+      "text": "Connect Claude Code To A GitHub MCP Server",
+      "hash": "fd2fbb791d0472e5effbde6e4b3cbd2ab7ed836af6e02ca9e01a29dc6a2592a5"
+    },
+    {
+      "id": "35351d05a678355039cda5ad01846e5cc8d7aa2999a576a529119ae8d1151af8",
+      "text": "Serving MCP Servers Over stdout",
+      "hash": "25fd77f0ed62722c9ebc1bea2143243eca855a07217ce8cdf9fe14f317658187"
+    },
+    {
+      "id": "934d7e9e140e11abce69bdeaf89400dbc1d4a1694f2420e1dc83b1bba67e7200",
+      "text": "Using MCP Prompts",
+      "hash": "7c27287a9bb5f13bc627cbb86ce2480b2564ada25cbf34e9030283a66b8a0388"
+    },
+    {
+      "id": "726ccb75e06d1a1d9088fd2f0215c95e2dd8b9bd62e44874e439669949c0f527",
+      "text": "Logging: A Huge MCP Footgun",
+      "hash": "ed10f197b09f511d16fedb38fb5e1f9c6bd89bbbebe5b9b34c2eb69534042bac"
+    },
+    {
+      "id": "ee91efefdc7ee8949b10ffaf9d12afc7d4f05a2e3f3f474b9344e4c37fdbcd06",
+      "text": "The Problem With MCP: Stateful Servers",
+      "hash": "06a1a0242df637f6bf20ceeb13ed3c8117a8ce1204c5cbf69948f94c862109b7"
+    },
+    {
+      "id": "9eda5cca37ff8e59312e419936b09611e10c9765199c99ca2e64856efb9508ac",
+      "text": "Publish Your MCP Server To NPM",
+      "hash": "8ed49330be235e3c82d55ffcfa048a51b21cba0ab8c181ae74b7bfd44e246847"
+    },
+    {
+      "id": "91aee5fa95c4305fca35c6b561efccea8157c2f883c1f29e57d723c74a9d57ba",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "bd846bdc06dc31bdf5922ad3a7e42259fb06de3b0605b90b102b0ac8f5a41ec1",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "af619c745c89ca3b101b483a757fa7bb0814df68af5af3aa2fb794dc1369b584",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "ea229ff035f592e700beb5f85e9632e1c47611456d2312881ebbb58e75749dd8",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "bf4a37d5640ee79bcee0885f483609927606e27f388bedb3d560bddcffe6c433",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "ac4612f3fe8de9a90e8c740e5ac9f7279a6c5e5a5462fb88fc99953af36bafaa",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "8e3220ac1d94dcabf7d107aefcd9594dc3aa056ebac0c7af9cee775088b3f717",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "4b4ae2683121fd623714302cc8af098cb046a9d8f55542102d20044358b5fd31",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "c780bdb90516f29ed24f6a28bcce8227c2d6b0288872bd704fe29a9a6387fe9b",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "a39d68925107527e479bd52b062f450f85f39a14410ea602ab2408c218bbc8d2",
+      "text": "04 / 06",
+      "hash": "f87fe85ea6ca59daa40901366d2b563c2de82272d86a4fa3ba22278021242192"
+    },
+    {
+      "id": "29236b5669d9590312eee05c5be1a91b854a412dea8adcef590790ae81a3c9c8",
+      "text": "Model Context Protocol Tutorial · 3 min read",
+      "hash": "ecc36ba09dde9c0106167a45d5b4739ca9e17c4c06819a4396b34925f12f35f2"
+    },
+    {
+      "id": "ad5c2580b06019a24ee3231a96a9b83d2e7412d095fec3516cd5db1943a849e5",
+      "text": "Avoid console.log in MCP servers to prevent client issues. Use a custom logger or `sse` transport for effective logging without protocol interference.",
+      "hash": "25190169b44d5db9e35d9d60493946692b53de33471a2aae26daf3e978c00cc1"
+    },
+    {
+      "id": "b834dd1a23e8d173a0fab91a6b1350316497068a0fc4ad3fe180d1fe019c2a76",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "821778ba8e599531fec2e00ec7427a48e93bcf59d15a17648c1d7323da8026e1",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "9bcc708ddf0def763d3cc33baf1ab92fd4bd62897c4380d22d735db530f7e84f",
+      "text": "Source Code",
+      "hash": "bc47da663d101bfc1d4edcb3762f37fbe8fab3e931cfd460c69cb432b806d419"
+    },
+    {
+      "id": "c64374a2c08e2042b56394c8fd5e1cff65efd98de60aca4b3d7cf00bffa96cb8",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "d38b4dcbaa11a593014a648ea43e5407dec01817afb64f6a09459bc44ea375ad",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "aaedbe86fccd8dea431f82baa894159469370b2533d24ba548e0fb43f64a67c8",
+      "text": "Next lesson",
+      "hash": "d0ae2a13d8665949dd104a2fbdedcc8bca3e647a1e131d1ebaeb31c189a553b4"
+    },
+    {
+      "id": "039efc98010639306b73b2e89fe76c48a337a96dd9783b529b4db01723d71b34",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "4615d5298cb48e992ff6d17078934f1c7822f0bf33b3a1e1df31830a96107869",
+      "text": "Why",
+      "hash": "d3ae14a50bfe463f804c73c9fd16e88c36bf5a0bf4a56f98ae696a91eb2de149"
+    },
+    {
+      "id": "c8ac174cfc93fccf6c67c76d15a5792bb441b7857ba86461d3acc137c1a8c2cc",
+      "text": "Doesn't Work",
+      "hash": "ef9ade7fcd79abce467972cfd4f921842867a552c5e3e07bf149cd35c7bd441b"
+    },
+    {
+      "id": "4181050ed3b7c3ce515d357684b6b97ed64cd80f3dff51f25e8a8e84ecf86a77",
+      "text": "Why Doesn't",
+      "hash": "d93cf0fefa64cbdacab88849a4a34542cf290b5891f39f8c33ce9a3fb2c83475"
+    },
+    {
+      "id": "3ce5cdb0d3e7f242ac83a3c02611067239e9fcc2d7eaf623c7294f1e6533e4ae",
+      "text": "Have This Problem?",
+      "hash": "29785a8d0f003c147ccd047f6574223d4ca04ed46aa9a98500cb7d1d20ab059c"
+    },
+    {
+      "id": "4f51d99f617cc2143997f883000e293edb1c3e3ed5a787cc65bb2c62b90b280d",
+      "text": "How to Log",
+      "hash": "4b0b40df0ce689177427df8c0f16703c7210f66f5202670cd48dfa6f6ec83822"
+    },
+    {
+      "id": "78e0fd01798cb669094c43211a6560e56ac883ed03ffecebd65bf2fde1156add",
+      "text": "A Possible Alternative: Notifications",
+      "hash": "46b4698bbd4e8bd9aca5240cdd374d1fbbfe593e4127f9908283c9a2027b5327"
+    },
+    {
+      "id": "1466b5c05df55c5c208c549588aff744613ec37adfc2f9c7dc25a9f2aa9df44c",
+      "text": "Another Possible Alternative:",
+      "hash": "6624eaf6b2b45d19340477f986aadfcd855f1ebbd4e682bcc72508aa544b97e5"
+    },
+    {
+      "id": "5afb5396de97aec6bb670a2cde7eec8ecb9807e66867f0a9e61277fd3904cb2d",
+      "text": "Conclusion",
+      "hash": "89db2ad881f29c18b305a20c8ed7bdffdfde49d633c27a83bd204bf9cfedaba3"
+    },
+    {
+      "id": "00619a2eb5ead48bd7708bdd03365093d0e6ca319422546b158c6964941cabde",
+      "text": "Up next",
+      "hash": "e31da5b25f8b7324861e9aadaf5c503e7fd43e739fa3be17ebe63e999fb13df1"
+    },
+    {
+      "id": "8f4405e4b8039ffaaa39cb26456f5d027b5f31df2f7a6e85d79da72fcd1fe317",
+      "text": "There's a really easy foot gun that you can trigger when you're using the",
+      "hash": "250bf0e149c36b3c04baf4ac65a37bf759b5dec6624983d5460b583cc8185563"
+    },
+    {
+      "id": "aa36a6428d2552783901b5a17549f5a016945007fea0b1d437c5cabc6bb93f4b",
+      "text": "transport with an MCP server.",
+      "hash": "bfd6c9be9528035b47507eb59466069a6b4bfa9bd519d592c54bf2bd8b7b168a"
+    },
+    {
+      "id": "3497c553ff844c480fbec52c3a16a29bb8f8a9e45ffaa85faca49c8eb0c1ab79",
+      "text": "Here it is: console logs don't work.",
+      "hash": "6176443eed4ffbdcc51a1c690305a80f47b6d92e9163c46de5a970a47d7b4276"
+    },
+    {
+      "id": "d4a02805189b8f969e9877804aa915c1985470bbb30ccb1006655a5075f46642",
+      "text": "An MCP server is really just a standard Node application. The client runs the MCP server, and monitors the",
+      "hash": "0dfb6597bf04b53bad61d63764d27b997529ec6db441fbedef12cfd192b253f7"
+    },
+    {
+      "id": "89168bf888ce70f0888be6770dc49dda9fb73e6c2f47c008a2fd29e930c84045",
+      "text": "of the server for any MCP messages. It then sends back MCP messages to the server's",
+      "hash": "cb119d49aa9133a67749e2b9dbef57ea6f24496ce8e0cb52766f741df21bbbd7"
+    },
+    {
+      "id": "e60597e672aebd3e6b783b66a07ce5b4cb8b74d4b055837d3a8c12af52527bbc",
+      "text": "However, Node apps use stdio for another purpose: logging. When you log to the console, you're writing to the same stream that the MCP server is using to communicate with the client.",
+      "hash": "311b96b88008b9e5719ced41369fa21c783c151c121d4e89fe296f3fdb6f8644"
+    },
+    {
+      "id": "31a02b13d4f9fd91f66746aa2ea3a957f5f174d89fd7168f5db89737f1581491",
+      "text": "This means that if you log to the console in your server, you're going to be sending messages to the client that aren't MCP-formatted. Depending on the client, this could cause it to crash. And at the very least, your logs will be swallowed by the program consuming them.",
+      "hash": "d6ac0f03713926dc94c93ee8365d33be82a96ee3062f5141940a4baefabdd0f7"
+    },
+    {
+      "id": "cad034969df1b78df1249f10f8f7e323036acadab54eac1d12ca0a20daacbe2b",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "cc5aa03466ac6e86fe8b5558e4110370a06578cc75b5877678ccd066953dd12f",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "f41dc5dd7b02e11fb00f1e16475fa148a3a572091bea0e54725551f1caf535e5",
+      "text": "The",
+      "hash": "b344d80e24a3679999fa964450b34bc24d1578a35509f934c1418b0a20d21a67"
+    },
+    {
+      "id": "8c2ff671a792c035b0b5166035a5ac8a7aa727ab7756516d1dafa6ff9a976122",
+      "text": "transport doesn't have this problem because it doesn't use",
+      "hash": "972c6c4e45cc013cac0efb6aed0cbdef85fe4cb0f2848dc77734f33f5a41547f"
+    },
+    {
+      "id": "ade61ac21a11819187ac2683d3fb48ff87574f68ae04fd22a0e34f4f92c988b6",
+      "text": "for transporting messages:",
+      "hash": "d07f64f648947baffa3524385a54863432be997ae0a7255c0ec83919619611d7"
+    },
+    {
+      "id": "d3ae4c8e0908bd4b6c1e50e7e5de2dd713cfaed8e0fce89d419c6f1266b0ee38",
+      "text": "This means that it's free to use",
+      "hash": "2ab66adf2e53d5300f9c33e5b0b391532d94ea35c3f0ac3e3302155046fabb50"
+    },
+    {
+      "id": "c78272d97bf7b8b19e2353867c9fe4763811d909a5ea6726e977cd074e002157",
+      "text": "for logging.",
+      "hash": "51f4611a3144a5190c5f914cac8aa299a2f759c095aa2f782882b03bd8d8070e"
+    },
+    {
+      "id": "0ada0af130362263bf6c49393b34e7164219ed7dd42735decbb860f0148f4137",
+      "text": "It's perfectly possible to use",
+      "hash": "d2706fd9cd22ed867be0991241a2aeba6d3639614e85e03725bc77a2679cb651"
+    },
+    {
+      "id": "61487c4619737967807800b5eb22afcaaee18598e965a31012c6bb997ab37bfa",
+      "text": "locally, so you may prefer using that method if accessing the console is important to you.",
+      "hash": "fd280d748594d86cd2be30bea7b638253377cd09b6b9870b417b8c0f92fc48ec"
+    },
+    {
+      "id": "ef88924a632a3178be2dce815d04e3fc2c109cfc821bc29b6def94a23b8e8d98",
+      "text": "My preferred solution is to create a custom logger that writes to a local file -",
+      "hash": "3c73787aefb157df5f6190ceb1199d1587663222c1bf9741fdd1550d0c55803d"
+    },
+    {
+      "id": "1f9f19e446aeff85d44e6c0e491668ed0e7e521a2a70ef6095e7699f44da5fcc",
+      "text": ". Here's my implementation:",
+      "hash": "3050e83ddf5acf34b6c14c8ca3a5de59dedabc1e2462a543aa600460c11e2f63"
+    },
+    {
+      "id": "5995cb4fd40c94bf9341e3a20e58cde6d38603733715b316d6d0a4e2b721ffa2",
+      "text": "We use",
+      "hash": "f07f38e48a196903e189132b1c870b6a9313913c3cc9cb57608cb259c66e75e3"
+    },
+    {
+      "id": "f3288b41edd7ab0f09ca64b8a540ff4f6df95045a6ac5a798152661ea52127d0",
+      "text": "to write to a file synchronously.",
+      "hash": "24e8297033318e9ff5ff0572a1af2e11df188355d2e64be89b6ad8fe798b8afc"
+    },
+    {
+      "id": "53d984c61b42157e6e220f5abf5f47ac1556708a098ff524b1388cd95026d222",
+      "text": "We define the path to the log file.",
+      "hash": "366fbad9ee2bb616f1ddb6169c7c07b20027b7bc24dd66de7ae44971d7117b59"
+    },
+    {
+      "id": "ca87bf75dfaaf0be178234f8e20f9ffcbae37e2ae0ec5af3fb790875a57ef9a3",
+      "text": "We define a function to format the message.",
+      "hash": "4d8088b394e971058b16354e39742c8dde223eb7d2c5258a149d70d6dc34cd8e"
+    },
+    {
+      "id": "5517d170a6bc98bcaf21567932995f4f99c515d8a24eae9086343c517763ac14",
+      "text": "We export a logger object with a",
+      "hash": "7b98180e7552d05fa1177dd99092c48ec3089ce200ca14211fb031b741b28465"
+    },
+    {
+      "id": "7f0fb1325c4c4e68f6bce31a7d1caaa2f42fa055c20fa7b19be14653bce9c558",
+      "text": "method that writes to the log file. You can export other methods like",
+      "hash": "7f7eb6e5e1644698b60bb6e265948bf9856c97afae120a5223cd7aaf22be971e"
+    },
+    {
+      "id": "cada8deb2afa9dfde84583b66984c3fbcaccd60faf2a5dc50e8589c03f62a5c4",
+      "text": ", etc.",
+      "hash": "3a1706477c8f9bb84217bd3efeb1eebc69db5246c08b2764c01b087260a2e139"
+    },
+    {
+      "id": "ab0ebffac43f561c36b2b6857c5b4abc34adeee273089d58d928fd5d290cb054",
+      "text": "This way, you can log to a file without interfering with the MCP protocol.",
+      "hash": "b99a05ac46ee20d9951aa5360839788a371ba9a995c70bc85aaeee65bc7ea276"
+    },
+    {
+      "id": "31d28ed0722fae6bb66bc9da095633d65594e7f343683e297569cf1e037673fb",
+      "text": "A reader alerted me to the fact that MCP does have a concept of 'notifications', albeit somewhat buried in the",
+      "hash": "c2965a7935df43fe4bfb3173c15494275895aaba29eab785938cb89a796020e7"
+    },
+    {
+      "id": "2dfd5465df709f959d6d7ac8b58126b9f4d4bdd18f0e5cbb3511c5bff38b2adc",
+      "text": "In theory, this would allow the server to send a message to the client.",
+      "hash": "2495e25ba1ae4e6993a377bb1039a846cdd6fcea2480b731781fa9a0e4cc72ab"
+    },
+    {
+      "id": "a29a111e7e76520af3e4fc0a8acbb40fdcb5052632f2ec89750821b2c10e0cfd",
+      "text": "However, the implementation of this would be up to the client - so whether you could use this mechanism for logging is an open question.",
+      "hash": "26dad5fd8c480c2d07562e7d8259676288072d4470678c07e884260a6637795c"
+    },
+    {
+      "id": "ea24c5f6c081bbc28083ef46d3b950b1d0c5be694816ebc6ddf4fa3415157bcc",
+      "text": "If anyone has use notifications for logging, I'd love to hear about it in the",
+      "hash": "d91178fd3abf6b0b2951d542165d43eabc3e2a7e4b513245986521394c4ad8b7"
+    },
+    {
+      "id": "45f5638a47c31a82b2bd4cea2df48f8777328a6c1ca740a7823d26f08f023550",
+      "text": "Discord",
+      "hash": "053bc65874ad6098e58c41c57b378a2f36b0220e5e0b46722245e6c2f796818c"
+    },
+    {
+      "id": "d5ac68a749ae2a6af11c24fe00ac69c591ba573bc4ab29ec9aeff53c8fc4a9ba",
+      "text": "I've had a tip that logging to",
+      "hash": "91c85b471c419b6e3d00d25e6cf5bda8c25b6838d81153d9925c7cce47930f3c"
+    },
+    {
+      "id": "f580310688d880aa3297e03f68abb8abcb7b09c7c3fe781369ccc726abc24f63",
+      "text": "- i.e, using",
+      "hash": "f762d95743ca1a8662d8cb375892ad7f51f3e13f5de76ba700eafedcb1d5a4a7"
+    },
+    {
+      "id": "33aa6614eeef17fe18b9218bc59dce8032617aab982e3a27b0df9cfa474a1e19",
+      "text": "- is not read by the MCP client.",
+      "hash": "2de6e16f697206107fe5005eb8d396541dc3842f39ce5b3485d6e748685e37a2"
+    },
+    {
+      "id": "6c3480e7246f8d9fbd54ee936d48f1318fe157277e82712644fbeb3a6fcdde7b",
+      "text": "This means that you can potentially",
+      "hash": "c9bc6c0ed5d8c1da2a40d82c997c76736b6b33d6110d1ccbbdd3d1d9e9183243"
+    },
+    {
+      "id": "a1aac45c247e4c954e489166de3680e5b3b9dd05d563e296344ab5ba1010b7a6",
+      "text": "the process running the MCP server, and log it out to a file.",
+      "hash": "395d351bc0a4b0e076911ececf2476317dfc4d2aa2e976d6f8930a08c37481e9"
+    },
+    {
+      "id": "6b2a2bda1ef2ec136744d7df200a66d3893ce23b3e7b90ae91f2da651b405d1d",
+      "text": "I'll cover this in more depth soon - consider this a TODO.",
+      "hash": "cf8b717283e09898f70d582e1d20440498dd1916f8d082dedc05b13365527c2c"
+    },
+    {
+      "id": "4260cd452ce8958efc6c8ed98e995ec661c06858741f914072196405d360bc93",
+      "text": "You've got two choices when you're considering logging in an MCP server:",
+      "hash": "f6f656baff051a78ce6345439279f5e7d4b36c9187ded4709db391f2c7df45de"
+    },
+    {
+      "id": "8a21e176d13c3ec72b0e7cf45c47f941b3ece4adabc9e40bcddd657e362092b9",
+      "text": "Use a transport that doesn't interfere with",
+      "hash": "8a37ffc1b2e969a2e93385c58b7eebf058e11bbdf20821b36a0124ec24d385dc"
+    },
+    {
+      "id": "58e41b6ce2de4521bb36fa9eddd4e78f20c0698ebba71be7ad8ef83d43e9399d",
+      "text": ", like",
+      "hash": "14a3034a5af42f5bf56c98d1daaf7e6234fc82c1a4d13bcc8833b0f2d4c09f8e"
+    },
+    {
+      "id": "881721cf8e243a45b4bfd2a36e2b7ded050477cf5ee86880ee85e40d320d5564",
+      "text": "Write to a",
+      "hash": "d524e2091b1d79e9339a7022f0f319226f9591d7778d3851c40c06136efcfb8e"
+    },
+    {
+      "id": "7bc89e680cb4cac892b4fa8783dfe09ab2ba48eb9fd38fbd659c5f6d9046fffd",
+      "text": "file.",
+      "hash": "eb36be6c06717c3b88700bdc0678576b33b6b4ef76de644a43b56023e9e77cb0"
+    },
+    {
+      "id": "43a5081e4bbf95d4f959515a2f2d997f892863894a81604fd0d0698994126850",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "f492bd5c0fa8fb3d8a2b8cd83c6ed34e90c144cdae77e8cc7d096cf353353084",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "1c3677f58e3a0968dd2bbbadfdfb76d952f6612f14507ed5945ca702b0aae79a",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "23a76afc9f9b231aa01049893dbdaf6112590c541ceec879b9684cb7d20c693d",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "851e211fa64c1cd76f7fb1c7b5872871a2fc0c6f3ac6f4b17ec105d76f11f45f",
+      "text": "Previous",
+      "hash": "a57b08a480b822a0a572b993391c292ede593bf8000b406675b180bbb16260fa"
+    },
+    {
+      "id": "8b02c2117ad0d3ff15d2ee8f6249221fac91421055bf62b5c24965ea09fd6c6b",
+      "text": "Up next · lesson",
+      "hash": "7915dcb8d2117c7a6a8fa6d5a1901ad5fa87b609352be8aca042d9a52d097c78"
+    },
+    {
+      "id": "e721440fdead4d1909608df77db3a4886a448833803710a77bdc41d11f8beefe",
+      "text": "Log in",
+      "hash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2"
+    },
+    {
+      "id": "ceef69a2e49cc6513c0dccf58a6381ddd516cc5a5f5a2f16956a8b3ecd13d806",
+      "text": "to save progress.",
+      "hash": "80e970a1e5533be8e269820a64ae4280cb79d1ea60f31e0a89863e1ddd0aee48"
+    },
+    {
+      "id": "6626e38c1020630188e23626828b059b373a1b28d1de2bbdd6c371c404baad26",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "0633809357e6aaeb981fabe5688b09161eeb1ffec8cc3c1adfe8ca9ea28c52db",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "ae66d9694774ebb3e0ee89f98731775c211d68b545459c69a57b723770be5737",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "4df473c55e934a4466ffc8a23753f2f06047f5c3e77dcd0d5d371c6b04dbdde3",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "363690096551a0253bac378a52d3aef750a680ba3b6574e412050c25cfa78e89",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "fc13d4d4caf1e150bc052055eda26590dc7d3114d64a3a4f0dda6b7c4b4ffd9e",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "8258640dc4c0b5bcad283c062198bfb17dfc8397394271c8aa499d85d08c35a9",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "c2b84b4065aabcc00ce10c12b5b5b1998c2cfe446b40fecb6ef6f1b4ae2a17a1",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "11b41d809cf568223c096da2f14de51af0a2eead5528149dbf2109268a888141",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "c902bdc184b038b3814d1b8d4b4e7750a64cad8d333cc07a49381371be68e376",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "b3f16fce217ead29449a698558ced2d92c03a476ff5bad0e6c5eee5ec8d14256",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "46cba933a8f0f3640b313f2369925cdf585b277c69997fd5d0bc63b2286aad5e",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "520d843f120df8ca8c204f52cbfc25957ed02240d494aa88f54cb9546264a3d7",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "5b7d9ba5b6f4bc60576c48fa338469e0cf89f452d4e519a86502684f1e7f1eaf",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "10ed3e71e3f83090338dba148e38dce6944f2560b1870505da2dcd803d2e17de",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "72b643606154eea74f42d8ab6141aa639f534749860dd359afe0541a70e96a96",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "578e6f68726d39ae1f038ded5a0ddb1dd20328b85c5980ac76f561c79a478423",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"3uoob0mtxy6abl\"",
+  "lastModified": null
+}

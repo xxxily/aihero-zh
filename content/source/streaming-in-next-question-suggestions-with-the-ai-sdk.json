@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/streaming-in-next-question-suggestions-with-the-ai-sdk",
+  "pathname": "/streaming-in-next-question-suggestions-with-the-ai-sdk",
+  "fetchedAt": "2026-08-11T06:28:18.678Z",
+  "title": "Streaming In 'Next Question Suggestions' With Vercel's AI SDK",
+  "contentHash": "b6888afddcea45216321ac7dbb72b47d5ff1fdf2a2e6e45b1fcb2be57e6db0fc",
+  "textHash": "6708a3a1d7fbb59818b67c9b436db1467dbefc31c4bfb2e3b0ea0530dd9a453f",
+  "strings": [
+    {
+      "id": "c103b459549ef32094b2969683f38d1538a82526adb3e878f86f69fc6b26cb67",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "f76de999c5969d34066e9e20b0503f1183b34eac1b579a2b24b209d9354c9355",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "248539249c1a399cf59089f449bdcb8d727c2dd1af92c4f5682ec6c6167044e4",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "7881444acd93cee5fe5fb6ce8e3f02f0ff903873c0c0f810efd2ac3609d30eac",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "38e5466fc533ee4317a69f016daa0ebd299784454f3b8762377c6d403bcaf27e",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "201f1d7cfedb078fb37033caf8b8d5c646cb66953fbd9d288e6828bc63aa4622",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "f2cfff054b126f9619c32e01e86c6e03ecf03dd4629552a4c5c374f6200d99f2",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "305d552c42cea46efc7aa0b21f4d2b84db63104fc759d1d04db33b380f303692",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "6cf4540ccc96792ab3113777f7978b52604bc3f57bb73cec60786046aac1b9f9",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "7a73a4252b28cecf641bace0642639a7592c529fb1b8a5449018364b886e2d04",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "17e1520ed5239c82917b3a20738847a3813528aee218f806e9030bd038d82efa",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ac9fd5c115f9ea031b083902adc3ff943b1e99c5fa7573e87aca365861f59444",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "2e9504478f1c3a4a0f0365b52b1d5778664be7e980cd6362a34fb9bc5f5420f3",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "a6b0d10c3fcc86b223fe16e43174a684cf4cc7f299ea57fe5a2e1997224e12cf",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "349d15bdbf395b3da55e1faf5734c38b1dc3e3d704bce388fe7564f4b8f8e3ac",
+      "text": "Streaming In 'Next Question Suggestions' With Vercel's AI SDK",
+      "hash": "af874af72cfd37e15daa6c56a88c71d5ed48f4efd0a9cd00e9b1dfe8589faec4"
+    },
+    {
+      "id": "fcd9037271a7081b80b7cc5f380dc49a8219fef8aaf93321e0461257afe6524e",
+      "text": "Stream AI-powered next question suggestions with the AI SDK.",
+      "hash": "e1d26f33f3c0c5bd65be2f5c5bb29a54cefd7017c77937d6c97cee31f012f288"
+    },
+    {
+      "id": "ccfa5d0d3d62c7f2006426be10cb9307ba74f22ca440dfceefbd23f874dcab8e",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "c33d9d8f1c422860884a6b5e6a54743dbe1bbb188ae0c2b8e6204170a7f1e89a",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "a3f271b3149198dda0a912f94e9ca35397c4acb965a78ae8b02076fabf1b6a81",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "88993b9f72dcae7d840e13bf46cc13179591855c7e2247b0bf25cf256304fe05",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "18c7084792fe4685e4eeecbe24be632318e2e8e65d9b22c11dc7401427de4daa",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "8597b2220c41e12d056c048667cf5a47fa7bf5c0ea8d1155837bc78896e1ecac",
+      "text": "High-Level Overview",
+      "hash": "0b11350d9502e1cdeeed69a4bf0096a054b861db1f891ae8bed8e79c60e93ba8"
+    },
+    {
+      "id": "9e0378a96d2cd63d28a98434ab9e24c37a2d3d7531c4286d979981cca6fdfffc",
+      "text": "Streaming the Initial Response",
+      "hash": "baba42da1e34cbee590b7512dd5a644c343497f80add590d89166d6e8d66ad5d"
+    },
+    {
+      "id": "40f3fbb3134615fa3f6c92576ae1c9ef2154ba9dcf4167cd19de3a1937caa2e2",
+      "text": "Generating Follow-Up Suggestions",
+      "hash": "6d09643a1706d6febf7603625eb5ed0da3c9c8d73076dc3435429234587941f8"
+    },
+    {
+      "id": "56278d133b5da9a3d4aafa73b4bd9ea97dbbaa25016d5acfd7bcd41f9926923c",
+      "text": "Streaming Suggestions to the Frontend",
+      "hash": "00d366581d6f47def76671faafe76d24602b0c5d4ca50221c89b394b6ef2f2df"
+    },
+    {
+      "id": "94c72c7a160bb20698509041515d35c0b9a6aab322028261dacd3aecfb3d93a3",
+      "text": "Type Safety for Custom Message Parts",
+      "hash": "66cdde3ac46373cc971805e59d7f97aa3547cf6f2d2415959f38e44ce929ed6b"
+    },
+    {
+      "id": "a2ff2884661a3e8e2f85c57c7c227719dbfc9610e71ade8beb0844a14febaeef",
+      "text": "Frontend Implementation",
+      "hash": "38deb6327cbf41dae598f40d678ae59a173a331034224a81c45d83f66f9e7fce"
+    },
+    {
+      "id": "ca3ec1e7edd279976a067541e7d4f874a35a10fcb9993fc6d2bba06bac76b0df",
+      "text": "Summary",
+      "hash": "8e76a94ac8320d515375e625bef1829238b097ecbd33611b59eeefd4ffefebfb"
+    },
+    {
+      "id": "0af020275b013fb9fe71c8243e4b0b4a4e562253192e86089a7d515da22b0308",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "47725fd2b3d9b6c062b3147835327b3e8f87b71314af5c63ea135a1b32369f33",
+      "text": "One extremely common pattern for AI-powered apps is to provide suggested next questions for the user to ask. This lets users who are not familiar with these interfaces get started quickly.",
+      "hash": "8ad18877d840d48991098a0eb82f32de5f1455d4e65a3294ab278d1c3ad16e10"
+    },
+    {
+      "id": "bb4fc48e1231e4dd3a517589975a95ccae518f15c0a0c1f04c94550cfa706651",
+      "text": "Let's look at a basic implementation where when we initiate a conversation, it suggests next questions that stream in as the user requests them.",
+      "hash": "f26aaf5c40f13af16833860ed809219531988b1534ab1a96d1a08f4afa977c6a"
+    },
+    {
+      "id": "8cd359843d83d5d00ba12b2955182d8120bbf10d73938de03bc1f273165e9ae7",
+      "text": "The implementation involves a POST request to",
+      "hash": "bb735e3510fb95c8dc6cb05dc80c78524bc09cb05cd9a9e62d8d8e64a60d3582"
+    },
+    {
+      "id": "df73f1eb0a624ceec1afa25417566829940a4924fcf34a3fc4ac6a444d56fd86",
+      "text": ", receiving UI messages from the body. These UI messages get converted into model messages before the main processing begins.",
+      "hash": "060b84d9845c4edc4b028fe6b5e9d6a8f9e80af44546cadeaf8efdd257d88d64"
+    },
+    {
+      "id": "2034beb87fe31d5bedcd71096ef434f88989470efe50bcc139c8154553b889b4",
+      "text": "The flow consists of two streams combined into one parent stream:",
+      "hash": "9a54379b61e82fe74e482605986fc64f893090696051d00e3b284bbf16012273"
+    },
+    {
+      "id": "83e3c901536fa65d95734a430fc550bdc2bb8de747ce49cb958ee0dc9f1386b3",
+      "text": "The first stream for our initial response",
+      "hash": "a18dedf44be4eb55f36fa8b2b0490ae1ef301499593fb280463acd287f71ed2a"
+    },
+    {
+      "id": "5fc4d767f9db2543e491d5ffb35fab5d3c9a5d5d28b55c930c1e672cb5cc121a",
+      "text": "The second stream for follow-up suggestions",
+      "hash": "60f42a80fa6de4214f3f89791619cda2fe5aa4d842d20afc2172219f760c4e97"
+    },
+    {
+      "id": "3333bad58500cb2889fa92b37f5cd927dda7708e044a0a6ae209e656f3341031",
+      "text": "To compose these streams together, we create a parent stream with",
+      "hash": "7df6710f6be65d7612c1ddcb466f6e6aba7794abf4f0ab3ae3e184884a486aad"
+    },
+    {
+      "id": "f38528ba9de44693bb49578c6d8a196a790d57890829cc5a9ffe16754399b1a5",
+      "text": ", which exposes a writer:",
+      "hash": "9bd463e2d9beffe6d7f0460bd312b2a2e955509b9c2c9e63668483a36308bf16"
+    },
+    {
+      "id": "46ae7bb07891e2ab806b1acbe38a8ac5bc850286cefadd7a16c6b2b8493fe713",
+      "text": "Go deeper:",
+      "hash": "15ad3d88c6733d9b257c322d3afecc9bce2b18558171007db87598c118ca17f9"
+    },
+    {
+      "id": "35761f91ff2951e898e1e2a6606a00b73cc8a6747e4c356360660870c9e4bf34",
+      "text": "join the waitlist for AI Coding for Real Engineers",
+      "hash": "16c3492a8464a0859c944e287a9d433e9a2635f22a6bd8aad59f88c3e80ab732"
+    },
+    {
+      "id": "aae12f8b3f54f2b680c7ab8dbf9187b087fe90f4c83409a938a1d336f2989f65",
+      "text": "Here's how the initial response is streamed:",
+      "hash": "8317236677f273e462a5e4950c56747c3772d28852a3c62b8dfbacde792e2583"
+    },
+    {
+      "id": "206b287a50164110328b6fd0503e64f0b27b2f81842af760c7ab10d083a40983",
+      "text": "This function calls",
+      "hash": "88cbe29fb3d0274539c2eddf336b1d474afa3b2e28f0443091aeb9e4e50a846d"
+    },
+    {
+      "id": "44f67470ea895dd6b03ccaa75c042f5e028c923e6e7bd7acf87673678f3fd092",
+      "text": "using the Gemini 2.0 Flash model (though you could use any model with the AI SDK). The stream is merged into the UI message stream using",
+      "hash": "b87b52940b0f69d50954a167db2ef9a5800dc6bd28d624cff22be0a17c278011"
+    },
+    {
+      "id": "7c3b4fb4ae80635b089016789f2be956ffe22ec7cd9a886b6b4aec13bc3f47fa",
+      "text": ", and we wait for the stream to complete with",
+      "hash": "fa23c987db96037f4b881a257794f36a44132ad3f077f19ba31e2d6cea24756c"
+    },
+    {
+      "id": "c053ad18539606b1745560d94cee3744070897082e0638db687fd111d10259ca",
+      "text": "Finally, we return the messages produced by the call, which will be used in the next function.",
+      "hash": "26cca669de5dc2e7dab212f13e76d9d85ad4a5e2c7e47b91c4180a813a8f1a6f"
+    },
+    {
+      "id": "d988925cade7024d0a24f53a23c16804ce27cecd924ed7d751567a6131727965",
+      "text": "After getting the initial response, we pass both the original messages and the response messages to",
+      "hash": "4d99b26d3fc1cc5846b055e9f807a87d10fabb35f77119800a3849c539bf0e70"
+    },
+    {
+      "id": "296cd371fb0e2d7f248bf5e90013f3a3527fd010fae12c15185d0f431d802f18",
+      "text": "This function uses",
+      "hash": "8498130911bacc2b7e77af62c2092f0ca80fc0c210d26e2d5a7071c5a5233ddc"
+    },
+    {
+      "id": "22c8199dfe4526f000c858d60f1e2b60c3e69f0b9759b1e1189bf16f219220a6",
+      "text": "with a Zod schema that defines an array of strings for suggestions. We could add a",
+      "hash": "67a7c716f4047237d93d2ef5219da2ca1167a7fe72af82c015ca4b75f2ba3298"
+    },
+    {
+      "id": "ad06a95cc6bbbe67953a58253f63be34a7cf7d458040b040e8fdf254c9315ae2",
+      "text": "system prompt",
+      "hash": "e16202309c92180728dd7fd1c59f16004a6d5ee245538c28d2a9a22edf2dd2ab"
+    },
+    {
+      "id": "de2c45d5ef35f32c66ad6f449158b80806d7534854aa7cc3cb9db9a133af143c",
+      "text": "and further context engineering here, but this simple approach works well enough.",
+      "hash": "d2c443f8247d0124dfb910bf0b9bbb172486fb54535517d78a8a00392e20dfa1"
+    },
+    {
+      "id": "f69d98542b71aaa0503ccd7b66bd390779b3b7933fc2a0ae4165ab12bfa567bd",
+      "text": "The follow-up suggestions get piped into",
+      "hash": "232b5e3deb11275ec0125a76bbe67f5f3f64b2215b84eadaf78b395da364222d"
+    },
+    {
+      "id": "fd33518f027d1e747e8277c486fdaf0990244cd9a066591bc3cf521da8bbe6db",
+      "text": "The suggestions are treated as a custom part of the message. We define the type of this message by specifying a",
+      "hash": "db3b57a85b7e0f052be96da07870e17d712e4c6bd56365e9b329fe3b0e4cdadb"
+    },
+    {
+      "id": "3e77b6648f307a1b493c13b68734c4ddd11c5333907fa451c5de0bbb1b7465a9",
+      "text": ", passing",
+      "hash": "1260ed790fd2ce26e7fa2f9ffec7b9e138041b184449014825c1b62b0324f988"
+    },
+    {
+      "id": "51b3f18c746937ccd4e6955177841415bf173835b1021330bf452ff6e415f4d3",
+      "text": "as the first parameter and",
+      "hash": "1e08ad9da45c6541310fa53d92f47af526cd93f0770e06362add0cf27fe54684"
+    },
+    {
+      "id": "8480fbcf87c47bfc508ab65413a159b85f6742bb5780aedad2c637eb0457c54d",
+      "text": "as the second.",
+      "hash": "c34112d59c7fed84c148b0ec12769dbecbcb2399eebed81b3c96f1c85c257225"
+    },
+    {
+      "id": "e78819dc6edda209c4bf2fe78f4a46508effddf2f1608558d0736f7748578751",
+      "text": "We declare our custom message type to ensure type safety:",
+      "hash": "28a7613cc5d3033ec749f19d43f403e0e05309cd5d0564b10a7f774611035f07"
+    },
+    {
+      "id": "439896add05eca0ad377b038c32dc081c068d208577337b87c20df7e4a4b3b17",
+      "text": "This makes our code type-safe when writing to streams - we can only pass in a string array to the",
+      "hash": "b2918ace438ecbd8ce6ac629a85281c0d10b1e4a295bb969bbe4dd541d0dcbbb"
+    },
+    {
+      "id": "94525faa9db7e99f4163f69391c42c2bc85d2ca79ff0f78c7de86daf00c07a87",
+      "text": "part.",
+      "hash": "c80f6f433e603d1d0d67a412c4a2855a4fa18473536ac806ee534e5fa2810206"
+    },
+    {
+      "id": "c664ccbd8c45696e0009926eac789971a0bf5500936c5592d2980406be5e628e",
+      "text": "In the frontend, we use the",
+      "hash": "6c3cb8f27f507975c4d9e9cd7af03e5350e95df57f747709caa259492f99e487"
+    },
+    {
+      "id": "da46d692f93834f4c00be3632bc357272d4e914b09fc48ba8ffa0068652f458f",
+      "text": "hook with our custom message type:",
+      "hash": "e9d80adfc31894f9902141819780e50dbeba3a6867f31b1eb0b14993edf01bc3"
+    },
+    {
+      "id": "6a5734004e0eb86e7f7a850241e4f70b4d740c48dc34b234a2c3096634f209cb",
+      "text": "We extract the latest suggestions from the most recent message's parts. These might be undefined if we have no messages yet or if suggestions haven't started streaming.",
+      "hash": "e1b006c9cf23e376f150446139f7a01aa5e27b5b52de0242e1a83b098c05ba0f"
+    },
+    {
+      "id": "9af579dd1ba6fa1dc04c3a73c98228292b0694fd188073a39666ebc44a83c209",
+      "text": "The suggestions are then rendered as buttons:",
+      "hash": "38aba93298fc78130bfff3460619cba7447b52b9643833149661e366ac48b315"
+    },
+    {
+      "id": "bb232b324f307e57e11f1ef08215564ddddfe412f4cc6a056ba98e2742b8b3c0",
+      "text": "We also provide default suggestions if there are no messages yet. When a user clicks a suggestion button, it populates the input field.",
+      "hash": "1014eb3c0c3fe4cd6164d7f07405f9c90dda8dc7965f2267ed51b8af62aa15e1"
+    },
+    {
+      "id": "6fe0b3632a6cf604cb918815f5172641e8788548a551048fa68e997c55aba2f9",
+      "text": "This pattern allows us to stream suggestions to the frontend in the same API endpoint as the rest of our content, creating a seamless experience for users. The suggestions update in real-time as they become available, helping users navigate the conversation more easily.",
+      "hash": "a527fa74a6db0f188e9371ef4df42e9eb0b298be93d5f8770b9b488edce55bf8"
+    },
+    {
+      "id": "5a2a0636d2a373371af9d4f288a77a56e67a36d8de64fb4a2e59d7153ea342ae",
+      "text": "The key components are:",
+      "hash": "6b3f02d3bb03d62ec74927d2e8aa2bf9dd83a725b8727dcfae560a1bebf15156"
+    },
+    {
+      "id": "2310fb3c83f4f8aa4ef6e9472e3cb1125c4169356f581d1f3dbcbccef8d780ae",
+      "text": "A unified stream combining initial response and suggestions",
+      "hash": "2f66fef95bc0c0356eb5c7326b1ad3177588b1dd204238437fd1902c54ea16a6"
+    },
+    {
+      "id": "93cd622540edc344a68de12e57eb7dd8d4c9e3e52ed9e97dba2842f54308f08f",
+      "text": "Type-safe message parts for structured data",
+      "hash": "073b078f000f2ad7692bb53218a0cfa4aebdbb008750d709eb88ccada792c815"
+    },
+    {
+      "id": "d9ec1a60064c6652758e199dc066b73cf69c153f5ecce03ba596ad3572d3a2b9",
+      "text": "Real-time streaming of suggestions to the frontend",
+      "hash": "9ee95626bb36158622dc7323eb27cd4d28cc1bc776717558d6ee03fae28c47a2"
+    },
+    {
+      "id": "c4d08db820b96c58d74569642ae77440334396cc27a29313b3a168519a6f10ea",
+      "text": "This approach creates a more guided, user-friendly experience for AI conversations.",
+      "hash": "b295fa217905a6928d72a6141ff376c414bd3a8192828d854dee1892d3385e5a"
+    },
+    {
+      "id": "92caa251944b247ef7fd10f4c282581a3ce59413e66f61618562062dbf116688",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "a875c4a1cb6c9cffa20eb6e4b442777c63b522482e4d1383fc05c9b47cf884d5",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "404e742e30c2400677d37ed5d8aa7157419625f61aeedcec5bbdecd6a8ac3e86",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "56d5a9a0bb783b41c101b7d0004f9a2612e999496d44192b07f9c6630c5ffc5c",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "d067bee1305caa20c857f9345b566df9d7f77d1545806960d98c053809671280",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "5d5e5157b669a026dfb4d0b8ce277e023e7434c3c2e06924731775678ce67b08",
+      "text": "Streaming Text With Vercel's AI SDK",
+      "hash": "c8834e359f3b28f367c74e589c38e2bf98f323e4f89d4e707b88ecc0e812b58c"
+    },
+    {
+      "id": "f7a242dfc2d16b3a1abbd3a682b91ed196666bfe84b18e1c86dec7d0eee169ca",
+      "text": "Generate Text With Vercel's AI SDK",
+      "hash": "7388c91ccaa31fb194fd3df019f487082378a9313fb7f89bb0f18e508d10360c"
+    },
+    {
+      "id": "a5dc42d4070f3c5ed7b163eb627a866950ebda6dc0627c98f1cd3aa48d5ee4df",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "6841466049874598589389bd31adba2edb4420f4f6357e2ec427a7f043bbbfd1",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "ea7e9fda641f24b71780005e9d2567112ccff4a2cf86a19ed3e0e69c1c6c64d5",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "8d41652d788782bf710226e37b1af4a65f86e3c48a3e11c5b54dd9d08b1121a7",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "d1d2030d2d15ea63089554877bfe19a6e9d7ecf0d9c7b3efa8a8abb66bf6ad2b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "6ffe68c9bd9ee5325c4368ec934af929727c356d53301f16354b542bfba17546",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "922ca0b1ebf6bb2563f4f8eaa4971e9d3c43f5ecf8f53472613dbcdc0771acf7",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "f3e15847d117c62f04fd77b0dffb1d562b21dad9d621b45d651b69bb3d25f5f9",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "08dc6ccce5fde08f3ae3ff0e6e70357321f1812f00c9d52d8a385716649df138",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "e691452c0ec06fe6465b5e5a32f350aba2a863474605386cf669cfddc0f85bd4",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "973ba03175a311bd82a04a12735d5c9655c6b2f5fed30a5ffab647e8472dca6b",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "0cbce09062e86daa770949b79133a286561ab614bb81d31de99437f349b635c3",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "2bea087b542ec4537f8e3eb78ed424baecb94ff9e6156b18bbcffd8b33d754a7",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "11b1dfd9c56efd21152599dac07242883c111651cac3f675e8905b152da2a562",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "9886462a2c79b66f379990f6092722a251bb9e6c57ad275ad809d5050303fbc7",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "b21edbeef060845684994d59860fae94a004cb3e17e2c8ae09d1ce9a193d4ae2",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "4c8c8b221f12a39468b5ac5fa616bee1aeb232dce50b8a57b251ca49086865cf",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "e0dd447cd5b3e86d48fdea0cb4e4237daef5526b49e1ec5e9bdecaf5d69dce05",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"b1d46u5jbh7xni\"",
+  "lastModified": null
+}

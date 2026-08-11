@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/clearing",
+  "pathname": "/ai-coding-dictionary/clearing",
+  "fetchedAt": "2026-08-11T06:28:37.095Z",
+  "title": "Clearing | AI Coding Dictionary",
+  "contentHash": "2626d6c4b247f21e2529ad1a2161bc32a279ee916d8e1cc469ed20f0473346d2",
+  "textHash": "7b21b25a757399955d16fecb7e341fcd06728c8e11e0718e54e53474701e6b31",
+  "strings": [
+    {
+      "id": "6b1688050a4637f5b1125458b737b78b1b39e097e5f3d85a7ef39aa25e1f95de",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "fe4ea68a7d300fdd1b09328437b24479c6518cbaa8afadbe562db8efd75523f9",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "88deb366ab278a87bdf098e26b831a3997a4966d3eb5f93bd8fc088fc401694e",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "a141628cf07b27553f9d5c863fab78798d2da3069a82362e3f36437ea0e8ffc3",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b90f48d14cad0f85d2d0c581a3a62a743e4057c6e904d238d3a47c050093c2db",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "3e34c95217fdeb4b6442b8d1af38a3aa2b2ab0c9c7b4c180cd17bd9155ddb457",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "868a6628e3993b32c30c87771fb0c167ad3805d38077460452473f947bade9bb",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "fa176c6eb94f7044a91e86c5980a9c5eacf4d47c935cd5005e177ee64a3dd01f",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "73a9d0ceb3fd0b3a94b55e7c0a91d6fccb470b59497c9db166ad776a7fab209a",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "454f40768d648a24eff9d349851debb0119252b08ed7728fdac098fb9888a293",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "dca5af02028fa8ca13efa02d324a8ecb4565fa5b802fd37ea73e80aacf4a45e1",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "ec948497791d0e85f774c81c1a3d3d8f87d1f6c69b9c47f6201ae0383b0e256b",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "f5a72fd88b2c787c5f5c8655f15bada106b32aab98d9b093bf1ec4e78b9e302b",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "9c8215b183fbd43f3df5ea929078bdc1b8de262b0bba2b3ed4314aad145a8b79",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "14c99a33f95cead93eec3c27e2e7dfc3324d533ddbe8d7bf7930204520fcabc8",
+      "text": "Handoffs",
+      "hash": "29f217d5d86062d687fceaed0f8ff7da2900d2b2b33d409e4abfd6ebe310c1b4"
+    },
+    {
+      "id": "9a77805c90f685ffd8e05ae12dddd6146c0d4a219d59576c2d26d82a7eefd73f",
+      "text": "Clearing",
+      "hash": "06648760a765043c7be785f4e63ebea0fd0dcd056d36d53d153208749e757840"
+    },
+    {
+      "id": "060828f14f3fb34ed047fb8f956d3d68ebb8d23df76ca1c40aa847b9924a820a",
+      "text": "Ending the current session and starting a fresh one. The next message begins with an empty session and an empty context window.",
+      "hash": "eb7562c076bbf2b51e0ca0a99e0ea61566cb50f86d60a4805b95e26bba86d511"
+    },
+    {
+      "id": "09353e8493af9022cac1ba9022f10049d82e1ea5f0be4a0d9a3ac1612f75d0ff",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "9764fd25daf8f8ecabc125244bf737ee1d917bc4b49491d4c8634cb1e8c416da",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "29e5e5cd33be1486540f9d050b2b0cd97b9f56e67878b06a61b7677405047abb",
+      "text": "Ending the current",
+      "hash": "fe401eff5ce91b34ea7690d6e4f0044ee89e3a94fab0baed787d23bdc83b203a"
+    },
+    {
+      "id": "bb02ee57c9d4cc627fdde31db13fcb55628ab00a0326cee14f8781b98b201f91",
+      "text": "and starting a fresh one. The next message begins with an empty session and an empty",
+      "hash": "3c61a61ee00c084e44a982e8784fa711d77f3748d72728755fd0e733df4797be"
+    },
+    {
+      "id": "dfd9d6bc3d74df1d119e864e482f97080a7ea1cc1047a89a12152f83ab0fcfd6",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "e97265ae74579475c9acb12c55ebdc5cb094435f6c6dfa9c213cbe8e1409e97f",
+      "text": ". Usually user-driven.",
+      "hash": "62b0c322de256dbd6908a8ab5339cfa94e3553ddd4480515f676cf54e44ae3db"
+    },
+    {
+      "id": "10f0b9ccb283049d78617b2d0d1d70758da8995bbbfe8e6b0a138be005f05f1b",
+      "text": "Clearing is the cure for a polluted context. A session accumulates everything: failed attempts, wrong turns, stale",
+      "hash": "934284f4da829068b7add2e49fa5e94bcde503587b7d52018871db52655c4fdd"
+    },
+    {
+      "id": "a3fe2912d45da57924e4530c5d63b631b7258c8c1a8857f58fbd2e9db0171fa4",
+      "text": "tool results",
+      "hash": "a5594e12dfffd8e54c36d9b99bc31c7d41f0389d2251790338f34e836a3211fe"
+    },
+    {
+      "id": "284128999b408e0c3f45530524aef0a3f615720983b1044abe43256c35a2a1de",
+      "text": ", abandoned plans. The",
+      "hash": "ebbc8bc64305794611a67005a0dd393feaea9dd4a8c4b2eda6709bd2eee442b2"
+    },
+    {
+      "id": "920f8660c2802ddabefbab2e636ac67425dd82c32a63c5cf43e96e6e4614f939",
+      "text": "re-reads all of it on every",
+      "hash": "c01aab4fa1071d1f764e799ef151347fb5aeed3ac5d738012b82cea37bf344e0"
+    },
+    {
+      "id": "60619b174d367a990624b10f978b8f6a1e2443a31352fc44db2c8eb3da49560a",
+      "text": ", and bad history drags on new work. Deep into a long session the",
+      "hash": "a406846932fecf47e0cb3a421c284943198767c713295631ba915e273f5bb68a"
+    },
+    {
+      "id": "0c54d3544cd566c281f8239e9cb8749da69f95d13f543686e3fcffc7ef2aa755",
+      "text": "gets vaguer and less obedient — instructions you gave clearly get ignored, quality slips, and prodding it to do better doesn't help, because the noise it's wading through is still in its",
+      "hash": "91b9bd14b6d175d95fdc6e4189b5ead9ce40b0a31292cbd8432f429f040600d7"
+    },
+    {
+      "id": "3f77d962f3ab7b4ac1be3a7286f46ebadb85978fb8967d72a23410ff6b52a4d7",
+      "text": ". Clearing removes the noise.",
+      "hash": "54b994224773eff5f20698a70ab2712385831e57576d2343ab88565b8f6b3ee6"
+    },
+    {
+      "id": "2988e0ce32883d019ead0223e95a420fdf56e563b3ff45d757d9643923f1e58e",
+      "text": "Clearing doesn't erase the conversation. Most",
+      "hash": "e102f14ed985e424be03127f26a6f3a9cf822daca6092bfd48185fe72226da0b"
+    },
+    {
+      "id": "052eeaa6a2ed992fb7b9ade37856919b00f78c7a1328e2700f181baa4d5e76af",
+      "text": "keep session history on your computer, so the transcript is still there to read or resume. What's gone is the agent's working state: the model is",
+      "hash": "ebef3a5a9e971bd1fb7f93cb26543cac21c317815ecf84a0050a65803a2fb5f8"
+    },
+    {
+      "id": "6994d723b01eade1aba93ad4e1bf790973c016d964753546c000525915ea78c8",
+      "text": ", so the new session knows nothing the old one knew. If the session holds decisions or progress the next one will need, have the agent write a",
+      "hash": "a33bb23d6f387ba3dd0b525069ee97f90b0594e8203ef0d3007ac1b1125ca145"
+    },
+    {
+      "id": "78490633fd3fe5236cd6acf6e941b2c4add98451c6cf0cd34eabd7b9984ace3e",
+      "text": "handoff artifact",
+      "hash": "741619a26b388b5e1035994e6e7ce6c59c885ebd231ad21f8d9ff02438a0cbc9"
+    },
+    {
+      "id": "77a0b728f3d7466facaff9e120bb9113e2c02b01cf0681837aee2ec2b04ae829",
+      "text": "first, then start the new session by pointing at it.",
+      "hash": "bd21fc422bc14b8ac9daf95628a13f2baca37450509617dea74b14ef221c0413"
+    },
+    {
+      "id": "a5a093e940f8430d50bce646c5d62280af465bf08186e8a02a7f05154023bf94",
+      "text": "Compare",
+      "hash": "e888155d8c7d2e3c3f9eb1bf57e8d81ba1a3c182b5e94b01e09de2cb2cca81f9"
+    },
+    {
+      "id": "899c9ff2a68c074b85ac6e3f93ba928bd79829fd6d99ed89a850ab1ddd7d4e55",
+      "text": ", which summarises the session into the new context instead of starting empty. Clearing is the blunter tool: nothing carries over, including the junk.",
+      "hash": "0417c8b99b847d726977e0d2742a8d7b68709c09e370059df6c70a5ae4f1ea30"
+    },
+    {
+      "id": "cfa5a6e566228e6a341e5fba61fdcfe6c02771ee67fec1361aadfe1c0d54cc29",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "2e7bb916119b6ac3a0ea25c24c731c2c281b2cf43d774dfbb1ffbfcfc4bfc701",
+      "text": "\"It's stuck looping on the failing test.\"",
+      "hash": "5ab8f7121be2de024c6d59aabb22e6bd5935c73f17ab8419bbe6cdb1118b8bcd"
+    },
+    {
+      "id": "5f642ba4dd38630e64fcf38defad3b975fa617da554fd00f5df77e03b79aa933",
+      "text": "\"Just clear it — start a fresh session with the plan doc and the test file. No point fighting the existing context.\"",
+      "hash": "ad62e1ed97710889e060f8396fd3a983abf8d7d592442f436ff40b7191b98bfe"
+    },
+    {
+      "id": "defdda1337ec02324023b50bdb6812e87cf00bc025819353b55d8e78381c6b6c",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "38b16a3194acfb6628cf58232027886b378a6bbc84529a871d453353585f9aea",
+      "text": "Smart zone",
+      "hash": "1d6692e2d3e60ff1a5113a02cc9524ca6a226f294b75c980767702844a9240ee"
+    },
+    {
+      "id": "f36d2c213378b2fdd5d09c7347fdf95d3ee3cd03860dddc31bd43aa83a082f8a",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "f6bc7138caf6bd6d348854c9710b44c4f507244b95d587ca92984707cbc75181",
+      "text": "Handoff",
+      "hash": "f89e2d72da00888b27c938fff1eff1d138fd49fb664d0269527a69e746ced479"
+    },
+    {
+      "id": "2c51bcc99f128467f5cd3b00f5028a09f0b13e45345147f4104ebf6dda9db6f2",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "ef33ae3cbb7188c6908e1ab674ced7a9b0bbf3062a08f0902c6b765b657947b6",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "09616bd9d28f33d231a7097b024010bf18ee5c6095d2dc30d496ec4d306ac21a",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "70a6e4af094a5c74e7618d4a22cccaa297bc1496b4fba1a4e5b5a3bc738bc75f",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "36ac2f7282515cb14c92f4195ada636703cd47d61d2697e7d8600354a1287bab",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "3d6c60b5fec5637ed3f9a16248a5ade462a47df5427682521ce4e631c8899040",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "eefef4225d90ff1e3b5d7ba2cc38c97c4f7cba7d5aeb947d8f72df96e03c230f",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "0ffaf0a6996e1675745d7c27154b2369a3b534d4aebffddfeea6aa3abf8f72fa",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "9e4562266cff4b21d5b6835f4df48ec8e1ce246087b41c1acd32de797e978107",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "ed9267adb73f21dd869ab0993271a1340043438159fde1b7290dc08121ca92ad",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "b9b2889194060dde69807d7e20fee05c7713467207ec2ba8974d08a5236e1522",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "38e3b3f776815f3344996fb8d4c6987ec62e117299d9c2822da7d5dce6186fa7",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "1556e720b22e22ddc3ee2a4bc4775028ec254d9ed7e365728c0b48ee5524098b",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "2838947a102c8e42c1d3ab4508fa868da5732d95630bf0edba0c4518d4dd7269",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "c88acc8a722926d5fa4eb0a75456e6a6704fb511c2f147269e264a69c6001d47",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "379198f0954b5f92e49081b6a50de9a3b9665c122326e661753d47f83bf40245",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "ff1b53a2591159903e7b3fc910e283d2e80236749532ec7103c6a7aa570a1234",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "f39833e3ab11710252fccf6dac0864e456f58c93d68151c7d9daf58e89a03465",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "af8e156a19c449f21bb2ffeab9213325b424ad323f6326d6329c52ab39e08848",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "d70fea4ad23cc07e15fbe018169d864aee308a2f3efaa47724e1bbcaea9434ea",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "2b58025e51c9104b0aecf15087bc450d948a7789176fa5a79a70113e6a222b60",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "c3f03d4ade2325a8cc9a6c142173645f1eefe18fca890266a68fd70386475260",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "0ae47d54bf0fafc2cc35bf3a11b854c445dda7225274c1c05f5f873b2b332e7c",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "1db908c4adc8b2462264d79755e43e2fe75ce2290e5e24855736c2ee9460d9ce",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "81df260aee9c7b8ebcc5442143a0c6bffe71c7f2fcf7a82fe6d399c7f3391762",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "217f19df2f089dece27c3359e701fe4eaf9fba8bc93ea05d3c26e0e940a59a52",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"g8t5fxbhwy4qhd\"",
+  "lastModified": null
+}

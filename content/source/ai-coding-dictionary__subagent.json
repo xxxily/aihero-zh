@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/subagent",
+  "pathname": "/ai-coding-dictionary/subagent",
+  "fetchedAt": "2026-08-11T06:28:39.717Z",
+  "title": "Subagent | AI Coding Dictionary",
+  "contentHash": "67285ea3dd5d432de756fba06dd99f99850a81f513edf35f42310b4d4b43ef3c",
+  "textHash": "910ac3bf35e6484150418d6063ed799c209483c1aa90da70b09c5ebc9a6f4238",
+  "strings": [
+    {
+      "id": "220c47c17881d703255c77143f03569a23b420c581b3b98bf129584c87df7a1c",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "bf47995391daf44421b5cf9056d8439c4b9983d7af6602dac3313f8b286199e4",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "f3c8581071deeebca6f98e3ba996e39c4229c58ccd8e447005590eca56d4298b",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d9f5729f8aabc5864be0bb6e20235a8b4dbbeaa068fb1ade88a7409cc1b6b1c8",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "2aeabca38d88721c814fca0aacb102f3e3d11311a577b9d0a67709974e2c14e8",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "8b1244c3917d40ec4ecfa22e77854c550b24693ac63b0da03c2c128b23a2ed38",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "88a337ac9fb02023074b005415f28548d6fa8420216d55975d2413e8deb67b66",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "64fd89f6c1ad5c8f52f1e98e996fea392f88f87b98d7735f762d224db258cd88",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "d47dbb7f84de22fdbadf24b4916b2de15dcc35832d1365ad12bcbada26abf042",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "1f30ecfbb2d9c7f6089c6e2bde54d3187a310b996d925a1c71fd4522eff7976c",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "f0ff37bd85de8cc6ad71ce3e99d59995b20a102b7a263b49702c8793d86bde33",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "5393823c83a1eb139cc2e547c6429bdeb47fb0034f4633153fb956b16b6ffa01",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "fc3cd2f65954befbaabb4372f872817094d06390be09b30865542e9212aa3122",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "572ea95ec31a8ff11ce51feed8662adcb78e4ff7bc77f8805a53ffd5464d8711",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "15df292dec07cc6ddb153d3bc86b92e353f6723a51c89ce6c42c2f9d8d473468",
+      "text": "Memory and Steering",
+      "hash": "e9396c915a0fb1c9f188708920573d4a5b1ec0a09639049682989999ecbdf3de"
+    },
+    {
+      "id": "2419ec7b376572d5c27f2ae1f9fcfc14b9636ce46c997f00f772b11684fc3411",
+      "text": "Subagent",
+      "hash": "d6cb4188b8fa57aae3e4ca3a1210c9afe7ca995375c2fb36d90a1fa73529a44e"
+    },
+    {
+      "id": "9a0338972084ee765058df0f6ddd0efd320801471b653c5592f63aea0a555392",
+      "text": "An agent spawned by another agent via a tool call. Runs in its own session, reports a single tool result. Cannot spawn further subagents.",
+      "hash": "cac996d0d6691e0c365c3e6322c2f8b3aab33d404ec30849612bb8ce6da825fa"
+    },
+    {
+      "id": "fcbef9566ff93623805e23def26f1ca3336d28d4b2a1cc2270f96cffcd7c02cb",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "67ec1d4877a9dcdb67bd58e4462f198ed9fd54e8d92647d749ff00b8a957a204",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "5d25ace7a968d0131b51c4b317f290a7a0b6f512d919cd7b9b95ec3ef09ea5fd",
+      "text": "An",
+      "hash": "9f98b7c7f071714517d9a5e67c135b41fa3e91f20bac108158b33b073396f6e5"
+    },
+    {
+      "id": "12b45afcbbf58b3b49f11929d96a948b88256eec4d5aa773dcd7631cd78e8227",
+      "text": "spawned by another agent via a",
+      "hash": "fc58054fed98fd916e554f13bffce7224d3700f092aa61b7e19d2bb9b2bb7619"
+    },
+    {
+      "id": "4635f162b26af3550ba98a2f9b011e32da95d6d8a9a065747ba04d94dfc041c0",
+      "text": "tool call",
+      "hash": "56e7059d39717d558a3cd6526f07f33310ec6c83132c1f7692a9fc3a37684573"
+    },
+    {
+      "id": "2d050bc210291630f22e516fb5439c725524afc9e0066e9fb24c1dfacd2f8bbf",
+      "text": ". Runs in its own",
+      "hash": "c54ab29fc24a2bf84b1733a4959533f067c7829141764f0f153fd1d3b6240caf"
+    },
+    {
+      "id": "caf562425ad41c64da6c5b10450162f8721d5c43d3ec570676d96e0ccab5ebe6",
+      "text": "with its own",
+      "hash": "df61ee214cb3b4ba70fa05e6b38e8e7a99adafa82720c6a617aeb08f2222ae5d"
+    },
+    {
+      "id": "09ab65475aca9ac9e4c683775311f83a10b463717292c09ee0adeead138e4ba0",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "fd5b27d8d4d8cfe94e43e1a409d604444ce950b46693f6036a7229cea90d16a0",
+      "text": ", and reports a single",
+      "hash": "861de6ba5daf9ba0c565189323ed4ffa3dd5e03b8fccfd34e0b5c4b03957911d"
+    },
+    {
+      "id": "d4191584016f19019d9316537302e191eb1a75e8fe8b60c2c66e667d5a02cb57",
+      "text": "tool result",
+      "hash": "496514e28de40f2624fbc4fb01c89afaba32fde82d1e1d6c19ab43d702f7a230"
+    },
+    {
+      "id": "2a389ca2ba559721dc7e2ca612fc86b2582fff86422398c321ed0e2ec0067f9d",
+      "text": "back. Distinct from a",
+      "hash": "83b0ad325be018b84587b240be2a8d2f08cf6f681497001b88b61b92d88cf808"
+    },
+    {
+      "id": "f57b4c9bdf35d4b70924218ba9bf3960ba98bd9da77c115ec8b62bf0e4a0d53c",
+      "text": "— the parent specifically expects a return; a handoff has no return path.",
+      "hash": "6fcde35ef051f7688d3cb20b47f0475672b5f96bcd928c388b0da6c548023a44"
+    },
+    {
+      "id": "8adbcb7d978e5b2f26b89a16a77b1f2460d05feac4e3140d7d85e31e46bd3a43",
+      "text": "Cannot spawn further subagents",
+      "hash": "0c567f5133e0f75f37df821021cb3774cdd40645552acf28e177e00962815bf7"
+    },
+    {
+      "id": "93999931d6960ca437ee635cd2108015e8188f658e32a5ac1728f3ceea7bcb02",
+      "text": "— the tree is one level deep. Subagents exist to isolate",
+      "hash": "9ae30ed19c62eb6d99224f051115a5dd36e8794182890ad1f0420c3cad0fbbe8"
+    },
+    {
+      "id": "485317f05924a8f9b1c302e3675b0d9a47cc8653494574af0067bcc5ec2457ce",
+      "text": ", not to compose hierarchies.",
+      "hash": "7d0453489d0aad326d6df0a89ee259df0564fc887510e7fbc40b8d8696ba3324"
+    },
+    {
+      "id": "fce906bd78369d814d80022f985f9cda52a98f81193defce11458970de3cf4b7",
+      "text": "The point is to keep noisy work out of the parent's context. A broad search or a long file-reading expedition produces pages of tool results, most of which matter only long enough to find the answer. Run inside the parent and all of it stays in the parent's context for the rest of the session. Run inside a subagent and the noise fills a disposable window instead — only the final report lands in the parent's context. The report is a",
+      "hash": "d68fbfe89da04d5ebd30f8a96a4cce5ce28d0d597ce0df2899f68c584e9ae359"
+    },
+    {
+      "id": "03e0dfd522a9a737b7d8b734c275c822702781e4754fea6661cd78dbccad627a",
+      "text": "secondary source",
+      "hash": "130ab3f910dec4f94436851c6b9a50abec9e6cb96e7aadf7c47be2e57da1c894"
+    },
+    {
+      "id": "f9c17073e1f8e7c871ac49179823fd540847ad8f04fa963884d051ecadca6577",
+      "text": ": the parent gets the subagent's account of what it found, not the raw results, so anything the report leaves out is invisible to the parent.",
+      "hash": "6e4b2139e781ab252c811ea358e51db1e29f1b0a4640fdf6be362b194c01e156"
+    },
+    {
+      "id": "c6a91d3c046025fe226eb4d7678c31dd5f2f7d461ce10c6c463acfab9ad0254e",
+      "text": "Subagents also run concurrently — a parent can fan several out at once over independent pieces of work.",
+      "hash": "48059f8a4da0865393ed68e83637eec0326c0b1b3121ef0a1080d507eed79a53"
+    },
+    {
+      "id": "f857385ea1f629db600f1ea2053f3ab787329e5d28095c55efd0869a3d5d303d",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "45a5c7d410832be04637fb8f81feed4afa18fe960db75166b514a4cacbd72920",
+      "text": "\"The grep results are blowing out my context.\"",
+      "hash": "f6c2e2f18f6c744cfd11c3eca09daad17dd27296b08f6dea219f0ad6b5dd03c8"
+    },
+    {
+      "id": "937096b071d3f1894ad6f6b9ff2ca0f77dff866c84901168d39f38eaeed9c096",
+      "text": "\"Spawn a subagent to do the search — it'll burn its own context window on the noise and report back the two file paths you actually need.\"",
+      "hash": "3608bb0e84705be8d0727912a20048fc2a9d67417336d4899baf83bdf2be4b66"
+    },
+    {
+      "id": "80657f33486c427e3cf0628ade191ab614ee3c4b3b0b18b8cd064eaec044768e",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "cc7a34cf8f281bed5f02939ffcacf51de132cf71e41780d559f0b9c8957bf402",
+      "text": "Skill",
+      "hash": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918"
+    },
+    {
+      "id": "51a18207d9c0c9e8555f9495135bac251a6c9e977fa5c553805ec1ac75741eac",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "5336616b89dba602bf5283f07d44ea52c0c7f4a11010f142fd1b3013435a09f8",
+      "text": "Human-in-the-loop",
+      "hash": "014893d767fb10c9f698bbc84894647de33135dacd220fcf7b22451b55c64e6f"
+    },
+    {
+      "id": "e3de53983b3d6508504c4fcd03f832b9901b21fc03b7f2e0b083b65f46725e58",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "0ae5188fd16bd5dd0df66453d104386fa3960d118bffeef5831fadbf278bc736",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "1721606738ca2dbc422610910fd1d6e269e98db777abdb482cddba46432fd7cc",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "cc18eab2790f67f1a6cb52388fefbbcb5c4e52e469ce142ceac0bd665c7b1fe8",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "307a93fc7ead113bf92eab8f0a8c0bdc936f9e37abee5baf4f12c84bb4922cbb",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "c6c9e707331313fbc760c512aaa9d8ab70fc1f88d48c5e6ce5a24b25e8222328",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "05f3e2f6eff336ea77201889cdb3a375eccaf95b0c5051e64d9ad2f095b4e6e1",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "2a6033242c8123da10114d61a3517dc19df1c84cf4d86c659360717ad78ab7b1",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "9e8b7258c314f7408c8be95d54a540be784ede999c66701bcab0c82a5c44550a",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "c022dcead7c8bc16d51392b03694167be25e44dff75f0f85b9a1fc356f8c61c5",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "3c969f31c6f1e93e9a961c6d01d75787f7ee8ed064cdaa01bc4e8103b2aaae98",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "a29ab297f2133974d63d7b55326de53e0e8f0729cae8262c2c55d3bd3aa8592c",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "3bf35191ca4b4c3ed0e207e6c54af74c647c4d7790739d3a612c108a8dc4466a",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "95708883e95c5b3a433a4b8de6241084ce65bcff8a51da25375fe78d14797d25",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "2cb3a798dd919d91ae35ffaf7cdf0150fb986450bf977cc62befdcff89dc10c4",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "5144dbe288b4dfc11419238ee4e14cd41676301e7688f57bd3c433c83af96de7",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "9e17413d9ac98462dca9767260e280e48e76559ad0a6dd818591b6b13bd14486",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "8f11e26b4442e53674553ff88e7abd12e25fb49fe34730850147f8ffcabba210",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "37a4472f2a979eebf48113e1ca7674acb943594c9a7fb1a4c2edcc67c438591b",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "f1de2b641d1f27c5a79e5ca184d18e3b722e164df714c0c116dfd7961b3048d0",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "9b2ee9adc17aafba1ad7469368a48c25b6ec8c05a4984b9196193f75ded37070",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "58bf216b44137d5184403b3b6e1a4e9c0ba6db870505144ddf36ec8803252b82",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "ec36be5e14ed804f77a94c799c9d6cd8c1667248546584ce2fae791399bb5cb8",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "d2c3b345067d99499067426aa15a186ae01c0b163c26bc8538470fec069a95f9",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "411bfda2234cfaeaebceb972911a1f75595936440b4b1f3b572583d4312f1504",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "3786b0ba9f22cd9f4fbbab5aeed376d467b31fe3eab0a1b6d048b322bcb9521a",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"12jcphm5yem4q71\"",
+  "lastModified": null
+}

@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/parameters",
+  "pathname": "/ai-coding-dictionary/parameters",
+  "fetchedAt": "2026-08-11T06:28:29.335Z",
+  "title": "Parameters | AI Coding Dictionary",
+  "contentHash": "b89e7ba856c02b80dd1fdfc20f3e426dafbe48f4ea5a5e56f1d48856c68349cf",
+  "textHash": "278d240ca942afabddca42479e2f023ddf5d01e83e57a5e079035989a5e1fd08",
+  "strings": [
+    {
+      "id": "6c7033fd2b27e4bd86e7256f592f254dbc3a8d9169eac0668d0db9fc73ac11ef",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "6b7ee244e50c54e28521606902f75ca329b3151904d27adc5e2eb2da8fc69060",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "ae7d4d9b53d99da4d49351b701d157c5a4d5363c57f7d4d926316faa71960b23",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "b2d0506febebdf16ec12ad0172b31b376921c8d9cf782262d724208fb043a392",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "b0fb59553a83afe60dc3b70fd27d71be5225d22fc7e33256223a3f990c8b7741",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "00fb01803bb87b663b239cc4831480c25256810fed8ccec152e911ed82ce1d8c",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "b7a074edb49051edec7f8c458438af8abfed74593a2feb4360e5e24b8f5ac2ce",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "6f0d57592f2761a975711d6676622c3d037cfb4d02549af59c318a7f93d2def6",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "12c72511f56f2228dbe3a6c5a4c01530193994dec3fdfdbd194ffcc71c13773d",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "ef03d78c612a83079d4b2e5f69ab60b95b8d4cfd1b884171c3ad13a948e26c4a",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "28bc1289749c6af04adfd2ac54a7ca6bef5332baf0884999a5b33a6d1aca190e",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "a8271f18d56972750e12f4e0321a7c188b0f255cb9323c22412b0b8175e0a90c",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "eea6a2706acde2ebcedc9e6e3906ec178652125cc3edf3b5522bae164a9aa338",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "99dadf39d2a09dc273c0ab949c261dbec295f20676e4a769869dbf3b799c0d6f",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "14b3081b320f6160b3b200ce0e87368705994e8f6d48d2c26e928de8d774f7c2",
+      "text": "The Model",
+      "hash": "1954409637324f1c3f2cab102211fd161a6cd1c270252fc2e1297a69ab9a446b"
+    },
+    {
+      "id": "24145e24cae3f85caefb0e38a6073b242f422af1776db6c24618430e1581468a",
+      "text": "Parameters",
+      "hash": "e68b36b17cbd990802f57741cb75cf3a73fa66a61999b0cd70e3cf7d26cfb25f"
+    },
+    {
+      "id": "bffd731318df8bacf6a24c0fbda7b976d690cc744e924ce5ba04fa3a29c99b71",
+      "text": "The numbers inside a model — often billions — tuned during training. Everything the model knows lives in them. Also called weights.",
+      "hash": "2e07981549d106263c7492b81e6a49e974245cac92d0bd2493a48fbea79c6aed"
+    },
+    {
+      "id": "d286bd497db27adcbe14ca60f6c5743f89ffe8b8e96afc06581376c36eb81639",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "857c92e9f647d92043e4cb97c1b3ab1fd3b7aefaa6ddeee68b44e90b7c19afc3",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "9b9e9e469d92f29cdaf044b475df935b45190d1d347bf41bc2fb60a833630c95",
+      "text": "The numbers inside a",
+      "hash": "aecdf032bfbed26e7418aeaeb4e5048fa1827d8a0896bd29235260d5ffc298df"
+    },
+    {
+      "id": "28b1094026455c6934feff148390d21292bc3a4951a990e0b3b8c207c45337c7",
+      "text": "— often billions of them — tuned during",
+      "hash": "fa876c6e65dd503d28c58f0ec28b9d66ee0abc332fbe576dc76d38b9980f9235"
+    },
+    {
+      "id": "c9cb6a4ca35dafde2d29d69fcfd72164848be91fb7428a4e771113fc88855899",
+      "text": ". Everything the model \"knows\" lives in them. Training sets them;",
+      "hash": "6d374f637c9ccc90628fd42f3b9239ac4c14a94a687aa36bc044b5cf209b3680"
+    },
+    {
+      "id": "3bf1913cd9048fe5650e3e49390ad792bd689a9f0d46d190de247f90cf798387",
+      "text": "uses them unchanged. Also called",
+      "hash": "60c3da749af1a896bd07635fcc991d17974937b71cbe2b22f6a2259a12c832b1"
+    },
+    {
+      "id": "4008deb063c36e9fbc2d8260f5a56e1a806c19b64a0b543323b1a1df1135356a",
+      "text": "Mechanically, the parameters are what turn input into output.",
+      "hash": "2d7c535826ad266161cbb2df72e8c1d29f7e641117a2a99d195f21d85b05c596"
+    },
+    {
+      "id": "ca807de48b4160749960faed7fa6151bf511c829a12d293c19f11fd1cd664d58",
+      "text": "Next-token prediction",
+      "hash": "db2e13aa671f566f6c582c8ff074e0b702a81659695c239d0634c86b0e328583"
+    },
+    {
+      "id": "55058c831642570afd5a97e974517c3b53b33a9bb09a829cec78efc33d646ae1",
+      "text": "is a giant calculation: the",
+      "hash": "d128cbf43de900a8d33bd36e3fde7076a40b254aa544343d80418354190747e9"
+    },
+    {
+      "id": "56095c5059cd609589b828bcb5a336d66efb48e64d4cc761d66baebc6935b70b",
+      "text": "in the",
+      "hash": "866ab23f02991a070ef7b06fc39ab77a0e9e840db9d0dabb204735b109d4a52c"
+    },
+    {
+      "id": "bdf21d5f03171241755ac5b33354a392de735a1b9fb3eb42277dcaa6c723e911",
+      "text": "context window",
+      "hash": "6764434518d37f01df452fe2af0af3f314f8c27a72519001ea14189c5ee42476"
+    },
+    {
+      "id": "2e819a4d7e9dd7813f15e545f4f71ea5b5e7550089695632fc756596e7abfffd",
+      "text": "go in, get multiplied through the parameters, and a prediction for the next token comes out. There is no database of facts inside the model, no code lookup table — just these numbers, arranged so that the calculation tends to produce useful output. Facts the model can recite from training, like a standard library API, are",
+      "hash": "39eb2de56fb768500d533d73f7a5ad7e8cc65b1c43194d12f8fb0033e065bc42"
+    },
+    {
+      "id": "cb765df2eecd0534d3283c156916b7a9c8e5301c7a808a08f311a583314d712a",
+      "text": "parametric knowledge",
+      "hash": "af45e8f3199438ecb8e32a5842d362c9e1486e34f1b2d9374b547824e0ceb837"
+    },
+    {
+      "id": "aeb4b146073a1a479d4b11f9ae2cdec386acd2c5ad5cf074dee6fa0a6d3d7470",
+      "text": ": stored in the parameters, not retrieved from anywhere.",
+      "hash": "54620f26ee95ffc79c3333845e6e548f920c9888481cbad36d771577be90bc5e"
+    },
+    {
+      "id": "3c0bb456ca5cbf2c8f6591b3c0e01d671680309bab68bca565047cffbfd7ffde",
+      "text": "The detail worth internalising is that parameters are frozen after training. Nothing you do in a",
+      "hash": "bd7dbe46c4db9c048098f455795347c9234607654bd93226ea6b43aa4db493c8"
+    },
+    {
+      "id": "91a342ed6e3c9571dfe2228a335e105ef9c8081b725dbf25325db9b73c09caf9",
+      "text": "changes them — no correction you make, no codebase you show it, no mistake it learns from. Every session runs on the same numbers. This is why the model is",
+      "hash": "340c239ffc109ea7e3c4a5ab751acc80bfd51c8bd2b01ed079d5b0cd34fde980"
+    },
+    {
+      "id": "7fad1a0ff0400f005325602d341f1c8816e81a419cdaed1ea027d5454a32793b",
+      "text": ", why its built-in knowledge stops at the",
+      "hash": "38190d22a5fd26f43097c95adfa0120d671aa074c15b5d6efbc82600de19cf44"
+    },
+    {
+      "id": "b205c47de8b004488a49e5cc8fb4e9d17e3a75f88e6173708ef5226118040626",
+      "text": "knowledge cutoff",
+      "hash": "46f1820f6339cd5450653d0018ffb90af1d929a074ed2e211dfa39e52b7cc408"
+    },
+    {
+      "id": "94b6a384b54a67793b7edf2052c5174711b110f74ab0513692751c9adf68840a",
+      "text": ", and why anything project-specific has to arrive via",
+      "hash": "f54a90db27631fde6fea2f99af0d57e6b9e453654e83457b2139041282475bc1"
+    },
+    {
+      "id": "d9ec358e8f823f6c488a908043fd36d2507da163821dc4a63df883245e7b8b72",
+      "text": "instead. The only way parameters change is more training — which produces, in effect, a different model.",
+      "hash": "332f21a6f2efad51b78a2b9d07263ca5591f12c0a3c762812f44789cef4f74d2"
+    },
+    {
+      "id": "5085d2e3ea46d91035dfad4fd652c530427412d600528fa424d314b769ef1735",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "d3f57234fb57c0e358e584afdc10417496e0368403615e34e64cded139eb2f83",
+      "text": "\"Can we fine-tune it on our codebase?\"",
+      "hash": "e229944813580fceee14f25c5dc379cf7ae07e881e0baf38d3bb1fe5456f2064"
+    },
+    {
+      "id": "8c61895e46076409e3dca2bcb8f8beea557b0a19c78605a78e722d1c2f1bd8fd",
+      "text": "\"That'd update the parameters — different model afterwards. For one project it's almost always cheaper to load the codebase as context than to retrain.\"",
+      "hash": "6dd4c06b3acb5c15b509c0aef993e352b447e668df957ffc2eec4b670523b915"
+    },
+    {
+      "id": "72aed78e08018e2daa1c209e5eefc2d6dc3ec6dbf67b76b144f2141d52f1e7b0",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "73e42cbf90e3007308e18611230f6938dcf8b4abe151c65ec575c99de0ce5673",
+      "text": "Model",
+      "hash": "5e2c614c23f02239bc03c6c04fcb681950f9e72bf8fdff6be79c79841cbb10c0"
+    },
+    {
+      "id": "4c96f4b3b230f85072e5444c524d359b79af7df0c3dc5b8f5e2f702150e6a256",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "5858135dd65e1fe2f6231a9574fd84a779599d489cbbd012213b2cc5df2688a8",
+      "text": "Training",
+      "hash": "36a798e3f39239ccdec697ee348d2ce0a7b8d2d9087940496e2ca5d0853399f2"
+    },
+    {
+      "id": "d8ad076d0a8eeacaa94d9636287ee3dc6594e919795e82caf9fabb73cabb72ca",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "b6ddceee4f3b802c268c8f53ad6406d539907a863aed9d7cbda49bd0a0659579",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "f260f8a89a7bebd58d44b06a365b284fdc11593c5fca796b3fa1f0ddceeab391",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "7b7a1757aa5409f8cf1612bcdef813c87a1b1d4919d5c2ed8efeb93243b8d5cf",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "fedf24e89dda89ec9a0e60f3c8c8a9182600dc847e25c9eb81ea7a03d5494ad8",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "19561f01297a9ece5a4e70794866273d729aab65c6cc180757115c94b061654a",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "19fa9c362e85284f61d24d0652a08f49180f22299f93dd7a565bddd77255f371",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "6fa972d44654744495b4d8c448e32712a2a0ea4eaf782279027a146f6ceac3d6",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "7d3bc26eff67cbaf828b58066e9035c04f2fc0a5c6e7b3a3fe101000d64fa827",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "b47cf2d353164a17ab843867dfacf060a29a701ebc360309a30bf76c36e9cedb",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "9779be0a3367a4b193469ff98b138ed3547791da94a02b78e3f63e3c593322cd",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "3d5223835c285048c440ed9f9d0bb439967c4b9ddd2f72ad806ccdb3c6622970",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "ec307a08922c24be4a4fb5d2e9fbe47b057e2108abb40e4604fb6c85a1bf6c8c",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "23ac69e12ad8e299d981217d1623843030af7ce1284dce4b01a2886064498045",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "c02d53c6f121cbbd19a8c2d8a0079bf2af4f7023109fbfbb8af900f8917539aa",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "00f2a2059dfa19baccac2d016397169e229a003a4fc2751f8cfeea9e2e24911c",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "4ef4c5f66925184bde5bc23f730213233a8291c7832578998cab7f1059ec3ae9",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "86603480a3e00f77ac0bdb5f2b4fa4f9e223fdc80ea6d17b9dbc4176ad0b5d43",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "1b40d89d5c4e874f62d04e510d6a5eae1a821b6d989c909734c33d5438449913",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "462594e13613cf122d67b85542633aafe3a5b6e1ab6a650acbb3c789139072ed",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "4b785e155a1c1cc03fb7e0b4b14823f00be71a0e22dc1a7133708a6b9eb6f4a9",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "fef503b0715e737628e063959f971b3a90ab9db99ef2fef889a2051c0a142d90",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "6e05f2c674cd4f7507f20f5e7ec79b9560864de38d7e33bea33ad7a2b4193e8b",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "f29bbeed6afce94216e3dd2ff5ec04ee88f2e52f678b9746a92efe903d318b1c",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "183a30e3826d8ddc1253fee78bae19e1fa5a666f2efa5478fee3023a85ef1e18",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "d70e427712be26cd5a59c821083f0a8011db6327c67f325e6968e362e652f805",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"p3o9abjoo44qry\"",
+  "lastModified": null
+}

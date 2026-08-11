@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/how-to-make-codebases-ai-agents-love",
+  "pathname": "/how-to-make-codebases-ai-agents-love",
+  "fetchedAt": "2026-08-11T06:28:13.245Z",
+  "title": "How To Make Codebases AI Agents Love",
+  "contentHash": "13fdb89a3bbc0f31a088d0af3a0a5616e73145465f0953ba5adeaebfd182245b",
+  "textHash": "64816ca0fa24779c79627483bb96994bc03f50247053b817a8b9f27c6d53c32a",
+  "strings": [
+    {
+      "id": "7fb1b8157d88a20d3b6ab8d57b502b60efc1cc45095a04d453cfa7d36a85f650",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "c4bf0efa54f1382098e13b32581d7c267e8042c70ea98d3fb2f55294a3b8235c",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "a799b378b0306dc19c6953114f77d6e432c7ca2fbb6167db6d9d1648e74f57bf",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "3c8b4d78e55f4274dd61c2b3f4ea298007bb9944c51afb05064e4c3c16b8aaa8",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "d0b93d3cdf9379072ec5d13e8d57fdf96b36546b0d0ee80126ac1684e51b819b",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "71515f548bc1c84d1925396b845365afed14e9cf7ec6dfd0b9d284cd2c78f4a0",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "08b542c9371923dddf6f5c86e0310ed5f406689f591eacfa94cf4b22ce989781",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "0624246b5739ff043c354432f718782bba9fec095de476426583f189e5406e01",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "034cd26854d90dae9228ca6965c206835f0a8f7b4a072dd9fd82e6810c86939d",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "156e0ab4ab251144d7def3840df6d1e282eb9d93525ae17fae46847d21b59512",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "ccc3468018d1d9bd8a30dd086bcdf4ce02ca96f788c88fcfc8db7e1994703453",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "4110d452502dc0fbd3797709b8c0a4281ade73e6189fd4b7d125450f5c6a2746",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "272ffa361672e68976849bc58550dc8af26547855ecb3ecef18fb888bbed0d7e",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "45cb07d9855e2b2ba7c18e2edcd42995564d1c7ee9169df73c2743f5f03c1180",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "00a5873050b441f61fc3f6fde4ec9c698e7fdf8ab3cd5261c3405318b30cd205",
+      "text": "How To Make Codebases AI Agents Love",
+      "hash": "90591491b0c0629055e1bdb086a7689081d3f8adf919831d810e245f1d6084cc"
+    },
+    {
+      "id": "510d5b103d32b839581bfc6f17d8c0ff445d9c91e03e4c1a2299d93ade64a667",
+      "text": "Learn how deep modules and proper codebase architecture make AI coding more effective. Master software design principles for AI-ready codebases.",
+      "hash": "eeb8ae5ecf3d35091e35263c0661f5f97159ea77e2adddc0d4f09066b01bfdd6"
+    },
+    {
+      "id": "0dc37d4289a934b849a8fd37582d0592d1c7f58033ad48b589dfc2f6b788e730",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "6ee8101c4fdc69e5089bcb0ade5563782adb04190d7f5cc93920e518df5df530",
+      "text": "Subscribe",
+      "hash": "cc0e38da9c41790bffef1b88af32d39ac285edce93da766810edc237cb2f1625"
+    },
+    {
+      "id": "460c789f9ed55366bbe91e5981298e021802f170ef0a90ab8a9ad96aa693ff43",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "ad2a121eb7982e8b5b74780a87a449eb5075a473ac475391f642d25fd95cc722",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "3ee13854b214b168733a36ea86d5665af276eb0c5c2fa3dbd8cf1a5b4be3f4f4",
+      "text": "On this page",
+      "hash": "b5658fc8edda24f9c94eabac9e536e0a18e3055a8ca255f9d1b8f256ea02a6cc"
+    },
+    {
+      "id": "74f5e35b8b7d40bc367fe9b13012c9d16717b5b5b72477669b5f0bad6fe03e68",
+      "text": "The Solution: Deep Modules",
+      "hash": "26d9cbcb9924fa7e854c4d1c031f978158b2fdc14b68fd2052abc92a892e9350"
+    },
+    {
+      "id": "b68b6766f33a281acc87a2d07357359a0c6212747ff17783c26f59a07d40fae8",
+      "text": "Summary",
+      "hash": "8e76a94ac8320d515375e625bef1829238b097ecbd33611b59eeefd4ffefebfb"
+    },
+    {
+      "id": "9055c7a6ed5360d2841bbf540d6022ed145419bbde55897e30ffbefc8f9a08ee",
+      "text": "Related reading",
+      "hash": "89c21c36ad5ffbab7b05ced367c46013c8d7b8ddf53a8b9739b7b2545f78abee"
+    },
+    {
+      "id": "c607e0163e944025e4ceb182e38cf0b65c6db831f53fc1f2aace45402a93fcea",
+      "text": "AI is not a super-powered developer. It's a new starter with no memory. Every time you spawn an agent, it's like the guy from Memento stepping into your codebase going, \"Okay, I'm here, what am I doing?\"",
+      "hash": "28b923fa0847e3652897aa38aae374cc507261de011beeeeb153fdff9dbf9d3d"
+    },
+    {
+      "id": "8b92edd21f077d633e6920ee259d4c86bcaa03b920ba306ea4c7dacbb98107ea",
+      "text": "Your codebase, way more than your prompt or your",
+      "hash": "4140248b6c4e56573b48aba96ec16dfbc3b877cfb456723d611293ad1741474f"
+    },
+    {
+      "id": "a1719a5dc9614ac07089f5b64b71aafbf01f88e37075157ef6d91067ea8d38d1",
+      "text": "file, is the biggest influence on AI's output. If it's designed wrong, it costs you in three ways.",
+      "hash": "a1610029d1c1846ad60404d5162f6698946284fc18e711b38d3ffb26258f8bf9"
+    },
+    {
+      "id": "85b1123f93363171fbb9e67bd329cd5ad8da735a1db4750b21a47acb9f8d2429",
+      "text": "Poor feedback loops.",
+      "hash": "f07732d849d938d66d5f12b61c6b872283e0d3b3ec68403c9807af61a51e623c"
+    },
+    {
+      "id": "f17340b3b2a4922324149f6bacd7c6cf809a688570b6f6dea4ae1315a4dbad54",
+      "text": "The AI doesn't receive feedback fast enough, so it doesn't know if what it changed actually did what it intended.",
+      "hash": "7769d03b2250747c890244e03ff0686efa1587380cedda02e3f1bceb02a8007f"
+    },
+    {
+      "id": "bffc98c956fdc35c0110c8b75fc876fc234fb14b18e24cd6f3d89c97e0596904",
+      "text": "Hard to navigate.",
+      "hash": "0fb71ee4b07cc0fbd3826bfc3f2231b5ee804cefb27bd26d68823cbb33b73648"
+    },
+    {
+      "id": "60d59ce590a9aaa99beb456bd176600f02f258c555aed4f3e9c994434dace1f8",
+      "text": "The AI finds it super hard to make sense of things, find files, and work out how to test things.",
+      "hash": "faba5a336a02d2154ec7b30e685efa84b6db3557a9ba5d147d918700cee179ec"
+    },
+    {
+      "id": "4e592390c0433f69dd0c960a02a30c205794d59780c544dee2e89192791aebc7",
+      "text": "Cognitive burnout.",
+      "hash": "a35299857e32dc5b984d8b5702293db978a2a4287ac3cb147538b29779906145"
+    },
+    {
+      "id": "8b4dbeb453ee2d4a32b0e7651f84257565dc0e27503920b4be9dac087021fbae",
+      "text": "You end up trying to hold together AI and your codebase, patching it all up manually.",
+      "hash": "a1ecd62e27ee1b9b80cf8c28b87afcb2d61090bc11fbd5716017b777ab08b875"
+    },
+    {
+      "id": "f823d09dcfc9ee459f176a79121b3c848942fc41efa0fee4664978123d7f974e",
+      "text": "What AI Actually Sees",
+      "hash": "dc21bbfe9ef70d6f50dc47b0d5ab57d599a1fe519526b49c6e9fa9d7fb739649"
+    },
+    {
+      "id": "0e20ada0fd1f6862a364c0a12b67bbcb47a56987e197a144eb87f29cab90cc65",
+      "text": "Imagine this is your codebase:",
+      "hash": "392a99a9231e537ac764a1eb5c0acea1069f6b036723479fc4929bd3697c0fc1"
+    },
+    {
+      "id": "538d2c1cd96c0f2077112ca9064e2c7936d59881629bc91199c067b5031a7946",
+      "text": "Each square is a module that exports some functionality — a function, a variable, a component. Inside, you have vague groupings: a thumbnail editor, a video editor, authentication, CRUD forms.",
+      "hash": "13a71797cf996c6b059c7a9ef8ddea8a92562487814741a64255d89a865b0290"
+    },
+    {
+      "id": "dee67b4d84b3e9d79fae906fa649ea1fd188e6bfad2b3a9db5268ffccae20ff6",
+      "text": "You understand this mental map. But the AI doesn't. What it sees is this:",
+      "hash": "39f7e6925db430f8d4346674d6ce26f299cd2797f7242c70be9a65455f2813c2"
+    },
+    {
+      "id": "f444d823207f4a0d40fbf596e681816105272adbcb8d6c8ee4d7caffcb1b34bc",
+      "text": "A bunch of disparate modules that can all import from each other. No groupings, no relationships. And the file system doesn't help — it's all jumbled together.",
+      "hash": "bc24799d032d1cd08d718323a5371f6f50cabaef62b5fac59f43dd80db9a3cbc"
+    },
+    {
+      "id": "4cd44775cb070bba034fd73d62fc7e9afb61556d9e929131dd66fd1e0e9e336f",
+      "text": "You're spawning 20+ new starters a day to look at your codebase and make changes. Your codebase needs to be friendly and navigable for them.",
+      "hash": "f64807a686dcf6fa9967bdade13cf04ef9a98e6ef80b21d5100440d08f6d34ba"
+    },
+    {
+      "id": "aa1b007793fc8a8d5fe3ff2c5027a63fd7ea7ce6f99e156237f4d737e3333d3d",
+      "text": "The file system and design of your codebase needs to match the internal map you have of it. The best way I've found to do that is with",
+      "hash": "3b3d5d9d43bf03c640dffa38a23909dbdeff6e32dad893ad67377c119ed5560b"
+    },
+    {
+      "id": "1409859b1c21ca2b92209800641b649d0ffc055dc041cc7b3fbc7c8940e6e53c",
+      "text": "deep modules",
+      "hash": "d9c4a66dc00af00add3212f6ae314cd8af5fd6d409c450432ca09c9064cb075d"
+    },
+    {
+      "id": "8287ea4b044543d5f963d9175641a6345c83816b3cff5295ec7d3997de9723e2",
+      "text": "Deep modules comes from \"A Philosophy of Software Design.\" The idea is simple: lots of implementation controlled by a simple interface.",
+      "hash": "ff07bfe729cfe4c527fabd99bdc0e557d37bb3cd6c598edbd940810a7796200f"
+    },
+    {
+      "id": "28b65f74746637ccdcac9b6cc5903b61bc610b6b7a73d71f7933bf1a4894a2f7",
+      "text": "Instead of many small modules:",
+      "hash": "fffe493e424ff639da18e0fd0bce445a02f72cb3b03117183cfeb9730ddeb5c7"
+    },
+    {
+      "id": "6b9dc402c32ba9a9b8bdc9a105be0f52eefe94bf82c01505b90bace07f641524",
+      "text": "You end up with big chunks of functionality with simple, controllable interfaces. Any exports have to come through that interface.",
+      "hash": "255931ecced776f216d9b6d3f16ccc738c9e93786a5d81c344d95381428c177e"
+    },
+    {
+      "id": "90e214c7173f19ffc253484c0cc5d0e17b080bde48516a521157246a415ccc18",
+      "text": "Grey Box Modules",
+      "hash": "6fb38a24d747ab67c06fef33791257e23920daa78423516471231fff7a7070eb"
+    },
+    {
+      "id": "902b43be1c6f7e95a8a35a536d76a9e401f4df5322726f609bae4689d06c2efb",
+      "text": "Deep modules create a natural seam in your codebase. You carefully control and design the interface. The implementation inside? Delegate that to AI.",
+      "hash": "39262fe0346e16b8429de3d30451abd8b63f7b1ef56f5e53726b686aeabd2d4c"
+    },
+    {
+      "id": "56fa57039ce11510fa0b9985fd40a357c7de17a8d04597083310dbfff0672bfb",
+      "text": "Write tests that lock down the module's behavior. Then you don't need to look inside. You can if you want to — to apply taste, influence the outcome, or improve performance — but as long as the tests pass, you don't need to care.",
+      "hash": "f5f2944af74e16c774e09b6d816adfb455d0fda1e5599be35e06837f996c1419"
+    },
+    {
+      "id": "e56311ebe967ea4588f73a9d9218f386437ffb9627d3da5ef9104ab536992fed",
+      "text": "These are",
+      "hash": "c3b331519d66fde7cefd593212f5edc21771bffe2cece9a5c3045908525c334d"
+    },
+    {
+      "id": "310d0d3d5f0572462052c6963a1ae98aae6f9d4013c3ab222b511c81b0d733a1",
+      "text": "grey box modules",
+      "hash": "50611852031c46a9245c82f43675c2d0862fc6ca9451b191991f12b7f300fe09"
+    },
+    {
+      "id": "aca32e8668f0eb3a3b85442bcade475d1c6452090c86459c8ea9dc5b0b743d4c",
+      "text": ". You own the interface. AI owns the implementation. Tests keep it honest.",
+      "hash": "b1821d5fec67ab64a70e849b513928109eb4d4b1977562baaf8332afab365e8a"
+    },
+    {
+      "id": "714b390d4bb7ea48d6c2294dc6611c1c6a2a9fa84ebe140a4e1cf187a4ed88f1",
+      "text": "Improved Navigability",
+      "hash": "66e5164c7b1c1509e52805a88bc2029ec1cc862e4031a046af22fa613f8944cd"
+    },
+    {
+      "id": "1d1643674755dab837107c4de83c43830adf88b53b9a8dcc884a1441785eed14",
+      "text": "Give each module its own folder with a clear public interface. The AI can see all the services on the file system, read their types, and understand what they do — without digging into the implementation.",
+      "hash": "27692ac95b49f50f1e39a3d2481559772b8a8cca0ee347ced9b00065d27dec5b"
+    },
+    {
+      "id": "81978e15e4aaa3636db1857f8ca8641df4513a98a8fee0e85e8eeaadc56ff6b2",
+      "text": "We've designed our codebase for progressive disclosure of complexity.",
+      "hash": "86d6fcfdcf550295df78231c6dde13d186c2ca39b28d1cfc9538c0d824115648"
+    },
+    {
+      "id": "b528d9261abff105ddc5c597e47ec12d762fc4bc2c40b3b8bf5c1b600684fb13",
+      "text": "The interface sits at the top and explains what the module does. When we need to, we can look inside.",
+      "hash": "37bb074cd252885ca9660471c6e060f0f462a1a509a3704b6c96f59d5b3f87cd"
+    },
+    {
+      "id": "24e08afb6e963b1ca78035900eb23be3b59b29b2d3c246a1512e5ab187b28025",
+      "text": "Reduced Cognitive Burnout",
+      "hash": "cf9dcff329d493ccc8f6b861f245ebfd0edd953e81367832a51debeb2e5092ad"
+    },
+    {
+      "id": "fe81577ab38ae19ebcb49f05cfef8d2f276c54115a02d9670827355af346811d",
+      "text": "Instead of holding hundreds of interrelated modules in your head, you keep seven or eight chunks. The AI manages what's inside each one. You only worry about designing the interfaces and how they fit together.",
+      "hash": "2c5584ddcd534b8b614df35e277bc42caf814d49ce17d24d794700b6e3b6f4b8"
+    },
+    {
+      "id": "0d67edd8374fd555f7512aa7b1a6b6706db83948d6a71cd792ed82a14a296844",
+      "text": "This is still a million miles from",
+      "hash": "3e4cf1847a4f3b896aa515833ccd57dc4eeba31f2c3e6be80249fba992f55fc3"
+    },
+    {
+      "id": "819f85fbceeee44860812480a93a3d99846e894b370a5bc12fa925d7bf091f1b",
+      "text": "vibe coding",
+      "hash": "2c56afdd8aa6c70c2471dfe1b3d1128a5c0a657c1f77484e7ae1152ec8e982b7"
+    },
+    {
+      "id": "6dbc373ad8c8dea527194fbd2376fb1c769103fe7eabf9d49f5e6f57758bf679",
+      "text": ". You need to apply taste at the boundaries — deciding what goes into which module. But the mental map is radically simpler.",
+      "hash": "a90f210642ce2cacf7cc2d2893d5f6dbdd3c4022303238b14e6cf68589bcc71c"
+    },
+    {
+      "id": "c9f423647acc98160d9d1b052ef8994e38cc1f33b4824b6ce592ba19b786daf9",
+      "text": "Good Practice Remains Good Practice",
+      "hash": "084aeb1a97a1558c25cf8b0b8ac6934cfc3b83cee0643b0143eb52d53181eba6"
+    },
+    {
+      "id": "e90ec02504d40f0fbe361a09977fed30002d3c5205f77180d067ad5c7062302d",
+      "text": "This is nothing new. This is how good codebases have been designed for 20 years. What works for humans is also great for AI.",
+      "hash": "33ab4ac14960c4c4c8c9b2e26f456f3561bc95b7593caec39d579a15ca30cb47"
+    },
+    {
+      "id": "d7e764a8ec5e3405433853d6b37f771041618264dc0b26069ae8c22387d86438",
+      "text": "Related Skill",
+      "hash": "db8be882272175e40acfd7c7b6496c7a74af12e65b4232e53d7803ab40f9d69c"
+    },
+    {
+      "id": "b28b450776187cdf1eb14f2d4be8e84dd11997c1b69cf935de04036873962b45",
+      "text": "Make it agent-friendly, automatically",
+      "hash": "4e1a79cd2b41f99352f276fa2791b281800e94dc5c7a6f6ba6a00c7618acfa20"
+    },
+    {
+      "id": "184d5efa7f9eb49713c4f0bc67e4e0377edad7eef7d1eba9d63dfe0e57ca00f3",
+      "text": "/improve-codebase-architecture audits and refactors toward the patterns this article describes.",
+      "hash": "d8daafe1c62479280c0d0dcc2998fcd3bb1f56c7ac87f5a384b4ec269511ed97"
+    },
+    {
+      "id": "6058bd27f6003424ef47ac138aef40171bbe29deb9a5a8f5b75fa5eb75041b4b",
+      "text": "Get the skill",
+      "hash": "d4cb25de8877aa696ed01e903573c5dae3629f4650b128e51872a4e4b80f4ed2"
+    },
+    {
+      "id": "0d88b0db2bf0b478faa8b569327fe7b40590b5ba065840bec81d18572351e1d3",
+      "text": "Your codebase is probably not ready for AI. Instead of deep modules, you've got a web of interconnected shallow modules:",
+      "hash": "c8e28a659545b69356d6745d32350c2306d0dc33afe2f2e88c244e6ea5b292e1"
+    },
+    {
+      "id": "3f49bba3a7980dfde4cf97a82615a362256c6a39730ef0889b865655c93cd581",
+      "text": "These are hard to navigate, hard to test, and hard to keep in your head.",
+      "hash": "8491003bbdf64f8c761950aabfaa7729e2428aa52e3bc4370acc5ca05be377b0"
+    },
+    {
+      "id": "29ed3afd3be901418184fdfb22eb47a0858d97de81536b511d9ed577c80318d3",
+      "text": "The fix is deep modules with clear interfaces and strong tests. Think about module boundaries from your PRDs through to your implementation issues. Tests and feedback loops are essential — they're how your AI new starters know if their changes work.",
+      "hash": "4c5b3e2f2edcd3f2afc1a24e58af49f3351759ddc50d4a99e192bf7f91ac1cb1"
+    },
+    {
+      "id": "787ae0e5c28904253c0bb7669c5cb85d1c6f56032e3f5134da8a5acd0c1ee6e4",
+      "text": "Some languages make this easier than others. In TypeScript, it's not easy to enforce these boundaries — I've been using Effect more and more because it makes modularizing your codebase simple.",
+      "hash": "161f6f5b09437319457736edbc346fbb4df3cba7b4e4725d309685b96cf1e205"
+    },
+    {
+      "id": "066fd372199e61b94e6d7645d053fd00006c74efa0f6f8e3d9667d5fcebe4df4",
+      "text": "Share on X",
+      "hash": "78d21bbf6b047944ec42890d28e151c61dbab35213fc65cc7be70c0c19c24407"
+    },
+    {
+      "id": "73138ee94ebffcc6adcf857c929c17c3577cc7b725d30f6f0bcfbe2ceeb4745f",
+      "text": "Share on Bluesky",
+      "hash": "08863b88a05c60410c38c4caec5bc72535b0f01793ce6cee9171b6358b2c11da"
+    },
+    {
+      "id": "58b18d0b2e1a4bf4fa5760f8d8369bb193f375f8767662aee59c62126935fc8f",
+      "text": "Share on LinkedIn",
+      "hash": "ab87c050148bd1d372e3ec3483a606127a7a1faec0f1ca5543bc3465d84fe6c9"
+    },
+    {
+      "id": "4b2fae8770294cd973a2bc98d61dfb3491a2c04eec78f8c236e3fde15715d050",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "457d5133d14634b21ea9f2406369d5ab33dac68d2f1494c265d80a1f36210963",
+      "text": "Video",
+      "hash": "d534be829e32196b4d1e53b67103cf1e376b1d60071857572598c196abfefbc6"
+    },
+    {
+      "id": "a2304e11024111934a91f9a069c5cd69f07bac7453c6eee339d065c756d94046",
+      "text": "5 Agent Skills I Use Every Day",
+      "hash": "38b66930101519be8a7c752af1c16d848965c721f011fe95722590edf29f9481"
+    },
+    {
+      "id": "8c526267f8d92126599ef714ebeebd0b36a90d87ab60c55a09fa251c77053c9a",
+      "text": "List · 1 min read",
+      "hash": "02e6a81c0d54e6b3344643bef8643fe11e1aa2a9324d7f74f42fd66e8014d952"
+    },
+    {
+      "id": "75d4b5f3f37fe825c3a5074be145f3b12cb172f2d19c6809602f8cb4eafd2e06",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "831ea7af0232caae39b212918aac081109255d67f701947966a3fb590d57d3ea",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "0a0900a6573e2c18e0b02402e26e74da40fb81d1972b4656f7bd923b275e7458",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "487d1926c1f05eed43c9a48dd745ff4f7e2de8d836e53179d8697ef70133fc48",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "0462197b2c819b634801effa26c0ebfbf3d1b9e80730af96bc232b82154aa92a",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "7dd9eb7e0fb5cfe80138ef87f9c3b607caecbf353371d602874166462e218124",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "d7f17b5690ca6e8a809e350e00ad17c6a81ec0958f61385f291fb978b0521a4f",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "ee784d133f5801f4b1b7c6d0cb6104e0189f375c78a87159a594bcaa979004d6",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "156133214719b7caee6191d39a9c731c9915c37af7a205893fd09978cd23fb14",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "44f825eb6384b3aa9c899f7540ece63ffbd2c3dd6f83dbc9fe0aaed433ff87ba",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "638eeea68972cf30050e6ee34e4110fcdb7d70f89ad48350e6c2bca24b1a7b5d",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "c2b3435eea5d1f1ab98964a2d35a61dc359860680e8f72329647c3a50eec56d3",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "e4fd2f38e0f3f8539e7c0c481cc19960be2f3fb382927d92cfdfa2e5232ed918",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "e5b57141c63e19581de19500f004ccc92d67304ad4414f50aaa1fdd0a9c5ab7d",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "ff249d76840e811607180b94141b615aadb8c878dda3e1d1b20df27ebadd8d94",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "2ece649017af0fc3ce97d67d141cdc8fc8b404ea1f698d0b75cbbf49b5f87c20",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "66a0d1e8f1723953f6081539c3f99b274a4b5882448c11c252cc827f18c78a20",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "52620a28b4af868236f67e51af0d404eede3a0fddb0f97dbb2b6f46583d79263",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"1vjyutyf6z62xf\"",
+  "lastModified": null
+}

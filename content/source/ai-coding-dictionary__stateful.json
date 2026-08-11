@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.aihero.dev/ai-coding-dictionary/stateful",
+  "pathname": "/ai-coding-dictionary/stateful",
+  "fetchedAt": "2026-08-11T06:28:32.160Z",
+  "title": "Stateful | AI Coding Dictionary",
+  "contentHash": "7cb4e3885c4a22bad975e0bd6197e4c3b14fc07a19ed3e1063b5e00d500cbb32",
+  "textHash": "39b01f32af60eb1bcac9cc92527d83841a733bca06af2f9e1f73e8572340702a",
+  "strings": [
+    {
+      "id": "3eb2b8d2639180b8959051469e6a65b76699c896a7ba6dd152cb877b0b01b2c2",
+      "text": "AI",
+      "hash": "11fb682be0a0233d5fb899721ecfc1827d20f0d2ff2e093310efa61efca8af1c"
+    },
+    {
+      "id": "58a42593bc549f4dd14f83e42adc1f61c42a075b7ef0296e23c5fc92f9fc665c",
+      "text": "Hero",
+      "hash": "72a9345fb29494a4e9667d7bd68f37e8fe1df384270553f17b4c4a06b1f2b5e0"
+    },
+    {
+      "id": "bddd8c4163bc8a98884f1d879d941cbaf173264ac457f8a7c5901653cacbcf51",
+      "text": "Courses",
+      "hash": "aaad9d92e6b47727da806339397a8c7082a5c3dda2728dc7db2b7ff93d039369"
+    },
+    {
+      "id": "d40ad67dc336b9b1edd3060a94da8951d9e611b99c184cfbf6ff9f191f2e72bf",
+      "text": "Search",
+      "hash": "49c266baaaa70981ea188fa714d5c40cf13830d786a861c9943ae0d26a7f3fe9"
+    },
+    {
+      "id": "de238f25396a4bdb077615a17734dbbf9395c0abc70bb4240ad49ea634665070",
+      "text": "Newsletter",
+      "hash": "f84ca2e7716bec9404f8a2806a17f3eda404f5cf33a4228f226b25a602c2e2e4"
+    },
+    {
+      "id": "83362c6b39bd2703eb3ef7741953cbfe402d0d58a3c983a8e3d48a91494a02c4",
+      "text": "Explore",
+      "hash": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905"
+    },
+    {
+      "id": "6c67cc481452ae27854a08e6a418fb8652ba95d4c2510087405bbcf661dc0224",
+      "text": "Map",
+      "hash": "be176b0015c424b78e9f343f8bc3014a7a701cc2eb9000b6acbc04d67dbecb8f"
+    },
+    {
+      "id": "443a281c7c36e886264063bd76ab6a9ff4110aa2c10acc7b472995d2cd50729f",
+      "text": "Skills",
+      "hash": "66d0f523a379b2de6f8d5fba3a817ebc395f7bcaa54cc132ca9dfa665d1e9378"
+    },
+    {
+      "id": "7a518cde679dc8209958953f4b51caaca4d96b2d5098fd0a6dc7d845872641af",
+      "text": "Open source",
+      "hash": "67a0d2e0dab41fca184a37454ca4e946011756ec7b74eede7810d7df89904a18"
+    },
+    {
+      "id": "df76d59494f55969a248a7b178c6fcbb00f1d3f46f75a105d61f93d3e3531044",
+      "text": "Guides",
+      "hash": "572cd72feb9a84e0c639af3ccae73f3a4406f69fe193eac69ab0678eee32baff"
+    },
+    {
+      "id": "d37d81a5b0b8b3f0caa230dbc5c2845459a1a32dcb92161ac7119d4bc1b09eca",
+      "text": "LLM Fundamentals",
+      "hash": "a27078bfc6b5fd60b2c2ea51e3db5de7f1f14bf68278506ea5f18e4af3301a43"
+    },
+    {
+      "id": "b3813fa3d98029b9899f50f875faf47385b7e7590c2224511e08c5b1391b6552",
+      "text": "AI Engineer Roadmap",
+      "hash": "29a768799acab15b5a0ee28f241b6e057d0b5ff706c70c3edf7f24676f3d77a8"
+    },
+    {
+      "id": "84cac8b5c8cf752434ae33a21fff394105ff55daafa87b38ee1ad75da5f21876",
+      "text": "AI Coding Dictionary",
+      "hash": "4def77f9388809f53620144510fcc4b6f08662617bcc06a15abc618242e6544c"
+    },
+    {
+      "id": "c9b2be2f5569ef0613d104e63cb3ff34cc91624980ca1cee31d4f9b792e6e2c9",
+      "text": "Topics",
+      "hash": "e22820fcf5cd90e3fdd99a7569e0ee2f30eb7ebadfb2fe4d159b30c166ff81b7"
+    },
+    {
+      "id": "5e4e86e208fa81d10091d00dbf0ff6e6f2a81cfce2b62d92e4c269eb4b686316",
+      "text": "Sessions, Context Windows & Turns",
+      "hash": "6ba86329848f193a00922dde232ac1e483d8805be061a48f5580560ee54d0b69"
+    },
+    {
+      "id": "435670850110375066ea3bf2d3efe872919e4b154493aaa34eeb93aa47537330",
+      "text": "Stateful",
+      "hash": "e4ab48dc9497302d0218524068003e9b3283aaf668d2c8fba98bc0b1c5495541"
+    },
+    {
+      "id": "d458d6d4318b9192169d053fbe2dfd05ff7a5093aecd7bb51acfcffb96392781",
+      "text": "Carries information forward. Sessions are stateful across turns; agents can be made stateful across sessions via a memory system.",
+      "hash": "8d4f48ee77a4260af9e822cb68dfc53a261babff77ec4ae76296856ce5b1d749"
+    },
+    {
+      "id": "fdd38d771696f592578ee462a497e24932c87a053aeab569b9201f5d4c2b058e",
+      "text": "Matt Pocock",
+      "hash": "2fe2c13509fbd45ec2578a74ef8efda313caad4f19533a102ca7d666ed60881d"
+    },
+    {
+      "id": "62af0d9b2c5d05aae712d854f67e787638fc549f0c0c8ee91010f693ea2788d1",
+      "text": "Copy page",
+      "hash": "4104018941ae3ab016c117887a91b4f933f28e36c587b8983373fe9377ce34d7"
+    },
+    {
+      "id": "acce4fb5b65993d13a25f4fa3ba08a93363dcad474a5ea4858f5404929179e55",
+      "text": "Carries information forward. A",
+      "hash": "a7714708bec9ed73647a7716160cb7bb4ea8d2dba5e802e17616f51d95f3c0ab"
+    },
+    {
+      "id": "b042c18f56a7c2499670a1efbef7558df7fd683ef9be0239598cc1f15abdb38d",
+      "text": "is stateful across",
+      "hash": "8965f08ae2283f65c0f2eee51d6fe959ec25054c0eb96fd5a9a9059fc2484e28"
+    },
+    {
+      "id": "847a545f586c223d0ccf66e19ca986ed30244a54274d64ab53d4451971d658a3",
+      "text": "accumulates as the session runs, which is why long sessions drift into the",
+      "hash": "66540796aebbaf064a0619af2d4f61c1fcfe4ef077bf952ee2b1fe402cbfceb1"
+    },
+    {
+      "id": "a20cc0891aba96eb7bae20a764db53116db2ec3725bb27e4648da7bcfb8c561a",
+      "text": "dumb zone",
+      "hash": "d1f4ef2612da4453aa6dc92c0023b63f3efd20345f0715a9e437d9a08a5dbb8d"
+    },
+    {
+      "id": "db5ff1f083d082050f9f1ba5340b32558c5ae7ae7446aa49815c156ec45ba51c",
+      "text": ". An",
+      "hash": "de1a7ca7cf11c14d2a403711b497329cd8275889d9ae6ddf63da593e8024afb5"
+    },
+    {
+      "id": "e3224c43b64c2a8915a4feae8a015460eb24d5d62cea2f10868f69b008b5027d",
+      "text": "can be made stateful across",
+      "hash": "e794dfd7d9936b7118b2b099271f6dbef4be1b9232d1b53de32e3cc40591ba71"
+    },
+    {
+      "id": "d13f2ce83d43e3e17914c00e87a024a8ec1e275dd1a7b0c6b687f6f22abd6862",
+      "text": "by adding a",
+      "hash": "0762146a140da77b4b742ad5c3431eb72c52eab0b96e4909504bb20d10f36333"
+    },
+    {
+      "id": "81841ecd43396c6a5735a9acaf58883a63769144e365b5fa2addf368e4027a9e",
+      "text": "memory system",
+      "hash": "e89086a24d844403482b5bbecd8bfa90d974a15a37aba1fb8ca8206a143f75f2"
+    },
+    {
+      "id": "24be3610a75e80f40ff2dc3b7a3149e796f21962b6fdeb920767c867ca121967",
+      "text": "that persists information into the",
+      "hash": "288ab8164bb87b9433ed5bb49021e3eb11f0da7260bd89c514c76dd29d5082a6"
+    },
+    {
+      "id": "a201bde33ea64389061fc53f7c3c9efe243029fca61f46152cae6371628ecb8b",
+      "text": "and reloads it at the start of future sessions. The",
+      "hash": "cbd0a19e09fd4deb714894f3dab25915141aba4023c0c10f1618c507005107af"
+    },
+    {
+      "id": "3e399a866d1298fa60d45416c2b6e78cbaf523077e30174dfada1c6e90eee7b2",
+      "text": "is never stateful; any apparent continuity is the",
+      "hash": "c0c043c21b1db8908f552d2f3d1f110bd60cc3a0f31c714b409462955e1cba33"
+    },
+    {
+      "id": "f609902f673580c4230cbea35e24543561dc4b4c066e694b1ce647393e5af079",
+      "text": "re-feeding context. Counterpart to",
+      "hash": "ea149834626e834846633f061fc91a1470394386d42708a20733076c8e9adfa6"
+    },
+    {
+      "id": "f3d476e62082e2505d6034ce830fa63e96c724bd219f06ea1383032e558300af",
+      "text": "Where state lives at each layer:",
+      "hash": "fcff824ab92fb297f95c6d95561b92efb49e6da458dd9fa519d2ac5b65468872"
+    },
+    {
+      "id": "0cd0a813e0bbf1fc4a71c18c628cecabbad606d1f3e491fdd5ab638e56b71443",
+      "text": "Layer",
+      "hash": "ac9ffcb2bf47f9992ebd972f147f2264a054f4ff2d8e7219dba1e85be68b86ef"
+    },
+    {
+      "id": "b170b1facd0b9d5910eb74e3d69a596827869992a75e9b4c1c85ea689ecf6032",
+      "text": "Stateful?",
+      "hash": "454617f2cf6789c42ded76ae844e77008dd022ac456ffc7ef6d32d9243597195"
+    },
+    {
+      "id": "de65a003b480ab68bf343ef43a7ae3a74af1d13b7ea89010198a31d840fce08a",
+      "text": "How",
+      "hash": "7470bd3bc2abfe497af32ee4ccf845cb2aba14878d55c970d38d99629ab5d6a3"
+    },
+    {
+      "id": "6d5fe8f4170b3236b4c338b1763295a0a2a70c48d8a7c63575ebda967beb4e0d",
+      "text": "Model",
+      "hash": "5e2c614c23f02239bc03c6c04fcb681950f9e72bf8fdff6be79c79841cbb10c0"
+    },
+    {
+      "id": "8fa38974be16dd74bc618f3ac452890db644ffc6d8ddf4bb2aa2161fb26c3d75",
+      "text": "Never",
+      "hash": "6300ef800bb884295b0b4b35682b75cecd7cc550d202db56d04a0643b8fb873f"
+    },
+    {
+      "id": "09cb0b9f9aa7b3fca7e5184974b34fb4c032da22d019d37eef7493190121789b",
+      "text": "Parameters",
+      "hash": "e68b36b17cbd990802f57741cb75cf3a73fa66a61999b0cd70e3cf7d26cfb25f"
+    },
+    {
+      "id": "963aab3104119ed1e06f0ae1addfed631e7123783150677d1ae4f645043cbb3a",
+      "text": "are frozen; it sees only what's in each request",
+      "hash": "0cc17c7a79f285da6cbe027d2048cb014a55e15aa775c3f6cf7228c7fec21de5"
+    },
+    {
+      "id": "47c8f8cf6581472a2d5e1578beb5b61b40686a1ee838d3cbfc97ac80da337faa",
+      "text": "Session",
+      "hash": "6959b4159575d8dd76d9f3bbe2c6437904f861e7860c35abd18deffb1c3425a0"
+    },
+    {
+      "id": "0e745516973c66636976e9ca17e382e6230452aaf242ea9eb289a4b59921e657",
+      "text": "Across turns",
+      "hash": "e387e8c31cab1f0099178f0ab10536eb40a84dd28a118f453f627d8f119108af"
+    },
+    {
+      "id": "15e46220d5cb44a7ced83b5aadb1cc36464ed113839d3b8a3b990ed0bf7b10fe",
+      "text": "The harness appends every message and",
+      "hash": "cefc09392c242d8802f71a4983569d9ff0b2719db2a9e0bf1c95ac76b527b978"
+    },
+    {
+      "id": "b3dc5d7ff24832220aa795d4a3146d985ae7b2ef3f6960b28ffc1c507fcb5b9c",
+      "text": "tool result",
+      "hash": "496514e28de40f2624fbc4fb01c89afaba32fde82d1e1d6c19ab43d702f7a230"
+    },
+    {
+      "id": "8292978e6d0cb8ebad7a7b405d1831ce021632563464cb347cf88a450feba312",
+      "text": "to the context",
+      "hash": "4c2c4cfd5b38f795ed6e2aff410d8d760baba11cd1f5ec999b3ad77925c856d2"
+    },
+    {
+      "id": "7b2f8ab7c50af87bd1fe711b71842383d5d29bb5d4c307e6e474eb5776159e3c",
+      "text": "Harness",
+      "hash": "e3b5b45953d79a150092df37922ee6261a81040f5fb3c084fa00efffe8b98589"
+    },
+    {
+      "id": "9e4f6656a6a316e8ae9226b202546bdc7c500c96cfa254dba059991872dd059d",
+      "text": "Across sessions",
+      "hash": "87a829a036b504fac3d7344165b9c66a9f021867d73114d03b8b8077904dfbda"
+    },
+    {
+      "id": "cdc9d2ba27e637d368d81490a037d4aad08d50501e07570dec3ae6a78fcf8e4e",
+      "text": "Memory files,",
+      "hash": "52deedf52255b4d33337c3a987b26df6cf7cf5a881c61892fad7cd085675c042"
+    },
+    {
+      "id": "86768e89c2d30ef951cfa2b2d797104e7d389a3ec5d077bfca13ba9e66dc8dcb",
+      "text": "handoff artifacts",
+      "hash": "78a3516549d7b8e8a934563d52ab8e83d5f2048f1c372864042ed720577ba58b"
+    },
+    {
+      "id": "21c3acfe7692d7a6a0d9651333ca5322dc38f55f82a49bc65a94f471f3769080",
+      "text": "— written down, reloaded later",
+      "hash": "0ccf70d7742519db79f23a02ee14bd563a5805cf49d2751dc2ab66263e8cb6d0"
+    },
+    {
+      "id": "bb912519e2404fc71b0935480436ef9e5a584b3e1002fdb2c3081e681df86020",
+      "text": "Environment",
+      "hash": "9e471951a1b4106e54be128a21112b02914fe98cc79b2c92b49ee80c5464487c"
+    },
+    {
+      "id": "bf6c3b569131bd924fb45bcab1916e09f5f92af98a0ff9f560986e12c928f58d",
+      "text": "Always",
+      "hash": "de9f057a471cdb8d3b082719bdc7ad2031788d042947349723fa83c9d13a517a"
+    },
+    {
+      "id": "233e93479a9a7cb4d3d81735d79081d31b408e7707314a1756cf93c0038e8124",
+      "text": "Files persist whether or not any session is running",
+      "hash": "3ed31c2e232f6b36e10cde1d7c42a2a9fb0589410b12e4ef2f9b10a95fa17b32"
+    },
+    {
+      "id": "be689d417d7ebcfee72108c0082549bfab9e3443e2711d5db6c2054049d73084",
+      "text": "View Table",
+      "hash": "aa0a0f6baf57a603925533ee10fab7f6bb4e7002e7d8df106b2bc671e1d72567"
+    },
+    {
+      "id": "3e63d306b2ddc254d4d41c75e61bbde8368399f5b7cca6736e722228d6a1f182",
+      "text": "Each layer's statefulness is built by re-reading something stored a layer below: the session feels continuous because the harness re-sends the message history to the stateless model, and the agent remembers across sessions because the harness re-loads files from the environment. No state is ever stored in the model itself.",
+      "hash": "6eb5640be6d8c43f87c1352e5b794e266096da37e69c59cfc476e6dc3bd7f175"
+    },
+    {
+      "id": "6c5141441b9b61290aaae43d5c351eb1e5eb0c18bbb041a9d9140802bde5550c",
+      "text": "State isn't always wanted. Everything carried forward influences what comes next, so a wrong assumption made early in a session is carried forward too.",
+      "hash": "2a0a0a7d328c4cc55a71eb5de47d54229723937009ee956e5be6588e4f7b4c70"
+    },
+    {
+      "id": "46f7f325254ba83ef78cb46b2d63f5873c11e7129a9907a03c0f4bd314c0ea5a",
+      "text": "Clearing",
+      "hash": "06648760a765043c7be785f4e63ebea0fd0dcd056d36d53d153208749e757840"
+    },
+    {
+      "id": "db187a019ef4891ea0549d3a1381ec7aac2c4b62bd63385242361b77a435d6ac",
+      "text": "is the deliberate act of throwing session state away and starting from what's written down.",
+      "hash": "4c3093920fef2968aec8e9bce78f427be6d77629d038f41797749e5187412fc2"
+    },
+    {
+      "id": "e2cc86846364c1e5fd3b65d47bddf86fc9ab88ea090fc1b9cb2d569f7c7efc5a",
+      "text": "Usage:",
+      "hash": "2bad3eeaf33caffe3bc9b482b4934ed19eb4ec3614c12373e1a5c5f8948217da"
+    },
+    {
+      "id": "87a2fcd334575af050e1fb1db3f3cda4472865f0ae2db50d9797198a030f83be",
+      "text": "\"It remembered my preferences from yesterday — does that mean the model learned them?\"",
+      "hash": "5c95c2291a0ac6973346e4d138d4fb47a09eac8212fbe7c27b202cfe48d86867"
+    },
+    {
+      "id": "a47b3e92d5fb30ced2cb22132315b3d0fd7d278447385efde7bd7b321946ceac",
+      "text": "\"No, the agent's stateful because the harness wrote them to a memory file and reloaded them at session start. The model itself saw nothing of yesterday.\"",
+      "hash": "2d510c4082a7c4327ac02288d0ac6c70ae78c2af269800fb35044630b694a575"
+    },
+    {
+      "id": "71df0c9002f27a75527ca47412e55c449c01f05691ba6ebba71746d5073b4493",
+      "text": "Previous term",
+      "hash": "735604aff9e8f2192b83df4905cfc8e395613e0ce05f8ca85a1d2d1d44fd59f3"
+    },
+    {
+      "id": "472edf62c0f9430b19b0d28acf43fa854683dbe1da4e421b8f0f4e7812fa8e1a",
+      "text": "Context window",
+      "hash": "7696d0855331622dc12438057f5509348f9d6f0ec2eb3580e18a99d31eba86db"
+    },
+    {
+      "id": "86a23445793c5770480c6c3226dd68cdc625f568ce5f18cee4aea62b91dab13a",
+      "text": "Next term",
+      "hash": "5219c7ebdc0e098aa6db6f09e405c1b17ab75f1082862906a872e10a16818f9e"
+    },
+    {
+      "id": "27625aa137ac2f8f76f67b11bf49de31d9980020d2ec1132983acd6a2a273548",
+      "text": "Agent",
+      "hash": "11b39c93777e8f1f3983bdba7c72b22fe68cfea20c677e9de53e17cb7dbfb19f"
+    },
+    {
+      "id": "93a69178e4841cae866f4324e1c34fdcbebfedba6fba00334a64157452523ca6",
+      "text": "Want more than vocabulary?",
+      "hash": "5d5500a083006a1606e84a03c018904d01364631c6baea4c7a3f8f3f62bf94dc"
+    },
+    {
+      "id": "f09c776fcdf0eb12dbc7a098d9dc907e32eaf1f73d60142a75ce1fc5e0d8e647",
+      "text": "Join AI Hero for practical skills, thinking on AI engineering, and resources that keep you ahead of the curve.",
+      "hash": "a082f7147e30da6afe92268d5668a530edfff13e64934f8f63f22c098db86133"
+    },
+    {
+      "id": "0156a3e7bf7c50c53651a572034cbe5a48e7620ff0a5b40471db9cb554e3d13e",
+      "text": "First Name",
+      "hash": "96ce6e6193a047260f5c32aa416d88b6e8959111f43f98457af9cc009a0907ad"
+    },
+    {
+      "id": "8fedc9c954eab3584fe59e65f891d7bf1345c59325c0988d0e78a4afbd416dbc",
+      "text": "Email*",
+      "hash": "61dff02026341a6e553a56fc2ba214a76ad68c18cc67bf732993cfdbd51bb8b4"
+    },
+    {
+      "id": "1b85bdd39cad5d0bffcd80e59b134b366dbf199b062174861efe814b8b0514d1",
+      "text": "Get AI Hero updates",
+      "hash": "81b46eab414c141d6dcd85a5bd534179bf54a3532469436d693c437e9de3a90a"
+    },
+    {
+      "id": "8396383ea8081c18837f525852cce92be5cbe4d136ab2089f273234cd969c61f",
+      "text": "No spam. Unsubscribe anytime.",
+      "hash": "461f8758206b36fd4ddfaf6740b33dc0de41c9c7acb9121525993b781d5e18bb"
+    },
+    {
+      "id": "9fb636417000e64b953f067d72d7c1b878ceaba2dd03ab650fb3be34e907abd8",
+      "text": "Share",
+      "hash": "29887a5ff9846ccc23327565a07e17fa6dcaea6211f1898ae825f84ae38f4223"
+    },
+    {
+      "id": "8dbff1c87b1e49885077fb25759e895a4241b3b4522de14064393d3ca21031e0",
+      "text": "Copy URL",
+      "hash": "b26d1037f1c2da31a0296d915982f12049f91bfedb998b105ce967b73a796699"
+    },
+    {
+      "id": "8953d2539bdc329623b49a4cfe58ea93f74381d4a0e277e83fa83b1c4a2fbd67",
+      "text": "Learn",
+      "hash": "ce78afd0e6a225ecac96a6812b9d192e7eb35889cd5237beb38b50375b79d8dd"
+    },
+    {
+      "id": "1b5f2332c5ce76eae2bec9b7c65671420b3e12c2ecdb1da381b243640ed513a2",
+      "text": "AI SDK v6 Crash Course",
+      "hash": "71139c58dab0fc6fcc2f49d2d44fd5b7c9e9e6e7fbf043ec2f4b51758b1b82b1"
+    },
+    {
+      "id": "e84c0e8a243eb269db6355ae7295665bc85fefa428c7fcf263ca95e796ca868c",
+      "text": "The AI Engineer Roadmap",
+      "hash": "0ecca41f97662f50fc4210f00b4d05ed73257d862ecbd642b906cd7da42d4092"
+    },
+    {
+      "id": "5c4109c894190b6c26a9e2dc936021590358e2d19bb7837a464eb03c02991d91",
+      "text": "Vercel AI SDK Tutorial",
+      "hash": "2f2904108d573c969e5838280a3b2a087d103fdf0b462b1707035a6d6da2d62c"
+    },
+    {
+      "id": "d36d9412674bcab2b8c8f77f7a62e299eec5a1a1f01984001b4152a2595aee89",
+      "text": "Model Context Protocol Tutorial",
+      "hash": "d52bb57113ca725e4597402d041c46eaea7dad7dd40c1f6c374b03c1576d396e"
+    },
+    {
+      "id": "8260fc6805d50758c723d32b1b553d151297fe86c5e9d7574771dac348ddbd69",
+      "text": "Cohorts",
+      "hash": "e777d5967e8cd7d5430cf77dddcd2c67e54c6cdd955e18f1b7923733d09bff49"
+    },
+    {
+      "id": "65d899c35753b30b2dd935a1762cc99d45fadf5d4c7265dcd98126154bf6758d",
+      "text": "AI Coding for Real Engineers",
+      "hash": "bfb5e9a9585215411729c3299f3518ae3dc543e956c197946e16be2ec2bc1d1e"
+    },
+    {
+      "id": "f892bc96658e496ab4dc933466718b146487940b86ee53710b8025e18681de56",
+      "text": "Claude Code for Real Engineers",
+      "hash": "59eec6167918e4c0e6366b8f3d0868062549c48e6d6bdd86adadd914c8c1ad68"
+    },
+    {
+      "id": "d39fb6c05bf05989f402cf2045e2681851855077fbd836abc3e4025dcfc0102d",
+      "text": "Build Your Own AI Personal Assistant in TypeScript",
+      "hash": "5aca82e94daa74ec501f9963836da2302d6fb7159ce750f5b7e04b4b687eecb5"
+    },
+    {
+      "id": "53a51e5620f3b69e5cd6c156ff544a3ca721410a7cfde2834829735b048f0210",
+      "text": "Build DeepSearch in TypeScript",
+      "hash": "c1d48b4886378d03358aa1892819b94a4a4257f7de1cda68af98bde23d9a2b41"
+    },
+    {
+      "id": "fcd23a47acd5c34be00b32ab2fe3a439945bce9c8b213137a6fca41f6addbb90",
+      "text": "Account",
+      "hash": "7e1b0d5641f2640ce9a953ec231eea2c27a2a7633f7d3c273e5735e2b30c10b7"
+    },
+    {
+      "id": "7230e014eda4daba658ed03d571157a99895109ef06b7a90abdaa14a347d4e31",
+      "text": "Agents",
+      "hash": "279b44d2ab4b40c0fc132f8f3051293544cca91de9c8aa14f2cd29adb132b0ee"
+    },
+    {
+      "id": "431efbb124e7d356f86fc83a7096d16eb3b474fc18177f8731ec0f705010e009",
+      "text": "Browse All",
+      "hash": "4f1019a7e3caa8a381b6fe9ccb48a0fa082b1da494923af3019d97140a0c1223"
+    },
+    {
+      "id": "76674b9827b6de0cc2abc86df0e85d98d8303065d78eba936a8901e6c2f0028e",
+      "text": "Free course",
+      "hash": "ac28e95e419578f769cc35c2f447e9a4c62bf704403890aa5b7e9ecff82e377f"
+    },
+    {
+      "id": "8d24f85e9ee636dcc4f7066c8fa1cfe12346c8f4eb9af2a550cffad0d7e81f58",
+      "text": "Dictionary",
+      "hash": "f12e2c9be9b1c548380f71dc2878225386d7c11f306123cfeb9f9fa9cb9d1edd"
+    },
+    {
+      "id": "cf17249c73f545e6591cb04e0a0f5f3f8e4003c38dd463a68d427d6bb53bffec",
+      "text": "FAQ",
+      "hash": "dbc468a14b601d5d9240aeb72b9fcd2f8aed2f4e30932876edf8d16ec313846b"
+    },
+    {
+      "id": "e97489124e0e85eb03041da9f427ccfd18cae0e1ecd637822a28b788d1c2b7ba",
+      "text": "Terms",
+      "hash": "ede5489964834a514b61c7a4a8370be2452dd4a7d807180f14991ccc11ad2430"
+    },
+    {
+      "id": "6f2b1a0114d468f24b26aa62030703b74af29914ec5640d3393e7b2e3ff4727f",
+      "text": "Theme",
+      "hash": "efb52e7172b77731d996ff4f51cd7b3dcfd55fc6f07392994619418d58d170dd"
+    }
+  ],
+  "etag": "W/\"9kuj1ierc04y23\"",
+  "lastModified": null
+}
